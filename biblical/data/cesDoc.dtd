@@ -1,0 +1,785 @@
+<!--                                                          -->
+<!--                   ENTITY DECLARATIONS                    -->
+<!--                                                          -->
+
+<!--                  Global attributes                       -->
+
+<!ENTITY % a.global '
+           id                 ID                  #IMPLIED
+           n                  CDATA               #IMPLIED
+           lang               CDATA               #IMPLIED'     > <!-- originally, this was an IDREF -->
+
+<!ENTITY % a.declarable '
+           Default            (y | n)          "n"'               >
+
+
+
+<!ENTITY % a.text '%a.global;
+           rend               CDATA               #IMPLIED
+           wsd                CDATA               #IMPLIED'     >
+
+<!--      Elements that can appear between paragraphs         -->
+
+<!ENTITY % m.inter ' bibl | quote | list |
+                    poem | note | caption | figure | table '    >
+
+
+<!--                Sub-paragraph elements                    -->
+
+<!ENTITY % x.token  ''                                          >
+
+<!ENTITY % m.token  '%x.token; abbr | date | num |
+                     measure | name | term | time |'            >
+
+<!ENTITY % m.phrase '%m.token; corr | distinct | foreign |
+                     gap | hi | list | mentioned | ptr |
+                     q | ref | reg | s | title'                 >
+
+<!--              Content model declarations                  -->
+
+<!--ENTITY % base.seq   '(%x.token; CDATA | num | abbr)*'       -->
+
+<!--ENTITY % phrase.seq '(#PCDATA | %m.phrase;)*'                 -->
+
+<!--ENTITY % par.seq    '(p | sp | seg | %m.inter;)*'                   -->
+<!ENTITY % par.seq    '(p | sp | seg | %m.inter;)*'               >
+<!-- Resnik-extension: seg -->
+
+
+<!--                                                          -->
+<!--                  ELEMENT DECLARATIONS                    -->
+<!--                                                          -->
+
+
+<!--                  HIGH-LEVEL COMPONENTS                   -->
+
+
+<!ELEMENT cesCorpus      (cesHeader,(cesDoc+ | cesCorpus+)) >
+<!ATTLIST cesCorpus          %a.global;
+          type               CDATA               #IMPLIED 
+          version            CDATA               #REQUIRED  
+          TEIform            CDATA               'teiCorpus.2'  >
+
+
+<!ELEMENT cesDoc           (cesHeader, text)                  >
+<!ATTLIST cesDoc             %a.global;
+          type               CDATA               'text'
+          version            CDATA               #REQUIRED
+          TEIform            CDATA               'TEI.2'        >
+
+
+<!--                     WRITTEN TEXTS                        -->
+
+<!ELEMENT text               (body | group)                     >
+<!ATTLIST text               %a.global;
+          complete           (y |n )             'y'
+          decls              IDREFS              #IMPLIED       >
+
+
+<!ELEMENT body               (%par.seq;, div*)                  >
+<!ATTLIST body               %a.text;
+          decls              IDREFS              #IMPLIED       >
+
+
+<!ELEMENT group              (%par.seq;, body+)                 >
+<!ATTLIST group              %a.text;
+          decls              IDREFS              #IMPLIED       >
+
+
+<!ELEMENT div                ((opener | head | byline)*,
+                             (((p | sp | seg | %m.inter;)+, div*)
+                             | div+), (closer | byline)*  )     >
+<!ATTLIST div                %a.text;
+          complete           (y | n)             'y'
+          type               CDATA               #REQUIRED
+          decls              IDREFS              #IMPLIED       >
+
+
+<!--                     Opening elements                     -->
+
+<!--ELEMENT opener             ((#PCDATA | %m.phrase;)* | dateline | keywords)*                     -->
+<!ELEMENT opener             ANY                     >
+<!ATTLIST opener             %a.text;                           >
+
+<!ELEMENT head               (#PCDATA | %m.phrase;)*                       >
+<!ATTLIST head               %a.text;
+          type               CDATA               #IMPLIED       >
+
+<!--             Keyword lists, bylines, datelines            -->
+
+<!ELEMENT keywords           (term+ | list)                     >
+<!ATTLIST keywords           %a.text;
+          scheme             IDREF               #IMPLIED       >
+
+
+<!ELEMENT byline             (#PCDATA | %m.phrase; | docAuthor)*        >
+<!ATTLIST byline             %a.text;                           >
+
+<!ELEMENT docAuthor          %x.token; (#PCDATA | num | abbr)*                       >
+<!ATTLIST docAuthor          %a.text;                           >
+
+<!ELEMENT dateline           %x.token; (#PCDATA | date | time | name | address |
+                              num | abbr)*                       >
+<!ATTLIST dateline           %a.text;                           >
+
+<!ELEMENT address            %x.token; (#PCDATA | num | abbr)*                       >
+<!ATTLIST address            %a.text;                           >
+
+<!--                    Closing element                       -->
+
+<!ELEMENT closer             (#PCDATA | dateline | keywords |
+                             %m.phrase;)*                     >
+<!ATTLIST closer             %a.text;                           >
+
+
+<!--      PARAGRAPH-LEVEL ELEMENTS  THE CLASS M.INTER         -->
+
+<!--                     Written paragraphs                   -->
+
+<!ELEMENT p                  (#PCDATA | %m.phrase;)*                     >
+
+<!ATTLIST p                  %a.text;                           >
+
+
+<!--                       Quotations                         -->
+
+<!ELEMENT quote              (#PCDATA | %m.phrase; | p | poem)*     >
+<!ATTLIST quote              %a.text;
+          next               IDREF               #IMPLIED
+          prev               IDREF               #IMPLIED
+          type               CDATA               #IMPLIED
+          broken             (yes | no)          'no'             >
+
+
+<!--                          Lists                           -->
+
+<!ELEMENT list               (head?, (item+ | (label, item)+))  >
+<!ATTLIST list               %a.text;                           >
+
+<!ELEMENT item               (#PCDATA | %m.phrase; | p)*               >
+<!ATTLIST item               %a.text;                           >
+
+<!ELEMENT label              (#PCDATA | %m.phrase;)*                       >
+<!ATTLIST label              %a.text;                           >
+
+
+<!--                       Annotations                        -->
+
+<!ELEMENT note               (#PCDATA | %m.phrase; | p)*              >
+<!ATTLIST note               %a.text;
+          place              (side | foot | end | unspec)
+                                                 'unspec'         >
+
+
+<!ELEMENT bibl               (#PCDATA | %m.phrase; | author)*           >
+<!ATTLIST bibl               %a.text;>
+<!--                             %a.declarable;                     -->
+
+<!ELEMENT author             %x.token; (#PCDATA | num | abbr)*                       >
+<!ATTLIST author             %a.text;                           >
+
+
+<!--                         Poems                            -->
+
+<!ELEMENT poem               (head?, (lg | l )+ )               >
+<!ATTLIST poem               %a.text;                           >
+
+<!ELEMENT lg                 (l | lg)+                          >
+<!ATTLIST lg                 %a.text;
+          type               CDATA               #IMPLIED
+          part               (y | n | u)         'u'              >
+
+<!ELEMENT l                  (#PCDATA | %m.phrase;)*                       >
+<!ATTLIST l                  %a.text;
+          part               (y | n | u)         'u'              >
+
+
+<!--                         Figures                          -->
+
+<!ELEMENT figure             (head?, p*, figDesc?, text?)       >
+<!ATTLIST figure             %a.text;
+          entity             ENTITY              #IMPLIED       >
+
+<!ELEMENT figDesc            (#PCDATA | %m.phrase;)*                       >
+<!ATTLIST figDesc            %a.text;                           >
+
+
+<!--                         Tables                           -->
+
+<!ELEMENT table              (head?, row+)                      >
+<!ATTLIST table              %a.text;
+          rows               CDATA              #IMPLIED
+          cols               CDATA              #IMPLIED       >
+
+<!ELEMENT row                (cell | table)+                    >
+<!ATTLIST row                %a.text;
+          role               CDATA               'data'           >
+
+<!ELEMENT cell               (#PCDATA | %m.phrase;)*                      >
+<!ATTLIST cell               %a.text;
+          role               CDATA               'data'
+          rows               CDATA              '1'
+          cols               CDATA              '1'              >
+
+
+<!--                         Captions                         -->
+
+<!ELEMENT caption            (#PCDATA | %m.phrase;)*                       >
+<!ATTLIST caption            %a.text;
+          type               ( byline | display |
+                             attached | unspec )    'unspec'      >             
+                           
+
+
+
+<!--      Transcriptions of dialogues, speeches, debates,     -->
+<!--               interviews, etc., and drama                -->
+
+<!--ELEMENT sp                 (speaker*,p+)             +(stage) -->
+<!ELEMENT sp                 (speaker*,p+)>
+<!ATTLIST sp                 %a.text;
+          who                 CDATA              #IMPLIED       >
+
+<!ELEMENT speaker            %x.token; (#PCDATA | num | abbr)*                       >
+<!ATTLIST speaker            %a.text;                           >
+
+<!ELEMENT stage              %x.token; (#PCDATA | num | abbr)*                       >
+<!ATTLIST stage              %a.text;
+          type               CDATA               #IMPLIED       >
+
+
+
+<!--      SENTENCES, QUOTED DIALOGUE WITHIN PARAGRAPHS        -->
+
+<!ELEMENT s                  (#PCDATA | %m.phrase;)*                     >
+<!ATTLIST s                  %a.text;
+          next               IDREF               #IMPLIED
+          prev               IDREF               #IMPLIED
+          type               CDATA               #IMPLIED
+          broken             (yes | no)          'no'             >
+
+
+<!ELEMENT q                  (#PCDATA | %m.phrase;)*                     >
+<!ATTLIST q                  %a.text;
+          next               IDREF               #IMPLIED
+          prev               IDREF               #IMPLIED
+          type               CDATA               #IMPLIED
+          direct             (y | n | unspecified)
+                                                 'unspecified'
+          who                CDATA               #IMPLIED
+          broken             (yes | no)          'no'             >
+
+
+
+<!--       PHRASE-LEVEL ELEMENTS  THE CLASS M.PHRASE          -->
+
+
+<!--                    Editorial Changes                     -->
+
+<!ELEMENT gap             EMPTY                              >
+<!ATTLIST gap                %a.text;
+          desc               CDATA               #IMPLIED
+          reason             CDATA               #IMPLIED
+          resp               CDATA               #IMPLIED
+          cert               CDATA               #IMPLIED       >
+
+<!ELEMENT reg                (#PCDATA | %m.phrase;)*                     >
+<!ATTLIST reg                %a.text;
+          orig               CDATA               #IMPLIED
+          resp               CDATA               #IMPLIED
+          cert               CDATA               #IMPLIED       >
+
+<!ELEMENT corr               (#PCDATA | %m.phrase;)*                     >
+<!ATTLIST corr               %a.text;
+          sic                CDATA               #IMPLIED
+          resp               CDATA               #IMPLIED
+          cert               CDATA               #IMPLIED       >
+
+
+<!--                     Highlighted text                     -->
+
+<!--ELEMENT hi                 (#PCDATA | %m.phrase;)*                -(hi) -->
+<!ELEMENT hi                 (#PCDATA | %m.phrase;)*                >
+<!ATTLIST hi                 %a.text;                           >
+
+
+
+<!--               Other Phrase-level Elements                -->
+
+<!ELEMENT date               %x.token; (#PCDATA | num | abbr)*                       >
+<!ATTLIST date               %a.text;
+          ISO8601            CDATA               #IMPLIED       >
+
+<!--ELEMENT foreign            (#PCDATA | %m.phrase;)*          -(foreign) -->
+<!ELEMENT foreign            (#PCDATA | %m.phrase;)*           >
+<!ATTLIST foreign            %a.text;                           >
+
+<!ELEMENT distinct           (#PCDATA | %m.phrase;)*         >
+<!ATTLIST distinct           %a.text;
+          type               CDATA               #IMPLIED       >
+
+<!ELEMENT mentioned          (#PCDATA | %m.phrase;)*       >
+<!ATTLIST mentioned           %a.text;                          >
+
+<!ELEMENT measure            %x.token; (#PCDATA | num | abbr)*                       >
+<!ATTLIST measure            %a.text;
+          type               (weight|length|count|area|volume|temperature|currency)  #IMPLIED
+          value              CDATA               #IMPLIED       >
+
+<!ELEMENT name               %x.token; (#PCDATA | num | abbr)*                       >
+<!ATTLIST name               %a.text;
+          type               CDATA               #IMPLIED       >
+
+<!ELEMENT term               %x.token; (#PCDATA | num | abbr)*                       >
+<!ATTLIST term               %a.text;
+          type               CDATA               #IMPLIED       >
+
+<!ELEMENT time               %x.token; (#PCDATA | num | abbr)*                       >
+<!ATTLIST time               %a.text;
+          ISO8601            CDATA               #IMPLIED
+          type               (am | pm | 24hour | descriptive)
+                                                 #IMPLIED       >
+
+<!ELEMENT title              (#PCDATA | %m.phrase;)*            >
+<!ATTLIST title              %a.text;
+          type               CDATA               #IMPLIED       >
+
+<!ELEMENT abbr               (#PCDATA)                          >
+<!ATTLIST abbr               %a.text;
+          expan              CDATA               #IMPLIED
+          resp               IDREF               #IMPLIED
+          cert               CDATA               #IMPLIED
+          type               CDATA               #IMPLIED       >
+
+<!ELEMENT num                (#PCDATA)                          >
+<!ATTLIST num                %a.text;
+          type               CDATA               #IMPLIED
+          value              CDATA               #IMPLIED       >
+
+
+
+
+
+
+<!--              SEGMENTATION, LINKING, ALIGNMENT            -->
+
+<!--                 Simple cross references                  -->
+
+<!ELEMENT ptr              EMPTY                              >
+<!ATTLIST ptr                %a.text;
+          corresp            IDREFS              #IMPLIED
+          next               IDREF               #IMPLIED
+          prev               IDREF               #IMPLIED
+          type               CDATA               #IMPLIED
+          resp               CDATA               #IMPLIED
+          crdate             CDATA               #IMPLIED
+          targType             CDATA              #IMPLIED
+          targOrder          (y | n | u)         'u'
+          evaluate           (all | one | none)  #IMPLIED
+          target             IDREFS              #REQUIRED      >
+
+<!ELEMENT ref                (#PCDATA | %m.phrase;)*                     >
+<!ATTLIST ref                %a.text;
+          corresp            IDREFS              #IMPLIED
+          next               IDREF               #IMPLIED
+          prev               IDREF               #IMPLIED
+          type               CDATA               #IMPLIED
+          resp               CDATA               #IMPLIED
+          crdate             CDATA               #IMPLIED
+          targType             CDATA              #IMPLIED
+          targOrder          (Y | N | U)         'U'
+          evaluate           (all | one | none)  #IMPLIED
+          target             IDREFS              #IMPLIED       >
+
+
+
+<!--                                                          -->
+<!--                                                          -->
+<!--                      THE CES HEADER                      -->
+<!--                                                          -->
+<!--        This is the entity ces.header used in the         -->
+<!--            Corpus Encoding Standard DTDs.                -->
+<!--                                                          -->
+<!--          It is referred to in those DTDs as              -->
+<!--         PUBLIC "-//CES//ENTITIES Header//EN"             -->
+<!--                                                          -->
+<!--  
+      $Date: 1996/10/14 20:51:32 $
+      $Revision: 4.1 $
+                                                              -->
+<!--                                                          -->
+
+<!ENTITY % a.header '%a.global;'                                 >
+
+<!ELEMENT cesHeader             (fileDesc, encodingDesc?,
+                             profileDesc?, revisionDesc?)       >
+<!ATTLIST cesHeader             %a.header;
+          type               CDATA               'text'
+          creator            CDATA               #IMPLIED
+          status             (new | update)      'new'
+          date.created       CDATA               #IMPLIED
+          date.updated       CDATA               #IMPLIED
+          version            CDATA               #REQUIRED      
+          TEIform            CDATA               'teiHeader'    >
+
+<!--          File Description                                -->
+
+<!ELEMENT fileDesc           (titleStmt, editionStmt?,
+                             extent?, publicationStmt,
+                             sourceDesc+ )                      >
+<!ATTLIST fileDesc           %a.header;                         >
+
+<!--          Title statement                                 -->
+
+<!ELEMENT titleStmt          (h.title, respStmt* )              >
+<!ATTLIST titleStmt          %a.header;                         >
+
+<!ELEMENT h.title            ( #PCDATA )                        >
+<!ATTLIST h.title           %a.header;                          >
+
+<!ELEMENT respStmt           (respType | respName)*                      >
+<!ATTLIST respStmt           %a.header;                         >
+
+<!ELEMENT respType           (#PCDATA)                          >
+<!ATTLIST respType           %a.header;                         >
+
+<!ELEMENT respName           (#PCDATA)                          >
+<!ATTLIST respName           %a.header;                         >
+
+
+<!--          Edition Statement                               -->
+
+<!ELEMENT editionStmt        (#PCDATA)                          >
+<!ATTLIST editionStmt        %a.header;
+          version            CDATA                #IMPLIED      >
+
+<!--          Extent statement                                -->
+
+<!ELEMENT extent             (wordCount, byteCount, extNote* )  >
+<!ATTLIST extent             %a.header;                         >
+
+<!ELEMENT wordCount          (#PCDATA )                         >
+<!ATTLIST wordCount          %a.header;                         >
+
+<!ELEMENT byteCount          (#PCDATA )                         >
+<!ATTLIST byteCount          %a.header;
+          units              (bytes|kb|mb|gb)     'kb'            >
+
+<!ELEMENT extNote            (#PCDATA )                         >
+<!ATTLIST extNote            %a.header;                         >
+
+
+<!--          Publication statement                           -->
+
+<!ELEMENT publicationStmt
+                             (distributor, pubAddress,
+                             telephone*, fax*, 
+                             eAddress*, idno*,
+                             availability, pubDate )            >
+<!ATTLIST publicationStmt    %a.header;                         >
+
+<!ELEMENT distributor        (#PCDATA )                         >
+<!ATTLIST distributor        %a.header;                         >
+
+
+<!ELEMENT pubAddress         (#PCDATA )                         >
+<!ATTLIST pubAddress         %a.header;                         >
+
+<!ELEMENT telephone          (#PCDATA )                         >
+<!ATTLIST telephone          %a.header;                         >
+
+<!ELEMENT fax                (#PCDATA )                         >
+<!ATTLIST fax                %a.header;                         >
+
+
+<!ELEMENT eAddress           (#PCDATA )                         >
+<!ATTLIST eAddress           %a.header;
+          type               CDATA               'email'          >
+
+<!ELEMENT idno               (#PCDATA )                         >
+<!ATTLIST idno               %a.header;
+          type               CDATA               'ISBN'           >
+
+<!ELEMENT availability         (#PCDATA )                         >
+<!ATTLIST availability       %a.header;
+          region             CDATA               'world'
+          status             (free | unknown | restricted)
+                                               'unknown'          >
+
+<!ELEMENT pubDate            (#PCDATA )                         >
+<!ATTLIST pubDate            %a.header;
+          value              CDATA               #IMPLIED       >
+
+<!--          Source description                              -->
+
+<!ELEMENT sourceDesc         ((biblFull | biblStruct)+)         >
+<!ATTLIST sourceDesc         %a.header;
+                             %a.declarable;                     >
+
+<!--   Bibliographic citation for non-electronic source       -->
+
+<!ELEMENT h.bibl               (#PCDATA )                       >
+<!ATTLIST h.bibl               %a.header;                       >
+
+<!ELEMENT biblStruct         (analytic?, monogr+)               >
+<!ATTLIST biblStruct         %a.header;
+                             %a.declarable;                     >
+
+<!ELEMENT analytic           (h.author | respStmt |
+                             h.title)*                          >
+<!ATTLIST analytic           %a.header;                         >
+
+<!ELEMENT monogr             (h.title+,
+                             (h.author | respStmt)*,
+                             (edition, respStmt?)*, 
+                             imprint+, idno*,
+                             (biblNote | biblScope)* )          >
+<!ATTLIST monogr             %a.header;                         >
+
+<!ELEMENT h.author           (#PCDATA)                          >
+<!ATTLIST h.author           %a.header;                         >
+
+<!ELEMENT edition            (#PCDATA )                         >
+<!ATTLIST edition            %a.header;                         >
+
+<!ELEMENT imprint            (pubPlace | publisher | pubDate)*  >
+<!ATTLIST imprint            %a.header;                         >
+
+<!ELEMENT pubPlace           (#PCDATA)                          >
+<!ATTLIST pubPlace           %a.header;                         >
+
+<!ELEMENT publisher          (#PCDATA)                          >
+<!ATTLIST publisher          %a.header;
+          type               (place | org | person)
+                                                 #IMPLIED       >
+
+<!ELEMENT biblScope          (#PCDATA)                          >
+<!ATTLIST biblScope          %a.header;
+          type               (pp | vol | issue)  #IMPLIED       >
+
+<!ELEMENT biblNote           (#PCDATA)                          >
+<!ATTLIST biblNote           %a.header;                         >
+
+
+<!--    Bibliographical info for source in electronic form    -->
+
+<!ELEMENT biblFull           (titleStmt, editionStmt?,
+                             extent?, publicationStmt,
+                             sourceDesc* )                      >
+<!ATTLIST biblFull           %a.header;                         >
+
+
+<!--        Encoding description                              -->
+
+<!ELEMENT encodingDesc         (projectDesc, samplingDecl*,
+                             editorialDecl*, tagsDecl?,
+                             refsDecl*, classDecl?)             >
+<!ATTLIST encodingDesc       %a.header;                         >
+
+<!ELEMENT projectDesc        (#PCDATA)                          >
+<!ATTLIST projectDesc        %a.header;
+                             %a.declarable;                     >
+
+<!ELEMENT samplingDecl         (#PCDATA)                          >
+<!ATTLIST samplingDecl       %a.header;
+                             %a.declarable;                     >
+
+<!--          Editorial declaration                           -->
+
+<!ELEMENT editorialDecl        (correction | quotation
+                             | hyphenation | segmentation |
+                             transduction | normalization |
+                             conformance)+                      >
+<!ATTLIST editorialDecl      %a.header;
+                             %a.declarable;                     >
+
+<!ELEMENT correction         (#PCDATA)                          >
+<!ATTLIST correction         %a.header;
+                             %a.declarable;
+          status             (high | medium | low | unknown)
+                                                 'unknown'
+          method             (silent | tags)     'silent'         >
+
+<!ELEMENT quotation          (#PCDATA)                          >
+<!ATTLIST quotation          %a.header;
+                             %a.declarable;
+          marks              (none | some | all) 'all'
+          form               (data | rend | std | 
+                              nonstd | unknown)  'unknown'        >
+
+<!ELEMENT hyphenation        (#PCDATA)                          >
+<!ATTLIST hyphenation        %a.header;
+                             %a.declarable;                     >
+
+<!ELEMENT segmentation         (#PCDATA)                          >
+<!ATTLIST segmentation       %a.header;
+                             %a.declarable;                     >
+
+<!ELEMENT transduction         (#PCDATA)                          >
+<!ATTLIST transduction       %a.header;
+                             %a.declarable;                     >
+
+<!ELEMENT normalization        (#PCDATA)                          >
+<!ATTLIST normalization      %a.header;
+                             %a.declarable;
+          source             CDATA               #IMPLIED
+          method             (silent | tags)     'silent'         >
+
+<!ELEMENT conformance        (#PCDATA)                          >
+<!ATTLIST conformance        %a.header;
+          level              (0 | 1 | 2 | 3)     '1'              >
+
+
+<!--          Tag declaration                                 -->
+
+<!ELEMENT tagsDecl           (tagUsage+)                        >
+<!ATTLIST tagsDecl           %a.header;                         
+
+>
+
+<!ELEMENT tagUsage           (#PCDATA)                          >
+<!ATTLIST tagUsage           %a.header;
+          gi                CDATA                        #REQUIRED
+          occurs            CDATA                        #IMPLIED       
+          wsd                CDATA               #IMPLIED       >
+
+<!--          References declaration                          -->
+
+<!ELEMENT refsDecl           (#PCDATA)                          >
+<!ATTLIST refsDecl           %a.header;
+          doctype           CDATA                        #IMPLIED       >
+
+<!--          Classify texts declaration                      -->
+
+<!ELEMENT classDecl           (taxonomy+)                       >
+<!ATTLIST classDecl           %a.header;                        >
+
+<!ELEMENT taxonomy           (category+ | 
+                             ((h.bibl | biblStruct),category*)) >
+<!ATTLIST taxonomy           %a.header;                         >
+
+<!ELEMENT category           (catDesc, category*)               >
+<!ATTLIST category            
+           id                 ID                  #REQUIRED
+           n                  CDATA               #IMPLIED
+           lang               CDATA               #IMPLIED      > <!-- CC: originally, this was an IDREF -->
+
+<!ELEMENT catDesc            (#PCDATA)                          >
+<!ATTLIST catDesc            %a.header;                         >
+
+<!--        Profile description                               -->
+
+<!ELEMENT profileDesc        (creation?, langUsage?, wsdUsage?,
+                             textClass?, translations?,
+                             annotations?)                      >
+<!ATTLIST profileDesc        %a.header;                         >
+
+<!--          Creation element                                -->
+
+<!ELEMENT creation           (#PCDATA )                         >
+<!ATTLIST creation           %a.header;
+          date               CDATA               #REQUIRED      >
+
+<!ELEMENT langUsage          (language+ )                       >
+<!ATTLIST langUsage          %a.header;                         >
+
+<!ELEMENT language           (#PCDATA)                          >
+<!ATTLIST language            
+          id                 ID                  #IMPLIED
+          wsd                CDATA               #IMPLIED
+          n                  CDATA               #IMPLIED     
+          type               CDATA               #IMPLIED
+          iso639             CDATA               #REQUIRED      >
+
+<!ELEMENT wsdUsage           (writingSystem+)                   >
+<!ATTLIST wsdUsage           %a.header;                         >
+
+<!ELEMENT writingSystem        (#PCDATA)                          >
+<!ATTLIST writingSystem      
+          id                 ID                  #IMPLIED
+          lang               CDATA               #IMPLIED
+          wsd                ENTITY              #IMPLIED
+          n                  CDATA               #IMPLIED       >
+
+<!--          Text Class                                      -->
+
+<!ELEMENT textClass          ((catRef | h.keywords)*)           >
+<!ATTLIST textClass          %a.header;
+                             %a.declarable;                     >
+
+<!ELEMENT catRef          EMPTY                              >
+<!ATTLIST catRef             %a.header;
+          target             IDREFS              #REQUIRED      
+          scheme             CDATA               #IMPLIED       >
+
+<!ELEMENT h.keywords         (keyTerm+)                         >
+<!ATTLIST h.keywords         %a.header;                         >
+
+<!ELEMENT keyTerm            (#PCDATA)                          >
+<!ATTLIST keyTerm            %a.header;                         >
+
+<!--          Translations                                    -->
+
+<!ELEMENT translations         (translation, translator?)+        >
+<!ATTLIST translations       %a.header;                         >
+
+<!ELEMENT translation        (#PCDATA)                          >
+<!ATTLIST translation        
+          id                 ID                  #IMPLIED
+          lang               CDATA               #REQUIRED
+          wsd                CDATA               #REQUIRED
+          n                  CDATA               #IMPLIED
+          trans.loc          CDATA               #IMPLIED       >
+
+<!ELEMENT translator         (#PCDATA)                          >
+<!ATTLIST translator         %a.header;                         >
+
+<!--          Annotations                                     -->
+
+<!ELEMENT annotations        (annotation+)                      >
+<!ATTLIST annotations        %a.header;                         >
+
+<!ELEMENT annotation         (#PCDATA)                          >
+<!ATTLIST annotation         %a.header; 
+          type               CDATA               #IMPLIED             
+          ann.loc            CDATA               #IMPLIED     
+          trans.loc          CDATA               #IMPLIED       >
+
+<!--       Revision description                               -->
+
+<!ELEMENT revisionDesc         (change+)                          >
+<!ATTLIST revisionDesc       %a.header;                         >
+
+<!ELEMENT change             (changeDate, respName, h.item+)    >
+<!ATTLIST change             %a.header;                         >
+
+<!ELEMENT changeDate         (#PCDATA)                          >
+<!ATTLIST changeDate         %a.header;
+          value               CDATA              #IMPLIED       >
+
+<!ELEMENT h.item             (#PCDATA)                          >
+<!ATTLIST h.item             %a.header;                         >
+
+
+<!--                                                          -->
+<!--                                                          -->
+<!--                Corpus Encoding Standard                  -->
+<!--                                                          -->
+<!--                          CES                             -->
+<!--                                                          -->
+<!--            Encoding conventions for level 1              -->
+<!--                                                          -->
+<!--                                                          -->
+<!--                                                          -->
+<!--
+     $Date: 1996/12/06 17:03:10 $
+     $Revision: 4.3 $
+                                                              -->
+
+<!--                     PUBLIC ENTITY SETS                   -->
+
+
+<!-- additions by Resnik: seg (angelehnt an p + nach bib.EN) -->
+<!ELEMENT seg                  (#PCDATA | %m.phrase;)*                     >
+<!ATTLIST seg             %a.text;
+                          type        CDATA                 #IMPLIED        >
