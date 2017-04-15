@@ -1,0 +1,1 @@
+partial metadata can be retrieved from http://www.thedigitalbiblelibrary.org/allentries

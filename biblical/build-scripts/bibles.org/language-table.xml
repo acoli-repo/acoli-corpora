@@ -1,0 +1,584 @@
+<vols>
+<vol file="aai-AAINT" iso="aai" lang="Arifama-Miniafia"/>
+<vol file="acf-ACFNT" iso="acf" lang="Creole French, Saint Lucian"/>
+<vol file="ach-B85" iso="ach" lang="Acholi language"/>
+<vol file="acn-NGCL" iso="acn" lang="Achang language"/>
+<vol file="acr-ACRNNT" iso="acr" lang="Achi"/>
+<vol file="acr-ACRNT" iso="acr" lang="Achi"/>
+<vol file="acr-ACRTNT" iso="acr" lang="Achi"/>
+<vol file="acu-ACUNT" iso="acu" lang="Achuar-Shiwiar"/>
+<vol file="afr-ABA" iso="afr" lang="Afrikaans"/>
+<vol file="afr-AFR53" iso="afr" lang="Afrikaans"/>
+<vol file="afr-AFR83" iso="afr" lang="Afrikaans"/>
+<vol file="agr-AGRNTPO" iso="agr" lang="Aguaruna language"/>
+<vol file="agu-AGUBI" iso="agu" lang="Aguacateco"/>
+<vol file="agu-AGUNT" iso="agu" lang="Aguacateco"/>
+<vol file="agw-KCB" iso="agw" lang="Kahua language"/>
+<vol file="ake-AKENT" iso="ake" lang="Akawaio language"/>
+<vol file="alb-ALNT" iso="alb" lang=""/>
+<vol file="alp-ALPNT" iso="alp" lang="Alune"/>
+<vol file="alq-ALGNT" iso="alq" lang="Algonquin language"/>
+<vol file="ame-AMENT" iso="ame" lang="Yanesha' language"/>
+<vol file="amr-AMRNT" iso="amr" lang="Amarakaeri language"/>
+<vol file="amu-AMUNT" iso="amu" lang="Amuzgo, Guerrero"/>
+<vol file="anv-ANVNT" iso="anv" lang="Denya language"/>
+<vol file="apn-APNNT" iso="apn" lang="Apinayé language"/>
+<vol file="apu-APUNT" iso="apu" lang="Apurinã language"/>
+<vol file="apw-APWNT" iso="apw" lang="Apache, Western"/>
+<vol file="apy-APYNT" iso="apy" lang="Apalaí language"/>
+<vol file="arb-AVDDV" iso="arb" lang="Arabic, Standard"/>
+<vol file="arb-AVD" iso="arb" lang="Arabic, Standard"/>
+<vol file="arb-GNA93" iso="arb" lang="Arabic, Standard"/>
+<vol file="arl-ARLNT" iso="arl" lang="Arabela language"/>
+<vol file="arn-ARNNT" iso="arn" lang="Araucanian"/>
+<vol file="ary-MSTD" iso="ary" lang="Arabic, Moroccan"/>
+<vol file="atg-ATGNT" iso="atg" lang="Ivbie North-Okpela-Arhe"/>
+<vol file="auc-AUCNT" iso="auc" lang="Huaorani language"/>
+<vol file="auy-AUYNT" iso="auy" lang="Awiyaana"/>
+<vol file="ayr-AYOP" iso="ayr" lang="Aymara, Central"/>
+<vol file="azg-AZGNT" iso="azg" lang="Amuzgo, San Pedro Amuzgos"/>
+<vol file="azz-AZZNT" iso="azz" lang="Highland Puebla Nahuatl"/>
+<vol file="ban-BAN" iso="ban" lang="Balinese language"/>
+<vol file="bao-BAONT" iso="bao" lang="Waimaha"/>
+<vol file="bbc-BBC" iso="bbc" lang="Batak Toba"/>
+<vol file="ben-MBCL" iso="ben" lang="Bengali language"/>
+<vol file="ben-SBCL" iso="ben" lang="Bengali language"/>
+<vol file="bjr-BJRNT" iso="bjr" lang="Binumarien"/>
+<vol file="bjv-BJVNT" iso="bjv" lang="Bedjond"/>
+<vol file="bkq-BKQNT" iso="bkq" lang="Bakairí"/>
+<vol file="blz-BLZNT" iso="blz" lang="Balantak"/>
+<vol file="bmb-NTB" iso="bmb" lang="Bembe language"/>
+<vol file="bmr-BMRNT" iso="bmr" lang="Muinane language"/>
+<vol file="bnp-BNPNTPO" iso="bnp" lang="Bola"/>
+<vol file="boa-BOANT" iso="boa" lang="Bora language"/>
+<vol file="box-BOXNT" iso="box" lang="Buamu"/>
+<vol file="bsn-BSNNT" iso="bsn" lang="Barasana language"/>
+<vol file="bss-BSSNT" iso="bss" lang="Akoose"/>
+<vol file="bth-TBV" iso="bth" lang="Biatah Bidayuh"/>
+<vol file="bts-BTS" iso="bts" lang="Batak Simalungun"/>
+<vol file="btx-BTX" iso="btx" lang="Batak Karo language"/>
+<vol file="bum-BULDCB" iso="bum" lang="Bulu"/>
+<vol file="bzd-BZDNTPO" iso="bzd" lang="Bribri language"/>
+<vol file="bzd-BZDNT" iso="bzd" lang="Bribri language"/>
+<vol file="bzj-BZJNT" iso="bzj" lang="Belize Kriol English"/>
+<vol file="caa-CAANT" iso="caa" lang="Ch’orti’ language"/>
+<vol file="cab-CABNT" iso="cab" lang="Garifuna language"/>
+<vol file="cac-CSS" iso="cac" lang="Chuj language"/>
+<vol file="caf-CAFNT" iso="caf" lang="Carrier, Southern"/>
+<vol file="cak-CAKCNT" iso="cak" lang="Cakchiquel"/>
+<vol file="cak-CAKENT" iso="cak" lang="Cakchiquel"/>
+<vol file="cak-CAKNT" iso="cak" lang="Cakchiquel"/>
+<vol file="cak-CAKSNT" iso="cak" lang="Cakchiquel"/>
+<vol file="cak-CAKWNT" iso="cak" lang="Cakchiquel"/>
+<vol file="cak-CAKYNT" iso="cak" lang="Cakchiquel"/>
+<vol file="cak-KQC" iso="cak" lang="Cakchiquel"/>
+<vol file="cao-CAONT" iso="cao" lang="Chácobo language"/>
+<vol file="cap-CAPNT" iso="cap" lang="Chipaya language"/>
+<vol file="cap-CHIPBO" iso="cap" lang="Chipaya language"/>
+<vol file="car-CARNT" iso="car" lang="Carib language"/>
+<vol file="cat-BCI" iso="cat" lang="Catalan language"/>
+<vol file="cav-CAVNT" iso="cav" lang="Cavineña language"/>
+<vol file="cax-CAXNT" iso="cax" lang="Chiquitano language"/>
+<vol file="cax-CHIQB" iso="cax" lang="Chiquitano language"/>
+<vol file="cbc-CBCNT" iso="cbc" lang="Carapana"/>
+<vol file="cbi-CBINTPO" iso="cbi" lang="Cha'palaachi language"/>
+<vol file="cbr-CBRNTPO" iso="cbr" lang="Cashibo language"/>
+<vol file="cbs-CBSNT" iso="cbs" lang="Cashinahua language"/>
+<vol file="cbt-CBTNTPO" iso="cbt" lang="Chayahuita language"/>
+<vol file="cbu-CBUNT" iso="cbu" lang="Candoshi-Shapra language"/>
+<vol file="cco-CCONT" iso="cco" lang="Chinantec, Comaltepec"/>
+<vol file="ceb-RCPV" iso="ceb" lang="Cebuano language"/>
+<vol file="cfm-FCL" iso="cfm" lang="Chin, Falam"/>
+<vol file="chd-CHDNT" iso="chd" lang="Chontal, Highland Oaxaca"/>
+<vol file="chf-CHFNT" iso="chf" lang="Chontal Maya language"/>
+<vol file="chq-CHQNT" iso="chq" lang="Chinantec, Quiotepec"/>
+<vol file="chz-CHZNTPS" iso="chz" lang="Chinantec, Ozumacín"/>
+<vol file="cjo-CJONT" iso="cjo" lang="Ashéninka Pajonal"/>
+<vol file="cle-CLENT" iso="cle" lang="Chinantec, Lealao"/>
+<vol file="cme-CMENT" iso="cme" lang="Cerma language"/>
+<vol file="cnh-HCL" iso="cnh" lang="Chin, Haka"/>
+<vol file="cni-CNINT" iso="cni" lang="Asháninka language"/>
+<vol file="cnl-CNLNT" iso="cnl" lang="Chinantec, Lalana"/>
+<vol file="cnm-CSM" iso="cnm" lang=""/>
+<vol file="cnt-CNTNT" iso="cnt" lang="Chinantec, Tepetotutla"/>
+<vol file="cof-COFNT" iso="cof" lang="Colorado"/>
+<vol file="con-CONNT" iso="con" lang="Cofán language"/>
+<vol file="cot-COTNT" iso="cot" lang="Caquinte language"/>
+<vol file="cpa-CPANT" iso="cpa" lang="Chinantec, Palantla"/>
+<vol file="cpb-CPBNT" iso="cpb" lang="Ashéninka, Ucayali-Yurúa"/>
+<vol file="cpc-CPCNT" iso="cpc" lang="Ajyíninka Apurucayali"/>
+<vol file="cpu-CPUNT" iso="cpu" lang="Ashéninka, Pichis"/>
+<vol file="crm-MCNT" iso="crm" lang="Cree, Moose"/>
+<vol file="crn-CRNNT" iso="crn" lang="Cora language"/>
+<vol file="crt-CHRNT" iso="crt" lang="Chorote, Iyojwa'ja"/>
+<vol file="crx-CRXNTPO" iso="crx" lang="Carrier"/>
+<vol file="cso-CSONT" iso="cso" lang="Chinantec, Sochiapam"/>
+<vol file="csy-SYB" iso="csy" lang="Chin, Siyin"/>
+<vol file="cta-CTANT" iso="cta" lang="Chatino, Tataltepec"/>
+<vol file="ctd-TDB" iso="ctd" lang="Chin, Tedim"/>
+<vol file="ctp-CTPNT" iso="ctp" lang="Chatino, Western Highland"/>
+<vol file="ctu-CTUBI" iso="ctu" lang="Ch’ol language"/>
+<vol file="ctu-CTUNT" iso="ctu" lang="Ch’ol language"/>
+<vol file="cub-CUBNT" iso="cub" lang="Cubeo language"/>
+<vol file="cuc-CUCNT" iso="cuc" lang="Chinantec, Usila"/>
+<vol file="cui-CUINT" iso="cui" lang="Cuiba language"/>
+<vol file="cuk-CUKNT" iso="cuk" lang="Kuna, San Blas"/>
+<vol file="cut-CUTNT" iso="cut" lang="Cuicatec, Teutila"/>
+<vol file="cux-CUXNT" iso="cux" lang="Cuicatec, Tepeuxila"/>
+<vol file="cym-BCN" iso="cym" lang="Welsh language"/>
+<vol file="cym-BNET" iso="cym" lang="Welsh language"/>
+<vol file="cym-WMB" iso="cym" lang="Welsh language"/>
+<vol file="daa-DAANT" iso="daa" lang="Dangaléat language"/>
+<vol file="dad-DADNT" iso="dad" lang="Marik language"/>
+<vol file="dgr-DOGNT" iso="dgr" lang="Dogrib language"/>
+<vol file="dhm-DBNT" iso="dhm" lang="Zemba language"/>
+<vol file="dik-DIKNT" iso="dik" lang="Dinka, Southwestern"/>
+<vol file="djk-DJKNT" iso="djk" lang="Businenge Tongo"/>
+<vol file="djr-DJNT" iso="djr" lang="Djambarrpuyngu"/>
+<vol file="dtp-TDVR" iso="dtp" lang="Bidayuh language"/>
+<vol file="dwr-DWRENT" iso="dwr" lang="Dawro"/>
+<vol file="dwr-DWRNT" iso="dwr" lang="Dawro"/>
+<vol file="ell-NTV" iso="ell" lang="Greek"/>
+<vol file="ell-TGVD" iso="ell" lang="Greek"/>
+<vol file="emp-EMPNTPO" iso="emp" lang="Emberá, Northern"/>
+<vol file="eng-AMP" iso="eng" lang="English language"/>
+<vol file="eng-CEVD" iso="eng" lang="English language"/>
+<vol file="eng-CEVUK" iso="eng" lang="English language"/>
+<vol file="eng-CEV" iso="eng" lang="English language"/>
+<vol file="eng-DARBY" iso="eng" lang="English language"/>
+<vol file="eng-ESV" iso="eng" lang="English language"/>
+<vol file="eng-GNBDC" iso="eng" lang="English language"/>
+<vol file="eng-GNTD" iso="eng" lang="English language"/>
+<vol file="eng-KJVA" iso="eng" lang="English language"/>
+<vol file="eng-KJV" iso="eng" lang="English language"/>
+<vol file="eng-MSG" iso="eng" lang="English language"/>
+<vol file="eng-NASB" iso="eng" lang="English language"/>
+<vol file="eng-NIV" iso="eng" lang="English language"/>
+<vol file="eng-NLT" iso="eng" lang="English language"/>
+<vol file="eng-NRSV" iso="eng" lang="English language"/>
+<vol file="eng-RSV" iso="eng" lang="English language"/>
+<vol file="eng-RV1885" iso="eng" lang="English language"/>
+<vol file="epo-ESP" iso="epo" lang="Esperanto"/>
+<vol file="ese-ESENT" iso="ese" lang="Ese Ejja"/>
+<vol file="esk-ESKNT" iso="esk" lang="Inupiatun, Northwest Alaska"/>
+<vol file="eus-EAB" iso="eus" lang="Basque language"/>
+<vol file="fao-FB" iso="fao" lang="Faroese"/>
+<vol file="fij-FNVDC" iso="fij" lang="Fijian language"/>
+<vol file="fij-FOV2" iso="fij" lang="Fijian language"/>
+<vol file="fin-FB38" iso="fin" lang="Finnish language"/>
+<vol file="fin-FIN92" iso="fin" lang="Finnish language"/>
+<vol file="fon-FON" iso="fon" lang="Fon"/>
+<vol file="fra-FRC97" iso="fra" lang="French language"/>
+<vol file="fra-LSG" iso="fra" lang="French language"/>
+<vol file="fra-NBS" iso="fra" lang="French language"/>
+<vol file="fra-PDV" iso="fra" lang="French language"/>
+<vol file="giz-BEGDC" iso="giz" lang="Giziga, South"/>
+<vol file="gkp-KWB" iso="gkp" lang="Guinea Kpelle"/>
+<vol file="gle-ABN" iso="gle" lang="Irish language"/>
+<vol file="gmv-GMVNT" iso="gmv" lang="Gamo"/>
+<vol file="gmv-GMVRNT" iso="gmv" lang="Gamo"/>
+<vol file="gng-GNGNT" iso="gng" lang="Ngangam language"/>
+<vol file="gnw-GNWNT" iso="gnw" lang="Guaraní, Western Bolivian"/>
+<vol file="gof-GOFENT" iso="gof" lang="Gofa"/>
+<vol file="gof-GOFNT" iso="gof" lang="Gofa"/>
+<vol file="gof-GOFRNT" iso="gof" lang="Gofa"/>
+<vol file="grc-NTPT" iso="grc" lang="Ancient Greek"/>
+<vol file="grc-SBLGNT" iso="grc" lang="Ancient Greek"/>
+<vol file="gub-GUBBI" iso="gub" lang="Guajajára"/>
+<vol file="gud-DNT" iso="gud" lang="Dida, Yocoboué"/>
+<vol file="gui-GUINT" iso="gui" lang="Eastern Bolivian Guaraní"/>
+<vol file="gul-GULNT" iso="gul" lang="Creole English, Sea Island"/>
+<vol file="guo-GUONT" iso="guo" lang="Guayabero language"/>
+<vol file="gvl-GUL" iso="gvl" lang="Gulay language"/>
+<vol file="gwi-GWINT" iso="gwi" lang="Gwich'in"/>
+<vol file="gya-GB11" iso="gya" lang="Gbaya, Northwest"/>
+<vol file="gym-GYMNT" iso="gym" lang="Guaymí language"/>
+<vol file="gyr-GYOB" iso="gyr" lang="Guarayu language"/>
+<vol file="gyr-GYRNT" iso="gyr" lang="Guarayu language"/>
+<vol file="hau-HAU" iso="hau" lang="Hausa language"/>
+<vol file="hch-HCHNT" iso="hch" lang="Huichol language"/>
+<vol file="heb-HRNT" iso="heb" lang="Hebrew"/>
+<vol file="hix-HIXNT" iso="hix" lang="Hixkaryána"/>
+<vol file="hns-HNSNT" iso="hns" lang="Caribbean Hindustani"/>
+<vol file="hop-HOPNT" iso="hop" lang="Hopi language"/>
+<vol file="hub-HUBNT" iso="hub" lang="Huambisa language"/>
+<vol file="hus-HUSNT" iso="hus" lang="Huastec language"/>
+<vol file="huu-HUUNT" iso="huu" lang="Huitoto, Murui"/>
+<vol file="huv-HUVNT" iso="huv" lang="Huave, San Mateo Del Mar"/>
+<vol file="hwc-HWCNT" iso="hwc" lang="Creole English, Hawai'i"/>
+<vol file="iba-TDIR" iso="iba" lang="Iban language"/>
+<vol file="ibo-IGBOB" iso="ibo" lang="Igbo language"/>
+<vol file="ign-IGB" iso="ign" lang="Ignaciano"/>
+<vol file="ign-IGNNT" iso="ign" lang="Ignaciano"/>
+<vol file="ike-EAIB" iso="ike" lang="Eastern Canadian Inuktitut"/>
+<vol file="ike-LIB" iso="ike" lang="Eastern Canadian Inuktitut"/>
+<vol file="ilo-RIPV" iso="ilo" lang="Ilokano language"/>
+<vol file="ind-BIMK" iso="ind" lang="Indonesian language"/>
+<vol file="ind-TB" iso="ind" lang="Indonesian language"/>
+<vol file="iou-IOUNTPO" iso="iou" lang="Tuma-Irumu"/>
+<vol file="ita-DO885" iso="ita" lang="Italian language"/>
+<vol file="ita-RDV24" iso="ita" lang="Italian language"/>
+<vol file="ium-IUMILAO" iso="ium" lang="Iu Mien"/>
+<vol file="ium-IUMINOR" iso="ium" lang="Iu Mien"/>
+<vol file="ium-IUMINR" iso="ium" lang="Iu Mien"/>
+<vol file="ium-IUMITH" iso="ium" lang="Iu Mien"/>
+<vol file="ixl-IXLCNT" iso="ixl" lang="Ixil language"/>
+<vol file="ixl-IXLNNT" iso="ixl" lang="Ixil language"/>
+<vol file="ixl-IXLNT" iso="ixl" lang="Ixil language"/>
+<vol file="jac-JACNT" iso="jac" lang="Jakalteko"/>
+<vol file="jam-JNT" iso="jam" lang="Creole English, Jamaican"/>
+<vol file="jav-JAV" iso="jav" lang="Javanese"/>
+<vol file="jic-JICNT" iso="jic" lang="Jicaque language"/>
+<vol file="jiv-JIVNT" iso="jiv" lang="Shuar language"/>
+<vol file="jvn-JVNNT" iso="jvn" lang="Caribbean Javanese"/>
+<vol file="kac-JCLB" iso="kac" lang="Jingpho"/>
+<vol file="kaq-KAQNT" iso="kaq" lang="Capanahua language"/>
+<vol file="kbc-KBCNT" iso="kbc" lang="Kadiwéu"/>
+<vol file="kbp-KABI" iso="kbp" lang="Kabiyè"/>
+<vol file="kck-KBTP" iso="kck" lang="Kalanga language"/>
+<vol file="kdl-KDLNT" iso="kdl" lang="Kimba language"/>
+<vol file="kek-KEKB" iso="kek" lang="Kekchí"/>
+<vol file="kek-QQC" iso="kek" lang="Kekchí"/>
+<vol file="ken-KENNT" iso="ken" lang="Kenyang"/>
+<vol file="kgk-KGKNT" iso="kgk" lang="Kaiwá"/>
+<vol file="kgp-KGPNT" iso="kgp" lang="Kaingang language"/>
+<vol file="khk-MAB2004" iso="khk" lang="Halh Mongolian"/>
+<vol file="khm-KHSV" iso="khm" lang="Central Khmer"/>
+<vol file="kia-KB" iso="kia" lang="Kim language"/>
+<vol file="kin-BIRD" iso="kin" lang="Kinyarwanda"/>
+<vol file="kin-BYSB" iso="kin" lang="Kinyarwanda"/>
+<vol file="kin-KBNT" iso="kin" lang="Kinyarwanda"/>
+<vol file="kjb-KANJ" iso="kjb" lang="Kanjobal"/>
+<vol file="kmr-KNTP" iso="kmr" lang="Kurdish, Northern"/>
+<vol file="knj-KNJNT" iso="knj" lang="Akatek language"/>
+<vol file="kor-NKRV" iso="kor" lang="Korean language"/>
+<vol file="kor-RNKSV" iso="kor" lang="Korean language"/>
+<vol file="kpj-KPJNT" iso="kpj" lang="Karajá language"/>
+<vol file="ksf-BAFNT" iso="ksf" lang="Bafia"/>
+<vol file="kss-KBQ" iso="kss" lang="Kisi, Southern"/>
+<vol file="kua-OKYB" iso="kua" lang="Kuanyama"/>
+<vol file="kvn-KVNNT" iso="kvn" lang="Border Kuna"/>
+<vol file="kyz-KYZNT" iso="kyz" lang="Kayabí"/>
+<vol file="lac-LACNT" iso="lac" lang="Lacandon language"/>
+<vol file="laj-B79" iso="laj" lang="Lango"/>
+<vol file="lav-RLB" iso="lav" lang="Latvian"/>
+<vol file="leh-LEN03" iso="leh" lang="Lenje"/>
+<vol file="leh-LNBD" iso="leh" lang="Lenje"/>
+<vol file="lhu-LHBR" iso="lhu" lang="Lahu"/>
+<vol file="lif-LIFNT" iso="lif" lang="Limbu language"/>
+<vol file="lif-LIMNT" iso="lif" lang="Limbu language"/>
+<vol file="lit-LBD" iso="lit" lang="Lithuanian language"/>
+<vol file="loz-LOZI09" iso="loz" lang="Lozi language"/>
+<vol file="lsi-LCL" iso="lsi" lang="Lashi language"/>
+<vol file="lus-MIZ" iso="lus" lang="Lushai"/>
+<vol file="maa-MAANT" iso="maa" lang="Mazatec, San Jerónimo Tecóatl"/>
+<vol file="maj-MAJNT" iso="maj" lang="Jalapa De Díaz Mazatec"/>
+<vol file="mam-MAMNT" iso="mam" lang="Mam language"/>
+<vol file="mam-MAMO" iso="mam" lang="Mam language"/>
+<vol file="mam-MAMTNT" iso="mam" lang="Mam language"/>
+<vol file="maq-MAQNT" iso="maq" lang="Chiquihuitlán Mazatec"/>
+<vol file="mau-MAUNT" iso="mau" lang="Huautla Mazatec"/>
+<vol file="mav-MAVNT" iso="mav" lang="Mawé language"/>
+<vol file="maz-MAZNT" iso="maz" lang="Central Mazahua"/>
+<vol file="mbc-MBCNT" iso="mbc" lang="Macushi language"/>
+<vol file="mbj-MBJNT" iso="mbj" lang="Nadëb language"/>
+<vol file="mbl-MBLNT" iso="mbl" lang="Maxakalí language"/>
+<vol file="mcb-MCBNT" iso="mcb" lang="Machiguenga language"/>
+<vol file="mcd-MCDNT" iso="mcd" lang="Sharanahua"/>
+<vol file="mcf-MCFNT" iso="mcf" lang="Matsés language"/>
+<vol file="mck-MBB" iso="mck" lang="Mbunda language"/>
+<vol file="mcn-MASSANA" iso="mcn" lang="Masana"/>
+<vol file="mco-MCONT" iso="mco" lang="Coatlán Mixe"/>
+<vol file="mfe-MKNT" iso="mfe" lang="Morisyen"/>
+<vol file="mfk-MOF" iso="mfk" lang="Mofu, North"/>
+<vol file="mhx-LHCL" iso="mhx" lang="Lhaovo language"/>
+<vol file="mib-MIBNT" iso="mib" lang="Atatláhuca Mixtec"/>
+<vol file="mic-MIQNT" iso="mic" lang="Míkmaq language"/>
+<vol file="mie-MIENT" iso="mie" lang="Mixtec, Ocotepec"/>
+<vol file="mig-MIGNT" iso="mig" lang="Mixtec, San Miguel El Grande"/>
+<vol file="mih-MIHNT" iso="mih" lang="Chayuco Mixtec"/>
+<vol file="mil-MILNT" iso="mil" lang="Mixtec, Peñoles"/>
+<vol file="mio-MIONT" iso="mio" lang="Mixtec, Pinotepa Nacional"/>
+<vol file="miq-MSKTU" iso="miq" lang="Mískito"/>
+<vol file="mir-MIRNT" iso="mir" lang="Isthmus Mixe"/>
+<vol file="mit-MITNT" iso="mit" lang="Mixtec, Southern Puebla"/>
+<vol file="miz-MIZNT" iso="miz" lang="Coatzospan Mixtec"/>
+<vol file="mjc-MJCNT" iso="mjc" lang="Mixtec, San Juan Colorado"/>
+<vol file="mks-MKSNT" iso="mks" lang="Mixtec, Silacayoapan"/>
+<vol file="moc-MCV" iso="moc" lang="Mocoví language"/>
+<vol file="mop-MOPNT" iso="mop" lang="Mopán Maya"/>
+<vol file="mpg-AB" iso="mpg" lang="Marba language"/>
+<vol file="mpm-MPMNT" iso="mpm" lang="Mixtec, Yosondúa"/>
+<vol file="mpp-MPPPOR" iso="mpp" lang="Migabac"/>
+<vol file="mqb-MQBNT" iso="mqb" lang="Mbuko language"/>
+<vol file="mqj-MQJNT" iso="mqj" lang="Mamasa"/>
+<vol file="mqy-BMNT" iso="mqy" lang="Manggarai"/>
+<vol file="msa-TMVRD" iso="msa" lang="Malay"/>
+<vol file="mti-MTINT" iso="mti" lang="Maiwa"/>
+<vol file="mto-MTONT" iso="mto" lang="Mixe, Totontepec"/>
+<vol file="mtp-WHYK" iso="mtp" lang="Wichí Lhamtés Nocten"/>
+<vol file="mua-MUA" iso="mua" lang="Mundang language"/>
+<vol file="mwm-SBDC" iso="mwm" lang="Sar language"/>
+<vol file="mxb-MXBNT" iso="mxb" lang="Mixtec, Tezoatlán"/>
+<vol file="mxp-MXPNT" iso="mxp" lang="Mixe, Tlahuitoltepec"/>
+<vol file="mxq-MXQNT" iso="mxq" lang="Juquila Mixe"/>
+<vol file="mxt-MXTNT" iso="mxt" lang="Jamiltepec Mixtec"/>
+<vol file="mya-BCL" iso="mya" lang="Burmese language"/>
+<vol file="mya-BJB" iso="mya" lang="Burmese language"/>
+<vol file="myb-MB80" iso="myb" lang="Mbay language"/>
+<vol file="myu-MYUNT" iso="myu" lang="Mundurukú"/>
+<vol file="mzh-WCHB" iso="mzh" lang="Wichí Lhamtés Güisnay"/>
+<vol file="mzl-MIXE" iso="mzl" lang="Mazatlán Mixe"/>
+<vol file="nab-NABNT" iso="nab" lang="Nambikuára, Southern"/>
+<vol file="naq-KKG" iso="naq" lang="Nama"/>
+<vol file="nbl-SND12" iso="nbl" lang="Ndebele, South"/>
+<vol file="nch-NCHBI" iso="nch" lang="Central Huasteca Nahuatl"/>
+<vol file="ncj-NCJNT" iso="ncj" lang="Nahuatl, Northern Puebla"/>
+<vol file="ncl-NCLNT" iso="ncl" lang="Michoacán Nahuatl"/>
+<vol file="ncu-NCUB" iso="ncu" lang="Chumburung language"/>
+<vol file="ncu-NCUNT" iso="ncu" lang="Chumburung language"/>
+<vol file="ndo-ONDB" iso="ndo" lang="Ndonga dialect"/>
+<vol file="NGT" iso="NGT" lang=""/>
+<vol file="ngu-NGUNT" iso="ngu" lang="Guerrero Nahuatl"/>
+<vol file="nhd-GDC" iso="nhd" lang="Ava Guaraní"/>
+<vol file="nhd-GRN1913" iso="nhd" lang="Ava Guaraní"/>
+<vol file="nhe-NHEBI" iso="nhe" lang="Eastern Huasteca Nahuatl"/>
+<vol file="nhe-NHENT" iso="nhe" lang="Eastern Huasteca Nahuatl"/>
+<vol file="nhg-NHGNT" iso="nhg" lang="Nahuatl, Tetelcingo"/>
+<vol file="nhi-NHINT" iso="nhi" lang="Nahuatl, Zacatlán-Ahuacatlán-Tepetzintla"/>
+<vol file="nhu-NHUNT" iso="nhu" lang="Noone"/>
+<vol file="nhw-NHWBI" iso="nhw" lang="Nahuatl, Western Huasteca"/>
+<vol file="nhy-NHYNT" iso="nhy" lang="Nahuatl, Northern Oaxaca"/>
+<vol file="nia-NIA" iso="nia" lang="Nias language"/>
+<vol file="nin-NINNT" iso="nin" lang="Ninzo language"/>
+<vol file="njm-NAGA" iso="njm" lang="Angami Naga"/>
+<vol file="nko-NKONT" iso="nko" lang="Nkonya language"/>
+<vol file="nld-NBG51" iso="nld" lang="Dutch language"/>
+<vol file="nld-NBV" iso="nld" lang="Dutch language"/>
+<vol file="nnh-NGBM" iso="nnh" lang="Ngiemboon language"/>
+<vol file="nno-N11NN" iso="nno" lang="Norwegian Nynorsk"/>
+<vol file="nno-N78NN" iso="nno" lang="Norwegian Nynorsk"/>
+<vol file="nno-NN11" iso="nno" lang="Norwegian Nynorsk"/>
+<vol file="nno-NN85" iso="nno" lang="Norwegian Nynorsk"/>
+<vol file="nob-BM11" iso="nob" lang="Bokmål"/>
+<vol file="nob-BM85" iso="nob" lang="Bokmål"/>
+<vol file="nob-N11BM" iso="nob" lang="Bokmål"/>
+<vol file="nob-N78BM" iso="nob" lang="Bokmål"/>
+<vol file="nop-NOPNTPO" iso="nop" lang="Numanggang language"/>
+<vol file="not-NOTNT" iso="not" lang="Nomatsiguenga language"/>
+<vol file="npl-NPLNT" iso="npl" lang="Nahuatl, Southeastern Puebla"/>
+<vol file="nse-GMN" iso="nse" lang="Nsenga language"/>
+<vol file="nsn-NSNNT" iso="nsn" lang="Nehan"/>
+<vol file="nso-NSO00" iso="nso" lang="Northern Sotho language"/>
+<vol file="nso-NSO51" iso="nso" lang="Northern Sotho language"/>
+<vol file="ntp-NTPNT" iso="ntp" lang="Northern Tepehuan"/>
+<vol file="nwi-NWINT" iso="nwi" lang="Southwest Tanna"/>
+<vol file="obo-OBONT" iso="obo" lang="Manobo, Obo"/>
+<vol file="ood-OODNT" iso="ood" lang="O'odham language"/>
+<vol file="ote-OTENT" iso="ote" lang="Mezquital Otomi"/>
+<vol file="otm-OTMNT" iso="otm" lang="Eastern Highland Otomi"/>
+<vol file="otn-OTNNT" iso="otn" lang="Otomi, Tenango"/>
+<vol file="otq-OTQNT" iso="otq" lang="Otomi, Querétaro"/>
+<vol file="ots-OTSNT" iso="ots" lang="Estado de México Otomi"/>
+<vol file="pab-PABNT" iso="pab" lang="Parecís"/>
+<vol file="pad-PADNT" iso="pad" lang="Paumarí language"/>
+<vol file="pah-PAHNT" iso="pah" lang="Tenharim"/>
+<vol file="pao-PAONT" iso="pao" lang="Northern Paiute language"/>
+<vol file="pap-PBDC13" iso="pap" lang="Papiamento"/>
+<vol file="pbb-PBBNT" iso="pbb" lang="Páez language"/>
+<vol file="pdt-PB" iso="pdt" lang="Plautdietsch language"/>
+<vol file="pes-TPV" iso="pes" lang="Iranian Persian"/>
+<vol file="pib-PIBNT" iso="pib" lang="Yine language"/>
+<vol file="pio-PIONT" iso="pio" lang="Piapoco language"/>
+<vol file="pir-PIRNT" iso="pir" lang="Piratapuyo"/>
+<vol file="pis-SIDC" iso="pis" lang="Pijin language"/>
+<vol file="plg-PLGNT" iso="plg" lang="Pilagá language"/>
+<vol file="plg-TSN" iso="plg" lang="Pilagá language"/>
+<vol file="pls-PLSNT" iso="pls" lang="Popoloca, San Marcos Tlalcoyalco"/>
+<vol file="plt-DIEMD" iso="plt" lang="Malagasy, Plateau"/>
+<vol file="plt-DIEM" iso="plt" lang="Malagasy, Plateau"/>
+<vol file="plt-MCB" iso="plt" lang="Malagasy, Plateau"/>
+<vol file="pne-PNT" iso="pne" lang="Penan, Western"/>
+<vol file="poe-POENT" iso="poe" lang="Popoloca, San Juan Atzingo"/>
+<vol file="poh-POHNT" iso="poh" lang="Poqomchi' language"/>
+<vol file="poh-POK" iso="poh" lang="Poqomchi' language"/>
+<vol file="poi-POINT" iso="poi" lang="Highland Popoluca"/>
+<vol file="por-ARC09YV" iso="por" lang="Portuguese"/>
+<vol file="por-ARC95" iso="por" lang="Portuguese"/>
+<vol file="por-ARC" iso="por" lang="Portuguese"/>
+<vol file="por-BPT09" iso="por" lang="Portuguese"/>
+<vol file="por-NTLH" iso="por" lang="Portuguese"/>
+<vol file="prf-PRFNT" iso="prf" lang="Paranan"/>
+<vol file="pri-PRINT" iso="pri" lang="Paicî language"/>
+<vol file="prs-TDV08" iso="prs" lang="Afghan Persian"/>
+<vol file="quc-QUCNNT" iso="quc" lang="K'iche'"/>
+<vol file="quc-QUCTNT" iso="quc" lang="K'iche'"/>
+<vol file="quc-QUICH1" iso="quc" lang="K'iche'"/>
+<vol file="quf-QUFNT" iso="quf" lang="Inkawasi-Kañaris Quechua"/>
+<vol file="qug-QCHI04" iso="qug" lang="Chimborazo Highland Quichua"/>
+<vol file="quh-QNBNT" iso="quh" lang="Quechua, South Bolivian"/>
+<vol file="quh-QUHNT" iso="quh" lang="Quechua, South Bolivian"/>
+<vol file="qul-QULNT" iso="qul" lang="North Bolivian Quechua"/>
+<vol file="qup-QUPNT" iso="qup" lang="Quechua, Southern Pastaza"/>
+<vol file="quy-QAB12" iso="quy" lang="Ayacucho Quechua"/>
+<vol file="qvc-QVCNT" iso="qvc" lang="Cajamarca Quechua"/>
+<vol file="qve-QVENT" iso="qve" lang="Eastern Apurímac Quechua"/>
+<vol file="qvh-QVHNT" iso="qvh" lang="Huamalíes-Dos de Mayo Huánuco Quechua"/>
+<vol file="qvi-QUII" iso="qvi" lang="Imbabura Highland Quichua"/>
+<vol file="qvm-QVMNT" iso="qvm" lang="Margos-Yarowilca-Lauricocha Quechua"/>
+<vol file="qvn-QVNNT" iso="qvn" lang="North Junín Quechua"/>
+<vol file="qvs-QVSNT" iso="qvs" lang="Lamas Quechua"/>
+<vol file="qvw-QVWNT" iso="qvw" lang="Huaylla Wanca Quechua"/>
+<vol file="qvz-QVZNT" iso="qvz" lang="Northern Pastaza Quichua"/>
+<vol file="qwh-QWHNT" iso="qwh" lang="Huaylas Ancash Quechua"/>
+<vol file="qxh-QXHNT" iso="qxh" lang="Panao Huánuco Quechua"/>
+<vol file="qxn-QXNNT" iso="qxn" lang="Northern Conchucos Ancash Quechua"/>
+<vol file="qxo-QXONT" iso="qxo" lang="Quechua, Southern Conchucos Ancash"/>
+<vol file="qxr-QCA04" iso="qxr" lang="Cañar Highland Quichua"/>
+<vol file="rim-RNT" iso="rim" lang="Nyaturu"/>
+<vol file="rkb-RKBNT" iso="rkb" lang="Rikbaktsa language"/>
+<vol file="rmy-ROM07" iso="rmy" lang="Romani, Vlax"/>
+<vol file="rus-CASS" iso="rus" lang="Russian language"/>
+<vol file="rus-SYNOD" iso="rus" lang="Russian language"/>
+<vol file="sab-SABNT" iso="sab" lang="Buglere language"/>
+<vol file="sba-NB89" iso="sba" lang="Ngambay"/>
+<vol file="sda-SDA" iso="sda" lang="Toraja-Sa'dan"/>
+<vol file="sey-SEYNT" iso="sey" lang="Secoya language"/>
+<vol file="sgz-SGZNT" iso="sgz" lang="Sursurunga language"/>
+<vol file="shp-SHPNTPO" iso="shp" lang="Shipibo language"/>
+<vol file="shu-SHUARAB" iso="shu" lang="Arabic, Chadian"/>
+<vol file="shu-SHULATN" iso="shu" lang="Arabic, Chadian"/>
+<vol file="sja-SJANT" iso="sja" lang="Epena"/>
+<vol file="slk-SEB" iso="slk" lang="Slovak language"/>
+<vol file="slv-SJV" iso="slv" lang="Slovene language"/>
+<vol file="smk-SMKNT" iso="smk" lang="Bolinao language"/>
+<vol file="smo-RSCB" iso="smo" lang="Samoan language"/>
+<vol file="snd-SCLNT" iso="snd" lang="Sindhi language"/>
+<vol file="snn-SNNNT" iso="snn" lang="Siona language"/>
+<vol file="som-SOMB" iso="som" lang="Somali language"/>
+<vol file="sot-SSO61SO" iso="sot" lang="Sotho language"/>
+<vol file="sot-SSO89SO" iso="sot" lang="Sotho language"/>
+<vol file="spa-BHTI" iso="spa" lang="Castilian"/>
+<vol file="spa-BLPH" iso="spa" lang="Castilian"/>
+<vol file="spa-BLP" iso="spa" lang="Castilian"/>
+<vol file="spa-BTI" iso="spa" lang="Castilian"/>
+<vol file="spa-DHHE" iso="spa" lang="Castilian"/>
+<vol file="spa-DHH" iso="spa" lang="Castilian"/>
+<vol file="spa-RVC" iso="spa" lang="Castilian"/>
+<vol file="spa-RVR60" iso="spa" lang="Castilian"/>
+<vol file="spa-RVR95" iso="spa" lang="Castilian"/>
+<vol file="spa-TLA" iso="spa" lang="Castilian"/>
+<vol file="spy-SPYB" iso="spy" lang="Sabaot language"/>
+<vol file="spy-SPYNT" iso="spy" lang="Sabaot language"/>
+<vol file="srm-SRMNT" iso="srm" lang="Saramaccan language"/>
+<vol file="srn-SRNNT" iso="srn" lang="Sranan Tongo"/>
+<vol file="srq-SRQNT" iso="srq" lang="Sirionó"/>
+<vol file="ssg-SSGNT" iso="ssg" lang="Seimat language"/>
+<vol file="ssw-SWT" iso="ssw" lang="Swati"/>
+<vol file="stp-STPNT" iso="stp" lang="Southeastern Tepehuan"/>
+<vol file="suz-SUZBI" iso="suz" lang="Sunwar language"/>
+<vol file="swe-B2000" iso="swe" lang="Swedish language"/>
+<vol file="swh-BHN" iso="swh" lang="Bravanese dialect"/>
+<vol file="swh-SUV" iso="swh" lang="Bravanese dialect"/>
+<vol file="sxb-SXBNT" iso="sxb" lang="Suba language"/>
+<vol file="tac-TACNT" iso="tac" lang="Lowland Tarahumara"/>
+<vol file="tam-TBOV" iso="tam" lang="Tamil language"/>
+<vol file="tbg-TBGNTPO" iso="tbg" lang="North Tairora"/>
+<vol file="tbl-TBLNT" iso="tbl" lang="Tboli"/>
+<vol file="tca-TCANT" iso="tca" lang="Ticuna language"/>
+<vol file="tee-TEENT" iso="tee" lang="Huehuetla Tepehua"/>
+<vol file="teo-B61" iso="teo" lang="Teso"/>
+<vol file="ter-TERNT" iso="ter" lang="Terêna language"/>
+<vol file="tgl-MBB05" iso="tgl" lang="Tagalog language"/>
+<vol file="tha-TH1971" iso="tha" lang="Thai language"/>
+<vol file="tha-THSV11" iso="tha" lang="Thai language"/>
+<vol file="tih-MTNT" iso="tih" lang="Murut, Timugon"/>
+<vol file="tku-TKUNT" iso="tku" lang="Totonac, Upper Necaxa"/>
+<vol file="tna-TNANT" iso="tna" lang="Tacana language"/>
+<vol file="tob-TSB" iso="tob" lang="Toba Qom language"/>
+<vol file="toc-TOCNT" iso="toc" lang="Coyutla Totonac"/>
+<vol file="toj-TOJNT" iso="toj" lang="Tojolab'al language"/>
+<vol file="too-TOONT" iso="too" lang="Totonac, Xicotepec De Juárez"/>
+<vol file="top-TOPNT" iso="top" lang="Papantla Totonac"/>
+<vol file="tos-TOSNT" iso="tos" lang="Highland Totonac"/>
+<vol file="tpt-TPTNT" iso="tpt" lang="Tepehua, Tlachichilco"/>
+<vol file="trc-TRCNT" iso="trc" lang="Copala Triqui"/>
+<vol file="tsn-TSW08NO" iso="tsn" lang="Tswana language"/>
+<vol file="tsn-TSW70" iso="tsn" lang="Tswana language"/>
+<vol file="tso-TSO29NO" iso="tso" lang="Tsonga language"/>
+<vol file="tso-TSO89" iso="tso" lang="Tsonga language"/>
+<vol file="tsw-TSWNT" iso="tsw" lang="Tsishingini"/>
+<vol file="tsz-PNT" iso="tsz" lang="Purepecha"/>
+<vol file="ttc-TTCNT" iso="ttc" lang="Tektitek language"/>
+<vol file="tuc-TUCNT" iso="tuc" lang="Mutu language"/>
+<vol file="tuc-TUCONT" iso="tuc" lang="Mutu language"/>
+<vol file="tuc-TUCTNT" iso="tuc" lang="Mutu language"/>
+<vol file="tuo-TUONT" iso="tuo" lang="Tucano language"/>
+<vol file="tur-TCL02" iso="tur" lang="Turkish language"/>
+<vol file="txu-TXUNT" iso="txu" lang="Kayapó"/>
+<vol file="tzh-TZH" iso="tzh" lang="Tzeltal language"/>
+<vol file="tzh-TZOXCH" iso="tzh" lang="Tzeltal language"/>
+<vol file="tzj-TZJNT" iso="tzj" lang="Tz'utujil"/>
+<vol file="tzo-TZC00" iso="tzo" lang="Tzotzil language"/>
+<vol file="tzo-TZET" iso="tzo" lang="Tzotzil language"/>
+<vol file="tzo-TZONT" iso="tzo" lang="Tzotzil language"/>
+<vol file="tzo-TZOZNT" iso="tzo" lang="Tzotzil language"/>
+<vol file="upv-UNT" iso="upv" lang="Uripiv language"/>
+<vol file="ura-URANT" iso="ura" lang="Urarina language"/>
+<vol file="urb-URBNT" iso="urb" lang="Ka'apor language"/>
+<vol file="urd-URD" iso="urd" lang="Urdu"/>
+<vol file="usp-USPNT" iso="usp" lang="Uspanteco"/>
+<vol file="ven-VEN98" iso="ven" lang="Venda language"/>
+<vol file="vie-RVV11" iso="vie" lang="Vietnamese language"/>
+<vol file="vmy-VMYNT" iso="vmy" lang="Ayautla Mazatec"/>
+<vol file="wap-WAPNT" iso="wap" lang="Wapishana language"/>
+<vol file="wbm-WCL" iso="wbm" lang="Wa"/>
+<vol file="xav-XAVNT" iso="xav" lang="Xavánte"/>
+<vol file="xho-XHO75" iso="xho" lang="Xhosa language"/>
+<vol file="xho-XHO96" iso="xho" lang="Xhosa language"/>
+<vol file="xtd-XTDNT" iso="xtd" lang="Diuxi-Tilantongo Mixtec"/>
+<vol file="xtm-XTMNTPP" iso="xtm" lang="Magdalena Peñasco Mixtec"/>
+<vol file="yaa-YAANT" iso="yaa" lang="Yaminahua language"/>
+<vol file="yad-YADNT" iso="yad" lang="Yagua language"/>
+<vol file="yal-YALB" iso="yal" lang="Yalunka language"/>
+<vol file="yan-SUMU" iso="yan" lang="Mayangna"/>
+<vol file="yaq-YAQNT" iso="yaq" lang="Yaqui language"/>
+<vol file="yor-YCE" iso="yor" lang="Yoruba language"/>
+<vol file="yua-MAYABI" iso="yua" lang="Maya, Yucatec"/>
+<vol file="yut-YUTNT" iso="yut" lang="Yopno language"/>
+<vol file="yva-YVANT" iso="yva" lang="Yawa language"/>
+<vol file="zaa-ZAANT" iso="zaa" lang="Sierra de Juárez Zapotec"/>
+<vol file="zab-ZABNT" iso="zab" lang="San Juan Guelavía Zapotec"/>
+<vol file="zac-ZACNT" iso="zac" lang="Ocotlán Zapotec"/>
+<vol file="zad-ZADNT" iso="zad" lang="Cajonos Zapotec"/>
+<vol file="zai-ZAINT" iso="zai" lang="Isthmus Zapotec"/>
+<vol file="zam-ZAMNT" iso="zam" lang="Miahuatlán Zapotec"/>
+<vol file="zao-ZAONT" iso="zao" lang="Ozolotepec Zapotec"/>
+<vol file="zar-ZARNT" iso="zar" lang="Rincón Zapotec"/>
+<vol file="zas-ZASNT" iso="zas" lang="Santo Domingo Albarradas Zapotec"/>
+<vol file="zat-ZATNTPS" iso="zat" lang="Tabaa Zapotec"/>
+<vol file="zav-ZAVNT" iso="zav" lang="Yatzachi Zapotec"/>
+<vol file="zaw-ZAWNT" iso="zaw" lang="Mitla Zapotec"/>
+<vol file="zca-ZCANT" iso="zca" lang="Coatecas Altas Zapotec"/>
+<vol file="zho-CUNPSS" iso="zho" lang="Chinese language"/>
+<vol file="zho-CUNP" iso="zho" lang="Chinese language"/>
+<vol file="zho-RCUVSS" iso="zho" lang="Chinese language"/>
+<vol file="zho-RCUVTS" iso="zho" lang="Chinese language"/>
+<vol file="zho-RCUV" iso="zho" lang="Chinese language"/>
+<vol file="zia-ZIANT" iso="zia" lang="Zia language"/>
+<vol file="zos-ZOSNT" iso="zos" lang="Francisco León Zoque"/>
+<vol file="zpc-ZPCNT" iso="zpc" lang="Choapan Zapotec"/>
+<vol file="zpi-ZPINT" iso="zpi" lang="Santa María Quiegolani Zapotec"/>
+<vol file="zpl-ZPLNT" iso="zpl" lang="Lachixío Zapotec"/>
+<vol file="zpm-ZPMNT" iso="zpm" lang="Mixtepec Zapotec"/>
+<vol file="zpo-ZPONT" iso="zpo" lang="Amatlán Zapotec"/>
+<vol file="zpq-ZPQNT" iso="zpq" lang="Zapotec, Zoogocho"/>
+<vol file="zpu-ZPUNT" iso="zpu" lang="Yalálag Zapotec"/>
+<vol file="zpv-ZPVNT" iso="zpv" lang="Chichicapan Zapotec"/>
+<vol file="zpz-ZPZNTPP" iso="zpz" lang="Texmelucan Zapotec"/>
+<vol file="zsr-ZSRNT" iso="zsr" lang="Southern Rincon Zapotec"/>
+<vol file="ztq-ZTQNT" iso="ztq" lang="Quioquitani-Quierí Zapotec"/>
+<vol file="zty-ZTYNTPS" iso="zty" lang="Yatee Zapotec"/>
+<vol file="zul-ZUL59" iso="zul" lang="Zulu language"/>
+<vol file="zul-ZUL86" iso="zul" lang="Zulu language"/>
+</vols>
