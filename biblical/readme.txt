@@ -6,6 +6,9 @@ Unfortunately, most of the material drawn from web sources does not come with an
 
 * In Germany, this is 25 years after publication. For web resources, the date of publication may be unknown, though, so we have to rely on the date of download.
 
+At the moment, we provide (building routines for) 679 texts (incl. duplicates). The migration process, however, ist still on-going, so there is more to come.
+For legal reasons, we can only distribute 52 of these directly, for the others, we provide build scripts to replicate their retrieval and conversion locally.
+
 Wrt. format, we follow the specifications of Philip Resnik's classical Bible corpus (1996, http://www.umiacs.umd.edu/~resnik/parallel/bible.html), but updated to XML.
 Resnik's bibles followed the SGML-based Corpus Encoding Standard (CES). While this has been largely replaced by TEI P5 (http://www.tei-c.org/Guidelines/P5/), we opted for a minimally invasive update of the format and use an XML version of CES. TEI conversion along the lines of https://github.com/morethanbooks/XML-TEI-Bible may be a topic for future activities.
 
@@ -15,6 +18,7 @@ History
 2012-12-31 (internal) converted approx. 1,200 Bibles and biblical texts (Germanic and non-Germanic) from various portals, licenses unclear, hence not distributable
 2014-04-26 public announcement of the Germanic Bible corpus in Chiarcos et al. (2014, LaTeCH@EACL-2014, http://aclanthology.info/papers/new-technologies-for-old-germanic-resources-and-research-on-parallel-bibles-in-older-continental-western-germanic)
 2017-04-15 begin migration to Github
+2017-04-18 added Bibles from unbound.biola.edu (converted 2012)
 
 Current status
 --------------

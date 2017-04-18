@@ -34,5 +34,7 @@ for file in `find build-scripts | grep 'language-table.xml' | grep -v '.xml.'`; 
 			print "\"/>\n";
 		};
 		';
-done 2>/dev/null | egrep '<vol.*>' ) | sort;
+done | egrep '<vol.*>' ) | \
+	sort |\
+	sed s/'\(&\)\([_a-zA-Z0-9]*[^;a-zA-Z0-9_]\)'/'\1amp;\2'/g;
 echo '</vols>';) > language-table.xhtml;

@@ -1,0 +1,99 @@
+<vols>
+<vol file="afrikaans_1953/afrikaans_1953_utf8.xml" iso="afr" local_lang_id="afk" title="Afrikaans 1953" lang="Afrikaans" lang_keywords="Afrikaans"/>
+<vol file="afrikaans_1953_orig/afrikaans_1953_utf8.xml" iso="afr" local_lang_id="afk" title="Afrikaans 1953" lang="Afrikaans" lang_keywords="Afrikaans"/>
+<vol file="albanian/albanian_utf8.xml" iso="aln" local_lang_id="aln" title="Albanian" lang="Gheg Albanian" lang_keywords="Albanian"/>
+<vol file="aleppo/aleppo_utf8.xml" iso="hbo" local_lang_id="hbo" title="Hebrew OT: Aleppo Codex" lang="Ancient Hebrew" lang_keywords="Hebrew"/>
+<vol file="amharic/amharic_utf8.xml" iso="amh" local_lang_id="amh" title="Amharic NT" lang="Amharic" lang_keywords="Amharic"/>
+<vol file="arabic_svd/arabic_svd_utf8.xml" iso="abv" local_lang_id="abv" title="Arabic: Smith & Van Dyke" lang="Baharna Arabic" lang_keywords="Arabic"/>
+<vol file="armenian_eastern/armenian_eastern_utf8.xml" iso="hye" local_lang_id="arm" title="Armenian (Eastern): (Genesis, Exodus, Gospels)" lang="Armenian" lang_keywords="Armenian"/>
+<vol file="armenian_western_1853/armenian_western_1853_utf8.xml" iso="hye" local_lang_id="arm" title="Armenian (Western): NT" lang="Armenian" lang_keywords="Armenian"/>
+<vol file="asv/asv_utf8.xml" iso="eng" local_lang_id="eng" title="English: American Standard Version" lang="English" lang_keywords="English"/>
+<vol file="basic_english/basic_english_utf8.xml" iso="eng" local_lang_id="eng" title="English: Basic English Bible" lang="English" lang_keywords="English"/>
+<vol file="basque_1571/basque_1571_utf8.xml" iso="eus" local_lang_id="bqe" title="Basque (Navarro-Labourdin): NT" lang="Basque" lang_keywords="Basque"/>
+<vol file="breton/breton_utf8.xml" iso="bre" local_lang_id="brt" title="Breton Gospels" lang="Breton" lang_keywords="Breton"/>
+<vol file="chamorro/chamorro_utf8.xml" iso="cha" local_lang_id="cjd" title="Chamorro (Psalms, Gospels, Acts)" lang="Chamorro" lang_keywords="Chamorro"/>
+<vol file="chinese_ncv/chinese_ncv_utf8.xml" iso="zho" local_lang_id="zhs" title="Chinese: NCV (Traditional)" lang="Chinese" lang_keywords="Chinese"/>
+<vol file="chinese_ncv_s/chinese_ncv_s_utf8.xml" iso="zho" local_lang_id="zht" title="Chinese: NCV (Simplified)" lang="Chinese" lang_keywords="Chinese"/>
+<vol file="chinese_union/chinese_union_utf8.xml" iso="zho" local_lang_id="zht" title="Chinese: Union (Traditional)" lang="Chinese" lang_keywords="Chinese"/>
+<vol file="chinese_union_s/chinese_union_s_utf8.xml" iso="zho" local_lang_id="zhs" title="Chinese: Union (Simplified)" lang="Chinese" lang_keywords="Chinese"/>
+<vol file="coptic_nt/coptic_nt_utf8.xml" iso="cop" local_lang_id="cop" title="Coptic: New Testament" lang="Coptic" lang_keywords="Coptic"/>
+<vol file="coptic_nt_bohairic/coptic_nt_bohairic_utf8.xml" iso="cop" local_lang_id="cop" title="Coptic: Bohairic NT" lang="Coptic" lang_keywords="Coptic"/>
+<vol file="coptic_nt_sahidic/coptic_nt_sahidic_utf8.xml" iso="cop" local_lang_id="cop" title="Coptic: Sahidic NT" lang="Coptic" lang_keywords="Coptic"/>
+<vol file="croatian/croatian_utf8.xml" iso="hrv" local_lang_id="src" title="Croatian" lang="Croatian" lang_keywords="Croatian"/>
+<vol file="czech_bkr/czech_bkr_utf8.xml" iso="ces" local_lang_id="czc" title="Czech BKR" lang="Czech" lang_keywords="Czech"/>
+<vol file="czech_cep/czech_cep_utf8.xml" iso="ces" local_lang_id="czc" title="Czech CEP" lang="Czech" lang_keywords="Czech"/>
+<vol file="czech_kms/czech_kms_utf8.xml" iso="ces" local_lang_id="czc" title="Czech KMS" lang="Czech" lang_keywords="Czech"/>
+<vol file="czech_nkb/czech_nkb_utf8.xml" iso="ces" local_lang_id="czc" title="Czech NKB" lang="Czech" lang_keywords="Czech"/>
+<vol file="darby/darby_utf8.xml" iso="eng" local_lang_id="eng" title="English: Darby Version" lang="English" lang_keywords="English"/>
+<vol file="douay_rheims/douay_rheims_utf8.xml" iso="eng" local_lang_id="eng" title="English: Douay-Rheims" lang="English" lang_keywords="English"/>
+<vol file="esperanto/esperanto_utf8.xml" iso="epo" local_lang_id="esp" title="Esperanto" lang="Esperanto" lang_keywords="Esperanto"/>
+<vol file="estonian/estonian_utf8.xml" iso="est" local_lang_id="est" title="Estonian" lang="Estonian" lang_keywords="Estonian"/>
+<vol file="finnish_1776/finnish_1776_utf8.xml" iso="fin" local_lang_id="fin" title="Finnish: Bible (1776)" lang="Finnish" lang_keywords="Finnish"/>
+<vol file="finnish_pr_1938/finnish_pr_1938_utf8.xml" iso="fin" local_lang_id="fin" title="Finnish: Pyhä Raamattu (1933/1938)" lang="Finnish" lang_keywords="Finnish"/>
+<vol file="finnish_pr_1992/finnish_pr_1992_utf8.xml" iso="fin" local_lang_id="fin" title="Finnish: Pyhä Raamattu (1992)" lang="Finnish" lang_keywords="Finnish"/>
+<vol file="french_darby/french_darby_utf8.xml" iso="fra" local_lang_id="frn" title="French: Darby" lang="French" lang_keywords="French"/>
+<vol file="french_lsg/french_lsg_utf8.xml" iso="fra" local_lang_id="frn" title="French: Louis Segond (1910)" lang="French" lang_keywords="French"/>
+<vol file="french_martin_1744/french_martin_1744_utf8.xml" iso="fra" local_lang_id="frn" title="French: Martin (1744)" lang="French" lang_keywords="French"/>
+<vol file="french_ostervald_1996/french_ostervald_1996_utf8.xml" iso="fra" local_lang_id="frn" title="French: Ostervald (1996 revision)" lang="French" lang_keywords="French"/>
+<vol file="georgian_geo2/georgian_geo2_utf8.xml" iso="kat" local_lang_id="geo" title="Georgian (Gospels, Acts, James)" lang="Georgian" lang_keywords="Georgian"/>
+<vol file="gothic_latin/gothic_latin_utf8.xml" iso="got" local_lang_id="gof" title="Gothic (Nehemiah, NT Portions) [Latin Script]" lang="Gothic" lang_keywords="Gothic"/>
+<vol file="greek_byzantine_2000/greek_byzantine_2000_utf8.xml" iso="grc" local_lang_id="grc" title="Greek NT: Byzantine/Majority Text (2000)" lang="Ancient Greek (to 1453)" lang_keywords="Greek"/>
+<vol file="greek_byzantine_2000_parsed/greek_byzantine_2000_parsed_utf8.xml" iso="grc" local_lang_id="grc" title="Greek NT: Byzantine/Majority Text (2000) [Parsed]" lang="Ancient Greek (to 1453)" lang_keywords="Greek"/>
+<vol file="greek_modern/greek_modern_utf8.xml" iso="grc" local_lang_id="grc" title="Greek: Modern" lang="Ancient Greek (to 1453)" lang_keywords="Greek"/>
+<vol file="greek_textus_receptus/greek_textus_receptus_utf8.xml" iso="grc" local_lang_id="grc" title="Greek NT: Textus Receptus (1550/1894)" lang="Ancient Greek (to 1453)" lang_keywords="Greek"/>
+<vol file="greek_textus_receptus_parsed/greek_textus_receptus_parsed_utf8.xml" iso="grc" local_lang_id="grc" title="Greek NT: Textus Receptus (1550/1894) [Parsed]" lang="Ancient Greek (to 1453)" lang_keywords="Greek"/>
+<vol file="greek_tischendorf/greek_tischendorf_utf8.xml" iso="grc" local_lang_id="grc" title="Greek NT: Tischendorf 8th Ed." lang="Ancient Greek (to 1453)" lang_keywords="Greek"/>
+<vol file="greek_WH_UBS4/greek_WH_UBS4_utf8.xml" iso="grc" local_lang_id="grc" title="Greek NT: Westcott/Hort, UBS4 variants" lang="Ancient Greek (to 1453)" lang_keywords="Greek"/>
+<vol file="greek_WH_UBS4_parsed/greek_WH_UBS4_parsed_utf8.xml" iso="grc" local_lang_id="grc" title="Greek NT: Westcott/Hort, UBS4 variants [Parsed]" lang="Ancient Greek (to 1453)" lang_keywords="Greek"/>
+<vol file="hebrew_bhs_consonants/hebrew_bhs_consonants_utf8.xml" iso="hbo" local_lang_id="hbo" title="Hebrew OT: BHS (Consonants Only)" lang="Ancient Hebrew" lang_keywords="Hebrew"/>
+<vol file="hebrew_bhs_vowels/hebrew_bhs_vowels_utf8.xml" iso="hbo" local_lang_id="hbo" title="Hebrew OT: BHS (Consonants & Vowels)" lang="Ancient Hebrew" lang_keywords="Hebrew"/>
+<vol file="hebrew_modern/hebrew_modern_utf8.xml" iso="heb" local_lang_id="hbr" title="Hebrew: Modern" lang="Hebrew" lang_keywords="Hebrew"/>
+<vol file="hungarian_karoli/hungarian_karoli_utf8.xml" iso="hun" local_lang_id="hng" title="Hungarian: Karoli" lang="Hungarian" lang_keywords="Hungarian"/>
+<vol file="italian_diodati_1649/italian_diodati_1649_utf8.xml" iso="ita" local_lang_id="itn" title="Italian: Giovanni Diodati Bible (1649)" lang="Italian" lang_keywords="Italian"/>
+<vol file="italian_riveduta_1927/italian_riveduta_1927_utf8.xml" iso="ita" local_lang_id="itn" title="Italian: Riveduta Bible (1927)" lang="Italian" lang_keywords="Italian"/>
+<vol file="kabyle_nt/kabyle_nt_utf8.xml" iso="kab" local_lang_id="kab" title="Kabyle: NT" lang="Kabyle" lang_keywords="Kabyle"/>
+<vol file="kjv_apocrypha/kjv_apocrypha_utf8.xml" iso="eng" local_lang_id="eng" title="English: King James Version" lang="English" lang_keywords="English"/>
+<vol file="korean/korean_utf8.xml" iso="kor" local_lang_id="kkn" title="Korean" lang="Korean" lang_keywords="Korean"/>
+<vol file="latin_nova_vulgata/latin_nova_vulgata_utf8.xml" iso="lat" local_lang_id="ltn" title="Latin: Nova Vulgata" lang="Latin" lang_keywords="Latin"/>
+<vol file="latin_vulgata_clementina/latin_vulgata_clementina_utf8.xml" iso="lat" local_lang_id="ltn" title="Latin: Vulgata Clementina" lang="Latin" lang_keywords="Latin"/>
+<vol file="latvian_nt/latvian_nt_utf8.xml" iso="lav" local_lang_id="lat" title="Latvian New Testament" lang="Latvian" lang_keywords="Latvian"/>
+<vol file="lithuanian/lithuanian_utf8.xml" iso="lit" local_lang_id="lit" title="Lithuanian" lang="Lithuanian" lang_keywords="Lithuanian"/>
+<vol file="lxx_a_accents/lxx_a_accents_utf8.xml" iso="grc" local_lang_id="grc" title="Greek OT: LXX [A] Accented" lang="Ancient Greek (to 1453)" lang_keywords="Greek"/>
+<vol file="lxx_a_parsing_accents/lxx_a_parsing_accents_utf8.xml" iso="grc" local_lang_id="grc" title="Greek OT: LXX [A] Accented Roots &amp; Parsing" lang="Ancient Greek (to 1453)" lang_keywords="Greek"/>
+<vol file="lxx_a_parsing_unaccented/lxx_a_parsing_unaccented_utf8.xml" iso="grc" local_lang_id="grc" title="Greek OT: LXX [A] Unaccented Roots &amp; Parsing" lang="Ancient Greek (to 1453)" lang_keywords="Greek"/>
+<vol file="lxx_a_unaccented/lxx_a_unaccented_utf8.xml" iso="grc" local_lang_id="grc" title="Greek OT: LXX [A] Unaccented" lang="Ancient Greek (to 1453)" lang_keywords="Greek"/>
+<vol file="manx_gaelic/manx_gaelic_utf8.xml" iso="glv" local_lang_id="mjd" title="Manx Gaelic (Esther, Jonah, Four Gospels)" lang="Manx" lang_keywords="Manx"/>
+<vol file="maori/maori_utf8.xml" iso="mri" local_lang_id="mbf" title="Maori" lang="Maori" lang_keywords="Maori"/>
+<vol file="myanmar_judson_1835/myanmar_judson_1835_utf8.xml" iso="mya" local_lang_id="mya" title="Myanmar/Burmese: Judson (1835)" lang="Burmese" lang_keywords="Myanmar|Burmese"/>
+<vol file="norwegian/norwegian_utf8.xml" iso="nor" local_lang_id="nrr" title="Norwegian: Det Norsk Bibelselskap (1930)" lang="Norwegian" lang_keywords="Norwegian"/>
+<vol file="peshitta/peshitta_utf8.xml" iso="syc" local_lang_id="syc" title="Aramaic NT: Peshitta" lang="Classical Syriac" lang_keywords="Aramaic|Syriac"/>
+<vol file="portuguese/portuguese_utf8.xml" iso="por" local_lang_id="por" title="Portuguese: Almeida Atualizada" lang="Portuguese" lang_keywords="Portuguese"/>
+<vol file="potawatomi/potawatomi_utf8.xml" iso="pot" local_lang_id="pot" title="Potawatomi: (Matthew, Acts) (Lykins, 1844)" lang="Potawatomi" lang_keywords="Potawatomi"/>
+<vol file="romani/romani_utf8.xml" iso="rmy" local_lang_id="rmy" title="Romani NT: E Lashi Viasta (Gypsy)" lang="Vlax Romani" lang_keywords="Romani"/>
+<vol file="romanian_cornilescu/romanian_cornilescu_utf8.xml" iso="ron" local_lang_id="rum" title="Romanian: Cornilescu" lang="Romanian" lang_keywords="Romanian"/>
+<vol file="russian_makarij/russian_makarij_utf8.xml" iso="rus" local_lang_id="rus" title="Russian: Makarij Translation (Pentateuch) (1825)" lang="Russian" lang_keywords="Russian"/>
+<vol file="russian_synodal_1876/russian_synodal_1876_utf8.xml" iso="rus" local_lang_id="rus" title="Russian: Synodal Translation (1876)" lang="Russian" lang_keywords="Russian"/>
+<vol file="russian_zhuromsky/russian_zhuromsky_utf8.xml" iso="rus" local_lang_id="rus" title="Russian: Victor Zhuromsky NT" lang="Russian" lang_keywords="Russian"/>
+<vol file="scots_gaelic/scots_gaelic_utf8.xml" iso="gla" local_lang_id="gla" title="Scots Gaelic (Gospel of Mark)" lang="Scottish Gaelic" lang_keywords="Scottish|Gaelic"/>
+<vol file="spanish_reina_valera_1909/spanish_reina_valera_1909_utf8.xml" iso="spa" local_lang_id="spn" title="Spanish: Reina Valera (1909)" lang="Spanish" lang_keywords="Spanish"/>
+<vol file="spanish_reina_valera_nt_1858/spanish_reina_valera_nt_1858_utf8.xml" iso="spa" local_lang_id="spn" title="Spanish: Reina Valera NT (1858)" lang="Spanish" lang_keywords="Spanish"/>
+<vol file="spanish_sagradas_escrituras_1569/spanish_sagradas_escrituras_1569_utf8.xml" iso="spa" local_lang_id="spn" title="Spanish: Sagradas Escrituras (1569)" lang="Spanish" lang_keywords="Spanish"/>
+<vol file="swahili/swahili_utf8.xml" iso="swa" local_lang_id="swa" title="Swahili NT" lang="Swahili (macrolanguage)" lang_keywords="Swahili"/>
+<vol file="tagalog_1905/tagalog_1905_utf8.xml" iso="tgl" local_lang_id="tgl" title="Tagalog: Ang Dating Biblia (1905)" lang="Tagalog" lang_keywords="Tagalog"/>
+<vol file="tamajaq/tamajaq_utf8.xml" iso="ttq" local_lang_id="ttq" title="Tamajaq Portions" lang="Tawallammat Tamajaq" lang_keywords="Tamajaq|Portions"/>
+<vol file="thai_kjv/thai_kjv_utf8.xml" iso="tha" local_lang_id="thj" title="Thai: from KJV" lang="Thai" lang_keywords="Thai"/>
+<vol file="turkish/turkish_utf8.xml" iso="tur" local_lang_id="trk" title="Turkish" lang="Turkish" lang_keywords="Turkish"/>
+<vol file="turkish_nt/turkish_nt_utf8.xml" iso="tur" local_lang_id="trk" title="Turkish: NT (1987, 1994)" lang="Turkish" lang_keywords="Turkish"/>
+<vol file="ukrainian_1871/ukrainian_1871_utf8.xml" iso="ukr" local_lang_id="ukr" title="Ukrainian: NT (P.Kulish, 1871)" lang="Ukrainian" lang_keywords="Ukrainian"/>
+<vol file="uma/uma_utf8.xml" iso="ppk" local_lang_id="ppk" title="Uma NT" lang="Uma" lang_keywords="Uma"/>
+<vol file="vietnamese_1934/vietnamese_1934_utf8.xml" iso="vie" local_lang_id="vie" title="Vietnamese (1934)" lang="Vietnamese" lang_keywords="Vietnamese"/>
+<vol file="web/web_utf8.xml" iso="eng" local_lang_id="eng" title="English: World English Bible" lang="English" lang_keywords="English"/>
+<vol file="webster/webster_utf8.xml" iso="eng" local_lang_id="eng" title="English: Webster's Bible" lang="English" lang_keywords="English"/>
+<vol file="weymouth_nt/weymouth_nt_utf8.xml" iso="eng" local_lang_id="eng" title="English: Weymouth NT" lang="English" lang_keywords="English"/>
+<vol file="wlc/wlc_utf8.xml" iso="hbo" local_lang_id="hbo" title="Hebrew OT: Westminster Leningrad Codex" lang="Ancient Hebrew" lang_keywords="Hebrew"/>
+<vol file="wlc_consonants/wlc_consonants_utf8.xml" iso="hbo" local_lang_id="hbo" title="Hebrew OT: WLC (Consonants Only)" lang="Ancient Hebrew" lang_keywords="Hebrew"/>
+<vol file="wlc_vowels/wlc_vowels_utf8.xml" iso="hbo" local_lang_id="hbo" title="Hebrew OT: WLC (Consonants & Vowels)" lang="Ancient Hebrew" lang_keywords="Hebrew"/>
+<vol file="wolof/wolof_utf8.xml" iso="wol" local_lang_id="wol" title="Wolof NT" lang="Wolof" lang_keywords="Wolof"/>
+<vol file="xhosa/xhosa_utf8.xml" iso="xho" local_lang_id="xos" title="Xhosa" lang="Xhosa" lang_keywords="Xhosa"/>
+<vol file="ylt/ylt_utf8.xml" iso="eng" local_lang_id="eng" title="English: Young's Literal Translation" lang="English" lang_keywords="English"/>
+</vols>
