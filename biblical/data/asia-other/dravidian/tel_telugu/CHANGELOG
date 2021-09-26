@@ -1,0 +1,40 @@
+v1.11 (Mar 2017)
+	Fixed XML errors in Amharic translation. Thanks to https://github.com/rasoolims for catching that error.
+
+v1.10 (Feb 2017)
+	Added full Shona translation. Thanks to https://github.com/sdini1 for providing the translation
+	
+v1.9 (Dec 2016)
+	Added full Amharic translation (replaced the Amharic-NT file). Thanks to Shudong Hao for pointing me to https://bible.org/foreign/amharic/.
+	
+v1.8 (Dec 2015)
+	Fixed minor XML-related bugs in Vietnamese and Thai
+	
+v1.6 (Dec 2015)
+	Added Dutch translation
+
+v1.5 (Oct 2015)
+    Added modern translation of English (WEB translation, found here: http://worldenglishbible.org/. File created by Stephen Mayhew)
+
+v1.4 (June 2015)
+	Added tokenised versions of Chinese, Japanese, Thai and Vietnamese (created by Armin Hoenen)
+
+v1.3 (May 2015)
+	Fixed empty lines in Swedish (misc XML tag <sparr> was causing the problem)
+
+v1.2 (September 2014)
+	Fixed book/chapter/verse IDs in Thai
+	Fixed verse IDs in Shuar
+
+v1.1 (July 2014)
+	Fixed missing/merged verses in Italian
+	Fixed missing last character for every line in Thai
+	Fixed missing last character for every line in Latin	
+	Standardized character encoding to utf-8 for most files
+	Found a new source for Croatian (fixed character encoding issues)
+	Found a new source for Serbian (fixed character encoding issues) and fixed missing first verses in John (1,2 and 3)
+	Fixed quotes in Finnish
+	Fixed spurious HTML tags in Korean
+	
+v1.0 (September 2013)
+	Initial release
