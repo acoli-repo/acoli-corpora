@@ -6,8 +6,8 @@ Unfortunately, most of the material drawn from web sources does not come with an
 
 * In Germany, this is 25 years after publication. For web resources, the date of publication may be unknown, though, so we have to rely on the date of download.
 
-At the moment, we provide (building routines for) 679 texts (incl. duplicates). The migration process, however, ist still on-going, so there is more to come.
-For legal reasons, we can only distribute 52 of these directly, for the others, we provide build scripts to replicate their retrieval and conversion locally.
+As of 2017, we provide (building/crawling routines for) 758 texts (incl. duplicates). The migration process, however, is still on-going, so there is more to come.
+For legal reasons, we can only distribute 125 of these directly, for the others, we provide build scripts to replicate their retrieval and conversion locally.
 
 Wrt. format, we follow the specifications of Philip Resnik's classical Bible corpus (1996, http://www.umiacs.umd.edu/~resnik/parallel/bible.html), but updated to XML.
 Resnik's bibles followed the SGML-based Corpus Encoding Standard (CES). While this has been largely replaced by TEI P5 (http://www.tei-c.org/Guidelines/P5/), we opted for a minimally invasive update of the format and use an XML version of CES. TEI conversion along the lines of https://github.com/morethanbooks/XML-TEI-Bible may be a topic for future activities.
