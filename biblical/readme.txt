@@ -6,7 +6,7 @@ Unfortunately, most of the material drawn from web sources does not come with an
 
 * In Germany, this is 25 years after publication. For web resources, the date of publication may be unknown, though, so we have to rely on the date of download.
 
-As of 2017, we provide (building/crawling routines for) 758 texts (incl. duplicates). The migration process, however, is still on-going, so there is more to come.
+We provide (building/crawling routines for) about 760 texts (incl. duplicates). The migration process, however, is still on-going, so there is more to come.
 For legal reasons, we can only distribute 125 of these directly, for the others, we provide build scripts to replicate their retrieval and conversion locally.
 
 Wrt. format, we follow the specifications of Philip Resnik's classical Bible corpus (1996, http://www.umiacs.umd.edu/~resnik/parallel/bible.html), but updated to XML.
@@ -27,6 +27,7 @@ History
 2017-04-15 begin migration to Github
 2017-04-18 added Bibles from unbound.biola.edu (converted 2012)
 2021-09-25 updated copyright information, added CC0 data from https://github.com/christos-c/bible-corpus
+2021-09-29 added Catalan and Bavarian (build scripts only)
 
 Current status
 --------------
