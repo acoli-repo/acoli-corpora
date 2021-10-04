@@ -1,3 +1,6 @@
 [submodule "original/germhist"]
 	path = original/gmh-ReM-syntax
 	url = https://github.com/acoli-repo/germhist
+[submodule "original/mtaac_gold_corpus"]
+	path = original/sux-mtaac-morphology-manually
+	url = https://github.com/cdli-gh/mtaac_gold_corpus
