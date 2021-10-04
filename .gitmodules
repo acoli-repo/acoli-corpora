@@ -10,3 +10,6 @@
 [submodule "original/mtaac_cdli_ur3_corpus"]
 	path = original/sux-mtaac-ur3
 	url = https://github.com/cdli-gh/mtaac_cdli_ur3_corpus
+[submodule "original/RRG"]
+	path = original/en-RRG-corpus
+	url = https://github.com/acoli-repo/RRG
