@@ -7,3 +7,6 @@
 [submodule "original/mtaac_syntax_corpus"]
 	path = original/sux-mtaac-syntax
 	url = https://github.com/cdli-gh/mtaac_syntax_corpus
+[submodule "original/mtaac_cdli_ur3_corpus"]
+	path = original/sux-mtaac-ur3
+	url = https://github.com/cdli-gh/mtaac_cdli_ur3_corpus
