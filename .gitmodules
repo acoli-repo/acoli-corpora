@@ -1,0 +1,3 @@
+[submodule "original/germhist"]
+	path = original/germhist
+	url = https://github.com/acoli-repo/germhist
