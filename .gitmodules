@@ -4,3 +4,6 @@
 [submodule "original/mtaac_gold_corpus"]
 	path = original/sux-mtaac-morphology-manually
 	url = https://github.com/cdli-gh/mtaac_gold_corpus
+[submodule "original/mtaac_syntax_corpus"]
+	path = original/sux-mtaac-syntax
+	url = https://github.com/cdli-gh/mtaac_syntax_corpus
