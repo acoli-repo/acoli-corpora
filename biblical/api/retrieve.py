@@ -324,6 +324,8 @@ class Retriever:
                                                 schema2code+=[("iso639_2T",fields[2].strip())]
                                             if len(fields[3].strip())>0:
                                                 schema2code+=[("iso639_1",fields[3].strip())]
+                                            if len(fields[6].strip())>0:
+                                                schema2code+=[("label",fields[6].lower().strip())]
 
                                             for src,scode in schema2code:
                                                 for tgt,tcode in schema2code:
@@ -407,11 +409,11 @@ class Retriever:
                 result+=self.normalize_lang(code,schema=schema,src_schema=src_schema)
             return sorted(set(result))
 
-        code=codeOrCodes
+        code=codeOrCodes.lower()
 
         if schema=="bcp47":
             if code in code2src2tgt2code:
-                src_schemas=["iso639_1", "iso639_2T", "iso639_2B", "iso639_3"]
+                src_schemas=["iso639_1", "iso639_2T", "iso639_2B", "iso639_3", "label"]
                 if src_schema!=None:
                     if src_schema in code2src2tgt2code[code]:
                         src_schemas=[src_schema]
@@ -588,5 +590,5 @@ if __name__ == '__main__':
             sys.exit(0)
         lang=line
         pprint(r.get(lang,1))
-        sys.stderr.write("\ndemo mode: enter a language (ISO or BCP47 code) or terminate with <ENTER>: ")
+        sys.stderr.write("\ndemo mode: enter a language (ISO 639 code, BCP47 code, language name) or terminate with <ENTER>: ")
         sys.stderr.flush()
