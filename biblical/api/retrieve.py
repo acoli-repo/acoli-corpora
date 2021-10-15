@@ -38,7 +38,6 @@ from os.path import expanduser
 
     """
 
-
 def get_closest_strings(goal,cands):
     """ unigram similarity """
     if goal in cands:
@@ -425,9 +424,15 @@ class Retriever:
                         if result!=None and len(result)>0:
                             return result
                 except: pass
-            sys.stderr.write("warning: unknown language code \""+code+"\", we use "+"mis-x-unknown-"+code+", instead\n")
+            if not "-" in code:
+                sys.stderr.write("warning: unknown language code \""+code+"\", we use "+"mis-x-unknown-"+code+", instead\n")
+                sys.stderr.flush()
+                return [ "mis-x-unknown-"+code ]
+
+        if "-" in code:
+            sys.stderr.write("warning: no match for full BCP47 code \""+code+"\", reducing to "+code[0:code.index("-")]+"\n")
             sys.stderr.flush()
-            return [ "mis-x-unknown-"+code ]
+            return self.normalize_lang(code[0:code.index("-")])
 
         if code in code2src2tgt2code:
             for src in code2src2tgt2code[code]:
@@ -437,7 +442,7 @@ class Retriever:
         else:
             raise Exception("code \""+code+"\" not found, did you mean any of "+", ".join(get_closest_strings(code,code2src2tgt2code.keys()))+"?")
 
-    def get(self, lang, results=1, src=None, file_pattern=None, keep_comments=True, drop_punctuation=False):
+    def get(self, lang, results=1, src=None, file_pattern=None):
             """ return dictionary: file_name -> verse_id -> text
             src is a string that restricts results to a particular collection
             file_pattern is a string or regexp that restricts results (operates on base name)
@@ -493,11 +498,13 @@ class Retriever:
         "lower": False                  # lower case
         }
 
-    def configure_output(self, keep_comments=None, drop_punctuation=None):
+    def configure_output(self, keep_comments=None, drop_punctuation=None, lower=None):
         if keep_comments!=None:
             self.config["keep_comments"] = keep_comments
         if drop_punctuation!=None:
             self.config["drop_punctuation"] = drop_punctuation
+        if lower!=None:
+            self.config["lower"] = lower
         sys.stderr.write("Retriever.config = "+str(self.config)+"\n")
         sys.stderr.flush()
 
@@ -570,7 +577,16 @@ if __name__ == '__main__':
     args.add_argument("-l", "--langs", type=str, action="extend", nargs="*", help="one or multiple languages, we recommend BCP47 codes", default=None)
     args=args.parse_args()
 
-    r = Retriever()
-    # r = Retriever(cache_dir=args.cache_dir, sources=args.collections, langs=args.langs)
-    sys.stderr.write("example call: retrieve one English Bible")
-    pprint(r.get("eng",1))
+    r = Retriever(cache_dir=args.cache_dir, sources=args.collections, langs=args.langs)
+
+    sys.stderr.write("demo mode: enter a language (ISO or BCP47 code): ")
+    sys.stderr.flush()
+    for line in sys.stdin:
+        line=line.strip()
+        if line=="":
+            sys.stderr.write("bye!")
+            sys.exit(0)
+        lang=line
+        pprint(r.get(lang,1))
+        sys.stderr.write("\ndemo mode: enter a language (ISO or BCP47 code) or terminate with <ENTER>: ")
+        sys.stderr.flush()
