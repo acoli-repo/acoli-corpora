@@ -21,7 +21,7 @@ Currently covering more than 110 languages in four, partially overlapping collec
 | Sumerian (sux) | cuneiform   | [MTAAC Gold Corpus](original/sux-mtaac-morphology-manually) | morphology, named entities |
 | Sumerian (sux) | cuneiform   | [MTAAC Ur III Corpus](original/sux-mtaac-ur3) | morphology, named entities, commodities |
 |  |  |   |   |
-| Middle High German (gmh) | Germanic | [ReM Treebank](original/gmh-ReM-syntax) | phrase structure syntax, topological fields |
+| Middle High German (gmh) | Germanic | [ReM Treebank](https://github.com/acoli-repo/germhist/tree/master/full_corpus) | phrase structure syntax, topological fields |
 |  |  |   |   |
 | Afrikaans (af) | Germanic, Biblical | [Bible](biblical/data/germ/afr-afrikaans) | verse-aligned, CES/XML |
 | Bavarian (bar) | Germanic, Biblical | [Bible](biblical/data/germ/bar_bavarian) | verse-aligned, CES/XML |
