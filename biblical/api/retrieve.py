@@ -639,6 +639,6 @@ if __name__ == '__main__':
             sys.stderr.write("bye!")
             sys.exit(0)
         lang=line
-        pprint(r.get(lang,1))
+        print(r.get(lang,1))
         sys.stderr.write("\ndemo mode: enter a language (ISO 639 code, BCP47 code, language name) or terminate with <ENTER>: ")
         sys.stderr.flush()
