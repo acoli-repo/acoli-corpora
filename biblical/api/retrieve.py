@@ -1,5 +1,5 @@
 import sys,re,os,io,traceback,argparse
-import requests,zipfile
+import requests,zipfile,json
 from pprint import pprint
 import urllib.parse
 from os.path import expanduser
@@ -59,6 +59,8 @@ def get_closest_strings(goal,cands):
     return result
 
 class Retriever:
+
+    formats=["dict","text","conll","json"]
 
     src2conf={
         "acoli" : { "url" : "https://github.com/acoli-repo/acoli-corpora/raw/master/biblical/data/", "file_filter" : r".*xml$", "skip_dir_pattern": r".*/zips.*" },
@@ -489,29 +491,70 @@ class Retriever:
                                                                 verse2text[id]+=" "+string
                                         result["/".join(file.split("/")[-3:])]=verse2text
                                         if len(result)==results:
-                                            return result
-            return result
+                                            return self._format(result)
+            return self._format(result)
 
     cache_dir=str(os.path.join(expanduser("~"),"Downloads","bibles"))
 
     config={
         "keep_comments" : True,         # if false, remove content of paired (and, heuristically, unpaired) parentheses
         "drop_punctuation" : False ,    # drop punctuation, insert whitespaces
-        "lower": False                  # lower case
+        "lower": False,                 # lower case
+        "format": "dict"                # return format, "dict" is a python object
         }
 
-    def configure_output(self, keep_comments=None, drop_punctuation=None, lower=None):
+    def _format(self, result: dict):
+        """ for serializing bible results
+            note that conll mode performs whitespace tokenization only, so punctuation (etc.) is only treated as separate punctuation if it is surrounded by whitespaces
+         """
+        format=self.config["format"]
+        if format=="dict":
+            return result
+
+        if format=="json":
+            return json.dumps(result)
+
+        if format=="text":
+            output=""
+            for id in result:
+                output+="# document "+id+"\n"
+                for verse in result[id]:
+                    output+=verse+"\t"+result[id][verse]+"\n"
+                output+="\n"
+            return output
+
+        if format=="conll":
+            output=""
+            for id in result:
+                output+="# document "+id+"\n"
+                for verse in result[id]:
+                    output+="# "+verse+"\n"
+                    for nr,token in enumerate(result[id][verse].split()):
+                        output+=str(nr+1)+"\t"+token+"\n"
+                    output+="\n"
+                output+="\n"
+            return output
+
+
+        raise Exception("unsupported return format \""+format+"\"")
+
+    formats=["dict","text","conll","json"]
+
+
+    def configure_output(self, keep_comments=None, drop_punctuation=None, lower=None, format=None):
         if keep_comments!=None:
             self.config["keep_comments"] = keep_comments
         if drop_punctuation!=None:
             self.config["drop_punctuation"] = drop_punctuation
         if lower!=None:
             self.config["lower"] = lower
+        if format!=None:
+            self.config["format"] = format
         sys.stderr.write("Retriever.config = "+str(self.config)+"\n")
         sys.stderr.flush()
 
 
-    def preprocess(self, line:str ):
+    def preprocess(self, line:str):
                                                             """ configure with configure_output() """
                                                             string=line
                                                             string=re.sub(r"<[^>]*>","",string)
@@ -536,9 +579,13 @@ class Retriever:
                                                             return string
 
 
-    def __init__(self, cache_dir=None, sources=None, langs=None):
+    def __init__(self, cache_dir=None, sources=None, langs=None, format=None):
+
+        self.configure_output(format=format)
+
         if cache_dir!=None:
             self.cache_dir=cache_dir
+
         cache_dir=self.cache_dir
         src2conf=self.src2conf
 
@@ -573,13 +620,16 @@ class Retriever:
 if __name__ == '__main__':
     # demo mode
 
+    formats=r.formats
+
     args=argparse.ArgumentParser("retrieve Bibles from various web sources")
     args.add_argument("collections", type=str, action="extend", nargs="*", help="URI(s) or collection identifier(s), as for the latter, chose one of "+", ".join(Retriever.src2conf.keys()))
     args.add_argument("-c", "--cache_dir", type=str, help="directory to host locally cached Bibles, defaults to "+Retriever.cache_dir+".", default=Retriever.cache_dir)
     args.add_argument("-l", "--langs", type=str, action="extend", nargs="*", help="one or multiple languages, we recommend BCP47 codes", default=None)
+    args.add_argument("-f", "--format", type=str, help="output format, one of "+", ".join(formats)+", defaults to "+formats[0], default=formats[0])
     args=args.parse_args()
 
-    r = Retriever(cache_dir=args.cache_dir, sources=args.collections, langs=args.langs)
+    r = Retriever(cache_dir=args.cache_dir, sources=args.collections, langs=args.langs, format=args.format)
 
     sys.stderr.write("demo mode: enter a language (ISO or BCP47 code): ")
     sys.stderr.flush()

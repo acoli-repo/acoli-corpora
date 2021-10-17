@@ -44,6 +44,18 @@ Programmatically, use it as a library:
         $> r.get("eng",1)
         # use this as an alternative to tokenization, strips off punctuation symbols and replaces them by whitespaces
 
+        $> r.configure(format="json")
+        $> r.get("eng",1)
+        # return json string (instead of default Python dict)
+
+        $> r.configure(format="text")
+        $> r.get("eng",1)
+        # text output, TSV format with VERSE<TAB>TEXT and document id as comment
+
+        $> r.configure(format="conll")
+        $> r.get("eng",1)
+        # text output, TSV format with ID<TAB>WORD, note that we do whitespace tokenization only, so punctuation is not stripped
+
         # for gazeteer-based annotation:
         # get the same normalization with
         $> r.preprocess("this is another (small, ...) Fragment to be compared with")
