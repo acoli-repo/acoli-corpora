@@ -579,9 +579,9 @@ class Retriever:
                                                             return string
 
 
-    def __init__(self, cache_dir=None, sources=None, langs=None, format=None):
+    def __init__(self, cache_dir=None, sources=None, langs=None, format=None, keep_comments=None, drop_punctuation=None, lower=None):
 
-        self.configure_output(format=format)
+        self.configure_output(keep_comments=keep_comments, drop_punctuation=drop_punctuation, lower=lower, format=format)
 
         if cache_dir!=None:
             self.cache_dir=cache_dir
@@ -622,23 +622,31 @@ if __name__ == '__main__':
 
     formats=Retriever.formats
 
-    args=argparse.ArgumentParser("retrieve Bibles from various web sources")
-    args.add_argument("collections", type=str, action="extend", nargs="*", help="URI(s) or collection identifier(s), as for the latter, chose one of "+", ".join(Retriever.src2conf.keys()))
+    args=argparse.ArgumentParser("retrieve Bibles from various web sources, from command-line: retrieve first Bible per language")
+    args.add_argument("id", nargs="?", type=str, help="language to return a Bible for, if none, go to interactive (demo) mode", default=None)
+    args.add_argument("-subset", "--collections", type=str, action="extend", nargs="*", help="URI(s) or collection identifier(s), as for the latter, chose one of "+", ".join(Retriever.src2conf.keys()))
     args.add_argument("-c", "--cache_dir", type=str, help="directory to host locally cached Bibles, defaults to "+Retriever.cache_dir+".", default=Retriever.cache_dir)
     args.add_argument("-l", "--langs", type=str, action="extend", nargs="*", help="one or multiple languages, we recommend BCP47 codes", default=None)
     args.add_argument("-f", "--format", type=str, help="output format, one of "+", ".join(formats)+", defaults to "+formats[0], default=formats[0])
+    args.add_argument("-no_comments", "--remove_comments", action="store_true", help="remove content in parentheses")
+    args.add_argument("-no_punct", "--drop_punctuation", action="store_true", help="strip off punctation sings")
+    args.add_argument("-lower", "--lower_case", action="store_true", help="lower case")
     args=args.parse_args()
 
-    r = Retriever(cache_dir=args.cache_dir, sources=args.collections, langs=args.langs, format=args.format)
+    r = Retriever(cache_dir=args.cache_dir, sources=args.collections, langs=args.langs, format=args.format, keep_comments=not args.remove_comments, drop_punctuation=args.drop_punctuation, lower=args.lower_case)
 
-    sys.stderr.write("demo mode: enter a language (ISO or BCP47 code): ")
-    sys.stderr.flush()
-    for line in sys.stdin:
-        line=line.strip()
-        if line=="":
-            sys.stderr.write("bye!")
-            sys.exit(0)
-        lang=line
-        print(r.get(lang,1))
-        sys.stderr.write("\ndemo mode: enter a language (ISO 639 code, BCP47 code, language name) or terminate with <ENTER>: ")
+    if args.id!=None:
+        print(r.get(args.id))
+
+    else:
+        sys.stderr.write("\ninteractive mode: enter a language (ISO 639 code, BCP47 code, language name) or terminate with <ENTER>: ")
         sys.stderr.flush()
+        for line in sys.stdin:
+            line=line.strip()
+            if line=="":
+                sys.stderr.write("bye!")
+                sys.exit(0)
+            lang=line
+            print(r.get(lang,1))
+            sys.stderr.write("\ninteractive mode: enter a language (ISO 639 code, BCP47 code, language name) or terminate with <ENTER>: ")
+            sys.stderr.flush()
