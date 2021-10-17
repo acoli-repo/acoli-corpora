@@ -620,7 +620,7 @@ class Retriever:
 if __name__ == '__main__':
     # demo mode
 
-    formats=r.formats
+    formats=Retriever.formats
 
     args=argparse.ArgumentParser("retrieve Bibles from various web sources")
     args.add_argument("collections", type=str, action="extend", nargs="*", help="URI(s) or collection identifier(s), as for the latter, chose one of "+", ".join(Retriever.src2conf.keys()))
