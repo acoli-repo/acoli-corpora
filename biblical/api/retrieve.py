@@ -63,9 +63,10 @@ class Retriever:
     formats=["dict","text","conll","json"]
 
     src2conf={
+        # full acoli data
         "acoli" : { "url" : "https://github.com/acoli-repo/acoli-corpora/raw/master/biblical/data/", "file_filter" : r".*xml$", "skip_dir_pattern": r".*/zips.*" },
 
-        # subsets, examplary (define your own!)
+        # subsets, examplary (use url(s), file_filter and skip_dir pattern to define your own subcorpora!)
         "acoli-en" : { "url" : "https://github.com/acoli-repo/acoli-corpora/raw/master/biblical/data/germ/en_modern-english/","file_filter" : r".*xml$", "skip_dir_pattern": r".*/zips.*"},
         "acoli-germ" : { "url" : "https://github.com/acoli-repo/acoli-corpora/raw/master/biblical/data/germ/","file_filter" : r".*xml$", "skip_dir_pattern": r".*/zips.*"},
         "acoli-ide" : { "urls" : [ "https://github.com/acoli-repo/acoli-corpora/raw/master/biblical/data/germ/", "https://github.com/acoli-repo/acoli-corpora/raw/master/biblical/data/indoeuropean-other/"], "file_filter" : r".*xml$", "skip_dir_pattern": r".*/zips.*"},
@@ -76,10 +77,13 @@ class Retriever:
         # notes: included in acoli (and subcollections), but these may be more recent
         "100bib" : { "url" : "https://github.com/christos-c/bible-corpus/tree/master/bibles", "file_filter" : r".*xml$" },
 
-        # resnik: the prototype for these Bible corpora, the Bibles have no copyright clearance
+        # resnik: the prototype for these Bible corpora, most of these Bibles have no copyright clearance
         # issues: - this is not XML, but SGML
         #         - language identifiers for Cebuano, Danish, Greek and French are broken, Swahili bible doesn't resolve anymore
-        ### "resnik" : { "url" : "http://users.umiacs.umd.edu/~resnik/parallel/bible.html" , "file_filter" : None }
+        #         - encoding for Greek is broken (Greek-Latin mixture)
+        #         - non-Unicode data, but converter expects Unicode
+        #         - untested and unlikely to perform well (at least not for every language)
+        "resnik" : { "url" : "http://users.umiacs.umd.edu/~resnik/parallel/bible.html" , "file_filter" : None }
     }
 
     lang2src2bibles={}
@@ -526,9 +530,10 @@ class Retriever:
         if format=="conll":
             output=""
             for id in result:
-                output+="# document "+id+"\n"
                 for verse in result[id]:
-                    output+="# "+verse+"\n"
+                    output+="# doc_id = "+id+"\n"
+                    output+="# sent_id = "+verse+"\n"
+                    output+="# text = "+result[id][verse]+"\n"
                     for nr,token in enumerate(result[id][verse].split()):
                         output+=str(nr+1)+"\t"+token+"\n"
                     output+="\n"
