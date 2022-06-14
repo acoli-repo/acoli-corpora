@@ -12,6 +12,8 @@ Our distribution is thus limited to
 - unmodified files redistributable for a particular application
 - converted files with the necessary clearance
 
+Note that as of June 22, 2022, we've become aware that the portal has been shut down. These scripts are thus defunct, but left here for further reference, in particular, for the case that a mirror of the data may resurface at some point.
+
 History
 -------
 2012-12-12 retrieved and compiled [CC]
@@ -19,6 +21,7 @@ History
 2017-04-18 Github migration: 
 	releasable data under https://github.com/acoli-repo/acoli-corpora/tree/master/biblical/data
 	build scripts under https://github.com/acoli-repo/acoli-corpora/tree/master/biblical/build-scripts/unbound.biola.edu
+2022-06-14 biola.edu found to have shut down their bible corpus, data cannot be rebuilt, anymore
 
 Contributors
 ------------
