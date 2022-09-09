@@ -1,9 +1,17 @@
 # Low German bibles and bible excerpts
 
-cf. https://menora-bibel.jimdofree.com/historische-bibeln/deutsch/niederdeutsche-bibeln/
+compile with
+
+	$> make
+
+## processed
 
 North Low Saxonian (nds)
 	- Paulsen 1884, https://www.gutenberg.org/files/64440/64440-h/64440-h.htm (modernized version of Bugenhagen 1533, Western Low German; North Low Saxonian; the translator was born and died in Schleswig)
+
+## to be processed
+
+cf. https://menora-bibel.jimdofree.com/historische-bibeln/deutsch/niederdeutsche-bibeln/
 
 West Phalian (wep)
 	- Stolte 1933, http://www.plattdeutsch-niederdeutsch.net/neues_testament/ (Eastern West Phalian, Ravensberger Land), cf. http://www.plattdeutsch-niederdeutsch.net/neues_testament/johannes.htm
