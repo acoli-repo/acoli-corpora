@@ -1,0 +1,3229 @@
+1	t1_m1	wart	wērden¹	VAFIN	St.1-3.Sg.Past.Ind	_
+2	t2_m1	ghemartelet	marteren	VVPP	--	_
+3	t3_m1	.	--	$;	--	Satz
+
+1	t4_m1	do	dô¹	AVD	--	_
+2	t5_m1	was	wēsen²	VAFIN	Irr.3.Sg.Past.Ind	_
+3	t6_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+4	t7_m1	bok	bôk¹	NA	Neut.Nom.Sg	_
+5	t8_m1	gheopen	ōpenen	VVPP	--	Satz
+
+1	t9_m1	de	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Pl	_
+2	t10_m1	zeuene	sēven¹	CARDA	Neut.Akk	_
+3	t11_m1	horne	hōrn	NA	Neut.Akk.Pl	_
+4	t12_m1	vnde	unde²	KON	--	_
+5	t13_m1	dey	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Pl	_
+6	t14_m1	zeuen	sēven¹	CARDA	Neut.Akk	_
+7	t15_m1	oyghen	ôge	NA	Neut.Akk.Pl	_
+8	t16_m1	.	--	$;	--	Satzteil_I
+9	t17_m1	de	dê¹,dê¹,dat²A	DPRELS	Neut.Akk.Pl	_
+10	t18_m1	dar	dâr¹	AVD	--	_
+11	t19_m1	hadde	hebben	VVFIN	Sw.3.Sg.Past.*	_
+12	t20_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+13	t21_m1	lam	lam¹	NA	Neut.Nom.Sg	_
+14	t22_m1	.	--	$;	--	Satz
+
+1	t23_m1	dar	dâr¹	PAVKO	--	_
+2	t24_m1	an	an	PAVAP	--	_
+3	t25_m1	ne	ne²	PTKNEG	--	_
+4	t26_m1	tviuuele	twîvelen	VVFIN	Sw.3.Sg.Pres.Konj	_
+5	t27_m1	nyn	nêⁱn¹	DNEGA	Masc.Nom.Sg	_
+6	t27_m2	man	man¹	NA	Masc.Nom.Sg	_
+7	t28_m1	.	--	$;	--	Satzteil_F
+8	t29_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+9	t30_m1	zint	wēsen²	VVFIN	Irr.3.Pl.Pres.Ind	_
+10	t31_m1	des	dê¹,dê¹,dat²A	DDARTA	Masc.Gen.Sg	_
+11	t32_m1	hilghen	hillich	ADJA	Pos.Masc.Gen.Sg.Sw	_
+12	t33_m1	gheystes	gêⁱst³	NA	Masc.Gen.Sg	_
+13	t34_m1	zeuen	sēven¹	CARDA	Fem.Nom	_
+14	t35_m1	gaue	gâve	NA	Fem.Nom.Pl	_
+15	t36_m1	.	--	$;	--	Satz
+
+1	t37_m1	de	dê¹,dê¹,dat²A	DPRELS	Fem.Nom.Pl	_
+2	t38_m1	dar	dâr¹	AVD	--	_
+3	t39_m1	geuen	gēven	VVFIN	St.3.Pl.Pres.*	_
+4	t40_m1	vrede	vrēde	NA	Masc.Akk.Sg	_
+5	t41_m1	vnde	unde²	KON	--	_
+6	t42_m1	ghenade	genâde	NA	Fem.Akk.Sg	_
+7	t43_m1	in	in²	APPR	Dat	_
+8	t43_m2	den	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Pl	_
+9	t44_m1	zeuen	sēven¹	CARDA	Fem.Dat	_
+10	t45_m1	stunden	stunde	NA	Fem.Dat.Pl	_
+11	t46_m1	.	--	$;	--	Satz
+
+1	t47_m1	do	dô¹	KOUS	--	_
+2	t48_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+3	t49_m1	lam	lam¹	NA	Neut.Nom.Sg	_
+4	t50_m1	wart	wērden¹	VAFIN	St.3.Sg.Past.Ind	_
+5	t51_m1	ghewnͦdet	wunden	VVPP	--	_
+6	t52_m1	.	--	$;	--	Satz
+
+1	t53_m1	nu	nû¹	AVD	--	_
+2	t54_m1	zole	schȫlen¹	VMFIN	Prpr.2.Pl.Pres.*	_
+3	t55_m1	gy	gî²	PPER	2.Pl._.Nom	_
+4	t56_m1	horen	hö̂ren²	VVINF	--	Satz
+
+1	t57_m1	wat	wat(te)³	DPWS	Neut.Nom.Sg	_
+2	t58_m1	de	dê¹,dê¹,dat²A	DDARTA	Masc-Neut.Nom.Pl	_
+3	t59_m1	zeuen	sēven¹	CARDA	Masc-Neut.Nom	_
+4	t60_m1	ynghezighele	ingesēgel	NA	Masc-Neut.Nom.Pl	_
+5	t61_m1	weren	wēsen²	VVFIN	Irr.3.Pl.Past.*	_
+6	t62_m1	.	--	$;	--	Satz
+
+1	t63_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t64_m1	irst	êrst¹	ADJS	Sup.Neut.Nom.Sg.St	_
+3	t65_m1	was	wēsen²	VVFIN	Irr.3.Sg.Past.Ind	_
+4	t66_m1	de	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+5	t67_m1	engel	engel	NA	Masc.Nom.Sg	Satzteil_I
+6	t68_m1	dey	dê¹,dê¹,dat²A	DPRELS	Masc.Nom.Sg	_
+7	t69_m1	de	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Sg	_
+8	t70_m1	bodeschap	bōdeschop	NA	Fem.Akk.Sg	_
+9	t71_m1	warf	werven	VVFIN	St.3.Sg.Past.Ind	_
+10	t72_m1	.	--	$;	--	Satz
+
+1	t73_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t74_m1	ander	ander	DPIS	Neut.Nom.Sg	Satzteil_M
+3	t75_m1	dat	dat²B	KOUS	--	_
+4	t76_m1	gheboren	(ge)bēren¹	VVPP	--	_
+5	t77_m1	god	got¹	NA	Masc.Nom.Sg	_
+6	t78_m1	wart	wērden¹	VAFIN	St.3.Sg.Past.Ind	_
+7	t79_m1	.	--	$;	--	Satz
+
+1	t80_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t81_m1	derde	derde	ADJS	Pos.Neut.Nom.Sg.Sw	Satzteil_M
+3	t82_m1	dat	dat²B	KOUS	--	_
+4	t83_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+5	t84_m1	ghedoft	dö̂pen	VVPP	--	_
+6	t85_m1	wart	wērden¹	VAFIN	St.3.Sg.Past.Ind	_
+7	t86_m1	.	--	$;	--	Satz
+
+1	t87_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t88_m1	virde	vêrde⁴	ADJS	Pos.Neut.Nom.Sg.Sw	_
+3	t89_m1	.	--	$;	--	Satzteil_M
+4	t90_m1	dat	dat²B	KON	--	_
+5	t91_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+6	t92_m1	leyt	lîden¹	VVFIN	St.3.Sg.Past.Ind	_
+7	t93_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Akk.Sg	_
+8	t94_m1	dot	dôt²	NA	Masc.Akk.Sg	_
+9	t95_m1	.	--	$;	--	Satz
+
+1	t96_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t97_m1	vifte	vefte	ADJS	Pos.Neut.Nom.Sg.Sw	Satzteil_M
+3	t98_m1	dat	dat²B	KOUS	--	_
+4	t99_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+5	t100_m1	van	van¹	APPR	Dat	_
+6	t101_m1	dode	dôt²	NA	Masc.Dat.Sg	_
+7	t102_m1	upstunt	upstân	VVFIN	Irr.3.Sg.Past.Ind	_
+8	t103_m1	.	--	$;	--	Satz
+
+1	t104_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t105_m1	zeste	seste	ADJS	Pos.Neut.Nom.Sg.Sw	Satzteil_M
+3	t106_m1	dat	dat²B	KOUS	--	_
+4	t107_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+5	t108_m1	tho	tô¹	APPR	Dat	_
+6	t109_m1	hemele	hemmel	NA	Masc.Dat.Sg	_
+7	t110_m1	vuͦr	vāren¹	VVFIN	St.3.Sg.Past.Ind	_
+8	t111_m1	tho	tô¹	APPR	Dat	_
+9	t112_m1	och	ôk	AVKO	--	_
+10	t113_m1	zune	sö̂ne²	NA	Masc-Fem.Dat.Sg	_
+11	t114_m1	allen	al	DIA	Neut.Dat.Pl	_
+12	t115_m1	luden	lü̂de¹	NA	Neut.Dat.Pl	_
+13	t116_m1	.	--	$;	--	Satz
+
+1	t117_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t118_m1	zeuende	sēvende	ADJS	Pos.Neut.Nom.Sg.Sw	Satzteil_F
+3	t119_m1	dat	dat²B	KOUS	--	_
+4	t120_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+5	t121_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Akk.Sg	_
+6	t122_m1	hilighen	hillich	ADJA	Pos.Masc.Akk.Sg.*	_
+7	t123_m1	gheyst	gêⁱst³	NA	Masc.Akk.Sg	_
+8	t124_m1	weder	wedder²	AVD	--	_
+9	t125_m1	zande	senden	VVFIN	Sw.3.Sg.Past.*	_
+10	t126_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+11	t127_m1	hilighen	hillich	ADJA	Pos.Fem.Dat.Sg.Sw	_
+12	t128_m1	cristenheit	kristenhêⁱt	NA	Fem.Dat.Sg	_
+13	t129_m1	.	--	$;	--	Satz
+
+1	t130_m1	do	dô¹	KOUS	--	_
+2	t131_m1	de	dê¹,dê¹,dat²A	DDARTA	*.Nom.Pl	_
+3	t132_m1	zeuen	sēven¹	CARDA	*.Nom	_
+4	t133_m1	misteria	--	FM	--	_
+5	t134_m1	waren	wēsen²	VAFIN	Irr.3.Pl.Past.Ind	_
+6	t135_m1	vuͦlghan	vulgân	VVPP	--	_
+7	t136_m1	.	--	$;	--	Satz
+
+1	t137_m1	do	dô¹	AVD	--	_
+2	t138_m1	waren	wēsen²	VAFIN	Irr.3.Pl.Past.Ind	_
+3	t139_m1	de	dê¹,dê¹,dat²A	DDARTA	Masc-Neut.Nom.Pl	_
+4	t140_m1	ynghezighele	ingesēgel	NA	Masc-Neut.Nom.Pl	_
+5	t141_m1	opghedan	updôn	VVPP	--	Satz
+
+1	t142_m1	do	dô¹	AVD	--	_
+2	t143_m1	wiste	wēten¹	VVFIN	Prpr.3.Sg.Past.*	_
+3	t144_m1	men	man²	DPIS	_.Nom.Sg	_
+4	t145_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Akk.Sg	_
+5	t146_m1	vorholenen	vorhēlen²	ADJA	Pos.Masc.Akk.Sg.*	_
+6	t147_m1	rat	rât¹	NA	Masc.Akk.Sg	_
+7	t148_m1	oueral	ȫveral	AVD	--	_
+8	t149_m1	.	--	$;	--	Satz
+
+1	t150_m1	do	dô¹	AVD	--	_
+2	t151_m1	hof	hēven²	VVFIN	St.3.Sg.Past.Ind	_
+3	t152_m1	zik	sik¹	PRF	3.Sg.Dat-Akk	_
+4	t153_m1	in	in²	APPR	Dat	_
+5	t153_m2	deme	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Sg	_
+6	t154_m1	hemele	hemmel	NA	Masc.Dat.Sg	_
+7	t155_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Masc.Nom.Sg	_
+8	t156_m1	michel	michel	ADJA	Pos.Masc.Nom.Sg.St	_
+9	t157_m1	schal	schal²	NA	Masc.Nom.Sg	Satz
+
+1	t158_m1	winte	went(e)	KOUS	--	_
+2	t159_m1	got	got¹	NA	Masc.Nom.Sg	_
+3	t160_m1	van	van¹	APPR	Dat	_
+4	t161_m1	ertrike	ērtrîke	NA	Neut.Dat.Sg	_
+5	t162_m1	quam	kōmen¹	VVFIN	St.3.Sg.Past.Ind	_
+6	t163_m1	tho	tô¹	APPR	Dat	_
+7	t164_m1	hemelrike	hemmelrîk(e)	NA	Neut.Dat.Sg	_
+8	t165_m1	mid	mit	APPR	Dat	_
+9	t166_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+10	t167_m1	menscheit	minschêⁱt	NA	Fem.Dat.Sg	_
+11	t168_m1	ghevaren	vāren¹	ADJV	Pos	Satz
+
+1	t169_m1	do	dô¹	AVD	--	_
+2	t170_m1	vrouueden	vrouwen²	VVFIN	Sw.3.Pl.Past.*	_
+3	t171_m1	zik	sik¹	PRF	3.Pl.Dat-Akk	_
+4	t172_m1	de	dê¹,dê¹,dat²A	DDARTA	*.Nom.Pl	_
+5	t173_m1	himelesche	hemmelsch	ADJA	Pos.*.Nom.Pl.St	_
+6	t174_m1	schare	schāre²	NA	*.Nom.Pl	_
+7	t175_m1	.	--	$;	--	Satz
+
+1	t176_m1	vnde	unde²	KON	--	_
+2	t177_m1	zunghen	singen	VVFIN	St.3.Pl.Past.*	_
+3	t178_m1	mid	mit	APPR	Dat	_
+4	t179_m1	zoter	sö̂te²	ADJA	Pos.Fem.Dat.Sg.St	_
+5	t180_m1	stemme	stem(me)	NA	Fem.Dat.Sg	_
+6	t181_m1	gloria	--	FM	--	_
+7	t182_m1	tibi	--	FM	--	_
+8	t183_m1	domine	--	FM	--	_
+9	t184_m1	.	--	$;	--	Satz
+
+1	t185_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t186_m1	spreket	sprēken	VVFIN	St.3.Sg.Pres.Ind	Satz
+
+1	t187_m1	lof	lof⁴	NA	Masc-Neut.Nom.Sg	_
+2	t188_m1	zi	wēsen²	VVFIN	Irr.3.Sg.Pres.Konj	_
+3	t189_m1	di	dû¹	PPER	2.Sg._.Dat-Akk	_
+4	t190_m1	here	hêre⁴	NA	Masc.Dat-Akk.Sg	_
+5	t191_m1	.	--	$;	--	Satz
+
+1	t192_m1	dar	dâr¹	PAVKO	--	_
+2	t193_m1	vmme	ümme³	PAVAP	--	_
+3	t194_m1	dat	dat²B	KOUS	--	_
+4	t195_m1	de	dê¹,dê¹,dat²A	DDARTA	Masc-Fem.Nom.Sg	_
+5	t196_m1	tid	tît	NA	Masc-Fem.Nom.Sg	_
+6	t197_m1	komen	kōmen¹	VVPP	--	_
+7	t198_m1	is	wēsen²	VAFIN	Irr.3.Sg.Pres.Ind	_
+8	t199_m1	.	--	$;	--	Satz
+
+1	t200_m1	dat	dat²B	KOUS	--	_
+2	t201_m1	din	dîn	DPOSA	Masc.Nom.Sg	_
+3	t202_m1	rat	rât¹	NA	Masc.Nom.Sg	_
+4	t203_m1	is	wēsen²	VAFIN	Irr.3.Sg.Pres.Ind	_
+5	t204_m1	vuͦllenghan	vulgân	VVPP	--	_
+6	t205_m1	.	--	$;	--	Satz
+
+1	t206_m1	dar	dâr¹	PAVKO	--	_
+2	t207_m1	vnse	unse¹	DPOSA	Fem.Nom.Sg	_
+3	t208_m1	vroude	vröude	NA	Fem.Nom.Sg	_
+4	t209_m1	bi	bî	PAVAP	--	_
+5	t210_m1	bestat	bestân	VVFIN	Irr.3.Sg.Pres.Ind	Satz
+
+1	t211_m1	nuͦ	nû¹	AVD	--	_
+2	t212_m1	zal	schȫlen¹	VMFIN	Prpr.1.Sg.Pres.Ind	_
+3	t213_m1	ich	ik	PPER	1.Sg._.Nom	_
+4	t214_m1	uch	ôk	AVKO	--	_
+5	t215_m1	des	dê¹,dê¹,dat²A	DPDS	Masc-Neut.Gen.Sg	_
+6	t216_m1	manen	mānen	VVINF	--	_
+7	t217_m1	dat	dat²B	KOUS	--	_
+8	t218_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+9	t219_m1	bok	bôk¹	NA	Neut.Nom.Sg	_
+10	t220_m1	ghescreuen	schrîven	VVPP	--	_
+11	t221_m1	buten	bûten²	AVD	--	_
+12	t222_m1	vnde	unde²	KON	--	_
+13	t223_m1	binnen	binnen	AVD	--	_
+14	t224_m1	.	--	$;	--	Satz
+
+1	t225_m1	de	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+2	t226_m1	vtere	ü̂ter¹	ADJA	Comp.Fem.Nom.Sg.*	_
+3	t227_m1	scrift	schrift	NA	Fem.Nom.Sg	_
+4	t228_m1	betekent	betêⁱkenen	VVFIN	Sw.3.Sg.Pres.Ind	_
+5	t229_m1	de	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Pl	_
+6	t230_m1	alden	ōlt	ADJA	Pos.Fem.Akk.Pl.*	_
+7	t231_m1	.	--	$;	--	_
+8	t232_m1	e	ê¹	NA	Fem.Akk.Pl	_
+9	t233_m1	.	--	$;	--	_
+10	t234_m1	innere	inneren	ADJV	Pos	_
+11	t235_m1	de	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Pl	_
+12	t236_m1	nighen	nîe	ADJA	Pos.Fem.Akk.Pl.*	_
+13	t237_m1	.	--	$;	--	_
+14	t238_m1	e	ê¹	NA	Fem.Akk.Pl	_
+15	t239_m1	.	--	$;	--	Satz
+
+1	t240_m1	de	dê¹,dê¹,dat²A	DDARTA	Masc-Fem.Nom.Sg	_
+2	t241_m1	rechte	recht²	ADJA	Pos.Masc-Fem.Nom.Sg.*	_
+3	t242_m1	warheyt	wârhêⁱt	NA	Masc-Fem.Nom.Sg	_
+4	t243_m1	in	in²	APPR	Dat	_
+5	t243_m2	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+6	t244_m1	nigen	nîe	ADJA	Pos.Fem.Dat.Sg.Sw	_
+7	t245_m1	.	--	$;	--	_
+8	t246_m1	e	ê¹	NA	Fem.Dat.Sg	_
+9	t247_m1	.	--	$;	--	_
+10	t248_m1	komen	kōmen¹	VVINF	--	_
+11	t249_m1	zolde	schȫlen¹	VMFIN	Prpr.3.Sg.Past.*	Satz
+
+1	t250_m1	was	wēsen²	VAFIN	Irr.3.Sg.Past.Ind	_
+2	t251_m1	in	in²	APPR	Dat	_
+3	t252_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+4	t253_m1	alden	ōlt	ADJA	Pos.Fem.Dat.Sg.Sw	_
+5	t254_m1	.	--	$;	--	_
+6	t255_m1	e	ê¹	NA	Fem.Dat.Sg	_
+7	t256_m1	.	--	$;	--	_
+8	t257_m1	mid	mit	APPR	Dat	_
+9	t258_m1	den	dê¹,dê¹,dat²A	DDARTA	Neut.Dat.Sg	_
+10	t259_m1	vronen	vrône¹	ADJA	Pos.Neut.Dat.Sg.*	_
+11	t260_m1	bilde	bē̆lde	NA	Neut.Dat.Sg	_
+12	t261_m1	behalden	behōlden	VVPP	--	Satz
+
+1	t262_m1	alse	alsô	AVKO	--	_
+2	t263_m1	dar	dâr¹	AVD	--	_
+3	t264_m1	ghescha	geschên¹	VVFIN	St.3.Sg.Past.Ind	_
+4	t265_m1	.	--	$;	--	Satz
+
+1	t266_m1	do	dô¹	AVD	--	_
+2	t267_m1	moyses	Moyses	NE	Masc.Nom.Sg	_
+3	t268_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Akk.Sg	_
+4	t269_m1	buͦsch	busch	NA	Masc.Akk.Sg	_
+5	t270_m1	bernen	bernen	VVINF	--	_
+6	t271_m1	za	sên	VVFIN	St.3.Sg.Past.Ind	_
+7	t272_m1	.	--	$;	--	Satz
+
+1	t273_m1	de	dê¹,dê¹,dat²A	DDARTA	Masc-Fem.Nom.Sg	_
+2	t274_m1	vlamme	vlamme	NA	Masc-Fem.Nom.Sg	_
+3	t275_m1	eyn	en⁴	PTKNEG	--	_
+4	t276_m1	schadede	schāden	VVFIN	Sw.3.Sg.Past.*	_
+5	t277_m1	eme	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Dat	_
+6	t278_m1	nicht	nicht¹	PTKNEG	--	Satz
+
+1	t279_m1	alzo	alsô	AVKO	--	_
+2	t280_m1	eyn	en⁴	PTKNEG	--	_
+3	t281_m1	dede	dôn¹	VVFIN	Irr.3.Sg.Past.*	_
+4	t282_m1	vnser	unse¹	DPOSA	Fem.Dat.Sg	_
+5	t283_m1	vrowen	vrouwe²	NA	Fem.Dat.Sg	_
+6	t284_m1	an	an	APPR	Akk	_
+7	t285_m1	warheit	wârhêⁱt	NA	Masc-Fem.Akk.Sg	_
+8	t286_m1	nicht	nicht¹	PTKNEG	--	_
+9	t287_m1	.	--	$;	--	Satz
+
+1	t288_m1	dat	dat²B	KOUS	--	_
+2	t289_m1	zey	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Akk	_
+3	t290_m1	van	van¹	APPR	Dat	_
+4	t291_m1	deme	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Sg	_
+5	t292_m1	helighen	hillich	ADJA	Pos.Masc.Dat.Sg.*	_
+6	t293_m1	gheiste	gêⁱst³	NA	Masc.Dat.Sg	_
+7	t294_m1	entfenghe	entfân	VVFIN	St.3.Sg.Pres.Konj	_
+8	t295_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Neut.Akk.Sg	_
+9	t296_m1	kint	kint	NA	Neut.Akk.Sg	_
+10	t297_m1	.	--	$;	--	Satz
+
+1	t298_m1	vnde	unde²	KON	--	_
+2	t299_m1	iummer	iem(m)er	AVD	--	_
+3	t300_m1	lutter	lutter	ADJV	Pos	_
+4	t301_m1	maghet	māget	NA	Fem.Nom.Sg	_
+5	t302_m1	ginch	gân	VVFIN	Irr.3.Sg.Past.Ind	_
+6	t303_m1	.	--	$;	--	Satz
+
+1	t304_m1	zeuen	sēven¹	CARDA	Masc-Fem.Nom	_
+2	t305_m1	lampen	lampe¹	NA	Masc-Fem.Nom.Pl	Satzteil_I
+3	t306_m1	de	dê¹,dê¹,dat²A	DPRELS	Masc-Fem.Nom.Pl	_
+4	t307_m1	dar	dâr¹	AVD	--	_
+5	t308_m1	hangeden	hangen	VVFIN	St-Sw.3.Pl.Past.*	_
+6	t309_m1	vor	vȫr³	APPR	Dat	_
+7	t310_m1	deme	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Sg	_
+8	t311_m1	throne	trôn¹	NA	Masc.Dat.Sg	Satz
+
+1	t312_m1	vnde	unde²	KON	--	_
+2	t313_m1	branden	bernen	VVFIN	Sw.3.Pl.Past.*	_
+3	t314_m1	schone	schö̂n(e)¹	ADJV	Pos	_
+4	t315_m1	.	--	$;	--	Satz
+
+1	t316_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t317_m1	zint	wēsen²	VVFIN	Irr.3.Pl.Pres.Ind	_
+3	t318_m1	des	dê¹,dê¹,dat²A	DDARTA	Masc.Gen.Sg	_
+4	t319_m1	helighen	hillich	ADJA	Pos.Masc.Gen.Sg.Sw	_
+5	t320_m1	gheystes	gêⁱst³	NA	Masc.Gen.Sg	_
+6	t321_m1	zeuen	sēven¹	CARDA	Fem.Nom	_
+7	t322_m1	gaue	gâve	NA	Fem.Nom.Pl	Satzteil_F
+8	t323_m1	de	dê¹,dê¹,dat²A	DPDS	_.Nom.Pl	_
+9	t324_m1	got	got¹	NA	Masc.Nom.Sg	_
+10	t325_m1	gaf	gēven	VVFIN	St.3.Sg.Past.Ind	_
+11	t326_m1	al	al	DIA	Fem.Dat.Sg	_
+12	t326_m2	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+13	t327_m1	werlt	werlt	NA	Fem.Dat.Sg	_
+14	t328_m1	tho	tô¹	APPR	Dat	_
+15	t329_m1	ghenaden	genâde	NA	Fem.Dat.*	Satz
+
+1	t330_m1	dey	dê¹,dê¹,dat²A	DPDS	_.Nom.Pl	_
+2	t331_m1	bernen	bernen	VVFIN	Sw.3.Pl.Pres.*	_
+3	t332_m1	alle	al	DIA	Masc-Fem.Akk.Sg	_
+4	t333_m1	thid	tît	NA	Masc-Fem.Akk.Sg	_
+5	t334_m1	als	alsô	KOKOM	--	_
+6	t335_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Fem.Nom.Sg	_
+7	t336_m1	kerste	kerse³	NA	Fem.Nom.Sg	_
+8	t337_m1	in	in²	APPR	Dat-Akk	_
+9	t338_m1	des	dê¹,dê¹,dat²A	DDARTA	Masc.Gen.Sg	_
+10	t339_m1	zeligen	sâlich²	ADJA	Pos.Masc.Gen.Sg.Sw	_
+11	t340_m1	mannes	man¹	NA	Masc.Gen.Sg	_
+12	t341_m1	herten	herte¹	NA	Neut-Fem.Dat-Akk.*	Satz
+
+1	t342_m1	de	dê¹,dê¹,dat²A	DDARTA	Masc-Fem.Nom.Sg	_
+2	t343_m1	stemme	stem(me)	NA	Masc-Fem.Nom.Sg	Satzteil_I
+3	t344_m1	de	dê¹,dê¹,dat²A	DPRELS	Masc-Fem.Nom.Sg	_
+4	t345_m1	van	van¹	APPR	Dat	_
+5	t346_m1	deme	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Sg	_
+6	t347_m1	throne	trôn¹	NA	Masc.Dat.Sg	_
+7	t348_m1	quam	kōmen¹	VVFIN	St.3.Sg.Past.Ind	_
+8	t349_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DPIS	*.Nom.Sg	_
+9	t350_m1	iummer	iem(m)er	AVD	--	_
+10	t351_m1	mere	vēle¹	AVD	--	_
+11	t352_m1	.	--	$;	--	Satz
+
+1	t353_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t354_m1	zint	wēsen²	VVFIN	Irr.3.Pl.Pres.Ind	_
+3	t355_m1	de	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Pl	_
+4	t356_m1	predikere	prēdiker	NA	Masc.Nom.Pl	_
+5	t357_m1	.	--	$;	--	Satzteil_F
+6	t358_m1	de	dê¹,dê¹,dat²A	DPDS	_.Nom.Pl	_
+7	t359_m1	mid	mit	APPR	Dat	_
+8	t360_m1	werken	werk	NA	Neut.Dat.Pl	_
+9	t361_m1	.	--	$;	--	_
+10	t362_m1	vnde	unde²	KON	--	_
+11	t363_m1	mid	mit	APPR	Dat-Akk	_
+12	t364_m1	lere	lêre¹	NA	Fem.Dat-Akk.*	_
+13	t365_m1	.	--	$;	--	_
+14	t366_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Sg	_
+15	t367_m1	wolk	volk	NA	Neut.Akk.Sg	_
+16	t368_m1	manet	mānen	VVFIN	Sw.3.Pl.Pres.*	Satz
+
+1	t369_m1	dat	dat²B	KOUS	--	_
+2	t370_m1	id	hê¹,sê¹,et¹	PPER	3.Sg.Neut.Nom	_
+3	t371_m1	zik	sik¹	PRF	3.Sg.Dat-Akk	_
+4	t372_m1	bekere	bekêren	VVFIN	Sw.3.Sg.Pres.Konj	_
+5	t373_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+6	t374_m1	blisme	blixem(e)	NA	Masc.Nom.Sg	Satz
+
+1	t375_m1	de	dê¹,dê¹,dat²A	DPDS	Masc-Fem.Nom.Sg	_
+2	t376_m1	dar	dâr¹	AVD	--	_
+3	t377_m1	quam	kōmen¹	VVFIN	St.3.Sg.Past.Ind	_
+4	t378_m1	vro	vrô¹	ADJV	Pos	_
+5	t379_m1	vnde	unde²	KON	--	_
+6	t380_m1	spade	spâde¹	ADJV	Pos	_
+7	t381_m1	.	--	$;	--	Satz
+
+1	t382_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t383_m1	zint	wēsen²	VVFIN	Irr.3.Pl.Pres.Ind	_
+3	t384_m1	der	dê¹,dê¹,dat²A	DDARTA	Masc.Gen.Pl	_
+4	t385_m1	predikere	prēdiker	NA	Masc.Gen.Pl	_
+5	t386_m1	dade	dât¹	NA	Fem.Nom.Pl	_
+6	t387_m1	.	--	$;	--	Satz
+
+1	t388_m1	nuͦ	nû¹	AVD	--	_
+2	t389_m1	zule	schȫlen¹	VMFIN	Prpr.2.Pl.Pres.*	_
+3	t390_m1	gi	gî²	PPER	2.Pl._.Nom	_
+4	t391_m1	vernemen	vornēmen²	VVINF	--	_
+5	t392_m1	mer	mêr³	AVKO	--	_
+6	t393_m1	ghetalt	tālen	VVPP	--	Satz
+
+1	t394_m1	ere	sîn⁴,ēr¹,sîn⁴	DPOSA	Neut.Nom.Pl	_
+2	t395_m1	cledere	klêⁱt¹	NA	Neut.Nom.Pl	_
+3	t396_m1	zint	wēsen²	VVFIN	Irr.3.Pl.Pres.Ind	_
+4	t397_m1	schone	schö̂n(e)¹	ADJD	Pos	_
+5	t398_m1	alze	alsô	KOKOM	--	_
+6	t399_m1	twe	twêne	CARDA	Masc.Nom	_
+7	t400_m1	oleybome	ȫliebôm	NA	Masc.Nom.Pl	Satz
+
+1	t401_m1	ze	sê²	PPER	3.Pl._.Nom	_
+2	t402_m1	stan	stân	VVFIN	Irr.3.Pl.Pres.*	_
+3	t403_m1	alze	alsô	KOKOM	--	_
+4	t404_m1	twe	twêne	CARDA	*.Nom	_
+5	t405_m1	luͦtter	lutter	ADJS	Pos.*.Nom.Sg.St	_
+6	t406_m1	vor	vȫr³	APPR	Dat-Akk	_
+7	t407_m1	gode	got¹	NA	Masc.Dat-Akk.Sg	_
+8	t408_m1	nummermer	nümmermêr	AVNEG	--	Satz
+
+1	t409_m1	eyn	en⁴	PTKNEG	--	_
+2	t410_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t411_m1	nyn	nêⁱn¹	DNEGA	Masc.Nom.Sg	_
+4	t412_m1	man	man¹	NA	Masc.Nom.Sg	Satz
+
+1	t413_m1	dey	dê¹,dê¹,dat²A	DPRELS	Masc.Nom.Sg	_
+2	t414_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DPIS	Masc-Neut.Akk.Sg	_
+3	t415_m1	wille	willen¹	VMFIN	Irr.3.Sg.Pres.*	_
+4	t416_m1	schaden	schāden	VVINF	--	_
+5	t417_m1	.	--	$;	--	Satz
+
+1	t418_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t419_m1	mach	mȫgen	VMFIN	Prpr.1.Sg.Pres.Ind	_
+3	t420_m1	ich	ik	PPER	1.Sg._.Nom	_
+4	t421_m1	iu	gî²	PPER	2.Pl._.Dat-Akk	_
+5	t422_m1	vorware	vȫrwâr¹	AVD	--	_
+6	t423_m1	zaghen	seggen	VVINF	--	_
+7	t424_m1	.	--	$;	--	Satz
+
+1	t425_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t426_m1	vuͦr	vü̂r¹	NA	Neut.Nom.Sg	_
+3	t427_m1	zal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	_
+4	t428_m1	ghan	gân	VVINF	--	_
+5	t429_m1	vt	ût¹	APPR	Dat	_
+6	t430_m1	eren	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc.Dat.Sg	_
+7	t431_m1	munde	munt¹	NA	Masc.Dat.Sg	_
+8	t432_m1	.	--	$;	--	Satz
+
+1	t433_m1	vnde	unde²	KON	--	_
+2	t434_m1	vervuͦren	vorvö̂ren	VVFIN	Sw.3.Pl.Pres.*	_
+3	t435_m1	ere	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc.Akk.Pl	_
+4	t436_m1	viande	vîent¹	NA	Masc.Akk.Pl	Satz
+
+1	t437_m1	ze	sê²	PPER	3.Pl._.Nom	_
+2	t438_m1	hebbet	hebben	VVFIN	Sw.3.Pl.Pres.Ind	_
+3	t439_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Sg	_
+4	t440_m1	ghewalt	gewalt	NA	Fem.Akk.Sg	_
+5	t441_m1	.	--	$;	--	Satz
+
+1	t442_m1	dat	dat²B	KOUS	--	_
+2	t443_m1	ze	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+3	t444_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Akk.Sg	_
+4	t445_m1	hemel	hemmel	NA	Masc.Akk.Sg	_
+5	t446_m1	slutet	slûten	VVFIN	St.3.Sg.Pres.Ind	_
+6	t447_m1	.	--	$;	--	Satz
+
+1	t448_m1	vnde	unde²	KON	--	_
+2	t449_m1	wanne	wan³	AVW	--	_
+3	t449_m2	ze	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+4	t450_m1	wille	willen¹	VVFIN	Irr.3.Sg.Pres.*	_
+5	t450_m2	t	dê¹,dê¹,dat²A	DPDS	Neut.Akk.Sg	_
+6	t451_m1	.	--	$;	--	Satz
+
+1	t452_m1	dat	dat²B	KOUS	--	_
+2	t453_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+3	t454_m1	zik	sik¹	PRF	3.Sg.Dat-Akk	_
+4	t455_m1	upluket	uplûken	VVFIN	St.3.Sg.Pres.Ind	Satz
+
+1	t456_m1	ze	sê²	PPER	3.Pl._.Nom	_
+2	t457_m1	mughen	mȫgen	VVFIN	Prpr.3.Pl.Pres.*	_
+3	t458_m1	den	dê¹,dê¹,dat²A	DPDS	Masc.Dat-Akk.Sg	_
+4	t459_m1	noch	nôch¹	PTKA	--	_
+5	t460_m1	mere	vēle¹	AVD	--	_
+6	t461_m1	.	--	$;	--	Satz
+
+1	t462_m1	dat	dat²B	KOUS	--	_
+2	t463_m1	water	wāter	NA	Neut.Nom.Pl	_
+3	t464_m1	an	an	APPR	Akk	_
+4	t465_m1	blot	blôt¹	NA	Neut.Akk.Sg	_
+5	t466_m1	keren	kêren¹	VVFIN	Sw.3.Pl.Pres.*	Satz
+
+1	t467_m1	alse	alsô	KOKOM	--	_
+2	t468_m1	ere	sîn⁴,ēr¹,sîn⁴	DPOSA	Fem.Nom.Sg	_
+3	t469_m1	orkinne	ōrkunde¹	NA	Fem.Nom.Sg	_
+4	t470_m1	heuet	hebben	VAFIN	Sw.3.Sg.Past.Ind	_
+5	t471_m1	ghedan	dôn¹	VVPP	--	_
+6	t472_m1	.	--	$;	--	Satz
+
+1	t473_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t474_m1	dir	dêr⁵	NA	Neut.Nom.Sg	_
+3	t475_m1	van	van¹	APPR	Dat	_
+4	t476_m1	deme	dê¹,dê¹,dat²A	DDARTA	Neut.Dat.Sg	_
+5	t477_m1	afgrunde	afgründ(e)	NA	Neut.Dat.Sg	_
+6	t478_m1	quam	kōmen¹	VVFIN	St.3.Sg.Past.Ind	_
+7	t479_m1	ghan	gân	VVINF	--	_
+8	t480_m1	.	--	$;	--	Satz
+
+1	t481_m1	vnde	unde²	KON	--	_
+2	t482_m1	effet	ēvenen	VVFIN	Sw.3.Sg.Pres.Ind	_
+3	t483_m1	weder	wed(d)er¹	APPR	Akk	_
+4	t484_m1	ze	sê²	PPER	3.Pl._.Akk	_
+5	t485_m1	groten	grôt²	ADJA	Pos.Masc.Akk.Sg.*	_
+6	t486_m1	strid	strît¹	NA	Masc.Akk.Sg	_
+7	t487_m1	.	--	$;	--	Satz
+
+1	t488_m1	vnde	unde²	KON	--	_
+2	t489_m1	nymed	nēmen	VVFIN	St.3.Sg.Pres.Ind	_
+3	t490_m1	eyn	sê²	PPER	3.Pl._.Dat	_
+4	t491_m1	beyden	bêⁱde¹	DIN	_.Dat.Pl	_
+5	t492_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Sg	_
+6	t493_m1	lif	lîf¹	NA	Neut.Akk.Sg	_
+7	t494_m1	.	--	$;	--	Satz
+
+1	t495_m1	zo	sô²	AVKO	--	_
+2	t496_m1	ligghet	liggen	VVFIN	St-Sw.3.Sg.Pres.Ind	_
+3	t497_m1	ere	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc-Neut.Akk.Pl	_
+4	t498_m1	lichamen	licham	NA	Masc-Neut.Akk.Pl	_
+5	t499_m1	in	in²	APPR	Dat	_
+6	t499_m2	den	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Pl	_
+7	t500_m1	straten	strâte¹	NA	Fem.Dat.Pl	Satz
+
+1	t501_m1	ze	sê²	PPER	3.Pl._.Nom	_
+2	t501_m2	ne	ne²	PTKNEG	--	_
+3	t502_m1	dar	dâr¹	AVD	--	_
+4	t503_m1	nyment	nêmant	DPNEGS	_.Akk.*	_
+5	t504_m1	grauen	grāven²	VVINF	--	_
+6	t505_m1	laten	lâten¹	VVFIN	St.3.Pl.Pres.*	Satz
+
+1	t506_m1	ze	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+2	t507_m1	zuͦt	sên	VVFIN	St.3.Sg.Pres.Ind	_
+3	t508_m1	dan	den³	AVKO	--	_
+4	t509_m1	manich	mannich	DPIS	*.Akk.*	Satz
+
+1	t510_m1	ze	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+2	t511_m1	de	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Pl	_
+3	t512_m1	bordes	bȫrde¹	NA	Fem.Akk.Pl	_
+4	t513_m1	nu	nû¹	AVD	--	_
+5	t514_m1	eyn	en⁴	PTKNEG	--	_
+6	t514_m2	za	sên	VVFIN	St.3.Sg.Past.Ind	Satz
+
+1	t515_m1	also	alsô	AVKO	--	_
+2	t516_m1	ligghet	liggen	VVFIN	St-Sw.3.Sg.Pres.Ind	_
+3	t517_m1	ze	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+4	t518_m1	virdenhaluen	vêrdehalf	CARDA	Masc.Akk	_
+5	t519_m1	dach	dach	NA	Masc.Akk.Sg	_
+6	t520_m1	dar	dâr¹	AVD	--	_
+7	t521_m1	.	--	$;	--	Satz
+
+1	t522_m1	vnde	unde²	KON	--	_
+2	t523_m1	alze	alsô	AVKO	--	_
+3	t524_m1	dey	dê¹,dê¹,dat²A	DPDS	_.Nom.Pl	_
+4	t525_m1	zint	wēsen²	VAFIN	Irr.3.Pl.Pres.Ind	_
+5	t526_m1	verghan	vorgân²	VVPP	--	Satz
+
+1	t527_m1	zo	sô²	AVKO	--	_
+2	t528_m1	zolen	schȫlen¹	VMFIN	Prpr.3.Pl.Pres.*	_
+3	t529_m1	zey	sê²	PPER	3.Pl._.Nom	_
+4	t530_m1	weder	wedder²	AVD	--	_
+5	t531_m1	vpstan	upstân	VVINF	--	_
+6	t532_m1	.	--	$;	--	Satz
+
+1	t533_m1	zo	sô²	AVKO	--	_
+2	t534_m1	entvrochtet	en(t)vrüchten	VVIMP	Pl	_
+3	t535_m1	alle	al	DPIS	*.Akk.Pl	Satz
+
+1	t536_m1	dey	dê¹,dê¹,dat²A	DPRELS	*.Nom.Pl	_
+2	t537_m1	zey	sê²	PPER	3.Pl._.Akk	_
+3	t538_m1	ligghen	liggen	VVINF	--	_
+4	t539_m1	zan	sên	VVFIN	St.3.Pl.Past.*	_
+5	t540_m1	.	--	$;	--	Satz
+
+1	t541_m1	zo	sô²	KON	--	_
+2	t542_m1	kuͦmet	kōmen¹	VVFIN	St.3.Sg.Pres.Ind	_
+3	t543_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	*.Nom.Sg	_
+4	t544_m1	wolke	wolke(n)¹	NA	*.Nom.Sg	_
+5	t545_m1	dan	den³	AVKO	--	Satz
+
+1	t546_m1	vnde	unde²	KON	--	_
+2	t547_m1	voret	vö̂ren¹	VVFIN	Sw.3.Sg.Pres.Ind	_
+3	t548_m1	ze	sê²	PPER	3.Pl._.Akk	_
+4	t549_m1	tho	tô¹	APPR	Dat	_
+5	t550_m1	hemel	hemmel	NA	Masc.Dat.Sg	_
+6	t551_m1	al	al	AVKO	--	_
+7	t552_m1	gherichte	gerichte⁴	NA	Neut.Dat-Akk.Sg	_
+8	t553_m1	an	an	APPR	Dat	_
+9	t554_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+10	t555_m1	zeluen	sülve	ADJA	Pos.Fem.Dat.Sg.Sw	_
+11	t556_m1	stunt	stunde	NA	Fem.Dat.Sg	_
+12	t557_m1	.	--	$;	--	Satz
+
+1	t558_m1	quam	kōmen¹	VVFIN	St.3.Sg.Past.Ind	_
+2	t559_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Fem.Nom.Sg	_
+3	t560_m1	ertbeninghe	ērtbēvinge	NA	Fem.Nom.Sg	_
+4	t561_m1	also	alsô	PTKA	--	_
+5	t562_m1	vnghesunt	unsunt	ADJV	Pos	_
+6	t563_m1	.	--	$;	--	Satz
+
+1	t564_m1	dat	dat²B	KOUS	--	_
+2	t565_m1	dar	dâr¹	PAVKO	--	_
+3	t566_m1	af	af²	PAVAP	--	_
+4	t567_m1	storuen	sterven²	VVFIN	St.3.Pl.Past.*	_
+5	t568_m1	zeuendusent	sēvendûsent*	CARDS	Masc-Fem.Nom	_
+6	t569_m1	dot	dôt¹	ADJV	Pos	_
+7	t570_m1	.	--	$;	--	Satz
+
+1	t571_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+2	t572_m1	teynde	teynde¹	ADJA	Comp.Masc.Nom.Sg.*	_
+3	t573_m1	deyl	dêⁱl²	NA	Masc.Nom.Sg	_
+4	t574_m1	der	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+5	t575_m1	deyl	dêⁱl²	NA	Masc.Nom.Sg	_
+6	t576_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Gen.Sg	_
+7	t577_m1	stat	stat⁴	NA	Fem.Gen.Sg	_
+8	t578_m1	vel	vallen¹	VVFIN	St.3.Sg.Past.Ind	_
+9	t579_m1	dar	dâr¹	PAVD	--	_
+10	t580_m1	neder	nēder	PAVAP	--	_
+11	t581_m1	ok	ôk	AVKO	--	_
+12	t582_m1	.	--	$;	--	Satz
+
+1	t583_m1	de	dê¹,dê¹,dat²A	DDARTA	*.Nom.Pl	_
+2	t584_m1	anderen	ander	DPIS	_.Nom.Pl	_
+3	t585_m1	vervnmechtighet	vorunmechtigen	VVPP	--	_
+4	t586_m1	worden	wērden¹	VVFIN	St.3.Pl.Past.*	_
+5	t587_m1	zere	sêr(e)⁴	AVD	--	_
+6	t588_m1	.	--	$;	--	Satz
+
+1	t589_m1	dat	dat²B	KOUS	--	_
+2	t590_m1	ze	sê²	PPER	3.Pl._.Nom	_
+3	t591_m1	loueden	lö̂ven²	VVFIN	Sw.3.Pl.Past.*	_
+4	t592_m1	vnsen	unse¹	DPOSA	Masc.Akk.Sg	_
+5	t593_m1	heren	hêre⁴	NA	Masc.Akk.Sg	_
+6	t594_m1	.	--	$;	--	Satz
+
+1	t595_m1	dit	desse,desse,dit	DPDS	Neut.Nom.Sg	_
+2	t596_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t597_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+4	t598_m1	andere	ander	DPIS	Neut.Nom.Sg	_
+5	t599_m1	.	--	$;	--	Satz
+
+1	t600_m1	dat	dat²B	KOUS	--	_
+2	t601_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+3	t602_m1	arn	ārn²	NA	Masc.Nom.Sg	_
+4	t603_m1	do	dô¹	AVD	--	_
+5	t604_m1	zo	sô²	PTKA	--	_
+6	t605_m1	lude	lûde³	AVD	--	_
+7	t606_m1	screy	schrî(g)en	VVFIN	St-Sw.3.Sg.Past.Konj	_
+8	t607_m1	.	--	$;	--	Satz
+
+1	t608_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t609_m1	zal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	_
+3	t610_m1	dus	düs¹	AVKO	--	_
+4	t611_m1	irgan	ergân	VVINF	--	_
+5	t612_m1	.	--	$;	--	Satz
+
+1	t613_m1	dat	dat²B	KOUS	--	_
+2	t614_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Akk.Sg	_
+3	t615_m1	der	dâr¹	AVD	--	_
+4	t616_m1	nuͦ	nû¹	AVD	--	_
+5	t617_m1	an	an	AVD	--	_
+6	t618_m1	stan	stân	VVFIN	Irr.3.Pl.Pres.*	Satz
+
+1	t619_m1	Nu	nû¹	AVD	--	_
+2	t620_m1	vornemet	vornēmen²	VVIMP	Pl	_
+3	t621_m1	oueral	ȫveral	AVD	--	_
+4	t622_m1	.	--	$;	--	Satz
+
+1	t623_m1	wo	wô	AVW	--	_
+2	t624_m1	men	man²	DPIS	_.Nom.Sg	_
+3	t625_m1	iu	gî²	PPER	2.Pl._.Dat-Akk	_
+4	t626_m1	.	--	$;	--	_
+5	t627_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Akk.Sg	_
+6	t628_m1	duden	dü̂den	VVINF	--	_
+7	t629_m1	zal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	Satz
+
+1	t630_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t631_m1	beyde	bêⁱde¹	DIA	Neut.Nom.Sg	_
+3	t632_m1	huͦs	hûs¹	NA	Neut.Nom.Sg	_
+4	t633_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+5	t634_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+6	t635_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+7	t636_m1	cristenheyt	kristenhêⁱt	NA	Fem.Nom.Sg	_
+8	t637_m1	.	--	$;	--	_
+9	t638_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+10	t639_m1	altar	altă̂r	NA	Neut.Nom.Sg	_
+11	t640_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+12	t641_m1	heylighe	hillich	ADJA	Pos.Fem.Nom.Sg.*	_
+13	t642_m1	scrift	schrift	NA	Fem.Nom.Sg	_
+14	t643_m1	.	--	$;	--	Satz
+
+1	t644_m1	dey	dê¹,dê¹,dat²A	DPDS	_.Nom.Pl	_
+2	t645_m1	zolen	schȫlen¹	VMFIN	Prpr.3.Pl.Pres.*	_
+3	t646_m1	meten	mēten¹	VVINF	--	_
+4	t647_m1	de	dê¹,dê¹,dat²A	DDARTA	Masc.Akk.Pl	_
+5	t648_m1	predikere	prēdiker	NA	Masc.Akk.Pl	_
+6	t649_m1	mid	mit	APPR	Dat	_
+7	t650_m1	werken	werk	NA	Neut.Dat.Pl	_
+8	t651_m1	vnde	unde²	KON	--	_
+9	t652_m1	mid	mit	APPR	Dat-Akk	_
+10	t653_m1	lere	lêre¹	NA	Fem.Dat-Akk.*	_
+11	t654_m1	.	--	$;	--	Satz
+
+1	t655_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+2	t656_m1	vridhof	vrîthof	NA	Masc.Nom.Sg	Satzteil_I
+3	t657_m1	de	dê¹,dê¹,dat²A	DPRELS	Masc.Nom.Sg	_
+4	t658_m1	dar	dâr¹	PAVKO	--	_
+5	t659_m1	vmme	ümme³	PAVAP	--	_
+6	t660_m1	gheyt	gân	VVFIN	Irr.3.Sg.Pres.Ind	_
+7	t661_m1	.	--	$;	--	Satz
+
+1	t662_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t663_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t664_m1	de	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+4	t665_m1	boze	bö̂s(e)	ADJA	Pos.Fem.Nom.Sg.*	_
+5	t666_m1	diht	ducht¹	NA	Fem.Nom.Sg	_
+6	t667_m1	.	--	$;	--	Satzteil_F
+7	t668_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+8	t669_m1	ene	êⁱn¹,êⁱne¹,êⁱn¹	DPIS	Fem.Nom.Sg	_
+9	t670_m1	wert	wērden¹	VAFIN	St.3.Sg.Pres.Ind	_
+10	t671_m1	nicht	nicht¹	PTKNEG	--	_
+11	t672_m1	ghemeten	mēten¹	VVPP	--	Satz
+
+1	t673_m1	wnt	went(e)	KON	--	_
+2	t674_m1	got	got¹	NA	Masc.Nom.Sg	_
+3	t675_m1	heued	hebben	VAFIN	Sw.3.Sg.Pres.Ind	_
+4	t676_m1	ere	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Gen	_
+5	t677_m1	vorgheten	vorgēten³	VVPP	--	Satz
+
+1	t678_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Pl	_
+2	t679_m1	twe	twêne	CARDA	Masc.Nom	_
+3	t680_m1	propheten	profête¹	NA	Masc.Nom.Pl	Satzteil_I
+4	t681_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+5	t682_m1	is	wēsen²	VAFIN	Irr.3.Sg.Pres.Ind	_
+6	t683_m1	elyas	elyas°	NE	Masc.Nom.Sg	_
+7	t684_m1	vnde	unde²	KON	--	_
+8	t685_m1	enoch	enoch°	NE	Masc.Nom.Sg	Satz
+
+1	t686_m1	de	dê¹,dê¹,dat²A	DPDS	Masc-Fem.Nom.Sg	_
+2	t687_m1	doet	dôn¹	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t688_m1	wnͦders	wunder¹	NA	Neut.Akk.Pl	_
+4	t689_m1	ghenoch	genôch	AVD	--	_
+5	t690_m1	in	in²	APPR	Dat-Akk	_
+6	t691_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Gen.Sg	_
+7	t692_m1	welt	werlt	NA	Fem.Gen.Sg	_
+8	t693_m1	ende	ende²	NA	Masc-Neut.Dat-Akk.Sg	Satzteil_F
+9	t694_m1	alse	alsô	AVKO	--	_
+10	t695_m1	ze	sê²	PPER	3.Pl._.Akk	_
+11	t696_m1	got	got¹	NA	Masc.Nom.Sg	_
+12	t697_m1	vtzendet	ûtsenden	VVFIN	Sw.3.Sg.Pres.Ind	Satz
+
+1	t698_m1	alse	alsô	AVKO	--	_
+2	t699_m1	gy	gî²	PPER	2.Pl._.Nom	_
+3	t700_m1	hebbet	hebben	VVFIN	Sw.2.Pl.Pres.Ind	_
+4	t701_m1	wol	wol²	AVD	--	_
+5	t702_m1	vorstan	vorstân⁴	VVPP	--	_
+6	t703_m1	.	--	$;	--	Satz
+
+1	t704_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t705_m1	dir	dêr⁵	NA	Neut.Nom.Sg	Satzteil_I
+3	t706_m1	dat	dê¹,dê¹,dat²A	DPRELS	Neut.Nom.Sg	_
+4	t707_m1	vt	ût¹	APPR	Dat	_
+5	t708_m1	dem	dê¹,dê¹,dat²A	DDARTA	Neut.Dat.Sg	_
+6	t709_m1	afgrunde	afgründ(e)	NA	Neut.Dat.Sg	_
+7	t710_m1	quam	kōmen¹	VVFIN	St.3.Sg.Past.Ind	_
+8	t711_m1	gheghan	gân	ADJV	Pos	_
+9	t712_m1	.	--	$;	--	Satz
+
+1	t713_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t714_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t715_m1	endekerst	endekrist	NA	Masc.Nom.Sg	_
+4	t716_m1	de	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+5	t717_m1	vnselighe	unsâlich	ADJA	Pos.Masc.Nom.Sg.Sw	_
+6	t718_m1	man	man¹	NA	Masc.Nom.Sg	_
+7	t719_m1	.	--	$;	--	Satzteil_F
+8	t720_m1	dey	dê¹,dê¹,dat²A	DPDS	Masc.Nom.Sg	_
+9	t721_m1	doet	dôn¹	VVFIN	Irr.3.Sg.Pres.Ind	_
+10	t722_m1	eyn	sê²	PPER	3.Pl._.Dat	_
+11	t723_m1	manighe	mannich	DIA	Fem.Akk.*	_
+12	t724_m1	not	nôt¹	NA	Fem.Akk.*	Satz
+
+1	t725_m1	tho	tô¹	APPR	Dat	_
+2	t726_m1	lesten	lat³	ADJS	Sup.*.Dat.Sg.*	_
+3	t727_m1	martelet	marteren	VVFIN	Sw.3.Sg.Pres.Ind	_
+4	t728_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+5	t729_m1	zey	sê²	PPER	3.Pl._.Akk	_
+6	t730_m1	dot	dôt¹	ADJV	Pos	_
+7	t731_m1	.	--	$;	--	Satz
+
+1	t732_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Akk.Sg	_
+2	t733_m1	hebbe	hebben	VAFIN	Sw.2.Pl.Pres.*	_
+3	t734_m1	gy	gî²	PPER	2.Pl._.Nom	_
+4	t735_m1	nuͦ	nû¹	AVD	--	_
+5	t736_m1	wol	wol²	AVD	--	_
+6	t737_m1	verstan	vorstân⁴	VVPP	--	_
+7	t738_m1	.	--	$;	--	Satz
+
+1	t739_m1	wo	wô	AVW	--	_
+2	t740_m1	id	hê¹,sê¹,et¹	PPER	3.Sg.Neut.Nom	_
+3	t741_m1	dar	dâr¹	PAVD	--	_
+4	t742_m1	na	nâ	PAVAP	--	_
+5	t743_m1	zal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	_
+6	t744_m1	ghan	gân	VVINF	--	Satz
+
+1	t745_m1	men	man²	DPIS	_.Nom.Sg	_
+2	t746_m1	heft	hebben	VAFIN	Sw.3.Sg.Pres.Ind	_
+3	t747_m1	des	dê¹,dê¹,dat²A	DPDS	Masc-Neut.Gen.Sg	_
+4	t748_m1	nicht	nicht¹	PTKNEG	--	_
+5	t749_m1	verdaghet	vordāgen	VVPP	--	Satz
+
+1	t750_m1	id	hê¹,sê¹,et¹	PPER	3.Sg.Neut.Nom	_
+2	t751_m1	is	wēsen²	VAFIN	Irr.3.Sg.Pres.Ind	_
+3	t752_m1	eyn	sê²	PPER	3.Pl._.Dat	_
+4	t753_m1	noch	noch²	AVD	--	_
+5	t754_m1	vorzaghet	vorsāgen²	VVPP	--	_
+6	t755_m1	.	--	$;	--	Satz
+
+1	t756_m1	dat	dat²B	KOUS	--	_
+2	t757_m1	zeuendusent	sēvendûsent*	CARDS	*.Nom	_
+3	t758_m1	van	van¹	APPR	Dat	_
+4	t759_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+5	t760_m1	ertbeninge	ērtbēvinge	NA	Fem.Dat.Sg	_
+6	t761_m1	dot	dôt¹	ADJV	Pos	_
+7	t762_m1	vnde	unde²	KON	--	_
+8	t763_m1	dat	dat²B	KOUS	--	_
+9	t764_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+10	t765_m1	tende	teynde¹	ADJA	Comp.Masc.Nom.Sg.*	_
+11	t765_m2	del	dêⁱl²	NA	Masc.Nom.Sg	_
+12	t766_m1	vel	--	OA	--	_
+13	t767_m1	ok	--	OA	--	_
+14	t768_m1	van	van¹	APPR	Dat	_
+15	t769_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+16	t770_m1	stat	stat⁴	NA	Fem.Dat.Sg	_
+17	t771_m1	vel	vallen¹	VVFIN	St.3.Sg.Past.Ind	_
+18	t772_m1	ok	ôk	AVKO	--	_
+19	t773_m1	.	--	$;	--	Satz
+
+1	t774_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t775_m1	betekenet	betêⁱkenen	VVFIN	Sw.3.Sg.Pres.*	Satz
+
+1	t776_m1	dey	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Pl	_
+2	t777_m1	vnschuldighen	unschuldich	ADJA	Pos.Neut.Nom.Pl.*	_
+3	t778_m1	luͦde	lü̂t¹	NA	Neut.Nom.Pl	_
+4	t779_m1	de	dê¹,dê¹,dat²A	DPRELS	Neut.Nom.Pl	_
+5	t780_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Sg	_
+6	t781_m1	ertbeninghe	ērtbēvinge	NA	Fem.Akk.Sg	_
+7	t782_m1	grot	grö̂ten²	VVFIN	Sw.3.Sg.Pres.Ind	Satz
+
+1	t783_m1	dey	dê¹,dê¹,dat²A	DPDS	Masc-Fem.Nom.Sg	_
+2	t784_m1	betekenet	betêⁱkenen	VVFIN	Sw.3.Sg.Pres.Ind	_
+3	t785_m1	manighe	mannich	DIA	Fem.Akk.Sg	_
+4	t786_m1	not	nôt¹	NA	Fem.Akk.Sg	_
+5	t787_m1	.	--	$;	--	Satz
+
+1	t788_m1	dey	dê¹,dê¹,dat²A	DPRELS	Fem.Akk.Sg	_
+2	t789_m1	wi	wî¹	PPER	1.Pl._.Nom	_
+3	t790_m1	zolen	schȫlen¹	VMFIN	Prpr.1.Pl.Pres.*	_
+4	t791_m1	liden	lîden¹	VVINF	--	_
+5	t792_m1	dor	dȫr¹	APPR	Akk	_
+6	t793_m1	got	got¹	NA	Masc.Akk.Sg	Satz
+
+1	t794_m1	er	êr⁴	AVD	--	_
+2	t795_m1	wi	wî¹	PPER	1.Pl._.Nom	_
+3	t796_m1	dor	dȫr¹	APPR	Akk	_
+4	t797_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.*	_
+5	t798_m1	porten	pōrte¹	NA	Fem.Akk.*	_
+6	t799_m1	ghan	gân	VVFIN	Irr.1.Pl.Pres.*	_
+7	t800_m1	.	--	$;	--	Satz
+
+1	t801_m1	vnde	unde²	KON	--	_
+2	t802_m1	ere	êr⁴	AVD	--	_
+3	t803_m1	wi	wî¹	PPER	1.Pl._.Nom	_
+4	t804_m1	eten	ēten	VVFIN	St.1.Pl.Pres.*	_
+5	t805_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Sg	_
+6	t806_m1	hemelesche	hemmelsch	ADJA	Pos.Neut.Akk.Sg.Sw	_
+7	t807_m1	brot	brôt¹	NA	Neut.Akk.Sg	Satz
+
+1	t808_m1	dat	dê¹,dê¹,dat²A	DPRELS	Neut.Nom.Sg	_
+2	t809_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t810_m1	zin	sîn⁴,ēr¹,sîn⁴	DPOSA	Neut.Nom.Sg	_
+4	t811_m1	vles	vlêⁱsch	NA	Neut.Nom.Sg	_
+5	t812_m1	vnde	unde²	KON	--	_
+6	t813_m1	zin	sîn⁴,ēr¹,sîn⁴	DPOSA	Neut.Nom.Sg	_
+7	t814_m1	blot	blôt¹	NA	Neut.Nom.Sg	Satz
+
+1	t815_m1	Hyr	hîr	PAVKO	--	_
+2	t816_m1	na	nâ	PAVAP	--	_
+3	t817_m1	za	sên	VVFIN	St.3.Sg.Past.Ind	_
+4	t818_m1	iohannes	Jôhannes	NE	Masc.Nom.Sg	_
+5	t819_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Neut.Akk.Sg	_
+6	t820_m1	wͦnder	wunder¹	NA	Neut.Akk.Sg	_
+7	t821_m1	grot	grôt²	ADJN	Pos.Neut.Akk.Sg.St	Satz
+
+1	t822_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Neut.Nom.Sg	_
+2	t823_m1	wif	wîf	NA	Neut.Nom.Sg	_
+3	t824_m1	an	an	APPR	Dat	_
+4	t825_m1	van	--	OA	--	_
+5	t826_m1	deme	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Sg	_
+6	t827_m1	heymele	hemmel	NA	Masc.Dat.Sg	_
+7	t828_m1	stunt	stân	VVFIN	Irr.3.Sg.Past.Ind	_
+8	t829_m1	.	--	$;	--	Satz
+
+1	t830_m1	ze	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+2	t831_m1	was	wēsen²	VAFIN	Irr.3.Sg.Past.Ind	_
+3	t832_m1	mid	mit	APPR	Dat	_
+4	t833_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+5	t834_m1	zunnen	sunne	NA	Fem.Dat.Sg	_
+6	t835_m1	ghekleyt	klêⁱden	VVPP	--	_
+7	t836_m1	schone	schö̂n(e)¹	ADJD	Pos	Satz
+
+1	t837_m1	vnder	under³	APPR	Dat	_
+2	t838_m1	eren	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc.Dat.Pl	_
+3	t839_m1	voten	vôt²	NA	Masc.Dat.Pl	_
+4	t840_m1	hadde	hebben	VVFIN	Sw.3.Sg.Past.*	_
+5	t841_m1	zey	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+6	t842_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Akk.Sg	_
+7	t843_m1	manen	mâne¹	NA	Masc.Akk.Sg	_
+8	t844_m1	.	--	$;	--	Satz
+
+1	t845_m1	zey	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+2	t846_m1	hadde	hebben	VVFIN	Sw.3.Sg.Past.*	_
+3	t847_m1	up	up(pe)¹	APPR	Dat	_
+4	t848_m1	eren	sîn⁴,ēr¹,sîn⁴	DPOSA	Neut.Dat.Sg	_
+5	t849_m1	houede	hö̂vet¹	NA	Neut.Dat.Sg	_
+6	t850_m1	eyne	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Fem.Akk.Sg	_
+7	t851_m1	cronen	krône	NA	Fem.Akk.Sg	Satz
+
+1	t852_m1	dar	dâr¹	PAVKO	--	_
+2	t853_m1	inne	in²	PAVAP	--	_
+3	t854_m1	stonden	stân	VVFIN	Irr.3.Pl.Past.*	_
+4	t855_m1	tvuelf	twel(e)f	CARDA	Masc-Fem.Nom	_
+5	t856_m1	sterren	stērn(e)²	NA	Masc-Fem.Nom.Pl	_
+6	t857_m1	schone	schö̂n(e)¹	ADJN	Pos.Masc-Fem.Nom.Pl.St	_
+7	t858_m1	.	--	$;	--	Satz
+
+1	t859_m1	ze	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+2	t860_m1	zolde	schȫlen¹	VMFIN	Prpr.3.Sg.Past.*	_
+3	t861_m1	grote	grôt²	ADJA	Pos.Fem.Akk.*.St	_
+4	t862_m1	pine	pîne	NA	Fem.Akk.*	_
+5	t863_m1	bestan	bestân	VVINF	--	_
+6	t864_m1	eynes	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Neut.Gen.Sg	_
+7	t865_m1	kindes	kint	NA	Neut.Gen.Sg	_
+8	t866_m1	an	an	APPR	Akk	_
+9	t867_m1	arbeyt	arbêⁱt	NA	*.Akk.*	_
+10	t868_m1	ghan	gân	VVINF	--	_
+11	t869_m1	.	--	$;	--	Satz
+
+1	t870_m1	do	dô¹	AVD	--	_
+2	t871_m1	quam	kōmen¹	VVFIN	St.3.Sg.Past.Ind	_
+3	t872_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Masc.Nom.Sg	_
+4	t873_m1	grot	grôt²	ADJA	Pos.Masc.Nom.Sg.St	_
+5	t874_m1	drake	drāke	NA	Masc.Nom.Sg	_
+6	t875_m1	ghegan	gân	ADJV	Pos	_
+7	t876_m1	.	--	$;	--	Satz
+
+1	t877_m1	vnde	unde²	KON	--	_
+2	t878_m1	gink	gân	VVFIN	Irr.3.Sg.Past.Ind	_
+3	t879_m1	vor	vȫr³	APPR	Akk	_
+4	t880_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.*	_
+5	t881_m1	vrowen	vrouwe²	NA	Fem.Akk.*	_
+6	t882_m1	stan	stân	VVINF	--	_
+7	t883_m1	.	--	$;	--	Satz
+
+1	t884_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+2	t885_m1	drake	drāke	NA	Masc.Nom.Sg	_
+3	t886_m1	was	wēsen²	VVFIN	Irr.3.Sg.Past.Ind	_
+4	t887_m1	stark	stark	ADJD	Pos	_
+5	t888_m1	vnde	unde²	KON	--	_
+6	t889_m1	grot	grôt²	ADJD	Pos	_
+7	t890_m1	zeuen	sēven¹	CARDA	Neut.Akk	_
+8	t891_m1	houede	hö̂vet¹	NA	Neut.Akk.Pl	_
+9	t892_m1	.	--	$;	--	Satz
+
+1	t893_m1	vnde	unde²	KON	--	_
+2	t894_m1	theyn	teyn	CARDA	Neut.Akk	_
+3	t895_m1	horne	hōrn	NA	Neut.Akk.Pl	_
+4	t896_m1	hadde	hebben	VVFIN	Sw.3.Sg.Past.*	_
+5	t897_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+6	t898_m1	ok	ôk	AVKO	--	_
+7	t899_m1	.	--	$;	--	Satz
+
+1	t900_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+2	t901_m1	to	tên⁶	VVFIN	St.3.Sg.Past.Ind	_
+3	t902_m1	mit	mit	APPR	Dat	_
+4	t903_m1	zime	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc.Dat.Sg	_
+5	t904_m1	zaghele	sāgel	NA	Masc.Dat.Sg	_
+6	t905_m1	van	van¹	APPR	Dat	_
+7	t906_m1	deme	dê¹,dê¹,dat²A	DDARTA	Neut.Dat.Sg	_
+8	t907_m1	hemelrike	hemmelrîk(e)	NA	Neut.Dat.Sg	_
+9	t908_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Akk.Sg	_
+10	t909_m1	derden	derde	ADJA	Pos.Masc.Akk.Sg.*	_
+11	t910_m1	del	dêⁱl²	NA	Masc.Akk.Sg	_
+12	t911_m1	der	dê¹,dê¹,dat²A	DDARTA	Masc-Fem.Gen.Pl	_
+13	t912_m1	sterren	stērn(e)²	NA	Masc-Fem.Gen.Pl	_
+14	t913_m1	in	in²	APPR	Dat-Akk	_
+15	t914_m1	ertrike	ērtrîke	NA	Neut.Dat-Akk.*	_
+16	t915_m1	.	--	$;	--	Satz
+
+1	t916_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+2	t917_m1	wolde	willen¹	VMFIN	Irr.3.Sg.Past.*	_
+3	t918_m1	vorsluken	vorslûken	VVINF	--	Satz
+
+1	t919_m1	oft	of¹	KOUS	--	_
+2	t920_m1	id	hê¹,sê¹,et¹	PPER	3.Sg.Neut.Nom	_
+3	t921_m1	mochte	mȫgen	VMFIN	Prpr.3.Sg.Past.*	_
+4	t922_m1	wesen	wēsen²	VVINF	--	_
+5	t923_m1	.	--	$;	--	Satz
+
+1	t924_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t925_m1	kint	kint	NA	Neut.Nom.Sg	_
+3	t926_m1	alze	alsô	KOKOM	--	_
+4	t927_m1	de	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+5	t928_m1	vrowe	vrouwe²	NA	Fem.Nom.Sg	_
+6	t929_m1	des	des	AVKO	--	_
+7	t930_m1	were	wēsen²	VAFIN	Irr.3.Pl.Past.*	_
+8	t931_m1	ghenesen	genēsen	VVPP	--	_
+9	t932_m1	.	--	$;	--	Satz
+
+1	t933_m1	do	dô¹	AVD	--	_
+2	t934_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+3	t935_m1	wif	wîf	NA	Neut.Nom.Sg	_
+4	t936_m1	des	dê¹,dê¹,dat²A	DDARTA	Neut.Gen.Sg	_
+5	t937_m1	kindes	kint	NA	Neut.Gen.Sg	_
+6	t938_m1	ghenas	genēsen	VVFIN	St.3.Sg.Past.Ind	Satz
+
+1	t939_m1	al	al	AVKO	--	_
+2	t940_m1	ghenende	genenden	VVFIN	Sw.3.Sg.*.*	_
+3	t941_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	Satz
+
+1	t942_m1	dar	dâr¹	AVD	--	_
+2	t943_m1	tohant	tôhant	AVD	--	_
+3	t944_m1	was	wēsen²	VVFIN	Irr.3.Sg.Past.Ind	_
+4	t945_m1	.	--	$;	--	Satz
+
+1	t946_m1	dey	dê¹,dê¹,dat²A	DPRELS	Masc-Fem.Nom.Sg	_
+2	t947_m1	tho	tô¹	APPR	Dat	_
+3	t948_m1	deme	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Sg	_
+4	t949_m1	ouersten	ȫver³	ADJA	Pos.Masc.Dat.Sg.*	_
+5	t950_m1	throne	trôn¹	NA	Masc.Dat.Sg	_
+6	t951_m1	vuͦrde	vö̂ren¹	VVFIN	Sw.3.Sg.Past.*	_
+7	t952_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Sg	_
+8	t953_m1	kint	kint	NA	Neut.Akk.Sg	_
+9	t954_m1	.	--	$;	--	Satz
+
+1	t955_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+2	t956_m1	vrowe	vrouwe²	NA	Fem.Nom.Sg	_
+3	t957_m1	vlo	vlên¹	VVFIN	St.3.Sg.Past.Ind	_
+4	t958_m1	.	--	$;	--	Satz
+
+1	t959_m1	vnde	unde²	KON	--	_
+2	t960_m1	wonede	wōnen¹	VVFIN	Sw.3.Sg.Past.*	_
+3	t961_m1	zint	sint	AVD	--	_
+4	t962_m1	in	in²	APPR	Dat	_
+5	t963_m1	eyner	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Fem.Dat.Sg	_
+6	t964_m1	groter	grôt²	ADJA	Pos.Fem.Dat.Sg.St	_
+7	t965_m1	eynheyt	êⁱnhêⁱt	NA	Fem.Dat.Sg	_
+8	t966_m1	.	--	$;	--	Satz
+
+1	t967_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+2	t968_m1	er	êr⁴	AVD	--	_
+3	t969_m1	god	got¹	NA	Masc.Akk.Sg	_
+4	t970_m1	hadde	hebben	VAFIN	Sw.3.Sg.Past.*	_
+5	t971_m1	ghereyt	rêⁱden²	VVPP	--	_
+6	t972_m1	.	--	$;	--	Satz
+
+1	t973_m1	dar	dâr¹	PAVKO	--	_
+2	t974_m1	solde	schȫlen¹	VMFIN	Prpr.3.Sg.Past.*	_
+3	t975_m1	ze	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+4	t975_m2	wonen	wōnen¹	VVINF	--	_
+5	t976_m1	inne	in²	PAVAP	--	_
+6	t977_m1	winte	went(e)	APPR	_	_
+7	t978_m1	an	an	APPR	Akk	_
+8	t979_m1	eren	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc.Akk.Sg	_
+9	t980_m1	ende	ende²	NA	Masc.Akk.Sg	Satz
+
+1	t981_m1	Dyt	desse,desse,dit	DDA	Neut.Nom.Sg	_
+2	t982_m1	wif	wîf	NA	Neut.Nom.Sg	Satzteil_I
+3	t983_m1	dat	dê¹,dê¹,dat²A	DPRELS	Neut.Nom.Sg	_
+4	t984_m1	in	in²	APPR	Dat	_
+5	t985_m1	deme	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Sg	_
+6	t986_m1	hemele	hemmel	NA	Masc.Dat.Sg	_
+7	t987_m1	steyt	stân	VVFIN	Irr.3.Sg.Pres.Ind	Satz
+
+1	t988_m1	de	dê¹,dê¹,dat²A	DPDS	Masc-Fem.Nom.Sg	_
+2	t989_m1	betekenet	betêⁱkenen	VVFIN	Sw.3.Sg.Pres.Ind	_
+3	t990_m1	al	al	DIA	Fem.Akk.Sg	_
+4	t990_m2	de	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Sg	_
+5	t991_m1	cristenheyt	kristenhêⁱt	NA	Fem.Akk.Sg	_
+6	t992_m1	.	--	$;	--	Satzteil_F
+7	t993_m1	dey	dê¹,dê¹,dat²A	DPDS	Masc-Fem.Nom.Sg	_
+8	t994_m1	wert	wērden¹	VAFIN	St.3.Sg.Pres.Ind	_
+9	t995_m1	ghecleydet	klêⁱden	VVPP	--	_
+10	t996_m1	myd	mit	APPR	Dat	_
+11	t997_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+12	t998_m1	waren	wâr¹	ADJA	Pos.Fem.Dat.Sg.Sw	_
+13	t999_m1	zunnen	sunne	NA	Fem.Dat.Sg	Satz
+
+1	t1000_m1	alse	alsô	AVKO	--	_
+2	t1001_m1	men	man²	DPIS	_.Nom.Sg	_
+3	t1002_m1	zey	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Akk	_
+4	t1003_m1	dopet	dö̂pen	VVFIN	Sw.3.Pl.Pres.Ind	_
+5	t1004_m1	in	in²	APPR	Dat	_
+6	t1005_m1	dem	dê¹,dê¹,dat²A	DDARTA	Masc-Neut.Dat.Sg	_
+7	t1006_m1	hilighen	hillich	ADJA	Pos.Masc-Neut.Dat.Sg.*	_
+8	t1007_m1	brunnen	born	NA	Masc-Neut.Dat.Sg	_
+9	t1008_m1	.	--	$;	--	Satz
+
+1	t1009_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc-Fem.Nom.Sg	_
+2	t1010_m1	mane	mâne¹	NA	Masc-Fem.Nom.Sg	_
+3	t1011_m1	betekenet	betêⁱkenen	VVFIN	Sw.3.Sg.Pres.Ind	_
+4	t1012_m1	de	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Pl	_
+5	t1013_m1	wertliken	werltlĩk	ADJA	Pos.Neut.Akk.Pl.Sw	_
+6	t1014_m1	dinch	dinc	NA	Neut.Akk.Pl	Satz
+
+1	t1015_m1	de	dê¹,dê¹,dat²A	DPRELS	Neut.Nom.Pl	_
+2	t1016_m1	verginklic	vorgenclĩk	ADJD	Pos	_
+3	t1017_m1	zint	wēsen²	VVFIN	Irr.3.Pl.Pres.Ind	_
+4	t1018_m1	.	--	$;	--	Satz
+
+1	t1019_m1	dey	dê¹,dê¹,dat²A	DPDS	*.Akk.Pl	_
+2	t1020_m1	zal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	_
+3	t1021_m1	de	dê¹,dê¹,dat²A	DDARTA	Masc-Fem.Nom.Sg	_
+4	t1022_m1	zalighe	sâlich²	ADJS	Pos.Masc-Fem.Nom.Sg.Sw	_
+5	t1023_m1	treden	trēden	VVINF	--	_
+6	t1024_m1	vnder	under³	APPR	Akk	_
+7	t1025_m1	zine	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc.Akk.Pl	_
+8	t1026_m1	vote	vôt²	NA	Masc.Akk.Pl	Satz
+
+1	t1027_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+2	t1028_m1	eme	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Dat	_
+3	t1029_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+4	t1030_m1	hemelrike	hemmelrîk(e)	NA	Neut.Nom.Sg	_
+5	t1031_m1	zote	sö̂te²	ADJD	Pos	Satz
+
+1	t1032_m1	zo	sô²	AVKO	--	_
+2	t1033_m1	is	wēsen²	VAFIN	Irr.3.Sg.Pres.Ind	_
+3	t1034_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+4	t1035_m1	ghecleydet	klêⁱden	VVPP	--	_
+5	t1036_m1	mit	mit	APPR	Dat	_
+6	t1037_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+7	t1038_m1	zunnen	sunne	NA	Fem.Dat.Sg	_
+8	t1039_m1	herlike	hêrlĩk	ADJD	Pos	_
+9	t1040_m1	.	--	$;	--	Satz
+
+1	t1041_m1	vnde	unde²	KON	--	_
+2	t1042_m1	schinet	schînen	VVFIN	St.3.Sg.Pres.Ind	_
+3	t1043_m1	in	in²	APPR	Dat	_
+4	t1044_m1	deme	dê¹,dê¹,dat²A	DDARTA	Neut.Dat.Sg	_
+5	t1045_m1	hemelrike	hemmelrîk(e)	NA	Neut.Dat.Sg	Satz
+
+1	t1046_m1	de	dê¹,dê¹,dat²A	DDARTA	Masc-Fem.Nom.Pl	_
+2	t1047_m1	tvuelf	twel(e)f	CARDA	Masc-Fem.Nom	_
+3	t1048_m1	sterren	stērn(e)²	NA	Masc-Fem.Nom.Pl	Satzteil_I
+4	t1049_m1	de	dê¹,dê¹,dat²A	DPRELS	Masc-Fem.Nom.Pl	_
+5	t1050_m1	in	in²	APPR	Dat	_
+6	t1051_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+7	t1052_m1	cronen	krône	NA	Fem.Dat.Sg	_
+8	t1053_m1	stat	stân	VVFIN	Irr.3.Pl.Pres.Ind	_
+9	t1054_m1	.	--	$;	--	Satz
+
+1	t1055_m1	dey	dê¹,dê¹,dat²A	DPRELS	Fem.Nom.Sg	_
+2	t1056_m1	er	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Dat	_
+3	t1057_m1	vme	ümme³	APPR	Akk	_
+4	t1058_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Sg	_
+5	t1059_m1	houed	hö̂vet¹	NA	Neut.Akk.Sg	_
+6	t1060_m1	ghat	gân	VVFIN	Irr.3.Sg.Pres.Ind	_
+7	t1061_m1	.	--	$;	--	Satz
+
+1	t1062_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t1063_m1	zint	wēsen²	VVFIN	Irr.3.Pl.Pres.Ind	_
+3	t1064_m1	de	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Pl	_
+4	t1065_m1	apostele	apostel¹	NA	Masc.Nom.Pl	Satzteil_F
+5	t1066_m1	dey	dê¹,dê¹,dat²A	DPRELS	Masc.Nom.Pl	_
+6	t1067_m1	mid	mit	APPR	Akk	_
+7	t1068_m1	ere	sîn⁴,ēr¹,sîn⁴	DPOSA	Fem.Akk.Sg	_
+8	t1069_m1	lere	lêre¹	NA	Fem.Akk.Sg	_
+9	t1070_m1	hebbet	hebben	VAFIN	Sw.3.Pl.Pres.Ind	_
+10	t1071_m1	bewanghen	bedwingen	VVPP	--	_
+11	t1072_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Sg	_
+12	t1073_m1	cristenheyt	kristenhêⁱt	NA	Fem.Akk.Sg	_
+13	t1074_m1	vnsen	unse¹	DPOSA	Masc.Akk.Sg	_
+14	t1075_m1	heren	hêre⁴	NA	Masc.Akk.Sg	_
+15	t1076_m1	.	--	$;	--	Satz
+
+1	t1077_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t1078_m1	wif	wîf	NA	Neut.Nom.Sg	_
+3	t1079_m1	dreghet	drāgen	VVFIN	St.3.Sg.Pres.Ind	_
+4	t1080_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Sg	_
+5	t1081_m1	kint	kint	NA	Neut.Akk.Sg	_
+6	t1082_m1	zo	sô²	PTKA	--	_
+7	t1083_m1	langhe	lange³	AVD	--	Satz
+
+1	t1084_m1	alse	alsô	KOKOM	--	_
+2	t1085_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Pl	_
+3	t1086_m1	guͦden	gôt²	ADJA	Pos.Masc.Nom.Pl.Sw	_
+4	t1087_m1	danken	danke	NA	Masc.Nom.Pl	_
+5	t1088_m1	in	in²	APPR	Dat	_
+6	t1089_m1	deme	dê¹,dê¹,dat²A	DDARTA	Neut.Dat.Sg	_
+7	t1090_m1	herten	herte¹	NA	Neut.Dat.Sg	_
+8	t1090_m2	zint	wēsen²	VVFIN	Irr.3.Pl.Pres.Ind	Satz
+
+1	t1091_m1	vnde	unde²	KON	--	_
+2	t1092_m1	als	alsô	AVKO	--	_
+3	t1093_m1	id	hê¹,sê¹,et¹	PPER	3.Sg.Neut.Nom	_
+4	t1094_m1	wil	willen¹	VMFIN	Irr.3.Sg.Pres.Ind	_
+5	t1095_m1	guͦder	gôt²	ADJA	Pos.Neut.Gen.Pl.St	_
+6	t1096_m1	werke	werk	NA	Neut.Gen.Pl	_
+7	t1097_m1	ghenesen	genēsen	VVINF	--	Satz
+
+1	t1098_m1	zo	sô²	AVKO	--	_
+2	t1099_m1	wil	willen¹	VMFIN	Irr.3.Sg.Pres.Ind	_
+3	t1100_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+4	t1101_m1	duͦuel	dü̂vel¹	NA	Masc.Nom.Sg	_
+5	t1102_m1	dar	dâr¹	AVD	--	_
+6	t1103_m1	wezen	wēsen²	VVINF	--	_
+7	t1104_m1	.	--	$;	--	Satz
+
+1	t1105_m1	vnde	unde²	KON	--	_
+2	t1106_m1	wil	willen¹	VMFIN	Irr.3.Sg.Pres.Ind	_
+3	t1107_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Sg	_
+4	t1108_m1	werlt	werlt	NA	Fem.Akk.Sg	_
+5	t1109_m1	vorsluken	vorslûken	VVINF	--	Satz
+
+1	t1110_m1	men	men³	KON	--	_
+2	t1111_m1	got	got¹	NA	Masc.Nom.Sg	_
+3	t1112_m1	let	lâten¹	VVFIN	St.3.Sg.Past.Ind	_
+4	t1113_m1	.	--	$;	--	_
+5	t1114_m1	er	sê²	PPER	3.Pl._.Gen	_
+6	t1115_m1	ghebruken	gebrûken	VVINF	--	_
+7	t1116_m1	.	--	$;	--	_
+8	t1117_m1	da	--	OA	--	_
+9	t1118_m1	des	dê¹,dê¹,dat²A	DDARTA	Masc-Neut.Gen.Sg	_
+10	t1119_m1	liues	lîf¹	NA	Masc-Neut.Gen.Sg	Satz
+
+1	t1120_m1	dat	dat²B	KOUS	--	_
+2	t1121_m1	zey	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+3	t1122_m1	vuͦllenkome	vulkōmen¹	VVFIN	St.3.Sg.Pres.Konj	_
+4	t1123_m1	.	--	$;	--	Satz
+
+1	t1124_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t1125_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t1126_m1	er	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc.Nom.Sg	_
+4	t1127_m1	leue	lêf	ADJA	Pos.Masc.Nom.Sg.Sw	_
+5	t1128_m1	zonne	sȫne¹	NA	Masc.Nom.Sg	Satz
+
+1	t1129_m1	dey	dê¹,dê¹,dat²A	DPRELS	Masc.Nom.Sg	_
+2	t1130_m1	ghevuͦrd	vö̂ren¹	VVPP	--	_
+3	t1131_m1	werd	wērden¹	VAFIN	St.3.Sg.Pres.Ind	_
+4	t1132_m1	van	van¹	APPR	Dat-Akk	_
+5	t1133_m1	ertrike	ērtrîke	NA	Neut.Dat-Akk.Sg	_
+6	t1134_m1	tho	tô¹	APPR	Dat	_
+7	t1135_m1	deme	dê¹,dê¹,dat²A	DDARTA	Neut.Dat.Sg	_
+8	t1136_m1	hemelrike	hemmelrîk(e)	NA	Neut.Dat.Sg	Satz
+
+1	t1137_m1	zuͦnte	sünte	ADJA	Pos.Masc.Nom.Sg.*	_
+2	t1138_m1	iohan	iohan°	NE	Masc.Nom.Sg	Satzteil_I
+3	t1139_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+4	t1140_m1	zi	wēsen²	VVFIN	Irr.3.Sg.Pres.Konj	_
+5	t1141_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Masc.Nom.Sg	_
+6	t1142_m1	salich	sâlich²	ADJA	Pos.Masc.Nom.Sg.St	_
+7	t1143_m1	man	man¹	NA	Masc.Nom.Sg	Satz
+
+1	t1144_m1	dey	dê¹,dê¹,dat²A	DPDS	Masc.Nom.Sg	_
+2	t1145_m1	was	wēsen²	VVFIN	Irr.3.Sg.Past.Ind	_
+3	t1146_m1	in	in²	APPR	Dat	_
+4	t1147_m1	deme	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Sg	_
+5	t1148_m1	daghe	dach	NA	Masc.Dat.Sg	_
+6	t1149_m1	vnde	unde²	KON	--	_
+7	t1150_m1	zo	sô²	PTKA	--	_
+8	t1151_m1	vele	vēle¹	DIA	Neut.Akk.Pl	_
+9	t1152_m1	cledere	klêⁱt¹	NA	Neut.Akk.Pl	_
+10	t1153_m1	haue	hāve¹	NA	Fem.Nom.Sg	Satzteil_F
+11	t1154_m1	dat	dat²B	KOUS	--	_
+12	t1155_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+13	t1156_m1	zine	sîn⁴,ēr¹,sîn⁴	DPOSA	Fem.Akk.*	_
+14	t1157_m1	schemede	schēm(e)de¹	NA	Fem.Akk.*	_
+15	t1158_m1	huͦde	hü̂den¹	VVFIN	Sw.3.Sg.Pres.Konj	_
+16	t1159_m1	dar	dâr¹	AVD	--	Satz
+
+1	t1160_m1	dat	dat²B	KON	--	_
+2	t1161_m1	mich	nicht¹	PTKNEG	--	_
+3	t1162_m1	ne	ne²	PTKNEG	--	_
+4	t1163_m1	werde	wērden¹	VVFIN	St.3.Sg.Pres.Konj	_
+5	t1164_m1	openbar	ōpenbâr	ADJV	Pos	Satz
+
+1	t1165_m1	domesdag	dômesdach	NA	Masc.Akk.Sg	_
+2	t1166_m1	kumet	kōmen¹	VVFIN	St.3.Sg.Pres.Ind	_
+3	t1167_m1	alse	alsô	AVKO	--	_
+4	t1168_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Masc.Nom.Sg	_
+5	t1169_m1	deyf	dêf	NA	Masc.Nom.Sg	_
+6	t1170_m1	gevaren	vāren¹	ADJV	Pos	Satz
+
+1	t1171_m1	nyn	nêⁱn¹	DNEGA	Masc.Nom.Sg	_
+2	t1172_m1	man	man¹	NA	Masc.Nom.Sg	_
+3	t1173_m1	kan	künnen	VMFIN	Prpr.3.Sg.Pres.Ind	_
+4	t1174_m1	vor	vȫr³	APPR	Dat	_
+5	t1175_m1	eme	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Dat	_
+6	t1176_m1	bewaren	bewāren³	VVINF	--	Satz
+
+1	t1177_m1	de	dê¹,dê¹,dat²A	DPDS	Masc-Fem.Nom.Sg	_
+2	t1178_m1	slepet	slâpen	VVFIN	St.3.Sg.Pres.Ind	_
+3	t1179_m1	tho	tô¹	APPR	Dat	_
+4	t1180_m1	allen	al	DIA	Fem.Dat.Pl	_
+5	t1181_m1	stunden	stunde	NA	Fem.Dat.Pl	Satz
+
+1	t1182_m1	in	in²	APPR	Dat	_
+2	t1183_m1	den	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Pl	_
+3	t1184_m1	zeuen	sēven¹	CARDA	Fem.Dat	_
+4	t1185_m1	groten	grôt²	ADJA	Pos.Fem.Dat.Pl.Sw	_
+5	t1186_m1	zunden	sünde¹	NA	Fem.Dat.Pl	_
+6	t1187_m1	kuͦmet	kōmen¹	VVFIN	St.3.Sg.Pres.Ind	_
+7	t1188_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc-Fem.Nom.Sg	_
+8	t1189_m1	dot	dôt²	NA	Masc-Fem.Nom.Sg	_
+9	t1190_m1	alse	alsô	KOKOM	--	_
+10	t1191_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Masc.Nom.Sg	_
+11	t1192_m1	dif	dêf	NA	Masc.Nom.Sg	_
+12	t1193_m1	hyr	hîr	PAVD	--	_
+13	t1194_m1	eynbinnen	enbinnen	PAVAP	--	Satz
+
+1	t1195_m1	zo	sô²	AVKO	--	_
+2	t1196_m1	zal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	_
+3	t1197_m1	des	dê¹,dê¹,dat²A	DPDS	Masc-Neut.Gen.Sg	_
+4	t1198_m1	wol	wol²	AVD	--	_
+5	t1199_m1	werden	wērden¹	VVINF	--	_
+6	t1200_m1	inne	in(ne)⁴	AVD	--	_
+7	t1201_m1	.	--	$;	--	Satz
+
+1	t1202_m1	dat	dat²B	KOUS	--	_
+2	t1203_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+3	t1204_m1	bet	bat¹	AVD	--	_
+4	t1205_m1	ghewaket	wāken	VVPP	--	_
+5	t1206_m1	hanede	hebben	VAFIN	Sw.3.Sg.Past.*	_
+6	t1207_m1	.	--	$;	--	Satz
+
+1	t1208_m1	deywile	dewîle	AVKO	--	_
+2	t1209_m1	dat	dat²B	KOUS	--	_
+3	t1210_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+4	t1211_m1	leuede	lēven³	VVFIN	Sw.3.Sg.Past.*	Satz
+
+1	t1212_m1	dey	dê¹,dê¹,dat²A	DPDS	Masc.Nom.Sg	_
+2	t1213_m1	waket	wāken	VVFIN	Sw.3.Sg.Pres.Ind	_
+3	t1214_m1	an	an	APPR	Dat-Akk	_
+4	t1215_m1	gu	gî²	PPER	2.Pl._.Dat-Akk	_
+5	t1216_m1	.	--	$;	--	Satz
+
+1	t1217_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t1218_m1	zuͦle	schȫlen¹	VMFIN	Prpr.2.Pl.Pres.*	_
+3	t1219_m1	gy	gî²	PPER	2.Pl._.Nom	_
+4	t1220_m1	wol	wol²	AVD	--	_
+5	t1221_m1	merken	merken¹	VVINF	--	_
+6	t1222_m1	.	--	$;	--	Satz
+
+1	t1223_m1	dat	dat²B	KOUS	--	_
+2	t1224_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+3	t1225_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+4	t1226_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Masc.Nom.Sg	_
+5	t1227_m1	zelich	sâlich²	ADJA	Pos.Masc.Nom.Sg.St	_
+6	t1228_m1	man	man¹	NA	Masc.Nom.Sg	Satz
+
+1	t1229_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+2	t1230_m1	zal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	_
+3	t1231_m1	dor	dôr³	AVD	--	_
+4	t1232_m1	recht	recht²	PTKA	--	_
+5	t1233_m1	guͦd	gôt²	ADJA	Pos.Neut.Akk.Sg.St	_
+6	t1234_m1	lon	lôn	NA	Neut.Akk.Sg	_
+7	t1235_m1	entfan	entfân	VVINF	--	_
+8	t1236_m1	.	--	$;	--	Satz
+
+1	t1237_m1	dey	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Pl	_
+2	t1238_m1	cleyder	klêⁱt¹	NA	Neut.Nom.Pl	_
+3	t1239_m1	weret	wēren²	VVFIN	Sw.3.Pl.Pres.Ind	_
+4	t1240_m1	twe	twêne	CARDA	Neut.Akk	_
+5	t1241_m1	dink	dinc	NA	Neut.Akk.Pl	_
+6	t1242_m1	.	--	$;	--	Satz
+
+1	t1243_m1	dey	dê¹,dê¹,dat²A	DPRELS	Neut.Nom.Pl	_
+2	t1244_m1	beyde	bêⁱde¹	DPIS	*.Nom.Pl	_
+3	t1245_m1	in	in²	APPR	Dat-Akk	_
+4	t1246_m1	nute	nut¹	NA	*.Dat-Akk.Sg	_
+5	t1247_m1	zint	wēsen²	VVFIN	Irr.3.Pl.Pres.Ind	Satz
+
+1	t1248_m1	zey	sê²	PPER	3.Pl._.Nom	_
+2	t1249_m1	zuͦlen	schȫlen¹	VMFIN	Prpr.3.Pl.Pres.*	_
+3	t1250_m1	des	dê¹,dê¹,dat²A	DDARTA	Masc-Neut.Gen.Sg	_
+4	t1251_m1	mynschen	minsche	NA	Masc-Neut.Gen.Sg	_
+5	t1252_m1	schemede	schēm(e)de¹	NA	Fem.Akk.Sg	_
+6	t1253_m1	verberghen	vorbergen	VVINF	--	_
+7	t1254_m1	.	--	$;	--	Satz
+
+1	t1255_m1	vnde	unde²	KON	--	_
+2	t1256_m1	laten	lâten¹	VVFIN	St.3.Pl.Pres.*	_
+3	t1257_m1	ene	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Akk	_
+4	t1258_m1	van	van¹	APPR	Dat	_
+5	t1259_m1	vorste	vrost	NA	Masc.Dat.Sg	_
+6	t1260_m1	nicht	nicht¹	PTKNEG	--	_
+7	t1261_m1	vorderuen	vorderven²	VVINF	--	_
+8	t1262_m1	.	--	$;	--	Satz
+
+1	t1263_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Pl	_
+2	t1264_m1	zunde	sünde¹	NA	Fem.Nom.Pl	Satzteil_I
+3	t1265_m1	dey	dê¹,dê¹,dat²A	DPRELS	Fem.Akk.Pl	_
+4	t1266_m1	wy	wî¹	PPER	1.Pl._.Nom	_
+5	t1267_m1	doyt	dôn¹	VVFIN	Irr.1.Pl.Pres.Ind	Satz
+
+1	t1268_m1	dey	dê¹,dê¹,dat²A	DPDS	Fem.Nom.Pl	_
+2	t1269_m1	zint	wēsen²	VVFIN	Irr.3.Pl.Pres.Ind	_
+3	t1270_m1	allermeyst	allermêⁱst	ADJD	Sup	_
+4	t1271_m1	schemlik	schēmel(ĩ)k	ADJD	Pos	_
+5	t1272_m1	.	--	$;	--	Satzteil_F
+6	t1273_m1	dey	dê¹,dê¹,dat²A	DPDS	*.Akk.Pl	_
+7	t1274_m1	zuͦle	schȫlen¹	VVFIN	Prpr.1.Pl.Pres.*	_
+8	t1275_m1	wi	wî¹	PPER	1.Pl._.Nom	_
+9	t1276_m1	mid	mit	APPR	Dat	_
+10	t1277_m1	vnser	unse¹	DPOSA	Fem.Dat.Sg	_
+11	t1278_m1	bighet	bicht(e)	NA	Fem.Dat.Sg	_
+12	t1279_m1	denken	denken	VVINF	--	_
+13	t1280_m1	alle	al	DPIS	*.Nom.Pl	_
+14	t1281_m1	zamen	sāmen(e)	AVD	--	Satz
+
+1	t1282_m1	dat	dat²B	KOUS	--	_
+2	t1283_m1	wi	wî¹	PPER	1.Pl._.Nom	_
+3	t1284_m1	vns	wî¹	PPER	1.Pl._.Dat-Akk	_
+4	t1285_m1	vor	vȫr³	APPR	Dat-Akk	_
+5	t1286_m1	gode	got¹	NA	Masc.Dat-Akk.Sg	_
+6	t1287_m1	nicht	nicht¹	PTKNEG	--	_
+7	t1288_m1	eyn	en⁴	PTKNEG	--	_
+8	t1289_m1	schamen	schāmen	VVFIN	Sw.1.Pl.Pres.*	_
+9	t1290_m1	.	--	$;	--	Satz
+
+1	t1291_m1	vnde	unde²	KON	--	_
+2	t1292_m1	zolen	schȫlen¹	VMFIN	Prpr.1.Pl.Pres.*	_
+3	t1293_m1	vns	wî¹	PPER	1.Pl._.Dat-Akk	_
+4	t1294_m1	mid	mit	APPR	Dat	_
+5	t1295_m1	guͦden	gôt²	ADJA	Pos.Neut.Dat.Pl.*	_
+6	t1296_m1	werken	werk	NA	Neut.Dat.Pl	_
+7	t1297_m1	cleyden	klêⁱden	VVINF	--	_
+8	t1298_m1	alle	al	DIA	Masc.Akk.Pl	_
+9	t1299_m1	daghe	dach	NA	Masc.Akk.Pl	_
+10	t1300_m1	.	--	$;	--	Satz
+
+1	t1301_m1	dat	dat²B	KOUS	--	_
+2	t1302_m1	vns	wî¹	PPER	1.Pl._.Dat-Akk	_
+3	t1303_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+4	t1304_m1	vorst	vrost	NA	Masc.Nom.Sg	_
+5	t1305_m1	nicht	nicht¹	PTKNEG	--	_
+6	t1306_m1	eyn	en⁴	PTKNEG	--	_
+7	t1307_m1	scade	schāden	VVFIN	Sw.3.Sg.Pres.Konj	_
+8	t1308_m1	.	--	$;	--	_
+9	t1309_m1	dat	dat²B	KOUS	--	_
+10	t1310_m1	manich	mannich	DPIS	Fem.Akk.Sg	_
+11	t1311_m1	pine	pîne	NA	Fem.Akk.Sg	_
+12	t1312_m1	grot	grôt²	ADJN	Pos.Fem.Akk.Sg.St	_
+13	t1313_m1	.	--	$;	--	_
+14	t1314_m1	vnde	unde²	KON	--	_
+15	t1315_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+16	t1316_m1	ewighe	êwich¹	ADJA	Pos.Masc.Nom.Sg.Sw	_
+17	t1317_m1	dot	dôt²	NA	Masc.Nom.Sg	_
+18	t1318_m1	.	--	$;	--	Satz
+
+1	t1319_m1	deme	dê¹,dê¹,dat²A	DPDS	Masc-Neut.Dat.Sg	_
+2	t1320_m1	moghe	mȫgen	VMFIN	Prpr.1.Pl.Pres.*	_
+3	t1321_m1	wi	wî¹	PPER	1.Pl._.Nom	_
+4	t1322_m1	alle	al	DIN	*.Nom.Pl	_
+5	t1323_m1	entghan	entgân	VVINF	--	Satz
+
+1	t1324_m1	wille	willen¹	VMFIN	Irr.1.Pl.Pres.*	_
+2	t1325_m1	wi	wî¹	PPER	1.Pl._.Nom	_
+3	t1326_m1	godes	got¹	NA	Masc.Gen.Sg	_
+4	t1327_m1	cleyder	klêⁱt¹	NA	Neut.Akk.Pl	_
+5	t1328_m1	han	hebben	VVINF	--	_
+6	t1329_m1	.	--	$;	--	Satz
+
+1	t1330_m1	do	dô¹	AVD	--	_
+2	t1331_m1	disse	desse,desse,dit	DDA	Fem.Nom.Pl	_
+3	t1332_m1	plaghen	plâge¹	NA	Fem.Nom.Pl	_
+4	t1333_m1	waren	wēsen²	VAFIN	Irr.3.Pl.Past.Ind	_
+5	t1334_m1	komen	kōmen¹	VVPP	--	_
+6	t1335_m1	an	an	APPR	Akk	_
+7	t1335_m2	de	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.*	_
+8	t1336_m1	erden	ērde	NA	Fem.Akk.*	Satz
+
+1	t1337_m1	do	dô¹	AVD	--	_
+2	t1338_m1	zolde	schȫlen¹	VMFIN	Prpr.3.Sg.Past.*	_
+3	t1339_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc-Fem.Nom.Sg	_
+4	t1340_m1	leste	lat³	ADJS	Pos.Masc-Fem.Nom.Sg.*	_
+5	t1341_m1	in	in²	APPR	Dat	_
+6	t1342_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+7	t1343_m1	loft	lucht¹	NA	Fem.Dat.Sg	_
+8	t1344_m1	weiden	weiden¹	VVINF	--	Satz
+
+1	t1345_m1	na	nâ	APPR	Dat-Akk	_
+2	t1346_m1	domesdaghe	dômesdach	NA	Masc.Dat-Akk.Sg	_
+3	t1347_m1	is	wēsen²	VAFIN	Irr.3.Sg.Pres.Ind	_
+4	t1348_m1	id	hê¹,sê¹,et¹	PPER	3.Sg.Neut.Nom	_
+5	t1349_m1	al	al	AVKO	--	_
+6	t1350_m1	ghedan	dôn¹	VVPP	--	_
+7	t1351_m1	.	--	$;	--	Satz
+
+1	t1352_m1	zo	sô²	KON	--	_
+2	t1353_m1	zolen	schȫlen¹	VMFIN	Prpr.3.Pl.Pres.*	_
+3	t1354_m1	dey	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Pl	_
+4	t1355_m1	dink	dinc	NA	Neut.Nom.Pl	_
+5	t1356_m1	vuͦllenghan	vulgân	VVINF	--	_
+6	t1357_m1	.	--	$;	--	Satz
+
+1	t1358_m1	zo	sô²	KON	--	_
+2	t1359_m1	kumet	kōmen¹	VVFIN	St.3.Sg.Pres.Ind	_
+3	t1360_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc-Fem.Nom.Sg	_
+4	t1361_m1	stemme	stem(me)	NA	Masc-Fem.Nom.Sg	_
+5	t1362_m1	vnde	unde²	KON	--	_
+6	t1363_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+7	t1364_m1	blisme	blixem(e)	NA	Masc.Nom.Sg	_
+8	t1365_m1	grot	grôt²	ADJN	Pos.Masc.Nom.Sg.St	Satz
+
+1	t1366_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t1367_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t1368_m1	iamer	jâmer	NA	Masc-Neut.Nom.Sg	_
+4	t1369_m1	vnde	unde²	KON	--	_
+5	t1370_m1	not	nôt¹	NA	Masc-Fem.Nom.Sg	_
+6	t1371_m1	.	--	$;	--	Satz
+
+1	t1372_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc-Fem.Nom.Sg	_
+2	t1373_m1	stat	stat⁴	NA	Masc-Fem.Nom.Sg	_
+3	t1374_m1	deylet	dêⁱlen	VVFIN	Sw.3.Sg.Pres.Ind	_
+4	t1375_m1	zik	sik¹	PRF	3.Sg.Dat-Akk	_
+5	t1376_m1	an	an	APPR	Dat-Akk	_
+6	t1376_m2	dre	drê	CARDS	*.Dat-Akk	Satz
+
+1	t1377_m1	dey	dê¹,dê¹,dat²A	DPDS	Masc-Fem.Nom.Sg	_
+2	t1378_m1	doyt	dôn¹	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t1379_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+4	t1380_m1	cristenheyt	kristenhêⁱt	NA	Fem.Dat.Sg	_
+5	t1381_m1	we	wê³	ADJV	Pos	_
+6	t1382_m1	.	--	$;	--	Satz
+
+1	t1383_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+2	t1384_m1	irste	êrst¹	ADJA	Sup.Masc.Nom.Sg.Sw	_
+3	t1385_m1	deyl	dêⁱl²	NA	Masc.Nom.Sg	_
+4	t1386_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+5	t1387_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+6	t1388_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+7	t1389_m1	heydenschap	hêidenschop	NA	Fem.Nom.Sg	_
+8	t1390_m1	.	--	$;	--	Satz
+
+1	t1391_m1	dey	dê¹,dê¹,dat²A	DPDS	Masc-Fem.Nom.Sg	_
+2	t1392_m1	doyt	dôn¹	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t1393_m1	den	dê¹,dê¹,dat²A	DPDS	*.Dat.Pl	_
+4	t1394_m1	godes	got¹	NA	Masc.Gen.Sg	_
+5	t1395_m1	holden	hōlden	VVINF	--	_
+6	t1396_m1	grot	grôt²	ADJA	Pos.Neut.Akk.Sg.St	_
+7	t1397_m1	vnghemak	ungemak¹	NA	Neut.Akk.Sg	_
+8	t1398_m1	.	--	$;	--	Satz
+
+1	t1399_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t1400_m1	andere	ander	DPIS	Neut.Nom.Sg	_
+3	t1401_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+4	t1402_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+5	t1403_m1	iudesche	jȫdisch	ADJA	Pos.Fem.Nom.Sg.*	_
+6	t1404_m1	dhet	dêt²	NA	Fem.Nom.Sg	Satz
+
+1	t1405_m1	dey	dê¹,dê¹,dat²A	DPDS	Fem.Nom.Sg	_
+2	t1406_m1	ne	ne²	PTKNEG	--	_
+3	t1407_m1	schonet	schônen²	VVFIN	Sw.3.Sg.Pres.Ind	_
+4	t1408_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Sg	_
+5	t1409_m1	cristenheyt	kristenhêⁱt	NA	Fem.Akk.Sg	_
+6	t1410_m1	nicht	nicht¹	PTKNEG	--	Satz
+
+1	t1411_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t1412_m1	derde	derde	ADJS	Pos.Neut.Nom.Sg.Sw	_
+3	t1413_m1	zint	wēsen²	VVFIN	Irr.3.Pl.Pres.Ind	_
+4	t1414_m1	dey	dê¹,dê¹,dat²A	DDARTA	*.Nom.Pl	_
+5	t1415_m1	walschen	Wal(le)sch	ADJS	Pos.*.Nom.Pl.Sw	Satz
+
+1	t1416_m1	de	dê¹,dê¹,dat²A	DPDS	*.Nom.Pl	_
+2	t1417_m1	bedrouet	bedrö̂ven	VVFIN	Sw.3.Pl.Pres.Ind	_
+3	t1418_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Sg	_
+4	t1419_m1	werld	werlt	NA	Fem.Akk.Sg	_
+5	t1420_m1	zere	sêr(e)⁴	AVD	--	_
+6	t1421_m1	.	--	$;	--	Satz
+
+1	t1422_m1	dit	desse,desse,dit	DDA	Neut.Nom.Sg	_
+2	t1423_m1	leyt	lêⁱt²	NA	Neut.Nom.Sg	_
+3	t1424_m1	vo	--	OA	--	_
+4	t1425_m1	komet	kōmen¹	VVFIN	St.3.Sg.Pres.Ind	_
+5	t1426_m1	van	van¹	APPR	Dat-Akk	_
+6	t1427_m1	babilonia	Babilonie	NE	*.Dat-Akk.Sg	_
+7	t1428_m1	.	--	$;	--	Satz
+
+1	t1429_m1	zo	sô²	AVKO	--	_
+2	t1430_m1	komet	kōmen¹	VVFIN	St.3.Sg.Pres.Ind	_
+3	t1431_m1	ere	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc-Neut.Nom.Sg	_
+4	t1432_m1	val	val¹	NA	Masc-Neut.Nom.Sg	_
+5	t1433_m1	.	--	$;	--	Satz
+
+1	t1434_m1	dar	dâr¹	PAVKON	--	_
+2	t1435_m1	na	nâ	PAVAP	--	_
+3	t1436_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+4	t1437_m1	haghel	hāgel	NA	Masc.Nom.Sg	_
+5	t1438_m1	vallet	vallen¹	VVFIN	St.3.Sg.Pres.Ind	_
+6	t1439_m1	up	up(pe)¹	APPR	Akk	_
+7	t1440_m1	zey	sê²	PPER	3.Pl._.Akk	_
+8	t1441_m1	swar	swâr¹	ADJV	Pos	_
+9	t1442_m1	alse	alsô	KOKOM	--	_
+10	t1443_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Neut.Nom.Sg	_
+11	t1444_m1	bli	blî	NA	Neut.Nom.Sg	_
+12	t1445_m1	.	--	$;	--	Satz
+
+1	t1446_m1	dar	dâr¹	PAVKO	--	_
+2	t1447_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t1448_m1	godes	got¹	NA	Masc.Gen.Sg	_
+4	t1449_m1	wrake	wrâke²	NA	Fem.Nom.Sg	_
+5	t1450_m1	by	bî	PAVAP	--	Satz
+
+1	t1451_m1	Dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Pl	_
+2	t1452_m1	engel	engel	NA	Masc.Nom.Pl	_
+3	t1453_m1	deden	dôn¹	VVFIN	Irr.3.Pl.Past.*	_
+4	t1454_m1	eyn	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Akk	_
+5	t1455_m1	verstan	vorstân⁴	VVINF	--	_
+6	t1456_m1	vil	vēle¹	PTKA	--	_
+7	t1457_m1	wisse	wisse¹	AVD	--	_
+8	t1458_m1	der	dê¹,dê¹,dat²A	DDARTA	Masc.Gen.Pl	_
+9	t1459_m1	groten	grôt²	ADJA	Pos.Masc.Gen.Pl.Sw	_
+10	t1460_m1	heren	hêre⁴	NA	Masc.Gen.Pl	_
+11	t1461_m1	vordomnisse	vordö̂menisse	NA	Neut-Fem.Akk.*	_
+12	t1462_m1	.	--	$;	--	Satz
+
+1	t1463_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Pl	_
+2	t1464_m1	koninghe	kȫninc	NA	Masc.Nom.Pl	_
+3	t1465_m1	vnde	unde²	KON	--	_
+4	t1466_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Pl	_
+5	t1467_m1	vorsten	vörste²	NA	Masc.Nom.Pl	_
+6	t1468_m1	mid	mit	APPR	Dat	_
+7	t1469_m1	groter	grôt²	ADJA	Pos.Fem.Dat.Sg.St	_
+8	t1470_m1	bosheyt	bö̂shêⁱt	NA	Fem.Dat.Sg	_
+9	t1471_m1	hadden	hebben	VAFIN	Sw.3.Pl.Past.*	_
+10	t1472_m1	verdenket	vordenken²	VVPP	--	_
+11	t1473_m1	vnde	unde²	KON	--	_
+12	t1474_m1	in	in²	APPR	Akk	_
+13	t1475_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Sg	_
+14	t1476_m1	afgrunde	afgründ(e)	NA	Neut.Akk.Sg	_
+15	t1477_m1	ghezenket	senken	VVPP	--	Satz
+
+1	t1478_m1	zey	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+2	t1479_m1	red	rîden¹	VVFIN	St.3.Sg.Past.Ind	_
+3	t1480_m1	op	up(pe)¹	APPR	Dat	_
+4	t1481_m1	eme	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Neut.Dat.Sg	_
+5	t1482_m1	dyre	dêr⁵	NA	Neut.Dat.Sg	_
+6	t1483_m1	.	--	$;	--	Satz
+
+1	t1484_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t1485_m1	was	wēsen²	VVFIN	Irr.3.Sg.Past.Ind	_
+3	t1486_m1	rot	rôt⁴	ADJD	Pos	Satz
+
+1	t1487_m1	id	hê¹,sê¹,et¹	PPER	3.Sg.Neut.Nom	_
+2	t1488_m1	hadde	hebben	VVFIN	Sw.3.Sg.Past.*	_
+3	t1489_m1	manighen	mannich	DIA	Masc.Akk.Sg	_
+4	t1490_m1	smeliken	smêlĩk	ADJA	Pos.Masc.Akk.Sg.*	_
+5	t1491_m1	ok	--	OA	--	_
+6	t1492_m1	namen	nāme²	NA	Masc.Akk.Sg	_
+7	t1493_m1	ok	ôk	AVKO	--	_
+8	t1494_m1	.	--	$;	--	Satz
+
+1	t1495_m1	id	hê¹,sê¹,et¹	PPER	3.Sg.Neut.Nom	_
+2	t1496_m1	hadde	hebben	VVFIN	Sw.3.Sg.Past.*	_
+3	t1497_m1	zeuen	sēven¹	CARDA	Neut.Akk	_
+4	t1498_m1	houede	hö̂vet¹	NA	Neut.Akk.Pl	_
+5	t1499_m1	.	--	$;	--	_
+6	t1500_m1	vnde	unde²	KON	--	_
+7	t1501_m1	theyn	teyn	CARDA	Neut.Akk	_
+8	t1502_m1	horne	hōrn	NA	Neut.Akk.Pl	Satz
+
+1	t1503_m1	id	hê¹,sê¹,et¹	PPER	3.Sg.Neut.Nom	_
+2	t1504_m1	dede	dôn¹	VVFIN	Irr.3.Sg.Past.*	_
+3	t1505_m1	manighen	mannich	DIA	Masc.Dat.Sg	_
+4	t1506_m1	manne	man¹	NA	Masc.Dat.Sg	_
+5	t1507_m1	thorne	tōrn(e)²	NA	Masc.Akk.*	Satz
+
+1	t1508_m1	zey	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+2	t1509_m1	was	wēsen²	VAFIN	Irr.3.Sg.Past.Ind	_
+3	t1510_m1	ghecleydet	klêⁱden	VVPP	--	_
+4	t1511_m1	mid	mit	APPR	Dat-Akk	_
+5	t1512_m1	pellen	pellen¹	NA	*.Dat-Akk.*	_
+6	t1513_m1	vnde	unde²	KON	--	_
+7	t1514_m1	mid	mit	APPR	Dat	_
+8	t1515_m1	zamitte	sam(m)ĩt	NA	*.Dat.Sg	_
+9	t1516_m1	rot	rôt⁴	ADJN	Pos.*.Dat.Sg.*	Satz
+
+1	t1517_m1	se	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+2	t1518_m1	was	wēsen²	VAFIN	Irr.3.Sg.Past.Ind	_
+3	t1519_m1	mid	mit	APPR	Dat	_
+4	t1520_m1	golde	golt²	NA	Neut.Dat.Sg	_
+5	t1521_m1	.	--	$;	--	_
+6	t1522_m1	vnde	unde²	KON	--	_
+7	t1523_m1	ghesteyne	gestêⁱnte	NA	Neut.Dat-Akk.*	_
+8	t1524_m1	gheziret	sîren	VVPP	--	_
+9	t1525_m1	ok	ôk	AVKO	--	_
+10	t1526_m1	.	--	$;	--	Satz
+
+1	t1527_m1	zey	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+2	t1528_m1	ret	rîden¹	VVFIN	St.3.Sg.Past.Ind	_
+3	t1529_m1	stolteliken	stoltlĩken	AVD	--	_
+4	t1530_m1	ouer	ȫver¹	APPR	Akk	_
+5	t1531_m1	al	al	DIA	Neut.Akk.Pl	_
+6	t1532_m1	dey	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Pl	_
+7	t1533_m1	lant	lant	NA	Neut.Akk.Pl	Satz
+
+1	t1534_m1	vnde	unde²	KON	--	_
+2	t1535_m1	vorde	vö̂ren¹	VVFIN	Sw.3.Sg.Past.*	_
+3	t1536_m1	eynen	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Masc.Akk.Sg	_
+4	t1537_m1	guͦldene	gülden²	ADJA	Pos.Masc.Akk.Sg.*	_
+5	t1538_m1	nap	nap	NA	Masc.Akk.Sg	_
+6	t1539_m1	in	in²	APPR	Dat	_
+7	t1540_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+8	t1541_m1	hant	hant	NA	Fem.Dat.Sg	Satz
+
+1	t1542_m1	ze	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+2	t1543_m1	schenkede	schenken	VVFIN	Sw.3.Sg.Past.*	_
+3	t1544_m1	vlitliken	vlîtlĩke(n)	AVD	--	_
+4	t1545_m1	den	dê¹,dê¹,dat²A	DDARTA	*.Dat.Pl	_
+5	t1546_m1	riken	rîke²	ADJS	Pos.*.Dat.Pl.*	_
+6	t1547_m1	.	--	$;	--	_
+7	t1548_m1	vnde	unde²	KON	--	_
+8	t1549_m1	den	dê¹,dê¹,dat²A	DDARTA	*.Dat.Pl	_
+9	t1550_m1	armen	arm¹	ADJS	Pos.*.Dat.Pl.*	Satz
+
+1	t1551_m1	de	dê¹,dê¹,dat²A	DPDS	Masc-Fem.Nom.Sg	_
+2	t1552_m1	dey	dâr¹	AVD	--	_
+3	t1553_m1	drank	drinken	VVFIN	St.3.Sg.Past.Ind	_
+4	t1554_m1	zo	sô²	AVKO	--	_
+5	t1555_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Masc.Akk.Sg	_
+6	t1556_m1	honichzem	hon(n)ichsê(i)m	NA	Masc.Akk.Sg	_
+7	t1557_m1	in	in²	APPR	Dat	_
+8	t1558_m1	dem	dê¹,dê¹,dat²A	DDARTA	Masc-Neut.Dat.Sg	_
+9	t1559_m1	anbeghinne	anbegin	NA	Masc-Neut.Dat.Sg	_
+10	t1560_m1	vnde	unde²	KON	--	_
+11	t1561_m1	bitter	bitter	ADJV	Pos	_
+12	t1562_m1	alse	alsô	KOKOM	--	_
+13	t1563_m1	eyne	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Fem.Nom.Sg	_
+14	t1564_m1	galle	galle¹	NA	Fem.Nom.Sg	_
+15	t1565_m1	in	in²	APPR	Dat	_
+16	t1566_m1	deme	dê¹,dê¹,dat²A	DDARTA	Masc-Neut.Dat.Sg	_
+17	t1567_m1	ende	ende²	NA	Masc-Neut.Dat.Sg	_
+18	t1568_m1	.	--	$;	--	Satz
+
+1	t1569_m1	ze	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+2	t1570_m1	rodede	rōden¹	VVFIN	Sw.3.Sg.Past.*	_
+3	t1571_m1	zeluen	sülve	PTKN	--	_
+4	t1572_m1	.	--	$;	--	Satz
+
+1	t1573_m1	vnde	unde²	KON	--	_
+2	t1574_m1	was	wēsen²	VAFIN	Irr.3.Sg.Past.Ind	_
+3	t1575_m1	vordrunken	vordrinken	VVPP	--	_
+4	t1576_m1	zere	sêr(e)⁴	AVD	--	_
+5	t1577_m1	in	in²	APPR	Dat	_
+6	t1578_m1	den	dê¹,dê¹,dat²A	DDARTA	Neut.Dat.Sg	_
+7	t1579_m1	blode	blôt¹	NA	Neut.Dat.Sg	_
+8	t1580_m1	der	dê¹,dê¹,dat²A	DDARTA	Masc.Gen.Pl	_
+9	t1581_m1	mertellere	marteler	NA	Masc.Gen.Pl	_
+10	t1582_m1	.	--	$;	--	Satz
+
+1	t1583_m1	ere	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc.Nom.Sg	_
+2	t1584_m1	name	nāme²	NA	Masc.Nom.Sg	_
+3	t1585_m1	eyn	en⁴	PTKNEG	--	_
+4	t1586_m1	was	wēsen²	VVFIN	Irr.3.Sg.Past.Ind	_
+5	t1587_m1	nicht	nicht¹	PTKNEG	--	_
+6	t1588_m1	acter	achter(e)⁴ᵇ	AVD	--	_
+7	t1589_m1	bleuen	blîven	VVPP	--	Satz
+
+1	t1590_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+2	t1591_m1	was	wēsen²	VAFIN	Irr.3.Sg.Past.Ind	_
+3	t1592_m1	in	in²	APPR	Akk	_
+4	t1592_m2	er	sîn⁴,ēr¹,sîn⁴	DPOSA	Neut.Akk.Sg	_
+5	t1593_m1	vorhoued	vȫrhö̂vet	NA	Neut.Akk.Sg	_
+6	t1594_m1	ghescreuen	schrîven	VVPP	--	Satz
+
+1	t1595_m1	zey	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+2	t1596_m1	heytid	hêⁱten²	VVFIN	St-Sw.3.Sg.Pres.Ind	_
+3	t1597_m1	babilon	Babilonie	NE	*.Nom.Sg	_
+4	t1598_m1	en	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Fem.Nom.Sg	_
+5	t1599_m1	moder	môder¹	NA	Fem.Nom.Sg	_
+6	t1600_m1	ouerhores	ȫverhôr(e)¹	NA	Neut.Gen.Sg	_
+7	t1601_m1	vnde	unde²	KON	--	_
+8	t1602_m1	wectele	wachtele	NA	Fem.Nom.Sg	_
+9	t1603_m1	alles	al	DIA	Masc.Gen.Sg	_
+10	t1604_m1	ouermoydes	ȫvermôt	NA	Masc.Gen.Sg	Satz
+
+1	t1605_m1	Dyt	desse,desse,dit	DDA	Neut.Nom.Sg	_
+2	t1606_m1	dyr	dêr⁵	NA	Neut.Nom.Sg	_
+3	t1607_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+4	t1608_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+5	t1609_m1	duͦuel	dü̂vel¹	NA	Masc.Nom.Sg	_
+6	t1610_m1	.	--	$;	--	_
+7	t1611_m1	vnde	unde²	KON	--	_
+8	t1612_m1	endekerst	endekrist	NA	Masc.Nom.Sg	_
+9	t1613_m1	dey	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Pl	_
+10	t1614_m1	zeuen	sēven¹	CARDA	Neut.Nom	_
+11	t1615_m1	houede	hö̂vet¹	NA	Neut.Nom.Pl	_
+12	t1616_m1	zin	sîn⁴,ēr¹,sîn⁴	DPOSA	Fem.Nom.Sg	_
+13	t1617_m1	grote	grôt²	ADJA	Pos.Fem.Nom.Sg.*	_
+14	t1618_m1	mcht	macht¹	NA	Fem.Nom.Sg	_
+15	t1619_m1	vnde	unde²	KON	--	_
+16	t1620_m1	list	list	NA	Fem.Nom.Sg	_
+17	t1621_m1	.	--	$;	--	Satz
+
+1	t1622_m1	dey	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Pl	_
+2	t1623_m1	theyn	teyn	CARDA	Neut.Nom	_
+3	t1624_m1	horne	hōrn	NA	Neut.Nom.Pl	Satzteil_I
+4	t1625_m1	dey	dê¹,dê¹,dat²A	DPRELS	Neut.Nom.Pl	_
+5	t1626_m1	dar	dâr¹	PAVKO	--	_
+6	t1627_m1	uppe	up(pe)¹	PAVAP	--	_
+7	t1628_m1	stat	stân	VVFIN	Irr.3.Pl.Pres.Ind	Satz
+
+1	t1629_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+2	t1630_m1	zin	sîn⁴,ēr¹,sîn⁴	DPOSA	Fem.Nom.Sg	_
+3	t1631_m1	manichvalde	mannichvōlt¹	DIA	Fem.Nom.Sg	_
+4	t1632_m1	bose	bö̂s(e)	ADJA	Pos.Fem.Nom.Sg.*	_
+5	t1633_m1	dat	dât¹	NA	Fem.Nom.Sg	_
+6	t1634_m1	.	--	$;	--	Satzteil_F
+7	t1635_m1	dar	dâr¹	PAVKO	--	_
+8	t1636_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+9	t1637_m1	godes	got¹	NA	Masc.Gen.Sg	_
+10	t1638_m1	holden	hōlden(t)	NA	Neut.Akk.*	_
+11	t1639_m1	mede	mēde¹	PAVAP	--	_
+12	t1640_m1	steket	stēken	VVFIN	St.3.Sg.Pres.Ind	Satz
+
+1	t1641_m1	vnde	unde²	KON	--	_
+2	t1642_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Akk.Sg	_
+3	t1643_m1	ghelouen	gelôve	NA	Masc.Akk.Sg	_
+4	t1644_m1	mede	mēde¹	AVD	--	_
+5	t1645_m1	thobreket	tõbrēken	VVFIN	St.3.Sg.Pres.Ind	Satz
+
+1	t1646_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+2	t1647_m1	vrowe	vrouwe²	NA	Fem.Nom.Sg	Satzteil_I
+3	t1648_m1	dey	dê¹,dê¹,dat²A	DPRELS	Fem.Nom.Sg	_
+4	t1649_m1	dar	dâr¹	AVD	--	_
+5	t1650_m1	ridet	rîden¹	VVFIN	St.3.Sg.Pres.Ind	_
+6	t1651_m1	up	up(pe)¹	APPR	Dat	_
+7	t1652_m1	deme	dê¹,dê¹,dat²A	DDARTA	Neut.Dat.Sg	_
+8	t1653_m1	dyre	dêr⁵	NA	Neut.Dat.Sg	Satz
+
+1	t1654_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t1655_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t1656_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+4	t1657_m1	werld	werlt	NA	Fem.Nom.Sg	_
+5	t1658_m1	mid	mit	APPR	Dat	_
+6	t1659_m1	ydeler	îdel¹	ADJA	Pos.Fem.Dat.Sg.St	_
+7	t1660_m1	ere	êre²	NA	Fem.Dat.Sg	_
+8	t1661_m1	.	--	$;	--	Satzteil_F
+9	t1662_m1	dat	dat²B	KOUS	--	_
+10	t1663_m1	ze	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+11	t1664_m1	is	--	OA	--	_
+12	t1665_m1	ghecleydit	klêⁱden	VVPP	--	_
+13	t1666_m1	is	wēsen²	VAFIN	Irr.3.Sg.Pres.Ind	_
+14	t1667_m1	mid	mit	APPR	Akk	_
+15	t1668_m1	manigherhande	mannigerhande	DIA	Neut.Akk.Pl	_
+16	t1669_m1	ghewande	gewant¹	NA	Neut.Akk.Pl	_
+17	t1670_m1	.	--	$;	--	Satz
+
+1	t1671_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t1672_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t1673_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+4	t1674_m1	yl	--	OA	--	_
+5	t1675_m1	ydelcheyt	îdelhêⁱt	NA	Fem.Nom.Sg	_
+6	t1676_m1	aller	al	DIA	Fem.Gen.Pl	_
+7	t1677_m1	hande	hant	NA	Fem.Gen.Pl	_
+8	t1678_m1	.	--	$;	--	Satz
+
+1	t1679_m1	dar	dâr¹	PAVKO	--	_
+2	t1680_m1	mide	mēde¹	PAVAP	--	_
+3	t1681_m1	ghecleydet	klêⁱden	ADJV	Pos	_
+4	t1682_m1	gheyt	gân	VVFIN	Irr.3.Sg.Pres.Ind	_
+5	t1683_m1	luttik	lüttik	NA	Neut.Nom.Sg	Satz
+
+1	t1684_m1	id	hê¹,sê¹,et¹	PPER	3.Sg.Neut.Nom	_
+2	t1685_m1	ere	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Dat	_
+3	t1686_m1	vosteyt	vȫrstân²	VVFIN	Irr.3.Sg.Pres.Ind	_
+4	t1687_m1	.	--	$;	--	Satz
+
+1	t1688_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t1689_m1	dyr	dêr⁵	NA	Neut.Nom.Sg	_
+3	t1690_m1	dar	dâr¹	PAVD	--	_
+4	t1691_m1	uppe	up(pe)¹	PAVAP	--	_
+5	t1692_m1	ridet	rîden¹	VVFIN	St.3.Sg.Pres.Ind	Satz
+
+1	t1693_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t1694_m1	zal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	_
+3	t1695_m1	verwerden	vorwērden²	VVINF	--	_
+4	t1696_m1	.	--	$;	--	Satz
+
+1	t1697_m1	vnde	unde²	KON	--	_
+2	t1698_m1	ze	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+3	t1699_m1	zal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	_
+4	t1700_m1	mid	mit	APPR	Dat	_
+5	t1701_m1	eme	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Dat	_
+6	t1702_m1	steruen	sterven²	VVINF	--	_
+7	t1703_m1	.	--	$;	--	Satz
+
+1	t1704_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+2	t1705_m1	guͦldine	gülden²	ADJA	Pos.Masc.Nom.Sg.Sw	_
+3	t1706_m1	nap	nap	NA	Masc.Nom.Sg	_
+4	t1707_m1	.	--	$;	--	_
+5	t1708_m1	vnde	unde²	KON	--	_
+6	t1709_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+7	t1710_m1	zuͦte	sö̂te²	ADJA	Pos.Masc.Nom.Sg.*	_
+8	t1711_m1	drank	drank	NA	Masc.Nom.Sg	_
+9	t1712_m1	.	--	$;	--	_
+10	t1713_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+11	t1714_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+12	t1715_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc-Fem.Nom.Sg	_
+13	t1716_m1	vleyschlike	vlêⁱschlĩk	ADJA	Pos.Masc-Fem.Nom.Sg.*	_
+14	t1717_m1	lust	lust¹	NA	Masc-Fem.Nom.Sg	_
+15	t1718_m1	.	--	$;	--	_
+16	t1719_m1	vnde	unde²	KON	--	_
+17	t1720_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Gen.*	_
+18	t1721_m1	naturen	natûr(e)	NA	Fem.Gen.*	_
+19	t1722_m1	dwank	dwanc	NA	Masc.Nom.Sg	_
+20	t1723_m1	.	--	$;	--	Satz
+
+1	t1724_m1	dar	dâr¹	PAVKO	--	_
+2	t1725_m1	vor	vȫr³	PAVAP	--	_
+3	t1726_m1	zole	schȫlen¹	VMFIN	Prpr.1.Pl.Pres.*	_
+4	t1727_m1	wi	wî¹	PPER	1.Pl._.Nom	_
+5	t1728_m1	vns	wî¹	PPER	1.Pl._.Dat-Akk	_
+6	t1729_m1	hoden	hö̂den	VVINF	--	_
+7	t1730_m1	iummermer	iem(m)ermêr(e)	AVD	--	_
+8	t1731_m1	.	--	$;	--	Satz
+
+1	t1732_m1	dat	dat²B	KOUS	--	_
+2	t1733_m1	wi	wî¹	PPER	1.Pl._.Nom	_
+3	t1734_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Akk.Sg	_
+4	t1735_m1	nicht	nicht¹	PTKNEG	--	_
+5	t1736_m1	drinken	drinken	VVFIN	St.1.Pl.Pres.*	_
+6	t1737_m1	tho	tô²	PTKA	--	_
+7	t1738_m1	zere	sêr(e)⁴	AVD	--	Satz
+
+1	t1739_m1	wille	willen¹	VMFIN	Irr.1.Pl.Pres.*	_
+2	t1740_m1	wi	wî¹	PPER	1.Pl._.Nom	_
+3	t1741_m1	erre	sîn⁴,ēr¹,sîn⁴	DPOSA	Fem.Akk.*	_
+4	t1742_m1	zotnisse	sö̂t(e)nisse	NA	Fem.Akk.*	_
+5	t1743_m1	volghen	volgen	VVINF	--	Satz
+
+1	t1744_m1	wi	wî¹	PPER	1.Pl._.Nom	_
+2	t1745_m1	drinket	drinken	VVFIN	St.1.Pl.Pres.Ind	_
+3	t1746_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Akk.Sg	_
+4	t1747_m1	dot	dôt²	NA	Masc.Akk.Sg	_
+5	t1748_m1	ghewisse	gewisse	AVD	--	_
+6	t1749_m1	.	--	$;	--	Satz
+
+1	t1750_m1	endekerst	endekrist	NA	Masc.Nom.Sg	_
+2	t1751_m1	des	dê¹,dê¹,dat²A	DDARTA	Masc.Gen.Sg	_
+3	t1752_m1	duͦueles	dü̂vel¹	NA	Masc.Gen.Sg	_
+4	t1753_m1	bode	bōde¹	NA	Masc.Nom.Sg	_
+5	t1754_m1	verkeret	vorkêren²	VVFIN	Sw.3.Sg.Pres.Ind	_
+6	t1755_m1	zey	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Akk	_
+7	t1756_m1	in	in²	APPR	Dat	_
+8	t1757_m1	godes	got¹	NA	Masc.Gen.Sg	_
+9	t1758_m1	hat	hāte	NA	Masc.Akk.Sg	_
+10	t1759_m1	mid	mit	APPR	Dat	_
+11	t1760_m1	babilonien	Babilonie	NE	*.Dat.Sg	_
+12	t1761_m1	zin	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc-Fem.Akk.Sg	_
+13	t1762_m1	stat	stat⁴	NA	Masc-Fem.Akk.Sg	_
+14	t1763_m1	in	in²	APPR	Akk	_
+15	t1764_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Sg	_
+16	t1765_m1	afgrunde	afgründ(e)	NA	Neut.Akk.Sg	_
+17	t1766_m1	.	--	$;	--	Satz
+
+1	t1767_m1	dat	dat²B	KOUS	--	_
+2	t1768_m1	ze	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+3	t1769_m1	zunder	sunder³	AVKO	--	_
+4	t1770_m1	ende	enden	VVFIN	Sw.3.Sg.Pres.Konj	_
+5	t1771_m1	.	--	$;	--	Satz
+
+1	t1772_m1	id	hê¹,sê¹,et¹	PPER	3.Sg.Neut.Nom	_
+2	t1773_m1	zint	wēsen²	VVFIN	Irr.3.Pl.Pres.Ind	_
+3	t1774_m1	twe	twêne	CARDA	Masc-Fem.Nom	_
+4	t1775_m1	stede	stat⁴	NA	Masc-Fem.Nom.Pl	_
+5	t1776_m1	in	in²	APPR	Dat-Akk	_
+6	t1777_m1	ertrike	ērtrîke	NA	Neut.Dat-Akk.Sg	_
+7	t1778_m1	mid	mit	APPR	Dat	_
+8	t1779_m1	deden	dât¹	NA	Fem.Dat.Pl	_
+9	t1780_m1	vnde	unde²	KON	--	_
+10	t1781_m1	mid	mit	APPR	Dat-Akk	_
+11	t1782_m1	namen	nāme²	NA	Masc.Dat-Akk.*	_
+12	t1783_m1	vnghelik	un(ge)lîk¹	ADJN	Pos.Masc.Dat-Akk.*.*	Satz
+
+1	t1784_m1	dey	dê¹,dê¹,dat²A	DPDS	Masc-Fem.Nom.Sg	_
+2	t1785_m1	besteyt	bestân	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t1786_m1	gode	got¹	NA	Masc.Dat-Akk.Sg	_
+4	t1787_m1	.	--	$;	--	_
+5	t1788_m1	de	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+6	t1789_m1	andere	ander	DPIS	Fem.Nom.Sg	_
+7	t1790_m1	deme	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Sg	_
+8	t1791_m1	duͦuele	dü̂vel¹	NA	Masc.Dat.Sg	_
+9	t1792_m1	.	--	$;	--	_
+10	t1793_m1	vnde	unde²	KON	--	_
+11	t1794_m1	zinen	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc.Dat.Pl	_
+12	t1795_m1	boden	bōde¹	NA	Masc.Dat.Pl	_
+13	t1796_m1	.	--	$;	--	Satz
+
+1	t1797_m1	Jherusalem	Jêrusalem	NE	*.Nom.Sg	_
+2	t1798_m1	betekenet	betêⁱkenen	VVFIN	Sw.3.Sg.Pres.Ind	_
+3	t1799_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Sg	_
+4	t1800_m1	hymelrike	hemmelrîk(e)	NA	Neut.Akk.Sg	_
+5	t1801_m1	.	--	$;	--	Satz
+
+1	t1802_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Akk.Sg	_
+2	t1803_m1	beghink	begân	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t1804_m1	god	got¹	NA	Masc.Nom.Sg	_
+4	t1805_m1	in	in²	APPR	Dat-Akk	_
+5	t1806_m1	ertrike	ērtrîke	NA	Neut.Dat-Akk.Sg	_
+6	t1807_m1	.	--	$;	--	_
+7	t1808_m1	vnde	unde²	KON	--	_
+8	t1809_m1	alle	al	DIA	Neut.Akk.Pl	_
+9	t1810_m1	dey	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Pl	_
+10	t1811_m1	dinch	dinc	NA	Neut.Akk.Pl	Satzteil_I
+11	t1812_m1	dey	dê¹,dê¹,dat²A	DPRELS	Neut.Nom.Pl	_
+12	t1813_m1	zelich	sâlich²	ADJD	Pos	_
+13	t1814_m1	zint	wēsen²	VVFIN	Irr.3.Pl.Pres.Ind	Satz
+
+1	t1815_m1	vnde	unde²	KON	--	_
+2	t1816_m1	al	al	DPIS	*.Akk.*	Satzteil_F
+3	t1817_m1	dat	dê¹,dê¹,dat²A	DPRELS	Neut.Nom.Sg	_
+4	t1818_m1	vns	wî¹	PPER	1.Pl._.Dat-Akk	_
+5	t1819_m1	zal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	_
+6	t1820_m1	beschen	beschên	VVINF	--	_
+7	t1821_m1	in	in²	APPR	Dat	_
+8	t1822_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+9	t1823_m1	hemeleschen	hemmelsch	ADJA	Pos.Fem.Dat.Sg.Sw	_
+10	t1824_m1	stat	stat⁴	NA	Fem.Dat.Sg	_
+11	t1825_m1	tho	tô¹	APPR	Dat	_
+12	t1826_m1	deme	dê¹,dê¹,dat²A	DDARTA	Masc-Neut.Dat.Sg	_
+13	t1827_m1	ouersten	ȫver³	ADJA	Pos.Masc-Neut.Dat.Sg.*	_
+14	t1828_m1	iherusalem	Jêrusalem	NE	Masc-Neut.Dat.Sg	Satz
+
+1	t1829_m1	babilonia	--	FM	--	_
+2	t1830_m1	dyre	dēren¹	VVFIN	Sw.3.Sg.Pres.Konj	_
+3	t1831_m1	.	--	$;	--	Satz
+
+1	t1832_m1	do	dô¹	AVD	--	_
+2	t1833_m1	quam	kōmen¹	VVFIN	St.3.Sg.Past.Ind	_
+3	t1834_m1	mid	mit	APPR	Dat-Akk	_
+4	t1835_m1	groten	grôt²	ADJA	Pos.Masc.Dat-Akk.Sg.*	_
+5	t1836_m1	grimme	grim²	NA	Masc.Dat-Akk.Sg	_
+6	t1837_m1	van	van¹	APPR	Dat	_
+7	t1838_m1	deme	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Sg	_
+8	t1839_m1	throne	trôn¹	NA	Masc.Dat.Sg	_
+9	t1840_m1	eyne	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Fem.Nom.Sg	_
+10	t1841_m1	stemme	stem(me)	NA	Fem.Nom.Sg	Satz
+
+1	t1842_m1	dey	dê¹,dê¹,dat²A	DPDS	Fem.Nom.Sg	_
+2	t1843_m1	ghebot	gebêden	VVFIN	St.3.Sg.Past.Ind	_
+3	t1844_m1	den	dê¹,dê¹,dat²A	DDARTA	*.Dat.Pl	_
+4	t1845_m1	armen	arm¹	ADJS	Pos.*.Dat.Pl.*	_
+5	t1846_m1	vnde	unde²	KON	--	_
+6	t1847_m1	den	dê¹,dê¹,dat²A	DDARTA	*.Dat.Pl	_
+7	t1848_m1	riken	rîke²	ADJS	Pos.*.Dat.Pl.*	Satz
+
+1	t1849_m1	dat	dat²B	KOUS	--	_
+2	t1850_m1	zey	sê²	PPER	3.Pl._.Nom	_
+3	t1851_m1	gode	got¹	NA	Masc.Dat-Akk.Sg	_
+4	t1852_m1	loueden	lö̂ven²	VVFIN	Sw.3.Pl.Past.*	_
+5	t1853_m1	vlitliken	vlîtlĩke(n)	AVD	--	_
+6	t1854_m1	.	--	$;	--	Satz
+
+1	t1855_m1	dat	dat²B	KOUS	--	_
+2	t1856_m1	des	dê¹,dê¹,dat²A	DDARTA	Neut.Gen.Sg	_
+3	t1857_m1	lammes	lam¹	NA	Neut.Gen.Sg	_
+4	t1858_m1	bruͦtlacht	brûtlacht	NA	Fem.Nom.Sg	_
+5	t1859_m1	was	wēsen²	VAFIN	Irr.3.Sg.Past.Ind	_
+6	t1860_m1	kuͦmen	kōmen¹	VVPP	--	_
+7	t1861_m1	.	--	$;	--	Satz
+
+1	t1862_m1	des	dê¹,dê¹,dat²A	DPDS	Neut.Gen.Sg	_
+2	t1863_m1	zolde	schȫlen¹	VMFIN	Prpr.3.Sg.Past.*	_
+3	t1864_m1	hemel	hemmel	NA	Masc.Akk.Sg	_
+4	t1865_m1	vnde	unde²	KON	--	_
+5	t1866_m1	erde	ērde	NA	Fem.Akk.*	_
+6	t1867_m1	hebben	hebben	VVINF	--	_
+7	t1868_m1	vromen	vrōmen	VVINF	--	_
+8	t1869_m1	.	--	$;	--	Satz
+
+1	t1870_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t1871_m1	lof	lof⁴	NA	Neut.Nom.Sg	_
+3	t1872_m1	wart	wērden¹	VVFIN	St.3.Sg.Past.Ind	_
+4	t1873_m1	manichuold	mannichvōlt¹	AVD	--	_
+5	t1874_m1	in	in²	APPR	Dat	_
+6	t1875_m1	den	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Pl	_
+7	t1876_m1	zeluen	sülve	ADJA	Pos.Fem.Dat.Pl.*	_
+8	t1877_m1	stunden	stunde	NA	Fem.Dat.Pl	_
+9	t1878_m1	.	--	$;	--	Satz
+
+1	t1879_m1	den	dê¹,dê¹,dat²A	DPDS	*.Dat.Pl	_
+2	t1880_m1	dey	dê¹,dê¹,dat²A	DPRELS	*.Nom.Pl	_
+3	t1881_m1	dar	dâr¹	AVD	--	_
+4	t1882_m1	alleluia	allelûja	NA	Neut.Akk.*	_
+5	t1883_m1	zunghen	singen	VVFIN	St.3.Pl.Past.*	_
+6	t1884_m1	.	--	$;	--	Satz
+
+1	t1885_m1	dat	--	OA	--	_
+2	t1886_m1	dar	dâr¹	PAVKON	--	_
+3	t1887_m1	vmme	ümme³	PAVAP	--	_
+4	t1888_m1	dat	dat²B	KOUS	--	_
+5	t1889_m1	god	got¹	NA	Masc.Nom.Sg	_
+6	t1890_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+7	t1891_m1	rike	rîke²	ADJS	Pos.Masc.Nom.Sg.Sw	_
+8	t1892_m1	dede	dôn¹	VVFIN	Irr.3.Sg.Past.*	_
+9	t1893_m1	bruͦtlacht	brûtlacht	NA	Fem.Akk.Sg	_
+10	t1894_m1	herlike	hêrlĩk	ADJV	Pos	Satz
+
+1	t1895_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+2	t1896_m1	bruͦt	brût	NA	Fem.Nom.Sg	_
+3	t1897_m1	was	wēsen²	VAFIN	Irr.3.Sg.Past.Ind	_
+4	t1898_m1	ghecleydit	klêⁱden	VVPP	--	_
+5	t1899_m1	koninclike	kȫninclĩk	ADJV	Pos	Satz
+
+1	t1900_m1	ere	sîn⁴,ēr¹,sîn⁴	DPOSA	Neut.Nom.Pl	_
+2	t1901_m1	cleyder	klêⁱt¹	NA	Neut.Nom.Pl	_
+3	t1902_m1	weren	wēsen²	VVFIN	Irr.3.Pl.Past.*	_
+4	t1903_m1	snewitte	snêwit	ADJD	Pos	_
+5	t1904_m1	.	--	$;	--	Satz
+
+1	t1905_m1	zey	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+2	t1906_m1	was	wēsen²	VAFIN	Irr.3.Sg.Past.Ind	_
+3	t1907_m1	gheziret	sîren	VVPP	--	_
+4	t1908_m1	mid	mit	APPR	Dat	_
+5	t1909_m1	arabiengolde	arâbiengolt*	NA	Neut.Dat.Sg	Satz
+
+1	t1910_m1	er	sîn⁴,ēr¹,sîn⁴	DPOSA	Fem.Nom.Pl	_
+2	t1911_m1	duͦghede	dȫget¹	NA	Fem.Nom.Pl	_
+3	t1912_m1	waren	wēsen²	VVFIN	Irr.3.Pl.Past.Ind	_
+4	t1913_m1	manichuolde	mannichvōlt¹	DPIS	*.Nom.Pl	_
+5	t1914_m1	.	--	$;	--	Satz
+
+1	t1915_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+2	t1916_m1	engel	engel	NA	Masc.Nom.Sg	_
+3	t1917_m1	hette	hêⁱten²	VVFIN	St-Sw.3.Sg.Pres.Konj	_
+4	t1918_m1	ene	sê²	PPER	3.Pl._.Dat	_
+5	t1919_m1	scriuen	schrîven	VVINF	--	Satz
+
+1	t1920_m1	zey	sê²	PPER	3.Pl._.Nom	_
+2	t1921_m1	zolden	schȫlen¹	VVFIN	Prpr.3.Pl.Past.*	_
+3	t1922_m1	alle	al	DPIS	*.Nom.Pl	_
+4	t1923_m1	wesen	wēsen²	VVINF	--	_
+5	t1924_m1	vro	vrô¹	ADJD	Pos	_
+6	t1925_m1	vnde	unde²	KON	--	_
+7	t1926_m1	blide	blîde²	ADJD	Pos	Satz
+
+1	t1927_m1	den	dê¹,dê¹,dat²A	DPDS	_.Dat.Pl	_
+2	t1928_m1	god	got¹	NA	Masc.Nom.Sg	_
+3	t1929_m1	gheuet	gēven	VVFIN	St.3.Sg.Pres.Ind	_
+4	t1930_m1	zinne	sin¹	NA	Masc-Neut.Akk.Pl	_
+5	t1931_m1	vnde	unde²	KON	--	_
+6	t1932_m1	witte	witte³	NA	Fem.Akk.*	_
+7	t1933_m1	.	--	$;	--	Satz
+
+1	t1934_m1	dat	dat²B	KOUS	--	_
+2	t1935_m1	zey	sê²	PPER	3.Pl._.Nom	_
+3	t1936_m1	lammes	--	OA	--	_
+4	t1937_m1	des	dê¹,dê¹,dat²A	DDARTA	Neut.Gen.Sg	_
+5	t1938_m1	lammes	lam¹	NA	Neut.Gen.Sg	_
+6	t1939_m1	bruͦtlacht	brûtlacht	NA	Fem.Akk.Sg	_
+7	t1940_m1	moten	mö̂ten²	VMFIN	Prpr.3.Pl.Pres.*	_
+8	t1941_m1	besitten	besitten	VVINF	--	Satz
+
+1	t1942_m1	do	dô¹	AVD	--	_
+2	t1943_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+3	t1944_m1	disse	desse,desse,dit	DDA	Fem.Akk.*	_
+4	t1945_m1	vrouede	vröude	NA	Fem.Akk.*	_
+5	t1946_m1	ghezen	sên	VVPP	--	_
+6	t1947_m1	hadde	hebben	VAFIN	Sw.3.Sg.Past.*	_
+7	t1948_m1	alle	al	DPIS	*.Akk.*	Satz
+
+1	t1949_m1	do	dô¹	AVD	--	_
+2	t1950_m1	werlde	willen¹	VMFIN	Irr.3.Sg.Past.*	_
+3	t1951_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+4	t1952_m1	up	up(pe)¹	APPR	Dat-Akk	_
+5	t1953_m1	des	dê¹,dê¹,dat²A	DDARTA	Masc.Gen.Sg	_
+6	t1954_m1	engeles	engel	NA	Masc.Gen.Sg	_
+7	t1955_m1	vote	vôt²	NA	Masc.Dat-Akk.*	_
+8	t1956_m1	vallen	vallen¹	VVINF	--	_
+9	t1957_m1	.	--	$;	--	Satz
+
+1	t1958_m1	vnde	unde²	KON	--	_
+2	t1959_m1	wolde	willen¹	VMFIN	Irr.3.Sg.Past.*	_
+3	t1960_m1	en	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Akk	_
+4	t1961_m1	anbeden	anbēden²	VVINF	--	_
+5	t1962_m1	.	--	$;	--	Satz
+
+1	t1963_m1	des	dê¹,dê¹,dat²A	DPDS	Masc-Neut.Gen.Sg	_
+2	t1964_m1	eyn	en⁴	PTKNEG	--	_
+3	t1965_m1	wolde	willen¹	VMFIN	Irr.3.Sg.Past.*	_
+4	t1966_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+5	t1967_m1	eyme	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Dat	_
+6	t1968_m1	nicht	nicht¹	PTKNEG	--	_
+7	t1969_m1	staden	stāden¹	VVINF	--	Satz
+
+1	t1970_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+2	t1971_m1	sprach	sprēken	VVFIN	St.3.Sg.Past.Ind	_
+3	t1972_m1	.	--	$;	--	Satz
+
+1	t1973_m1	Jch	ik	PPER	1.Sg._.Nom	_
+2	t1974_m1	kundeghe	kündigen	VVFIN	Sw.1.Sg.Pres.*	_
+3	t1975_m1	dir	dîn	DPPOSS	*.Gen.Pl	_
+4	t1976_m1	hyr	hîr	AVD	--	Satzteil_I
+5	t1977_m1	ich	ik	PPER	1.Sg._.Nom	_
+6	t1978_m1	bym	wēsen²	VVFIN	Irr.1.Sg.Pres.Ind	_
+7	t1979_m1	nicht	nicht¹	PTKNEG	--	_
+8	t1980_m1	mer	vēle¹	AVD	--	_
+9	t1981_m1	dan	den³	AVKO	--	_
+10	t1982_m1	din	dîn	DPOSA	Masc.Nom.Sg	_
+11	t1983_m1	broder	brôder	NA	Masc.Nom.Sg	_
+12	t1984_m1	.	--	$;	--	Satz
+
+1	t1985_m1	vnde	unde²	KON	--	_
+2	t1986_m1	al	al	DIA	*.Gen.Pl	_
+3	t1986_m2	der	dê¹,dê¹,dat²A	DDARTA	*.Gen.Pl	_
+4	t1987_m1	ghener	jēne	DPDS	*.Gen.Pl	_
+5	t1988_m1	.	--	$;	--	Satzteil_F
+6	t1989_m1	dey	dê¹,dê¹,dat²A	DPRELS	_.Nom.Pl	_
+7	t1990_m1	hebbet	hebben	VVFIN	Sw.3.Pl.Pres.Ind	_
+8	t1991_m1	cristenen	kristen¹	ADJA	Pos.Masc.Akk.Sg.*	_
+9	t1992_m1	namen	nāme²	NA	Masc.Akk.Sg	_
+10	t1993_m1	.	--	$;	--	Satz
+
+1	t1994_m1	wi	wî¹	PPER	1.Pl._.Nom	_
+2	t1995_m1	zuͦn	schȫlen¹	VMFIN	Prpr.1.Pl.Pres.*	_
+3	t1996_m1	gode	got¹	NA	Masc.Dat-Akk.Sg	_
+4	t1997_m1	anbeden	anbēden²	VVINF	--	_
+5	t1998_m1	alle	al	DPIS	*.Nom.Pl	_
+6	t1999_m1	zamen	sāmen(e)	AVD	--	_
+7	t2000_m1	.	--	$;	--	Satz
+
+1	t2001_m1	Johannes	Jôhannes	NE	Masc.Nom.Sg	_
+2	t2002_m1	lat	lâten¹	VVIMP	Sg	_
+3	t2003_m1	id	hê¹,sê¹,et¹	PPER	3.Sg.Neut.Akk	_
+4	t2004_m1	dey	dû¹	PPER	2.Sg._.Dat-Akk	_
+5	t2005_m1	nicht	nicht¹	PTKNEG	--	_
+6	t2006_m1	zin	wēsen²	VVINF	--	_
+7	t2007_m1	vnghemach	ungemak²	ADJD	Pos	_
+8	t2008_m1	.	--	$;	--	Satz
+
+1	t2009_m1	de	dê¹,dê¹,dat²A	DPDS	Masc-Fem.Nom.Sg	_
+2	t2010_m1	dy	dû¹	PPER	2.Sg._.Dat-Akk	_
+3	t2011_m1	eynbudet	en(t)bêden¹	VVFIN	St.3.Sg.Pres.Ind	_
+4	t2012_m1	ihesus	Jêsus	NE	Masc.Akk.Sg	_
+5	t2013_m1	cristus	Krist	NE	Masc.Akk.Sg	_
+6	t2014_m1	desse	desse,desse,dit	DDA	Fem.Akk.Sg	_
+7	t2015_m1	bodeschap	bōdeschop	NA	Fem.Akk.Sg	_
+8	t2016_m1	.	--	$;	--	Satz
+
+1	t2017_m1	dey	dê¹,dê¹,dat²A	DPDS	Masc-Fem.Nom.Sg	_
+2	t2018_m1	zal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	_
+3	t2019_m1	duͦ	dô¹	AVD	--	_
+4	t2020_m1	werliken	wêrlĩke(n)	AVD	--	_
+5	t2021_m1	kundighen	kündigen	VVINF	--	_
+6	t2022_m1	ouer	ȫver¹	APPR	Akk	_
+7	t2023_m1	al	al	DIA	Neut.Akk.*	_
+8	t2024_m1	ertrike	ērtrîke	NA	Neut.Akk.*	Satz
+
+1	t2025_m1	Gy	gî²	PPER	2.Pl._.Nom	_
+2	t2026_m1	hant	hebben	VAFIN	Sw.2.Pl.Pres.Ind	_
+3	t2027_m1	harde	hā̆rde¹	PTKA	--	_
+4	t2028_m1	wol	wol²	AVD	--	_
+5	t2029_m1	vernomen	vornēmen²	VVPP	--	_
+6	t2030_m1	.	--	$;	--	Satz
+
+1	t2031_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t2032_m1	lam	lam¹	NA	Neut.Nom.Sg	_
+3	t2033_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+4	t2034_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+5	t2035_m1	godes	got¹	NA	Masc.Gen.Sg	_
+6	t2036_m1	zuͦne	sȫne¹	NA	Masc.Nom.Sg	_
+7	t2037_m1	.	--	$;	--	Satz
+
+1	t2038_m1	de	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+2	t2039_m1	bruͦt	brût	NA	Fem.Nom.Sg	_
+3	t2040_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+4	t2041_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+5	t2042_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+6	t2043_m1	kerstenheyt	kristenhêⁱt	NA	Fem.Nom.Sg	_
+7	t2044_m1	.	--	$;	--	Satz
+
+1	t2045_m1	dey	dê¹,dê¹,dat²A	DPDS	Fem.Nom.Sg	_
+2	t2046_m1	heft	hebben	VAFIN	Sw.3.Sg.Pres.Ind	_
+3	t2047_m1	got	got¹	NA	Masc.Akk.Sg	_
+4	t2048_m1	vil	vēle¹	AVD	--	_
+5	t2049_m1	wert	wēren²	VVPP	--	Satz
+
+1	t2050_m1	Got	got¹	NA	Masc.Nom.Sg	_
+2	t2051_m1	ere	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Dat	_
+3	t2052_m1	zine	sîn⁴,ēr¹,sîn⁴	DPOSA	Fem.Akk.Sg	_
+4	t2053_m1	hant	hant	NA	Fem.Akk.Sg	_
+5	t2054_m1	truwe	trü̂we²	ADJV	Pos	_
+6	t2055_m1	gaf	gēven	VVFIN	St.3.Sg.Past.Ind	_
+7	t2056_m1	.	--	$;	--	Satz
+
+1	t2057_m1	do	dô¹	AVD	--	_
+2	t2058_m1	zuͦnte	sünte	ADJA	Pos.Masc.Nom.Sg.*	_
+3	t2059_m1	gabriel	gabriel°	NE	Masc.Nom.Sg	_
+4	t2060_m1	.	--	$;	--	_
+5	t2061_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Sg	_
+6	t2062_m1	bodeschap	bōdeschop	NA	Fem.Akk.Sg	_
+7	t2063_m1	warf	werven	VVFIN	St.3.Sg.Past.Ind	_
+8	t2064_m1	.	--	$;	--	Satz
+
+1	t2065_m1	vnde	unde²	KON	--	_
+2	t2066_m1	nam	nēmen	VVFIN	St.3.Sg.Past.Ind	_
+3	t2067_m1	zey	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Akk	_
+4	t2068_m1	tho	tô¹	APPR	Dat	_
+5	t2069_m1	wiue	wîf	NA	Neut.Dat.Sg	_
+6	t2070_m1	an	an	APPR	Dat	_
+7	t2071_m1	ziner	sîn⁴,ēr¹,sîn⁴	DPOSA	Fem.Gen.Sg	_
+8	t2072_m1	moder	môder¹	NA	Fem.Gen.Sg	_
+9	t2073_m1	liue	lîf¹	NA	Masc-Neut.Dat.Sg	_
+10	t2074_m1	vil	vēle¹	AVD	--	Satz
+
+1	t2075_m1	de	dê¹,dê¹,dat²A	DPRELS	Fem.Akk.Sg	_
+2	t2076_m1	lefliken	lêflĩk(e)	AVD	--	_
+3	t2077_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+4	t2078_m1	do	dô¹	AVD	--	_
+5	t2079_m1	er	êr⁴	AVD	--	_
+6	t2080_m1	quam	kōmen¹	VVFIN	St.3.Sg.Past.Ind	Satz
+
+1	t2081_m1	do	dô¹	AVD	--	_
+2	t2082_m1	de	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+3	t2083_m1	gotheyt	gothêⁱt¹	NA	Fem.Nom.Sg	_
+4	t2084_m1	an	an	APPR	Dat-Akk	_
+5	t2085_m1	zik	sik¹	PRF	3.Sg.Dat-Akk	_
+6	t2086_m1	menschen	minsche	NA	*.Gen.*	_
+7	t2087_m1	nature	natûr(e)	NA	Fem.Akk.*	_
+8	t2088_m1	nam	nēmen	VVFIN	St.3.Sg.Past.Ind	Satz
+
+1	t2089_m1	zine	sîn⁴,ēr¹,sîn⁴	DPOSA	Neut.Akk.Pl	_
+2	t2090_m1	witten	wit¹	ADJA	Pos.Neut.Akk.Pl.*	_
+3	t2091_m1	cleyder	klêⁱt¹	NA	Neut.Akk.Pl	_
+4	t2092_m1	tho	antên	VVFIN	St.3.Sg.Past.Ind	_
+5	t2093_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+6	t2094_m1	ziner	sîn⁴,ēr¹,sîn⁴	DPOSA	Fem.Dat.Sg	_
+7	t2095_m1	bruͦt	brût	NA	Fem.Dat.Sg	_
+8	t2096_m1	an	--	PTKVZ	--	Satz
+
+1	t2097_m1	do	dô¹	AVD	--	_
+2	t2098_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+3	t2099_m1	ghedoft	dö̂pen	VVPP	--	_
+4	t2100_m1	wart	wērden¹	VAFIN	St.3.Sg.Past.Ind	_
+5	t2101_m1	in	in²	APPR	Dat	_
+6	t2102_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+7	t2103_m1	iordanen	Jordân	NE	Fem.Dat.Sg	_
+8	t2104_m1	.	--	$;	--	Satz
+
+1	t2105_m1	dar	dâr¹	AVD	--	_
+2	t2106_m1	wart	wērden¹	VVFIN	St.3.Sg.Past.Ind	_
+3	t2107_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+4	t2108_m1	reyne	rêin⁴	ADJV	Pos	_
+5	t2109_m1	vnde	unde²	KON	--	_
+6	t2110_m1	schone	schö̂n(e)¹	ADJV	Pos	_
+7	t2111_m1	vnde	unde²	KON	--	_
+8	t2112_m1	aller	al	DIA	Neut.Gen.*	_
+9	t2113_m1	vlecken	vlek	NA	Neut.Gen.*	_
+10	t2114_m1	ane	âne³	APPO	Gen	_
+11	t2115_m1	.	--	$;	--	Satz
+
+1	t2116_m1	ere	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc.Nom.Pl	_
+2	t2117_m1	sirode	sîrôt	NA	Masc.Nom.Pl	_
+3	t2118_m1	waren	wēsen²	VVFIN	Irr.3.Pl.Past.Ind	_
+4	t2119_m1	grot	grôt²	ADJD	Pos	Satz
+
+1	t2120_m1	arbiengolt	arâbiengolt*	NA	Neut.Nom.Sg	_
+2	t2121_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t2122_m1	rot	rôt⁴	ADJD	Pos	_
+4	t2123_m1	.	--	$;	--	Satz
+
+1	t2124_m1	vnde	unde²	KON	--	_
+2	t2125_m1	betekenet	betêⁱkenen	VVFIN	Sw.3.Sg.Pres.Ind	_
+3	t2126_m1	zin	sîn⁴,ēr¹,sîn⁴	DPOSA	Neut.Akk.Sg	_
+4	t2127_m1	hylighe	hillich	ADJA	Pos.Neut.Akk.Sg.Sw	_
+5	t2128_m1	blot	blôt¹	NA	Neut.Akk.Sg	_
+6	t2129_m1	.	--	$;	--	Satz
+
+1	t2130_m1	dar	dâr¹	PAVKO	--	_
+2	t2131_m1	mede	mēde¹	PAVAP	--	_
+3	t2132_m1	syrede	sîren	VVFIN	Sw.3.Sg.Past.*	_
+4	t2133_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+5	t2134_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Sg	_
+6	t2135_m1	cristenheyt	kristenhêⁱt	NA	Fem.Akk.Sg	_
+7	t2136_m1	.	--	$;	--	Satz
+
+1	t2137_m1	zey	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Nom	_
+2	t2138_m1	was	wēsen²	VVFIN	Irr.3.Sg.Past.Ind	_
+3	t2139_m1	eme	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Dat	_
+4	t2140_m1	leyuer	lêf	ADJD	Comp	_
+5	t2141_m1	dan	den³	KOKOM	--	_
+6	t2142_m1	zin	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc-Neut.Nom.Sg	_
+7	t2143_m1	lif	lîf¹	NA	Masc-Neut.Nom.Sg	_
+8	t2144_m1	.	--	$;	--	Satz
+
+1	t2145_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+2	t2146_m1	led	lîden¹	VVFIN	St.3.Sg.Pres.Ind	_
+3	t2147_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Akk.Sg	_
+4	t2148_m1	bitteren	bitter	ADJA	Pos.Masc.Akk.Sg.*	_
+5	t2149_m1	dot	dôt²	NA	Masc.Akk.Sg	_
+6	t2150_m1	.	--	$;	--	Satz
+
+1	t2151_m1	dat	dat²B	KOUS	--	_
+2	t2152_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+3	t2153_m1	ze	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Akk	_
+4	t2154_m1	ledeghede	leddigen	VVFIN	Sw.3.Sg.Past.*	_
+5	t2155_m1	van	van¹	APPR	Dat	_
+6	t2156_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Dat.Sg	_
+7	t2157_m1	not	nôt¹	NA	Fem.Dat.Sg	Satz
+
+1	t2158_m1	vnde	unde²	KON	--	_
+2	t2159_m1	brachte	bringen	VVFIN	Sw.3.Pl.Past.*	_
+3	t2160_m1	zey	hê¹,sê¹,et¹	PPER	3.Sg.Fem.Akk	_
+4	t2161_m1	in	in²	APPR	Akk	_
+5	t2162_m1	zin	sîn⁴,ēr¹,sîn⁴	DPOSA	Neut.Akk.Sg	_
+6	t2163_m1	rike	rîke¹	NA	Neut.Akk.Sg	_
+7	t2164_m1	.	--	$;	--	Satz
+
+1	t2165_m1	dat	dat²B	KON	--	_
+2	t2166_m1	zey	sê²	PPER	3.Pl._.Nom	_
+3	t2167_m1	waren	wēsen²	VVFIN	Irr.3.Pl.Past.Ind	_
+4	t2168_m1	mit	mit	APPR	Dat	_
+5	t2169_m1	eme	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Dat	_
+6	t2170_m1	ewelike	êwelĩke(n)	AVD	--	_
+7	t2171_m1	mit	mit	APPR	Dat	_
+8	t2172_m1	deme	dê¹,dê¹,dat²A	DDARTA	Neut.Dat.Sg	_
+9	t2173_m1	kinde	kint	NA	Neut.Dat.Sg	_
+10	t2174_m1	.	--	$;	--	Satz
+
+1	t2175_m1	dat	dê¹,dê¹,dat²A	DPRELS	Neut.Akk.Sg	_
+2	t2176_m1	ze	sê²	PPER	3.Pl._.Nom	_
+3	t2177_m1	van	van¹	APPR	Dat	_
+4	t2178_m1	eme	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Dat	_
+5	t2179_m1	hadden	hebben	VAFIN	Sw.3.Pl.Past.*	_
+6	t2180_m1	ghewuͦnen	winnen	VVPP	--	Satz
+
+1	t2181_m1	dey	dê¹,dê¹,dat²A	DPDS	*.Nom.Pl	_
+2	t2182_m1	zint	wēsen²	VAFIN	Irr.3.Pl.Pres.Ind	_
+3	t2183_m1	kerstene	kristen²	NA	Masc.Nom.Pl	_
+4	t2184_m1	worden	wērden¹	VVPP	--	_
+5	t2185_m1	in	in²	APPR	Akk	_
+6	t2186_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Akk.Sg	_
+7	t2187_m1	hylighen	hillich	ADJA	Pos.Masc.Akk.Sg.*	_
+8	t2188_m1	brunen	born	NA	Masc.Akk.Sg	Satz
+
+1	t2189_m1	desse	desse,desse,dit	DDA	Fem.Nom.Sg	_
+2	t2190_m1	bruͦtlacht	brûtlacht	NA	Fem.Nom.Sg	_
+3	t2191_m1	also	alsô	PTKA	--	_
+4	t2192_m1	langhe	lange³	AVD	--	_
+5	t2193_m1	stan	stân	VVFIN	Irr.3.Sg.Pres.*	Satz
+
+1	t2194_m1	hyr	hîr	PAVKO	--	_
+2	t2195_m1	vnder	under³	PAVAP	--	_
+3	t2196_m1	is	wēsen²	VAFIN	Irr.3.Sg.Pres.Ind	_
+4	t2197_m1	desse	desse,desse,dit	DDA	Fem.Nom.Sg	_
+5	t2198_m1	werld	werlt	NA	Fem.Nom.Sg	_
+6	t2199_m1	verghan	vorgân²	VVPP	--	Satz
+
+1	t2200_m1	desse	desse,desse,dit	DDA	Fem.Nom.Sg	_
+2	t2201_m1	brutlacht	brûtlacht	NA	Fem.Nom.Sg	_
+3	t2202_m1	vullenkuͦmet	vulkōmen¹	VVFIN	St.3.Sg.Pres.Ind	_
+4	t2203_m1	in	in²	APPR	Dat	_
+5	t2204_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Pl	_
+6	t2205_m1	lesten	lat³	ADJA	Pos.Masc.Dat.Pl.*	_
+7	t2206_m1	daghen	dach	NA	Masc.Dat.Pl	_
+8	t2207_m1	.	--	$;	--	Satz
+
+1	t2208_m1	dar	dâr¹	AVD	--	_
+2	t2209_m1	wi	wî¹	PPER	1.Pl._.Nom	_
+3	t2210_m1	alle	al	DIN	*.Nom.Pl	_
+4	t2211_m1	gheladen	lāden¹	VVPP	--	_
+5	t2212_m1	zint	wēsen²	VAFIN	Irr.1.Pl.Pres.Ind	_
+6	t2213_m1	gheladen	lāden¹	VVPP	--	_
+7	t2214_m1	.	--	$;	--	Satz
+
+1	t2215_m1	vnde	unde²	KON	--	_
+2	t2216_m1	zolen	schȫlen¹	VMFIN	Prpr.1.Pl.Pres.*	_
+3	t2217_m1	bezitten	besitten	VVINF	--	_
+4	t2218_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Sg	_
+5	t2219_m1	werschap	wer(t)schap	NA	Fem.Akk.Sg	_
+6	t2220_m1	.	--	$;	--	Satz
+
+1	t2221_m1	dey	dê¹,dê¹,dat²A	DPRELS	Fem.Akk.Sg	_
+2	t2222_m1	vns	wî¹	PPER	1.Pl._.Dat-Akk	_
+3	t2223_m1	got	got¹	NA	Masc.Nom.Sg	_
+4	t2224_m1	beret	berêⁱden²	VVPP	--	_
+5	t2225_m1	hat	hebben	VAFIN	Sw.3.Sg.Pres.Ind	_
+6	t2226_m1	.	--	$;	--	Satz
+
+1	t2227_m1	dar	dâr¹	AVD	--	_
+2	t2228_m1	zole	schȫlen¹	VMFIN	Prpr.1.Pl.Pres.*	_
+3	t2229_m1	wi	wî¹	PPER	1.Pl._.Nom	_
+4	t2230_m1	ewilike	êwichlĩk	AVD	--	_
+5	t2231_m1	raste	raste¹	NA	Masc-Fem.Akk.*	_
+6	t2232_m1	han	hebben	VVINF	--	_
+7	t2233_m1	.	--	$;	--	Satz
+
+1	t2234_m1	dar	dâr¹	PAVKO	--	_
+2	t2235_m1	proue	prö̂ven¹	VVFIN	Sw.3.Sg.Pres.Konj	_
+3	t2236_m1	nu	nû¹	AVD	--	_
+4	t2237_m1	mallik	manlĩk²	DPIS	_.Nom.Sg	_
+5	t2238_m1	an	an	PAVAP	--	Satz
+
+1	t2239_m1	alse	alsô	AVKO	--	_
+2	t2240_m1	men	man²	DPIS	_.Nom.Sg	_
+3	t2241_m1	sluten	slûten	VVINF	--	_
+4	t2242_m1	zuͦle	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Konj	_
+5	t2243_m1	dey	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Pl	_
+6	t2244_m1	dore	dōr²	NA	Neut.Akk.Pl	Satz
+
+1	t2245_m1	ef	ef	KON	--	_
+2	t2246_m1	we	we¹	DPIS	Masc.Nom.Sg	_
+3	t2247_m1	kome	kōmen¹	VVFIN	St.3.Sg.Pres.Konj	_
+4	t2248_m1	dar	dâr¹	PAVD	--	_
+5	t2249_m1	vor	vȫr³	PAVAP	--	_
+6	t2250_m1	.	--	$;	--	Satz
+
+1	t2251_m1	dat	dat²B	KOUS	--	_
+2	t2252_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+3	t2253_m1	nicht	nicht¹	PTKNEG	--	_
+4	t2254_m1	beziden	besîden	AVD	--	_
+5	t2255_m1	sta	stân	VVFIN	Irr.3.Sg.Pres.Konj	_
+6	t2256_m1	.	--	$;	--	Satz
+
+1	t2257_m1	alze	alsô	KOKOM	--	_
+2	t2258_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Pl	_
+3	t2259_m1	bruͦde	brût	NA	Fem.Nom.Pl	_
+4	t2260_m1	dar	dâr¹	PAVKO	--	_
+5	t2261_m1	in	in²	PAVAP	--	_
+6	t2262_m1	ghan	gân	VVFIN	Irr.3.Pl.Pres.*	Satz
+
+1	t2263_m1	Svnte	sünte	ADJA	Pos.Masc.Nom.*.*	_
+2	t2264_m1	iohannes	Jôhannes	NE	Masc.Nom.Sg	_
+3	t2265_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+4	t2266_m1	heylighe	hillich	ADJA	Pos.Masc.Nom.Sg.Sw	_
+5	t2267_m1	man	man¹	NA	Masc.Nom.Sg	_
+6	t2268_m1	za	sên	VVFIN	St.3.Sg.Past.Ind	_
+7	t2269_m1	vile	vēle¹	DPIS	*.Akk.*	_
+8	t2270_m1	van	van¹	APPR	Dat	_
+9	t2271_m1	himele	hemmel	NA	Masc.Dat.Sg	_
+10	t2272_m1	in	in²	APPR	Dat	_
+11	t2273_m1	iamere	jâmer	NA	Masc-Neut.Dat.Sg	_
+12	t2274_m1	vnde	unde²	KON	--	_
+13	t2275_m1	van	van¹	APPR	Dat-Akk	_
+14	t2276_m1	swere	swâre²	NA	Neut-Fem.Dat-Akk.*	_
+15	t2277_m1	.	--	$;	--	Satz
+
+1	t2278_m1	do	dô¹	AVD	--	_
+2	t2279_m1	de	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+3	t2280_m1	duͦuel	dü̂vel¹	NA	Masc.Nom.Sg	_
+4	t2281_m1	vnde	unde²	KON	--	_
+5	t2282_m1	zine	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc.Nom.Pl	_
+6	t2283_m1	boden	bōde¹	NA	Masc.Nom.Pl	_
+7	t2284_m1	zolden	schȫlen¹	VVFIN	Prpr.3.Pl.Past.*	_
+8	t2285_m1	thohanden	tôhant	AVD	--	_
+9	t2286_m1	then	tên⁶	VVINF	--	Satz
+
+1	t2287_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t2288_m1	van	van¹	APPR	Dat-Akk	_
+3	t2289_m1	bilonien	Babilonie	NE	*.Dat-Akk.Sg	_
+4	t2290_m1	zolde	schȫlen¹	VMFIN	Prpr.3.Sg.Past.*	_
+5	t2291_m1	gheschen	geschên¹	VVINF	--	_
+6	t2292_m1	van	van¹	APPR	Dat	_
+7	t2293_m1	ereme	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc-Neut.Dat.Sg	_
+8	t2294_m1	anbeghinne	anbegin	NA	Masc-Neut.Dat.Sg	_
+9	t2295_m1	.	--	$;	--	_
+10	t2296_m1	winte	went(e)	APPR	_	_
+11	t2297_m1	an	an	APPR	Akk	_
+12	t2298_m1	eren	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc.Akk.Sg	_
+13	t2299_m1	ende	ende²	NA	Masc.Akk.Sg	Satz
+
+1	t2300_m1	nu	nû¹	AVD	--	_
+2	t2300_m2	zeghet	sey(g)en	VVFIN	Sw.3.Sg.Pres.Ind	_
+3	t2301_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+4	t2302_m1	vns	wî¹	PPER	1.Pl._.Dat-Akk	_
+5	t2303_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Sg	_
+6	t2304_m1	vroude	vröude	NA	Fem.Akk.Sg	_
+7	t2305_m1	vnde	unde²	KON	--	_
+8	t2306_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Sg	_
+9	t2307_m1	blideschap	blîdeschop	NA	Fem.Akk.Sg	_
+10	t2308_m1	.	--	$;	--	Satz
+
+1	t2309_m1	dey	dê¹,dê¹,dat²A	DPRELS	Fem.Akk.*	_
+2	t2310_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+3	t2311_m1	mit	mit	APPR	Dat	_
+4	t2312_m1	zinen	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc-Neut.Dat.Pl	_
+5	t2313_m1	oyghen	ôge	NA	Masc-Neut.Dat.Pl	_
+6	t2314_m1	zach	sên	VVFIN	St.3.Sg.Past.Ind	Satz
+
+1	t2315_m1	vns	wî¹	PPER	1.Pl._.Dat-Akk	_
+2	t2316_m1	van	van¹	APPR	Dat-Akk	_
+3	t2317_m1	gode	got¹	NA	Masc.Dat-Akk.Sg	_
+4	t2318_m1	zal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	_
+5	t2319_m1	beschen	beschên	VVINF	--	_
+6	t2320_m1	in	in²	APPR	Dat	_
+7	t2321_m1	dem	dê¹,dê¹,dat²A	DDARTA	Masc-Neut.Dat.Sg	_
+8	t2322_m1	ouersten	ȫver³	ADJA	Pos.Masc-Neut.Dat.Sg.*	_
+9	t2323_m1	iherusalem	Jêrusalem	NE	Masc-Neut.Dat.Sg	Satz
+
+1	t2324_m1	za	sên	VVFIN	St.3.Sg.Past.Ind	_
+2	t2325_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Pl	_
+3	t2326_m1	heymel	hemmel	NA	Masc.Gen.Pl	_
+4	t2327_m1	porten	pōrte¹	NA	Fem.Akk.Pl	_
+5	t2328_m1	open	open¹	ADJV	Pos	_
+6	t2329_m1	stan	stân	VVINF	--	_
+7	t2330_m1	vil	vēle¹	PTKA	--	_
+8	t2331_m1	wide	wîde²	AVD	--	_
+9	t2332_m1	.	--	$;	--	Satz
+
+1	t2333_m1	vnde	unde²	KON	--	_
+2	t2334_m1	za	sên	VVFIN	St.3.Sg.Past.Ind	_
+3	t2335_m1	op	up(pe)¹	APPR	Akk	_
+4	t2336_m1	eynen	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Masc.Akk.Sg	_
+5	t2337_m1	blaken	blank	ADJA	Pos.Masc.Akk.Sg.*	_
+6	t2338_m1	rosse	ros	NA	Masc.Akk.Sg	_
+7	t2339_m1	eynen	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Masc.Akk.Sg	_
+8	t2340_m1	man	man¹	NA	Masc.Akk.Sg	_
+9	t2341_m1	riden	rîden¹	VVINF	--	_
+10	t2342_m1	.	--	$;	--	Satz
+
+1	t2343_m1	dey	dê¹,dê¹,dat²A	DPDS	Masc.Nom.Sg	_
+2	t2344_m1	was	wēsen²	VVFIN	Irr.3.Sg.Past.Ind	_
+3	t2345_m1	truwe	trü̂we²	ADJD	Pos	_
+4	t2346_m1	vnde	unde²	KON	--	_
+5	t2347_m1	waraftich	wâraftich³	ADJD	Pos	Satz
+
+1	t2348_m1	eme	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Dat	_
+2	t2349_m1	ne	ne²	PTKNEG	--	_
+3	t2350_m1	was	wēsen²	VVFIN	Irr.3.Sg.Past.Ind	_
+4	t2351_m1	neyman	nêmant	DPNEGS	_.Nom.Sg	_
+5	t2352_m1	ghelich	gelîk	ADJD	Pos	Satz
+
+1	t2353_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+2	t2354_m1	vacht	vāgen¹	VVFIN	Sw.3.Sg.Pres.Ind	_
+3	t2355_m1	mit	mit	APPR	Dat	_
+4	t2356_m1	rechte	recht¹	NA	Neut.Dat.Sg	_
+5	t2357_m1	in	in²	APPR	Dat	_
+6	t2358_m1	deme	dê¹,dê¹,dat²A	DDARTA	Neut.Dat.Sg	_
+7	t2359_m1	lande	lant	NA	Neut.Dat.Sg	_
+8	t2360_m1	weder	wed(d)er¹	APPR	Akk	_
+9	t2361_m1	sine	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc.Akk.Pl	_
+10	t2362_m1	viande	vîent¹	NA	Masc.Akk.Pl	_
+11	t2363_m1	.	--	$;	--	Satz
+
+1	t2364_m1	zine	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc-Neut.Nom.Pl	_
+2	t2365_m1	oyghen	ôge	NA	Masc-Neut.Nom.Pl	_
+3	t2366_m1	waren	wēsen²	VVFIN	Irr.3.Pl.Past.Ind	_
+4	t2367_m1	eynen	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Masc.Akk.Sg	_
+5	t2368_m1	vlammen	vlamme	NA	Masc.Akk.Sg	_
+6	t2369_m1	ghelich	gelîk	ADJV	Pos	_
+7	t2370_m1	.	--	$;	--	Satz
+
+1	t2371_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+2	t2372_m1	droch	drāgen	VVFIN	St.3.Sg.Past.Ind	_
+3	t2373_m1	eyne	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Fem.Akk.Sg	_
+4	t2374_m1	cronen	krône	NA	Fem.Akk.Sg	_
+5	t2375_m1	herlich	hêrlĩk	ADJA	Pos.Neut.Akk.Pl.*	_
+6	t2376_m1	cleyder	klêⁱt¹	NA	Neut.Akk.Pl	_
+7	t2377_m1	wyt	wit¹	ADJV	Pos	_
+8	t2378_m1	vnde	unde²	KON	--	_
+9	t2379_m1	guͦde	gôt²	ADJV	Pos	_
+10	t2380_m1	.	--	$;	--	Satz
+
+1	t2381_m1	dey	dê¹,dê¹,dat²A	DPDS	_.Nom.Pl	_
+2	t2382_m1	waren	wēsen²	VAFIN	Irr.3.Pl.Past.Ind	_
+3	t2383_m1	ok	ôk	AVKO	--	_
+4	t2384_m1	ghesprenget	sprengen	VVPP	--	_
+5	t2385_m1	mid	mit	APPR	Dat	_
+6	t2386_m1	blode	blôt¹	NA	Neut.Dat.Sg	_
+7	t2387_m1	.	--	$;	--	Satz
+
+1	t2388_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+2	t2389_m1	was	wēsen²	VAFIN	Irr.3.Sg.Past.Ind	_
+3	t2390_m1	herlich	hêrlĩk	ADJD	Pos	_
+4	t2391_m1	vnde	unde²	KON	--	_
+5	t2392_m1	vrome	vrōme¹	ADJD	Pos	_
+6	t2393_m1	gheheyten	hêⁱten²	VVPP	--	_
+7	t2394_m1	godes	got¹	NA	Masc.Gen.Sg	_
+8	t2395_m1	zone	sȫne¹	NA	Masc.Nom.Sg	Satz
+
+1	t2396_m1	al	al	DIA	Neut.Nom.Sg	_
+2	t2397_m1	hemelesche	hemmelsch	ADJA	Pos.Neut.Nom.Sg.Sw	_
+3	t2398_m1	her	hēr¹	NA	Neut.Nom.Sg	_
+4	t2399_m1	volghede	volgen	VVFIN	Sw.3.Sg.Past.*	_
+5	t2400_m1	eme	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Dat	_
+6	t2401_m1	thohant	tôhant	AVD	--	_
+7	t2402_m1	.	--	$;	--	Satz
+
+1	t2403_m1	ere	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc-Neut.Nom.Sg	_
+2	t2404_m1	ros	ros	NA	Masc-Neut.Nom.Sg	_
+3	t2405_m1	vnde	unde²	KON	--	_
+4	t2406_m1	er	sîn⁴,ēr¹,sîn⁴	DPOSA	Neut.Nom.Sg	_
+5	t2407_m1	dyr	dêr⁵	NA	Neut.Nom.Sg	_
+6	t2408_m1	waren	wēsen²	VVFIN	Irr.3.Pl.Past.Ind	_
+7	t2409_m1	blank	blank	ADJD	Pos	_
+8	t2410_m1	.	--	$;	--	Satz
+
+1	t2411_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+2	t2412_m1	ret	rîden¹	VVFIN	St.3.Sg.Past.Ind	_
+3	t2413_m1	bevoren	bevȫren	AVD	--	_
+4	t2414_m1	tho	tô¹	APPR	Dat	_
+5	t2415_m1	allen	al	DIA	Fem.Dat.Pl	_
+6	t2416_m1	stunden	stunde	NA	Fem.Dat.Pl	Satz
+
+1	t2417_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Neut.Nom.Sg	_
+2	t2418_m1	svuert	swērt¹	NA	Neut.Nom.Sg	_
+3	t2419_m1	scarp	scharp¹	ADJN	Pos.Neut.Nom.Sg.St	_
+4	t2420_m1	ghink	gân	VVFIN	Irr.3.Sg.Past.Ind	_
+5	t2421_m1	vt	ût¹	APPR	Dat	_
+6	t2422_m1	zinen	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc.Dat.Sg	_
+7	t2423_m1	munde	munt¹	NA	Masc.Dat.Sg	_
+8	t2424_m1	.	--	$;	--	Satz
+
+1	t2425_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t2426_m1	was	wēsen²	VVFIN	Irr.3.Sg.Past.Ind	_
+3	t2427_m1	nicht	nicht¹	PTKNEG	--	_
+4	t2428_m1	vor	vȫr³	APPR	Dat-Akk	_
+5	t2429_m1	my	ik	PPER	1.Sg._.Dat-Akk	_
+6	t2430_m1	.	--	$;	--	Satz
+
+1	t2431_m1	vp	up(pe)¹	APPR	Dat	_
+2	t2432_m1	zineme	sîn⁴,ēr¹,sîn⁴	DPOSA	Neut.Dat.Sg	_
+3	t2433_m1	cleyde	klêⁱt¹	NA	Neut.Dat.Sg	_
+4	t2434_m1	was	wēsen²	VAFIN	Irr.3.Sg.Past.Ind	_
+5	t2435_m1	ghescreuen	schrîven	VVPP	--	_
+6	t2436_m1	.	--	$;	--	_
+7	t2437_m1	dat	dat²B	KOUS	--	_
+8	t2438_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+9	t2439_m1	koninch	kȫninc	NA	Masc.Nom.Sg	_
+10	t2440_m1	bouen	bōven²	APPR	Dat	_
+11	t2441_m1	allen	al	DIA	Masc.Dat.Pl	_
+12	t2442_m1	koninghen	kȫninc	NA	Masc.Dat.Pl	_
+13	t2443_m1	.	--	$;	--	_
+14	t2444_m1	vnde	unde²	KON	--	_
+15	t2445_m1	here	hêre⁴	NA	Masc.Nom.Sg	_
+16	t2446_m1	bouen	bōven²	APPR	Dat	_
+17	t2447_m1	allen	al	DIA	Masc.Dat.Pl	_
+18	t2448_m1	heren	hêre⁴	NA	Masc.Dat.Pl	Satz
+
+1	t2449_m1	God	got¹	NA	Masc.Nom.Sg	_
+2	t2450_m1	zeluen	sülve	PTKN	--	_
+3	t2451_m1	bedekenet	bedenken	VVFIN	Sw.3.Sg.Pres.Ind	_
+4	t2452_m1	.	--	$;	--	Satz
+
+1	t2453_m1	den	dê¹,dê¹,dat²A	DPDS	Masc.Dat-Akk.Sg	_
+2	t2454_m1	de	dê¹,dê¹,dat²A	DPDS	Masc-Fem.Nom.Sg	_
+3	t2455_m1	dar	dâr¹	AVD	--	_
+4	t2456_m1	ret	rîden¹	VVFIN	St.3.Sg.Past.Ind	_
+5	t2457_m1	.	--	$;	--	_
+6	t2458_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Sg	_
+7	t2459_m1	blanke	blank	ADJA	Pos.Neut.Akk.Sg.Sw	_
+8	t2460_m1	ros	ros	NA	Neut.Akk.Sg	_
+9	t2461_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Sg	_
+10	t2462_m1	cristenheyt	kristenhêⁱt	NA	Fem.Akk.Sg	_
+11	t2463_m1	.	--	$;	--	Satz
+
+1	t2464_m1	dar	dâr¹	PAVKO	--	_
+2	t2465_m1	god	got¹	NA	Masc.Nom.Sg	_
+3	t2466_m1	zachte	sachte	ADJV	Pos	_
+4	t2467_m1	uppe	up(pe)¹	PAVAP	--	_
+5	t2468_m1	ridet	rîden¹	VVFIN	St.3.Sg.Pres.Ind	_
+6	t2469_m1	.	--	$;	--	Satz
+
+1	t2470_m1	alse	alsô	AVKO	--	_
+2	t2471_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+3	t2472_m1	des	dê¹,dê¹,dat²A	DDARTA	Neut.Gen.Sg	_
+4	t2473_m1	zelighen	sâlich²	ADJA	Pos.Neut.Gen.Sg.Sw	_
+5	t2474_m1	herte	herte¹	NA	Neut.Gen.Sg	_
+6	t2475_m1	bestridet	bestrîden¹	VVFIN	St.3.Sg.Pres.Ind	Satz
+
+1	t2476_m1	zine	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc-Neut.Nom.Pl	_
+2	t2477_m1	oyghen	ôge	NA	Masc-Neut.Nom.Pl	_
+3	t2478_m1	zint	wēsen²	VAFIN	Irr.3.Pl.Pres.Ind	_
+4	t2479_m1	na	nâ	APPR	Dat-Akk	_
+5	t2480_m1	eyner	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Fem.Dat.Sg	_
+6	t2481_m1	vlammen	vlamme	NA	Fem.Dat.Sg	_
+7	t2482_m1	ghedan	dôn¹	VVPP	--	Satz
+
+1	t2483_m1	winte	went(e)	KON	--	_
+2	t2484_m1	vnsen	unse¹	DPOSA	Masc.Dat.Pl	_
+3	t2485_m1	danken	danke	NA	Masc.Dat.Pl	_
+4	t2486_m1	mit	mit	APPR	Dat	_
+5	t2487_m1	den	dê¹,dê¹,dat²A	DDARTA	Neut.Dat.Pl	_
+6	t2488_m1	werken	werk	NA	Neut.Dat.Pl	_
+7	t2489_m1	zuͦt	ansên	VVFIN	St.3.Sg.Pres.Ind	_
+8	t2490_m1	an	--	PTKVZ	--	Satz
+
+1	t2491_m1	al	al	DIA	Neut.Nom.Sg	_
+2	t2492_m1	hemelesche	hemmelsch	ADJA	Pos.Neut.Nom.Sg.Sw	_
+3	t2493_m1	her	hēr¹	NA	Neut.Nom.Sg	_
+4	t2494_m1	volghet	nâvolgen	VVFIN	Sw.3.Sg.Pres.Ind	_
+5	t2495_m1	eme	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Dat	_
+6	t2496_m1	na	--	PTKVZ	--	_
+7	t2497_m1	mit	mit	APPR	Dat	_
+8	t2498_m1	witten	wit¹	ADJA	Pos.Neut.Dat.Pl.*	_
+9	t2499_m1	cleyden	klêⁱt¹	NA	Neut.Dat.Pl	_
+10	t2500_m1	.	--	$;	--	Satz
+
+1	t2501_m1	dar	dâr¹	AVD	--	_
+2	t2502_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+3	t2503_m1	dey	dê¹,dê¹,dat²A	DPDS	*.Akk.*	_
+4	t2504_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Pl	_
+5	t2505_m1	merteleren	marteler	NA	Masc.Dat.Pl	_
+6	t2506_m1	wert	wērden¹	VAFIN	St.3.Sg.Pres.Ind	_
+7	t2507_m1	ghelonet	lônen¹	VVPP	--	Satz
+
+1	t2508_m1	dey	dê¹,dê¹,dat²A	DDARTA	*.Nom.Pl	_
+2	t2509_m1	anderen	ander	DPIS	*.Nom.Pl	_
+3	t2510_m1	zuͦlen	schȫlen¹	VMFIN	Prpr.3.Pl.Pres.*	_
+4	t2511_m1	ere	sîn⁴,ēr¹,sîn⁴	DPOSA	Neut.Akk.Pl	_
+5	t2512_m1	lon	lôn	NA	Neut.Akk.Pl	_
+6	t2513_m1	entfan	entfân	VVINF	--	Satz
+
+1	t2514_m1	alze	alsô	AVKO	--	_
+2	t2515_m1	dusent	dûsent	CARDA	Neut.Nom	_
+3	t2516_m1	iar	jâr	NA	Neut.Nom.Pl	_
+4	t2517_m1	zint	wēsen²	VAFIN	Irr.3.Pl.Pres.Ind	_
+5	t2518_m1	verghan	vorgân²	VVPP	--	_
+6	t2519_m1	.	--	$;	--	Satz
+
+1	t2520_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t2521_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+3	t2522_m1	na	nâ	APPR	Dat-Akk	_
+4	t2523_m1	des	dê¹,dê¹,dat²A	DDARTA	Neut.Gen.Sg	_
+5	t2524_m1	vlesches	vlêⁱsch	NA	Neut.Gen.Sg	_
+6	t2525_m1	upstantnisse	upstannisse	NA	Fem.Dat-Akk.*	Satz
+
+1	t2526_m1	zo	sô²	AVKO	--	_
+2	t2527_m1	wert	wērden¹	VAFIN	St.3.Sg.Pres.Ind	_
+3	t2528_m1	en	sê²	PPER	3.Pl._.Dat	_
+4	t2529_m1	ghelouet	gelö̂ven¹	VVPP	--	_
+5	t2530_m1	vil	vēle¹	PTKA	--	_
+6	t2530_m2	ghewisse	gewisse	AVD	--	_
+7	t2531_m1	.	--	$;	--	Satz
+
+1	t2532_m1	nuͦ	nû¹	AVD	--	_
+2	t2533_m1	sal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	_
+3	t2534_m1	men	man²	DPIS	_.Nom.Sg	_
+4	t2535_m1	id	hê¹,sê¹,et¹	PPER	3.Sg.Neut.Akk	_
+5	t2536_m1	nicht	nicht¹	PTKNEG	--	_
+6	t2537_m1	vordraghen	vȫrdrāgen¹	VVINF	--	Satz
+
+1	t2538_m1	men	man²	DPIS	_.Nom.Sg	_
+2	t2539_m1	sal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	_
+3	t2540_m1	iu	gî²	PPER	2.Pl._.Dat-Akk	_
+4	t2541_m1	van	van¹	APPR	Dat	_
+5	t2542_m1	twen	twêne	CARDA	Fem.Dat	_
+6	t2543_m1	upstantnissen	upstannisse	NA	Fem.Dat.Pl	_
+7	t2544_m1	zaghen	seggen	VVINF	--	_
+8	t2545_m1	.	--	$;	--	Satz
+
+1	t2546_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+2	t2547_m1	zal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	_
+3	t2548_m1	iu	gî²	PPER	2.Pl._.Dat-Akk	_
+4	t2549_m1	nicht	nicht¹	PTKNEG	--	_
+5	t2550_m1	wesen	wēsen²	VVINF	--	_
+6	t2551_m1	leyd	lêⁱt³	ADJD	Pos	_
+7	t2552_m1	.	--	$;	--	Satz
+
+1	t2553_m1	dat	dat²B	KOUS	--	_
+2	t2554_m1	gy	gî²	PPER	2.Pl._.Nom	_
+3	t2555_m1	der	dê¹,dê¹,dat²A	DPDS	*.Gen.Pl	_
+4	t2556_m1	weten	wēten(e)	ADJV	Pos	_
+5	t2557_m1	vnderscheyt	underschêⁱden¹	VVFIN	St-Sw.3.Sg.Pres.Ind	_
+6	t2558_m1	.	--	$;	--	Satz
+
+1	t2559_m1	welik	welk¹	DWA	Masc.Nom.Sg	_
+2	t2560_m1	man	man¹	NA	Masc.Nom.Sg	_
+3	t2561_m1	zuͦnde	sünde¹	NA	Fem.Akk.*	_
+4	t2562_m1	doyt	dôn¹	VVFIN	Irr.3.Sg.Pres.Ind	Satz
+
+1	t2563_m1	zin	sîn⁴,ēr¹,sîn⁴	DPOSA	Fem.Nom.Sg	_
+2	t2564_m1	zele	sêle⁴	NA	Fem.Nom.Sg	_
+3	t2565_m1	moyt	mö̂ten²	VMFIN	Prpr.3.Sg.Pres.Ind	_
+4	t2566_m1	wesen	wēsen²	VVINF	--	_
+5	t2567_m1	doͤt	dôt¹	ADJD	Pos	Satz
+
+1	t2568_m1	mid	mit	APPR	Dat-Akk	_
+2	t2569_m1	bicht	bicht(e)	NA	Fem.Dat-Akk.*	_
+3	t2570_m1	vnde	unde²	KON	--	_
+4	t2571_m1	mit	mit	APPR	Dat-Akk	_
+5	t2572_m1	bote	bôte¹	NA	Fem.Dat-Akk.*	_
+6	t2573_m1	mach	mȫgen	VMFIN	Prpr.3.Sg.Pres.Ind	_
+7	t2574_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+8	t2575_m1	upstan	upstân	VVINF	--	_
+9	t2576_m1	.	--	$;	--	Satz
+
+1	t2577_m1	wil	willen¹	VMFIN	Irr.3.Sg.Pres.Ind	_
+2	t2578_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+3	t2579_m1	gode	got¹	NA	Masc.Dat-Akk.Sg	_
+4	t2580_m1	wesen	wēsen²	VVINF	--	_
+5	t2581_m1	vnderdan	underdân²	ADJD	Pos	_
+6	t2582_m1	.	--	$;	--	Satz
+
+1	t2583_m1	zo	sô²	KON	--	_
+2	t2584_m1	hat	hebben	VVFIN	Sw.3.Sg.Pres.Ind	_
+3	t2585_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+4	t2586_m1	vil	vēle¹	PTKA	--	_
+5	t2587_m1	wisse	wisse¹	AVD	--	_
+6	t2588_m1	der	dê¹,dê¹,dat²A	DDARTA	Fem.Gen.*	_
+7	t2589_m1	upstantnisse	upstannisse	NA	Fem.Gen.*	_
+8	t2590_m1	en	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Masc-Neut.Akk.Sg	_
+9	t2591_m1	del	dêⁱl²	NA	Masc-Neut.Akk.Sg	Satz
+
+1	t2592_m1	de	dê¹,dê¹,dat²A	DDARTA	*.Nom.Sg	_
+2	t2593_m1	andere	ander	DPIS	*.Nom.Sg	_
+3	t2594_m1	werd	wērden¹	VVFIN	St.3.Sg.Pres.Ind	_
+4	t2595_m1	in	in²	APPR	Dat	_
+5	t2596_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Pl	_
+6	t2597_m1	lesden	lat³	ADJA	Pos.Masc.Dat.Pl.*	_
+7	t2598_m1	daghen	dach	NA	Masc.Dat.Pl	_
+8	t2599_m1	.	--	$;	--	Satz
+
+1	t2600_m1	dar	dâr¹	AVD	--	_
+2	t2601_m1	iu	gî²	PPER	2.Pl._.Dat-Akk	_
+3	t2602_m1	ghenoch	genôch	AVD	--	_
+4	t2603_m1	is	wēsen²	VAFIN	Irr.3.Sg.Pres.Ind	_
+5	t2604_m1	afghezaghet	afseggen	VVPP	--	Satz
+
+1	t2605_m1	Hyr	hîr	PAVKO	--	_
+2	t2606_m1	na	nâ	PAVAP	--	_
+3	t2607_m1	za	sên	VVFIN	St.3.Sg.Past.Ind	_
+4	t2608_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+5	t2609_m1	eynen	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Masc.Akk.Sg	_
+6	t2610_m1	herliken	hêrlĩk	ADJA	Pos.Masc.Akk.Sg.*	_
+7	t2611_m1	man	man¹	NA	Masc.Akk.Sg	_
+8	t2612_m1	up	up(pe)¹	APPR	Akk	_
+9	t2613_m1	eynen	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Masc.Akk.Sg	_
+10	t2614_m1	witten	wit¹	ADJA	Pos.Masc.Akk.Sg.*	_
+11	t2615_m1	wolken	wolke(n)¹	NA	Masc.Akk.Sg	_
+12	t2616_m1	zitten	sitten	VVINF	--	_
+13	t2617_m1	zin	sîn⁴,ēr¹,sîn⁴	DPOSA	Neut.Nom.Sg	_
+14	t2618_m1	antlitte	antlitte	NA	Neut.Nom.Sg	_
+15	t2619_m1	hemel	hemmel	NA	Masc.Nom.Sg	_
+16	t2620_m1	vnde	unde²	KON	--	_
+17	t2621_m1	ertrike	ērtrîke	NA	Neut.Nom.Sg	Satz
+
+1	t2622_m1	ze	sê²	PPER	3.Pl._.Nom	_
+2	t2623_m1	zolden	schȫlen¹	VMFIN	Prpr.3.Pl.Past.*	_
+3	t2624_m1	beyde	bêⁱde¹	DIN	*.Nom.Pl	_
+4	t2625_m1	nighe	nîe	ADJV	Pos	_
+5	t2626_m1	werden	wērden¹	VVINF	--	_
+6	t2627_m1	.	--	$;	--	Satz
+
+1	t2628_m1	dar	dâr¹	AVD	--	_
+2	t2629_m1	za	sên	VVFIN	St.3.Sg.Past.Ind	_
+3	t2630_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+4	t2631_m1	manighen	mannich	DIA	Masc.Akk.Sg	_
+5	t2632_m1	doden	dôde	NA	Masc.Akk.Sg	_
+6	t2633_m1	stan	stân	VVINF	--	_
+7	t2634_m1	luttik	lüttik	ADJV	Pos	_
+8	t2635_m1	vnde	unde²	KON	--	_
+9	t2636_m1	grot	grôt²	ADJV	Pos	_
+10	t2637_m1	ghedan	dôn¹	VVPP	--	Satz
+
+1	t2638_m1	me	man²	DPIS	_.Nom.Sg	_
+2	t2639_m1	opende	ōpenen	VVFIN	Sw.3.Sg.Past.*	_
+3	t2640_m1	dar	dâr¹	PAVD	--	_
+4	t2641_m1	eyn	in²	PAVAP	--	Satz
+
+1	t2642_m1	alze	alsô	KOUS	--	_
+2	t2643_m1	dar	dâr¹	PAVKO	--	_
+3	t2644_m1	inne	in²	PAVAP	--	_
+4	t2645_m1	screuen	schrîven	VVPP	--	_
+5	t2646_m1	waren	wēsen²	VAFIN	Irr.3.Pl.Past.Ind	Satz
+
+1	t2647_m1	der	dê¹,dê¹,dat²A	DDARTA	*.Gen.Pl	_
+2	t2648_m1	zelighen	sâlich²	ADJS	Pos.*.Gen.Pl.Sw	_
+3	t2649_m1	namen	nāme²	NA	Masc.Dat-Akk.*	_
+4	t2650_m1	ordelede	ōrdêⁱlen	VVFIN	Sw.3.Sg.Past.*	_
+5	t2651_m1	.	--	$;	--	_
+6	t2652_m1	dar	dâr¹	PAVKO	--	_
+7	t2653_m1	na	nâ	PAVAP	--	_
+8	t2654_m1	rechte	rechteα	AVD	--	_
+9	t2655_m1	na	nâ	APPR	Dat	_
+10	t2656_m1	werken	werk	NA	Neut.Dat.Pl	_
+11	t2657_m1	allen	al	DIA	Masc.Dat.Pl	_
+12	t2658_m1	guͦden	gôt²	ADJA	Pos.Masc.Dat.Pl.*	_
+13	t2659_m1	knechten	knecht	NA	Masc.Dat.Pl	Satz
+
+1	t2660_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
+2	t2661_m1	mer	mēr⁴	NA	Neut.Nom.Sg	_
+3	t2662_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+4	t2663_m1	vnde	unde²	KON	--	_
+5	t2664_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+6	t2665_m1	helle	helle	NA	Fem.Nom.Sg	_
+7	t2666_m1	ghauen	gēven	VVFIN	St.3.Pl.Past.*	_
+8	t2667_m1	ere	sîn⁴,ēr¹,sîn⁴	DPOSA	Masc-Fem.Akk.Pl	_
+9	t2668_m1	doden	dôde	NA	Masc-Fem.Akk.Pl	_
+10	t2669_m1	bedelle	bedalle	AVD	--	_
+11	t2670_m1	.	--	$;	--	_
+12	t2671_m1	dey	dê¹,dê¹,dat²A	DDARTA	Neut-Fem.Akk.*	_
+13	t2672_m1	ordel	ōrdêⁱl	NA	Neut-Fem.Akk.*	Satz
+
+1	t2673_m1	de	dê¹,dê¹,dat²A	DPRELS	Neut-Fem.Akk.*	_
+2	t2673_m2	men	man²	DPIS	_.Nom.Sg	_
+3	t2674_m1	al	al	DIN	Neut-Fem.Akk.*	_
+4	t2675_m1	na	nâ	APPR	Dat	_
+5	t2676_m1	eren	sîn⁴,ēr¹,sîn⁴	DPOSA	Neut.Dat.Pl	_
+6	t2677_m1	werken	werk	NA	Neut.Dat.Pl	_
+7	t2678_m1	.	--	$;	--	_
+8	t2679_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Akk.Sg	_
+9	t2680_m1	moghe	mȫgen	VMFIN	Prpr.2.Pl.Pres.*	_
+10	t2681_m1	gy	gî²	PPER	2.Pl._.Nom	_
+11	t2682_m1	wol	wol²	AVD	--	_
+12	t2683_m1	merken	merken¹	VVINF	--	Satz
+
+1	t2684_m1	hemel	hemmel	NA	Masc.Akk.Sg	_
+2	t2685_m1	vnde	unde²	KON	--	_
+3	t2686_m1	erden	ērde	NA	Fem.Akk.*	_
+4	t2687_m1	za	sên	VVFIN	St.3.Sg.Past.Ind	_
+5	t2688_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+6	t2689_m1	thomichte	tônichte	AVD	--	_
+7	t2690_m1	werden	wērden¹	VVINF	--	_
+8	t2691_m1	.	--	$;	--	Satz
+
+1	t2692_m1	do	dô¹	AVD	--	_
+2	t2693_m1	dit	desse,desse,dit	DPDS	Neut.Nom.Sg	_
+3	t2694_m1	was	wēsen²	VAFIN	Irr.3.Sg.Past.Ind	_
+4	t2695_m1	gheschen	geschên¹	VVPP	--	_
+5	t2696_m1	.	--	$;	--	Satz
+
+1	t2697_m1	vnde	unde²	KON	--	_
+2	t2698_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+3	t2699_m1	dat	dê¹,dê¹,dat²A	DDARTA	Neut.Akk.Sg	_
+4	t2700_m1	hemelesche	hemmelsch	ADJA	Pos.Neut.Akk.Sg.Sw	_
+5	t2701_m1	iherusalem	Jêrusalem	NE	Neut.Akk.Sg	_
+6	t2702_m1	za	sên	VVFIN	St.3.Sg.Past.Ind	_
+7	t2703_m1	kuͦmen	kōmen¹	ADJV	Pos	_
+8	t2704_m1	van	van¹	APPR	Dat	_
+9	t2705_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Sg	_
+10	t2706_m1	hemele	hemmel	NA	Masc.Dat.Sg	_
+11	t2707_m1	als	alsô	KOKOM	--	_
+12	t2708_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Fem.Nom.Sg	_
+13	t2709_m1	bruͦt	brût	NA	Fem.Nom.Sg	_
+14	t2710_m1	.	--	$;	--	Satz
+
+1	t2711_m1	do	dô¹	AVD	--	_
+2	t2712_m1	sprach	sprēken	VVFIN	St.3.Sg.Past.Ind	_
+3	t2713_m1	eyn	êⁱn¹,êⁱne¹,êⁱn¹	DIARTA	Masc-Fem.Nom.Sg	_
+4	t2714_m1	stemme	stem(me)	NA	Masc-Fem.Nom.Sg	_
+5	t2715_m1	ouer	ōver⁴	AVKO	--	_
+6	t2716_m1	luͦt	lût³	ADJV	Pos	Satz
+
+1	t2717_m1	godes	got¹	NA	Masc.Gen.Sg	_
+2	t2718_m1	woninghe	wōninge	NA	Fem.Nom.Sg	_
+3	t2719_m1	zal	schȫlen¹	VMFIN	Prpr.3.Sg.Pres.Ind	_
+4	t2720_m1	wesen	wēsen²	VVINF	--	_
+5	t2721_m1	.	--	$;	--	_
+6	t2722_m1	mit	mit	APPR	Dat	_
+7	t2723_m1	den	dê¹,dê¹,dat²A	DDARTA	Neut.Dat.Pl	_
+8	t2724_m1	luͦden	lü̂de¹	NA	Neut.Dat.Pl	_
+9	t2725_m1	zunder	sunder³	APPR	Akk	_
+10	t2726_m1	ende	ende²	NA	Masc-Neut.Akk.*	_
+11	t2727_m1	tho	tô¹	APPR	Dat	_
+12	t2728_m1	allen	al	DIA	Masc-Fem.Dat.Pl	_
+13	t2729_m1	tiden	tît	NA	Masc-Fem.Dat.Pl	_
+14	t2730_m1	weninghe	weinich	DIA	Masc-Neut.Akk.*	_
+15	t2731_m1	iamer	jâmer	NA	Masc-Neut.Akk.*	_
+16	t2732_m1	steruen	sterven²	VVINF	--	_
+17	t2733_m1	vnde	unde²	KON	--	_
+18	t2734_m1	swere	swâre²	NA	Neut-Fem.Akk.*	_
+19	t2735_m1	.	--	$;	--	Satz
+
+1	t2736_m1	ne	ne²	PTKNEG	--	_
+2	t2737_m1	komet	kōmen¹	VVFIN	St.3.Sg.Pres.Ind	_
+3	t2738_m1	nicht	nicht¹	PTKNEG	--	_
+4	t2739_m1	mere	vēle¹	AVD	--	_
+5	t2740_m1	.	--	$;	--	Satz
+
+1	t2741_m1	ich	ik	PPER	1.Sg._.Nom	_
+2	t2742_m1	wille	willen¹	VMFIN	Irr.1.Sg.Pres.*	_
+3	t2743_m1	himel	hemmel	NA	Masc.Akk.Sg	_
+4	t2744_m1	vnde	unde²	KON	--	_
+5	t2745_m1	erden	ērde	NA	Fem.Akk.*	_
+6	t2746_m1	nyghe	nîe	ADJD	Pos	_
+7	t2747_m1	maken	māken	VVINF	--	_
+8	t2748_m1	.	--	$;	--	Satz
+
+1	t2749_m1	dit	desse,desse,dit	DPDS	Neut.Nom.Sg	_
+2	t2750_m1	zint	wēsen²	VVFIN	Irr.3.Pl.Pres.Ind	_
+3	t2751_m1	werlike	werltlĩk	ADJA	Pos.Fem.Nom.Pl.*	_
+4	t2752_m1	zake	sāke	NA	Fem.Nom.Pl	_
+5	t2753_m1	.	--	$;	--	Satz
+
+1	t2754_m1	iohannes	Jôhannes	NE	Masc.Nom.Sg	_
+2	t2755_m1	dit	desse,desse,dit	DPDS	Neut.Akk.Sg	_
+3	t2756_m1	zalt	schȫlen¹	VMFIN	Prpr.2.Sg.Pres.Ind	_
+4	t2757_m1	du	dû¹	PPER	2.Sg._.Nom	_
+5	t2758_m1	nicht	nicht¹	PTKNEG	--	_
+6	t2759_m1	vormiden	vormîden	VVINF	--	_
+7	t2760_m1	.	--	$;	--	Satz
+
+1	t2761_m1	du	dû¹	PPER	2.Sg._.Nom	_
+2	t2762_m1	zalt	schȫlen¹	VMFIN	Prpr.2.Sg.Pres.Ind	_
+3	t2763_m1	id	hê¹,sê¹,et¹	PPER	3.Sg.Neut.Akk	_
+4	t2764_m1	truͦwelike	trü̂w(e)lĩke(n)	AVD	--	_
+5	t2765_m1	scriuen	schrîven	VVINF	--	_
+6	t2766_m1	.	--	$;	--	Satz
+
+1	t2767_m1	do	dô¹	AVD	--	_
+2	t2768_m1	sprach	tôsprēken	VVFIN	St.3.Sg.Past.Ind	_
+3	t2769_m1	hey	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
+4	t2770_m1	eme	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Dat	_
+5	t2771_m1	to	--	PTKVZ	--	_
+6	t2772_m1	.	--	$;	--	Satz
+
+1	t2773_m1	Ego	--	FM	--	_
+2	t2774_m1	sum	--	FM	--	_
+3	t2775_m1	alpha	--	FM	--	_
+4	t2776_m1	et	--	FM	--	_
+5	t2777_m1	omega	--	FM	--	_
+6	t2778_m1	.	--	$;	--	_
+7	t2779_m1	ich	ik	PPER	1.Sg._.Nom	_
+8	t2780_m1	bin	wēsen²	VVFIN	Irr.1.Sg.Pres.Ind	_
+9	t2781_m1	ende	ende²	NA	Masc-Neut.Nom.Sg	_
+10	t2782_m1	vnde	unde²	KON	--	_
+11	t2783_m1	anbeghin	anbegin	NA	Masc-Neut.Nom.Sg	_
+12	t2784_m1	aller	al	DIA	Neut.Gen.Pl	_
+13	t2785_m1	guͦden	gôt²	ADJA	Pos.Neut.Gen.Pl.Sw	_
+14	t2786_m1	dinghe	dinc	NA	Neut.Gen.Pl	_
+15	t2787_m1	.	--	$;	--	Satz
+
+1	t2788_m1	ich	ik	PPER	1.Sg._.Nom	_
+2	t2789_m1	wille	willen¹	VMFIN	Irr.1.Sg.Pres.*	_
+3	t2790_m1	gheuen	gēven	VVINF	--	_
+4	t2791_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc-Neut.Dat.Pl	_
+5	t2792_m1	leuendighen	lēvendich	ADJA	Pos.Masc-Neut.Dat.Pl.*	_
+6	t2793_m1	brunnen	born	NA	Masc-Neut.Dat.Pl	_
+7	t2794_m1	.	--	$;	--	_
+8	t2795_m1	dar	dâr¹	PAVD	--	_
+9	t2796_m1	tho	tô¹	PAVAP	--	_
+10	t2797_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc-Neut.Akk.Pl	_
+11	t2798_m1	ewighen	êwich¹	ADJA	Pos.Masc-Neut.Akk.Pl.Sw	_
+12	t2799_m1	wͦnne	win¹	NA	Masc-Neut.Akk.Pl	_
+13	t2800_m1	.	--	$;	--	Satz
+
+1	t2801_m1	dey	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
+2	t2802_m1	wͦnne	win¹	NA	Masc.Nom.Sg	_
+3	t2803_m1	dat	dê¹,dê¹,dat²A	DPDS	Neut.Nom.Sg	_
+4	t2804_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
+5	t2805_m1	got	got¹	NA	Masc.Nom.Sg	_
+6	t2806_m1	vnse	unse¹	DPOSA	Masc.Nom.Sg	_
+7	t2807_m1	here	hêre⁴	NA	Masc.Nom.Sg	Satz
+
+1	t2808_m1	we	we¹	DPWS	Masc.Nom.Sg	_
+2	t2809_m1	des	dê¹,dê¹,dat²A	DPDS	Masc-Neut.Gen.Sg	_
+3	t2810_m1	ghesmaket	smāken	VVPP	--	_
+4	t2811_m1	den	dê¹,dê¹,dat²A	DPRELS	Masc.Akk.Sg	_
+5	t2812_m1	ne	ne²	PTKNEG	--	_
+6	t2813_m1	dorstet	dörsten¹	VVFIN	Sw.3.Sg.Pres.Ind	_
+7	t2814_m1	nicht	nicht¹	PTKNEG	--	_
+8	t2815_m1	mere	vēle¹	AVD	--	_
+9	t2816_m1	den	dê¹,dê¹,dat²A	DDARTA	*.Dat.Pl	_
+10	t2817_m1	manslachtighen	manslachtich	ADJS	Comp.*.Dat.Pl.*	_
+11	t2818_m1	vnde	unde²	KON	--	_
+12	t2819_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Pl	_
+13	t2820_m1	ouerspileren	ȫverspēler	NA	Masc.Dat.Pl	_
+14	t2821_m1	.	--	$;	--	_
+15	t2822_m1	den	dê¹,dê¹,dat²A	DDARTA	*.Dat.Pl	_
+16	t2823_m1	vnghelouighen	un(ge)lö̂vich	ADJS	Pos.*.Dat.Pl.*	_
+17	t2824_m1	vnde	unde²	KON	--	_
+18	t2825_m1	den	dê¹,dê¹,dat²A	DDARTA	*.Dat.Pl	_
+19	t2826_m1	vͦntruwen	untrü̂we²	ADJS	Pos.*.Dat.Pl.*	_
+20	t2827_m1	.	--	$;	--	_
+21	t2828_m1	vnde	unde²	KON	--	_
+22	t2829_m1	den	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Pl	_
+23	t2830_m1	logheneren	lȫgenêre	NA	Masc.Dat.Pl	Satz
+
+1	t2831_m1	vnde	unde²	KON	--	_
+2	t2832_m1	dey	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
+3	t2833_m1	bosheyt	bö̂shêⁱt	NA	Fem.Nom.Sg	_
+4	t2834_m1	driuet	drîven	VVFIN	St.3.Sg.Pres.Ind	Satz
+
+1	t2835_m1	vnde	unde²	KON	--	_
+2	t2836_m1	dey	dê¹,dê¹,dat²A	DPDS	Masc-Fem.Nom.Sg	_
+3	t2837_m1	dor	dȫren²	VVFIN	Prpr.3.Sg.Pres.Ind	_
+4	t2838_m1	mi	ik	PPER	1.Sg._.Dat-Akk	_
+5	t2839_m1	nicht	nicht¹	PTKNEG	--	_

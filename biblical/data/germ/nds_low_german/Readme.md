@@ -11,22 +11,21 @@ North Low Saxonian (nds)
 
 Mecklenburgian (nds)
 	- Voß 1929, Ernst Voß: Dat Ni Testament för plattdütsch Lüd in ehr Muddersprak oewerdragen. Berlin 1929, ISBN 3-438-02602-3 (Neeoplaag), https://www.kirche-mv.de/plattdeutsch/die-bibel-in-plattdeutscher-sprache/das-neue-testament-in-plattdeutsch [Rostock, Doberan]
-	died 1936, out of copyright
-	- Note that this is OCRed text, many IDs (and parts of the text) are broken
+	died 1936, out of copyright; Note that this is OCRed text, many IDs (and parts of the text) are broken
 
 ## to be processed / copyright waiver
 
 West Phalian (wep)
 	- Stolte 1933, http://www.plattdeutsch-niederdeutsch.net/neues_testament/ (Eastern West Phalian, Ravensberger Land), cf. http://www.plattdeutsch-niederdeutsch.net/neues_testament/johannes.htm (died 1935, cf. http://www.plattdeutsch-niederdeutsch.net/Heinrich_Stolte.html)
 
-## unprocessed / copyright-protected
+## unprocessed / no copyright
 
 ## unprocessed / copyright to be clarified
 
 Mecklenburgian (nds?)
-	- Amtsberg 2000, https://www.kirche-mv.de/index.php?id=10676&type=0 (Eastern Low German; Mecklenburg, Schwerin)
+	- Amtsberg 2000, https://www.kirche-mv.de/index.php?id=10676&type=0 (Eastern Low German; Mecklenburg, Schwerin) (no Verse Alignment)
 	- https://www.kirche-mv.de/plattdeutsch/die-bibel-in-plattdeutscher-sprache/erzaehlte-geschichten-aus-dem-alten-testament (Nacherzählungen)
-	- https://www.kirche-mv.de/plattdeutsch/die-bibel-in-plattdeutscher-sprache/150-plattdeutsche-psalmuebertragungen (Psalmen)
+	- https://www.kirche-mv.de/plattdeutsch/die-bibel-in-plattdeutscher-sprache/150-plattdeutsche-psalmuebertragungen (Psalmen); Author is probably Karl Homuth, * 11.04.1914 Güstrow, + 03.06.1986 Rostock, Pastor (https://www.niederdeutsche-literatur.de/autoren/person-werke.php?ID=1723&START=1&ORD=JAHR)
 
 Plautdietsch (pdt)
 	- Fehr (2020): https://www.plautdietschnt.com/
