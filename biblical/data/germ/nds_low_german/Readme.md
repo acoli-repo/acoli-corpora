@@ -9,16 +9,22 @@ compile with
 North Low Saxonian (nds)
 	- Paulsen 1884, https://www.gutenberg.org/files/64440/64440-h/64440-h.htm (modernized version of Bugenhagen 1533, Western Low German; North Low Saxonian; the translator was born and died in Schleswig)
 
-## to be processed
+Mecklenburgian (nds)
+	- Voß 1929, Ernst Voß: Dat Ni Testament för plattdütsch Lüd in ehr Muddersprak oewerdragen. Berlin 1929, ISBN 3-438-02602-3 (Neeoplaag), https://www.kirche-mv.de/plattdeutsch/die-bibel-in-plattdeutscher-sprache/das-neue-testament-in-plattdeutsch [Rostock, Doberan]
+	died 1936, out of copyright
+	- Note that this is OCRed text, many IDs (and parts of the text) are broken
 
-cf. https://menora-bibel.jimdofree.com/historische-bibeln/deutsch/niederdeutsche-bibeln/
+## to be processed / copyright waiver
 
 West Phalian (wep)
-	- Stolte 1933, http://www.plattdeutsch-niederdeutsch.net/neues_testament/ (Eastern West Phalian, Ravensberger Land), cf. http://www.plattdeutsch-niederdeutsch.net/neues_testament/johannes.htm
+	- Stolte 1933, http://www.plattdeutsch-niederdeutsch.net/neues_testament/ (Eastern West Phalian, Ravensberger Land), cf. http://www.plattdeutsch-niederdeutsch.net/neues_testament/johannes.htm (died 1935, cf. http://www.plattdeutsch-niederdeutsch.net/Heinrich_Stolte.html)
+
+## unprocessed / copyright-protected
+
+## unprocessed / copyright to be clarified
 
 Mecklenburgian (nds?)
 	- Amtsberg 2000, https://www.kirche-mv.de/index.php?id=10676&type=0 (Eastern Low German; Mecklenburg, Schwerin)
-	- Voß 1929, Ernst Voß: Dat Ni Testament för plattdütsch Lüd in ehr Muddersprak oewerdragen. Berlin 1929, ISBN 3-438-02602-3 (Neeoplaag), https://www.kirche-mv.de/plattdeutsch/die-bibel-in-plattdeutscher-sprache/das-neue-testament-in-plattdeutsch [Rostock, Doberan]
 	- https://www.kirche-mv.de/plattdeutsch/die-bibel-in-plattdeutscher-sprache/erzaehlte-geschichten-aus-dem-alten-testament (Nacherzählungen)
 	- https://www.kirche-mv.de/plattdeutsch/die-bibel-in-plattdeutscher-sprache/150-plattdeutsche-psalmuebertragungen (Psalmen)
 
@@ -31,3 +37,6 @@ Plautdietsch (pdt)
 Nedersaksisch (nds-NL)
 	- http://www.stellingwerfs-eigen.nl/Biebel/index.htm (= https://www.liudger.org/zoekschermindex.php ?) Grunnegers/Gronings
 	- https://www.meertens.knaw.nl/books/winkler/lijst.html (incl. nds-NL); also https://www.dbnl.org/titels/titel.php?id=wink007alge00 (incl. nds-NL, nds, etc.)
+
+also cf. https://menora-bibel.jimdofree.com/historische-bibeln/deutsch/niederdeutsche-bibeln/
+
