@@ -23,7 +23,7 @@ Resnik's bibles followed the SGML-based Corpus Encoding Standard (CES). While th
 - **2012-05-01** (unpublished) initial compilation efforts, creating an XML version of Resnik's parallel bibles (http://www.umiacs.umd.edu/~resnik/parallel/bible.html) [CC]
 - **2012-12-31** (internal) converted approx. 1,200 Bibles and biblical texts (Germanic and non-Germanic) from various portals, licenses unclear, hence not distributable
 - **2014-04-26** public announcement of the Germanic Bible corpus in Chiarcos et al. (2014, LaTeCH@EACL-2014, http://aclanthology.info/papers/new-technologies-for-old-germanic-resources-and-research-on-parallel-bibles-in-older-continental-western-germanic)
-- **2014-2017** maintenance and consolidation [BK]
+- **2015-2017** maintenance and consolidation [BK]
 - **2017-04-15** begin migration to Github [CC]
 - **2017-04-18** added Bibles from unbound.biola.edu (converted 2012) [CC]
 - **2021-09-25** updated copyright information, added CC0 data from https://github.com/christos-c/bible-corpus [CC]
