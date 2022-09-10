@@ -1,3 +1,5 @@
+# id: none
+
 1	t1_m1	Hyr	hîr	AVD	--	_
 2	t2_m1	ghan	angân	VVFIN	Irr.3.Pl.Pres.*	_
 3	t3_m1	an	--	PTKVZ	--	_
@@ -10,6 +12,8 @@
 10	t10_m1	deme	dê¹,dê¹,dat²A	DDARTA	Masc.Dat.Sg	_
 11	t11_m1	propheten	profête¹	NA	Masc.Dat.Sg	_
 12	t12_m1	samuel	samuel°	NE	Masc.Dat.Sg	Satz
+
+# b.1SA
 
 1	t13_m1	vnde	unde²	KON	--	_
 2	t14_m1	de	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_

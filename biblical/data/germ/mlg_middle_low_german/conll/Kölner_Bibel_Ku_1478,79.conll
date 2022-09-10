@@ -1,3 +1,5 @@
+# id: none
+
 1	t1_m1	¶	--	XY	--	_
 2	t2_m1	Hijr	hîr	AVD	--	_
 3	t3_m1	beghynt	beginnen	VVFIN	St.3.Sg.Pres.Ind	_
@@ -29,6 +31,8 @@
 16	t28_m1	der	dê¹,dê¹,dat²A	DDARTA	Masc.Gen.Pl	_
 17	t29_m1	sees	ses	CARDA	Masc.Gen	_
 18	t30_m1	daghe	dach	NA	Masc.Gen.Pl	Satz
+
+# id: b.GEN.1
 
 1	t31_m1	IN	in²	APPR	Dat	_
 2	t32_m1	dem	dê¹,dê¹,dat²A	DDARTA	Masc-Neut.Dat.Sg	_
@@ -932,6 +936,8 @@
 9	t830_m1	dach	dach	NA	Masc.Nom.Sg	_
 10	t831_m1	.	--	$;	--	Satz
 
+# id: none
+
 1	t832_m1	¶	--	XY	--	_
 2	t833_m1	Dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
 3	t834_m1	.	--	$;	--	_
@@ -966,6 +972,8 @@
 3	t860_m1	ward	wērden¹	VAFIN	St.3.Sg.Past.Ind	_
 4	t861_m1	eua	eua°	NE	Fem.Nom.Sg	_
 5	t862_m1	gemaket	māken	VVPP	--	Satz
+
+# id: b.GEN.2
 
 1	t863_m1	DAr	dâr¹	PAVD	--	_
 2	t863_m2	umme	ümme³	PAVAP	--	_
@@ -1693,6 +1701,8 @@
 5	t1509_m1	sich	sik¹	PRF	3.Pl.Dat-Akk	_
 6	t1510_m1	nicht	nicht¹	PTKNEG	--	Satz
 
+# id: none
+
 1	t1511_m1	¶	--	XY	--	_
 2	t1512_m1	Dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
 3	t1513_m1	derde	derde	ADJA	Pos.Neut.Nom.Sg.Sw	_
@@ -1724,6 +1734,8 @@
 6	t1537_m1	er	sîn⁴,ēr¹,sîn⁴	DPOSA	Neut.Akk.Sg	_
 7	t1538_m1	werck	werk	NA	Neut.Akk.Sg	_
 8	t1539_m1	.	--	$;	--	Satz
+
+# b.GEN.3
 
 1	t1540_m1	VNde	unde²	KON	--	_
 2	t1541_m1	de	dê¹,dê¹,dat²A	DDARTA	Fem.Nom.Sg	_
@@ -2556,6 +2568,9 @@
 8	t2259_m1	leuendes	lēven⁴	NA	Neut.Gen.Sg	_
 9	t2260_m1	.	--	$;	--	Satzteil_F
 10	t2261_m1	¶	--	XY	--	_
+
+# id: none
+
 11	t2262_m1	Dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
 12	t2263_m1	verde	vêrde⁴	ADJA	Pos.Masc.Nom.Sg.Sw	_
 13	t2264_m1	capittel	kapitel¹	NA	Neut.Nom.Sg	_
@@ -2588,6 +2603,8 @@
 7	t2288_m1	Cayn	Cayn°	NE	Masc.Dat.Sg	_
 8	t2289_m1	ghebaren	(ge)bēren¹	VVPP	--	_
 9	t2290_m1	.	--	$;	--	Satz
+
+# b.GEN.4
 
 1	t2291_m1	VNde	unde²	KON	--	_
 2	t2292_m1	Adam	Adam°	NE	Masc.Nom.Sg	_
@@ -3382,6 +3399,8 @@
 9	t2976_m1	heren	hêre⁴	NA	Masc.Gen.Sg	_
 10	t2977_m1	.	--	$;	--	Satz
 
+# id: none
+
 1	t2978_m1	¶	--	XY	--	_
 2	t2979_m1	Dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
 3	t2980_m1	viffte	vefte	ADJA	Pos.Neut.Nom.Sg.*	_
@@ -3411,6 +3430,8 @@
 9	t3001_m1	to	tô¹	PTKZU	--	_
 10	t3002_m1	buwen	bûwen	VVINF	--	_
 11	t3003_m1	.	--	$;	--	Satz
+
+# b.GEN.5
 
 1	t3004_m1	DJt	desse,desse,dit	DPDS	Neut.Nom.Sg	_
 2	t3005_m1	is	wēsen²	VVFIN	Irr.3.Sg.Pres.Ind	_
@@ -4042,6 +4063,8 @@
 6	t3558_m1	Japhet	Japhet°	NE	Masc.Akk.Sg	_
 7	t3559_m1	.	--	$;	--	Satz
 
+# id: none
+
 1	t3560_m1	Dat	--	OA	--	_
 2	t3561_m1	boeck	--	OA	--	_
 3	t3562_m1	Dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
@@ -4082,6 +4105,8 @@
 10	t3595_m1	sine	sîn⁴,ēr¹,sîn⁴	DPPOSS	*.Akk.Pl	_
 11	t3596_m1	to	tô¹	PTKZU	--	_
 12	t3597_m1	beholden	behōlden	VVINF	--	Satz
+
+# b.GEN.6
 
 1	t3598_m1	DO	dô¹	KOUS	--	_
 2	t3599_m1	sik	sik¹	PRF	3.Sg.Akk	_
@@ -4764,6 +4789,8 @@
 6	t4199_m1	boet	bêden²	VVFIN	St.3.Sg.Past.Ind	_
 7	t4200_m1	.	--	$;	--	Satz
 
+# id: none
+
 1	t4201_m1	Genesis	--	OA	--	_
 2	t4202_m1	¶	--	XY	--	_
 3	t4203_m1	Dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
@@ -4799,6 +4826,9 @@
 5	t4229_m1	de	dê¹,dê¹,dat²A	DDARTA	Fem.Akk.Sg	_
 6	t4230_m1	arche	arke	NA	Fem.Akk.Sg	_
 7	t4231_m1	.	--	$;	--	Satzteil_F
+
+# b.GEN.7
+
 8	t4232_m1	VNde	unde²	KON	--	_
 9	t4233_m1	do	dô¹	AVD	--	_
 10	t4234_m1	sprack	sprēken	VVFIN	St.3.Sg.Past.Ind	_
@@ -5397,6 +5427,8 @@
 9	t4782_m1	daghe	dach	NA	Masc.Akk.Pl	_
 10	t4783_m1	.	--	$;	--	Satz
 
+# id: none
+
 1	t4784_m1	¶	--	XY	--	_
 2	t4785_m1	Dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
 3	t4786_m1	.	--	$;	--	_
@@ -5433,6 +5465,8 @@
 10	t4814_m1	to	tô¹	PTKZU	--	_
 11	t4815_m1	offeren	offeren	VVINF	--	_
 12	t4816_m1	.	--	$;	--	Satz
+
+# b.GEN.8
 
 1	t4817_m1	God	got¹	NA	Masc.Nom.Sg	_
 2	t4818_m1	de	dê¹,dê¹,dat²A	DPDS	Masc.Nom.Sg	_
@@ -6108,6 +6142,8 @@
 23	t5418_m1	nicht	nicht¹	PTKNEG	--	_
 24	t5419_m1	rasten	rasten	VVINF	--	Satz
 
+# id: none
+
 1	t5420_m1	¶	--	XY	--	_
 2	t5421_m1	Dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
 3	t5422_m1	neghede	nēgede²	ADJA	Pos.Neut.Nom.Sg.Sw	_
@@ -6146,6 +6182,8 @@
 6	t5452_m1	bloet	blôt²	ADJD	Pos	_
 7	t5453_m1	vunden	vinden	VVFIN	St.3.Pl.Past.Ind	_
 8	t5454_m1	liggende	liggen	VVPS	--	Satz
+
+# b.GEN.9
 
 1	t5455_m1	VNde	unde²	KON	--	_
 2	t5456_m1	god	got¹	NA	Masc.Nom.Sg	_
@@ -6866,6 +6904,8 @@
 2	t6095_m1	he	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Nom	_
 3	t6096_m1	starff	sterven²	VVFIN	St.3.Sg.Past.Ind	Satz
 
+# id: none
+
 1	t6097_m1	¶	--	XY	--	_
 2	t6098_m1	Dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
 3	t6099_m1	teynde	teynde¹	ADJA	Pos.Neut.Nom.Sg.Sw	_
@@ -6895,6 +6935,8 @@
 11	t6121_m1	vnde	unde²	KON	--	_
 12	t6122_m1	to	tô¹	PTKZU	--	_
 13	t6123_m1	vorweruen	vorwerven	VVINF	--	Satz
+
+# b.GEN.10
 
 1	t6124_m1	DEsse	desse,desse,dit	DPDS	*.Nom.Pl	_
 2	t6125_m1	sint	wēsen²	VVFIN	Irr.3.Pl.Pres.Ind	_
@@ -7395,6 +7437,8 @@
 16	t6581_m1	vloet	vlôt¹	NA	Fem.Dat.Sg	_
 17	t6582_m1	.	--	$;	--	Satz
 
+# id: none
+
 1	t6583_m1	¶	--	XY	--	_
 2	t6584_m1	Dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
 3	t6585_m1	.	--	$;	--	_
@@ -7436,6 +7480,9 @@
 
 1	t6617_m1	Dat	--	OA	--	_
 2	t6618_m1	boeck	--	OA	--	_
+
+# id: b.GEN.11
+
 3	t6619_m1	Dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
 4	t6620_m1	ertrike	ērtrîke	NA	Neut.Nom.Sg	_
 5	t6621_m1	was	wēsen²	VVFIN	Irr.3.Sg.Past.Ind	_
@@ -7695,6 +7742,8 @@
 13	t6840_m1	werlte	werlt	NA	Fem.Gen.Sg	_
 14	t6841_m1	.	--	$;	--	Satz
 
+# id: none
+
 1	t6842_m1	¶	--	XY	--	_
 2	t6843_m1	Dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
 3	t6844_m1	.	--	$;	--	_
@@ -7726,6 +7775,8 @@
 3	t6867_m1	en	hê¹,sê¹,et¹	PPER	3.Sg.Masc.Akk	_
 4	t6868_m1	vnde	unde²	KON	--	_
 5	t6869_m1	ysaac	ysaac°	NE	Masc.Akk.Sg	Satz
+
+# b.GEN.22
 
 1	t6870_m1	ALso	alsô	AVKO	--	_
 2	t6871_m1	desse	desse,desse,dit	DDA	Neut.Nom.Pl	_
@@ -8417,6 +8468,8 @@
 12	t7463_m1	vnde	unde²	KON	--	_
 13	t7464_m1	maacha	maacha°	NE	Masc.Akk.Sg	Satz
 
+# id:none
+
 1	t7465_m1	Exodi	--	FM	--	_
 2	t7466_m1	¶	--	XY	--	_
 3	t7467_m1	Dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
@@ -8439,6 +8492,8 @@
 3	t7483_m1	besunder	besünder¹	ADJV	Pos	_
 4	t7484_m1	nomede	nö̂men¹	VVFIN	Sw.3.Sg.Past.Ind	_
 5	t7485_m1	.	--	$;	--	Satz
+
+# b.EXO.20
 
 1	t7486_m1	DE	dê¹,dê¹,dat²A	DDARTA	Masc.Nom.Sg	_
 2	t7487_m1	here	hêre⁴	NA	Masc.Nom.Sg	_
@@ -9117,6 +9172,8 @@
 6	t8082_m1	en	en⁴	PTKNEG	--	_
 7	t8083_m1	werde	wērden¹	VVFIN	St.3.Sg.Pres.Konj	_
 8	t8084_m1	.	--	$;	--	Satz
+
+########### unclassified
 
 1	t8085_m1	¶	--	XY	--	_
 2	t8086_m1	Dominus	--	FM	--	_
@@ -13987,6 +14044,7 @@
 4	t12303_m1	gelikerwis	gelîkerwîs	AVD	--	_
 5	t12304_m1	...	--	XY	--	_
 6	t12305_m1	¶	--	XY	--	_
+
 7	t12306_m1	Dat	dê¹,dê¹,dat²A	DDARTA	Neut.Nom.Sg	_
 8	t12307_m1	.	--	$;	--	_
 9	t12308_m1	xxvi	--	XY	--	_
