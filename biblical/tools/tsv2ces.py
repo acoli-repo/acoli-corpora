@@ -3,10 +3,11 @@ import sys,os,re,argparse,traceback,datetime
 
 if __name__ == '__main__':
 
-    args=argparse.ArgumentParser(description="given a TSV/UTF8 files for content and metadata, produce a CES/XML bible, write it to stdout")
+    args=argparse.ArgumentParser(description="given a TSV/UTF8 files for content and metadata, produce a CES/XML bible, write it to stdout; note that we keep only lines with proper ids and that we remove any markup we find")
     args.add_argument("content", type=str, help="two column TSV file, column structure: VERSE_ID<TAB>VERSE")
     args.add_argument("metadata", nargs="?",type=str, default=None, help="three column TSV file, column structure: TEI_PATH<TAB>DC_ELEMENT<TAB>VALUE")
-
+    args.add_argument("-m","--keep_markup", action="store_true", help="if set, preserve original markup (default: remove all)")
+    args.add_argument("-l","--loose_mode", action="store_true", help="if set, allow non-numerical verse IDs. This can be helpful if comments are to be preserved (by default, we only return alignable information). However, we only preserve information that is aligned with a chapter, at least.")
     args=args.parse_args()
 
     # we consider TEI/CES medata only, here
@@ -133,16 +134,31 @@ if __name__ == '__main__':
                 fields=line.split("\t")
                 if len(fields)>1:
                     id=fields[0].strip()
-                    text="\t".join(fields[1:])
-                    seg="    <seg id=\""+id+"\" type=\"verse\">"+text+"</seg>\n"
-                    book=id[0:len("b.XYZ")]
-                    chap=int(id.split(".")[2])
-                    if not book in book2chap2text:
-                        book2chap2text[book] = { chap : seg }
-                    elif not chap in book2chap2text[book]:
-                        book2chap2text[book][chap] = seg
+                    if not re.match(r".*[0-9].*",id.split(".")[-1]) and not args.loose_mode:
+                        sys.stderr.write("skipping line with non-numerical id "+id+"\n")
+                        sys.stderr.flush()
                     else:
-                        book2chap2text[book][chap] += seg
+                        try: 
+                            text="\t".join(fields[1:])
+
+                            if not args.keep_markup:
+                                # drop markup
+                                text=re.sub(r"<[^>]*>","",text)
+                                text=re.sub(r"<[^>]*$","",text)
+                                text=re.sub(r"^[^>]>","",text)
+
+                            seg="    <seg id=\""+id+"\" type=\"verse\">"+text+"</seg>\n"
+                            book=id[0:len("b.XYZ")]
+                            chap=int(id.split(".")[2])
+                            if not book in book2chap2text:
+                                book2chap2text[book] = { chap : seg }
+                            elif not chap in book2chap2text[book]:
+                                book2chap2text[book][chap] = seg
+                            else:
+                                book2chap2text[book][chap] += seg
+                        except Exception:
+                            sys.stderr.write("skipping "+line+"\n")
+                            sys.stderr.flush()
 
         for book in book2chap2text:
             print("<div id=\""+book +"\" type=\"book\">")
@@ -153,39 +169,6 @@ if __name__ == '__main__':
                     print(book2chap2text[book][chap])
                     print("  </div>")
             print("</div>")
-
-
-
-
-        # for line in input:
-        #     line=line.strip()
-        #     if line.startswith("#"):
-        #         print("<!-- "+line[1:].strip()+" -->")
-        #     else:
-        #         fields=line.split("\t")
-        #         if len(fields)>1:
-        #             id=fields[0]
-        #             verse="\t".join(fields[1:])
-        #             mybook=id[0:len("b.XYZ")]
-        #             mychap=id.split(".")[2]
-        #             if book!=mybook:
-        #                 if book!=None:
-        #                     if chap!=None:
-        #                         print("</div>")
-        #                     print("</div>")
-        #                 book=mybook
-        #                 chap=None
-        #                 print("<div id=\""+book +"\" type=\"book\">")
-        #             if mychap!=chap:
-        #                 if chap!=None:
-        #                     print("</div>")
-        #                 chap=mychap
-        #                 print("<div id=\""+book+"."+chap+"\" type=\"chapter\">")
-        #             print("<seg id=\""+id+"\">"+verse+"</seg>")
-        # if chap!=None:
-        #     print("</div>")
-        # if book!=None:
-        #     print("</div>")
 
     print('</body>\n</text>')
 
