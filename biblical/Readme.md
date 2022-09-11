@@ -29,6 +29,7 @@ Resnik's bibles followed the SGML-based Corpus Encoding Standard (CES). While th
 - **2021-09-25** updated copyright information, added CC0 data from https://github.com/christos-c/bible-corpus [CC]
 - **2021-09-29** added Catalan and Bavarian (build scripts only) [CC]
 - **2022-09-09** added Low German and Middle Low German [CC]
+- **2022-09-11** added Early Modern High German (Luther 1546) [CC]
 
 ## Current status and TODOs
 
