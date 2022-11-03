@@ -1,63 +1,62 @@
-
-1_Cor
-1_Io
-1_Jo
-1_Par
-1_Pt
-1_Sm
-1_Th
-1_Tim
-2_Cor
-2_Par
-2_Pt
-2_Sm
-2_Th
-2_Tim
-3_Rg
-4_Rg
-Act
-Agg
-Am
-Apc
-Col
-Dn
-Dt
-Ecl
-Eph
-Est
-Ex
-Ez
-Gal
-Gn
-Hbr
-Iac
-Idc
-Idt
-Ier
-Io
-Iob
-Ioel
-Ion
-Is
-Lc
-Lv
-Mal
-Mc
-Mi
-Mt
-Na
-Nm
-OrMan
-Os
-Phil
-Phlm
-Prv
-Ps
-Ps.(LXX)
-Ps.(LXX)_113_9(114_1)
-Rm
-Sap
-Sir(Eccli)
-Tb
-Tit
-Za
+1_Cor	b.1CO
+1_Io	b.1JO
+1_Jo	b.1JO
+1_Par	b.1CH
+1_Pt	b.1PE
+1_Sm	b.1SA
+1_Th	b.1TH
+1_Tim	b.1TI
+2_Cor	b.2CO
+2_Par	b.2CH
+2_Pt	b.2PE
+2_Sm	b.2SA
+2_Th	b.2TH
+2_Tim	b.2TI
+3_Rg	b.1KI
+4_Rg	b.2KI
+Act	b.ACT
+Agg	b.HAG
+Am	b.AMO
+Apc	b.REV
+Col	b.COL
+Dn	b.DAN
+Dt	b.DEU
+Ecl	b.ECC
+Eph	b.EPH
+Est	b.EST
+Ex	b.EXO
+Ez	b.EZE
+Gal	b.GAL
+Gn	b.GEN
+Hbr	b.HEB
+Iac	b.JAM
+Idc	b.JDG
+Idt	b.JUD
+Ier	b.JER
+Io	b.JOH
+Iob	b.JOB
+Ioel	b.JOE
+Ion	b.JON
+Is	b.ISA
+Lc	b.LUK
+Lv	b.LEV
+Mal	b.MAL
+Mc	b.MAR
+Mi	b.MIC
+Mt	b.MAT
+Na	b.NAH
+Nm	b.NUM
+OrMan	a.MAN
+Os	b.HOS
+Phil	b.PHI
+Phlm	b.PHM
+Prv	b.PRO
+Ps	b.PSA
+Ps.(LXX)	b.PSA
+Ps.(LXX)_113_9(114_1)	b.PSA.114.1
+Rm	b.ROM
+Sap	a.SOL
+Sir(Eccli)	a.ECC
+Tb	a.TOB
+Tit	b.TIT
+Za	b.ZEC
