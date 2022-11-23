@@ -1,6 +1,8 @@
 SHELL := /bin/bash
 
-all: WP-1574.xml
+all: WP-1574.xml 
+	@# allow this to fail
+	-make BP-1591.xml
 
 wp:
 	mkdir wp
@@ -18,3 +20,7 @@ wp.tsv: wp
 
 WP-1574.xml: wp.tsv wp.tsv.meta
 	python3 ../../../../tools/tsv2ces.py wp.tsv wp.tsv.meta -x source_ref type file > WP-1574.xml
+
+BP-1591.xml: bp.tsv
+	@# will fail without bp.tsv
+	python3 ../../../../tools/tsv2ces.py bp.tsv bp.tsv.meta -x source_ref type > BP-1591.xml
