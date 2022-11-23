@@ -4,8 +4,9 @@ import sys,os,re,argparse,traceback,datetime
 if __name__ == '__main__':
 
     args=argparse.ArgumentParser(description="given a TSV/UTF8 files for content and metadata, produce a CES/XML bible, write it to stdout; note that we keep only lines with proper ids and that we remove any markup we find")
-    args.add_argument("content", type=str, help="two column TSV file, column structure: VERSE_ID<TAB>VERSE")
+    args.add_argument("content", type=str, help="two column TSV file, column structure: VERSE_ID<TAB>VERSE, subsequent colums will be converted to attributes according to the --extra_cols argument")
     args.add_argument("metadata", nargs="?",type=str, default=None, help="three column TSV file, column structure: TEI_PATH<TAB>DC_ELEMENT<TAB>VALUE")
+    args.add_argument("-x","--extra_cols", nargs="*",type=str, default=[], help="labels for extra columns in content TSV file, if none are provided, these columns are skipped")
     args.add_argument("-m","--keep_markup", action="store_true", help="if set, preserve original markup (default: remove all)")
     args.add_argument("-l","--loose_mode", action="store_true", help="if set, allow non-numerical verse IDs. This can be helpful if comments are to be preserved (by default, we only return alignable information). However, we only preserve information that is aligned with a chapter, at least.")
     args=args.parse_args()
@@ -147,7 +148,17 @@ if __name__ == '__main__':
                                 text=re.sub(r"<[^>]*$","",text)
                                 text=re.sub(r"^[^>]>","",text)
 
-                            seg="    <seg id=\""+id+"\" type=\"verse\">"+text+"</seg>\n"
+                            atts=""
+                            if args.extra_cols!=None and len(args.extra_cols)>0:
+                                text=text.split("\t")
+                                for att,val in zip(args.extra_cols,text[1:]):
+                                    val=val.strip()
+                                    if not val in ["_",""]:
+                                        atts+=f' {att}="{val}"'
+
+                                text=text[0]
+
+                            seg="    <seg id=\""+id+"\" type=\"verse\""+atts+">"+text+"</seg>\n"
                             book=id[0:len("b.XYZ")]
                             chap=int(id.split(".")[2])
                             if not book in book2chap2text:
@@ -157,6 +168,7 @@ if __name__ == '__main__':
                             else:
                                 book2chap2text[book][chap] += seg
                         except Exception:
+                            traceback.print_exc()
                             sys.stderr.write("skipping "+line+"\n")
                             sys.stderr.flush()
 

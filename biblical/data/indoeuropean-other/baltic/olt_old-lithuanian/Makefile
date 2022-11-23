@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 
-all: wp.tsv
+all: WP-1574.xml
 
 wp:
 	mkdir wp
@@ -16,5 +16,5 @@ wp.tsv: wp
 	@# we use ../../../germ/en_modern-english/douay_rheims_utf8.xml to get the proper order of books
 	python3 titus2tsv.py wp/* -b ../../../germ/en_modern-english/douay_rheims_utf8.xml > wp.tsv
 
-WP-1574.xml:
-	echo TODO 1>&2
+WP-1574.xml: wp.tsv wp.tsv.meta
+	python3 ../../../../tools/tsv2ces.py wp.tsv wp.tsv.meta -x source_ref type file > WP-1574.xml
