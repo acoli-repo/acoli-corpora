@@ -21,6 +21,9 @@ wp.tsv: wp
 WP-1574.xml: wp.tsv wp.tsv.meta
 	python3 ../../../../tools/tsv2ces.py wp.tsv wp.tsv.meta -x source_ref type file > WP-1574.xml
 
+bp.tsv:
+	wget -nc "https://raw.githubusercontent.com/acoli-repo/passage-finder/main/samples/bp.tsv?token=GHSAT0AAAAAABY6KNR5ZATYJHYIQZFIJR4WY4QKYQQ" -O bp.tsv
+
 BP-1591.xml: bp.tsv
 	@# will fail without bp.tsv
 	python3 ../../../../tools/tsv2ces.py bp.tsv bp.tsv.meta -x source_ref type > BP-1591.xml

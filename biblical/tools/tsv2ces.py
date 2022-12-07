@@ -135,6 +135,9 @@ if __name__ == '__main__':
                 fields=line.split("\t")
                 if len(fields)>1:
                     id=fields[0].strip()
+                    id=".".join(id.split(","))
+                    id=" ".join(id.split(".")).strip()
+                    id=".".join(id.split())
                     if not re.match(r".*[0-9].*",id.split(".")[-1]) and not args.loose_mode:
                         sys.stderr.write("skipping line with non-numerical id "+id+"\n")
                         sys.stderr.flush()
