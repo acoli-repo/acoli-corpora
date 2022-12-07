@@ -88,4 +88,5 @@ b.JUD
 b.REV
 
 # known issues
-- numbering of psalms: PSA 113/114 and all following: The psalm can also be treated as two psalms (Luther: Ps 114+115, but VC Ps 113). Right now, we keep the original numbering. If both are provided, we follow the mainstream of the most closely related confession, e.g., Lutheran, Catholic.
+# - numbering of psalms: b.PSA 9/10 and all following: The psalm can also be treated as two psalms (Luther: Ps 114+115, but VC Ps 113). Right now, we keep the original numbering. At the moment, we don't check which numbering is used.
+# - a.SUS and a.BEL are appendices to b.DAN that are considered apocryph in the Lutheran tradition. Catholic b.DAN.13 <=> Lutheran a.SUS.1; Catholic b.DAN.14 <=> a.BEL.1. We don't systematically check which numbering applies.

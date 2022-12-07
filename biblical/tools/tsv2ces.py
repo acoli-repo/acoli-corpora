@@ -9,6 +9,8 @@ if __name__ == '__main__':
     args.add_argument("-x","--extra_cols", nargs="*",type=str, default=[], help="labels for extra columns in content TSV file, if none are provided, these columns are skipped")
     args.add_argument("-m","--keep_markup", action="store_true", help="if set, preserve original markup (default: remove all)")
     args.add_argument("-l","--loose_mode", action="store_true", help="if set, allow non-numerical verse IDs. This can be helpful if comments are to be preserved (by default, we only return alignable information). However, we only preserve information that is aligned with a chapter, at least.")
+    books=os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)),"../doc/books.tsv"))
+    args.add_argument("-b", "--list_of_books", type=str, help="use the order of this file, we expect one book id per line, comments with #, ignore empty lines, defaults to {books}",default=books)
     args=args.parse_args()
 
     # we consider TEI/CES medata only, here
@@ -32,6 +34,15 @@ if __name__ == '__main__':
                                 meta2vals[tei].append(val)
                         else:
                             meta2vals[tei]=[val]
+
+    books=[]
+    if not os.path.exists(args.list_of_books):
+        sys.stderr.write(f"warning: no list of books found under {args.list_of_books}, using order of first occurrence, instead\n")
+    else:
+        with open(args.list_of_books,"rt") as input:
+            books=input.read().split("\n")
+            books=[ re.sub(r"#.*","",line).strip() for line in books ]
+            books=[ line for line in books if len(line)>0 ]
 
     if not "date" in meta2vals:
         meta2vals["date"]=[datetime.date.today().strftime("%Y-%m-%d")]
@@ -109,8 +120,8 @@ if __name__ == '__main__':
         chap=None
         seg=None
 
-        book2comments={}
-        book2chap2text={}
+        book2comments={ b:"" for b in books }
+        book2chap2text={ b:{} for b in books }
 
         for line in input:
             line=line.strip()
@@ -175,15 +186,20 @@ if __name__ == '__main__':
                             sys.stderr.write("skipping "+line+"\n")
                             sys.stderr.flush()
 
+        # sys.stderr.write(f"books: {list(book2chap2text.keys())}\n")
+        # sys.exit()
         for book in book2chap2text:
-            print("<div id=\""+book +"\" type=\"book\">")
-            if book in book2comments:
-                print(book2comments[book])
-            for chap in sorted(book2chap2text[book].keys()):
-                    print("  <div id=\""+book+"."+str(chap)+"\" type=\"chapter\">")
-                    print(book2chap2text[book][chap])
-                    print("  </div>")
-            print("</div>")
+            if len(book2chap2text[book])>0:
+                sys.stderr.write(f"processing {book}\n")
+                sys.stderr.flush()
+                print("<div id=\""+book +"\" type=\"book\">")
+                if book in book2comments:
+                    print(book2comments[book])
+                for chap in sorted(book2chap2text[book].keys()):
+                        print("  <div id=\""+book+"."+str(chap)+"\" type=\"chapter\">")
+                        print(book2chap2text[book][chap])
+                        print("  </div>")
+                print("</div>")
 
     print('</body>\n</text>')
 
