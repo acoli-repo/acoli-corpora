@@ -35,11 +35,11 @@ def expand_ids(id:str):
 			return [base+start,base+end]
 
 		start=int(id.split("-")[0].split(".")[-1])
-		base=base+"."+".".join(id.split("-")[0].split(".")[0:-1])
+		base=base+".".join(id.split("-")[0].split(".")[0:-1])
 		end=int(id.split("-")[-1].split(".")[-1])
 		if end<start:
 			raise Exception(f"cannot expand {origid}")
-		return [ f"{base}{nr}" for nr in range(start,end+1) ]
+		return [ f"{base}.{nr}" for nr in range(start,end+1) ]
 	except Exception:
 		raise Exception(f"cannot expand {origid}")
 
@@ -50,7 +50,7 @@ def ids_overlap(id1: str, id2: str):
 	x1=expand_ids(id1)
 	x2=expand_ids(id2)
 	result= x1[0] in x2 or x1[-1] in x2 or x2[0] in x1 or x2[-1] in x1
-	# print(id1,id2,"overlap?",result)
+	# print(id1,id2,"overlap?",result,x1,x2)
 	return result
 
 args=argparse.ArgumentParser(description="align two CES/XML bibles via their @id attribute, note that we do not compile out all combinations, but just list all variants one below each other. This may be surprising to technical users, but was specifically requested by philologists.")
