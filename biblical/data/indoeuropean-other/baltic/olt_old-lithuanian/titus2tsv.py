@@ -159,7 +159,11 @@ for file in args.files:
 					elif (span.attrib["id"].startswith("bpal") or span.attrib["id"] in ["nc16"]) and (id2src2types[id][file][-1] in [None, span.attrib["id"]]):
 						id2src2txts[id][file][-1]+=("".join(span.xpath(".//text()"))+" ")
 						id2src2types[id][file][-1]=span.attrib["id"]
-
+					if "".join(span.xpath(".//a[last()]//text()")).strip()=="":
+						try:
+							id2src2txts[id][file][-1]+="["+"".join(span.xpath(".//a[last()]/@href")).split("'")[1]+"] "
+						except Exception:
+							pass
 
 for book in books:
 	ids=[ id for id in id2src2txts.keys() if isinstance(id,str) and id.startswith(book)]
