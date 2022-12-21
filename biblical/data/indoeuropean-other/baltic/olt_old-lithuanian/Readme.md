@@ -8,6 +8,7 @@ notes:
 
 - the original can have multiple IDs for the same sentence, we make all but the first an altid
 - ids with `cf.` can be safely ignored
+- the original HTML drops surface strings from spans if words span more than one line, in the export, these are replaced by the normalized form rather than in the original spelling (extrapolated from the attached JavaScript code). This is marked with `[...]`
 
 ## `BP-1591`: Excepts from Bretke Postil
 
