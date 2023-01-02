@@ -10,7 +10,7 @@ Resnik's bibles followed the SGML-based Corpus Encoding Standard (CES). While th
 
 ## Updates
 
-- **Planned release**: In Germany, the rights of an editor expire 25 years after publication. For web resources, the date of publication may be unknown, though, so we have to rely on the date of download. For most our data, this was 2012-12-31, so for texts whose copyright expires (75 years after death of author), we plan to redistribute them as of Jan 1st, 2037.
+- **Planned release**: In Germany, the rights of an editor expire 25 years after publication. For web resources, the date of publication may be unknown, though, so we have to rely on the date of download. For most our data, this was 2012-12-31, so for texts whose copyright expires (75 years after death of author), we plan to redistribute them as of Jan 1st, 2037. At the moment, parts of our unpublished data is accessible via a [private GitHub repository](https://github.com/acoli-repo/protected-bibles).
 
 - **2018 Copyright Law**: In 2018, German copyright law has been revised. It is allowed now to use 75% of a copyrighted and published work to be used for academic purposes, and to publicly publish 15% of the work. (Comments and discussion under https://www.urheberrecht.de/urheberrechtsreform/#Urheberrechtsreform-kurz-und-kompakt.) As the choice of the sampling procedure depends on the specific use case, and also, some sampling strategies may be considered more legally harmful than others (e.g., random sampling vs. running text, sampling over the entire bible or within individual books), we do not provide this a priori. Instead, please get in contact with us if you are interested in any specific sample.
 
@@ -35,6 +35,7 @@ Resnik's bibles followed the SGML-based Corpus Encoding Standard (CES). While th
 
 - Status 2017: language-table.xhtml
 - TODO: Update langage-table.xhtml
+- Continue migrastion from Frankfurt servers: At the moment, only small parts of our unpublished data are accessible via [the private sister repository](https://github.com/acoli-repo/protected-bibles). Most data resides at ACoLi servers in at Goethe University Frankfurt. This is yet to be migrated.
 
 ## Contributors
 
