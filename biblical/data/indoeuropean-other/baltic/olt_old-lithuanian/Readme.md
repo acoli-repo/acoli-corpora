@@ -19,9 +19,9 @@ Provided by the project "The Postil Time Machine: Inner-European Knowledge Trans
 - XML edition by Christian Chiarcos, U Cologne, Germany
 
 > Notes: 
-- This is a pre-final version, use with care and check here for updates.
-- This is generated from `bp.tsv` from a [private project repo](https://github.com/acoli-repo/passage-finder/tree/main/samples). To update it, do
-	
-		$> pandoc BP_1591_unicode_bible_tags.docx -o BP_1591_unicode_bible_tags.txt
-		$> python3 extract-refs.py BP_1591_unicode_bible_tags.txt | sort -u > bp.tsv
+> - This is a pre-final version, use with care and check here for updates.
+> - This is generated from `bp.tsv` from a [private project repo](https://github.com/acoli-repo/passage-finder/tree/main/samples). To update it, do
+>	
+>		$> pandoc BP_1591_unicode_bible_tags.docx -o BP_1591_unicode_bible_tags.txt
+>		$> python3 extract-refs.py BP_1591_unicode_bible_tags.txt | sort -u > bp.tsv
 
