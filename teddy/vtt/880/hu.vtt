@@ -1,0 +1,31 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:04.000
+A történet 1877-ben kezdődik, Németországban,
+
+00:00:04.000 --> 00:00:06.000
+egy Georg Cantor nevű matematikussal.
+
+00:00:06.000 --> 00:00:11.000
+Cantor gondolt egyet, vett egy vonalat, kiradírozta a középső harmadát,
+
+00:00:11.000 --> 00:00:16.000
+és vette az így kapott egy-egy vonalat, és most ezekre alkalmazta az előbbi eljárást, egy rekurzív eljárást.
+
+00:00:16.000 --> 00:00:18.000
+Tehát kezdi egy szakasszal, folytatja kettővel,
+
+00:00:18.000 --> 00:00:21.000
+azután néggyel, majd 16-tal, és így tovább.
+
+00:00:21.000 --> 00:00:24.000
+Ha ezt végtelen sokszor megcsinálja, ami a matematikában megtehető,
+
+00:00:24.000 --> 00:00:26.000
+akkor végül végtelen sok vonalat kap,
+
+00:00:26.000 --> 00:00:29.000
+amelyek mindegyikének végtelen sok pontja van.
+
+00:00:29.000 --> 00:00:33.000
+Így rájött, hogy van itt egy halmaz, amelynek az elemszáma nagyobb, mint végtelen.

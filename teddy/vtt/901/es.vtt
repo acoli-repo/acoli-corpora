@@ -1,0 +1,40 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:03.000
+Si puedo dejarlos este día con una sola gran idea,
+
+00:00:03.000 --> 00:00:05.000
+es que el cúmulo de datos
+
+00:00:05.000 --> 00:00:07.000
+que consumimos
+
+00:00:07.000 --> 00:00:09.000
+es mayor que la suma de las partes,
+
+00:00:09.000 --> 00:00:12.000
+y, en lugar de verlo como una sobrecarga de información,
+
+00:00:12.000 --> 00:00:14.000
+Lo que quiero que piensen es en cómo
+
+00:00:14.000 --> 00:00:17.000
+podemos utilizar esa información para resaltar patrones
+
+00:00:17.000 --> 00:00:20.000
+y ver tendencias que de otro modo serian invisibles.
+
+00:00:20.000 --> 00:00:23.000
+Así que lo que estamos viendo aquí es una tabla típica de mortalidad
+
+00:00:23.000 --> 00:00:25.000
+organizada por edad.
+
+00:00:25.000 --> 00:00:27.000
+Esta herramienta que uso es un pequeño experimento.
+
+00:00:27.000 --> 00:00:30.000
+Se llama Pivot, y con Pivot lo que puedo hacer
+
+00:00:30.000 --> 00:00:34.000
+es filtrar una causa en particular de muertes, digamos accidentes.

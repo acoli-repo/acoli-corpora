@@ -1,0 +1,40 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+One of the biggest challenges in computer graphics
+
+00:00:03.000 --> 00:00:05.000
+has been being able to create a photo-real,
+
+00:00:05.000 --> 00:00:07.000
+digital human face.
+
+00:00:07.000 --> 00:00:10.000
+And one of the reasons it is so difficult is that, unlike aliens and dinosaurs,
+
+00:00:10.000 --> 00:00:13.000
+we look at human faces every day.
+
+00:00:13.000 --> 00:00:15.000
+They are very important to how we communicate with each other.
+
+00:00:15.000 --> 00:00:18.000
+As a result, we're tuned in to the subtlest things
+
+00:00:18.000 --> 00:00:20.000
+that could possibly be wrong with a computer rendering,
+
+00:00:20.000 --> 00:00:23.000
+in order to believe whether these things are realistic.
+
+00:00:23.000 --> 00:00:25.000
+And what I'm going to do in the next five minutes
+
+00:00:25.000 --> 00:00:27.000
+is take you through a process
+
+00:00:27.000 --> 00:00:30.000
+where we tried to create a reasonably photo-realistic computer-generated face,
+
+00:00:30.000 --> 00:00:33.000
+using some computer graphics technology we've developed,

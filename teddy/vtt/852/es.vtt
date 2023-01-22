@@ -1,0 +1,40 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+Uno de los mayores retos en computación gráfica
+
+00:00:03.000 --> 00:00:05.000
+ha sido el poder crear un rostro
+
+00:00:05.000 --> 00:00:07.000
+humano digital fotorrealista.
+
+00:00:07.000 --> 00:00:10.000
+Y una de las razones por las que es tan difícil, a diferencia de alienígenas y dinosaurios,
+
+00:00:10.000 --> 00:00:13.000
+es porque observamos caras humanas todos los días.
+
+00:00:13.000 --> 00:00:15.000
+Son muy importantes para la forma en que nos comunicamos con los demás.
+
+00:00:15.000 --> 00:00:18.000
+Como resultado, estamos afinando las cosas más sutiles
+
+00:00:18.000 --> 00:00:20.000
+que probablemente pudieran estar erradas en un renderizado computacional,
+
+00:00:20.000 --> 00:00:23.000
+a fin de considerar si estas cosas son realistas.
+
+00:00:23.000 --> 00:00:25.000
+Y lo que voy a hacer en los próximos cinco minutos
+
+00:00:25.000 --> 00:00:27.000
+es llevarles a través de un proceso
+
+00:00:27.000 --> 00:00:30.000
+donde intentamos crear un rostro generado por computadora razonablemente fotorrealista,
+
+00:00:30.000 --> 00:00:33.000
+usando algo de la tecnología de computación gráfica que hemos desarrollado,

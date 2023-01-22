@@ -1,0 +1,40 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:03.000
+Tôi mong muốn sau ngày hôm nay, các bạn sẽ nhớ đến ý tưởng lớn này,
+
+00:00:03.000 --> 00:00:05.000
+đó là toàn bộ dữ liệu
+
+00:00:05.000 --> 00:00:07.000
+chúng ta tiếp nhận
+
+00:00:07.000 --> 00:00:09.000
+lớn hơn tổng các thành phần,
+
+00:00:09.000 --> 00:00:12.000
+và thay vì nghĩ đến việc quá tải thông tin,
+
+00:00:12.000 --> 00:00:14.000
+tôi muốn các bạn nghĩ đến cách làm sao
+
+00:00:14.000 --> 00:00:17.000
+chúng ta có thể sử dụng thông tin để các mẫu xuất hiện
+
+00:00:17.000 --> 00:00:20.000
+và chúng ta có thể thấy các xu hướng vô hình.
+
+00:00:20.000 --> 00:00:23.000
+Các bạn đang thấy ở đây một biểu đồ tỉ lệ tử vong điển hình
+
+00:00:23.000 --> 00:00:25.000
+sắp xếp theo độ tuổi.
+
+00:00:25.000 --> 00:00:27.000
+Công cụ tôi đang sử dụng là một thử nghiệm nho nhỏ.
+
+00:00:27.000 --> 00:00:30.000
+Nó có tên Pivot, và với Pivot
+
+00:00:30.000 --> 00:00:34.000
+tôi có thể chọn để lọc một nguyên nhân tử vong cụ thể, ví dụ như tai nạn.

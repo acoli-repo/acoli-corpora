@@ -1,0 +1,40 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+Jedan od najvećih izazova u računalnoj grafici
+
+00:00:03.000 --> 00:00:05.000
+je biti u stanju stvoriti foto-realistično,
+
+00:00:05.000 --> 00:00:07.000
+digitalno ljudsko lice.
+
+00:00:07.000 --> 00:00:10.000
+A jedan od razloga zašto je to teško je taj što, za razliku od dinosaura,
+
+00:00:10.000 --> 00:00:13.000
+ljudska lica promatramo svakodnevno.
+
+00:00:13.000 --> 00:00:15.000
+Vrlo su važna za našu međusobnu komunikaciju.
+
+00:00:15.000 --> 00:00:18.000
+Kao rezultat, primjećujemo najtananije stvari
+
+00:00:18.000 --> 00:00:20.000
+koje bi uopće mogle biti pogrešne u računalnom renderiranju,
+
+00:00:20.000 --> 00:00:23.000
+kako bismo vjerovali jesu li te stvari realistične.
+
+00:00:23.000 --> 00:00:25.000
+Ono što ću učiniti u sljedećih pet minuta
+
+00:00:25.000 --> 00:00:27.000
+je da ću vas provesti kroz proces
+
+00:00:27.000 --> 00:00:30.000
+kojim smo pokušali stvoriti razumno foto-realistično računalno generirano lice,
+
+00:00:30.000 --> 00:00:33.000
+koristeći tehnologiju računalne grafike koju smo sami razvili,

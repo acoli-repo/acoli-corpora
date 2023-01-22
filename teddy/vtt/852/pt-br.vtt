@@ -1,0 +1,40 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+Um dos maiores problemas em computação gráfica
+
+00:00:03.000 --> 00:00:05.000
+tem sido criar uma imagem realística
+
+00:00:05.000 --> 00:00:07.000
+de um rosto humano digitalizado.
+
+00:00:07.000 --> 00:00:10.000
+Um dos motivos de ser tão difícil é que, diferente de alieníginas e dinossauros,
+
+00:00:10.000 --> 00:00:13.000
+nós vemos faces humanas todos os dias.
+
+00:00:13.000 --> 00:00:15.000
+Elas são muito importantes para como nos comunicamos.
+
+00:00:15.000 --> 00:00:18.000
+Como um resultado, estamos sintonizados com as coisas mais sutis
+
+00:00:18.000 --> 00:00:20.000
+que poderia possivelmente estarem erradas com uma renderização
+
+00:00:20.000 --> 00:00:23.000
+a fim de acreditar se as imagens são realísticas.
+
+00:00:23.000 --> 00:00:25.000
+E o que irei fazer nos próximos cinco minutos
+
+00:00:25.000 --> 00:00:27.000
+é guiar vocês por um processo
+
+00:00:27.000 --> 00:00:30.000
+no qual tentamos criar uma face computadorizada razoavelmente realística,
+
+00:00:30.000 --> 00:00:33.000
+usando algumas tecnologias de computação gráfica desenvolvidas por nós,

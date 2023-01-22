@@ -1,0 +1,40 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:03.000
+Si je peux vous transmettre une grande idée aujourd'hui,
+
+00:00:03.000 --> 00:00:05.000
+c'est que l'ensemble des données
+
+00:00:05.000 --> 00:00:07.000
+que nous consommons
+
+00:00:07.000 --> 00:00:09.000
+est plus grand que la somme des parties,
+
+00:00:09.000 --> 00:00:12.000
+et, plutôt que de penser à la saturation d'information,
+
+00:00:12.000 --> 00:00:14.000
+ce que j'aimerai vous montrer c'est comment
+
+00:00:14.000 --> 00:00:17.000
+nous pouvons utiliser l'information de sorte que les structures ressortent
+
+00:00:17.000 --> 00:00:20.000
+et nous pouvons voir émerger des tendances qui sans cela seraient invisibles.
+
+00:00:20.000 --> 00:00:23.000
+Donc ce que nous avons là est un tableau de mortalité classique
+
+00:00:23.000 --> 00:00:25.000
+organisé par âge.
+
+00:00:25.000 --> 00:00:27.000
+L'outil que j'utilise ici est une petite expérience.
+
+00:00:27.000 --> 00:00:30.000
+Il s'appelle Pivot, et avec Pivot je peux
+
+00:00:30.000 --> 00:00:34.000
+choisir de focaliser sur une cause de décès en particulier, disons les accidents.

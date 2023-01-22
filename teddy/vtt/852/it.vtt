@@ -1,0 +1,40 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+Una delle più grandi sfide nella computer grafica
+
+00:00:03.000 --> 00:00:05.000
+è essere in grado di creare una faccia umana digitale
+
+00:00:05.000 --> 00:00:07.000
+fotorealistica.
+
+00:00:07.000 --> 00:00:10.000
+E una delle ragioni per cui è così difficile è che, a differenza degli alieni e dei dinosauri,
+
+00:00:10.000 --> 00:00:13.000
+vediamo facce umane ogni giorno.
+
+00:00:13.000 --> 00:00:15.000
+Sono molto importanti per esprimere ciò che comunichiamo agli altri.
+
+00:00:15.000 --> 00:00:18.000
+Come risultato, siamo attenti ai dettagli
+
+00:00:18.000 --> 00:00:20.000
+che possono essere sbagliati in un rendering computerizzato,
+
+00:00:20.000 --> 00:00:23.000
+per credere se queste cose sono realistiche.
+
+00:00:23.000 --> 00:00:25.000
+E quello che sto per fare nei prossimi cinque minuti
+
+00:00:25.000 --> 00:00:27.000
+è portarvi attraverso il processo
+
+00:00:27.000 --> 00:00:30.000
+con il quale abbiamo provato a creare una faccia computerizzata foto realistica
+
+00:00:30.000 --> 00:00:33.000
+usando qualche tecnologia di computer-grafica che abbiamo sviluppato,
