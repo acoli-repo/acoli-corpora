@@ -1,0 +1,34 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+The idea behind the Stuxnet computer worm
+
+00:00:03.000 --> 00:00:05.000
+is actually quite simple.
+
+00:00:05.000 --> 00:00:08.000
+We don't want Iran to get the bomb.
+
+00:00:08.000 --> 00:00:11.000
+Their major asset for developing nuclear weapons
+
+00:00:11.000 --> 00:00:15.000
+is the Natanz uranium enrichment facility.
+
+00:00:15.000 --> 00:00:17.000
+The gray boxes that you see,
+
+00:00:17.000 --> 00:00:20.000
+these are real-time control systems.
+
+00:00:20.000 --> 00:00:23.000
+Now if we manage to compromise these systems
+
+00:00:23.000 --> 00:00:26.000
+that control drive speeds and valves,
+
+00:00:26.000 --> 00:00:29.000
+we can actually cause a lot of problems
+
+00:00:29.000 --> 00:00:31.000
+with the centrifuge.
