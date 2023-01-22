@@ -1,0 +1,42 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.548
+What I'm going to show you first,
+as quickly as I can,
+
+00:00:02.572 --> 00:00:06.341
+is some foundational work,
+some new technology
+
+00:00:06.365 --> 00:00:08.976
+that we brought to Microsoft
+as part of an acquisition
+
+00:00:09.000 --> 00:00:10.821
+almost exactly a year ago.
+
+00:00:10.845 --> 00:00:13.213
+This is Seadragon, and it's an environment
+
+00:00:13.237 --> 00:00:15.713
+in which you can either
+locally or remotely interact
+
+00:00:15.737 --> 00:00:17.856
+with vast amounts of visual data.
+
+00:00:18.165 --> 00:00:21.569
+We're looking at many, many gigabytes
+of digital photos here
+
+00:00:21.593 --> 00:00:24.508
+and kind of seamlessly
+and continuously zooming in,
+
+00:00:24.532 --> 00:00:27.077
+panning through it,
+rearranging it in any way we want.
+
+00:00:27.389 --> 00:00:30.976
+And it doesn't matter how much
+information we're looking at,
