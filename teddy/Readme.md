@@ -17,4 +17,4 @@ Build with
 
 Note that at the moment, the `vtt/` directory contains a small excerpt of the full corpus.
 
-See [LICENSE](LICENSE.md) for license and attribution.
+See [LICENSE.md](LICENSE.md) for license and attribution.
