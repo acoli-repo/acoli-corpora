@@ -134,7 +134,8 @@ Currently covering more than 110 languages in four, partially overlapping collec
 | Yalunka (yal) | Biblical | [Bible](biblical/data/niger-congo/yal_yalunka) | verse-aligned, CES/XML |
 | Zama (dje) | Biblical | [Bible](biblical/data/africa-other/nilo-saharan/dje_zarma) | verse-aligned, CES/XML |
 | Zulu (zul) | Biblical | [Bible](biblical/data/niger-congo/zul_zulu) | verse-aligned, CES/XML |
-
+|  |  |   |   |
+| various        | parallel   | [Teddy Corpus](teddy/) | TED download and build routine |
 
 ## Setting it up
 
