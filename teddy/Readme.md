@@ -25,10 +25,18 @@ This was tested under Ubuntu 20.04L.
 
 The build script creates the following directory structure:
 
-- `vtt/` original subtitle files
-- `txt/` text files extracted from these
+- `vtt/` original subtitle files 
+- `txt/` text files extracted from these (can be individually build from `vtt/` with `make txt`)
 
-Note that the [license](LICENSE.md) prohibits any distribution of the files in `txt/` or annotations performed over that.
+Notes:
+- `vtt/` is bundled with the repository. For updating it with novel TED talks, run `make update_sources`. For updating it with inclusion novel transcripts for existing TED talks, run `make rebuild`.
+- `txt/` is built from your current `vtt/`. If `vtt/` is manually updated, run `rm -rf txt/; make txt`.
+
+Note that the [license](LICENSE.md) restricts any distribution of the files in `txt/` or subsequent annotations performed over that. However, unter German copyright law, we are allowed to share that data with interested parties for academic purposes if certain legal conditions are met. Please get in touch if you're unable to run these scripts yourself but interested in the data.
+
+## Known Issues
+
+In a number of cases, the subtitle file covers only the beginning of the transcript (cf. `1000.vtt` vs. [original](https://www.ted.com/talks/arianna_huffington_how_to_succeed_get_more_sleep/transcript?language=en)). Needs to be confirmed. Possibly, extraction needs to be re-done.
 
 ## Distribution and Acknowledgements
 

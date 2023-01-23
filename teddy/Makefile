@@ -61,6 +61,25 @@ update_sources:
 # text extraction #
 ###################
 
-txt:
+txt: vtt
 	if [ ! -e txt ]; then mkdir txt; fi
-	# TODO
+	cd vtt; \
+	for dir in *; do \
+		if [ -d $$dir ]; then \
+			cd $$dir;\
+			for file in *.vtt; do \
+				lang=`echo $$file | cut -f 1 -d '.'`;\
+				tgt_dir=../../txt/$$lang;\
+				if [ ! -e $$tgt_dir ]; then mkdir -p $$tgt_dir; fi; \
+				tgt=$$tgt_dir/$$dir.txt;\
+				echo $$dir/$$lang/$$file '>' txt/$$lang/$$dir.txt 1>&2; \
+				cat $$file | \
+				grep -v '^WEBVTT$$' | \
+				grep -v '\-\->' | \
+				egrep . | \
+				perl -pe 's/\s+/ /g; s/([!?.]["'"'"'\)]*)$$/\1\n/; s/([!?.]["'"'"'\)]*) ([\"\(]*[A-Z])/\1\n\2/g;' >> $$tgt;\
+				echo >> $$tgt;\
+			done;\
+			cd ..;\
+		fi;\
+	done;\
