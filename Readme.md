@@ -2,12 +2,13 @@
 
 Various open source corpora assembled, annotated or maintained by the Applied Computational Linguistics (ACoLi) group at Goethe University Frankfurt, Germany.
 
-Currently covering more than 110 languages in four, partially overlapping collections:
+Currently covering 1000+ languages in five, partially overlapping collections:
 
 - semantics (1 corpus, English)
 - cuneiform (3 corpora, Sumerian)
 - Germanic languages (13 languages, in parts with annotations for syntax and semantics)
-- verse-aligned bibles (100+ languages, verse-aligned)
+- verse-aligned bibles (100+ languages, verse-aligned; build scripts for 700+ languages)
+- parallel corpora (aside from the Bible, this includes the Teddy corpus with TED talks for 1688 languages)
 
 ## Content
 
@@ -135,7 +136,7 @@ Currently covering more than 110 languages in four, partially overlapping collec
 | Zama (dje) | Biblical | [Bible](biblical/data/africa-other/nilo-saharan/dje_zarma) | verse-aligned, CES/XML |
 | Zulu (zul) | Biblical | [Bible](biblical/data/niger-congo/zul_zulu) | verse-aligned, CES/XML |
 |  |  |   |   |
-| various        | parallel   | [Teddy Corpus](teddy/) | TED download and build routine |
+|  1688 languages       | parallel   | [Teddy Corpus](teddy/) | TED transcripts and build routine |
 
 ## Setting it up
 
@@ -151,3 +152,5 @@ For updating an existing installation in the directory `./acoli-corpora/`, run
 
 Note that these repositories do not have strong interdependencies in the aggregator, but that this has been mostly created to faciliate a quick-and-easy local setup of all
 corpora in one go. For development or annotation, we recommend to work within the submodule repositories directly.
+
+Note that some corpora require a special build routine. If so, a designated `Readme.md` file is provided.

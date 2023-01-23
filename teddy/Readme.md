@@ -29,10 +29,10 @@ The build script creates the following directory structure:
 - `txt/` text files extracted from these (can be individually build from `vtt/` with `make txt`)
 
 Notes:
-- `vtt/` is bundled with the repository. For updating it with novel TED talks, run `make update_sources`. For updating it with inclusion novel transcripts for existing TED talks, run `make rebuild`.
+- `vtt/` is bundled with the repository. For updating it with novel TED talks, run `make update_sources`. For updating it *under inclusion of novel transcripts for previously known TED talks*, run `make rebuild`.
 - `txt/` is built from your current `vtt/`. If `vtt/` is manually updated, run `rm -rf txt/; make txt`.
 
-Note that the [license](LICENSE.md) restricts any distribution of the files in `txt/` or subsequent annotations performed over that. However, unter German copyright law, we are allowed to share that data with interested parties for academic purposes if certain legal conditions are met. Please get in touch if you're unable to run these scripts yourself but interested in the data.
+Note that the [license](LICENSE.md) restricts any distribution of the files in `txt/` or subsequent annotations performed over that. However, unter German copyright law, we are allowed to share that data with interested parties for academic purposes if certain legal conditions are met. Please get in touch if you are unable to run these scripts yourself but you are interested in the data.
 
 ## Known Issues and TODOs
 
