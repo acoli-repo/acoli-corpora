@@ -1,0 +1,34 @@
+WEBVTT
+
+00:13:59.000 --> 00:14:01.000
+ale když to učíte takto, ve formě modelování,
+
+00:14:01.000 --> 00:14:04.000
+díky tomuto primitivnímu pokusu nikdy nezapomenou,
+
+00:14:04.000 --> 00:14:07.000
+co to proměnná je a jak ji užívat.
+
+00:14:07.000 --> 00:14:09.000
+Tady se můžeme zamyslet nad tím, co dělala Gillian Ishijimaová.
+
+00:14:09.000 --> 00:14:11.000
+Podíváte-li se na ten skript,
+
+00:14:11.000 --> 00:14:13.000
+rychlost je vždy rovna 30.
+
+00:14:13.000 --> 00:14:18.000
+Podle toho začneme autem pohybovat, znova a znova.
+
+00:14:18.000 --> 00:14:22.000
+Po každém intervalu zaznamenám malou tečku.
+
+00:14:22.000 --> 00:14:25.000
+Mají rovnoměrné odstupy, protože jsou 30 bodů od sebe.
+
+00:14:25.000 --> 00:14:28.000
+Co když udělám tuto posloupnost jako šestiletý
+
+00:14:28.000 --> 00:14:33.000
+a řeknu si: "Tak, pokaždé zvýším rychlost dvakrát

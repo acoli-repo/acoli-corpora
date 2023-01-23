@@ -1,0 +1,19 @@
+WEBVTT
+
+00:12:28.000 --> 00:12:35.000
+I'll just do this very quickly -- and put a big tire on him.
+
+00:12:41.000 --> 00:12:45.000
+And I get a little object here and I can look inside this object,
+
+00:12:45.000 --> 00:12:50.000
+I'll call it a car. And here's a little behavior: car forward.
+
+00:12:50.000 --> 00:12:53.000
+Each time I click it, car turn.
+
+00:12:53.000 --> 00:12:55.000
+If I want to make a little script to do this over and over again,
+
+00:12:55.000 --> 00:13:00.000
+I just drag these guys out and set them going.

@@ -1,0 +1,34 @@
+WEBVTT
+
+00:13:59.000 --> 00:14:01.000
+ale tu uczą się na konkrecie
+
+00:14:01.000 --> 00:14:04.000
+i na zawsze zapamiętają,
+
+00:14:04.000 --> 00:14:07.000
+co to jest zmienna i do czego służy.
+
+00:14:07.000 --> 00:14:09.000
+Przerwijmy tu, podobnie jak Gillan Ishijima.
+
+00:14:09.000 --> 00:14:11.000
+W tym skrypcie
+
+00:14:11.000 --> 00:14:13.000
+ustalamy prędkość na 30.
+
+00:14:13.000 --> 00:14:18.000
+Tak będzie się przemieszczał samochód.
+
+00:14:18.000 --> 00:14:22.000
+Po każdym ruchu zostawi kropkę,
+
+00:14:22.000 --> 00:14:25.000
+równomiernie, co 30 punktów.
+
+00:14:25.000 --> 00:14:28.000
+Teraz zastosuję ciąg, jak 6-latki,
+
+00:14:28.000 --> 00:14:33.000
+za każdym razem zwiększając prędkość o dwa
