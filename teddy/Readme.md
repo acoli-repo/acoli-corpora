@@ -36,9 +36,10 @@ Note that the [license](LICENSE.md) restricts any distribution of the files in `
 
 ## Known Issues and TODOs
 
-- In the initial code, only the first segment was extracted. This has been fixed, but it needs to re-run.
-- The extracted segments overlap at the end and the beginning. These overlaps have not been removed, yet.
-- `make txt` performs heuristic sentence splitting. The basic break pattern is `[.!?]\s[A-Z]`. While this will work nicely for English and the majority of other languages, it will create incorrect breaks for languages with upper case spelling for words other than sentence-initial (e.g., German nouns) and it will effectively fail for any language with non-Latin orthography.
+- In the initial code, only the first segment was extracted. This has been fixed *in code*, but it needs to re-run to be applied *to data*.
+- The extracted segments overlap at the end and the beginning. These overlaps have been removed by filtering out duplicate lines. However, if the same line is repeated *at a different place* in the transcript, this will also be removed.
+- `make txt` performs whitespace normalization, that is, the offsets of the same transcript may be different from other retrievers.
+- `make txt` performs heuristic sentence splitting. The basic break pattern is `[.!?]\s[A-Z]`. While this will work nicely for English and the majority of other languages, it will overgenerate breaks for languages with upper case spelling for words other than sentence-initial (e.g., German nouns), it will effectively fail for any language with non-Latin orthography (this is by intent, because these might have different punctuation characters), but also for non-ASCII characters (e.g., accented characters -- unless spelled with combining diacritics).
 
 ## Distribution and Acknowledgements
 

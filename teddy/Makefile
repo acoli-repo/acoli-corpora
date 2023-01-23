@@ -61,7 +61,7 @@ update_sources:
 
 # automatically called after make update_sources
 update_segments: vtt
-	for sub in vtt/1002/*vtt; do \
+	for sub in vtt/*/*vtt; do \
 		if [ ! -e $$sub.1 ]; then \
 			nr=`echo $$sub | cut -f 2 -d '/'`;\
 			for seg in {1..9999}; do \
@@ -83,22 +83,26 @@ update_segments: vtt
 txt: vtt
 	if [ ! -e txt ]; then mkdir txt; fi
 	cd vtt; \
-	for dir in 1002; do \
+	for dir in *; do \
 		if [ -d $$dir ]; then \
 			cd $$dir;\
-			files=`echo *.vtt* | perl -pe 's/\s/\n/g;' | sort | perl -pe 's/^([^\t]*\.vtt\.([0-9]+))$$/\2\t\1/; s/^([^0-9].*\.vtt)$$/1\t\1/g;' | sort -n | cut -f 2`;\
-			for file in $$files; do \
-				lang=`echo $$file | cut -f 1 -d '.'`;\
+			langs=`echo *.vtt | perl -pe 's/\s+/\n/g;' | cut -f 1 -d '.'`;\
+			for lang in $$langs; do \
 				tgt_dir=../../txt/$$lang;\
 				if [ ! -e $$tgt_dir ]; then mkdir -p $$tgt_dir; fi; \
+				files=`echo $$lang.vtt* | perl -pe 's/\s/\n/g;' | sort | perl -pe 's/^([^\t]*\.vtt\.([0-9]+))$$/\2\t\1/; s/^([^0-9].*\.vtt)$$/1\t\1/g;' | sort -n | cut -f 2`;\
 				tgt=$$tgt_dir/$$dir.txt;\
-				echo $$dir/$$lang/$$file '>>' txt/$$lang/$$dir.txt 1>&2; \
-				cat $$file | \
+				for file in $$files; do \
+					echo $$dir/$$lang/$$file '>>' txt/$$lang/$$dir.txt 1>&2; \
+					cat $$file; \
+					echo;\
+				done | \
 				grep -v '^WEBVTT$$' | \
+				# to remove duplicate lines: \
+				awk '!seen[$$0]++' | \
 				grep -v '\-\->' | \
 				egrep . | \
-				perl -pe 's/\s+/ /g; s/([!?.]["'"'"'\)]*)$$/\1\n/; s/([!?.]["'"'"'\)]*) ([\"\(]*[A-Z])/\1\n\2/g;' >> $$tgt;\
-				echo >> $$tgt;\
+				perl -pe 's/\s+/ /g; s/([!?.]["'"'"'\)]*)$$/\1\n/; s/([!?.]["'"'"'\)]*) ([\"\(]*[A-Z])/\1\n\2/g;' > $$tgt;\
 			done;\
 			cd ..;\
 		fi;\
