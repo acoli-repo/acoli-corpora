@@ -1,0 +1,43 @@
+WEBVTT
+
+00:00:00.825 --> 00:00:01.996
+Vor zehn Jahren
+
+00:00:01.996 --> 00:00:04.796
+gingen Forscher für 
+Maschinelles Sehen davon aus,
+
+00:00:04.796 --> 00:00:06.900
+dass es für einen Computer 
+kaum möglich sei,
+
+00:00:06.920 --> 00:00:09.516
+eine Katze von einem Hund 
+zu unterscheiden,
+
+00:00:09.516 --> 00:00:13.230
+trotz großer Fortschritte
+auf dem Feld der Künstlichen Intelligenz.
+
+00:00:13.240 --> 00:00:17.373
+Mittlerweile ist das zu über 99% möglich.
+
+00:00:17.373 --> 00:00:19.536
+Man nennt diese Aufgabe 
+"Bildklassifikation".
+
+00:00:19.560 --> 00:00:22.856
+Sie geben dem Computer ein Bild
+mit einer expliziten Bezeichnung,
+
+00:00:22.856 --> 00:00:26.137
+und der Computer kennt zusätzlich
+tausende weiterer Kategorien dafür.
+
+00:00:26.727 --> 00:00:29.350
+Ich studiere an der Universität 
+von Washington
+
+00:00:29.350 --> 00:00:31.546
+und arbeite an einem 
+Projekt namens "Darknet",

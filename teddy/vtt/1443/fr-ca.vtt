@@ -1,0 +1,43 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+Combien d'entre vous ont déjà rempli ce type de formulaire
+
+00:00:02.000 --> 00:00:04.000
+où vous devez lire une séquence de caractères tordue comme celle-là?
+
+00:00:04.000 --> 00:00:06.000
+Combien d'entre vous trouvent ça vraiment, vraiment pénible?
+
+00:00:06.000 --> 00:00:09.000
+Excellent. Donc c'est moi qui l'ait inventé.
+
+00:00:09.000 --> 00:00:11.000
+(Rires)
+
+00:00:11.000 --> 00:00:13.000
+Enfin j'étais une des personnes qui l'a fait.
+
+00:00:13.000 --> 00:00:15.000
+Cette chose s'appelle un CAPTCHA.
+
+00:00:15.000 --> 00:00:17.000
+Et il est là pour s'assurer que l'entité qui remplit le formulaire
+
+00:00:17.000 --> 00:00:20.000
+est bien un humain et non pas un programme
+
+00:00:20.000 --> 00:00:22.000
+écrit pour soumettre le formulaire des millions de fois.
+
+00:00:22.000 --> 00:00:24.000
+Cela fonctionne car les humains,
+
+00:00:24.000 --> 00:00:26.000
+ou au moins les humains qui voient bien,
+
+00:00:26.000 --> 00:00:28.000
+n'ont aucun problème à lire les caractères déformés,
+
+00:00:28.000 --> 00:00:31.000
+alors que les programmes ne peuvent pas encore le faire.

@@ -1,0 +1,32 @@
+WEBVTT
+
+00:00:01.115 --> 00:00:04.590
+Ein Prozessor, ein Dichter und ein Junge.
+
+00:00:06.520 --> 00:00:11.985
+Vor etwa 20 Jahren,
+im Juni 1994, meldete Intel,
+
+00:00:11.989 --> 00:00:13.992
+es gebe einen Fehler
+
+00:00:13.992 --> 00:00:16.909
+im Kern ihres Pentium-Prozessors,
+
+00:00:16.909 --> 00:00:21.451
+tief im Code des SRT-Algorithmus
+zur Berechnung von Quotientenstellen
+
+00:00:21.451 --> 00:00:23.584
+für Gleitkomma-Divisionen --
+
+00:00:23.595 --> 00:00:26.357
+ich weiß nicht, was das heißt,
+aber das sagt Wikipedia --
+
+00:00:26.368 --> 00:00:29.871
+gab es eine Schwachstelle,
+einen Fehler, der bedeutete,
+
+00:00:29.872 --> 00:00:31.894
+dass mit einer gewissen Wahrscheinlichkeit

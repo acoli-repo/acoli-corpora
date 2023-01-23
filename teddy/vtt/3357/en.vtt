@@ -1,0 +1,39 @@
+WEBVTT
+
+00:00:00.904 --> 00:00:03.790
+Chris Anderson: Help us understand
+what machine learning is,
+
+00:00:03.814 --> 00:00:05.868
+because that seems to be the key driver
+
+00:00:05.892 --> 00:00:08.629
+of so much of the excitement
+and also of the concern
+
+00:00:08.653 --> 00:00:10.147
+around artificial intelligence.
+
+00:00:10.171 --> 00:00:11.814
+How does machine learning work?
+
+00:00:11.838 --> 00:00:15.734
+Sebastian Thrun: So, artificial
+intelligence and machine learning
+
+00:00:15.758 --> 00:00:17.760
+is about 60 years old
+
+00:00:17.784 --> 00:00:22.053
+and has not had a great day
+in its past until recently.
+
+00:00:22.077 --> 00:00:25.001
+And the reason is that today,
+
+00:00:25.025 --> 00:00:28.998
+we have reached a scale
+of computing and datasets
+
+00:00:29.022 --> 00:00:31.659
+that was necessary to make machines smart.

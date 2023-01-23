@@ -1,0 +1,43 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+Quantos de vocês já preencheu algum tipo de formulário da web
+
+00:00:02.000 --> 00:00:04.000
+em que tiveram que ler uma distorcida sequência de caracteres como esta?
+
+00:00:04.000 --> 00:00:06.000
+Quantos de vocês achou isso realmente chato?
+
+00:00:06.000 --> 00:00:09.000
+Ok, excelente. Então, eu inventei isso.
+
+00:00:09.000 --> 00:00:11.000
+(Risadas)
+
+00:00:11.000 --> 00:00:13.000
+Ou fui uma das pessoas que inventou.
+
+00:00:13.000 --> 00:00:15.000
+Aquela coisa é chamada CAPTCHA.
+
+00:00:15.000 --> 00:00:17.000
+E a razão pela qual isso existe é para garantir que você, a entidade que preenche o formulário,
+
+00:00:17.000 --> 00:00:20.000
+é realmente um humano e não apenas um programa de computador
+
+00:00:20.000 --> 00:00:22.000
+que foi criado para preencher formulários milhões e milhões de vezes.
+
+00:00:22.000 --> 00:00:24.000
+A razão pela qual funciona é porque humanos,
+
+00:00:24.000 --> 00:00:26.000
+pelo menos os que não possuem deficiências visuais,
+
+00:00:26.000 --> 00:00:28.000
+não possuem problema lendo esses caracteres distorcidos,
+
+00:00:28.000 --> 00:00:31.000
+enquanto programas de computadores simplesmente não fazem isso ainda.

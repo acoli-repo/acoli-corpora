@@ -1,0 +1,43 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:04.000
+Les presento a Rezero.
+
+00:00:04.000 --> 00:00:06.000
+Este compañero fue desarrollado
+
+00:00:06.000 --> 00:00:08.000
+por un grupo de 10 estudiantes universitarios
+
+00:00:08.000 --> 00:00:10.000
+en el Laboratorio de Sistemas Autónomos
+
+00:00:10.000 --> 00:00:12.000
+de la universidad técnica de Zurich (ETH).
+
+00:00:12.000 --> 00:00:14.000
+Nuestro robot pertenece a una familia de robots
+
+00:00:14.000 --> 00:00:16.000
+llamados Robopelota.
+
+00:00:16.000 --> 00:00:18.000
+En vez de ruedas, un Robopelota se sostiene
+
+00:00:18.000 --> 00:00:20.000
+y mueve sobre una sola pelota.
+
+00:00:20.000 --> 00:00:22.000
+La característica principal de este sistema es
+
+00:00:22.000 --> 00:00:25.000
+que hay un único punto de contacto con el suelo.
+
+00:00:25.000 --> 00:00:27.000
+Esto significa que el robot
+
+00:00:27.000 --> 00:00:29.000
+es intrínsecamente inestable.
+
+00:00:29.000 --> 00:00:31.000
+Es como cuando trato de sostenerme

@@ -1,0 +1,32 @@
+WEBVTT
+
+00:00:01.280 --> 00:00:04.976
+Em meu laboratório, construímos
+robôs aéreos autônomos,
+
+00:00:04.976 --> 00:00:07.130
+como este que está voando aqui.
+
+00:00:08.720 --> 00:00:12.456
+Diferentemente dos drones atualmente
+disponíveis para venda no mercado,
+
+00:00:12.456 --> 00:00:15.080
+este robô não possui nenhum GPS integrado.
+
+00:00:16.160 --> 00:00:17.406
+Assim, sem GPS,
+
+00:00:17.406 --> 00:00:20.680
+é difícil para robôs como este
+determinarem sua posição.
+
+00:00:22.240 --> 00:00:27.016
+Este robô usa sensores integrados,
+câmeras e escâneres a laser
+
+00:00:27.016 --> 00:00:28.726
+para escanear o ambiente.
+
+00:00:28.726 --> 00:00:31.826
+Ele detecta características do ambiente

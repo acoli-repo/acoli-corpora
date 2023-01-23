@@ -1,0 +1,32 @@
+WEBVTT
+
+00:00:01.280 --> 00:00:04.936
+In my lab, we build
+autonomous aerial robots
+
+00:00:04.960 --> 00:00:06.840
+like the one you see flying here.
+
+00:00:08.720 --> 00:00:12.416
+Unlike the commercially available drones
+that you can buy today,
+
+00:00:12.440 --> 00:00:15.080
+this robot doesn't have any GPS on board.
+
+00:00:16.160 --> 00:00:17.376
+So without GPS,
+
+00:00:17.400 --> 00:00:20.680
+it's hard for robots like this
+to determine their position.
+
+00:00:22.240 --> 00:00:26.976
+This robot uses onboard sensors,
+cameras and laser scanners,
+
+00:00:27.000 --> 00:00:28.696
+to scan the environment.
+
+00:00:28.720 --> 00:00:31.776
+It detects features from the environment,

@@ -1,0 +1,34 @@
+WEBVTT
+
+00:00:01.280 --> 00:00:04.880
+Dans mon labo, on construit des robots
+qui peuvent voler en autonomie,
+
+00:00:04.880 --> 00:00:06.840
+comme celui que vous voyez ici.
+
+00:00:08.720 --> 00:00:12.416
+Contrairement aux drones que l'on peut
+acheter dans le commerce de nos jours,
+
+00:00:12.440 --> 00:00:15.080
+celui-ci n'est pas équipé de GPS.
+
+00:00:16.160 --> 00:00:17.376
+Donc, sans GPS,
+
+00:00:17.400 --> 00:00:20.680
+c'est difficile pour ce genre de robot
+de déterminer sa position.
+
+00:00:22.240 --> 00:00:26.830
+Il est donc équipé de capteurs,
+caméras et lasers,
+
+00:00:26.830 --> 00:00:28.690
+utilisés pour scanner son
+environnement.
+
+00:00:28.690 --> 00:00:31.760
+Le robot détecte ce qui se trouve
+autour de lui,

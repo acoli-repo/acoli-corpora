@@ -1,0 +1,43 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:04.000
+Laissez-moi vous présenter Rezero.
+
+00:00:04.000 --> 00:00:06.000
+Ce petit ami a été développé
+
+00:00:06.000 --> 00:00:08.000
+par un groupe de 10 étudiants
+
+00:00:08.000 --> 00:00:10.000
+du Laboratoire des Systèmes Autonomes
+
+00:00:10.000 --> 00:00:12.000
+à l'École polytechnique fédérale de Zurich.
+
+00:00:12.000 --> 00:00:14.000
+Notre robot appartient à une famille de robots
+
+00:00:14.000 --> 00:00:16.000
+qui s’appelle Ballbots.
+
+00:00:16.000 --> 00:00:18.000
+A la place des roues, un Ballbot se tient en équilibre
+
+00:00:18.000 --> 00:00:20.000
+et se déplace sur une boule.
+
+00:00:20.000 --> 00:00:22.000
+La principale caractéristique de ce système
+
+00:00:22.000 --> 00:00:25.000
+est qu'il y a qu'un seul point de contact avec le sol.
+
+00:00:25.000 --> 00:00:27.000
+Cela signifie que le robot
+
+00:00:27.000 --> 00:00:29.000
+est en soi instable.
+
+00:00:29.000 --> 00:00:31.000
+C’est un peu comme si je devais me tenir

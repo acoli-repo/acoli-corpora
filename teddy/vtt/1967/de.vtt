@@ -1,0 +1,43 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:04.000
+Lassen Sie mich Ihnen Rezero vorstellen.
+
+00:00:04.000 --> 00:00:06.000
+Dieser kleine Kerl wurde von einer Gruppe
+
+00:00:06.000 --> 00:00:08.000
+von 10 Studenten im Grundstudium
+
+00:00:08.000 --> 00:00:10.000
+am Labor für Autonome Systeme
+
+00:00:10.000 --> 00:00:12.000
+an der ETH in Zürich entwickelt.
+
+00:00:12.000 --> 00:00:14.000
+Unser Roboter gehört zu einer Roboterfamilie
+
+00:00:14.000 --> 00:00:16.000
+namens Ballbots, Ballroboter.
+
+00:00:16.000 --> 00:00:18.000
+Anstelle von Rädern balanciert und bewegt sich
+
+00:00:18.000 --> 00:00:20.000
+so ein Ballbot auf einem einzelnen Ball.
+
+00:00:20.000 --> 00:00:22.000
+Die Hauptcharakteristika eines solchen Systems sind,
+
+00:00:22.000 --> 00:00:25.000
+dass es einen einzigen Kontaktpunkt am Boden gibt.
+
+00:00:25.000 --> 00:00:27.000
+Das bedeutet, der Roboter
+
+00:00:27.000 --> 00:00:29.000
+ist inhärent instabil.
+
+00:00:29.000 --> 00:00:31.000
+Es ist, als ob ich versuche,

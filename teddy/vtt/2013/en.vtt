@@ -1,0 +1,35 @@
+WEBVTT
+
+00:00:01.115 --> 00:00:06.520
+So a chip, a poet and a boy.
+
+00:00:06.520 --> 00:00:08.485
+It's just about 20 years ago,
+
+00:00:08.485 --> 00:00:11.989
+June 1994, when Intel announced
+
+00:00:11.989 --> 00:00:14.002
+that there was a flaw
+
+00:00:14.002 --> 00:00:16.819
+at the core of their Pentium chip.
+
+00:00:16.819 --> 00:00:19.200
+Deep in the code of the SRT algorithm
+
+00:00:19.200 --> 00:00:21.451
+to calculate intermediate quotients necessary
+
+00:00:21.451 --> 00:00:23.285
+for iterative floating points of divisions --
+
+00:00:23.285 --> 00:00:26.384
+I don't know what that means, but 
+it's what it says on Wikipedia —
+
+00:00:26.384 --> 00:00:29.263
+there was a flaw and an error
+
+00:00:29.263 --> 00:00:31.479
+that meant that there was a certain probability

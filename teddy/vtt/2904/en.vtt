@@ -1,0 +1,41 @@
+WEBVTT
+
+00:00:00.825 --> 00:00:01.976
+Ten years ago,
+
+00:00:02.000 --> 00:00:04.776
+computer vision researchers
+thought that getting a computer
+
+00:00:04.800 --> 00:00:07.496
+to tell the difference
+between a cat and a dog
+
+00:00:07.520 --> 00:00:09.496
+would be almost impossible,
+
+00:00:09.520 --> 00:00:13.216
+even with the significant advance
+in the state of artificial intelligence.
+
+00:00:13.240 --> 00:00:16.800
+Now we can do it at a level
+greater than 99 percent accuracy.
+
+00:00:17.680 --> 00:00:19.536
+This is called image classification --
+
+00:00:19.560 --> 00:00:22.656
+give it an image,
+put a label to that image --
+
+00:00:22.680 --> 00:00:25.720
+and computers know
+thousands of other categories as well.
+
+00:00:26.680 --> 00:00:29.576
+I'm a graduate student
+at the University of Washington,
+
+00:00:29.600 --> 00:00:31.496
+and I work on a project called Darknet,
