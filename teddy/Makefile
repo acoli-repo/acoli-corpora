@@ -32,6 +32,7 @@ youtube:
 
 # retrieve TED subtitles from TED.com
 # note that we don't update TED talks that have been previously retrieved, to update these, run make rebuild
+# note that we only retrieve the first segment per vtt file
 update_sources:
 	if [ ! -e vtt ]; then mkdir vtt; fi
 	for file in {0..9999}; do \
@@ -56,6 +57,24 @@ update_sources:
 			if rmdir vtt/$$file 2>/dev/null; then echo ' empty' 1>&2; else echo ' '; ls vtt/$$file | perl -pe 's/\s/ /g; s/\.vtt//g;' 1>&2; echo 1>&2; fi;\
 		fi;\
 	done;
+	make update_segments
+
+# automatically called after make update_sources
+update_segments: vtt
+	for sub in vtt/1002/*vtt; do \
+		if [ ! -e $$sub.1 ]; then \
+			nr=`echo $$sub | cut -f 2 -d '/'`;\
+			for seg in {1..9999}; do \
+				wget -nc https://hls.ted.com/project_masters/$$nr/subtitles/`basename $$sub`'?segment='$$seg -O $$sub.$$seg 2>/dev/null;\
+				if cat $$sub.$$seg | grep -v '^00:00:00.000' | grep -m 1 '\-\->' >/dev/null; then \
+					echo $$sub.$$seg;\
+				else \
+					rm $$sub.$$seg;\
+					break;\
+				fi;\
+			done;\
+		fi;\
+	done;\
 
 ###################
 # text extraction #
@@ -64,15 +83,16 @@ update_sources:
 txt: vtt
 	if [ ! -e txt ]; then mkdir txt; fi
 	cd vtt; \
-	for dir in *; do \
+	for dir in 1002; do \
 		if [ -d $$dir ]; then \
 			cd $$dir;\
-			for file in *.vtt; do \
+			files=`echo *.vtt* | perl -pe 's/\s/\n/g;' | sort | perl -pe 's/^([^\t]*\.vtt\.([0-9]+))$$/\2\t\1/; s/^([^0-9].*\.vtt)$$/1\t\1/g;' | sort -n | cut -f 2`;\
+			for file in $$files; do \
 				lang=`echo $$file | cut -f 1 -d '.'`;\
 				tgt_dir=../../txt/$$lang;\
 				if [ ! -e $$tgt_dir ]; then mkdir -p $$tgt_dir; fi; \
 				tgt=$$tgt_dir/$$dir.txt;\
-				echo $$dir/$$lang/$$file '>' txt/$$lang/$$dir.txt 1>&2; \
+				echo $$dir/$$lang/$$file '>>' txt/$$lang/$$dir.txt 1>&2; \
 				cat $$file | \
 				grep -v '^WEBVTT$$' | \
 				grep -v '\-\->' | \

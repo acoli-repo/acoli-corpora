@@ -15,7 +15,7 @@ Note that at the moment, the `vtt/` directory contains a small excerpt of the fu
 
 See [LICENSE.md](LICENSE.md) for license and attribution.
 
-## Setup and structure
+## Setup and Structure
 
 The current release is incomplete with respect to TED subtitles. To retrieve and build the full corpus, run
 
@@ -34,9 +34,11 @@ Notes:
 
 Note that the [license](LICENSE.md) restricts any distribution of the files in `txt/` or subsequent annotations performed over that. However, unter German copyright law, we are allowed to share that data with interested parties for academic purposes if certain legal conditions are met. Please get in touch if you're unable to run these scripts yourself but interested in the data.
 
-## Known Issues
+## Known Issues and TODOs
 
-In a number of cases, the subtitle file covers only the beginning of the transcript (cf. `1000.vtt` vs. [original](https://www.ted.com/talks/arianna_huffington_how_to_succeed_get_more_sleep/transcript?language=en)). Needs to be confirmed. Possibly, extraction needs to be re-done.
+- In the initial code, only the first segment was extracted. This has been fixed, but it needs to re-run.
+- The extracted segments overlap at the end and the beginning. These overlaps have not been removed, yet.
+- `make txt` performs heuristic sentence splitting. The basic break pattern is `[.!?]\s[A-Z]`. While this will work nicely for English and the majority of other languages, it will create incorrect breaks for languages with upper case spelling for words other than sentence-initial (e.g., German nouns) and it will effectively fail for any language with non-Latin orthography.
 
 ## Distribution and Acknowledgements
 
