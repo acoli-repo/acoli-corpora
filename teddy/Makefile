@@ -1,12 +1,37 @@
 SHELL=/usr/bin/bash
 
-all: update_sources
+all: vtt
 
+# removes all generated directories and runs make from scratch
+# this is useful to update previously downloaded TED talks with new subtitles, these aren't retrieved otherwise
+rebuild:
+	for dir in vtt vtt_yt txt; do \
+		if [ -e $$dir ]; then rm -rf $$dir; fi; \
+	done
+	make
+
+######################
+# subtitle retrieval #
+######################
+
+# make update_sources will always iterate over all TED talks
+# make vtt will do that only if the vtt/ directory is not found
+# by default, we do make vtt, use make update_sources to trigger
+# update/full retrieval
+vtt:
+	if [ ! -e vtt/ ]; then make update_sources; fi
+
+# retrieve TED subtitles from Youtube
+# this works, but only a small portion of TED data is available from Youtube
+# not recommended for production use, but this is a fallback in case TED extraction fails
+# e.g. if their website is updated
 youtube:
-	@# works, but for selected videos, only
-# 	youtube-dl -i --skip-download --console-title --all-subs --sub-format vtt https://www.youtube.com/watch?v=6zCpRVP1DgQ 
+	if [ ! -e vtt_yt ]; then mkdir vtt_yt; fi
+	cd vtt_yt;\
 	youtube-dl -i --skip-download --console-title --all-subs --sub-format vtt  https://www.youtube.com/user/TEDxTalks
 
+# retrieve TED subtitles from TED.com
+# note that we don't update TED talks that have been previously retrieved, to update these, run make rebuild
 update_sources:
 	if [ ! -e vtt ]; then mkdir vtt; fi
 	for file in {0..9999}; do \
@@ -31,3 +56,11 @@ update_sources:
 			if rmdir vtt/$$file 2>/dev/null; then echo ' empty' 1>&2; else echo ' '; ls vtt/$$file | perl -pe 's/\s/ /g; s/\.vtt//g;' 1>&2; echo 1>&2; fi;\
 		fi;\
 	done;
+
+###################
+# text extraction #
+###################
+
+txt:
+	if [ ! -e txt ]; then mkdir txt; fi
+	# TODO
