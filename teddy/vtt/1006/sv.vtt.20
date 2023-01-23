@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+Och det betyder huvudsakligen att om du försöker titta på den här bilden på din Windows-dator,
+
+00:10:02.000 --> 00:10:05.000
+kommer den faktiskt ta över din dator och köra kod.
+
+00:10:05.000 --> 00:10:08.000
+Om vi tar oss en titt på den här bildfilen --
+
+00:10:08.000 --> 00:10:10.000
+här har vi bild-headern.
+
+00:10:10.000 --> 00:10:13.000
+och här är själva koden där attacken börjar.
+
+00:10:13.000 --> 00:10:15.000
+Och den koden har krypterats,
+
+00:10:15.000 --> 00:10:17.000
+så låt oss dekryptera det.
+
+00:10:17.000 --> 00:10:19.000
+Den har blivit krypterad med en XOR 97-funktion.
+
+00:10:19.000 --> 00:10:21.000
+Ni får helt enkelt tro på mig,
+
+00:10:21.000 --> 00:10:23.000
+det är den, det är den.
+
+00:10:23.000 --> 00:10:25.000
+Så vi kan gå hit
+
+00:10:25.000 --> 00:10:27.000
+och faktiskt starta dekrypteringen.
+
+00:10:27.000 --> 00:10:29.000
+Den gula delen av koden har nu dekrypterats.
+
+00:10:29.000 --> 00:10:32.000
+Och jag vet, det ser inte särskilt annorlunda ut jämfört med originalet.

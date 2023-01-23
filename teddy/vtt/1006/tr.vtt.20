@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+Ve bu da basitçe, eğer bu resim dosyasını bir Windows bilgisayarda görüntülemeye çalışırsanız
+
+00:10:02.000 --> 00:10:05.000
+bilgisayarınızı ele geçirip kodu çalıştırdığı anlamına geliyor.
+
+00:10:05.000 --> 00:10:08.000
+Şimdi, bu resim dosyasına bakacak olursanız --
+
+00:10:08.000 --> 00:10:10.000
+resmin başlığı var,
+
+00:10:10.000 --> 00:10:13.000
+ve saldırıyı başlatan asıl kod var.
+
+00:10:13.000 --> 00:10:15.000
+Ve bu kod şifrelenmiş
+
+00:10:15.000 --> 00:10:17.000
+Şifreyi çözelim.
+
+00:10:17.000 --> 00:10:19.000
+XOR 97 fonksiyonu ile şifrelenmiş.
+
+00:10:19.000 --> 00:10:21.000
+Bana inanmalısınız,
+
+00:10:21.000 --> 00:10:23.000
+öyle, öyle.
+
+00:10:23.000 --> 00:10:25.000
+ve buraya giderek
+
+00:10:25.000 --> 00:10:27.000
+şifre çözmeyi başlatabiliriz.
+
+00:10:27.000 --> 00:10:29.000
+Kodun sarı kısmının şifresi çözülmüş durumda.
+
+00:10:29.000 --> 00:10:32.000
+Ve biliyorum, aslında özgün halinden çok da farklı gözükmüyor.

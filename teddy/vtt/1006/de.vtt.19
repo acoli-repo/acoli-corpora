@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:31.000
+Operationen wie diese global strafrechtlich zu verfolgen.
+
+00:09:31.000 --> 00:09:33.000
+Durch das Internet ist es also so,
+
+00:09:33.000 --> 00:09:35.000
+als ob man allen Online-Verbrechern in der Welt
+
+00:09:35.000 --> 00:09:38.000
+kostenlose Flugtickets gegeben hätte.
+
+00:09:38.000 --> 00:09:41.000
+Kriminelle, die uns früher nicht erreichen konnten,
+
+00:09:41.000 --> 00:09:43.000
+können uns jetzt erreichen.
+
+00:09:43.000 --> 00:09:46.000
+Wie also findet man Online-Verbrecher?
+
+00:09:46.000 --> 00:09:48.000
+Wie spürt man sie auf?
+
+00:09:48.000 --> 00:09:50.000
+Lassen Sie mich Ihnen ein Beispiel geben.
+
+00:09:50.000 --> 00:09:53.000
+Was wir hier haben, ist ein Exploit.
+
+00:09:53.000 --> 00:09:57.000
+Hier sieht man den Hexdump einer Bilddatei,
+
+00:09:57.000 --> 00:09:59.000
+die einen Exploit enthält.
+
+00:09:59.000 --> 00:10:02.000
+Und das bedeutet, wenn Sie versuchen, diese Bilddatei auf Ihrem Windows-Computer zu öffnen,

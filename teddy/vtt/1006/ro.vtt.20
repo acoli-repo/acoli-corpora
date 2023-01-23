@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+Asta înseamnă că dacă încerci să deschizi fișierul imagine pe computerul tău Windows,
+
+00:10:02.000 --> 00:10:05.000
+exploit-ul îți va controla computerul și va rula codul.
+
+00:10:05.000 --> 00:10:08.000
+Dacă vă uitați la acest fișier imagine -
+
+00:10:08.000 --> 00:10:10.000
+aici avem antetul imaginii,
+
+00:10:10.000 --> 00:10:13.000
+și aici codul atacului începe să ruleze.
+
+00:10:13.000 --> 00:10:15.000
+Codul a fost criptat,
+
+00:10:15.000 --> 00:10:17.000
+haideți să-l decriptăm.
+
+00:10:17.000 --> 00:10:19.000
+A fost criptat cu funcția XOR 97.
+
+00:10:19.000 --> 00:10:21.000
+Aici trebuie să mă credeți,
+
+00:10:21.000 --> 00:10:23.000
+așa este.
+
+00:10:23.000 --> 00:10:25.000
+Putem să mergem aici
+
+00:10:25.000 --> 00:10:27.000
+și să începem să îl decriptăm.
+
+00:10:27.000 --> 00:10:29.000
+Partea galbenă a codului a fost decriptată.
+
+00:10:29.000 --> 00:10:32.000
+Știu, nu diferă prea mult de original.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+về cơ bản, nó có nghĩa là nếu bạn đang cố gắng xem tập tin hình ảnh trên máy tính Windows của bạn,,
+
+00:10:02.000 --> 00:10:05.000
+nó thật ra chiếm lấy máy tính của bạn và chạy mã lệnh.
+
+00:10:05.000 --> 00:10:08.000
+Bây giờ, nếu bạn nhìn vào cái ảnh này
+
+00:10:08.000 --> 00:10:10.000
+có cái tiêu đề hình ảnh,
+
+00:10:10.000 --> 00:10:13.000
+và đây là khi mà mã lệnh thực tế của cuộc tấn công bắt đầu.
+
+00:10:13.000 --> 00:10:15.000
+Và mã số đó đã được mã hóa,
+
+00:10:15.000 --> 00:10:17.000
+vậy thì hãy giải mã nó.
+
+00:10:17.000 --> 00:10:19.000
+Nó đã được mã hóa với chức năng XOR 97.
+
+00:10:19.000 --> 00:10:21.000
+Bạn phải tin tôi.
+
+00:10:21.000 --> 00:10:23.000
+Thật đấy, thật đấy.
+
+00:10:23.000 --> 00:10:25.000
+Và chúng ta có thế đi ra đây
+
+00:10:25.000 --> 00:10:27.000
+và thật sự bắt đầu giải mã nó.
+
+00:10:27.000 --> 00:10:29.000
+Cái phần màu vàng của mã này đã được giải mã.
+
+00:10:29.000 --> 00:10:32.000
+Tôi biết, trông nó chả khác máy với bản gốc.

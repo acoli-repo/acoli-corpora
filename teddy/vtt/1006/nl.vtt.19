@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:31.000
+om dit soort operaties wereldwijd aan te pakken.
+
+00:09:31.000 --> 00:09:33.000
+Dus het internet is alsof iemand
+
+00:09:33.000 --> 00:09:35.000
+gratis vliegtuigtickets had gegeven
+
+00:09:35.000 --> 00:09:38.000
+aan alle internetcriminelen van de wereld.
+
+00:09:38.000 --> 00:09:41.000
+Criminelen die ons voorheen niet konden bereiken,
+
+00:09:41.000 --> 00:09:43.000
+kunnen dat nu wel.
+
+00:09:43.000 --> 00:09:46.000
+Hoe ga je te werk wanneer je internetcriminelen probeert te vinden?
+
+00:09:46.000 --> 00:09:48.000
+Hoe spoor je ze feitelijk op?
+
+00:09:48.000 --> 00:09:50.000
+Ik zal een voorbeeld geven.
+
+00:09:50.000 --> 00:09:53.000
+Wat we hier hebben, is een exploit-bestand.
+
+00:09:53.000 --> 00:09:57.000
+Hier kijk ik naar de Hex-dump van een beeldbestand,
+
+00:09:57.000 --> 00:09:59.000
+die een exploit bevat.
+
+00:09:59.000 --> 00:10:02.000
+Dat betekent dat wanneer je deze afbeelding probeert te bekijken op je Windows-computer,

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+Cela veut dire que, si vous essayez de visualiser cette image avec Windows,
+
+00:10:02.000 --> 00:10:05.000
+il prend le contrôle de votre ordi et exécute un programme.
+
+00:10:05.000 --> 00:10:08.000
+Si vous regardez ce fichier d'image --
+
+00:10:08.000 --> 00:10:10.000
+il y a l'en-tête du fichier,
+
+00:10:10.000 --> 00:10:13.000
+et le programme pour l'attaque commence ici.
+
+00:10:13.000 --> 00:10:15.000
+Ce programme a été crypté,
+
+00:10:15.000 --> 00:10:17.000
+alors on va le décrypter.
+
+00:10:17.000 --> 00:10:19.000
+Ça a été crypté avec XOR fonction 97.
+
+00:10:19.000 --> 00:10:21.000
+Vous n'avez qu'à me croire
+
+00:10:21.000 --> 00:10:23.000
+c'est vrai.
+
+00:10:23.000 --> 00:10:25.000
+Nous pouvons aller ici
+
+00:10:25.000 --> 00:10:27.000
+et commencer à le décrypter.
+
+00:10:27.000 --> 00:10:29.000
+La partie en jaune du code est maintenant décryptée.
+
+00:10:29.000 --> 00:10:32.000
+Je sais que ça ressemble trop à l'original,

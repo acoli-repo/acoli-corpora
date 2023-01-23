@@ -1,0 +1,36 @@
+WEBVTT
+
+00:05:29.798 --> 00:05:32.873
+az amerikai hírszerző ügynökségek olyan messzire elmerészkednek,
+
+00:05:32.873 --> 00:05:36.710
+hogy beszivárogjanak szabványügyi testületek rendszerébe,
+
+00:05:36.710 --> 00:05:41.458
+és hogy szándékosan szabotáljanak 
+titkosítási algoritmusokat.
+
+00:05:41.458 --> 00:05:43.495
+És ez azt jelenti,
+
+00:05:43.495 --> 00:05:45.315
+hogy ha megnézünk egy olyan dolgot, ami biztonságos,
+
+00:05:45.315 --> 00:05:47.736
+egy titkosítási algoritmust, ami olyan biztonságos,
+
+00:05:47.736 --> 00:05:50.843
+hogy ha azt használjuk egy fájl titkosítására
+
+00:05:50.843 --> 00:05:52.585
+senki nem tudja majd dekódolni azt a fájlt.
+
+00:05:52.585 --> 00:05:56.998
+Még ha a bolygó összes számítógépét vetnék is be, 
+hogy dekódolják azt az egyetlen fájlt,
+
+00:05:56.998 --> 00:05:59.058
+évmilliókba telne, míg sikerülne.
+
+00:05:59.058 --> 00:06:01.305
+Tehát alapvetően teljesen biztonságos, feltörhetetlen.

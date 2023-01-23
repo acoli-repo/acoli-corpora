@@ -1,0 +1,36 @@
+WEBVTT
+
+00:04:56.890 --> 00:05:02.220
+whether he found plausible
+that people died
+
+00:05:02.244 --> 00:05:04.028
+because of the DigiNotar hack.
+
+00:05:06.187 --> 00:05:08.627
+And his answer was: yes.
+
+00:05:10.813 --> 00:05:12.852
+So how do people die
+
+00:05:12.876 --> 00:05:14.582
+as the result of a hack like this?
+
+00:05:15.789 --> 00:05:17.576
+Well, DigiNotar is a CA.
+
+00:05:17.600 --> 00:05:19.576
+They sell certificates.
+
+00:05:19.600 --> 00:05:21.206
+What do you do with certificates?
+
+00:05:21.230 --> 00:05:23.772
+Well, you need a certificate
+if you have a website
+
+00:05:23.796 --> 00:05:27.399
+that has https, SSL encrypted services,
+
+00:05:28.465 --> 00:05:31.214
+services like Gmail.

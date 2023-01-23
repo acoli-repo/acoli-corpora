@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+Significa que si abre este archivo de imagen en su computadora con Windows,
+
+00:10:02.000 --> 00:10:05.000
+éste toma el control de la máquina y ejecuta el código.
+
+00:10:05.000 --> 00:10:08.000
+Entonces, si miramos este archivo de imagen aquí...
+
+00:10:08.000 --> 00:10:10.000
+este es el encabezado,
+
+00:10:10.000 --> 00:10:13.000
+y allí mismo se inicia el código de ataque.
+
+00:10:13.000 --> 00:10:15.000
+Este código está encriptado
+
+00:10:15.000 --> 00:10:17.000
+así que vamos a descifrarlo.
+
+00:10:17.000 --> 00:10:19.000
+Está cifrado con función 97 en XOR.
+
+00:10:19.000 --> 00:10:21.000
+Van a tener que creerme,
+
+00:10:21.000 --> 00:10:23.000
+pues así es.
+
+00:10:23.000 --> 00:10:25.000
+Podemos acceder aquí
+
+00:10:25.000 --> 00:10:27.000
+y comenzar a descifrarlo.
+
+00:10:27.000 --> 00:10:29.000
+Ahora, la porción en amarillo está desencriptada.
+
+00:10:29.000 --> 00:10:32.000
+Acepto que en realidad no se ve muy diferente de la original.

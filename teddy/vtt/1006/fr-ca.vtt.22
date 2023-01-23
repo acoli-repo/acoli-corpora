@@ -1,0 +1,46 @@
+WEBVTT
+
+00:10:57.000 --> 00:11:02.000
+qui dit O600KO78RUS.
+
+00:11:02.000 --> 00:11:04.000
+ce code est là, en dessous du cryptage
+
+00:11:04.000 --> 00:11:06.000
+comme une sorte de signature.
+
+00:11:06.000 --> 00:11:08.000
+Ça sert à rien.
+
+00:11:08.000 --> 00:11:11.000
+Et j'étais en train de regarder ça, pour comprendre sa signification.
+
+00:11:11.000 --> 00:11:13.000
+Alors, évidemment, je l'ai cherché sur Google.
+
+00:11:13.000 --> 00:11:15.000
+Je n'ai rien obtenu, ce n'était pas là-dedans.
+
+00:11:15.000 --> 00:11:17.000
+Alors, j'en ai parlé aux gars du labo.
+
+00:11:17.000 --> 00:11:19.000
+Nous avons un pair de gars ruses au labo
+
+00:11:19.000 --> 00:11:21.000
+et l'un d'eux m'a dit que
+
+00:11:21.000 --> 00:11:23.000
+le code terminait en « RUS » comme Russie,
+
+00:11:23.000 --> 00:11:25.000
+et que « 78 » était le code
+
+00:11:25.000 --> 00:11:27.000
+de la ville de Saint-Pétersbourg.
+
+00:11:27.000 --> 00:11:29.000
+Par exemple, vous pouvez le trouver sur des numéros de téléphone,
+
+00:11:29.000 --> 00:11:32.000
+sur des plaques d'immatriculation et des choses comme ça.

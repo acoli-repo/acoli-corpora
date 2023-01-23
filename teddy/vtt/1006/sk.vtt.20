@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+To vlastne znamená, že keď si pozriete tento obrázok na vašom počítači s Windows,
+
+00:10:02.000 --> 00:10:05.000
+prevezme to váš počítač a spustí kód.
+
+00:10:05.000 --> 00:10:08.000
+Keď sa pozriete na tento obrázkový súbor --
+
+00:10:08.000 --> 00:10:10.000
+to je obrazová hlavička
+
+00:10:10.000 --> 00:10:13.000
+a tu začína vlastný kód útoku.
+
+00:10:13.000 --> 00:10:15.000
+A ten kód bol zašifrovaný,
+
+00:10:15.000 --> 00:10:17.000
+takže ho rozšifrujeme.
+
+00:10:17.000 --> 00:10:19.000
+Použila sa šifrovacia funkcia XOR 97.
+
+00:10:19.000 --> 00:10:21.000
+Musíte mi proste veriť,
+
+00:10:21.000 --> 00:10:23.000
+je to tak, je to tak.
+
+00:10:23.000 --> 00:10:25.000
+Môžme ísť sem
+
+00:10:25.000 --> 00:10:27.000
+a začať ho dešifrovať.
+
+00:10:27.000 --> 00:10:29.000
+Žlté časti kódu sú teraz dešifrované.
+
+00:10:29.000 --> 00:10:32.000
+A viem, že to nevyzerá príliš odlišne od originálu.

@@ -1,0 +1,37 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:02.000
+että ihmisiä kuoli
+
+00:05:02.000 --> 00:05:05.000
+DigiNotar-tietomurron takia.
+
+00:05:05.000 --> 00:05:10.000
+Ja hänen vastuksensa oli kyllä.
+
+00:05:10.000 --> 00:05:12.000
+Mutta miten ihmisiä kuolee
+
+00:05:12.000 --> 00:05:15.000
+tietomurron seurauksena?
+
+00:05:15.000 --> 00:05:17.000
+DigiNotar oli sertifikaattiauktoriteeti.
+
+00:05:17.000 --> 00:05:19.000
+He myyvät sertifikaatteja.
+
+00:05:19.000 --> 00:05:21.000
+Mihin sertifikaatteja tarvitaan?
+
+00:05:21.000 --> 00:05:23.000
+Niitä tarvitaan,
+
+00:05:23.000 --> 00:05:25.000
+jos on web-palvelin, joka käyttää SSL-suojausta
+
+00:05:25.000 --> 00:05:28.000
+eli https-yhteyttä.
+
+00:05:28.000 --> 00:05:31.000
+Esimerkiksi Gmail on tällainen palvelu.

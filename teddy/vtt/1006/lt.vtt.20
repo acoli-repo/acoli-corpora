@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+O tai iš tiesų reiškia, kad jeigu jūs bandote peržiūrėti šį paveiksliuko failą ant savo Windows kompiuterio,
+
+00:10:02.000 --> 00:10:05.000
+failas iš tiesų perims jūsų kompiuterio valdymą ir paleis kodą.
+
+00:10:05.000 --> 00:10:08.000
+Taigi, jeigu žvilgteltumėt į šį paveiksliuko failą --
+
+00:10:08.000 --> 00:10:10.000
+na štai yra paveiksliuko antraštė
+
+00:10:10.000 --> 00:10:13.000
+ir štai tikrasis kodas atakos pradėjimui.
+
+00:10:13.000 --> 00:10:15.000
+Ir tas kodas buvo užšifruotas,
+
+00:10:15.000 --> 00:10:17.000
+tad iššifruokime jį.
+
+00:10:17.000 --> 00:10:19.000
+Jis buvo užšifruotas pagal XOR funkciją 97.
+
+00:10:19.000 --> 00:10:21.000
+Jums tiesiog reikės manimi patikėti,
+
+00:10:21.000 --> 00:10:23.000
+jis tikrai buvo taip užšifruotas.
+
+00:10:23.000 --> 00:10:25.000
+Ir mes galime nueiti čia
+
+00:10:25.000 --> 00:10:27.000
+ir išties jį iššifruoti.
+
+00:10:27.000 --> 00:10:29.000
+Na, geltona kodo dalis dabar jau yra iššifruota.
+
+00:10:29.000 --> 00:10:32.000
+Ir žinau, išties neatrodo kaip nors kitaip negu orginalas.

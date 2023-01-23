@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+Intinya adalah, kalau Anda berusaha melihat berkas gambar ini pada komputer windows,
+
+00:10:02.000 --> 00:10:05.000
+komputer Anda akan terambil alih oleh kode yang tersembunyi.
+
+00:10:05.000 --> 00:10:08.000
+Kalau Anda lihat berkas gambar ini --
+
+00:10:08.000 --> 00:10:10.000
+ini header gambarnya,
+
+00:10:10.000 --> 00:10:13.000
+dan ini adalah kode penyerangnya.
+
+00:10:13.000 --> 00:10:15.000
+Dan ini bagaimana kode ini disandikan,
+
+00:10:15.000 --> 00:10:17.000
+jadi mari kita pecahkan sandinya.
+
+00:10:17.000 --> 00:10:19.000
+Yang disandikan dengan metode XOR fungsi 97.
+
+00:10:19.000 --> 00:10:21.000
+Percaya aja deh,
+
+00:10:21.000 --> 00:10:23.000
+benar kok.
+
+00:10:23.000 --> 00:10:25.000
+Jadi kita coba
+
+00:10:25.000 --> 00:10:27.000
+pecahkan sandinya.
+
+00:10:27.000 --> 00:10:29.000
+Bagian yang kuning adalah hasil pemecahan sandi.
+
+00:10:29.000 --> 00:10:32.000
+Dan meski kelihatannya tidak jauh beda dengan aslinya.

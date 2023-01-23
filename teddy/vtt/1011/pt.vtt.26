@@ -1,0 +1,47 @@
+WEBVTT
+
+00:12:56.960 --> 00:13:00.170
+quando se chega a essas longas listas
+com todos aqueles fundos.
+
+00:13:00.170 --> 00:13:03.280
+Quem é que eles realmente
+estão a informar?
+
+00:13:03.280 --> 00:13:06.440
+A minha quarta técnica:
+Condição para a complexidade.
+
+00:13:07.290 --> 00:13:08.820
+Acontece que conseguimos lidar
+
+00:13:08.820 --> 00:13:10.650
+com mais informação
+do que pensamos,
+
+00:13:10.650 --> 00:13:13.340
+mas temos de recebê-la 
+de forma um pouco mais simples
+
+00:13:13.340 --> 00:13:16.090
+e aumentar gradualmente a complexidade.
+
+00:13:16.100 --> 00:13:18.760
+Vou dar-vos um exemplo
+daquilo de que estou a falar.
+
+00:13:18.760 --> 00:13:21.310
+Pensemos numa decisão muito complicada:
+
+00:13:21.310 --> 00:13:22.830
+comprar um carro.
+
+00:13:22.830 --> 00:13:24.800
+Este é um fabricante alemão de automóveis
+
+00:13:24.800 --> 00:13:28.170
+que oferece a possibilidade
+de personalizarem o vosso carro.
+
+00:13:28.170 --> 00:13:30.050
+Têm de tomar 60 decisões diferentes,

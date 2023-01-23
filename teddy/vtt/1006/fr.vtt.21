@@ -1,0 +1,37 @@
+WEBVTT
+
+00:10:29.000 --> 00:10:32.000
+Et je sais, il n'a pas l'air très différent de l'original.
+
+00:10:32.000 --> 00:10:34.000
+Mais regardez-le bien.
+
+00:10:34.000 --> 00:10:36.000
+Vous verrez en fait qu'ici en bas
+
+00:10:36.000 --> 00:10:38.000
+vous pouvez voir une adresse web :
+
+00:10:38.000 --> 00:10:44.000
+unionseek.com/d/ioo.exe
+
+00:10:44.000 --> 00:10:46.000
+Et quand vous regardez cette image sur votre ordinateur,
+
+00:10:46.000 --> 00:10:48.000
+le code va en fait télécharger et lancer ce programme.
+
+00:10:48.000 --> 00:10:51.000
+Et c'est un backdoor qui va s'emparer de votre ordinateur.
+
+00:10:51.000 --> 00:10:53.000
+Mais ce qui est encore plus intéressant,
+
+00:10:53.000 --> 00:10:55.000
+si nous continuons le décryptage,
+
+00:10:55.000 --> 00:10:57.000
+nous trouverons cette chaîne de caractères mystérieuse
+
+00:10:57.000 --> 00:11:02.000
+qui dit O600KO78RUS.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+Kung bubuksan ninyo itong image file sa inyong Windows computer,
+
+00:10:02.000 --> 00:10:05.000
+kokontrolin na niya ang inyong kompyuter at papaandarin ang code.
+
+00:10:05.000 --> 00:10:08.000
+Ngayon, kung titingnan niyo ang image file na ito --
+
+00:10:08.000 --> 00:10:10.000
+yun ang image header,
+
+00:10:10.000 --> 00:10:13.000
+at doon nagsisimula ang mismong code ng pag-atake.
+
+00:10:13.000 --> 00:10:15.000
+At ang code na iyon ay naka-encrypt,
+
+00:10:15.000 --> 00:10:17.000
+kaya i-decrypt natin.
+
+00:10:17.000 --> 00:10:19.000
+Ito ay naka-encrypt gamit ang XOR function 97.
+
+00:10:19.000 --> 00:10:21.000
+Maniwala ka na lang,
+
+00:10:21.000 --> 00:10:23.000
+tama yan.
+
+00:10:23.000 --> 00:10:25.000
+At pwede nating tingnan dito
+
+00:10:25.000 --> 00:10:27.000
+na inuumpisahan na itong ma-decrypt.
+
+00:10:27.000 --> 00:10:29.000
+Ang bahagi ng code na kulay dilaw ay na-decrypt na.
+
+00:10:29.000 --> 00:10:32.000
+Alam ko, wala namang gaanong pinag-iba sa orihinal.

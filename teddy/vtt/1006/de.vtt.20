@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+Und das bedeutet, wenn Sie versuchen, diese Bilddatei auf Ihrem Windows-Computer zu öffnen,
+
+00:10:02.000 --> 00:10:05.000
+dann übernimmt er die Kontrolle über Ihren Computer und führt einen Code aus.
+
+00:10:05.000 --> 00:10:08.000
+Wenn Sie sich nun diese Bilddatei anschauen -
+
+00:10:08.000 --> 00:10:10.000
+nun, hier ist der Header des Bildes
+
+00:10:10.000 --> 00:10:13.000
+und dort beginnt der eigentliche Code des Angriffs.
+
+00:10:13.000 --> 00:10:15.000
+Und dieser Code wurde verschlüsselt,
+
+00:10:15.000 --> 00:10:17.000
+also lassen Sie uns ihn entschlüsseln.
+
+00:10:17.000 --> 00:10:19.000
+Er würde verschlüsselt mit XOR function 97.
+
+00:10:19.000 --> 00:10:21.000
+Sie müssen mir das einfach mal glauben,
+
+00:10:21.000 --> 00:10:23.000
+es stimmt, es stimmt.
+
+00:10:23.000 --> 00:10:25.000
+Und wir können hier hingehen
+
+00:10:25.000 --> 00:10:27.000
+und damit anfangen, ihn zu entschlüsseln.
+
+00:10:27.000 --> 00:10:29.000
+Der gelbe Teil des Codes ist jetzt entschlüsselt.
+
+00:10:29.000 --> 00:10:32.000
+Und ich weiß, es sieht im Grunde nicht viel anders aus als das Original.

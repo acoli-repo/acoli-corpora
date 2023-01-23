@@ -1,0 +1,40 @@
+WEBVTT
+
+00:13:27.000 --> 00:13:30.000
+auch rapide.
+
+00:13:30.000 --> 00:13:33.000
+Sie alle haben von Dingen wie Stuxnet gehört.
+
+00:13:33.000 --> 00:13:36.000
+Wenn man sich anschaut, was Stuxnet getan hat,
+
+00:13:36.000 --> 00:13:38.000
+dann sieht man, dass es diese Geräte hier infiziert hat.
+
+00:13:38.000 --> 00:13:41.000
+Das ist ein Siemens S7-400 PLC,
+
+00:13:41.000 --> 00:13:43.000
+ein programmierbarer logischer Controller.
+
+00:13:43.000 --> 00:13:46.000
+Und das ist, was unsere Infrastruktur kontrolliert.
+
+00:13:46.000 --> 00:13:49.000
+Das ist, was alles um uns herum steuert.
+
+00:13:49.000 --> 00:13:52.000
+PLCs, diese kleinen Geräte, die kein Display haben,
+
+00:13:52.000 --> 00:13:54.000
+keine Tastatur,
+
+00:13:54.000 --> 00:13:56.000
+die programmiert werden, eingerichtet werden und ihren Job machen.
+
+00:13:56.000 --> 00:13:58.000
+Die Aufzüge in diesem Gebäude zum Beispiel
+
+00:13:58.000 --> 00:14:02.000
+werden höchst wahrscheinlich von einem dieser Geräte gesteuert.

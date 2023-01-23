@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+In sostanza, se cercate di vedere questo file di immagine sul vostro PC,
+
+00:10:02.000 --> 00:10:05.000
+di fatto prende il controllo del vostro PC e attiva il codice.
+
+00:10:05.000 --> 00:10:08.000
+Ora, se date un'occhiata a questo file di immagine --
+
+00:10:08.000 --> 00:10:10.000
+c'è l'intestazione dell'immagine,
+
+00:10:10.000 --> 00:10:13.000
+e qui il vero codice che inizia l'attacco.
+
+00:10:13.000 --> 00:10:15.000
+Questo codice è stato criptato,
+
+00:10:15.000 --> 00:10:17.000
+quindi lo drecriptiamo.
+
+00:10:17.000 --> 00:10:19.000
+E' stato criptato con XOR function 97.
+
+00:10:19.000 --> 00:10:21.000
+Credetemi e basta,
+
+00:10:21.000 --> 00:10:23.000
+è così.
+
+00:10:23.000 --> 00:10:25.000
+E possiamo andare qui
+
+00:10:25.000 --> 00:10:27.000
+e cominciare a decriptarlo.
+
+00:10:27.000 --> 00:10:29.000
+La parte gialla del codice ora è decifrata.
+
+00:10:29.000 --> 00:10:32.000
+E lo so, non sembra molto diverso dall'originale.

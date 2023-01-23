@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:28.000 --> 00:05:31.000
+Esimerkiksi Gmail on tällainen palvelu.
+
+00:05:31.000 --> 00:05:33.000
+Useimmat meistä käyttävät
+
+00:05:33.000 --> 00:05:35.000
+Gmailia tai vastaavaa webmailia.
+
+00:05:35.000 --> 00:05:37.000
+Mutta nämä palvelut ovat erityisen suosittuja
+
+00:05:37.000 --> 00:05:39.000
+totalitarisissa valtioissa.
+
+00:05:39.000 --> 00:05:41.000
+Kuten Iranissa,
+
+00:05:41.000 --> 00:05:43.000
+missä toisinajattelijat
+
+00:05:43.000 --> 00:05:46.000
+käyttävät ulkomaisia palveluita, kuten Gmail,
+
+00:05:46.000 --> 00:05:49.000
+koska heidän kotimaansa vastaaviin palveluihin ei voi luottaa.
+
+00:05:49.000 --> 00:05:52.000
+Ja koska Gmail-yhteydet ovat SSL-salattuja,
+
+00:05:52.000 --> 00:05:54.000
+paikallinen hallitus ei voi salakuunnella
+
+00:05:54.000 --> 00:05:56.000
+heidän viestintäänsä.
+
+00:05:56.000 --> 00:05:59.000
+Mutta jos hallitus murtautuu ulkomaiseen CA:han
+
+00:05:59.000 --> 00:06:01.000
+ja luo väärennettyjä sertifikaatteja

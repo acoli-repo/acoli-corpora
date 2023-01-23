@@ -1,0 +1,37 @@
+WEBVTT
+
+00:10:29.000 --> 00:10:32.000
+And I know, it doesn't really look much different from the original.
+
+00:10:32.000 --> 00:10:34.000
+But just keep staring at it.
+
+00:10:34.000 --> 00:10:36.000
+You'll actually see that down here
+
+00:10:36.000 --> 00:10:38.000
+you can see a Web address:
+
+00:10:38.000 --> 00:10:44.000
+unionseek.com/d/ioo.exe
+
+00:10:44.000 --> 00:10:46.000
+And when you view this image on your computer
+
+00:10:46.000 --> 00:10:48.000
+it actually is going to download and run that program.
+
+00:10:48.000 --> 00:10:51.000
+And that's a backdoor which will take over your computer.
+
+00:10:51.000 --> 00:10:53.000
+But even more interestingly,
+
+00:10:53.000 --> 00:10:55.000
+if we continue decrypting,
+
+00:10:55.000 --> 00:10:57.000
+we'll find this mysterious string,
+
+00:10:57.000 --> 00:11:02.000
+which says O600KO78RUS.

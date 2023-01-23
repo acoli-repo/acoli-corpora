@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:31.000
+to globally police operations like this.
+
+00:09:31.000 --> 00:09:33.000
+So the Internet is as if
+
+00:09:33.000 --> 00:09:35.000
+someone would have given free plane tickets
+
+00:09:35.000 --> 00:09:38.000
+to all the online criminals of the world.
+
+00:09:38.000 --> 00:09:41.000
+Now, criminals who weren't capable of reaching us before
+
+00:09:41.000 --> 00:09:43.000
+can reach us.
+
+00:09:43.000 --> 00:09:46.000
+So how do you actually go around finding online criminals?
+
+00:09:46.000 --> 00:09:48.000
+How do you actually track them down?
+
+00:09:48.000 --> 00:09:50.000
+Let me give you an example.
+
+00:09:50.000 --> 00:09:53.000
+What we have here is one exploit file.
+
+00:09:53.000 --> 00:09:57.000
+Here, I'm looking at the Hex dump of an image file,
+
+00:09:57.000 --> 00:09:59.000
+which contains an exploit.
+
+00:09:59.000 --> 00:10:02.000
+And that basically means, if you're trying to view this image file on your Windows computer,

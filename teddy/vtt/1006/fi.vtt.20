@@ -1,0 +1,42 @@
+WEBVTT
+
+00:09:59.520 --> 00:10:02.520
+Se tarkoittaa, että jos yrität katsoa
+tätä kuvaa Windows-tietokoneella,
+
+00:10:02.520 --> 00:10:05.430
+se ottaa koneesi haltuun ja
+ajaa haitallista koodia.
+
+00:10:05.980 --> 00:10:08.380
+Katsotaanpa tarkemmin tätä tiedostoa.
+
+00:10:08.380 --> 00:10:10.350
+Tässä ovat kuvatiedoston otsikkotiedot.
+
+00:10:10.350 --> 00:10:13.520
+Ja tässä varsinainen hyökkäyskoodi.
+
+00:10:13.520 --> 00:10:15.070
+Koodi on salakirjoitettu,
+
+00:10:15.070 --> 00:10:16.580
+joten puretaan se.
+
+00:10:16.580 --> 00:10:19.580
+Se on XOR-salattu avaimella 97.
+
+00:10:19.580 --> 00:10:21.820
+Nyt teidän täytyy vain luottaa minuun.
+
+00:10:21.820 --> 00:10:23.500
+Mutta näin se on.
+
+00:10:24.580 --> 00:10:26.580
+Nyt voimme ryhtyä
+
+00:10:26.580 --> 00:10:27.910
+purkamaan salakirjoitusta.
+
+00:10:27.910 --> 00:10:30.550
+Keltainen koodi on purettua koodia.

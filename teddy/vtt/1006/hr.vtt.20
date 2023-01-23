@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+A to zapravo znači da, ako pokušate otvoriti tu slikovnu datoteku na svojem računalu s Windowsima,
+
+00:10:02.000 --> 00:10:05.000
+ona bi preuzela vaše računalo i pokrenula neki kod.
+
+00:10:05.000 --> 00:10:08.000
+Pogledajmo zato tu slikovnu datoteku --
+
+00:10:08.000 --> 00:10:10.000
+ovo je zaglavlje datoteke,
+
+00:10:10.000 --> 00:10:13.000
+a ovo je kod kojim napad zapravo počinje.
+
+00:10:13.000 --> 00:10:15.000
+A taj je kod kriptiran
+
+00:10:15.000 --> 00:10:17.000
+pa ćemo ga dekriptirati.
+
+00:10:17.000 --> 00:10:19.000
+Enkriptiran je XOR funkcijom 97.
+
+00:10:19.000 --> 00:10:21.000
+Morat ćete mi vjerovati na riječ,
+
+00:10:21.000 --> 00:10:23.000
+zaista je tako.
+
+00:10:23.000 --> 00:10:25.000
+Možemo krenuti od ove točke
+
+00:10:25.000 --> 00:10:27.000
+i početi se dekripcijom.
+
+00:10:27.000 --> 00:10:29.000
+Žuto označen dio koda sada je dekriptiran.
+
+00:10:29.000 --> 00:10:32.000
+I znam, ne izgleda toliko različito od izvornika.

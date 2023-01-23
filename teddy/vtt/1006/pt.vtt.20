@@ -1,0 +1,38 @@
+WEBVTT
+
+00:09:59.590 --> 00:10:03.250
+Isso significa que, se tentarem ver 
+esta imagem no vosso computador Windows,
+
+00:10:03.250 --> 00:10:06.220
+a imagem toma o vosso computador
+de assalto e executa o código.
+
+00:10:06.240 --> 00:10:08.690
+Se olharem para este ficheiro de imagem
+
+00:10:08.690 --> 00:10:10.660
+— temos aqui o cabeçalho da imagem
+
+00:10:10.660 --> 00:10:13.500
+e aqui é onde o código de ataque começa.
+
+00:10:13.500 --> 00:10:15.230
+Este código foi encriptado,
+
+00:10:15.230 --> 00:10:17.220
+por isso vamos desencriptá-lo.
+
+00:10:17.220 --> 00:10:20.030
+Foi encriptado com a função XOR 97.
+
+00:10:20.760 --> 00:10:22.850
+Têm que acreditar em mim,
+
+00:10:24.550 --> 00:10:27.500
+Podemos vir aqui
+e começar a desencriptá-lo.
+
+00:10:27.840 --> 00:10:30.460
+A parte amarela do código
+está agora desencriptada.

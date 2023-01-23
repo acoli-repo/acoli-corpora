@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+Przy próbie otworzenia go w Windowsie
+
+00:10:02.000 --> 00:10:05.000
+uruchamia się ten kod.
+
+00:10:05.000 --> 00:10:08.000
+Spójrzcie na ten plik,
+
+00:10:08.000 --> 00:10:10.000
+to nagłówek obrazka,
+
+00:10:10.000 --> 00:10:13.000
+a to kod gdzie zaczyna się atak.
+
+00:10:13.000 --> 00:10:15.000
+Ten kod jest zaszyfrowany,
+
+00:10:15.000 --> 00:10:17.000
+więc go odszyfrujmy.
+
+00:10:17.000 --> 00:10:19.000
+Zaszyfrowany funkcją XOR 97.
+
+00:10:19.000 --> 00:10:21.000
+Uwierzcie mi, że tak jest.
+
+00:10:21.000 --> 00:10:23.000
+Uwierzcie mi, że tak jest.
+
+00:10:23.000 --> 00:10:25.000
+Możemy pójść tu,
+
+00:10:25.000 --> 00:10:27.000
+i go odszyfrować.
+
+00:10:27.000 --> 00:10:29.000
+Zółty kod jest odszyfrowany.
+
+00:10:29.000 --> 00:10:32.000
+Wygląda podobnie do oryginału,

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+Ez azt jelenti, hogy ha megpróbáljuk megnézni ezt a képet egy Windowsos
+
+00:10:02.000 --> 00:10:05.000
+számítógépen, akkor átveszi a vezérlést és programot futat.
+
+00:10:05.000 --> 00:10:08.000
+Ha megnézzük ezt a képállományt --
+
+00:10:08.000 --> 00:10:10.000
+itt van a kép fejléce,
+
+00:10:10.000 --> 00:10:13.000
+és ott indul a valódi támadó program.
+
+00:10:13.000 --> 00:10:15.000
+És azt a programot titkosították,
+
+00:10:15.000 --> 00:10:17.000
+tehát megfejtjük.
+
+00:10:17.000 --> 00:10:19.000
+A XOR 97 függvénnyel volt titkosítva.
+
+00:10:19.000 --> 00:10:21.000
+Csak higgyék el nekem,
+
+00:10:21.000 --> 00:10:23.000
+hogy így van!
+
+00:10:23.000 --> 00:10:25.000
+És most már elmehetünk ide,
+
+00:10:25.000 --> 00:10:27.000
+és valóban megfejtjük a programot.
+
+00:10:27.000 --> 00:10:29.000
+A sárga része a programnak most már meg van fejtve.
+
+00:10:29.000 --> 00:10:32.000
+Tudom, hogy nem látszik nagyon különbözőnek az eredetitől.

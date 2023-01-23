@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:59.000 --> 00:10:02.000
+Kjo do të thotë që nëse provoni ta shihni këtë figurë në kompjuterin tuaj Windows,
+
+00:10:02.000 --> 00:10:05.000
+ajo do të marrë në dorë kompjuterin dhe do të xhirojë kod.
+
+00:10:05.000 --> 00:10:08.000
+Po t'i hidhni një sy kësaj kartele figure --
+
+00:10:08.000 --> 00:10:10.000
+ka një titull figure,
+
+00:10:10.000 --> 00:10:13.000
+dhe me të fillon kodi i vërtetë i sulmit.
+
+00:10:13.000 --> 00:10:15.000
+Dhe ky kod është i shifruar,
+
+00:10:15.000 --> 00:10:17.000
+le ta deshifrojmë.
+
+00:10:17.000 --> 00:10:19.000
+Është koduar me funksionin XOR 97.
+
+00:10:19.000 --> 00:10:21.000
+Thjesht u zini besë fjalëve të mia,
+
+00:10:21.000 --> 00:10:23.000
+me të është shifruar.
+
+00:10:23.000 --> 00:10:25.000
+Dhe mund kalojmë këtu
+
+00:10:25.000 --> 00:10:27.000
+dhe të zëmë e ta deshifrojmë.
+
+00:10:27.000 --> 00:10:29.000
+Pra pjesa e verdhë e kodit tani është deshifruar.
+
+00:10:29.000 --> 00:10:32.000
+E di, nuk duket se ndryshon kushedi çë nga origjinali.

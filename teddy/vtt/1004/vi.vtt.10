@@ -1,0 +1,37 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:02.000
+nếu có ai đó phải chết
+
+00:05:02.000 --> 00:05:05.000
+vì việc DigiNotar bị tấn công.
+
+00:05:05.000 --> 00:05:10.000
+Và "CÓ" là câu trả lời của ông ta.
+
+00:05:10.000 --> 00:05:12.000
+Làm thế nào mà việc tấn công này
+
+00:05:12.000 --> 00:05:15.000
+có thể khiến ai đó mất mạng được?
+
+00:05:15.000 --> 00:05:17.000
+DigiNotar là một công ty cung cấp dịch vụ chứng thực
+
+00:05:17.000 --> 00:05:19.000
+Họ bán các chứng chỉ bảo mật
+
+00:05:19.000 --> 00:05:21.000
+Bạn sẽ làm gì với những chứng chỉ đó?
+
+00:05:21.000 --> 00:05:23.000
+Thực tế thì bạn cần một chứng thực như vậy
+
+00:05:23.000 --> 00:05:25.000
+nếu bạn có một trang web sử dụng giao thức https
+
+00:05:25.000 --> 00:05:28.000
+với dịch vụ mã hóa SSL,
+
+00:05:28.000 --> 00:05:31.000
+là kiểu dịch vụ mà Gmail đang sử dụng.

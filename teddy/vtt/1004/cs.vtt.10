@@ -1,0 +1,37 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:02.000
+že lidé zemřeli
+
+00:05:02.000 --> 00:05:05.000
+kvůli nabourání DigiNotaru.
+
+00:05:05.000 --> 00:05:10.000
+A jeho odpověď byla: ano.
+
+00:05:10.000 --> 00:05:12.000
+Takže jak lidé umírají
+
+00:05:12.000 --> 00:05:15.000
+důsledkem podobného nabourání?
+
+00:05:15.000 --> 00:05:17.000
+DigiNotar je certifikátní autoritou (CA).
+
+00:05:17.000 --> 00:05:19.000
+Prodávají certifikáty.
+
+00:05:19.000 --> 00:05:21.000
+Co děláte s certifikáty?
+
+00:05:21.000 --> 00:05:23.000
+Potřebujete certifikát,
+
+00:05:23.000 --> 00:05:25.000
+pokud chcete mít webovou stránku, která má https,
+
+00:05:25.000 --> 00:05:28.000
+služby kódované SSL,
+
+00:05:28.000 --> 00:05:31.000
+služby jako Gmail.

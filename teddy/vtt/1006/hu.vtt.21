@@ -1,0 +1,37 @@
+WEBVTT
+
+00:10:29.000 --> 00:10:32.000
+Tudom, hogy nem látszik nagyon különbözőnek az eredetitől.
+
+00:10:32.000 --> 00:10:34.000
+De csak nézzék tovább!
+
+00:10:34.000 --> 00:10:36.000
+Itt lent valóban láthatnak
+
+00:10:36.000 --> 00:10:38.000
+egy web címet:
+
+00:10:38.000 --> 00:10:44.000
+unionseek.com/d/ioo.exe
+
+00:10:44.000 --> 00:10:46.000
+Amikor megnézik ezt a képet a gépükön,
+
+00:10:46.000 --> 00:10:48.000
+valójában lefogja tölteni és futatja azt a programot.
+
+00:10:48.000 --> 00:10:51.000
+Az pedig egy backdoor (hátsó ajtó) program, ami átveszi a gépük vezérlését.
+
+00:10:51.000 --> 00:10:53.000
+De még érdekesebb,
+
+00:10:53.000 --> 00:10:55.000
+hogy ha folytatjuk a megfejtést,
+
+00:10:55.000 --> 00:10:57.000
+egy titokzatos karakterláncot találunk,
+
+00:10:57.000 --> 00:11:02.000
+vagyis ezt a kódot: O600KO78RUS.

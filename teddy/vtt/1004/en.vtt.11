@@ -1,0 +1,35 @@
+WEBVTT
+
+00:05:28.465 --> 00:05:31.214
+services like Gmail.
+
+00:05:32.103 --> 00:05:35.764
+Now we all, or a big part of us,
+use Gmail or one of their competitors,
+
+00:05:35.788 --> 00:05:41.576
+but these services are especially popular
+in totalitarian states like Iran,
+
+00:05:41.600 --> 00:05:46.576
+where dissidents
+use foreign services like Gmail
+
+00:05:46.600 --> 00:05:49.791
+because they know they are more
+trustworthy than the local services
+
+00:05:49.815 --> 00:05:52.576
+and they are encrypted
+over SSL connections,
+
+00:05:52.600 --> 00:05:55.904
+so the local government
+can't snoop on their discussions.
+
+00:05:56.936 --> 00:05:58.280
+Except they can,
+
+00:05:58.304 --> 00:06:02.155
+if they hack into a foreign CA
+and issue rogue certificates.

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:13:27.000 --> 00:13:30.000
+gan greitai.
+
+00:13:30.000 --> 00:13:33.000
+Jūs visi girdėjote apie tokius dalykus kaip Stuxnet.
+
+00:13:33.000 --> 00:13:36.000
+Jeigu pažiūrėtume, ką Stuxnet padarė,
+
+00:13:36.000 --> 00:13:38.000
+tai jie užkrėtė štai ką.
+
+00:13:38.000 --> 00:13:41.000
+Štai Siemens S7-400 PLC,
+
+00:13:41.000 --> 00:13:43.000
+programuojamas loginis valdymo blokas.
+
+00:13:43.000 --> 00:13:46.000
+Ir štai kas valdo mūsų infrastruktūrą.
+
+00:13:46.000 --> 00:13:49.000
+Štai kas valdo viską aplink mus.
+
+00:13:49.000 --> 00:13:52.000
+PLC, tos mažos dėžutės, neturinčios ekrano,
+
+00:13:52.000 --> 00:13:54.000
+klaviatūros,
+
+00:13:54.000 --> 00:13:56.000
+kurios yra užprogramuotos, įdedamos į savo vietą ir kurios atlieka savo darbą.
+
+00:13:56.000 --> 00:13:58.000
+Pavyzdžiui, liftai šiame pastate,
+
+00:13:58.000 --> 00:14:02.000
+yra labai galimas daiktas, kad kontroliuojami šių daikčiukų.

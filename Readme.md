@@ -1,6 +1,6 @@
 # ACoLi Corpora
 
-Various open source corpora assembled, annotated or maintained by the Applied Computational Linguistics (ACoLi) group at Goethe University Frankfurt, Germany.
+Various open source corpora assembled, annotated or maintained by the Applied Computational Linguistics (ACoLi) group at the University of Augsburg, Germany (since 2023), resp. at Goethe University Frankfurt, Germany (2013-2022).
 
 Currently covering 1000+ languages in five, partially overlapping collections:
 
