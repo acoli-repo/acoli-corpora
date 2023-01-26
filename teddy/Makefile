@@ -54,9 +54,13 @@ update_sources:
 			for sub in $$subs; do \
 				wget -nc https://hls.ted.com/project_masters/$$file/$$sub -O vtt/$$file/`basename $$sub` 2>/dev/null;\
 			done;\
-			if [ -e `grep -l "Sorry, we could not find subtitles" vtt/$$file/* | head -n 1` ]; then \
-				rm `grep -l "Sorry, we could not find subtitles" vtt/$$file/*`; \
-			fi;\
+			for dir in vtt/$$file/; do \
+				if echo `grep -l "Sorry, we could not find subtitles" $$dir/*` | egrep -m 1 . >&/dev/null; then \
+					rm `grep -l "Sorry, we could not find subtitles" $$dir/*`; \
+					echo -n $$dir' ' 1>&2; \
+					if rmdir vtt/$$file 2>/dev/null; then echo ' empty' 1>&2; else echo ' '; ls vtt/$$file | perl -pe 's/\s/ /g; s/\.vtt//g;' 1>&2; echo 1>&2; fi;\
+				fi;\
+			done;\
 			if rmdir vtt/$$file 2>/dev/null; then echo ' empty' 1>&2; else echo ' '; ls vtt/$$file | perl -pe 's/\s/ /g; s/\.vtt//g;' 1>&2; echo 1>&2; fi;\
 		fi;\
 	done;
@@ -69,8 +73,7 @@ update_sources:
 # automatically called after make update_sources
 update_segments: vtt
 	for dir in vtt/*/; do \
-		if [ -e `grep -l "Sorry, we could not find subtitles" $$dir/* | head -n 1` ]; then \
-			echo `grep -l "Sorry, we could not find subtitles" $$dir/* | head -n 1`; \
+		if echo `grep -l "Sorry, we could not find subtitles" $$dir/*` | egrep -m 1 . >&/dev/null; then \
 			rm `grep -l "Sorry, we could not find subtitles" $$dir/*`; \
 			echo -n $$dir' ' 1>&2; \
 			if rmdir vtt/$$file 2>/dev/null; then echo ' empty' 1>&2; else echo ' '; ls vtt/$$file | perl -pe 's/\s/ /g; s/\.vtt//g;' 1>&2; echo 1>&2; fi;\
