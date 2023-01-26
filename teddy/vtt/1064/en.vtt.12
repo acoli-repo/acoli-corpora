@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:57.648 --> 00:06:00.490
+And it does that avoiding obstacles.
+
+00:06:01.053 --> 00:06:04.616
+So these minimum-snap trajectories
+in this flat space are then transformed
+
+00:06:04.640 --> 00:06:07.965
+back into this complicated
+12-dimensional space,
+
+00:06:07.989 --> 00:06:10.975
+which the robot must do
+for control and then execution.
+
+00:06:11.489 --> 00:06:13.029
+So let me show you some examples
+
+00:06:13.053 --> 00:06:15.830
+of what these minimum-snap
+trajectories look like.
+
+00:06:15.854 --> 00:06:17.005
+And in the first video,
+
+00:06:17.029 --> 00:06:19.758
+you'll see the robot going
+from point A to point B,
+
+00:06:19.782 --> 00:06:21.405
+through an intermediate point.
+
+00:06:21.730 --> 00:06:24.460
+(Whirring noise)
+
+00:06:28.117 --> 00:06:31.738
+So the robot is obviously capable
+of executing any curve trajectory.

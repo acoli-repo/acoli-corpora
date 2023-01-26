@@ -1,0 +1,46 @@
+WEBVTT
+
+00:05:29.000 --> 00:05:31.000
+Ez a négydimenziós tér pedig
+
+00:05:31.000 --> 00:05:34.000
+az X, Y, Z tengelyből és a kitérés 
+szögéből áll.
+
+00:05:34.000 --> 00:05:36.000
+A robot dolga megtervezni
+
+00:05:36.000 --> 00:05:40.000
+az úgynevezett 
+"legkisebb csapódású röppályát".
+
+00:05:40.000 --> 00:05:42.000
+Egy kis fizikai emlékeztető:
+
+00:05:42.000 --> 00:05:44.000
+a hely deriváltja a sebesség,
+
+00:05:44.000 --> 00:05:46.000
+majd a gyorsulás,
+
+00:05:46.000 --> 00:05:48.000
+aztán rándulás
+
+00:05:48.000 --> 00:05:50.000
+és azt követi a csapódás.
+
+00:05:50.000 --> 00:05:53.000
+A robot a csapódást minimalizálja.
+
+00:05:53.000 --> 00:05:55.000
+Ennek eredményeként
+
+00:05:55.000 --> 00:05:57.000
+egy sima és kecses mozgás áll elő.
+
+00:05:57.000 --> 00:06:00.000
+És így képes elkerülni az akadályokat.
+
+00:06:00.000 --> 00:06:03.000
+Az ebben a lapos térben lévő 
+csapódási pályákat

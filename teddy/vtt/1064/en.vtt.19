@@ -1,0 +1,41 @@
+WEBVTT
+
+00:09:26.385 --> 00:09:30.733
+Plus, the robots have to base
+their actions only on local information --
+
+00:09:30.757 --> 00:09:32.876
+what they sense from their neighbors.
+
+00:09:32.900 --> 00:09:34.286
+And then finally,
+
+00:09:34.310 --> 00:09:38.410
+we insist that the robots be agnostic
+to who their neighbors are.
+
+00:09:38.434 --> 00:09:40.551
+So this is what we call anonymity.
+
+00:09:41.998 --> 00:09:48.415
+So what I want to show you next
+is a video of 20 of these little robots,
+
+00:09:48.439 --> 00:09:49.976
+flying in formation.
+
+00:09:50.884 --> 00:09:53.780
+They're monitoring
+their neighbors' positions.
+
+00:09:53.804 --> 00:09:55.706
+They're maintaining formation.
+
+00:09:55.730 --> 00:09:57.510
+The formations can change.
+
+00:09:57.534 --> 00:09:59.213
+They can be planar formations,
+
+00:09:59.237 --> 00:10:01.340
+they can be three-dimensional formations.

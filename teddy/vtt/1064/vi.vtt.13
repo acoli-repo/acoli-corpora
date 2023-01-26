@@ -1,0 +1,44 @@
+WEBVTT
+
+00:06:28.117 --> 00:06:31.738
+Robot có khả năng tự di chuyển
+trên mọi quỹ đạo cong khác nhau.
+
+00:06:31.762 --> 00:06:33.170
+Đây là các quỹ đạo tròn,
+
+00:06:33.190 --> 00:06:36.060
+tại đó robot chịu gia tốc hướng tâm
+khoảng 2 g.
+
+00:06:37.584 --> 00:06:41.286
+Một camera bắt chuyển động
+được gắn trên đầu robot
+
+00:06:41.310 --> 00:06:44.516
+cho phép robot tự định vị
+với tần số 100 lần mỗi giây.
+
+00:06:44.540 --> 00:06:47.056
+Nó giúp robot nhận biết
+vị trí chướng ngại vật,
+
+00:06:47.880 --> 00:06:49.436
+Và nếu các chướng ngại di động.
+
+00:06:49.460 --> 00:06:52.587
+Bạn thấy Daniel
+đang ném lên một chiếc vòng,
+
+00:06:52.611 --> 00:06:55.270
+robot sẽ tính toán vị trí chiếc vòng đó,
+
+00:06:55.294 --> 00:06:58.174
+và tìm cách vượt qua chướng ngại.
+
+00:06:58.742 --> 00:06:59.976
+Là các nhà khoa học,
+
+00:07:00.000 --> 00:07:02.328
+chúng tôi được rèn luyện
+để vượt qua chướng ngại,

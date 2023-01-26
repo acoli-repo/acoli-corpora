@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:57.000 --> 00:05:00.000
+sau pot fi trimişi în clădirile reactoarelor
+
+00:05:00.000 --> 00:05:03.000
+să carografieze nivelul radiaţiilor.
+
+00:05:04.000 --> 00:05:06.000
+Deci, o problemă fundamentală
+
+00:05:06.000 --> 00:05:09.000
+pe care trebuie s-o rezolve roboţii dacă vor fi autonomi
+
+00:05:09.000 --> 00:05:11.000
+e să-şi dea seama de fapt
+
+00:05:11.000 --> 00:05:13.000
+cum să ajungă de la punctul A la B.
+
+00:05:13.000 --> 00:05:15.000
+Aşa că devine o provocare
+
+00:05:15.000 --> 00:05:18.000
+pentru că dinamica acestui robot e destul de complicată.
+
+00:05:18.000 --> 00:05:20.000
+De fapt ei trăiesc într-un spaţiu cu 12 dimensiuni.
+
+00:05:20.000 --> 00:05:22.000
+Aşa că folosim un mic truc.
+
+00:05:22.000 --> 00:05:25.000
+Luăm acest spaţiu curbat cu 12 dimensiuni
+
+00:05:25.000 --> 00:05:27.000
+şi îl transformăm
+
+00:05:27.000 --> 00:05:29.000
+într-un spaţiu uniform cu 4 dimensiuni.
+
+00:05:29.000 --> 00:05:31.000
+Şi acel spaţiu cu 4 dimensiuni

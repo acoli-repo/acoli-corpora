@@ -1,0 +1,39 @@
+WEBVTT
+
+00:04:58.808 --> 00:05:00.390
+or sent into reactor buildings,
+
+00:05:00.414 --> 00:05:02.033
+to map radiation levels.
+
+00:05:04.323 --> 00:05:07.844
+So one fundamental problem
+that the robots have to solve
+
+00:05:07.868 --> 00:05:09.447
+if they are to be autonomous,
+
+00:05:09.471 --> 00:05:12.976
+is essentially figuring out how to get
+from point A to point B.
+
+00:05:13.677 --> 00:05:15.344
+So this gets a little challenging,
+
+00:05:15.368 --> 00:05:18.375
+because the dynamics of this robot
+are quite complicated.
+
+00:05:18.399 --> 00:05:20.891
+In fact, they live
+in a 12-dimensional space.
+
+00:05:21.264 --> 00:05:22.708
+So we use a little trick.
+
+00:05:22.732 --> 00:05:26.145
+We take this curved 12-dimensional space,
+
+00:05:26.169 --> 00:05:30.063
+and transform it into a flat,
+four-dimensional space.

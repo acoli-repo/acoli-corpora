@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+est en fait équipé d'une caméra
+
+00:12:01.000 --> 00:12:04.000
+et d'un pointeur laser H, un scanner laser.
+
+00:12:04.000 --> 00:12:06.000
+Et il utilise ces capteurs
+
+00:12:06.000 --> 00:12:08.000
+pour élaborer une carte de l'environnement.
+
+00:12:08.000 --> 00:12:11.000
+La carte se compose de caractéristiques --
+
+00:12:11.000 --> 00:12:13.000
+comme des portes, fenêtres,
+
+00:12:13.000 --> 00:12:15.000
+les gens, les meubles -
+
+00:12:15.000 --> 00:12:17.000
+et ensuite il calcule sa position
+
+00:12:17.000 --> 00:12:19.000
+par rapport aux caractéristiques.
+
+00:12:19.000 --> 00:12:21.000
+Il n'y a pas de système de coordonnées global.
+
+00:12:21.000 --> 00:12:24.000
+Le système de coordonnées est défini d'après le robot,
+
+00:12:24.000 --> 00:12:27.000
+où il se trouve et ce qu'il regarde.
+
+00:12:27.000 --> 00:12:30.000
+Et il navigue en fonction de ces caractéristiques.
+
+00:12:30.000 --> 00:12:32.000
+Je tiens donc à vous montrer un clip

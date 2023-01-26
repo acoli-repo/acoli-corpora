@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:57.000 --> 00:05:00.000
+lub do radioaktywnych budynków
+
+00:05:00.000 --> 00:05:03.000
+w celu zmierzenia poziomu promieniowania.
+
+00:05:04.000 --> 00:05:06.000
+Głównym problemem,
+
+00:05:06.000 --> 00:05:09.000
+jaki roboty muszą rozwiązać, jeśli mają być autonomiczne,
+
+00:05:09.000 --> 00:05:11.000
+to zasadniczo odkrycie
+
+00:05:11.000 --> 00:05:13.000
+jak dostać się z punktu A do puntu B.
+
+00:05:13.000 --> 00:05:15.000
+Jest to nie lada wyzwanie,
+
+00:05:15.000 --> 00:05:18.000
+ponieważ dynamika tego robota jest dość skomplikowana.
+
+00:05:18.000 --> 00:05:20.000
+Funkcjonują dosłownie w 12-wymiarowej przestrzeni.
+
+00:05:20.000 --> 00:05:22.000
+Używamy więc pewnej sztuczki.
+
+00:05:22.000 --> 00:05:25.000
+Bierzemy tę zakrzywioną 12-wymiarową przestrzeń
+
+00:05:25.000 --> 00:05:27.000
+i ją modyfikujemy
+
+00:05:27.000 --> 00:05:29.000
+w płaską przestrzeń 4-wymiarową.
+
+00:05:29.000 --> 00:05:31.000
+A ta przestrzeń 4-wymiarowa

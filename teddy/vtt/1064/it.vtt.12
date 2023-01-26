@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:57.000 --> 00:06:00.000
+E lo fa evitando eventuali ostacoli.
+
+00:06:00.000 --> 00:06:03.000
+Dunque queste traiettorie a scatto ridotto nello spazio piatto
+
+00:06:03.000 --> 00:06:05.000
+vengono adattate
+
+00:06:05.000 --> 00:06:07.000
+a questo complicato spazio 12-dimensionale,
+
+00:06:07.000 --> 00:06:09.000
+che il robot deve analizzare
+
+00:06:09.000 --> 00:06:11.000
+e poi eseguire.
+
+00:06:11.000 --> 00:06:13.000
+Lasciate che vi mostri alcuni esempi
+
+00:06:13.000 --> 00:06:15.000
+di questo tipo di traiettoria.
+
+00:06:15.000 --> 00:06:17.000
+Nel primo video
+
+00:06:17.000 --> 00:06:19.000
+vediamo il robot che va da A a B passando
+
+00:06:19.000 --> 00:06:21.000
+per un punto intermedio.
+
+00:06:27.000 --> 00:06:29.000
+Ovviamente il robot riesce a eseguire
+
+00:06:29.000 --> 00:06:31.000
+qualsiasi traiettoria curva.

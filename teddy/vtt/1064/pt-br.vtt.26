@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:58.000 --> 00:13:00.000
+Na verdade, este robô está sendo comandado
+
+00:13:00.000 --> 00:13:02.000
+remotamente por Frank.
+
+00:13:02.000 --> 00:13:04.000
+Mas o robô também pode determinar
+
+00:13:04.000 --> 00:13:06.000
+onde ir por ele mesmo.
+
+00:13:06.000 --> 00:13:08.000
+Suponha que eu fosse enviar isto a um edifício
+
+00:13:08.000 --> 00:13:10.000
+e não tivesse ideia de como é esse edifício,
+
+00:13:10.000 --> 00:13:12.000
+posso pedir ao robô para entrar,
+
+00:13:12.000 --> 00:13:14.000
+criar um mapa,
+
+00:13:14.000 --> 00:13:17.000
+então voltar e me dizer como é o edifício.
+
+00:13:17.000 --> 00:13:20.000
+Aqui, o robô não está apenas resolvendo um problema,
+
+00:13:20.000 --> 00:13:23.000
+como ir do ponto A para o ponto B neste mapa,
+
+00:13:23.000 --> 00:13:25.000
+mas também determinando
+
+00:13:25.000 --> 00:13:27.000
+qual é o melhor ponto B a cada vez.
+
+00:13:27.000 --> 00:13:30.000
+Basicamente ele sabe aonde ir
+
+00:13:30.000 --> 00:13:32.000
+para procurar locais que tenham menos informação.

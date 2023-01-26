@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.000 --> 00:05:31.000
+Und dieser vier-dimensionale Raum
+
+00:05:31.000 --> 00:05:34.000
+besteht aus X, Y, Z und dem Gierwinkel.
+
+00:05:34.000 --> 00:05:36.000
+Der Roboter also
+
+00:05:36.000 --> 00:05:40.000
+plant etwas, das wir eine Bahnkurve mit minimalem Snap nennen.
+
+00:05:40.000 --> 00:05:42.000
+Eine kurze Auffrischung Ihrer Physikkenntnisse:
+
+00:05:42.000 --> 00:05:44.000
+Es gibt den Ort, die Geschwindigkeit als Ableitung,
+
+00:05:44.000 --> 00:05:46.000
+dann Beschleunigung,
+
+00:05:46.000 --> 00:05:48.000
+und dann kommt Ruck,
+
+00:05:48.000 --> 00:05:50.000
+und dann kommt "Snap".
+
+00:05:50.000 --> 00:05:53.000
+Und dieser Roboter minimiert Snap.
+
+00:05:53.000 --> 00:05:55.000
+Und was das im Endeffekt ergibt,
+
+00:05:55.000 --> 00:05:57.000
+ist eine glatte und anmutige Bewegung.
+
+00:05:57.000 --> 00:06:00.000
+Und er macht das, während er Hindernissen ausweicht.
+
+00:06:00.000 --> 00:06:03.000
+Diese Trajektorien mit minimalem Snap in diesem flachen Raum

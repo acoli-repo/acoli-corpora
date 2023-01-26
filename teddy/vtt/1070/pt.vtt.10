@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:02.000
+de levar os engenheiros de manutenção à loucura,
+
+00:05:02.000 --> 00:05:05.000
+pois não seriam capazes de descobrir a origem do problema rapidamente.
+
+00:05:05.000 --> 00:05:08.000
+A bomba digital maior -- decidimos atacá-la
+
+00:05:08.000 --> 00:05:10.000
+olhando muito atentamente
+
+00:05:10.000 --> 00:05:12.000
+para os dados e as estruturas de dados.
+
+00:05:12.000 --> 00:05:14.000
+Por exemplo, o número 164
+
+00:05:14.000 --> 00:05:16.000
+destaca-se bastante no código;
+
+00:05:16.000 --> 00:05:18.000
+não se pode desprezar.
+
+00:05:18.000 --> 00:05:20.000
+Comecei a pesquisar literatura científica
+
+00:05:20.000 --> 00:05:22.000
+sobre como estes centrifugadores
+
+00:05:22.000 --> 00:05:24.000
+são realmente construídos em Natanz
+
+00:05:24.000 --> 00:05:26.000
+e descobri que eles são estruturados
+
+00:05:26.000 --> 00:05:28.000
+naquilo a que se chama uma cascata,
+
+00:05:28.000 --> 00:05:32.000
+e cada cascata contém 164 centrifugadoras.

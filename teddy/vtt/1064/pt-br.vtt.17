@@ -1,0 +1,46 @@
+WEBVTT
+
+00:08:27.000 --> 00:08:30.000
+Estas formigas não têm nenhum coordenador central.
+
+00:08:30.000 --> 00:08:32.000
+Elas sentem seus vizinhos.
+
+00:08:32.000 --> 00:08:34.000
+Não há comunicação explícita.
+
+00:08:34.000 --> 00:08:36.000
+Mas, porque elas percebem os vizinhos
+
+00:08:36.000 --> 00:08:38.000
+e porque percebem o objeto,
+
+00:08:38.000 --> 00:08:41.000
+elas têm coordenação implícita através do grupo.
+
+00:08:41.000 --> 00:08:43.000
+Este é o tipo de coordenação
+
+00:08:43.000 --> 00:08:46.000
+que queremos que nossos robôs tenham.
+
+00:08:46.000 --> 00:08:48.000
+Então, quando temos um robô
+
+00:08:48.000 --> 00:08:50.000
+que está rodeado por vizinhos --
+
+00:08:50.000 --> 00:08:52.000
+vamos olhar para o robô I e o robô J --
+
+00:08:52.000 --> 00:08:54.000
+o que queremos que os robôs façam
+
+00:08:54.000 --> 00:08:57.000
+é monitorar o espaço entre eles,
+
+00:08:57.000 --> 00:08:59.000
+enquanto voam em formação.
+
+00:08:59.000 --> 00:09:01.000
+Portanto você quer ter certeza

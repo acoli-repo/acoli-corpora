@@ -1,0 +1,53 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:01.000
+ovi znakovi u obliku ribe
+i neki drugi znakovi
+
+00:08:01.000 --> 00:08:03.000
+ali nikad ovi drugi
+znakovi na dnu.
+
+00:08:03.000 --> 00:08:05.000
+Štaviše, neki znakovi
+
+00:08:05.000 --> 00:08:07.000
+se često javljaju na kraju tekstova,
+
+00:08:07.000 --> 00:08:09.000
+kao ovaj znak u obliku tegle,
+
+00:08:09.000 --> 00:08:11.000
+a ovaj znak, u stvari,
+
+00:08:11.000 --> 00:08:13.000
+je znak koji se najčešće
+javlja u indskom pismu.
+
+00:08:13.000 --> 00:08:16.000
+Na osnovu ovih šablona,
+imali smo sledeću ideju.
+
+00:08:16.000 --> 00:08:18.000
+Ideja je bila da se koristi računar
+
+00:08:18.000 --> 00:08:20.000
+koji bi naučio ove šablone.
+
+00:08:20.000 --> 00:08:23.000
+te smo postojeće tekstove
+prebacili u računar.
+
+00:08:23.000 --> 00:08:25.000
+Računar je sastavio 
+statistički model
+
+00:08:25.000 --> 00:08:27.000
+simbola koji se javljaju zajedno
+
+00:08:27.000 --> 00:08:29.000
+i koji simboli slede jedni druge.
+
+00:08:29.000 --> 00:08:31.000
+Uzevši u obzir ovaj
+računarski model,

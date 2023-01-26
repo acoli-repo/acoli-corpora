@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:57.000 --> 00:06:00.000
+A vyhýbá se překážkám.
+
+00:06:00.000 --> 00:06:03.000
+Tyto minimální snapové trasy v plochém prostoru
+
+00:06:03.000 --> 00:06:05.000
+jsou posléze převedeny zpět
+
+00:06:05.000 --> 00:06:07.000
+do komplikovaného dvanáctirozměrného prostoru,
+
+00:06:07.000 --> 00:06:09.000
+ve kterém se robot nachází,
+
+00:06:09.000 --> 00:06:11.000
+pohybuje a jedná.
+
+00:06:11.000 --> 00:06:13.000
+Dovolte mi ukázat vám nějaké příklady
+
+00:06:13.000 --> 00:06:15.000
+toho, jak tyto minimální snapové trasy vypadají.
+
+00:06:15.000 --> 00:06:17.000
+V prvním videu
+
+00:06:17.000 --> 00:06:19.000
+uvidíte robot, který se přesunuje z bodu A do bodu B
+
+00:06:19.000 --> 00:06:21.000
+skrze středový bod.
+
+00:06:27.000 --> 00:06:29.000
+Robot je očividně schopný
+
+00:06:29.000 --> 00:06:31.000
+procházet jakkoli zakřivenou trasu.

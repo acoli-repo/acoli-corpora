@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.000 --> 00:05:31.000
+Y ese espacio de 4 dimensiones
+
+00:05:31.000 --> 00:05:34.000
+está formado por X, Y, Z y el ángulo de viraje.
+
+00:05:34.000 --> 00:05:36.000
+Así, el robot planifica
+
+00:05:36.000 --> 00:05:40.000
+lo que denominamos la trayectoria de sacudida mínima.
+
+00:05:40.000 --> 00:05:42.000
+Recordando un poco de física,
+
+00:05:42.000 --> 00:05:44.000
+tenemos la posición, la derivada, la velocidad,
+
+00:05:44.000 --> 00:05:46.000
+luego la aceleración,
+
+00:05:46.000 --> 00:05:48.000
+luego viene el tirón
+
+00:05:48.000 --> 00:05:50.000
+y después la sacudida (snap).
+
+00:05:50.000 --> 00:05:53.000
+Este robot minimiza la sacudida.
+
+00:05:53.000 --> 00:05:55.000
+Y eso da como resultado
+
+00:05:55.000 --> 00:05:57.000
+un movimiento suave y elegante.
+
+00:05:57.000 --> 00:06:00.000
+Y todo eso, evitando obstáculos.
+
+00:06:00.000 --> 00:06:03.000
+Estas trayectorias de sacudida mínima en el espacio plano

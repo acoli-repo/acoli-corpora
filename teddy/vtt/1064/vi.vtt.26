@@ -1,0 +1,39 @@
+WEBVTT
+
+00:12:58.544 --> 00:13:02.977
+Thực ra con robot này đang bị Frank
+điều khiển từ xa,
+
+00:13:03.001 --> 00:13:06.540
+nhưng tự nó cũng có thể tìm đường đi.
+
+00:13:06.865 --> 00:13:09.072
+Hãy giả sử tôi phải vào một căn nhà,
+
+00:13:09.096 --> 00:13:11.398
+mà tôi không hề biết cấu trúc của nó.
+
+00:13:11.422 --> 00:13:12.866
+Tôi sẽ cho robot vào trước,
+
+00:13:12.890 --> 00:13:14.794
+dựng bản đồ,
+
+00:13:14.818 --> 00:13:17.683
+sau đó quay lại
+và cho tôi biết cấu trúc của nó.
+
+00:13:17.707 --> 00:13:20.875
+Vậy là robot không chỉ
+biết giải quyết các vấn đề như
+
+00:13:20.899 --> 00:13:23.533
+làm thế nào để đi từ điểm A tới điểm B
+trong bản đồ,
+
+00:13:23.557 --> 00:13:27.956
+nó còn luôn tìm ra điểm B tối ưu,
+hay đích đến tốt nhất mọi.
+
+00:13:27.980 --> 00:13:30.034
+Về cơ bản là nó biết đi tới đâu,

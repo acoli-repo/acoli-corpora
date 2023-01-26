@@ -1,0 +1,42 @@
+WEBVTT
+
+00:12:58.544 --> 00:13:02.977
+So this robot is actually being
+commanded remotely by Frank,
+
+00:13:03.001 --> 00:13:06.540
+but the robot can also figure out
+where to go on its own.
+
+00:13:06.865 --> 00:13:09.072
+So suppose I were to send
+this into a building,
+
+00:13:09.096 --> 00:13:11.398
+and I had no idea
+what this building looked like.
+
+00:13:11.422 --> 00:13:12.866
+I can ask this robot to go in,
+
+00:13:12.890 --> 00:13:14.794
+create a map,
+
+00:13:14.818 --> 00:13:17.683
+and then come back and tell me
+what the building looks like.
+
+00:13:17.707 --> 00:13:20.875
+So here, the robot is not
+only solving the problem
+
+00:13:20.899 --> 00:13:23.533
+of how to go from point A
+to point B in this map,
+
+00:13:23.557 --> 00:13:27.956
+but it's figuring out what the best
+point B is at every time.
+
+00:13:27.980 --> 00:13:30.034
+So essentially it knows where to go

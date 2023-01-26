@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+wurde mit einer Kamera ausgestattet,
+
+00:12:01.000 --> 00:12:04.000
+und einem Laser-Entfernungsmesser, einem Laser-Scanner.
+
+00:12:04.000 --> 00:12:06.000
+Und er benutzt diese Sensoren,
+
+00:12:06.000 --> 00:12:08.000
+um eine Karte der Umgebung aufzubauen.
+
+00:12:08.000 --> 00:12:11.000
+Diese Karte besteht aus besonderen Merkmalen
+
+00:12:11.000 --> 00:12:13.000
+wie Türen, Fenster
+
+00:12:13.000 --> 00:12:15.000
+Personen, Möbelstücke –
+
+00:12:15.000 --> 00:12:17.000
+und bestimmt dann seine Position
+
+00:12:17.000 --> 00:12:19.000
+relativ zu diesen Merkmalen.
+
+00:12:19.000 --> 00:12:21.000
+Es gibt also kein globales Koordinatensystem.
+
+00:12:21.000 --> 00:12:24.000
+Das Koordinatensystem basiert auf dem Roboter,
+
+00:12:24.000 --> 00:12:27.000
+wo er ist und was er anschaut.
+
+00:12:27.000 --> 00:12:30.000
+Und er navigiert relativ zu diesen Merkmalen.
+
+00:12:30.000 --> 00:12:32.000
+Ich möchte in einem kurzen Film

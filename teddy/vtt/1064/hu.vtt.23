@@ -1,0 +1,40 @@
+WEBVTT
+
+00:11:28.000 --> 00:11:31.000
+három különböző struktúra építése látható.
+
+00:11:31.000 --> 00:11:33.000
+Ez ismét egy teljesen autonóm folyamat,
+
+00:11:33.000 --> 00:11:35.000
+amihez Quentinnek mindössze
+
+00:11:35.000 --> 00:11:37.000
+az építendő szerkezetek
+
+00:11:37.000 --> 00:11:41.000
+tervrajzát kellett a robotoknak adnia.
+
+00:11:41.000 --> 00:11:44.000
+Az eddig bemutatott kísérletek
+
+00:11:44.000 --> 00:11:46.000
+valamennyien mozgásrögzítő rendszerek
+
+00:11:46.000 --> 00:11:49.000
+segítségével készültek.
+
+00:11:49.000 --> 00:11:51.000
+De mi történik, ha elhagyjuk a labort,
+
+00:11:51.000 --> 00:11:54.000
+és kilépünk a való világba?
+
+00:11:54.000 --> 00:11:57.000
+Mi van, ha nincs GPS-ünk?
+
+00:11:57.000 --> 00:11:59.000
+Nos, ez a robot
+
+00:11:59.000 --> 00:12:01.000
+rendelkezik egy kamerával,

@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:29.000 --> 00:06:31.000
+për ekzekutimin e çdo trajektore kurbë.
+
+00:06:31.000 --> 00:06:33.000
+Pra, këto janë trajektoret rrethore
+
+00:06:33.000 --> 00:06:36.000
+ku roboti shtyen rreth 2 G. (G: forca gravitacionale)
+
+00:06:37.000 --> 00:06:41.000
+Këtu kemi një kamer të montuar lart e cila kap imazhe në lëvizje
+
+00:06:41.000 --> 00:06:44.000
+e cila tregon se ku është roboti në 100 herë në sekond.
+
+00:06:44.000 --> 00:06:47.000
+gjithashtu i tregon robotit se ku janë pengesat.
+
+00:06:47.000 --> 00:06:49.000
+Edhe pengesat mund të lëvizin.
+
+00:06:49.000 --> 00:06:52.000
+Pra këtu kemi Danielin i cili hedh një rreth në ajër,
+
+00:06:52.000 --> 00:06:54.000
+ndërsa roboti po llogarit pozicionin e rrethit
+
+00:06:54.000 --> 00:06:58.000
+dhe po përpiqet të gjejë mënyrën më të mirë të kalimit përmes rrethit.
+
+00:06:58.000 --> 00:07:00.000
+Pra si një akademik,
+
+00:07:00.000 --> 00:07:03.000
+ne jemi stërvitur që gjithmonë të jemi në gjendje të hidhemi përmes rrathëve për të mbedhur fonde për laboratorët tanë,

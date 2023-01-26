@@ -1,0 +1,45 @@
+WEBVTT
+
+00:06:28.117 --> 00:06:31.738
+So the robot is obviously capable
+of executing any curve trajectory.
+
+00:06:31.762 --> 00:06:33.476
+So these are circular trajectories,
+
+00:06:33.500 --> 00:06:36.000
+where the robot pulls about two G's.
+
+00:06:37.584 --> 00:06:41.286
+Here you have overhead
+motion capture cameras on the top
+
+00:06:41.310 --> 00:06:44.516
+that tell the robot where it is
+100 times a second.
+
+00:06:44.540 --> 00:06:46.976
+It also tells the robot
+where these obstacles are.
+
+00:06:47.880 --> 00:06:49.436
+And the obstacles can be moving.
+
+00:06:49.460 --> 00:06:52.587
+And here, you'll see Daniel
+throw this hoop into the air,
+
+00:06:52.611 --> 00:06:55.270
+while the robot is calculating
+the position of the hoop,
+
+00:06:55.294 --> 00:06:58.174
+and trying to figure out how to best
+go through the hoop.
+
+00:06:58.742 --> 00:06:59.976
+So as an academic,
+
+00:07:00.000 --> 00:07:02.528
+we're always trained to be able
+to jump through hoops

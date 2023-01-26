@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.000 --> 00:05:31.000
+Cet espace quadri-dimensionnel
+
+00:05:31.000 --> 00:05:34.000
+se compose de X, Y, Z et de cet angle de lacet.
+
+00:05:34.000 --> 00:05:36.000
+Et ce que fait le robot
+
+00:05:36.000 --> 00:05:40.000
+est qu'il planifie ce que l'on appelle ...
+
+00:05:40.000 --> 00:05:42.000
+Pour vous rafraîchir en physique,
+
+00:05:42.000 --> 00:05:44.000
+vous avez la position, la dérivée, la vitesse,
+
+00:05:44.000 --> 00:05:46.000
+ensuite l'accélération,
+
+00:05:46.000 --> 00:05:48.000
+puis les saccades
+
+00:05:48.000 --> 00:05:50.000
+et enfin "snap".
+
+00:05:50.000 --> 00:05:53.000
+Ce robot minimise donc le "snap".
+
+00:05:53.000 --> 00:05:55.000
+Ce que cela fait concrètement
+
+00:05:55.000 --> 00:05:57.000
+est que ça produit un déplacement harmonieux et gracieux.
+
+00:05:57.000 --> 00:06:00.000
+Et ça le fait en évitant des obstacles.
+
+00:06:00.000 --> 00:06:03.000
+Ces trajectoires ... dans cet espace plat

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:02.000
+de rendre fou les ingénieurs,
+
+00:05:02.000 --> 00:05:05.000
+qui n'auraient pas été capables de résoudre cela rapidement.
+
+00:05:05.000 --> 00:05:08.000
+La grosse ogive numérique -- nous avons essayé
+
+00:05:08.000 --> 00:05:10.000
+en regardant de très près
+
+00:05:10.000 --> 00:05:12.000
+les données et les structures des données.
+
+00:05:12.000 --> 00:05:14.000
+Par exemple, le numéro 164
+
+00:05:14.000 --> 00:05:16.000
+est très présent dans ce code;
+
+00:05:16.000 --> 00:05:18.000
+on ne peut pas ne pas le voir.
+
+00:05:18.000 --> 00:05:20.000
+J'ai commencé à chercher dans la littérature scientifique
+
+00:05:20.000 --> 00:05:22.000
+sur la façon dont ces centrifugeuses
+
+00:05:22.000 --> 00:05:24.000
+sont en fait construites à Natanz
+
+00:05:24.000 --> 00:05:26.000
+et j'ai trouvé qu'elles sont structurées
+
+00:05:26.000 --> 00:05:28.000
+en ce que l'on appelle une cascade,
+
+00:05:28.000 --> 00:05:32.000
+et que chaque cascade contient 164 centrifugeuses.

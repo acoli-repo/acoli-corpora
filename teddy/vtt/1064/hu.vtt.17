@@ -1,0 +1,46 @@
+WEBVTT
+
+00:08:27.000 --> 00:08:30.000
+A hangyáknak nincs egyetlen parancsnokuk.
+
+00:08:30.000 --> 00:08:32.000
+Egyszerűen érzékelik a szomszédjaikat.
+
+00:08:32.000 --> 00:08:34.000
+Nincs köztük konkrét kommunikáció.
+
+00:08:34.000 --> 00:08:36.000
+De mivel érzékelik szomszédjaikat,
+
+00:08:36.000 --> 00:08:38.000
+és érzékelik a tárgyat, mégis kialakul
+
+00:08:38.000 --> 00:08:41.000
+egyfajta koordináció a csoportban.
+
+00:08:41.000 --> 00:08:43.000
+Pontosan ilyen koordinációt akarunk
+
+00:08:43.000 --> 00:08:46.000
+mi is elérni a robotok között.
+
+00:08:46.000 --> 00:08:48.000
+Ha van egy robotunk,
+
+00:08:48.000 --> 00:08:50.000
+amit körülvesznek a szomszédjai --
+
+00:08:50.000 --> 00:08:52.000
+legyen ez az I és J robot --
+
+00:08:52.000 --> 00:08:54.000
+azt akarjuk, hogy ezek
+
+00:08:54.000 --> 00:08:57.000
+figyeljék az egymás közti távolságot,
+
+00:08:57.000 --> 00:08:59.000
+amikor kötelékben repülnek.
+
+00:08:59.000 --> 00:09:01.000
+Azt akarjuk, hogy ez a távolság

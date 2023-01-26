@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:27.000 --> 00:12:30.000
+A robot sa naviguje podľa týchto čŕt.
+
+00:12:30.000 --> 00:12:32.000
+Chcel by som Vám ukázať video
+
+00:12:32.000 --> 00:12:34.000
+algoritmov, ktoré vytvorili Frank Shen
+
+00:12:34.000 --> 00:12:36.000
+a profesor Nathan Michael,
+
+00:12:36.000 --> 00:12:40.000
+v ktorom robot vstúpi do budovy po prvýkrát
+
+00:12:40.000 --> 00:12:43.000
+a za letu vytvára jej mapu.
+
+00:12:43.000 --> 00:12:46.000
+Takže robot si zistí, aké sú črty.
+
+00:12:46.000 --> 00:12:48.000
+Vytvorí mapu.
+
+00:12:48.000 --> 00:12:50.000
+Zistí si, kde sa nachádza, vzhľadom na tieto črty
+
+00:12:50.000 --> 00:12:52.000
+a odhaduje svoju pozíciu
+
+00:12:52.000 --> 00:12:54.000
+100-krát za sekundu,
+
+00:12:54.000 --> 00:12:56.000
+čo nám umožňuje využiť kontrolné algoritmy,
+
+00:12:56.000 --> 00:12:58.000
+ktoré som Vám popísal predtým.
+
+00:12:58.000 --> 00:13:00.000
+Tohto robota v skutočnosti ovláda
+
+00:13:00.000 --> 00:13:02.000
+na diaľku Frank.

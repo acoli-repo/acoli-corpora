@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+est en fait équipé d'une caméra,
+
+00:12:01.000 --> 00:12:04.000
+d'un laser télémétrique et d'un scanner laser.
+
+00:12:04.000 --> 00:12:06.000
+Et il utilise ces capteurs
+
+00:12:06.000 --> 00:12:08.000
+pour dessiner une carte de son environnement.
+
+00:12:08.000 --> 00:12:11.000
+Cette carte consiste en des élements --
+
+00:12:11.000 --> 00:12:13.000
+comme des portes, des fenêtres,
+
+00:12:13.000 --> 00:12:15.000
+des gens, des meubles --
+
+00:12:15.000 --> 00:12:17.000
+et ensuite, le robot détermine où il se trouve
+
+00:12:17.000 --> 00:12:19.000
+par rapport à ces éléments.
+
+00:12:19.000 --> 00:12:21.000
+Donc il n'y a pas de système central de coordination.
+
+00:12:21.000 --> 00:12:24.000
+Le système de coordination est défini en fonction du robot,
+
+00:12:24.000 --> 00:12:27.000
+où il se trouve et ce à quoi il s'intéresse.
+
+00:12:27.000 --> 00:12:30.000
+Et il s'oriente en fonction de ces éléments.
+
+00:12:30.000 --> 00:12:32.000
+Je voudrais vous montrer une vidéo

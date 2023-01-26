@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:58.000 --> 00:10:01.000
+Pe de alta parte, limbajul are un nivel intermediar de entropie;
+
+00:10:01.000 --> 00:10:03.000
+nu este nici prea rigid,
+
+00:10:03.000 --> 00:10:05.000
+nici foarte aleator.
+
+00:10:05.000 --> 00:10:07.000
+Ce putem spune despre scriitura Indus?
+
+00:10:07.000 --> 00:10:11.000
+Acesta este un grafic care reprezinta entropia unui întreg grup de secvențe.
+
+00:10:11.000 --> 00:10:13.000
+Sus este o secvență aleatoare uniformă
+
+00:10:13.000 --> 00:10:15.000
+care este un amalgam de litere --
+
+00:10:15.000 --> 00:10:17.000
+iar ceea ce am mai descoperit interesant a fost
+
+00:10:17.000 --> 00:10:20.000
+secvența de ADN a genomului uman și muzica instrumentală.
+
+00:10:20.000 --> 00:10:22.000
+Ambele sunt foarte, foarte flexibile,
+
+00:10:22.000 --> 00:10:24.000
+motiv pentru care se găsesc în zona de entropie ridicată.
+
+00:10:24.000 --> 00:10:26.000
+La partea inferioară a scalei
+
+00:10:26.000 --> 00:10:28.000
+se găsește o secvență rigidă, o secvență formată doar din A-uri,
+
+00:10:28.000 --> 00:10:30.000
+și, de asemenea, se mai găsește un program de calculator,
+
+00:10:30.000 --> 00:10:32.000
+în cazul acesta în limbajul Fortran

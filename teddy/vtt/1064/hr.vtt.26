@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:58.000 --> 00:13:00.000
+Dakle ovaj robot zaprima
+
+00:13:00.000 --> 00:13:02.000
+Frankove naredbe sa udaljene lokacije.
+
+00:13:02.000 --> 00:13:04.000
+Ali robot također može
+
+00:13:04.000 --> 00:13:06.000
+samostalno procijeniti gdje treba ići.
+
+00:13:06.000 --> 00:13:08.000
+Recimo da želim poslati robota u zgradu
+
+00:13:08.000 --> 00:13:10.000
+za koju nemam predodžbu o unutrašnjosti.
+
+00:13:10.000 --> 00:13:12.000
+Jednostavno pošaljem robota da
+
+00:13:12.000 --> 00:13:14.000
+kreira kartu (model)
+
+00:13:14.000 --> 00:13:17.000
+i pozovem ga nazad da mi predoči što je zabilježio.
+
+00:13:17.000 --> 00:13:20.000
+Dakle, robot ne samo da rješava problem
+
+00:13:20.000 --> 00:13:23.000
+kako stići od točke A do točke B na ovoj karti,
+
+00:13:23.000 --> 00:13:25.000
+nego i procjenjuje
+
+00:13:25.000 --> 00:13:27.000
+koja je optimalna točka B.
+
+00:13:27.000 --> 00:13:30.000
+U osnovi, robot zna da treba ići
+
+00:13:30.000 --> 00:13:32.000
+prema lokacijama o kojima ima najmanje informacija.

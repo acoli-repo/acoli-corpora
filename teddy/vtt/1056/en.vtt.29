@@ -1,0 +1,46 @@
+WEBVTT
+
+00:14:28.164 --> 00:14:30.044
+like, what are good learning strategies
+
+00:14:30.044 --> 00:14:32.740
+that are effective versus ones that are not?
+
+00:14:32.740 --> 00:14:34.980
+And in the context of particular courses,
+
+00:14:34.980 --> 00:14:36.517
+you can ask questions
+
+00:14:36.517 --> 00:14:39.772
+like, what are some of the misconceptions that are more common
+
+00:14:39.772 --> 00:14:41.949
+and how do we help students fix them?
+
+00:14:41.949 --> 00:14:43.373
+So here's an example of that,
+
+00:14:43.373 --> 00:14:45.389
+also from Andrew's Machine Learning class.
+
+00:14:45.389 --> 00:14:47.597
+This is a distribution of wrong answers
+
+00:14:47.597 --> 00:14:49.207
+to one of Andrew's assignments.
+
+00:14:49.207 --> 00:14:51.100
+The answers happen to be pairs of numbers,
+
+00:14:51.100 --> 00:14:53.371
+so you can draw them on this two-dimensional plot.
+
+00:14:53.371 --> 00:14:57.149
+Each of the little crosses that you see is a different wrong answer.
+
+00:14:57.149 --> 00:14:59.555
+The big cross at the top left
+
+00:14:59.555 --> 00:15:01.703
+is where 2,000 students

@@ -1,0 +1,45 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+rendelkezik egy kamerával,
+
+00:12:01.000 --> 00:12:04.000
+és egy lézeres távolságmérővel, 
+egy szkennerrel.
+
+00:12:04.000 --> 00:12:06.000
+Ezeket az érzékelőket használja
+
+00:12:06.000 --> 00:12:08.000
+környezetének feltérképezésére.
+
+00:12:08.000 --> 00:12:11.000
+Ez a térkép olyan dolgokat tartalmaz,
+
+00:12:11.000 --> 00:12:13.000
+mint ajtók, ablakok,
+
+00:12:13.000 --> 00:12:15.000
+emberek, bútorok,
+
+00:12:15.000 --> 00:12:17.000
+ezekből találja ki az aktuális helyzetét,
+
+00:12:17.000 --> 00:12:19.000
+a felsorolt objektumokhoz képest.
+
+00:12:19.000 --> 00:12:21.000
+Nem használ globális koordinátarendszert.
+
+00:12:21.000 --> 00:12:24.000
+A koordinátarendszer a roboton alapul,
+
+00:12:24.000 --> 00:12:27.000
+a pillanatnyi helyzetén, és azon, 
+amit éppen lát.
+
+00:12:27.000 --> 00:12:30.000
+Ezen objektumok alapján navigál.
+
+00:12:30.000 --> 00:12:32.000
+A most következő film

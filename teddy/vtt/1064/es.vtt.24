@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+está equipado con una cámara
+
+00:12:01.000 --> 00:12:04.000
+y un telémetro láser de Hokuyo.
+
+00:12:04.000 --> 00:12:06.000
+Y usa estos sensores
+
+00:12:06.000 --> 00:12:08.000
+para trazar un mapa del entorno.
+
+00:12:08.000 --> 00:12:11.000
+Ese mapa tiene características
+
+00:12:11.000 --> 00:12:13.000
+como puertas, ventanas,
+
+00:12:13.000 --> 00:12:15.000
+gente, muebles...
+
+00:12:15.000 --> 00:12:17.000
+y calcula su posición
+
+00:12:17.000 --> 00:12:19.000
+respecto de esas características.
+
+00:12:19.000 --> 00:12:21.000
+No hay sistema de posicionamiento global.
+
+00:12:21.000 --> 00:12:24.000
+El sistema de coordenadas se define respecto del robot,
+
+00:12:24.000 --> 00:12:27.000
+dónde está y hacia dónde mira.
+
+00:12:27.000 --> 00:12:30.000
+Y navega siguiendo estas características.
+
+00:12:30.000 --> 00:12:32.000
+Por eso quiero mostrarles un video

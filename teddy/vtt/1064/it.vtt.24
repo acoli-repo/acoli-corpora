@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+dispone di una videocamera
+
+00:12:01.000 --> 00:12:04.000
+e di un cercatore laser H, uno scansionatore laser.
+
+00:12:04.000 --> 00:12:06.000
+Usa questi sensori
+
+00:12:06.000 --> 00:12:08.000
+per creare una mappa dell'ambiente circostante.
+
+00:12:08.000 --> 00:12:11.000
+Nella mappa sono rappresentate
+
+00:12:11.000 --> 00:12:13.000
+porte, finestre,
+
+00:12:13.000 --> 00:12:15.000
+persone, mobilio,
+
+00:12:15.000 --> 00:12:17.000
+e il robot riesce a calcolare la propria posizione
+
+00:12:17.000 --> 00:12:19.000
+rispetto a questi oggetti.
+
+00:12:19.000 --> 00:12:21.000
+Quindi non c'è alcun sistema globale di coordinate.
+
+00:12:21.000 --> 00:12:24.000
+Questo sistema viene definito dallo stesso robot,
+
+00:12:24.000 --> 00:12:27.000
+dalla sua ubicazione e da ciò che vede.
+
+00:12:27.000 --> 00:12:30.000
+E naviga in base a questi parametri.
+
+00:12:30.000 --> 00:12:32.000
+Ora vi mostrerò un video

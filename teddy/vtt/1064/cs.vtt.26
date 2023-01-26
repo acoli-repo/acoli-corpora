@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:58.000 --> 00:13:00.000
+Tento robot je ovládán
+
+00:13:00.000 --> 00:13:02.000
+dálkově Frankem.
+
+00:13:02.000 --> 00:13:04.000
+Ale robot dovede zjistit,
+
+00:13:04.000 --> 00:13:06.000
+kam jít, i zcela sám.
+
+00:13:06.000 --> 00:13:08.000
+Představme si, že jsem jej poslal do budovy
+
+00:13:08.000 --> 00:13:10.000
+a nemám vůbec žádnou představu, jak budova vypadá,
+
+00:13:10.000 --> 00:13:12.000
+mohu poslat robota dovnitř,
+
+00:13:12.000 --> 00:13:14.000
+aby vytvořil mapu,
+
+00:13:14.000 --> 00:13:17.000
+a pak se vrátil a řekl mi, jak budova vypadá.
+
+00:13:17.000 --> 00:13:20.000
+A tak zde, robot neřeší jenom problém,
+
+00:13:20.000 --> 00:13:23.000
+jak se dostat z místa A do místa B na této mapě,
+
+00:13:23.000 --> 00:13:25.000
+ale zjišťuje,
+
+00:13:25.000 --> 00:13:27.000
+co je bod B.
+
+00:13:27.000 --> 00:13:30.000
+V podstatě ví, kam jít,
+
+00:13:30.000 --> 00:13:32.000
+aby se podíval po místech, o kterých má nejméně informací.

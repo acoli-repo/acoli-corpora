@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:58.000 --> 00:13:00.000
+Acest robot e comandat
+
+00:13:00.000 --> 00:13:02.000
+de la distanţă de Frank.
+
+00:13:02.000 --> 00:13:04.000
+Dar robotul îşi poate da seama
+
+00:13:04.000 --> 00:13:06.000
+de unul singur unde să meargă.
+
+00:13:06.000 --> 00:13:08.000
+Presupunem că trebuie să-l trimit într-o clădire
+
+00:13:08.000 --> 00:13:10.000
+şi n-am idee cum arată clădirea,
+
+00:13:10.000 --> 00:13:12.000
+Pot trimite robotul înăuntru,
+
+00:13:12.000 --> 00:13:14.000
+să creeze o hartă
+
+00:13:14.000 --> 00:13:17.000
+şi apoi să vină şi să-mi spună cum arată clădirea.
+
+00:13:17.000 --> 00:13:20.000
+Aici, robotul nu doar că rezolvă problema,
+
+00:13:20.000 --> 00:13:23.000
+cum să ajungă de la punctul A la B pe această hartă,
+
+00:13:23.000 --> 00:13:25.000
+dar îşi dă seama
+
+00:13:25.000 --> 00:13:27.000
+unde e cel mai bun punct B, în orice moment.
+
+00:13:27.000 --> 00:13:30.000
+În esenţă, ştie unde să se ducă
+
+00:13:30.000 --> 00:13:32.000
+să caute locuri despre care are cele mai puţine informaţii.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+je vybavený kamerou
+
+00:12:01.000 --> 00:12:04.000
+a laserovým dálkoměrem, laserovým scannerem.
+
+00:12:04.000 --> 00:12:06.000
+A používá tyto senzory
+
+00:12:06.000 --> 00:12:08.000
+k vybudování mapy prostředí.
+
+00:12:08.000 --> 00:12:11.000
+Tato mapa se skládá z prvků --
+
+00:12:11.000 --> 00:12:13.000
+jako jsou dveře, okna,
+
+00:12:13.000 --> 00:12:15.000
+lidé, nábytek --
+
+00:12:15.000 --> 00:12:17.000
+a pak zjišťuje, kde se nachází
+
+00:12:17.000 --> 00:12:19.000
+vzhledem k nim.
+
+00:12:19.000 --> 00:12:21.000
+Není zde žádný globální souřadnicový systém.
+
+00:12:21.000 --> 00:12:24.000
+Souřadnicový systém je určen dle robota,
+
+00:12:24.000 --> 00:12:27.000
+kde je a na co se dívá.
+
+00:12:27.000 --> 00:12:30.000
+A navádí jej s ohledem na tyto prvky.
+
+00:12:30.000 --> 00:12:32.000
+Chci vám ukázat nahrávku

@@ -1,0 +1,39 @@
+WEBVTT
+
+00:04:58.808 --> 00:05:00.390
+hoặc gửi vào lò phản ứng hạt nhân
+
+00:05:00.414 --> 00:05:02.243
+để vẽ bản đồ các mức phóng xạ.
+
+00:05:04.323 --> 00:05:07.864
+Bài toán cơ bản nhất
+mà các robot cần giải quyết
+
+00:05:07.884 --> 00:05:09.447
+nếu chúng được tự động hóa,
+
+00:05:09.471 --> 00:05:12.976
+là cơ bản phải tìm ra cách
+để đi từ điểm A tới điểm B.
+
+00:05:13.677 --> 00:05:15.344
+Đây là thử thách không nhỏ,
+
+00:05:15.368 --> 00:05:18.375
+vì cách vận hành
+của loại robot này rất phức tạp.
+
+00:05:18.399 --> 00:05:20.891
+Thật ra, chúng sống
+trong không gian 12 chiều.
+
+00:05:21.264 --> 00:05:22.708
+Nên chúng tôi dùng một cách.
+
+00:05:22.732 --> 00:05:26.145
+Chúng tôi lấy không gian cong 12 chiều này
+
+00:05:26.169 --> 00:05:30.063
+và chuyển đổi nó
+thành một không gian phẳng 4 chiều.

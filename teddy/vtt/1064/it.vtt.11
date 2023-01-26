@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.000 --> 00:05:31.000
+Quest'ultimo è costituito
+
+00:05:31.000 --> 00:05:34.000
+da X, Y, Z, e dall'angolo di imbardata.
+
+00:05:34.000 --> 00:05:36.000
+Quello che fa il robot
+
+00:05:36.000 --> 00:05:40.000
+è pianificare la traiettoria più breve e veloce.
+
+00:05:40.000 --> 00:05:42.000
+In fisica, come ricorderete,
+
+00:05:42.000 --> 00:05:44.000
+abbiamo posizione, derivata, velocità,
+
+00:05:44.000 --> 00:05:46.000
+poi accelerazione,
+
+00:05:46.000 --> 00:05:48.000
+quindi contrazione
+
+00:05:48.000 --> 00:05:50.000
+e poi scatto.
+
+00:05:50.000 --> 00:05:53.000
+E questo robot minimizza lo scatto.
+
+00:05:53.000 --> 00:05:55.000
+Di fatto produce
+
+00:05:55.000 --> 00:05:57.000
+un movimento lineare e aggraziato.
+
+00:05:57.000 --> 00:06:00.000
+E lo fa evitando eventuali ostacoli.
+
+00:06:00.000 --> 00:06:03.000
+Dunque queste traiettorie a scatto ridotto nello spazio piatto

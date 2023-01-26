@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:59.277 --> 00:09:00.758
+Chúng tôi muốn chắc chắn rằng
+
+00:09:00.782 --> 00:09:03.686
+khoảng cách này
+nằm trong khoảng cho phép.
+
+00:09:04.043 --> 00:09:06.511
+Một lần nữa, chúng theo dõi điều này
+
+00:09:06.535 --> 00:09:10.684
+và tính toán khoảng 100 lệnh điều khiển
+mỗi giây,
+
+00:09:10.708 --> 00:09:12.731
+sau đó chúng chuyển thành lệnh di chuyển
+
+00:09:12.755 --> 00:09:13.970
+600 lần mỗi giây.
+
+00:09:13.994 --> 00:09:17.216
+Việc này cần được mỗi thành viên
+trong đội hình tự thực hiện.
+
+00:09:17.525 --> 00:09:19.859
+Nếu bạn có rất nhiều con robot khác nhau,
+
+00:09:19.883 --> 00:09:23.160
+bạn không thể dùng một bộ não trung tâm
+để xử lý hết các thông tin
+
+00:09:23.184 --> 00:09:26.361
+với tốc độ đủ nhanh
+khi chúng thực hiện nhiệm vụ.
+
+00:09:26.385 --> 00:09:30.733
+Hơn nữa, các robot chỉ được phép tính toán
+dựa trên các thông tin tại chỗ,

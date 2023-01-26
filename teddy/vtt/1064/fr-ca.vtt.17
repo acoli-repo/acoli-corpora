@@ -1,0 +1,46 @@
+WEBVTT
+
+00:08:27.000 --> 00:08:30.000
+Ces fourmis n'ont pas de coordination centrale.
+
+00:08:30.000 --> 00:08:32.000
+Elles perçoivent leurs voisines.
+
+00:08:32.000 --> 00:08:34.000
+Il n'y a pas de communication explicite.
+
+00:08:34.000 --> 00:08:36.000
+Mais comme elles perçoivent leurs voisines
+
+00:08:36.000 --> 00:08:38.000
+ainsi que l'objet
+
+00:08:38.000 --> 00:08:41.000
+elles ont une coordination implicite parmi le groupe.
+
+00:08:41.000 --> 00:08:43.000
+C'est le type de coordination
+
+00:08:43.000 --> 00:08:46.000
+que nous souhaitons que nos robots aient.
+
+00:08:46.000 --> 00:08:48.000
+Donc notre robot
+
+00:08:48.000 --> 00:08:50.000
+est entouré de ses voisins --
+
+00:08:50.000 --> 00:08:52.000
+regardons les robots I et J --
+
+00:08:52.000 --> 00:08:54.000
+ce que nous voulons des robots
+
+00:08:54.000 --> 00:08:57.000
+c'est qu'ils gèrent l'espace entre eux
+
+00:08:57.000 --> 00:08:59.000
+alors qu'ils volent en formation.
+
+00:08:59.000 --> 00:09:01.000
+Ensuite, il faut s'assurer

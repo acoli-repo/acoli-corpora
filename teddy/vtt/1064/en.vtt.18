@@ -1,0 +1,41 @@
+WEBVTT
+
+00:08:59.277 --> 00:09:00.758
+And then you want to make sure
+
+00:09:00.782 --> 00:09:03.686
+that this separation
+is within acceptable levels.
+
+00:09:04.043 --> 00:09:06.511
+So again, the robots monitor this error
+
+00:09:06.535 --> 00:09:10.684
+and calculate the control commands
+100 times a second,
+
+00:09:10.708 --> 00:09:12.731
+which then translates into motor commands,
+
+00:09:12.755 --> 00:09:13.970
+600 times a second.
+
+00:09:13.994 --> 00:09:17.216
+So this also has to be done
+in a decentralized way.
+
+00:09:17.525 --> 00:09:19.859
+Again, if you have
+lots and lots of robots,
+
+00:09:19.883 --> 00:09:23.160
+it's impossible to coordinate
+all this information centrally
+
+00:09:23.184 --> 00:09:26.361
+fast enough in order for the robots
+to accomplish the task.
+
+00:09:26.385 --> 00:09:30.733
+Plus, the robots have to base
+their actions only on local information --

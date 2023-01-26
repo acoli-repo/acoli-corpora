@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:02.000
+de enlouquecer os engenheiros de mautenção,
+
+00:05:02.000 --> 00:05:05.000
+para que eles não fossem capazes de perceber isso rapidamente.
+
+00:05:05.000 --> 00:05:08.000
+A grande bomba digital -- tivemos uma visão disso
+
+00:05:08.000 --> 00:05:10.000
+observando detalhadamente
+
+00:05:10.000 --> 00:05:12.000
+os dados e estruturas de dados.
+
+00:05:12.000 --> 00:05:14.000
+Assim, por exemplo, o número 164
+
+00:05:14.000 --> 00:05:16.000
+realmente se destaca naquele código;
+
+00:05:16.000 --> 00:05:18.000
+não dá pra ignorar isso.
+
+00:05:18.000 --> 00:05:20.000
+Comecei a pesquisar na literatura científica
+
+00:05:20.000 --> 00:05:22.000
+como essas centrífugas
+
+00:05:22.000 --> 00:05:24.000
+são construídas de fato em Natanz
+
+00:05:24.000 --> 00:05:26.000
+e descobri que elas são estruturadas
+
+00:05:26.000 --> 00:05:28.000
+no que se chama de cascata,
+
+00:05:28.000 --> 00:05:32.000
+e cada cascata comporta 164 centrífugas.

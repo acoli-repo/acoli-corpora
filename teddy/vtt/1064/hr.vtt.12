@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:57.000 --> 00:06:00.000
+I to pri zaobilaženju zapreka.
+
+00:06:00.000 --> 00:06:03.000
+Dakle, putanje najmanje akceleracije u ovom ravninskom prostoru
+
+00:06:03.000 --> 00:06:05.000
+potom transformiramo nazad
+
+00:06:05.000 --> 00:06:07.000
+u složeni 12-dimenzionalni prostor,
+
+00:06:07.000 --> 00:06:09.000
+koje robot mora slijediti
+
+00:06:09.000 --> 00:06:11.000
+radi provjere i potom izvršavanja.
+
+00:06:11.000 --> 00:06:13.000
+Evo nekoliko primjera
+
+00:06:13.000 --> 00:06:15.000
+kako putanje najmanje akceleracije izgledaju.
+
+00:06:15.000 --> 00:06:17.000
+U prvoj snimci
+
+00:06:17.000 --> 00:06:19.000
+vidjet ćete kretanje robota od točke A do točke B
+
+00:06:19.000 --> 00:06:21.000
+ali kroz zadanu točku.
+
+00:06:27.000 --> 00:06:29.000
+Robot je sposoban
+
+00:06:29.000 --> 00:06:31.000
+pratiti zakrivljene putanje.

@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:27.000 --> 00:12:30.000
+A navádí jej s ohledem na tyto prvky.
+
+00:12:30.000 --> 00:12:32.000
+Chci vám ukázat nahrávku
+
+00:12:32.000 --> 00:12:34.000
+algoritmů vyvinutých Frankem Shenem
+
+00:12:34.000 --> 00:12:36.000
+a profesorem Nathanem Michaelem,
+
+00:12:36.000 --> 00:12:40.000
+která ukazuje tohoto robota vstupujícího úplně poprvé do budovy.
+
+00:12:40.000 --> 00:12:43.000
+A vytvářejícího tuto mapu za letu.
+
+00:12:43.000 --> 00:12:46.000
+Robot pak zjistí, jaké prvky tu jsou.
+
+00:12:46.000 --> 00:12:48.000
+A vybuduje si mapu.
+
+00:12:48.000 --> 00:12:50.000
+Zjistí, kde je s ohledem k těmto prvkům
+
+00:12:50.000 --> 00:12:52.000
+a poté odhadne svoji pozici,
+
+00:12:52.000 --> 00:12:54.000
+a to 100krát za sekundu,
+
+00:12:54.000 --> 00:12:56.000
+což mu dovolují řídicí algoritmy,
+
+00:12:56.000 --> 00:12:58.000
+které jsem popsal dříve.
+
+00:12:58.000 --> 00:13:00.000
+Tento robot je ovládán
+
+00:13:00.000 --> 00:13:02.000
+dálkově Frankem.

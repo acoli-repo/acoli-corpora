@@ -1,0 +1,46 @@
+WEBVTT
+
+00:08:27.000 --> 00:08:30.000
+Tihle mravenci nemají žádného ústředního koordinátora.
+
+00:08:30.000 --> 00:08:32.000
+Vnímají své sousedy.
+
+00:08:32.000 --> 00:08:34.000
+Není zde žádná explicitní komunikace.
+
+00:08:34.000 --> 00:08:36.000
+Protože vnímají jeden druhého,
+
+00:08:36.000 --> 00:08:38.000
+a protože vnímají předmět,
+
+00:08:38.000 --> 00:08:41.000
+mají implicitní koordinaci napříč skupinou.
+
+00:08:41.000 --> 00:08:43.000
+Tohle je typ koordinace,
+
+00:08:43.000 --> 00:08:46.000
+který chceme pro naše roboty.
+
+00:08:46.000 --> 00:08:48.000
+Takže když máme robot,
+
+00:08:48.000 --> 00:08:50.000
+který je obklopen svými sousedy --
+
+00:08:50.000 --> 00:08:52.000
+podívejme se na robot I a robot J --
+
+00:08:52.000 --> 00:08:54.000
+co chceme, aby tyto roboty udělaly,
+
+00:08:54.000 --> 00:08:57.000
+je, aby sledovaly vzdálenost mezi sebou,
+
+00:08:57.000 --> 00:08:59.000
+když letí ve formaci.
+
+00:08:59.000 --> 00:09:01.000
+A pak chceme zajistit

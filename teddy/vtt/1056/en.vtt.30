@@ -1,0 +1,43 @@
+WEBVTT
+
+00:14:59.555 --> 00:15:01.703
+is where 2,000 students
+
+00:15:01.703 --> 00:15:04.748
+gave the exact same wrong answer.
+
+00:15:04.748 --> 00:15:07.075
+Now, if two students in a class of 100
+
+00:15:07.075 --> 00:15:08.362
+give the same wrong answer,
+
+00:15:08.362 --> 00:15:09.713
+you would never notice.
+
+00:15:09.713 --> 00:15:12.273
+But when 2,000 students give the same wrong answer,
+
+00:15:12.273 --> 00:15:13.970
+it's kind of hard to miss.
+
+00:15:13.970 --> 00:15:16.162
+So Andrew and his students went in,
+
+00:15:16.162 --> 00:15:17.682
+looked at some of those assignments,
+
+00:15:17.682 --> 00:15:21.770
+understood the root cause of the misconception,
+
+00:15:21.770 --> 00:15:24.290
+and then they produced a targeted error message
+
+00:15:24.290 --> 00:15:26.539
+that would be provided to every student
+
+00:15:26.539 --> 00:15:28.718
+whose answer fell into that bucket,
+
+00:15:28.718 --> 00:15:30.802
+which means that students who made that same mistake

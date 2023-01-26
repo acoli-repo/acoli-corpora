@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:59.000 --> 00:09:01.000
+y asegurarnos
+
+00:09:01.000 --> 00:09:03.000
+de que la separación entre ellos sea aceptable.
+
+00:09:03.000 --> 00:09:06.000
+De nuevo, los robots controlan este error
+
+00:09:06.000 --> 00:09:08.000
+y calculan los comandos correctivos
+
+00:09:08.000 --> 00:09:10.000
+100 veces por segundo
+
+00:09:10.000 --> 00:09:13.000
+que luego se traducen en comandos al motor, 600 veces por segundo.
+
+00:09:13.000 --> 00:09:15.000
+Esto tiene que hacerse
+
+00:09:15.000 --> 00:09:17.000
+de manera descentralizada.
+
+00:09:17.000 --> 00:09:19.000
+Otra vez, si tenemos muchos robots
+
+00:09:19.000 --> 00:09:23.000
+es imposible coordinarlos con información centralizada
+
+00:09:23.000 --> 00:09:26.000
+lo suficientemente rápido como para que cumplan la tarea.
+
+00:09:26.000 --> 00:09:28.000
+Además, los robots tienen que basar sus acciones
+
+00:09:28.000 --> 00:09:30.000
+sólo en la información local
+
+00:09:30.000 --> 00:09:32.000
+que detecten de sus vecinos.

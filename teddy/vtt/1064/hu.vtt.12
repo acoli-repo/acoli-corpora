@@ -1,0 +1,41 @@
+WEBVTT
+
+00:05:57.000 --> 00:06:00.000
+És így képes elkerülni az akadályokat.
+
+00:06:00.000 --> 00:06:03.000
+Az ebben a lapos térben lévő 
+csapódási pályákat
+
+00:06:03.000 --> 00:06:05.000
+aztán visszatranszformáljuk
+
+00:06:05.000 --> 00:06:07.000
+a bonyolult, 12 dimenziós térbe,
+
+00:06:07.000 --> 00:06:09.000
+ahol a robotok
+
+00:06:09.000 --> 00:06:11.000
+vezérlése és működése zajlik.
+
+00:06:11.000 --> 00:06:13.000
+Hadd mutassam be, hogy is néznek ki
+
+00:06:13.000 --> 00:06:15.000
+a legkisebb csapódású pályák!
+
+00:06:15.000 --> 00:06:17.000
+Az első videón látjuk,
+
+00:06:17.000 --> 00:06:19.000
+amint a robot A pontból B-be jut
+
+00:06:19.000 --> 00:06:21.000
+egy köztes ponton keresztül.
+
+00:06:27.000 --> 00:06:29.000
+A robot jól láthatóan képes
+
+00:06:29.000 --> 00:06:31.000
+tetszőleges görbe pályát bejárni.

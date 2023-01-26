@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:29.000 --> 00:06:31.000
+cualquier trayectoria curva.
+
+00:06:31.000 --> 00:06:33.000
+En estas trayectorias circulares
+
+00:06:33.000 --> 00:06:36.000
+el robot experimenta unas dos fuerzas G.
+
+00:06:37.000 --> 00:06:41.000
+En la parte superior hay cámaras aéreas de captura de movimiento
+
+00:06:41.000 --> 00:06:44.000
+que le indican al robot dónde está, 100 veces por segundo.
+
+00:06:44.000 --> 00:06:47.000
+Además, le dicen dónde están los obstáculos.
+
+00:06:47.000 --> 00:06:49.000
+Los obstáculos pueden moverse.
+
+00:06:49.000 --> 00:06:52.000
+Y aquí vemos a Daniel lanzando el aro al aire
+
+00:06:52.000 --> 00:06:54.000
+mientras el robot calcula la posición del aro
+
+00:06:54.000 --> 00:06:58.000
+y trata de averiguar la mejor manera de atravesarlo.
+
+00:06:58.000 --> 00:07:00.000
+Como académicos,
+
+00:07:00.000 --> 00:07:03.000
+estamos entrenados para saltar aros y así conseguir fondos para el laboratorio

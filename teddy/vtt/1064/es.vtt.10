@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:57.000 --> 00:05:00.000
+o a edificios radiactivos
+
+00:05:00.000 --> 00:05:03.000
+para medir el nivel de radiación.
+
+00:05:04.000 --> 00:05:06.000
+Un problema fundamental
+
+00:05:06.000 --> 00:05:09.000
+que tienen que resolver los robots para ser autónomos
+
+00:05:09.000 --> 00:05:11.000
+es averiguar
+
+00:05:11.000 --> 00:05:13.000
+cómo llegar del punto A al punto B.
+
+00:05:13.000 --> 00:05:15.000
+Esto se hace un poco difícil
+
+00:05:15.000 --> 00:05:18.000
+porque la dinámica de este robot es muy complicada.
+
+00:05:18.000 --> 00:05:20.000
+De hecho, opera en un espacio de 12 dimensiones.
+
+00:05:20.000 --> 00:05:22.000
+Por eso usamos un truco.
+
+00:05:22.000 --> 00:05:25.000
+Usamos este espacio curvo de 12 dimensiones
+
+00:05:25.000 --> 00:05:27.000
+y lo transformamos
+
+00:05:27.000 --> 00:05:29.000
+en un espacio plano de 4 dimensiones.
+
+00:05:29.000 --> 00:05:31.000
+Y ese espacio de 4 dimensiones

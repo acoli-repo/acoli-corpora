@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:59.000 --> 00:09:01.000
+Ensuite, il faut s'assurer
+
+00:09:01.000 --> 00:09:03.000
+que la taille de cet écart est acceptable.
+
+00:09:03.000 --> 00:09:06.000
+Le robot suit cet écart
+
+00:09:06.000 --> 00:09:08.000
+et calcule les commandes
+
+00:09:08.000 --> 00:09:10.000
+100 fois par seconde,
+
+00:09:10.000 --> 00:09:13.000
+ce qui se transforme en ordres aux rotors 600 fois par seconde.
+
+00:09:13.000 --> 00:09:15.000
+Cela aussi doit être fait
+
+00:09:15.000 --> 00:09:17.000
+de façon décentralisée.
+
+00:09:17.000 --> 00:09:19.000
+Encore une fois, si vous avez de très nombreux robots,
+
+00:09:19.000 --> 00:09:23.000
+il est impossible de coordonner cette information centralement
+
+00:09:23.000 --> 00:09:26.000
+assez vite pour que les robots accomplissent leurs tâches.
+
+00:09:26.000 --> 00:09:28.000
+De plus, les robots doivent baser leurs actions
+
+00:09:28.000 --> 00:09:30.000
+uniquement sur des informations locales,
+
+00:09:30.000 --> 00:09:32.000
+ce qu'ils perçoivent de leurs voisins.

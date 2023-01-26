@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:29.000 --> 00:06:31.000
+jede Bahnkurve auszuführen.
+
+00:06:31.000 --> 00:06:33.000
+Das hier sind kreisförmige Bahnkurven,
+
+00:06:33.000 --> 00:06:36.000
+bei denen auf den Roboter 2 G wirken.
+
+00:06:37.000 --> 00:06:41.000
+Oben befinden sich Motion-Capture-Kameras,
+
+00:06:41.000 --> 00:06:44.000
+die dem Roboter 100 Mal pro Sekunde sagen, wo er ist.
+
+00:06:44.000 --> 00:06:47.000
+Sie sagen dem Roboter auch, wo diese Hindernisse sind.
+
+00:06:47.000 --> 00:06:49.000
+Und diese Hindernisse können sich auch bewegen.
+
+00:06:49.000 --> 00:06:52.000
+Und hier sehen Sie, wie Daniel diesen Reifen in die Luft wirft,
+
+00:06:52.000 --> 00:06:54.000
+während der Roboter die Position vom Reifen berechnet
+
+00:06:54.000 --> 00:06:58.000
+und versucht auszurechnen, wie er am Besten durch den Reifen kommt.
+
+00:06:58.000 --> 00:07:00.000
+Als Akademiker
+
+00:07:00.000 --> 00:07:03.000
+müssen wir ständig durch Reifen springen, um Sponsoren aufzutreiben,

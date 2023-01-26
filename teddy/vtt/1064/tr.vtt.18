@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:59.000 --> 00:09:01.000
+Ve bu mesafenin kabuledilebilir seviyelerde olduğundan
+
+00:09:01.000 --> 00:09:03.000
+emin olmak istiyorsunuz.
+
+00:09:03.000 --> 00:09:06.000
+Böylece tekrar robotlar bu hataları gözlemler ve
+
+00:09:06.000 --> 00:09:08.000
+daha sonra saniyede 600 kez hareket komutlarına çevirdikleri
+
+00:09:08.000 --> 00:09:10.000
+saniyede 100 kez olan
+
+00:09:10.000 --> 00:09:13.000
+kontrol komutlarını hesaplarlar.
+
+00:09:13.000 --> 00:09:15.000
+Bu merkezi olmayan bir yol ile de
+
+00:09:15.000 --> 00:09:17.000
+yapılabilir.
+
+00:09:17.000 --> 00:09:19.000
+Tekrar, eğer çok ama çok robotunuz varsa,
+
+00:09:19.000 --> 00:09:23.000
+görevi yerine getirebilmek için bu kadar hız ile bu bilgiyi merkezi olarak
+
+00:09:23.000 --> 00:09:26.000
+koordine etmeniz mümkün değildir.
+
+00:09:26.000 --> 00:09:28.000
+Ayrıca robotlar kendi hareketlerini diğer komuşlarından algıladıkları
+
+00:09:28.000 --> 00:09:30.000
+yalnızca lokal bilgiyi
+
+00:09:30.000 --> 00:09:32.000
+temel alırlar.

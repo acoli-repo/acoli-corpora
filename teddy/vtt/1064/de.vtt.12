@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:57.000 --> 00:06:00.000
+Und er macht das, während er Hindernissen ausweicht.
+
+00:06:00.000 --> 00:06:03.000
+Diese Trajektorien mit minimalem Snap in diesem flachen Raum
+
+00:06:03.000 --> 00:06:05.000
+werden dann zurücktransformiert
+
+00:06:05.000 --> 00:06:07.000
+in diesen komplizierten 12-dimensionalen Raum,
+
+00:06:07.000 --> 00:06:09.000
+und das muss der Roboter für die Kontrolle
+
+00:06:09.000 --> 00:06:11.000
+und die spätere Ausführung tun.
+
+00:06:11.000 --> 00:06:13.000
+Lassen Sie mich ein paar Beispiele zeigen,
+
+00:06:13.000 --> 00:06:15.000
+wie diese Flugbahnen mit minimalem Snap aussehen.
+
+00:06:15.000 --> 00:06:17.000
+In dem ersten Video
+
+00:06:17.000 --> 00:06:19.000
+werden Sie sehen, wie der Roboter von A nach B fliegt
+
+00:06:19.000 --> 00:06:21.000
+durch einen Zwischenpunkt.
+
+00:06:27.000 --> 00:06:29.000
+Der Roboter ist offensichtlich in der Lage,
+
+00:06:29.000 --> 00:06:31.000
+jede Bahnkurve auszuführen.

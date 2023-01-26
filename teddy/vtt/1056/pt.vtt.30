@@ -1,0 +1,43 @@
+WEBVTT
+
+00:15:00.167 --> 00:15:01.703
+representa a pergunta onde 2000 estudantes
+
+00:15:01.703 --> 00:15:04.748
+deram exatamente a mesma resposta errada.
+
+00:15:04.748 --> 00:15:07.075
+Agora, se dois alunos de uma turma de 100
+
+00:15:07.075 --> 00:15:08.362
+dessem a mesma resposta errada,
+
+00:15:08.362 --> 00:15:09.713
+nunca se notaria.
+
+00:15:09.713 --> 00:15:12.273
+Mas, quando 2000 alunos dão a mesma resposta errada,
+
+00:15:12.273 --> 00:15:13.970
+é um pouco difícil não notar.
+
+00:15:13.970 --> 00:15:16.162
+Então, quando o Andrew e os seus alunos
+
+00:15:16.162 --> 00:15:17.682
+analisaram alguns dos trabalhos,
+
+00:15:17.682 --> 00:15:21.770
+perceberam a causa da falha de entendimento
+
+00:15:21.770 --> 00:15:24.290
+e criaram uma mensagem de erro
+
+00:15:24.290 --> 00:15:26.539
+que seria mostrada a todos os alunos
+
+00:15:26.539 --> 00:15:28.718
+que tivessem dado aquela resposta,
+
+00:15:28.718 --> 00:15:30.802
+o que significa que os alunos que fizessem o mesmo erro

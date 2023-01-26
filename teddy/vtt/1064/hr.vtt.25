@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:27.000 --> 00:12:30.000
+I navođenje se odvija u odnosu na te objekte.
+
+00:12:30.000 --> 00:12:32.000
+Evo isječka
+
+00:12:32.000 --> 00:12:34.000
+s algoritmima koje je razvio Frank Shen
+
+00:12:34.000 --> 00:12:36.000
+i profesor Nathan Michael
+
+00:12:36.000 --> 00:12:40.000
+koji prikazuje robota kako ulazi u zgradu po prvi puta
+
+00:12:40.000 --> 00:12:43.000
+i stvara kartu u letu.
+
+00:12:43.000 --> 00:12:46.000
+Robot razaznaje objekte i
+
+00:12:46.000 --> 00:12:48.000
+iscrtava kartu (model).
+
+00:12:48.000 --> 00:12:50.000
+Izračunavajući udaljenosti do objekata
+
+00:12:50.000 --> 00:12:52.000
+robot određuje svoj položaj
+
+00:12:52.000 --> 00:12:54.000
+100 puta u sekundi
+
+00:12:54.000 --> 00:12:56.000
+uz korištenje kontrolnog algoritma
+
+00:12:56.000 --> 00:12:58.000
+koji sam opisao ranije.
+
+00:12:58.000 --> 00:13:00.000
+Dakle ovaj robot zaprima
+
+00:13:00.000 --> 00:13:02.000
+Frankove naredbe sa udaljene lokacije.

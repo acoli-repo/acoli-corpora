@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+je opremljen kamerom
+
+00:12:01.000 --> 00:12:04.000
+i laserskim daljinomjerom, laserskim skenerom.
+
+00:12:04.000 --> 00:12:06.000
+I koristi ove senzore
+
+00:12:06.000 --> 00:12:08.000
+kako bi izgradio kartu okruženja.
+
+00:12:08.000 --> 00:12:11.000
+Takva karta sadrži objekte --
+
+00:12:11.000 --> 00:12:13.000
+poput vrata, prozora,
+
+00:12:13.000 --> 00:12:15.000
+ljudi, namještaja --
+
+00:12:15.000 --> 00:12:17.000
+i onda robot procjenjuje gdje se nalazi
+
+00:12:17.000 --> 00:12:19.000
+u odnosu na te objekte.
+
+00:12:19.000 --> 00:12:21.000
+Sve bez globalnog koordinatnog sustava (GPS).
+
+00:12:21.000 --> 00:12:24.000
+Koordinatni sustav je definiran robotom,
+
+00:12:24.000 --> 00:12:27.000
+njegovim položajem, i time što promatra.
+
+00:12:27.000 --> 00:12:30.000
+I navođenje se odvija u odnosu na te objekte.
+
+00:12:30.000 --> 00:12:32.000
+Evo isječka

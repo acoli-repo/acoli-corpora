@@ -1,0 +1,40 @@
+WEBVTT
+
+00:11:57.495 --> 00:12:01.832
+So this robot is actually
+equipped with a camera,
+
+00:12:01.856 --> 00:12:04.229
+and a laser rangefinder, laser scanner.
+
+00:12:04.880 --> 00:12:08.800
+And it uses these sensors
+to build a map of the environment.
+
+00:12:08.824 --> 00:12:12.110
+What that map consists of are features --
+
+00:12:12.134 --> 00:12:16.005
+like doorways, windows,
+people, furniture --
+
+00:12:16.029 --> 00:12:18.172
+and it then figures out
+where its position is,
+
+00:12:18.196 --> 00:12:19.597
+with respect to the features.
+
+00:12:19.621 --> 00:12:21.831
+So there is no global coordinate system.
+
+00:12:21.855 --> 00:12:24.361
+The coordinate system
+is defined based on the robot,
+
+00:12:24.385 --> 00:12:26.442
+where it is and what it's looking at.
+
+00:12:27.315 --> 00:12:30.070
+And it navigates with respect
+to those features.

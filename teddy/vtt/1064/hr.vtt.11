@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.000 --> 00:05:31.000
+Ovaj 4-dimenzionalni prostor
+
+00:05:31.000 --> 00:05:34.000
+se sastoji od X, Y, Z i osnog kuta.
+
+00:05:34.000 --> 00:05:36.000
+Što je robotu činiti
+
+00:05:36.000 --> 00:05:40.000
+je isplanirati putanju najmanje akceleracije.
+
+00:05:40.000 --> 00:05:42.000
+Da se prisjetimo fizike,
+
+00:05:42.000 --> 00:05:44.000
+imamo položaj, te 1. derivaciju položaja - brzinu,
+
+00:05:44.000 --> 00:05:46.000
+zatim akceleraciju - 2. vremenska derivacija položaja (d2x/dt2)
+
+00:05:46.000 --> 00:05:48.000
+impuls - 3. derivacija položaja (d3x/dt3)
+
+00:05:48.000 --> 00:05:50.000
+'cimanje' - 4. derivacija položaja (d4x/dt4).
+
+00:05:50.000 --> 00:05:53.000
+Robot minimizira cimanje.
+
+00:05:53.000 --> 00:05:55.000
+Rezultat toga je
+
+00:05:55.000 --> 00:05:57.000
+glatko, ravnomjerno kretanje robota.
+
+00:05:57.000 --> 00:06:00.000
+I to pri zaobilaženju zapreka.
+
+00:06:00.000 --> 00:06:03.000
+Dakle, putanje najmanje akceleracije u ovom ravninskom prostoru

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.000 --> 00:05:31.000
+A tento štvorrozmerný priestor
+
+00:05:31.000 --> 00:05:34.000
+pozostáva z X, Y, Z a uhlu natočenia.
+
+00:05:34.000 --> 00:05:36.000
+Takže tento robot robí to,
+
+00:05:36.000 --> 00:05:40.000
+že plánuje niečo, čo sme nazvali minimálna snapová dráha.
+
+00:05:40.000 --> 00:05:42.000
+Aby som pripomenul fyziku,
+
+00:05:42.000 --> 00:05:44.000
+máme pozíciu, derivácia je rýchlosť,
+
+00:05:44.000 --> 00:05:46.000
+potom zrýchlenie,
+
+00:05:46.000 --> 00:05:48.000
+a potom ide ryv
+
+00:05:48.000 --> 00:05:50.000
+a potom snap.
+
+00:05:50.000 --> 00:05:53.000
+Tento robot teda minimalizuje snap.
+
+00:05:53.000 --> 00:05:55.000
+V praxi to teda znamená,
+
+00:05:55.000 --> 00:05:57.000
+že výsledkom je hladký a ladný pohyb.
+
+00:05:57.000 --> 00:06:00.000
+A pritom sa vyhýba prekážkam.
+
+00:06:00.000 --> 00:06:03.000
+Tieto minimálne snapové dráhy v plochom priestore

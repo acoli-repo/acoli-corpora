@@ -1,0 +1,49 @@
+WEBVTT
+
+00:05:26.169 --> 00:05:30.063
+và chuyển đổi nó
+thành một không gian phẳng 4 chiều.
+
+00:05:30.087 --> 00:05:33.158
+Không gian phẳng 4 chiều này
+gồm các trục x, y, z
+
+00:05:33.182 --> 00:05:34.594
+và vector góc quay.
+
+00:05:34.618 --> 00:05:35.976
+Nên những gì robot làm,
+
+00:05:36.000 --> 00:05:40.146
+là tính toán thứ mà chúng tôi gọi là
+Quỹ đạo thăng bằng tối ưu.
+
+00:05:40.949 --> 00:05:42.346
+Nhắc lại bạn một chút vật lý,
+
+00:05:42.370 --> 00:05:44.424
+bạn có toạ độ,
+đạo hàm của nó là vận tốc,
+
+00:05:44.448 --> 00:05:46.304
+và gia tốc;
+
+00:05:46.328 --> 00:05:48.429
+nếu khi bay, nó bị xóc,
+
+00:05:48.453 --> 00:05:49.913
+nó sẽ mất thăng bằng.
+
+00:05:50.318 --> 00:05:52.850
+Nên robot cố gắng giảm tối đa
+việc mất thăng bằng.
+
+00:05:53.540 --> 00:05:54.976
+Vì vậy kết quả là,
+
+00:05:55.000 --> 00:05:57.624
+nó tạo ra chuyển động
+cân bằng và nhịp nhàng.
+
+00:05:57.648 --> 00:06:00.490
+Và nó biết tránh các chướng ngại vật.

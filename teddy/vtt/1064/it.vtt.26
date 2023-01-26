@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:58.000 --> 00:13:00.000
+Dunque questo robot viene di fatto comandato
+
+00:13:00.000 --> 00:13:02.000
+in remoto da Frank.
+
+00:13:02.000 --> 00:13:04.000
+Ma il robot è in grado di capire da solo
+
+00:13:04.000 --> 00:13:06.000
+dove deve andare.
+
+00:13:06.000 --> 00:13:08.000
+Immaginate che debba inviare il robot in un edificio
+
+00:13:08.000 --> 00:13:10.000
+di cui non conosco assolutamente alcuna caratteristica,
+
+00:13:10.000 --> 00:13:12.000
+posso chiedere al robot di entrare,
+
+00:13:12.000 --> 00:13:14.000
+crearne una mappa
+
+00:13:14.000 --> 00:13:17.000
+e tornare da me e dirmi com'è fatto l'edificio.
+
+00:13:17.000 --> 00:13:20.000
+Qui il robot non si limita a risolvere il problema
+
+00:13:20.000 --> 00:13:23.000
+dello spostamento da A a B su questa mappa,
+
+00:13:23.000 --> 00:13:25.000
+ma ricalcola continuamente
+
+00:13:25.000 --> 00:13:27.000
+dove si trovi il miglior punto B.
+
+00:13:27.000 --> 00:13:30.000
+Essenzialmente sa dove andare
+
+00:13:30.000 --> 00:13:32.000
+per cercare i luoghi di cui possiede meno informazioni.

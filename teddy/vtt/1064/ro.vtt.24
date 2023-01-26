@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+este echipat cu o cameră
+
+00:12:01.000 --> 00:12:04.000
+şi un telemetru laser, un scanner laser.
+
+00:12:04.000 --> 00:12:06.000
+Şi foloseşte senzori
+
+00:12:06.000 --> 00:12:08.000
+să creeze o hartă a împrejurimilor.
+
+00:12:08.000 --> 00:12:11.000
+Harta constă din caracteristici --
+
+00:12:11.000 --> 00:12:13.000
+cum ar fi uşile, ferestrele,
+
+00:12:13.000 --> 00:12:15.000
+oamenii, mobila --
+
+00:12:15.000 --> 00:12:17.000
+şi apoi îşi calculează poziţia
+
+00:12:17.000 --> 00:12:19.000
+în funcţie de aceste caracteristici.
+
+00:12:19.000 --> 00:12:21.000
+Deci nu există un sistem global de coordonate.
+
+00:12:21.000 --> 00:12:24.000
+Sistemul de coordonate e definit pe baza robotului,
+
+00:12:24.000 --> 00:12:27.000
+unde se află şi la ce se uită.
+
+00:12:27.000 --> 00:12:30.000
+Şi navighează ţinând seama de acele caracterisitici.
+
+00:12:30.000 --> 00:12:32.000
+Vreau să vă arăt un clip

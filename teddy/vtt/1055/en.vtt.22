@@ -1,0 +1,49 @@
+WEBVTT
+
+00:10:58.000 --> 00:11:00.000
+when I was at UCLA going to grad school,
+
+00:11:00.000 --> 00:11:03.000
+I was also working at a place called the Center for Embedded Network Sensing.
+
+00:11:03.000 --> 00:11:06.000
+And I was writing software to visualize laser scanners.
+
+00:11:06.000 --> 00:11:08.000
+So basically motion through 3D space.
+
+00:11:08.000 --> 00:11:10.000
+And this was seen by a director in L.A. named James Frost
+
+00:11:10.000 --> 00:11:12.000
+who said, "Wait a minute.
+
+00:11:12.000 --> 00:11:14.000
+You mean we can shoot a music video without actually using any video?"
+
+00:11:14.000 --> 00:11:16.000
+So we did exactly that.
+
+00:11:16.000 --> 00:11:18.000
+We made a music video for one of my favorite bands, Radiohead.
+
+00:11:18.000 --> 00:11:20.000
+And I think one of my favorite parts of this project
+
+00:11:20.000 --> 00:11:22.000
+was not just shooting a video with lasers,
+
+00:11:22.000 --> 00:11:24.000
+but we also open sourced it,
+
+00:11:24.000 --> 00:11:26.000
+and we made it released as a Google Code project,
+
+00:11:26.000 --> 00:11:28.000
+where people could download a bunch of the data and some source code
+
+00:11:28.000 --> 00:11:30.000
+to build their own versions of it.
+
+00:11:30.000 --> 00:11:32.000
+And people were making some amazing things.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:57.000 --> 00:05:00.000
+ou ser enviados para edifícios com radiação
+
+00:05:00.000 --> 00:05:03.000
+para mapear os níveis de radiação.
+
+00:05:04.000 --> 00:05:06.000
+Então um problema fundamental
+
+00:05:06.000 --> 00:05:09.000
+que os robôs têm que resolver, se são autônomos,
+
+00:05:09.000 --> 00:05:11.000
+é essencialmente determinar
+
+00:05:11.000 --> 00:05:13.000
+como ir do ponto A ao ponto B.
+
+00:05:13.000 --> 00:05:15.000
+Isso se torna desafiador
+
+00:05:15.000 --> 00:05:18.000
+porque a dinâmica desse robô é bastante complicada.
+
+00:05:18.000 --> 00:05:20.000
+De fato, eles vivem em um espaço de 12 dimensões.
+
+00:05:20.000 --> 00:05:22.000
+Portanto usamos um pequeno truque.
+
+00:05:22.000 --> 00:05:25.000
+Pegamos esse espaço curvo de 12 dimensões
+
+00:05:25.000 --> 00:05:27.000
+e o transformamos
+
+00:05:27.000 --> 00:05:29.000
+em um espaço plano de 4 dimensões.
+
+00:05:29.000 --> 00:05:31.000
+E esse espaço de quatro dimensões

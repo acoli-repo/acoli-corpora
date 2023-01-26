@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:28.000 --> 00:06:30.000
+en que hemos determinado cuál es el destinatario.
+
+00:06:30.000 --> 00:06:33.000
+Es Natanz, y es sólo Natanz.
+
+00:06:33.000 --> 00:06:35.000
+No debemos preocuparnos
+
+00:06:35.000 --> 00:06:37.000
+de que otros objetivos
+
+00:06:37.000 --> 00:06:39.000
+sean alcanzados por Stuxnet.
+
+00:06:39.000 --> 00:06:42.000
+Aquí les muestro unas cosas muy interesantes que vimos,
+
+00:06:42.000 --> 00:06:44.000
+realmente me impresionaron.
+
+00:06:44.000 --> 00:06:46.000
+Ahí está la caja gris,
+
+00:06:46.000 --> 00:06:49.000
+y arriba se ven las centrífugas.
+
+00:06:49.000 --> 00:06:51.000
+Lo que esta cosa hace
+
+00:06:51.000 --> 00:06:54.000
+es interceptar los valores de entrada de los sensores
+
+00:06:54.000 --> 00:06:56.000
+por ejemplo, de los sensores de presión
+
+00:06:56.000 --> 00:06:58.000
+y los sensores de vibración
+
+00:06:58.000 --> 00:07:01.000
+y provee código legítimo,

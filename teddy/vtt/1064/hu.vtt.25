@@ -1,0 +1,48 @@
+WEBVTT
+
+00:12:27.000 --> 00:12:30.000
+Ezen objektumok alapján navigál.
+
+00:12:30.000 --> 00:12:32.000
+A most következő film
+
+00:12:32.000 --> 00:12:34.000
+Frank Shen és Nathan Michael professzor
+
+00:12:34.000 --> 00:12:36.000
+algoritmusát illusztrálja, 
+aminek segítségével
+
+00:12:36.000 --> 00:12:40.000
+a robot, ami először jár egy épületben,
+
+00:12:40.000 --> 00:12:43.000
+menet közben térképezi fel azt.
+
+00:12:43.000 --> 00:12:46.000
+Tehát a robot maga határozza meg 
+az objektumokat.
+
+00:12:46.000 --> 00:12:48.000
+Ő maga készíti a térképet. Meghatározza
+
+00:12:48.000 --> 00:12:50.000
+az objektumokhoz viszonyított helyzetét,
+
+00:12:50.000 --> 00:12:52.000
+majd másodpercenként 100-szor
+
+00:12:52.000 --> 00:12:54.000
+megbecsüli a pozícióját,
+
+00:12:54.000 --> 00:12:56.000
+lehetővé téve ezzel a korábban említett
+
+00:12:56.000 --> 00:12:58.000
+vezérlő algoritmus használatát.
+
+00:12:58.000 --> 00:13:00.000
+Tehát ezt a robotot valójában
+
+00:13:00.000 --> 00:13:02.000
+Frank irányítja távolról.

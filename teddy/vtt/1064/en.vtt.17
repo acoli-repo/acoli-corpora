@@ -1,0 +1,44 @@
+WEBVTT
+
+00:08:27.606 --> 00:08:30.775
+So these ants don't have
+any central coordinator.
+
+00:08:31.227 --> 00:08:32.774
+They sense their neighbors.
+
+00:08:32.798 --> 00:08:35.083
+There's no explicit communication.
+
+00:08:35.107 --> 00:08:36.846
+But because they sense the neighbors
+
+00:08:36.870 --> 00:08:38.646
+and because they sense the object,
+
+00:08:38.670 --> 00:08:41.500
+they have implicit coordination
+across the group.
+
+00:08:42.214 --> 00:08:45.634
+So this is the kind of coordination
+we want our robots to have.
+
+00:08:46.309 --> 00:08:51.087
+So when we have a robot
+which is surrounded by neighbors --
+
+00:08:51.111 --> 00:08:53.340
+and let's look at robot I and robot J --
+
+00:08:53.364 --> 00:08:54.912
+what we want the robots to do,
+
+00:08:54.936 --> 00:08:57.047
+is to monitor the separation between them,
+
+00:08:57.071 --> 00:08:58.976
+as they fly in formation.
+
+00:08:59.277 --> 00:09:00.758
+And then you want to make sure

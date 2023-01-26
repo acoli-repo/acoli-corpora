@@ -1,0 +1,46 @@
+WEBVTT
+
+00:08:59.000 --> 00:09:01.000
+Azt akarjuk, hogy ez a távolság
+
+00:09:01.000 --> 00:09:03.000
+bizonyos határokon belül maradjon.
+
+00:09:03.000 --> 00:09:06.000
+A robot tehát figyeli ezt a hibát,
+
+00:09:06.000 --> 00:09:08.000
+és másodpercenként 100-szor
+
+00:09:08.000 --> 00:09:10.000
+kiszámítja a szükséges korrekciókat,
+
+00:09:10.000 --> 00:09:13.000
+és másodpercenként 600-szor 
+motorparancsokra fordítja őket.
+
+00:09:13.000 --> 00:09:15.000
+Ráadásul mindezt decentralizált módon
+
+00:09:15.000 --> 00:09:17.000
+kell végrehajtani.
+
+00:09:17.000 --> 00:09:19.000
+Ismét hangsúlyozom: ha sok robotunk van,
+
+00:09:19.000 --> 00:09:23.000
+akkor lehetetlen ezt az információt 
+központilag,
+
+00:09:23.000 --> 00:09:26.000
+a feladat megoldáshoz elegendő 
+sebességgel kezelni.
+
+00:09:26.000 --> 00:09:28.000
+Ráadásul a robotok az akcióikat
+
+00:09:28.000 --> 00:09:30.000
+csak a szomszédjaiktól kapott,
+
+00:09:30.000 --> 00:09:32.000
+lokális információkra építhetik.

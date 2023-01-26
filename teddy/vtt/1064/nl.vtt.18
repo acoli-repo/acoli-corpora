@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:59.000 --> 00:09:01.000
+Je moet ervoor zorgen
+
+00:09:01.000 --> 00:09:03.000
+dat deze afstand binnen aanvaardbare perken blijft.
+
+00:09:03.000 --> 00:09:06.000
+De robots monitoren de fout
+
+00:09:06.000 --> 00:09:08.000
+en berekenen controlecommando's,
+
+00:09:08.000 --> 00:09:10.000
+100 keer per seconde,
+
+00:09:10.000 --> 00:09:13.000
+wat dan wordt omgezet in bewegingscommando's, 600 keer per seconde.
+
+00:09:13.000 --> 00:09:15.000
+Dit moet ook gebeuren
+
+00:09:15.000 --> 00:09:17.000
+op gedecentraliseerde wijze.
+
+00:09:17.000 --> 00:09:19.000
+Als je heel veel robots hebt,
+
+00:09:19.000 --> 00:09:23.000
+kan je al deze informatie niet snel genoeg centraal coördineren
+
+00:09:23.000 --> 00:09:26.000
+om de robots in hun taak te doen slagen.
+
+00:09:26.000 --> 00:09:28.000
+De robots moeten hun actie
+
+00:09:28.000 --> 00:09:30.000
+louter op lokale informatie baseren,
+
+00:09:30.000 --> 00:09:32.000
+op wat ze vanwege hun buren gewaarworden.

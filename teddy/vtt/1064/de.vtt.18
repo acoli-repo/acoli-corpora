@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:59.000 --> 00:09:01.000
+Und dann muss man sicherstellen,
+
+00:09:01.000 --> 00:09:03.000
+dass dieser Abstand innerhalb akzeptabler Schranken ist.
+
+00:09:03.000 --> 00:09:06.000
+Die Roboter überwachen also diesen Fehler
+
+00:09:06.000 --> 00:09:08.000
+und berechnen die Kontrollbefehle
+
+00:09:08.000 --> 00:09:10.000
+100 Mal pro Sekunde,
+
+00:09:10.000 --> 00:09:13.000
+die dann in Motorbefehle 600 Mal pro Sekunde übersetzt werden.
+
+00:09:13.000 --> 00:09:15.000
+Das muss auch auf eine
+
+00:09:15.000 --> 00:09:17.000
+dezentrale Art geschehen.
+
+00:09:17.000 --> 00:09:19.000
+Nochmal, wenn Sie sehr viele dieser Roboter haben,
+
+00:09:19.000 --> 00:09:23.000
+ist es unmöglich, all diese Informationen zentral zu koordinieren,
+
+00:09:23.000 --> 00:09:26.000
+schnell genug, damit die Roboter die Aufgabe lösen können.
+
+00:09:26.000 --> 00:09:28.000
+Zusätzlich müssen die Roboter ihre Entscheidungen
+
+00:09:28.000 --> 00:09:30.000
+nur aufgrund der lokalen Informationen fällen,
+
+00:09:30.000 --> 00:09:32.000
+nämlich, was sie von ihren Nachbarn wahrnehmen.

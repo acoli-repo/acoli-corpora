@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.000 --> 00:05:31.000
+Et cet espace à quatre dimensions
+
+00:05:31.000 --> 00:05:34.000
+se compose de X, Y, Z et de l'angle d'orientation.
+
+00:05:34.000 --> 00:05:36.000
+Et alors ce robot
+
+00:05:36.000 --> 00:05:40.000
+planifie ce que nous appelons une trajectoire de décrochage minimum.
+
+00:05:40.000 --> 00:05:42.000
+Un rappel de physique,
+
+00:05:42.000 --> 00:05:44.000
+vous avez la position, la dérivée, la vitesse,
+
+00:05:44.000 --> 00:05:46.000
+puis l'accélération,
+
+00:05:46.000 --> 00:05:48.000
+puis vient la secousse
+
+00:05:48.000 --> 00:05:50.000
+puis vient le décrochage
+
+00:05:50.000 --> 00:05:53.000
+Donc, ce robot minimise le décrochage.
+
+00:05:53.000 --> 00:05:55.000
+Cela produit effectivement
+
+00:05:55.000 --> 00:05:57.000
+un mouvement doux et gracieux.
+
+00:05:57.000 --> 00:06:00.000
+Le tout en évitant les obstacles.
+
+00:06:00.000 --> 00:06:03.000
+Ces trajectoires de décrochage minimum dans cet espace plat

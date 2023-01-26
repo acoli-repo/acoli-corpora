@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:57.000 --> 00:06:00.000
+E ele faz isso evitando obstáculos.
+
+00:06:00.000 --> 00:06:03.000
+Então essas trajetórias com salto mínimo nesse espaço plano
+
+00:06:03.000 --> 00:06:05.000
+são transformadas
+
+00:06:05.000 --> 00:06:07.000
+nesse complicado espaço de 12 dimensões,
+
+00:06:07.000 --> 00:06:09.000
+que o robô deve ter
+
+00:06:09.000 --> 00:06:11.000
+para controle e execução.
+
+00:06:11.000 --> 00:06:13.000
+Deixem-me mostrar-lhes alguns exemplos
+
+00:06:13.000 --> 00:06:15.000
+de como são essas trajetórias com salto mínimo.
+
+00:06:15.000 --> 00:06:17.000
+E no primeiro vídeo,
+
+00:06:17.000 --> 00:06:19.000
+vocês verão o robô indo do ponto A ao ponto B
+
+00:06:19.000 --> 00:06:21.000
+através de um ponto intermediário.
+
+00:06:27.000 --> 00:06:29.000
+Dessa forma o robô é obviamente capaz
+
+00:06:29.000 --> 00:06:31.000
+de executar qualquer trajetória curva.

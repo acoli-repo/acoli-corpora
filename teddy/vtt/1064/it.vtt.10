@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:57.000 --> 00:05:00.000
+o in edifici esposti a radiazioni
+
+00:05:00.000 --> 00:05:03.000
+per determinarne il livello di pericolosità.
+
+00:05:04.000 --> 00:05:06.000
+Il problema fondamentale
+
+00:05:06.000 --> 00:05:09.000
+da risolvere è dare loro autonomia di calcolo
+
+00:05:09.000 --> 00:05:11.000
+per stabilire come spostarsi
+
+00:05:11.000 --> 00:05:13.000
+dal punto A al punto B.
+
+00:05:13.000 --> 00:05:15.000
+Qui le cose si complicano un po'
+
+00:05:15.000 --> 00:05:18.000
+per via dell'intrinseca complessità dinamica dei robot.
+
+00:05:18.000 --> 00:05:20.000
+Infatti si devono spostare in uno spazio a 12 dimensioni.
+
+00:05:20.000 --> 00:05:22.000
+Così ricorriamo a un trucchetto.
+
+00:05:22.000 --> 00:05:25.000
+Prendiamo questo spazio curvo 12-dimensionale
+
+00:05:25.000 --> 00:05:27.000
+e lo trasformiamo
+
+00:05:27.000 --> 00:05:29.000
+in uno a 4 dimensioni.
+
+00:05:29.000 --> 00:05:31.000
+Quest'ultimo è costituito

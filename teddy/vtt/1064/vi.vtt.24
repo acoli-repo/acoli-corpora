@@ -1,0 +1,40 @@
+WEBVTT
+
+00:11:57.495 --> 00:12:01.832
+Các robot đã được trang bị một camera,
+
+00:12:01.856 --> 00:12:04.229
+một bộ cảm biến khoảng cách
+và một máy quét laser.
+
+00:12:04.880 --> 00:12:08.800
+Chúng dùng các thiết bị đó
+để dựng bản đồ môi trường xung quanh.
+
+00:12:08.824 --> 00:12:12.110
+Bản đồ đó bao gồm nhiều thứ,
+
+00:12:12.134 --> 00:12:16.005
+ví dụ như cửa ra vào, cửa sổ,
+con người, các đồ dùng...
+
+00:12:16.029 --> 00:12:18.172
+và robot sẽ biết
+vị trí tương đối của nó
+
+00:12:18.196 --> 00:12:19.597
+so với các vật xung quanh.
+
+00:12:19.621 --> 00:12:21.831
+Không có máy chủ định hướng nào hết.
+
+00:12:21.855 --> 00:12:24.361
+Hệ thống định hướng được đặt
+ở trong mỗi con robot,
+
+00:12:24.385 --> 00:12:26.442
+cho nó biết vị trí và phương hướng.
+
+00:12:27.315 --> 00:12:30.070
+Nó giúp robot định hướng
+môi trường và chướng ngại vật.

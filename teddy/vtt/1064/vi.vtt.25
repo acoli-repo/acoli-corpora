@@ -1,0 +1,42 @@
+WEBVTT
+
+00:12:27.315 --> 00:12:30.070
+Nó giúp robot định hướng
+môi trường và chướng ngại vật.
+
+00:12:31.056 --> 00:12:32.476
+Tôi muốn các bạn xem 1 video
+
+00:12:32.500 --> 00:12:36.452
+nói về thuật toán được phát triển bởi
+Frank Shen và giáo sư Nathan Michael,
+
+00:12:36.476 --> 00:12:40.245
+bạn đang thấy con robot lần đầu tiên
+vào một ngôi nhà,
+
+00:12:40.269 --> 00:12:42.691
+nó đang tự vẽ bản đồ trong lúc bay.
+
+00:12:43.382 --> 00:12:46.540
+Robot sẽ phân tích
+các chi tiết bên trong ngôi nhà,
+
+00:12:46.564 --> 00:12:47.565
+và phác hoạ bản đồ.
+
+00:12:47.599 --> 00:12:50.836
+Nó phân tích vị trí tương đối của mình
+trong môi trường xung quanh,
+
+00:12:50.866 --> 00:12:54.678
+và tự ước lượng toạ độ
+100 lần mỗi giây.
+
+00:12:54.702 --> 00:12:58.520
+Điều đó cho phép chúng tôi dùng
+thuật toán điều khiển tôi vừa kể trên.
+
+00:12:58.544 --> 00:13:02.977
+Thực ra con robot này đang bị Frank
+điều khiển từ xa,

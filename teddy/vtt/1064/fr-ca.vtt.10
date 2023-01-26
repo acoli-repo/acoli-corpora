@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:57.000 --> 00:05:00.000
+ou envoyés dans des bâtiments irradiés
+
+00:05:00.000 --> 00:05:03.000
+pour cartographier les niveaux de radiation.
+
+00:05:04.000 --> 00:05:06.000
+Un problème fondamental
+
+00:05:06.000 --> 00:05:09.000
+que les robots doivent résoudre s'ils doivent être autonomes
+
+00:05:09.000 --> 00:05:11.000
+est principalement trouver
+
+00:05:11.000 --> 00:05:13.000
+comment se rendre d'un point A à un point B.
+
+00:05:13.000 --> 00:05:15.000
+Ceci devient un peu délicat
+
+00:05:15.000 --> 00:05:18.000
+car la dynamique de ce robot est assez compliquée.
+
+00:05:18.000 --> 00:05:20.000
+En fait, ils vivent dans un espace en 12 dimensions.
+
+00:05:20.000 --> 00:05:22.000
+Donc nous utilisons une petite astuce.
+
+00:05:22.000 --> 00:05:25.000
+Nous prenons cet espace courbe en 12 dimensions
+
+00:05:25.000 --> 00:05:27.000
+et le transformons
+
+00:05:27.000 --> 00:05:29.000
+en un espace plat en 4 dimensions.
+
+00:05:29.000 --> 00:05:31.000
+Cet espace quadri-dimensionnel

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:10:59.718 --> 00:11:02.814
+But you do gain in terms
+of payload-carrying capacity.
+
+00:11:02.838 --> 00:11:06.053
+Another application I want to show you --
+again, this is in our lab.
+
+00:11:06.077 --> 00:11:09.242
+This is work done by Quentin Lindsey,
+who's a graduate student.
+
+00:11:09.266 --> 00:11:11.886
+So his algorithm essentially
+tells these robots
+
+00:11:11.910 --> 00:11:15.982
+how to autonomously build cubic structures
+
+00:11:16.006 --> 00:11:17.976
+from truss-like elements.
+
+00:11:19.181 --> 00:11:22.941
+So his algorithm tells the robot
+what part to pick up,
+
+00:11:22.965 --> 00:11:24.790
+when, and where to place it.
+
+00:11:25.211 --> 00:11:26.694
+So in this video you see --
+
+00:11:26.718 --> 00:11:28.742
+and it's sped up 10, 14 times --
+
+00:11:28.766 --> 00:11:31.855
+you see three different structures
+being built by these robots.

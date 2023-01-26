@@ -1,0 +1,39 @@
+WEBVTT
+
+00:05:57.890 --> 00:06:01.060
+Faz isso evitando os obstáculos.
+
+00:06:01.060 --> 00:06:03.970
+Estas trajetórias de tração mínima, 
+neste espaço plano,
+
+00:06:03.970 --> 00:06:05.950
+são depois transformadas
+
+00:06:05.950 --> 00:06:08.050
+neste espaço complicado a 12 dimensões
+
+00:06:08.050 --> 00:06:10.990
+que o robô tem que fazer 
+para controlo e execução.
+
+00:06:11.530 --> 00:06:13.300
+Vou mostrar-vos alguns exemplos
+
+00:06:13.300 --> 00:06:15.690
+do aspeto dessas trajetórias 
+de tração mínima.
+
+00:06:16.000 --> 00:06:17.370
+No primeiro vídeo
+
+00:06:17.370 --> 00:06:19.540
+podemos ver o robô a ir 
+do ponto A ao ponto B
+
+00:06:19.540 --> 00:06:21.825
+através de um ponto intermédio.
+
+00:06:28.110 --> 00:06:31.943
+O robô obviamente é capaz
+de executar qualquer trajetória curva.

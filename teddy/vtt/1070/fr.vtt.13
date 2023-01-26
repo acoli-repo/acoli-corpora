@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:28.000 --> 00:06:30.000
+d'avoir en fait déterminé quelle est la cible.
+
+00:06:30.000 --> 00:06:33.000
+C'est Natanz, et Natanz seulement.
+
+00:06:33.000 --> 00:06:35.000
+Nous n'avons donc pas à nous inquiéter
+
+00:06:35.000 --> 00:06:37.000
+que d'autres cibles
+
+00:06:37.000 --> 00:06:39.000
+puissent être frappées par Stuxnet.
+
+00:06:39.000 --> 00:06:42.000
+Voici certains des trucs très chouettes que nous avons vu --
+
+00:06:42.000 --> 00:06:44.000
+ça m'a vraiment frappé.
+
+00:06:44.000 --> 00:06:46.000
+Là en bas il y a une boite grise,
+
+00:06:46.000 --> 00:06:49.000
+et en haut vous voyez les centrifugeuses.
+
+00:06:49.000 --> 00:06:51.000
+Et ce que ce truc fait
+
+00:06:51.000 --> 00:06:54.000
+c'est qu'il intercepte les valeurs des input des capteurs --
+
+00:06:54.000 --> 00:06:56.000
+donc par exemple, des capteurs de pression
+
+00:06:56.000 --> 00:06:58.000
+et des capteurs de vibrations --
+
+00:06:58.000 --> 00:07:01.000
+et il fournit du code légitime,

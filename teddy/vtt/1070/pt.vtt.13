@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:28.000 --> 00:06:30.000
+que tínhamos descoberto qual era o alvo.
+
+00:06:30.000 --> 00:06:33.000
+É Natanz, e é apenas Natanz.
+
+00:06:33.000 --> 00:06:35.000
+Por isso não nos temos de preocupar
+
+00:06:35.000 --> 00:06:37.000
+que outros alvos
+
+00:06:37.000 --> 00:06:39.000
+possam ser atingidos pelo Stuxnet.
+
+00:06:39.000 --> 00:06:42.000
+Aqui estão umas coisas muito fixes que vímos --
+
+00:06:42.000 --> 00:06:44.000
+que me deixaram perplexo.
+
+00:06:44.000 --> 00:06:46.000
+Aqui em baixo está a caixa cinzenta,
+
+00:06:46.000 --> 00:06:49.000
+e no topo vêem os centrifugadores.
+
+00:06:49.000 --> 00:06:51.000
+O que esta coisa faz
+
+00:06:51.000 --> 00:06:54.000
+é interceptar os valores devolvidos pelos sensores --
+
+00:06:54.000 --> 00:06:56.000
+como, por exemplo, pelos sensores de pressão
+
+00:06:56.000 --> 00:06:58.000
+e pelos sensores de vibração -
+
+00:06:58.000 --> 00:07:01.000
+e fornece ao código legítimo,

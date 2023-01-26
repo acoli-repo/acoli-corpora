@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:26.380 --> 00:05:30.280
+e transformamo-lo num espaço plano 
+de quatro dimensões.
+
+00:05:30.300 --> 00:05:31.810
+Este espaço a quatro dimensões
+
+00:05:31.810 --> 00:05:34.630
+consiste em X, Y, Z 
+e o ângulo de inclinação.
+
+00:05:34.630 --> 00:05:40.300
+Este robô planeia o que chamamos 
+a trajetória de tração mínima.
+
+00:05:40.950 --> 00:05:42.600
+Para vos recordar a física,
+
+00:05:42.600 --> 00:05:44.860
+temos a posição, a derivada, a velocidade,
+
+00:05:44.860 --> 00:05:46.600
+depois a aceleração,
+
+00:05:46.600 --> 00:05:48.410
+depois o impulso
+
+00:05:48.410 --> 00:05:50.460
+e a seguir a tração.
+
+00:05:50.460 --> 00:05:53.000
+Este robô minimiza a tração.
+
+00:05:53.310 --> 00:05:55.240
+O que faz efetivamente
+
+00:05:55.240 --> 00:05:57.400
+é produzir um movimento gracioso e suave.
+
+00:05:57.890 --> 00:06:01.060
+Faz isso evitando os obstáculos.

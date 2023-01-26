@@ -1,0 +1,42 @@
+WEBVTT
+
+00:11:57.690 --> 00:12:01.960
+Este robô está equipado com uma câmara
+
+00:12:01.960 --> 00:12:04.470
+e um varredor "laser", 
+um "scanner" a " laser".
+
+00:12:05.060 --> 00:12:06.710
+Utiliza estes sensores
+
+00:12:06.710 --> 00:12:08.950
+para construir um mapa do ambiente.
+
+00:12:08.950 --> 00:12:12.030
+Esse mapa consiste em características
+
+00:12:12.030 --> 00:12:16.170
+— como portais, janelas,
+pessoas, mobília —
+
+00:12:16.180 --> 00:12:18.180
+e depois descobre qual a sua posição
+
+00:12:18.180 --> 00:12:19.870
+em relação a estas características.
+
+00:12:19.870 --> 00:12:22.000
+Não existe um sistema global 
+de coordenadas.
+
+00:12:22.000 --> 00:12:24.750
+O sistema de coordenadas 
+é definido com base no robô,
+
+00:12:24.750 --> 00:12:27.280
+onde é que ele está 
+e para onde está a olhar.
+
+00:12:27.280 --> 00:12:30.320
+Navega em relação a essas características.

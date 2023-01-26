@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:30.000
+pouze na lokálních informacích,
+
+00:09:30.000 --> 00:09:32.000
+které získávají od svých sousedů.
+
+00:09:32.000 --> 00:09:34.000
+A nakonec,
+
+00:09:34.000 --> 00:09:36.000
+trváme na tom, aby roboty byly agnostické
+
+00:09:36.000 --> 00:09:38.000
+k tomu, kdo jsou jejich sousedé.
+
+00:09:38.000 --> 00:09:41.000
+Tohle nazýváme anonymita.
+
+00:09:41.000 --> 00:09:43.000
+Co vám chci ukázat dále,
+
+00:09:43.000 --> 00:09:45.000
+je video
+
+00:09:45.000 --> 00:09:48.000
+dvaceti těchto malých robotů
+
+00:09:48.000 --> 00:09:50.000
+letících ve formaci.
+
+00:09:50.000 --> 00:09:53.000
+Sledují pozice svých sousedů.
+
+00:09:53.000 --> 00:09:55.000
+Udržují formaci.
+
+00:09:55.000 --> 00:09:57.000
+Formace se mohou měnit.
+
+00:09:57.000 --> 00:09:59.000
+Mohou to být rovinné formace,
+
+00:09:59.000 --> 00:10:01.000
+mohou to být trojrozměrné formace.

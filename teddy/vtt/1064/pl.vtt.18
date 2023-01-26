@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:59.000 --> 00:09:01.000
+Chcemy też mieć pewność,
+
+00:09:01.000 --> 00:09:03.000
+że te odstępy mieszczą się w określonych granicach.
+
+00:09:03.000 --> 00:09:06.000
+Roboty monitorują margines błędu
+
+00:09:06.000 --> 00:09:08.000
+i obliczają komendy
+
+00:09:08.000 --> 00:09:10.000
+100 razy na sekundę,
+
+00:09:10.000 --> 00:09:13.000
+które później przekazują do wirników 600 razy na sekundę.
+
+00:09:13.000 --> 00:09:15.000
+To również trzeba wykonać
+
+00:09:15.000 --> 00:09:17.000
+w bardziej decentralizujący sposób.
+
+00:09:17.000 --> 00:09:19.000
+Mając wiele robotów,
+
+00:09:19.000 --> 00:09:23.000
+nie mogą być centralnie sterowane
+
+00:09:23.000 --> 00:09:26.000
+na tyle szybko, by mogły wykonywać zadania.
+
+00:09:26.000 --> 00:09:28.000
+Dodatkowo roboty muszą opierać swe działania
+
+00:09:28.000 --> 00:09:30.000
+na informacjach lokalnych,
+
+00:09:30.000 --> 00:09:32.000
+na tym, co odbierają od sąsiednich robotów.

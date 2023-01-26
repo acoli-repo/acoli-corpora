@@ -1,0 +1,44 @@
+WEBVTT
+
+00:08:27.606 --> 00:08:30.845
+Bạn thấy đó, đàn kiến này
+không được trực tiếp chỉ huy.
+
+00:08:31.227 --> 00:08:32.774
+Chúng cảm nhận vị trí của nhau.
+
+00:08:32.798 --> 00:08:35.083
+Không có trao đổi trực tiếp nào diễn ra.
+
+00:08:35.107 --> 00:08:36.846
+Nhưng chúng cảm nhận được nhau
+
+00:08:36.870 --> 00:08:38.646
+và cảm nhận được vật chúng đang mang,
+
+00:08:38.670 --> 00:08:41.640
+vậy phải có một dạng
+chỉ dẫn ngầm nào đó trong toàn đội.
+
+00:08:42.214 --> 00:08:45.634
+Đây chính là thứ chúng tôi muốn
+những con robot có.
+
+00:08:46.309 --> 00:08:51.087
+Giả sử ta có một robot
+đang đứng cạnh nhiều robot khác.
+
+00:08:51.111 --> 00:08:53.340
+Hãy xem xét robot i và j.
+
+00:08:53.364 --> 00:08:54.912
+Chúng tôi muốn những robot này
+
+00:08:54.936 --> 00:08:57.197
+tự theo dõi khoảng cách giữa chúng
+
+00:08:57.231 --> 00:08:58.976
+khi chúng bay thành đội hình.
+
+00:08:59.277 --> 00:09:00.758
+Chúng tôi muốn chắc chắn rằng

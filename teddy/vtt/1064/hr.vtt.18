@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:59.000 --> 00:09:01.000
+Želimo da se taj razmak
+
+00:09:01.000 --> 00:09:03.000
+održava unutar određene tolerancije.
+
+00:09:03.000 --> 00:09:06.000
+Da ponovimo, roboti prate ovu toleranciju
+
+00:09:06.000 --> 00:09:08.000
+i proračunavaju kontrolne naredbe
+
+00:09:08.000 --> 00:09:10.000
+100 puta u sekundi,
+
+00:09:10.000 --> 00:09:13.000
+što znači da motor zaprima 600 naredbi u sekundi.
+
+00:09:13.000 --> 00:09:15.000
+I to treba biti učinjeno
+
+00:09:15.000 --> 00:09:17.000
+decentralizirano.
+
+00:09:17.000 --> 00:09:19.000
+Ako imate jato robota,
+
+00:09:19.000 --> 00:09:23.000
+bilo bi nemoguće koordinirati ih centralno
+
+00:09:23.000 --> 00:09:26.000
+zadovoljavajućom brzinom za ostvarenje zadaće.
+
+00:09:26.000 --> 00:09:28.000
+Dodatno, roboti moraju zasnivati kretnje
+
+00:09:28.000 --> 00:09:30.000
+isključivo na lokalnim informacijama
+
+00:09:30.000 --> 00:09:32.000
+koje zaprimaju od susjednih robota.

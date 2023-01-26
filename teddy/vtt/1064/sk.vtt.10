@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:57.000 --> 00:05:00.000
+alebo poslať do budov reaktora,
+
+00:05:00.000 --> 00:05:03.000
+aby zmapovali úrovne radiácie.
+
+00:05:04.000 --> 00:05:06.000
+Takže, základný problém,
+
+00:05:06.000 --> 00:05:09.000
+ktorý roboty musia riešiť, ak majú byť samostatné,
+
+00:05:09.000 --> 00:05:11.000
+je vlastne zistiť,
+
+00:05:11.000 --> 00:05:13.000
+ako sa dostanú z bodu A do bodu B.
+
+00:05:13.000 --> 00:05:15.000
+Toto môže byť trochu problém,
+
+00:05:15.000 --> 00:05:18.000
+keďže dynamika tohto robota je pomerne komplikovaná.
+
+00:05:18.000 --> 00:05:20.000
+V podstate žijú v 12-rozmernom priestore.
+
+00:05:20.000 --> 00:05:22.000
+Preto používame malý trik.
+
+00:05:22.000 --> 00:05:25.000
+Vezmeme tento zakrivený 12-rozmerný priestor
+
+00:05:25.000 --> 00:05:27.000
+a transformujeme ho
+
+00:05:27.000 --> 00:05:29.000
+na plochý, štvorrozmerný priestor.
+
+00:05:29.000 --> 00:05:31.000
+A tento štvorrozmerný priestor

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:57.000 --> 00:06:00.000
+Dhe e benë atë ti largohet pengesave.
+
+00:06:00.000 --> 00:06:03.000
+Pra këto kërcime trajektoreje minimale në hapësira të rrafshta
+
+00:06:03.000 --> 00:06:05.000
+janë të transformuara prap
+
+00:06:05.000 --> 00:06:07.000
+në këtë hapësirë të ndërlikuar 12 dimensionesh,
+
+00:06:07.000 --> 00:06:09.000
+të cilën robotët duhet ta bejnë
+
+00:06:09.000 --> 00:06:11.000
+për kontrollin dhe pastaj ekzekutimin.
+
+00:06:11.000 --> 00:06:13.000
+Pra më lejoni t'ju tregoj disa shembuj
+
+00:06:13.000 --> 00:06:15.000
+të minimumit të asaj që këto trajektore kërcyese mund të bëjnë.
+
+00:06:15.000 --> 00:06:17.000
+Dhe në videon e parë,
+
+00:06:17.000 --> 00:06:19.000
+ju do ta shihni robotin duke vajtur nga pika A tek pika B
+
+00:06:19.000 --> 00:06:21.000
+përmes një pike të ndërmjetme.
+
+00:06:27.000 --> 00:06:29.000
+Pra roboti është padyshim në gjendje
+
+00:06:29.000 --> 00:06:31.000
+për ekzekutimin e çdo trajektore kurbë.

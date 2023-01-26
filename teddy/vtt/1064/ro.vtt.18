@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:59.000 --> 00:09:01.000
+Şi apoi vrei să te asiguri
+
+00:09:01.000 --> 00:09:03.000
+că distanţarea e în limite acceptabile.
+
+00:09:03.000 --> 00:09:06.000
+Din nou roboţii monitorizează această eroare
+
+00:09:06.000 --> 00:09:08.000
+şi calculează comenzile de control
+
+00:09:08.000 --> 00:09:10.000
+de 100 de ori pe secundă,
+
+00:09:10.000 --> 00:09:13.000
+care apoi e transmis către motor de 600 de ori pe secundă.
+
+00:09:13.000 --> 00:09:15.000
+Deci şi asta a fost făcut
+
+00:09:15.000 --> 00:09:17.000
+în mod descentralizat.
+
+00:09:17.000 --> 00:09:19.000
+Dacă avem mulţi, mulţi roboţi,
+
+00:09:19.000 --> 00:09:23.000
+e imposibil să coordonăm toate aceste informaţii central
+
+00:09:23.000 --> 00:09:26.000
+destul de repede ca roboţii să îndeplinească sarcina.
+
+00:09:26.000 --> 00:09:28.000
+În plus roboţii trebuie să-şi bazeze acţiunile
+
+00:09:28.000 --> 00:09:30.000
+doar pe informaţiile locale,
+
+00:09:30.000 --> 00:09:32.000
+pe ceea ce simt de la vecinii lor.

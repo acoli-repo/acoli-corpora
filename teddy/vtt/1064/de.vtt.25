@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:27.000 --> 00:12:30.000
+Und er navigiert relativ zu diesen Merkmalen.
+
+00:12:30.000 --> 00:12:32.000
+Ich möchte in einem kurzen Film
+
+00:12:32.000 --> 00:12:34.000
+Algorithmen zeigen, die von Frank Shen
+
+00:12:34.000 --> 00:12:36.000
+und Professor Nathan Michael entwickelt werden.
+
+00:12:36.000 --> 00:12:40.000
+Er zeigt, wie ein Roboter ein Haus zum ersten Mal betritt
+
+00:12:40.000 --> 00:12:43.000
+und im Flug diese Karte erstellt.
+
+00:12:43.000 --> 00:12:46.000
+Dieser Roboter findet heraus, was diese Merkmale sind.
+
+00:12:46.000 --> 00:12:48.000
+Und erstellt die Karte.
+
+00:12:48.000 --> 00:12:50.000
+Er berechnet, wo er sich relativ zu den Merkmalen befindet,
+
+00:12:50.000 --> 00:12:52.000
+und schätzt dann seine Position
+
+00:12:52.000 --> 00:12:54.000
+100 Mal pro Sekunde,
+
+00:12:54.000 --> 00:12:56.000
+was uns erlaubt, die Kontrollalgorithmen zu benutzen,
+
+00:12:56.000 --> 00:12:58.000
+die ich vorher beschrieben habe.
+
+00:12:58.000 --> 00:13:00.000
+Dieser Roboter hier wird tatsächlich
+
+00:13:00.000 --> 00:13:02.000
+von Frank ferngesteuert.

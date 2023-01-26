@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:29.000 --> 00:06:31.000
+de executar qualquer trajetória curva.
+
+00:06:31.000 --> 00:06:33.000
+Estas são trajetórias circulares
+
+00:06:33.000 --> 00:06:36.000
+nas quais o robô puxa cerca de 2 G.
+
+00:06:37.000 --> 00:06:41.000
+Aqui no topo você tem câmeras que captam movimentos
+
+00:06:41.000 --> 00:06:44.000
+que dizem ao robô onde ele está 100 vezes por segundo.
+
+00:06:44.000 --> 00:06:47.000
+Também dizem ao robô onde esses obstáculos estão.
+
+00:06:47.000 --> 00:06:49.000
+E os obstáculos podem estar se movendo.
+
+00:06:49.000 --> 00:06:52.000
+E aqui você vê Daniel atirar este aro no ar,
+
+00:06:52.000 --> 00:06:54.000
+enquanto o robô está calculando a posição do aro
+
+00:06:54.000 --> 00:06:58.000
+e tentando determinar a melhor forma de passar pelo aro.
+
+00:06:58.000 --> 00:07:00.000
+Então, como acadêmicos,
+
+00:07:00.000 --> 00:07:03.000
+somos sempre treinados a ser capazes de saltar por aros para levantar fundos para nossos laboratórios,

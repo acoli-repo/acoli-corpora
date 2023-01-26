@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:02.000
+Wartungsingenieure verzweifeln zu lassen,
+
+00:05:02.000 --> 00:05:05.000
+sodass sie nicht in der Lage dazu sein würden schnell dahinter zu kommen.
+
+00:05:05.000 --> 00:05:08.000
+Der große digitale Sprengkopf -- wir erhielten einen Einblick,
+
+00:05:08.000 --> 00:05:10.000
+indem wir uns sehr genau
+
+00:05:10.000 --> 00:05:12.000
+Daten und Datenstrukturen anschauten.
+
+00:05:12.000 --> 00:05:14.000
+Also zum Beispiel die Nummer 164
+
+00:05:14.000 --> 00:05:16.000
+sticht sehr heraus aus diesem Code;
+
+00:05:16.000 --> 00:05:18.000
+Man kann es nicht übersehen.
+
+00:05:18.000 --> 00:05:20.000
+Ich begann damit, wissenschaftliche Literatur durchzuarbeiten,
+
+00:05:20.000 --> 00:05:22.000
+darüber wie diese Zentrifugen
+
+00:05:22.000 --> 00:05:24.000
+in Natanz gebaut werden
+
+00:05:24.000 --> 00:05:26.000
+und fand heraus, dass sie strukturiert sind
+
+00:05:26.000 --> 00:05:28.000
+in sogenannten Kaskaden,
+
+00:05:28.000 --> 00:05:32.000
+und jede Kaskade enthält 164 Zentrifugen.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.000 --> 00:05:31.000
+Şi acel spaţiu cu 4 dimensiuni
+
+00:05:31.000 --> 00:05:34.000
+constă în X, Y, Z şi unghiul de giraţie.
+
+00:05:34.000 --> 00:05:36.000
+Ce fac roboţii,
+
+00:05:36.000 --> 00:05:40.000
+planifică ce noi numim o traiectorie de bruscare minimă.
+
+00:05:40.000 --> 00:05:42.000
+Ca să vă amintesc din fizică,
+
+00:05:42.000 --> 00:05:44.000
+aveţi poziţia, derivata, viteza,
+
+00:05:44.000 --> 00:05:46.000
+apoi acceleraţia,
+
+00:05:46.000 --> 00:05:48.000
+apoi urmează saltul
+
+00:05:48.000 --> 00:05:50.000
+şi apoi vine lansarea bruscă.
+
+00:05:50.000 --> 00:05:53.000
+Acest robot minimizează bruscarea.
+
+00:05:53.000 --> 00:05:55.000
+Efectul este
+
+00:05:55.000 --> 00:05:57.000
+că produce o mişcare lină şi graţioasă.
+
+00:05:57.000 --> 00:06:00.000
+Şi face asta evitând obstacolele.
+
+00:06:00.000 --> 00:06:03.000
+Aceste traiectorii de bruscare minimă în spaţiul plan

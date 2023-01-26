@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+is uitgerust met een camera
+
+00:12:01.000 --> 00:12:04.000
+een een optische afstandsmeter, een laserscanner.
+
+00:12:04.000 --> 00:12:06.000
+Het gebruikt deze sensoren
+
+00:12:06.000 --> 00:12:08.000
+om een kaart van de omgeving op te stellen.
+
+00:12:08.000 --> 00:12:11.000
+Die kaart bestaat uit kenmerken --
+
+00:12:11.000 --> 00:12:13.000
+deuren, vensters,
+
+00:12:13.000 --> 00:12:15.000
+mensen, meubilair --
+
+00:12:15.000 --> 00:12:17.000
+en zoekt dan uit waar zijn positie is
+
+00:12:17.000 --> 00:12:19.000
+met betrekking tot die kenmerken.
+
+00:12:19.000 --> 00:12:21.000
+Er is geen algemeen coördinatensysteem.
+
+00:12:21.000 --> 00:12:24.000
+Het coördinatensysteem is gebaseerd op de robot,
+
+00:12:24.000 --> 00:12:27.000
+waar die is en waar hij naar kijkt.
+
+00:12:27.000 --> 00:12:30.000
+Hij navigeert op basis van die kenmerken.
+
+00:12:30.000 --> 00:12:32.000
+Ik toon jullie een filmpje

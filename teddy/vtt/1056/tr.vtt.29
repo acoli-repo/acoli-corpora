@@ -1,0 +1,53 @@
+WEBVTT
+
+00:14:28.164 --> 00:14:30.834
+
+öğrenme stratejileri nelerdir? ' gibi
+
+00:14:30.834 --> 00:14:33.340
+temel soruları
+anlamak için kullanabilirsiniz.
+
+00:14:33.340 --> 00:14:35.520
+Belirli derslerin bağlamına dayanarak ise
+
+00:14:35.520 --> 00:14:37.367
+şöyle sorular sorabilirsiniz, örneğin,
+
+00:14:37.367 --> 00:14:40.682
+derslerde sık sık yanlış anlaşılan şeyler 
+nelerdir ve biz öğrencilere
+
+00:14:40.682 --> 00:14:42.629
+bunları düzeltmede
+nasıl yardımcı oluruz?
+
+00:14:42.629 --> 00:14:43.693
+Burada yine Andrew’un
+
+00:14:43.693 --> 00:14:45.899
+Makine Öğrenmesi 
+dersinden bir örneğe bakalım.
+
+00:14:45.899 --> 00:14:47.377
+Bu Andrew’un ödevine verilen
+
+00:14:47.377 --> 00:14:49.267
+yanlış cevapların bir dağılımı.
+
+00:14:49.267 --> 00:14:51.360
+Cevaplar rakam çiftleri olarak dağılmış,
+
+00:14:51.360 --> 00:14:54.051
+bu sayede iki boyutlu bir şema
+üzerinde gösterilebiliyor.
+
+00:14:54.051 --> 00:14:57.069
+Her bir çarpı işareti 
+farklı bir yanlış cevabı temsil ediyor.
+
+00:14:57.709 --> 00:14:59.575
+Yukarıdaki büyük çarpı işareti ise
+
+00:14:59.905 --> 00:15:01.703
+2.000 öğrencinin verdiği

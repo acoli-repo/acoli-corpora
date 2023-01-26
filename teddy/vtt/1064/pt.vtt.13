@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:28.110 --> 00:06:31.943
+O robô obviamente é capaz
+de executar qualquer trajetória curva.
+
+00:06:31.970 --> 00:06:36.206
+Estas são trajetórias circulares
+em que o robô atinge cerca de 2 G.
+
+00:06:37.790 --> 00:06:41.510
+Em cima, temos câmaras 
+de deteção de movimento
+
+00:06:41.510 --> 00:06:44.510
+que dizem ao robô onde ele está 
+umas 100 vezes por segundo.
+
+00:06:44.510 --> 00:06:47.260
+Também dizem ao robô 
+onde estão estes obstáculos.
+
+00:06:48.330 --> 00:06:49.900
+Os obstáculos pode mover-se.
+
+00:06:49.900 --> 00:06:52.290
+Veem aqui o Daniel a atirar o arco ao ar
+
+00:06:52.290 --> 00:06:55.030
+enquanto o robô calcula a posição do arco
+
+00:06:55.030 --> 00:06:58.000
+e tenta descobrir a melhor maneira 
+de atravessar o arco.
+
+00:06:58.720 --> 00:07:00.220
+Enquanto universitários,

@@ -1,0 +1,49 @@
+WEBVTT
+
+00:14:28.164 --> 00:14:30.044
+comme, quelles sont les bonnes stratégies d'apprentissage
+
+00:14:30.044 --> 00:14:32.740
+qui sont efficaces et celles qui ne le sont pas ?
+
+00:14:32.740 --> 00:14:34.980
+Dans un cours précis,
+
+00:14:34.980 --> 00:14:36.517
+on peut se poser des questions
+
+00:14:36.517 --> 00:14:39.772
+comme, quelles sont les erreurs les plus communes
+
+00:14:39.772 --> 00:14:41.949
+et comment aider les étudiants à y remédier ?
+
+00:14:41.949 --> 00:14:43.373
+Voici un exemple
+
+00:14:43.373 --> 00:14:45.389
+également tiré du cours d'apprentissage automatique
+d'Andrew.
+
+00:14:45.389 --> 00:14:47.597
+C'est une distribution de mauvaises réponses
+
+00:14:47.597 --> 00:14:49.207
+à un des exercices d'Andrew.
+
+00:14:49.207 --> 00:14:51.100
+Les réponses se trouvent être des paires de nombres,
+
+00:14:51.100 --> 00:14:53.371
+on peut donc les représenter sur un graphique 
+en deux dimensions.
+
+00:14:53.371 --> 00:14:57.149
+Chaque petite croix que vous voyez 
+est une mauvaise réponse,
+
+00:14:57.149 --> 00:14:59.555
+La grande croix en haut à gauche,
+
+00:14:59.555 --> 00:15:01.703
+c'est là où 2000 étudiants

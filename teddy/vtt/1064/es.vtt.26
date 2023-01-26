@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:58.000 --> 00:13:00.000
+Así que este robot es comandado
+
+00:13:00.000 --> 00:13:02.000
+a distancia por Frank.
+
+00:13:02.000 --> 00:13:04.000
+Pero el robot puede averiguar
+
+00:13:04.000 --> 00:13:06.000
+a dónde ir por su cuenta.
+
+00:13:06.000 --> 00:13:08.000
+Supongan que lo enviara a un edificio
+
+00:13:08.000 --> 00:13:10.000
+y no tuviera idea del aspecto del edificio,
+
+00:13:10.000 --> 00:13:12.000
+puedo pedirle al robot que entre,
+
+00:13:12.000 --> 00:13:14.000
+que trace un mapa
+
+00:13:14.000 --> 00:13:17.000
+y luego regrese y me diga cómo es el edificio.
+
+00:13:17.000 --> 00:13:20.000
+Aquí, el robot no sólo resuelve el problema
+
+00:13:20.000 --> 00:13:23.000
+de cómo ir del punto A al punto B en este mapa,
+
+00:13:23.000 --> 00:13:25.000
+sino que averigua
+
+00:13:25.000 --> 00:13:27.000
+cuál es el mejor punto B en cada momento.
+
+00:13:27.000 --> 00:13:30.000
+En esencia, sabe dónde ir
+
+00:13:30.000 --> 00:13:32.000
+a buscar lugares con la menor información.

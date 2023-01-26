@@ -1,0 +1,46 @@
+WEBVTT
+
+00:05:26.169 --> 00:05:30.063
+and transform it into a flat,
+four-dimensional space.
+
+00:05:30.087 --> 00:05:33.158
+And that four-dimensional space
+consists of X, Y, Z,
+
+00:05:33.182 --> 00:05:34.594
+and then the yaw angle.
+
+00:05:34.618 --> 00:05:35.976
+And so what the robot does,
+
+00:05:36.000 --> 00:05:39.976
+is it plans what we call
+a minimum-snap trajectory.
+
+00:05:40.949 --> 00:05:42.346
+So to remind you of physics:
+
+00:05:42.370 --> 00:05:44.424
+You have position, derivative, velocity;
+
+00:05:44.448 --> 00:05:46.304
+then acceleration;
+
+00:05:46.328 --> 00:05:48.429
+and then comes jerk,
+
+00:05:48.453 --> 00:05:49.873
+and then comes snap.
+
+00:05:50.318 --> 00:05:52.770
+So this robot minimizes snap.
+
+00:05:53.540 --> 00:05:54.976
+So what that effectively does,
+
+00:05:55.000 --> 00:05:57.624
+is produce a smooth and graceful motion.
+
+00:05:57.648 --> 00:06:00.490
+And it does that avoiding obstacles.

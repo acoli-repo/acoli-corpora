@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:57.000 --> 00:06:00.000
+Şi face asta evitând obstacolele.
+
+00:06:00.000 --> 00:06:03.000
+Aceste traiectorii de bruscare minimă în spaţiul plan
+
+00:06:03.000 --> 00:06:05.000
+sunt apoi transformate înapoi
+
+00:06:05.000 --> 00:06:07.000
+în spaţiul complicat de 12 dimensiuni,
+
+00:06:07.000 --> 00:06:09.000
+pe care trebuie să-l facă robotul
+
+00:06:09.000 --> 00:06:11.000
+pentru control şi execuţie.
+
+00:06:11.000 --> 00:06:13.000
+Să vă arăt câteva exemple
+
+00:06:13.000 --> 00:06:15.000
+de cum arată aceste traiectorii de bruscare minimă.
+
+00:06:15.000 --> 00:06:17.000
+În primul video-clip,
+
+00:06:17.000 --> 00:06:19.000
+vedeți robotul plecând de la punctul A la B
+
+00:06:19.000 --> 00:06:21.000
+trecând printr-un punct intermediar.
+
+00:06:27.000 --> 00:06:29.000
+Robotul e în mod evident capabil
+
+00:06:29.000 --> 00:06:31.000
+de a executa orice traiectorie curbată.

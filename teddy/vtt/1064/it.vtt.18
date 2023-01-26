@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:59.000 --> 00:09:01.000
+E poi vorrete accertarvi
+
+00:09:01.000 --> 00:09:03.000
+che la distanza rientri in limiti accettabili.
+
+00:09:03.000 --> 00:09:06.000
+Dunque i robot monitorano questo errore
+
+00:09:06.000 --> 00:09:08.000
+e ricalcolano i comandi di controllo
+
+00:09:08.000 --> 00:09:10.000
+100 volte al secondo,
+
+00:09:10.000 --> 00:09:13.000
+il che si traduce in 600 volte al secondo per i comandi dei motori.
+
+00:09:13.000 --> 00:09:15.000
+E anche questo deve poter essere fatto
+
+00:09:15.000 --> 00:09:17.000
+in maniera decentralizzata.
+
+00:09:17.000 --> 00:09:19.000
+Di nuovo, se fate volare grandi quantità di robot,
+
+00:09:19.000 --> 00:09:23.000
+è impossibile coordinare centralmente tutte le informazioni
+
+00:09:23.000 --> 00:09:26.000
+abbastanza rapidamente da far loro portare a termine il lavoro.
+
+00:09:26.000 --> 00:09:28.000
+Inoltre i robot devono basare le loro azioni
+
+00:09:28.000 --> 00:09:30.000
+solo su informazioni locali,
+
+00:09:30.000 --> 00:09:32.000
+su ciò che percepiscono dai loro vicini.

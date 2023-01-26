@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:57.000 --> 00:05:00.000
+ili u objekte s reaktorima
+
+00:05:00.000 --> 00:05:03.000
+da izmjere razinu radijacije.
+
+00:05:04.000 --> 00:05:06.000
+Osnovni problem
+
+00:05:06.000 --> 00:05:09.000
+s kojim se roboti moraju nositi, samoinicijativno
+
+00:05:09.000 --> 00:05:11.000
+je u biti zaključivanje
+
+00:05:11.000 --> 00:05:13.000
+kako doći od točke A do točke B.
+
+00:05:13.000 --> 00:05:15.000
+Dakle stvari postaju složenije
+
+00:05:15.000 --> 00:05:18.000
+s porašću dinamike robota.
+
+00:05:18.000 --> 00:05:20.000
+U načelu, roboti žive u 12-dimenzionalnom prostoru.
+
+00:05:20.000 --> 00:05:22.000
+Pa smo morali tome doskočiti.
+
+00:05:22.000 --> 00:05:25.000
+Uzeli smo zakrivljeni 12-dimenzionalni prostor
+
+00:05:25.000 --> 00:05:27.000
+i transformirali ga
+
+00:05:27.000 --> 00:05:29.000
+u ravninski 4-dimenzionalni prostor.
+
+00:05:29.000 --> 00:05:31.000
+Ovaj 4-dimenzionalni prostor

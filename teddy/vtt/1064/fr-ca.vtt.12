@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:57.000 --> 00:06:00.000
+Et ça le fait en évitant des obstacles.
+
+00:06:00.000 --> 00:06:03.000
+Ces trajectoires ... dans cet espace plat
+
+00:06:03.000 --> 00:06:05.000
+sont alors retranscrites
+
+00:06:05.000 --> 00:06:07.000
+dans ce complexe espace dodéca-dimensionnel
+
+00:06:07.000 --> 00:06:09.000
+ce que le robot doit faire
+
+00:06:09.000 --> 00:06:11.000
+pour le contrôle et aussi l'exécution.
+
+00:06:11.000 --> 00:06:13.000
+Laissez moi vous montrer quelques exemples
+
+00:06:13.000 --> 00:06:15.000
+de ce à quoi ces trajectoires ... ressemblent.
+
+00:06:15.000 --> 00:06:17.000
+Dans la première vidéo,
+
+00:06:17.000 --> 00:06:19.000
+vous allez voir le robot aller d'un point A à un point B
+
+00:06:19.000 --> 00:06:21.000
+en passant par un point intermédiaire.
+
+00:06:27.000 --> 00:06:29.000
+Le robot est manifestement capable
+
+00:06:29.000 --> 00:06:31.000
+d'exécuter n'importer quelle trajectoire en courbe.

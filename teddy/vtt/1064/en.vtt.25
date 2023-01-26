@@ -1,0 +1,42 @@
+WEBVTT
+
+00:12:27.315 --> 00:12:30.070
+And it navigates with respect
+to those features.
+
+00:12:31.056 --> 00:12:32.476
+So I want to show you a clip
+
+00:12:32.500 --> 00:12:36.452
+of algorithms developed by Frank Shen
+and Professor Nathan Michael,
+
+00:12:36.476 --> 00:12:40.245
+that shows this robot entering
+a building for the very first time,
+
+00:12:40.269 --> 00:12:42.691
+and creating this map on the fly.
+
+00:12:43.382 --> 00:12:46.540
+So the robot then figures out
+what the features are,
+
+00:12:46.564 --> 00:12:47.715
+it builds the map,
+
+00:12:47.739 --> 00:12:50.706
+it figures out where it is
+with respect to the features,
+
+00:12:50.730 --> 00:12:54.678
+and then estimates its position
+100 times a second,
+
+00:12:54.702 --> 00:12:58.520
+allowing us to use the control algorithms
+that I described to you earlier.
+
+00:12:58.544 --> 00:13:02.977
+So this robot is actually being
+commanded remotely by Frank,

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:57.000 --> 00:06:00.000
+Y todo eso, evitando obstáculos.
+
+00:06:00.000 --> 00:06:03.000
+Estas trayectorias de sacudida mínima en el espacio plano
+
+00:06:03.000 --> 00:06:05.000
+luego son transformadas
+
+00:06:05.000 --> 00:06:07.000
+en este espacio complicado de 12 dimensiones
+
+00:06:07.000 --> 00:06:09.000
+que el robot debe realizar
+
+00:06:09.000 --> 00:06:11.000
+para el control y posterior ejecución.
+
+00:06:11.000 --> 00:06:13.000
+Les mostraré algunos ejemplos
+
+00:06:13.000 --> 00:06:15.000
+de trayectorias de sacudida mínima.
+
+00:06:15.000 --> 00:06:17.000
+En el primer video
+
+00:06:17.000 --> 00:06:19.000
+verán al robot ir del punto A al punto B,
+
+00:06:19.000 --> 00:06:21.000
+pasando por un punto intermedio.
+
+00:06:27.000 --> 00:06:29.000
+El robot puede recorrer
+
+00:06:29.000 --> 00:06:31.000
+cualquier trayectoria curva.

@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:27.000 --> 00:12:30.000
+Şi navighează ţinând seama de acele caracterisitici.
+
+00:12:30.000 --> 00:12:32.000
+Vreau să vă arăt un clip
+
+00:12:32.000 --> 00:12:34.000
+ilustrând alogitmii programaţi de Frank Shen
+
+00:12:34.000 --> 00:12:36.000
+şi profesorul Nathan Michael
+
+00:12:36.000 --> 00:12:40.000
+care arată acest robot intrând într-o clădire pentru prima dată
+
+00:12:40.000 --> 00:12:43.000
+şi realizând harta în zbor.
+
+00:12:43.000 --> 00:12:46.000
+Robotul calculează caracteristicile.
+
+00:12:46.000 --> 00:12:48.000
+Construieşte harta.
+
+00:12:48.000 --> 00:12:50.000
+Calculează unde se află în funcție de repere
+
+00:12:50.000 --> 00:12:52.000
+şi apoi îşi estimează poziţia
+
+00:12:52.000 --> 00:12:54.000
+de 100 de ori pe secundă
+
+00:12:54.000 --> 00:12:56.000
+permiţându-ne să folosim algoritmii de control
+
+00:12:56.000 --> 00:12:58.000
+pe care i-am descris mai devreme.
+
+00:12:58.000 --> 00:13:00.000
+Acest robot e comandat
+
+00:13:00.000 --> 00:13:02.000
+de la distanţă de Frank.

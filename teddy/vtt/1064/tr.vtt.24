@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+bir kamera, lazer mesafe ölçer
+
+00:12:01.000 --> 00:12:04.000
+tarayıcı ile donatılmıştır.
+
+00:12:04.000 --> 00:12:06.000
+Çevresinin haritasını çıkarmak için
+
+00:12:06.000 --> 00:12:08.000
+sensörlerini kullanıyor.
+
+00:12:08.000 --> 00:12:11.000
+Haritanın sahip olduğu özellikler olan --
+
+00:12:11.000 --> 00:12:13.000
+kapı girişleri, pencereler,
+
+00:12:13.000 --> 00:12:15.000
+insanlar, mobilyalar--
+
+00:12:15.000 --> 00:12:17.000
+ve sonra kendi konumunu bunlarla karşılaştırarak
+
+00:12:17.000 --> 00:12:19.000
+tahmin edebiliyor.
+
+00:12:19.000 --> 00:12:21.000
+Öyle ki hiç bir global koordinasyon sistemi yok.
+
+00:12:21.000 --> 00:12:24.000
+Koordinasyon sistemi robotun
+
+00:12:24.000 --> 00:12:27.000
+nerede olduğu ve nereye baktığı baz alınarak oluşuyor.
+
+00:12:27.000 --> 00:12:30.000
+Bu özelliklere riayet ederek yön tayininde bulunuyor.
+
+00:12:30.000 --> 00:12:32.000
+Size Frank Shen ve

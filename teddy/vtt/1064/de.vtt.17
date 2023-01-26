@@ -1,0 +1,46 @@
+WEBVTT
+
+00:08:27.000 --> 00:08:30.000
+Diese Ameisen haben keinen zentralen Koordinator.
+
+00:08:30.000 --> 00:08:32.000
+Sie nehmen ihre Nachbarn wahr.
+
+00:08:32.000 --> 00:08:34.000
+Es gibt keine explizite Kommunikation.
+
+00:08:34.000 --> 00:08:36.000
+Aber weil sie ihre Nachbarn spüren
+
+00:08:36.000 --> 00:08:38.000
+und weil sie das Objekt spüren,
+
+00:08:38.000 --> 00:08:41.000
+haben sie eine implizite Koordination innerhalb der Gruppe.
+
+00:08:41.000 --> 00:08:43.000
+Und diese Art der Koordination
+
+00:08:43.000 --> 00:08:46.000
+sollen auch unsere Roboter haben.
+
+00:08:46.000 --> 00:08:48.000
+Wenn wir also einen Roboter haben,
+
+00:08:48.000 --> 00:08:50.000
+der von seinen Nachbarn umgeben ist –
+
+00:08:50.000 --> 00:08:52.000
+schauen wir uns Roboter I und J an –
+
+00:08:52.000 --> 00:08:54.000
+was wir von den Robotern wollen,
+
+00:08:54.000 --> 00:08:57.000
+ist, dass sie den Abstand zwischen sich überwachen,
+
+00:08:57.000 --> 00:08:59.000
+während sie in der Formation fliegen.
+
+00:08:59.000 --> 00:09:01.000
+Und dann muss man sicherstellen,

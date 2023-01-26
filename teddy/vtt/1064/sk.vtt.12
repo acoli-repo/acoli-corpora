@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:57.000 --> 00:06:00.000
+A pritom sa vyhýba prekážkam.
+
+00:06:00.000 --> 00:06:03.000
+Tieto minimálne snapové dráhy v plochom priestore
+
+00:06:03.000 --> 00:06:05.000
+sú potom prevedené späť
+
+00:06:05.000 --> 00:06:07.000
+do toho komplikovaného 12-rozmerného priestoru,
+
+00:06:07.000 --> 00:06:09.000
+čo robot musí urobiť,
+
+00:06:09.000 --> 00:06:11.000
+kvôli ovládaniu a vykonávaniu.
+
+00:06:11.000 --> 00:06:13.000
+Dovoľte mi ukázať Vám pár príkladov toho,
+
+00:06:13.000 --> 00:06:15.000
+ako tieto minimálne snapové dráhy vyzerajú.
+
+00:06:15.000 --> 00:06:17.000
+A v prvom videu
+
+00:06:17.000 --> 00:06:19.000
+uvidíte robota, ako ide z bodu A do bodu B
+
+00:06:19.000 --> 00:06:21.000
+cez bod ležiaci uprostred.
+
+00:06:27.000 --> 00:06:29.000
+Tento robot je teda schopný
+
+00:06:29.000 --> 00:06:31.000
+sledovať akúkoľvek zakrivenú dráhu.

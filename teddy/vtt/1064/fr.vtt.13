@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:29.000 --> 00:06:31.000
+d'exécuter n'importe quelle trajectoire courbe.
+
+00:06:31.000 --> 00:06:33.000
+Ce sont donc des trajectoires circulaires
+
+00:06:33.000 --> 00:06:36.000
+où le robot subit environ deux G.
+
+00:06:37.000 --> 00:06:41.000
+Ici vous avez des caméras de captation de mouvement sur le dessus
+
+00:06:41.000 --> 00:06:44.000
+qui disent au robot où il se trouve 100 fois par seconde.
+
+00:06:44.000 --> 00:06:47.000
+Elles disent aussi au robot où sont ces obstacles.
+
+00:06:47.000 --> 00:06:49.000
+Et les obstacles peuvent être en mouvement.
+
+00:06:49.000 --> 00:06:52.000
+Et ici, vous verrez Daniel jeter ce cerceau dans l'air,
+
+00:06:52.000 --> 00:06:54.000
+tandis que le robot calcule la position du cerceau
+
+00:06:54.000 --> 00:06:58.000
+et essaye de trouver la meilleure façon de passer à travers le cerceau.
+
+00:06:58.000 --> 00:07:00.000
+En tant qu'universitaire, on nous forme toujours
+
+00:07:00.000 --> 00:07:03.000
+à réussir les épreuves de sélection afin de lever des fonds pour nos labos,

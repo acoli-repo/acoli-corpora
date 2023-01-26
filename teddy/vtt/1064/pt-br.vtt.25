@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:27.000 --> 00:12:30.000
+E ele navega com relação a estas características.
+
+00:12:30.000 --> 00:12:32.000
+Quero exibir um clipe
+
+00:12:32.000 --> 00:12:34.000
+de algoritmos desenvolvido por Frank Shen
+
+00:12:34.000 --> 00:12:36.000
+e pelo professor Nathan Michael
+
+00:12:36.000 --> 00:12:40.000
+que mostra este robô entrando em um edificio pela primeira vez
+
+00:12:40.000 --> 00:12:43.000
+e criando um mapa durante o voo.
+
+00:12:43.000 --> 00:12:46.000
+Dessa forma o robô determina quais são as características.
+
+00:12:46.000 --> 00:12:48.000
+Constrói o mapa.
+
+00:12:48.000 --> 00:12:50.000
+Determina onde está com relação às características
+
+00:12:50.000 --> 00:12:52.000
+e então calcula sua posição
+
+00:12:52.000 --> 00:12:54.000
+100 vezez por segundo,
+
+00:12:54.000 --> 00:12:56.000
+permitindo-nos usar os algoritmos de controle
+
+00:12:56.000 --> 00:12:58.000
+que descrevi anteriormente.
+
+00:12:58.000 --> 00:13:00.000
+Na verdade, este robô está sendo comandado
+
+00:13:00.000 --> 00:13:02.000
+remotamente por Frank.

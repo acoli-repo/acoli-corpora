@@ -1,0 +1,46 @@
+WEBVTT
+
+00:08:27.000 --> 00:08:30.000
+Queste formiche non hanno un coordinamento centrale.
+
+00:08:30.000 --> 00:08:32.000
+Si basano sulle loro vicine.
+
+00:08:32.000 --> 00:08:34.000
+Nessuna comunicazione esplicita.
+
+00:08:34.000 --> 00:08:36.000
+Ma dato che si relazionano alle vicine
+
+00:08:36.000 --> 00:08:38.000
+e che sono in contatto con l'oggetto,
+
+00:08:38.000 --> 00:08:41.000
+esiste nel gruppo una coordinazione implicita.
+
+00:08:41.000 --> 00:08:43.000
+Ed è proprio il tipo di coordinazione
+
+00:08:43.000 --> 00:08:46.000
+che serve ai nostri robot.
+
+00:08:46.000 --> 00:08:48.000
+Quindi quando un robot
+
+00:08:48.000 --> 00:08:50.000
+è circondato da altri robot -
+
+00:08:50.000 --> 00:08:52.000
+prendiamo i robot I e J -
+
+00:08:52.000 --> 00:08:54.000
+quello che vogliamo che facciano
+
+00:08:54.000 --> 00:08:57.000
+è monitorare la distanza reciproca
+
+00:08:57.000 --> 00:08:59.000
+mentre volano in formazione.
+
+00:08:59.000 --> 00:09:01.000
+E poi vorrete accertarvi

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:57.000 --> 00:05:00.000
+Ze kunnen reactorgebouwen worden ingestuurd
+
+00:05:00.000 --> 00:05:03.000
+om stralingsniveaus in kaart te brengen.
+
+00:05:04.000 --> 00:05:06.000
+Een fundamenteel probleem
+
+00:05:06.000 --> 00:05:09.000
+dat robots moeten oplossen om autonoom te zijn,
+
+00:05:09.000 --> 00:05:11.000
+is uitzoeken
+
+00:05:11.000 --> 00:05:13.000
+hoe ze van punt A naar punt B geraken.
+
+00:05:13.000 --> 00:05:15.000
+Dat wordt een uitdaging
+
+00:05:15.000 --> 00:05:18.000
+omdat de dynamica van deze robot ingewikkeld is.
+
+00:05:18.000 --> 00:05:20.000
+Ze bewegen zich in een 12-dimensionale ruimte.
+
+00:05:20.000 --> 00:05:22.000
+Daarom gebruiken we een trucje.
+
+00:05:22.000 --> 00:05:25.000
+We nemen deze 12-dimensionale gekromde ruimte
+
+00:05:25.000 --> 00:05:27.000
+en vormen ze om
+
+00:05:27.000 --> 00:05:29.000
+tot een vlakke vierdimensionale ruimte.
+
+00:05:29.000 --> 00:05:31.000
+Die vierdimensionale ruimte

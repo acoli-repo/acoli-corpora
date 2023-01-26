@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:58.000 --> 00:13:00.000
+Dieser Roboter hier wird tatsächlich
+
+00:13:00.000 --> 00:13:02.000
+von Frank ferngesteuert.
+
+00:13:02.000 --> 00:13:04.000
+Aber der Roboter kann auch alleine
+
+00:13:04.000 --> 00:13:06.000
+herausfinden, wo er hin will.
+
+00:13:06.000 --> 00:13:08.000
+Angenommen, ich müsste ihn in ein Gebäude schicken
+
+00:13:08.000 --> 00:13:10.000
+und ich wüsste überhaupt nicht, wie es aussieht,
+
+00:13:10.000 --> 00:13:12.000
+Ich kann den Roboter bitten, hinein zu gehen,
+
+00:13:12.000 --> 00:13:14.000
+eine Karte zu erstellen
+
+00:13:14.000 --> 00:13:17.000
+wiederzukommen und mir zu sagen, wie das Gebäude aussieht.
+
+00:13:17.000 --> 00:13:20.000
+In diesem Fall löst der Roboter nicht nur das Problem
+
+00:13:20.000 --> 00:13:23.000
+wie er von Punkt A zu Punkt B in dieser Karte kommt,
+
+00:13:23.000 --> 00:13:25.000
+sonder er findet auch heraus,
+
+00:13:25.000 --> 00:13:27.000
+was der beste Punkt B zu jedem Zeitpunkt ist.
+
+00:13:27.000 --> 00:13:30.000
+Im Wesentlichen weiß er, wohin er gehen muss,
+
+00:13:30.000 --> 00:13:32.000
+um nach Orten zu suchen, über die er am wenigsten weiß.

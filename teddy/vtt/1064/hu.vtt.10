@@ -1,0 +1,44 @@
+WEBVTT
+
+00:04:57.000 --> 00:05:00.000
+vagy reaktorépületekbe,
+
+00:05:00.000 --> 00:05:03.000
+a sugárzási szint mérésére.
+
+00:05:04.000 --> 00:05:06.000
+Egy alapvető probléma,
+
+00:05:06.000 --> 00:05:09.000
+melyet az önálló robotoknak 
+meg kell oldaniuk,
+
+00:05:09.000 --> 00:05:11.000
+hogy kitalálják,
+
+00:05:11.000 --> 00:05:13.000
+hogyan jussanak A pontból B-be.
+
+00:05:13.000 --> 00:05:15.000
+Ez már kicsit komolyabb kihívás,
+
+00:05:15.000 --> 00:05:18.000
+mert a robotok dinamikája elég bonyolult.
+
+00:05:18.000 --> 00:05:20.000
+Konkrétan, egy 12 dimenziós térben élnek.
+
+00:05:20.000 --> 00:05:22.000
+Ezért Itt bevetünk egy kis trükköt.
+
+00:05:22.000 --> 00:05:25.000
+Fogjuk ezt a hajlított 12-dimenziós teret,
+
+00:05:25.000 --> 00:05:27.000
+és transzformáljuk
+
+00:05:27.000 --> 00:05:29.000
+egy lapos, négydimenziós térbe.
+
+00:05:29.000 --> 00:05:31.000
+Ez a négydimenziós tér pedig

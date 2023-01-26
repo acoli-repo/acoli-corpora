@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.000 --> 00:05:31.000
+A ta przestrzeń 4-wymiarowa
+
+00:05:31.000 --> 00:05:34.000
+składa się z X, Y, Z i kąta odchylenia.
+
+00:05:34.000 --> 00:05:36.000
+Robot planuje
+
+00:05:36.000 --> 00:05:40.000
+coś, co nazywamy trajektorią minimalnych drgań.
+
+00:05:40.000 --> 00:05:42.000
+Jak pamiętamy z fizyki,
+
+00:05:42.000 --> 00:05:44.000
+mamy położenie, pochodną, prędkość,
+
+00:05:44.000 --> 00:05:46.000
+potem przyspieszenie,
+
+00:05:46.000 --> 00:05:48.000
+następnie zryw,
+
+00:05:48.000 --> 00:05:50.000
+a później drganie.
+
+00:05:50.000 --> 00:05:53.000
+Ten robot minimalizuje drganie.
+
+00:05:53.000 --> 00:05:55.000
+W rezultacie
+
+00:05:55.000 --> 00:05:57.000
+wykonuje płynny i pełen gracji ruch.
+
+00:05:57.000 --> 00:06:00.000
+Robi to unikając przeszkód.
+
+00:06:00.000 --> 00:06:03.000
+W tej płaskiej przestrzeni te trajektorie minimalnych drań

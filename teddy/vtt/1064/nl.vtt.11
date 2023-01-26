@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.000 --> 00:05:31.000
+Die vierdimensionale ruimte
+
+00:05:31.000 --> 00:05:34.000
+bestaat uit X, Y, Z en de gierhoek.
+
+00:05:34.000 --> 00:05:36.000
+De robot doet het volgende:
+
+00:05:36.000 --> 00:05:40.000
+hij plant wat wij een minimale 'snap'-baan noemen.
+
+00:05:40.000 --> 00:05:42.000
+Kleine fysicaherhaling:
+
+00:05:42.000 --> 00:05:44.000
+je hebt positie, snelheid is de afgeleide,
+
+00:05:44.000 --> 00:05:46.000
+dan versnelling,
+
+00:05:46.000 --> 00:05:48.000
+dan 'jerk'
+
+00:05:48.000 --> 00:05:50.000
+en dan 'snap'.
+
+00:05:50.000 --> 00:05:53.000
+Deze robot minimaliseert 'snap'.
+
+00:05:53.000 --> 00:05:55.000
+Waar dat toe leidt,
+
+00:05:55.000 --> 00:05:57.000
+is een vloeiende en gracieuze beweging.
+
+00:05:57.000 --> 00:06:00.000
+Dat doet het door obstakels te vermijden.
+
+00:06:00.000 --> 00:06:03.000
+Deze minimale 'snap'-banen in een vlakke ruimte

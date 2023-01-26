@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.000 --> 00:05:31.000
+E esse espaço de quatro dimensões
+
+00:05:31.000 --> 00:05:34.000
+consiste em X, Y, Z e o ângulo da guinada.
+
+00:05:34.000 --> 00:05:36.000
+E o que esse robô faz
+
+00:05:36.000 --> 00:05:40.000
+é planejar o que chamamos de trajetória com salto mínimo.
+
+00:05:40.000 --> 00:05:42.000
+Assim, para lembrar-lhes a física,
+
+00:05:42.000 --> 00:05:44.000
+você tem posição, derivativo, velocidade,
+
+00:05:44.000 --> 00:05:46.000
+aceleração
+
+00:05:46.000 --> 00:05:48.000
+então vem empuxo
+
+00:05:48.000 --> 00:05:50.000
+e depois vem salto.
+
+00:05:50.000 --> 00:05:53.000
+Assim este robô minimiza o salto.
+
+00:05:53.000 --> 00:05:55.000
+O que ele efetivamente faz
+
+00:05:55.000 --> 00:05:57.000
+é produzir um movimento suave e gracioso.
+
+00:05:57.000 --> 00:06:00.000
+E ele faz isso evitando obstáculos.
+
+00:06:00.000 --> 00:06:03.000
+Então essas trajetórias com salto mínimo nesse espaço plano

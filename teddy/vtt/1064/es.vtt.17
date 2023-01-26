@@ -1,0 +1,46 @@
+WEBVTT
+
+00:08:27.000 --> 00:08:30.000
+Estas hormigas no tienen un coordinador central.
+
+00:08:30.000 --> 00:08:32.000
+Detectan a sus vecinas.
+
+00:08:32.000 --> 00:08:34.000
+No hay comunicación explícita.
+
+00:08:34.000 --> 00:08:36.000
+Pero como detectan a sus vecinas
+
+00:08:36.000 --> 00:08:38.000
+y detectan al objeto
+
+00:08:38.000 --> 00:08:41.000
+tienen, como grupo, una coordinación implícita.
+
+00:08:41.000 --> 00:08:43.000
+Ese es el tipo de coordinación
+
+00:08:43.000 --> 00:08:46.000
+que queremos para nuestros robots.
+
+00:08:46.000 --> 00:08:48.000
+Cuando tenemos un robot
+
+00:08:48.000 --> 00:08:50.000
+rodeado por vecinos
+
+00:08:50.000 --> 00:08:52.000
+-miremos al robot I y al J-
+
+00:08:52.000 --> 00:08:54.000
+queremos que los robots
+
+00:08:54.000 --> 00:08:57.000
+controlen la separación entre ellos
+
+00:08:57.000 --> 00:08:59.000
+mientras vuelan en formación,
+
+00:08:59.000 --> 00:09:01.000
+y asegurarnos

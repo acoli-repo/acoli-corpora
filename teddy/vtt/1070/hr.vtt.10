@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:02.000
+da izludite inžinjere održavanja,
+
+00:05:02.000 --> 00:05:05.000
+kako ne bi bili u mogućnosti naći rješenje u kratkom roku.
+
+00:05:05.000 --> 00:05:08.000
+Veliku digitalnu bojnu glavu -- imali smo priliku
+
+00:05:08.000 --> 00:05:10.000
+pomno promatriti
+
+00:05:10.000 --> 00:05:12.000
+podatke i strukture podataka.
+
+00:05:12.000 --> 00:05:14.000
+Tako naprimjer, broj 164
+
+00:05:14.000 --> 00:05:16.000
+se zbilja ističe u tom kodu;
+
+00:05:16.000 --> 00:05:18.000
+ne možete ga previdjeti.
+
+00:05:18.000 --> 00:05:20.000
+Počeo sam istraživati znanstvenu literaturu
+
+00:05:20.000 --> 00:05:22.000
+i otkrio kako su centrifuge
+
+00:05:22.000 --> 00:05:24.000
+zapravo napravljene u Natanzu
+
+00:05:24.000 --> 00:05:26.000
+i saznao sam da su strukturirane
+
+00:05:26.000 --> 00:05:28.000
+u tzv. kaskadu,
+
+00:05:28.000 --> 00:05:32.000
+od kojih svaka sadrži 164 centrifuge.

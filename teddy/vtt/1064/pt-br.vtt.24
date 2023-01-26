@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+é de fato equipado com uma câmera
+
+00:12:01.000 --> 00:12:04.000
+e um laser localizador, um laser escaneador.
+
+00:12:04.000 --> 00:12:06.000
+E ele usa esses sensores
+
+00:12:06.000 --> 00:12:08.000
+para construir um mapa do ambiente.
+
+00:12:08.000 --> 00:12:11.000
+Esse mapa consiste nas características --
+
+00:12:11.000 --> 00:12:13.000
+como portas, janelas,
+
+00:12:13.000 --> 00:12:15.000
+pessoas, mobília --
+
+00:12:15.000 --> 00:12:17.000
+e então ele determina qual é sua posição
+
+00:12:17.000 --> 00:12:19.000
+em relação às características.
+
+00:12:19.000 --> 00:12:21.000
+Assim não há sistema de coordenação global.
+
+00:12:21.000 --> 00:12:24.000
+O sistema de coordenação é definido com base no robô,
+
+00:12:24.000 --> 00:12:27.000
+onde ele está e para o que está olhando.
+
+00:12:27.000 --> 00:12:30.000
+E ele navega com relação a estas características.
+
+00:12:30.000 --> 00:12:32.000
+Quero exibir um clipe

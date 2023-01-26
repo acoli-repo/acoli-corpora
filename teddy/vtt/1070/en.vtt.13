@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:28.000 --> 00:06:30.000
+that we have actually determined what the target is.
+
+00:06:30.000 --> 00:06:33.000
+It is Natanz, and it is only Natanz.
+
+00:06:33.000 --> 00:06:35.000
+So we don't have to worry
+
+00:06:35.000 --> 00:06:37.000
+that other targets
+
+00:06:37.000 --> 00:06:39.000
+might be hit by Stuxnet.
+
+00:06:39.000 --> 00:06:42.000
+Here's some very cool stuff that we saw --
+
+00:06:42.000 --> 00:06:44.000
+really knocked my socks off.
+
+00:06:44.000 --> 00:06:46.000
+Down there is the gray box,
+
+00:06:46.000 --> 00:06:49.000
+and on the top you see the centrifuges.
+
+00:06:49.000 --> 00:06:51.000
+Now what this thing does
+
+00:06:51.000 --> 00:06:54.000
+is it intercepts the input values from sensors --
+
+00:06:54.000 --> 00:06:56.000
+so for example, from pressure sensors
+
+00:06:56.000 --> 00:06:58.000
+and vibration sensors --
+
+00:06:58.000 --> 00:07:01.000
+and it provides legitimate program code,

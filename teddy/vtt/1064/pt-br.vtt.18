@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:59.000 --> 00:09:01.000
+Portanto você quer ter certeza
+
+00:09:01.000 --> 00:09:03.000
+de que esse espaço está dentro de níveis aceitáveis.
+
+00:09:03.000 --> 00:09:06.000
+Novamente os robôs monitoram esse erro
+
+00:09:06.000 --> 00:09:08.000
+e calculam os comandos de controle
+
+00:09:08.000 --> 00:09:10.000
+100 vezes por segundo,
+
+00:09:10.000 --> 00:09:13.000
+que, então, traduz para o motor comandos 600 vezes por segundo.
+
+00:09:13.000 --> 00:09:15.000
+Isso também tem que ser feito
+
+00:09:15.000 --> 00:09:17.000
+de uma forma descentralizada.
+
+00:09:17.000 --> 00:09:19.000
+Novamente, se você tem muitos e muitos robôs,
+
+00:09:19.000 --> 00:09:23.000
+é impossível coordenar toda essa informação centralmente
+
+00:09:23.000 --> 00:09:26.000
+rápido o bastante para que os robôs realizem a tarefa.
+
+00:09:26.000 --> 00:09:28.000
+Acrescente-se que os robôs têm que basear suas ações
+
+00:09:28.000 --> 00:09:30.000
+apenas em informações locais,
+
+00:09:30.000 --> 00:09:32.000
+o que eles percebem de seus vizinhos.

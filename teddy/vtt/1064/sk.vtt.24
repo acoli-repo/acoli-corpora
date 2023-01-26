@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+je vlastne vybavený kamerou
+
+00:12:01.000 --> 00:12:04.000
+a laserovým pásmom, laserovým skenerom.
+
+00:12:04.000 --> 00:12:06.000
+A používa tieto senzory,
+
+00:12:06.000 --> 00:12:08.000
+aby vytvoril mapu okolia.
+
+00:12:08.000 --> 00:12:11.000
+Táto mapa pozostáva z čŕt --
+
+00:12:11.000 --> 00:12:13.000
+ako sú dvere, okná,
+
+00:12:13.000 --> 00:12:15.000
+ľudia, nábytok --
+
+00:12:15.000 --> 00:12:17.000
+a ono sa to snaží zistiť, kde sa práve nachádza,
+
+00:12:17.000 --> 00:12:19.000
+vzhľadom na tieto črty.
+
+00:12:19.000 --> 00:12:21.000
+Takže nie je žiaden globálny systém súradníc.
+
+00:12:21.000 --> 00:12:24.000
+Systém súradníc je definovaný podľa robota,
+
+00:12:24.000 --> 00:12:27.000
+kde sa nachádza a na čo pozerá.
+
+00:12:27.000 --> 00:12:30.000
+A robot sa naviguje podľa týchto čŕt.
+
+00:12:30.000 --> 00:12:32.000
+Chcel by som Vám ukázať video

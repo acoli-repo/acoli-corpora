@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.000 --> 00:05:31.000
+Dört boyutlu uzay
+
+00:05:31.000 --> 00:05:34.000
+X,Y,Z ve rota açısından oluşmaktadır.
+
+00:05:34.000 --> 00:05:36.000
+Bu yüzden robotların yaptığı şey
+
+00:05:36.000 --> 00:05:40.000
+minimum hava yörüngesinin oluşumunun planlamasıdır.
+
+00:05:40.000 --> 00:05:42.000
+Fiziği hatırlamak gerekirse,
+
+00:05:42.000 --> 00:05:44.000
+konumunuz, türeviniz, ivmeniz var,
+
+00:05:44.000 --> 00:05:46.000
+sonra hızlanma ve
+
+00:05:46.000 --> 00:05:48.000
+ve sonra hareketlenme geliyor
+
+00:05:48.000 --> 00:05:50.000
+ve daha sonra birleştirme geliyor.
+
+00:05:50.000 --> 00:05:53.000
+Bu robot birleşimi minimize ediyor.
+
+00:05:53.000 --> 00:05:55.000
+Etkin olarak yaptığı şey
+
+00:05:55.000 --> 00:05:57.000
+pürüzsüz ve ince hareket oluşturmasıdır.
+
+00:05:57.000 --> 00:06:00.000
+Bunu engellerden kaçınarak yapıyor.
+
+00:06:00.000 --> 00:06:03.000
+Bu düz bir uzayda minimum yörünge oluşturma

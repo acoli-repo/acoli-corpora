@@ -1,0 +1,48 @@
+WEBVTT
+
+00:12:27.280 --> 00:12:30.320
+Navega em relação a essas características.
+
+00:12:31.230 --> 00:12:32.480
+Quero mostrar-vos um vídeo
+
+00:12:32.480 --> 00:12:33.880
+dos algoritmos desenvolvidos
+
+00:12:33.880 --> 00:12:36.570
+pelo Frank Shen
+e pelo Professor Nathan Michael
+
+00:12:36.570 --> 00:12:40.210
+que mostra este robô a entrar 
+num edifício pela primeira vez
+
+00:12:40.210 --> 00:12:43.220
+e a criar este mapa de improviso.
+
+00:12:43.660 --> 00:12:46.760
+Depois o robô descobre 
+quais são as características.
+
+00:12:46.760 --> 00:12:48.000
+Constrói o mapa.
+
+00:12:48.000 --> 00:12:50.920
+Descobre onde está 
+em relação às características
+
+00:12:50.920 --> 00:12:53.090
+e depois calcula a sua posição,
+
+00:12:53.090 --> 00:12:54.810
+a 100 vezes por segundo,
+
+00:12:54.810 --> 00:12:57.030
+permitindo-nos usar 
+o algoritmo de controlo
+
+00:12:57.030 --> 00:12:58.770
+que vos descrevi antes.
+
+00:12:58.770 --> 00:13:00.740
+Este robô está a ser comandado

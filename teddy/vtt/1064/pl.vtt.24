@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+wyposażony jest w kamerę
+
+00:12:01.000 --> 00:12:04.000
+i skaner laserowy.
+
+00:12:04.000 --> 00:12:06.000
+Używa tych czujników
+
+00:12:06.000 --> 00:12:08.000
+do stworzenia mapy otoczenia.
+
+00:12:08.000 --> 00:12:11.000
+Mapa ta składa się z elementów takich,
+
+00:12:11.000 --> 00:12:13.000
+jak drzwi, okna,
+
+00:12:13.000 --> 00:12:15.000
+ludzie, meble,
+
+00:12:15.000 --> 00:12:17.000
+robot następnie określa swoje położenie
+
+00:12:17.000 --> 00:12:19.000
+względem tych obiektów.
+
+00:12:19.000 --> 00:12:21.000
+Nie istnieje więc globalny system sterujący.
+
+00:12:21.000 --> 00:12:24.000
+System sterujący jest określany w oparciu o robota,
+
+00:12:24.000 --> 00:12:27.000
+na tym gdzie jest i na co patrzy.
+
+00:12:27.000 --> 00:12:30.000
+Nawiguje uwzględniając te dane.
+
+00:12:30.000 --> 00:12:32.000
+Pokażę wam film

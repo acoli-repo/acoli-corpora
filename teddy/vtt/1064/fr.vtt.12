@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:57.000 --> 00:06:00.000
+Le tout en évitant les obstacles.
+
+00:06:00.000 --> 00:06:03.000
+Ces trajectoires de décrochage minimum dans cet espace plat
+
+00:06:03.000 --> 00:06:05.000
+sont ensuite transformées à nouveau
+
+00:06:05.000 --> 00:06:07.000
+dans cet espace complexe à 12 dimensions,
+
+00:06:07.000 --> 00:06:09.000
+ce que le robot doit faire
+
+00:06:09.000 --> 00:06:11.000
+pour le contrôle et l'exécution.
+
+00:06:11.000 --> 00:06:13.000
+Alors laissez-moi vous montrer quelques exemples
+
+00:06:13.000 --> 00:06:15.000
+de ce à quoi ressemblent ces trajectoires de décrochage minimum.
+
+00:06:15.000 --> 00:06:17.000
+Et dans la première vidéo,
+
+00:06:17.000 --> 00:06:19.000
+vous verrez le robot aller du point A au point B
+
+00:06:19.000 --> 00:06:21.000
+par un point intermédiaire.
+
+00:06:27.000 --> 00:06:29.000
+Ainsi, le robot est évidemment capable
+
+00:06:29.000 --> 00:06:31.000
+d'exécuter n'importe quelle trajectoire courbe.

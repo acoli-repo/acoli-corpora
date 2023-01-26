@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:57.000 --> 00:05:00.000
+apo të dergohen në ndërtesa raktive
+
+00:05:00.000 --> 00:05:03.000
+për të hartuar nivelet e radioaktivitetit.
+
+00:05:04.000 --> 00:05:06.000
+Pra një problem bazik
+
+00:05:06.000 --> 00:05:09.000
+që robotët duhet te zgjidhin, nëse ata janë autonomë
+
+00:05:09.000 --> 00:05:11.000
+është të bejnë zgjedhjen e duhur
+
+00:05:11.000 --> 00:05:13.000
+se si të arrijnë nga pika A tek ajo B.
+
+00:05:13.000 --> 00:05:15.000
+Pra kjo është pak sfiduese
+
+00:05:15.000 --> 00:05:18.000
+sepse dinamika e robotit është shumë e ndërlikuar.
+
+00:05:18.000 --> 00:05:20.000
+Faktikisht, ata jetojnë në një hapsirë 12-dimensionale
+
+00:05:20.000 --> 00:05:22.000
+Ndaj ne përdorim një mashtrim të vogël.
+
+00:05:22.000 --> 00:05:25.000
+Ne e marrim këtë vij të lakuar 12 dimensionale
+
+00:05:25.000 --> 00:05:27.000
+dhe e transformojmë atë
+
+00:05:27.000 --> 00:05:29.000
+në një hapsirë të rrafshët katër dimensionale.
+
+00:05:29.000 --> 00:05:31.000
+Dhe kjo hapësirë katër dimensionale
