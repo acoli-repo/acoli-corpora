@@ -1,0 +1,38 @@
+WEBVTT
+
+00:13:57.838 --> 00:14:00.394
+ahogy ezen a kis bemutatón is látható.
+
+00:14:00.418 --> 00:14:04.540
+E hálózat különféle tárgyak -
+pl. állatok, ember alkotta struktúrák -
+
+00:14:04.564 --> 00:14:07.683
+
+osztályba sorolására készült.
+
+00:14:07.707 --> 00:14:10.300
+Itt egyszerűen felhők képével kezdünk,
+
+00:14:10.324 --> 00:14:11.995
+és ahogy optimalizálunk,
+
+00:14:12.019 --> 00:14:16.505
+a hálózat eldönti, 
+hogy mit lát bele a felhőkbe.
+
+00:14:16.931 --> 00:14:19.251
+Minél tovább nézzük,
+
+00:14:19.275 --> 00:14:22.028
+annál több dolgot látunk beléjük.
+
+00:14:23.004 --> 00:14:26.379
+Használhatjuk az arcfölismerő hálózatot,
+hogy arcokat lássunk bele,
+
+00:14:26.403 --> 00:14:28.215
+és eléggé észbontó dolgokhoz jutunk.
+
+00:14:28.239 --> 00:14:29.389
+(Nevetés)

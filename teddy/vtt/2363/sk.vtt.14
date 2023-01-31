@@ -1,0 +1,32 @@
+WEBVTT
+
+00:06:53.697 --> 00:07:00.069
+tipnú si heslo, ktoré by tam mohlo byť, 
+použijú naň hašovaciu funkciu
+
+00:07:00.069 --> 00:07:05.466
+a uvidia, či sa výsledok zhoduje 
+s niektorým šifrovaným heslom v súbore.
+
+00:07:05.466 --> 00:07:09.392
+Tí hlúpejší skúsia všetky heslá zaradom.
+
+00:07:09.392 --> 00:07:12.375
+Začnú s AAAAA, potom skúsia AAAAB
+
+00:07:12.375 --> 00:07:15.053
+a bude im asi trvať dosť dlho,
+
+00:07:15.053 --> 00:07:19.505
+kým nájdu heslo,
+ktoré ľudia skutočne používajú.
+
+00:07:19.505 --> 00:07:23.184
+Tí múdrejší na to však pôjdu inak.
+
+00:07:23.184 --> 00:07:29.273
+Najprv skúsia uhádnuť populárne heslá, 
+ktoré by sa v súbore mohli nachádzať.
+
+00:07:29.273 --> 00:07:31.772
+Začnú teda slovom „heslo“,

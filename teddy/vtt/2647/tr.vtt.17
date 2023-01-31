@@ -1,0 +1,38 @@
+WEBVTT
+
+00:08:28.568 --> 00:08:31.979
+hatta ağ ile kuşun 
+cinsini de tanımlıyor.
+
+00:08:32.890 --> 00:08:34.716
+Resimde,
+
+00:08:34.740 --> 00:08:38.542
+x ve w biliniyor,
+y bilinmiyor.
+
+00:08:38.566 --> 00:08:41.074
+Zor kısmını gizliyorum, tabii ki,
+
+00:08:41.098 --> 00:08:44.959
+w'yi nasıl hesaplayabiliriz,
+
+00:08:44.983 --> 00:08:47.170
+beyin böyle bir şeyi nasıl yapabilir?
+
+00:08:47.194 --> 00:08:49.028
+Böyle bir modeli nasıl öğrenebiliriz?
+
+00:08:49.418 --> 00:08:52.651
+Bu öğrenme, w'yi 
+hesaplama sürecinde
+
+00:08:52.675 --> 00:08:55.322
+sayı olarak düşündüğümüz o
+
+
+00:08:55.346 --> 00:08:57.346
+basit denklemdeki gibi yapsaydık,
+
+00:08:57.370 --> 00:09:00.057
+kesin olarak yapılışını bilirdik: 6=2 x w,

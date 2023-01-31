@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:28.537 --> 00:06:31.539
+è progettare algoritmi
+che trovino l'immagine più soddisfacente
+
+00:06:31.539 --> 00:06:34.395
+che sia anche compatibile 
+con le misurazioni del telescopio.
+
+00:06:34.727 --> 00:06:38.563
+Proprio come un ritrattista forense
+usa descrizioni limitate
+
+00:06:38.563 --> 00:06:41.827
+per disegnare un viso sfruttando
+la propria conoscenza dei volti,
+
+00:06:42.231 --> 00:06:45.546
+gli algoritmi grafici che sviluppo
+usano dati limitati del telescopio
+
+00:06:45.550 --> 00:06:49.546
+per guidarci verso un'immagine simile
+ai corpi celesti del nostro universo.
+
+00:06:49.886 --> 00:06:53.531
+Usando questi algoritmi,
+siamo in grado di assemblare immagini
+
+00:06:53.531 --> 00:06:55.745
+partendo da questi dati scarsi e confusi.
+
+00:06:55.745 --> 00:07:00.248
+Vi mostro l'esempio di una semplice
+ricostruzione fatta con dati simulati,

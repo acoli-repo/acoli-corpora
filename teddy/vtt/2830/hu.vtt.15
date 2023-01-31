@@ -1,0 +1,42 @@
+WEBVTT
+
+00:07:30.380 --> 00:07:32.876
+Mivel végtelen számú
+lehetséges képünk van,
+
+00:07:32.900 --> 00:07:35.265
+amelyek tökéletesen egybevágnak 
+a mérésekkel,
+
+00:07:35.289 --> 00:07:37.484
+valahogy választanunk kell közülük.
+
+00:07:37.918 --> 00:07:39.756
+Ehhez rangsoroljuk a képeket,
+
+00:07:39.780 --> 00:07:42.614
+mennyire hasonlítanak
+a fekete lyuk feltételezett képére,
+
+00:07:42.638 --> 00:07:44.810
+majd kiválasztjuk a legvalószínűbbet.
+
+00:07:45.144 --> 00:07:47.339
+Ez pontosan hogyan értendő?
+
+00:07:47.862 --> 00:07:50.080
+Tegyük föl, hogy modellezni szeretnénk,
+
+00:07:50.100 --> 00:07:52.697
+mennyire valószínű egy kép
+előfordulása a Facebookon.
+
+00:07:53.071 --> 00:07:54.772
+Azt kellene a modellnek mondania,
+
+00:07:54.796 --> 00:07:58.393
+hogy kétséges, hogy valaki ilyen szemcsés
+képet tesz föl, mint a bal oldali,
+
+00:07:58.393 --> 00:08:00.510
+s elég valószínű, hogy egy ilyen szelfit,

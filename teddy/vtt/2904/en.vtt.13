@@ -1,0 +1,26 @@
+WEBVTT
+
+00:06:25.600 --> 00:06:31.296
+(Applause)
+
+00:06:31.320 --> 00:06:36.256
+But we wanted to make detection
+even more accessible and usable,
+
+00:06:36.280 --> 00:06:40.336
+so through a combination
+of model optimization,
+
+00:06:40.360 --> 00:06:42.656
+network binarization and approximation,
+
+00:06:42.680 --> 00:06:46.600
+we actually have object detection
+running on a phone.
+
+00:06:52.800 --> 00:06:58.120
+(Applause)
+
+00:06:58.960 --> 00:07:04.016
+And I'm really excited because
+now we have a pretty powerful solution

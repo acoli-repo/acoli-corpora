@@ -1,0 +1,49 @@
+WEBVTT
+
+00:07:27.990 --> 00:07:30.280
+é um modelo de circuitos
+da medula espinhal.
+
+00:07:31.040 --> 00:07:33.080
+O interessante é que a salamandra
+
+00:07:33.080 --> 00:07:34.864
+manteve um circuito muito primitivo,
+
+00:07:34.864 --> 00:07:37.480
+que é muito parecido
+com o que encontramos na lampreia,
+
+00:07:37.480 --> 00:07:39.350
+esta enguia primitiva;
+
+00:07:39.350 --> 00:07:40.890
+e parece que durante a evolução,
+
+00:07:40.890 --> 00:07:44.340
+novos osciladores neuronais foram 
+adicionados para controlar os membros,
+
+00:07:44.340 --> 00:07:45.830
+para fazer a locomoção da pata.
+
+00:07:45.830 --> 00:07:47.560
+Sabemos onde estão
+esses osciladores,
+
+00:07:47.560 --> 00:07:49.800
+mas o que fizemos
+foi criar um modelo matemático
+
+00:07:49.800 --> 00:07:51.760
+para ver como eles poderiam ser acoplados
+
+00:07:51.760 --> 00:07:54.740
+para permitir a transição entre esses dois
+movimentos díspares.
+
+00:07:54.740 --> 00:07:57.320
+E testamos isso a bordo de um robô.
+
+00:07:57.680 --> 00:07:59.130
+E é assim que fica.

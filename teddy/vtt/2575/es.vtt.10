@@ -1,0 +1,39 @@
+WEBVTT
+
+00:04:59.162 --> 00:05:02.481
+Pero antes de continuar describiré,
+simple y rápidamente,
+
+00:05:02.505 --> 00:05:04.286
+cómo funciona RKCP.
+
+00:05:04.876 --> 00:05:08.710
+El RKCP es un algoritmo
+diseñado por Ray Kurzweil,
+
+00:05:08.747 --> 00:05:10.969
+un director de ingeniería de Google
+
+00:05:10.993 --> 00:05:13.573
+que cree firmemente
+en la inteligencia artificial.
+
+00:05:13.822 --> 00:05:17.813
+Se le proporciona a RKCP un texto fuente,
+
+00:05:17.837 --> 00:05:22.306
+El RKCP analiza el texto para detectar
+cómo se usa el lenguaje,
+
+00:05:22.330 --> 00:05:24.278
+y luego vuelve a generar el lenguaje
+
+00:05:24.302 --> 00:05:26.830
+que emula al primer texto.
+
+00:05:26.854 --> 00:05:28.967
+El poema que vimos antes,
+
+00:05:28.991 --> 00:05:31.616
+el Poema 2, el que todos
+pensaron que era humano,

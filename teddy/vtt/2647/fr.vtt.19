@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:27.465 --> 00:09:30.320
+nous utilisons une ruse algébrique
+
+00:09:30.344 --> 00:09:33.196
+et déplaçons le six
+de l'autre côté de l'équation.
+
+00:09:33.220 --> 00:09:35.517
+Il y a toujours une multiplication.
+
+00:09:35.541 --> 00:09:39.205
+Et ce zéro, voyons-le comme une erreur.
+
+00:09:39.229 --> 00:09:41.712
+En d'autres mots,
+si nous résolvons bien w,
+
+00:09:41.736 --> 00:09:43.329
+l'erreur sera nulle.
+
+00:09:43.354 --> 00:09:46.932
+Si nous n'avons pas totalement raison,
+l'erreur sera plus grande que zéro.
+
+00:09:46.957 --> 00:09:50.398
+Nous pouvons maintenant faire
+des suppositions et minimiser l'erreur,
+
+00:09:50.423 --> 00:09:52.744
+ce que les ordinateurs
+savent très bien faire.
+
+00:09:52.768 --> 00:09:54.085
+On fait une supposition :
+
+00:09:54.110 --> 00:09:56.085
+et si w = 0 ? Alors, l'erreur est de 6.
+
+00:09:56.109 --> 00:09:58.699
+Si w = 1 ? L'erreur est de 4.
+
+00:09:58.723 --> 00:10:00.929
+L'ordinateur peut alors
+joueur à Marco Polo

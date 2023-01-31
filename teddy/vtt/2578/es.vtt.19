@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:27.280 --> 00:09:31.140
+que mantiene el segmento superior y los 
+segmentos inferiores siempre paralelos.
+
+00:09:31.600 --> 00:09:34.510
+Es un sistema geométrico sencillo
+que coordina un poco
+
+00:09:34.510 --> 00:09:36.486
+el movimiento interno de los segmentos.
+
+00:09:36.486 --> 00:09:39.826
+Una segunda propiedad de las 
+extremidades del gato: son muy livianas.
+
+00:09:39.826 --> 00:09:42.166
+La mayor parte de los músculos
+están en el tronco,
+
+00:09:42.166 --> 00:09:45.026
+muy buena idea, porque 
+las extremidades tienen baja inercia
+
+00:09:45.026 --> 00:09:46.636
+y pueden moverse muy rápidamente.
+
+00:09:46.636 --> 00:09:50.056
+La última propiedad importante 
+es el comportamiento tan elástico,
+
+00:09:50.080 --> 00:09:52.736
+para manejar impactos y fuerzas.
+
+00:09:52.760 --> 00:09:55.096
+Así diseñamos Cheetah-Cub.
+
+00:09:55.120 --> 00:09:57.320
+Invitemos a Cheetah-Cub al escenario.

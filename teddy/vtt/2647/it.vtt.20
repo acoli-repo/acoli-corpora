@@ -1,0 +1,41 @@
+WEBVTT
+
+00:09:58.505 --> 00:10:01.232
+E così il computer può giocare
+ad una sorta di Marco Polo,
+
+00:10:01.256 --> 00:10:03.623
+e abbassare il margine
+di errore vicino allo zero.
+
+00:10:03.647 --> 00:10:07.021
+E così facendo, sta ottenendo
+continue approssimazioni per w.
+
+00:10:07.045 --> 00:10:10.701
+Generalmente, non ci si avvicina mai,
+ma dopo una dozzina di passaggi
+
+00:10:10.725 --> 00:10:16.182
+arriviamo a w = 2,999,
+che è abbastanza vicino.
+
+00:10:16.182 --> 00:10:18.116
+E questo è il processo
+di apprendimento.
+
+00:10:18.140 --> 00:10:20.870
+Quindi, ricordate che quello
+che succede qui
+
+00:10:20.894 --> 00:10:25.272
+è che abbiamo preso un mucchio 
+di x note ed y note
+
+00:10:25.296 --> 00:10:28.750
+e abbiamo risolto la w nel mezzo
+attraverso un processo iterativo.
+
+00:10:28.774 --> 00:10:32.330
+È esattamente lo stesso processo
+che utilizziamo per apprendere.

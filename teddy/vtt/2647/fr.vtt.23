@@ -1,0 +1,42 @@
+WEBVTT
+
+00:11:30.276 --> 00:11:32.881
+une image d'oiseaux.
+
+00:11:32.905 --> 00:11:36.449
+C'est une image d'oiseaux
+entièrement générée par un réseau neuronal
+
+00:11:36.473 --> 00:11:38.470
+entraîné à reconnaître les oiseaux,
+
+00:11:38.494 --> 00:11:42.004
+simplement en cherchant x plutôt que y
+
+00:11:42.028 --> 00:11:43.848
+et ce par itérations.
+
+00:11:43.872 --> 00:11:45.735
+Un autre exemple amusant :
+
+00:11:45.759 --> 00:11:49.166
+ce travail a été fait
+par Mike Tyka, de notre groupe,
+
+00:11:49.190 --> 00:11:51.417
+et il l'a appelé « Parade Animale ».
+
+00:11:51.441 --> 00:11:54.314
+Cela me rappelle un peu
+les œuvres de William Kentridge
+
+00:11:54.338 --> 00:11:56.515
+où il fait des croquis, les efface,
+
+00:11:56.540 --> 00:11:59.081
+fait des croquis, les efface
+et crée un film ainsi.
+
+00:11:59.105 --> 00:12:04.719
+Dans ce cas, Mike fait varier y
+sur différents animaux dans un réseau créé

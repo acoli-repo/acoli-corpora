@@ -1,0 +1,36 @@
+WEBVTT
+
+00:05:58.829 --> 00:06:02.239
+Agora, vou colocar aqui
+todos os países do mundo,
+
+00:06:02.267 --> 00:06:04.621
+cada um deles representado por um ponto.
+
+00:06:04.621 --> 00:06:06.956
+Por cima disso, vou colocar
+uma linha de regressão
+
+00:06:06.956 --> 00:06:09.233
+que mostra a média entre eles.
+
+00:06:09.407 --> 00:06:12.406
+O que isso nos diz é que,
+à medida que enriquecemos,
+
+00:06:12.706 --> 00:06:15.491
+o progresso social tende a melhorar.
+
+00:06:16.214 --> 00:06:20.754
+No entanto, à medida que enriquecemos,
+cada dólar a mais no PIB
+
+00:06:20.754 --> 00:06:24.451
+compra cada vez menos progresso social.
+
+00:06:25.127 --> 00:06:29.257
+Podemos usar estas informações
+para começar a construir a nossa previsão.
+
+00:06:29.544 --> 00:06:32.562
+Este é o mundo em 2015.

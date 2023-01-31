@@ -1,0 +1,49 @@
+WEBVTT
+
+00:06:28.991 --> 00:06:30.745
+pouzdana mjera jačine lozinke.
+
+00:06:30.745 --> 00:06:33.057
+Zato smo odlučili otkriti
+
+00:06:33.057 --> 00:06:35.427
+koliko vremena treba za
+razbijanje lozinke,
+
+00:06:35.427 --> 00:06:36.841
+koristeći najbolje
+alate za razbijanje lozinki,
+
+00:06:36.841 --> 00:06:38.649
+a koje koriste loši momci.
+
+00:06:38.649 --> 00:06:40.665
+I one o kojima smo
+mogli pronaći informacije
+
+00:06:40.665 --> 00:06:42.202
+u literaturi.
+
+00:06:42.202 --> 00:06:44.960
+Kako loši momci
+
+00:06:44.960 --> 00:06:47.130
+razbijaju lozinke?
+
+00:06:47.130 --> 00:06:49.081
+Oni kradu datoteke s lozinkama
+
+00:06:49.081 --> 00:06:51.234
+koje sadrže sve lozinke
+
+00:06:51.234 --> 00:06:54.123
+u šifriranom, haširanom obliku.
+
+00:06:54.123 --> 00:06:56.685
+Tada pogađaju
+
+00:06:56.685 --> 00:06:58.397
+koja je lozinka,
+
+00:06:58.397 --> 00:07:00.294
+dešifriraju je pomoću hash funkcije

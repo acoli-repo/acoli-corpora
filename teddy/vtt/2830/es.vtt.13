@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:28.870 --> 00:06:31.710
+es diseñar algoritmos que encuentren
+la imagen más razonable
+
+00:06:31.711 --> 00:06:33.827
+que encaje con los datos
+de los telescopios.
+
+00:06:34.457 --> 00:06:38.391
+Igual que un artista forense
+usa descripciones limitadas
+
+00:06:38.392 --> 00:06:39.742
+para componer una imagen
+
+00:06:39.743 --> 00:06:42.190
+aplicando sus conocimientos
+sobre estructura facial,
+
+00:06:42.191 --> 00:06:44.809
+los algoritmos de obtención
+de imágenes que desarrollo
+
+00:06:44.810 --> 00:06:48.222
+ayudan a usar los datos limitados
+de los telescopios hasta conseguir
+
+00:06:48.223 --> 00:06:50.821
+una imagen que se parezca
+a cosas de nuestro universo.
+
+00:06:50.822 --> 00:06:53.719
+Usando estos algoritmos,
+podemos componer imágenes
+
+00:06:53.720 --> 00:06:55.840
+a partir de estos datos escasos y sucios.
+
+00:06:55.841 --> 00:07:00.547
+Aquí muestro un ejemplo de reconstrucción
+realizada utilizando datos simulados,

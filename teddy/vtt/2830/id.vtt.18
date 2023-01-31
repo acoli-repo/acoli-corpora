@@ -1,0 +1,36 @@
+WEBVTT
+
+00:08:58.937 --> 00:09:02.041
+Kami ingin algoritma kami
+tahu seperti apa gambarnya
+
+00:09:02.065 --> 00:09:05.314
+tanpa terlalu memaksakan satu tipe gambar.
+
+00:09:05.865 --> 00:09:07.628
+Satu cara kami melakukannya
+
+00:09:07.652 --> 00:09:10.844
+adalah dengan memasukkan fitur-fitur
+bagian yang berbeda dari gambar
+
+00:09:10.868 --> 00:09:14.918
+dan melihat bagaimana tipe gambar
+asumsi kami mempengaruhi rekonstruksi.
+
+00:09:15.712 --> 00:09:19.203
+Jika semua tipe gambar memproduksi
+gambar yang mirip,
+
+00:09:19.227 --> 00:09:21.284
+maka kami bisa mulai yakin
+
+00:09:21.308 --> 00:09:25.481
+bahwa asumsi gambar kami
+tidak membuat gambar ini sangat bias.
+
+00:09:25.505 --> 00:09:28.495
+Ini seperti memberi deskripsi yang sama
+
+00:09:28.519 --> 00:09:31.515
+ke tiga seniman sketsa dari seluruh dunia.

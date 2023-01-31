@@ -1,0 +1,47 @@
+WEBVTT
+
+00:13:28.250 --> 00:13:30.359
+where they put all of the real passwords
+
+00:13:30.359 --> 00:13:33.450
+for 25,000 CMU students, faculty and staff,
+
+00:13:33.450 --> 00:13:35.898
+into a locked computer in a locked room,
+
+00:13:35.898 --> 00:13:37.292
+not connected to the Internet,
+
+00:13:37.292 --> 00:13:39.140
+and they ran code on it that we wrote
+
+00:13:39.140 --> 00:13:41.292
+to analyze these passwords.
+
+00:13:41.292 --> 00:13:42.618
+They audited our code.
+
+00:13:42.618 --> 00:13:43.930
+They ran the code.
+
+00:13:43.930 --> 00:13:45.668
+And so we never actually saw
+
+00:13:45.668 --> 00:13:48.485
+anybody's password.
+
+00:13:48.485 --> 00:13:50.000
+We got some interesting results,
+
+00:13:50.000 --> 00:13:51.696
+and those of you Tepper students in the back
+
+00:13:51.696 --> 00:13:54.571
+will be very interested in this.
+
+00:13:54.571 --> 00:13:58.302
+So we found that the passwords created
+
+00:13:58.302 --> 00:14:00.460
+by people affiliated with the
+school of computer science

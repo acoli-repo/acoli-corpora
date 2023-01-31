@@ -1,0 +1,36 @@
+WEBVTT
+
+00:05:30.320 --> 00:05:31.576
+I to je super.
+
+00:05:31.600 --> 00:05:34.776
+Sva obrada se događa u stvarnom vremenu
+
+00:05:34.800 --> 00:05:36.000
+na laptopu.
+
+00:05:37.080 --> 00:05:38.346
+I to je važno zapamtiti
+
+00:05:38.346 --> 00:05:41.776
+da je ovo sustav za detekciju objekta 
+opće namjene,
+
+00:05:41.800 --> 00:05:46.800
+možemo ga trenirati za bilo koju domenu.
+
+00:05:48.320 --> 00:05:50.856
+Isti kod koji koristimo
+
+00:05:50.880 --> 00:05:53.336
+za pronaći znakove STOP ili pješake,
+
+00:05:53.360 --> 00:05:55.336
+bicikle u autonomnim vozilima,
+
+00:05:55.360 --> 00:05:58.216
+može se koristiti
+kako bi pronašli stanice raka
+
+00:05:58.240 --> 00:06:01.256
+u biopsiji tkiva.

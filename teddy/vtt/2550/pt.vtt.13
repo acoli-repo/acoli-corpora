@@ -1,0 +1,31 @@
+WEBVTT
+
+00:06:29.360 --> 00:06:31.830
+E dentro de cada robô,
+
+00:06:31.830 --> 00:06:36.296
+temos que pensar na interação
+da deteção, da comunicação, da computação
+
+00:06:36.320 --> 00:06:41.352
+e essa rede torna-se
+muito difícil de controlar e de gerir.
+
+00:06:42.160 --> 00:06:45.765
+Assim, fomos buscar à natureza,
+três princípios de organização
+
+00:06:45.765 --> 00:06:49.300
+que, essencialmente, nos permitem
+desenvolver os nossos algoritmos.
+
+00:06:49.640 --> 00:06:54.285
+A primeira ideia é que os robôs precisam
+de estar cientes dos seus vizinhos.
+
+00:06:54.285 --> 00:06:57.640
+Precisam de poder sentir
+e comunicar com os vizinhos.
+
+00:06:58.040 --> 00:07:00.696
+Este vídeo ilustra a ideia.

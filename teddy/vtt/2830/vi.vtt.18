@@ -1,0 +1,39 @@
+WEBVTT
+
+00:08:58.937 --> 00:09:02.041
+Cần có cách giúp giải thuật biết
+hình ảnh trông như thế nào
+
+00:09:02.065 --> 00:09:05.314
+mà không phải quy định quá nhiều đặc điểm
+cho một loại ảnh.
+
+00:09:05.865 --> 00:09:07.758
+Một cách chúng tôi thử để giải quyết
+
+00:09:07.782 --> 00:09:10.844
+là quy định những đặc điểm
+của những loại ảnh khác nhau
+
+00:09:10.868 --> 00:09:14.998
+và xem loại ảnh chúng tôi giả thiết
+ảnh hưởng lên việc tái lập như thế nào.
+
+00:09:15.712 --> 00:09:19.203
+Nếu tất cả các loại ảnh tạo ra
+hình ảnh giống nhau,
+
+00:09:19.227 --> 00:09:21.284
+thì ta có thể tự tin rằng
+
+00:09:21.308 --> 00:09:25.481
+các giả thiết chúng tôi tạo nên
+không bị lệch nhiều so với hình ảnh này.
+
+00:09:25.505 --> 00:09:28.495
+Nó giống với việc đưa ra
+mô tả giống nhau
+
+00:09:28.519 --> 00:09:31.515
+cho ba nghệ sĩ phác họa khác nhau
+ở khắp thế giới.

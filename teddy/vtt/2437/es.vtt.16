@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:57.125 --> 00:08:01.933
+Los algoritmos son, por definición,
+conjuntos de reglas o pasos
+
+00:08:02.208 --> 00:08:05.047
+diseñados para conseguir
+resultados concretos.
+
+00:08:06.833 --> 00:08:09.258
+Pero tales reglas o pasos
+no pueden ser imparciales,
+
+00:08:09.583 --> 00:08:13.040
+porque los han diseñado humanos
+dentro de un marco cultural concreto
+
+00:08:13.400 --> 00:08:15.910
+y están influenciados
+por unos valores concretos.
+
+00:08:16.667 --> 00:08:20.466
+Cuando las máquinas aprenden,
+lo hacen a partir de algoritmos sesgados,
+
+00:08:21.625 --> 00:08:24.833
+y a menudo también aprenden
+de bases de datos sesgadas.
+
+00:08:25.833 --> 00:08:29.108
+Justo ahora podemos ver
+los primeros casos de sesgo algorítmico.
+
+00:08:29.583 --> 00:08:32.983
+Algunos de estos ejemplos
+son francamente aterradores.

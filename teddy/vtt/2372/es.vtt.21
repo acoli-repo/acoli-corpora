@@ -1,0 +1,44 @@
+WEBVTT
+
+00:10:29.974 --> 00:10:33.740
+el robot rastrea esos deseos de movimiento.
+
+00:10:33.740 --> 00:10:35.457
+Este diagrama muestra fundamentalmente
+
+00:10:35.457 --> 00:10:38.286
+cómo se controla la extremidad biónica,
+
+00:10:38.286 --> 00:10:40.964
+así que hacemos un modelo 
+la extremidad perdida biológica,
+
+00:10:40.964 --> 00:10:43.728
+y hemos descubierto 
+cómo ocurren los reflejos,
+
+00:10:43.728 --> 00:10:45.228
+cómo los reflejos 
+de la médula espinal
+
+00:10:45.228 --> 00:10:47.036
+controlan los músculos,
+
+00:10:47.036 --> 00:10:49.735
+y esa capacidad se graban
+
+00:10:49.735 --> 00:10:52.741
+en los circuitos de 
+la extremidad biónica.
+
+00:10:52.741 --> 00:10:54.710
+Lo que hacemos entonces es modular
+
+00:10:54.710 --> 00:10:56.796
+la sensibilidad del reflejo,
+
+00:10:56.796 --> 00:10:58.508
+el reflejo espinal modelado,
+
+00:10:58.508 --> 00:11:00.019
+con la señal neuronal,

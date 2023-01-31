@@ -1,0 +1,38 @@
+WEBVTT
+
+00:09:58.723 --> 00:10:00.929
+L'ordinateur peut alors
+joueur à Marco Polo
+
+00:10:00.953 --> 00:10:03.621
+et atteindre une erreur proche de zéro.
+
+00:10:03.645 --> 00:10:06.927
+Il fait cela par des approximations
+successives de w.
+
+00:10:06.951 --> 00:10:10.728
+Typiquement, il ne l'atteint jamais,
+mais après une douzaine d'étapes,
+
+00:10:10.752 --> 00:10:16.227
+nous avons w = 2,999,
+ce qui est assez proche.
+
+00:10:16.251 --> 00:10:18.352
+Voilà le processus d'apprentissage.
+
+00:10:18.376 --> 00:10:21.006
+Souvenez-vous que ce que nous avons fait
+
+00:10:21.030 --> 00:10:25.187
+c'est de prendre beaucoup
+de x et de y connus
+
+00:10:25.211 --> 00:10:28.758
+et de cherche le w au milieu
+via un procédé itératif.
+
+00:10:28.782 --> 00:10:32.225
+C'est exactement la même méthode que celle
+par laquelle nous apprenons.

@@ -1,0 +1,35 @@
+WEBVTT
+
+00:13:57.600 --> 00:14:00.096
+Não tem nenhum LiDAR 
+ou radar sendo usado aqui.
+
+00:14:00.120 --> 00:14:04.160
+Ele está usando apenas óptica passiva,
+que é essencialmente o que uma pessoa usa.
+
+00:14:05.200 --> 00:14:07.696
+Todo o sistema de estrada
+foi feito para ser navegado
+
+00:14:07.720 --> 00:14:11.776
+com óptica passiva, ou câmeras,
+
+00:14:11.870 --> 00:14:17.146
+e então, uma vez que você 
+resolve as câmeras ou a visão,
+
+00:14:17.630 --> 00:14:19.216
+a autonomia está resolvida.
+
+00:14:19.240 --> 00:14:22.120
+Se você não resolver a visão,
+a autonomia não está resolvida.
+
+00:14:22.120 --> 00:14:28.136
+Por isso focamos pesado
+uma rede neural de visão
+
+00:14:28.160 --> 00:14:31.376
+que seja muito efetiva
+para as condições da estrada.

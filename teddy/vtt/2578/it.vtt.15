@@ -1,0 +1,50 @@
+WEBVTT
+
+00:07:28.040 --> 00:07:30.280
+è stato modellare i circuiti della colonna.
+
+00:07:31.040 --> 00:07:33.176
+La cosa interessante
+è che la salamandra
+
+00:07:33.200 --> 00:07:34.820
+ha un circuito molto primitivo,
+
+00:07:34.844 --> 00:07:37.496
+molto simile
+a quello della lampreda,
+
+00:07:37.520 --> 00:07:39.586
+questo pesce primitivo 
+simile all'anguilla,
+
+00:07:39.586 --> 00:07:41.256
+e sembra in evoluzione,
+
+00:07:41.280 --> 00:07:44.216
+abbiamo aggiunto oscillatori neurali
+per controllare gli arti,
+
+00:07:44.240 --> 00:07:45.656
+per il movimento delle zampe.
+
+00:07:45.680 --> 00:07:47.856
+E sappiamo dove si trovano
+questi oscillatori
+
+00:07:47.880 --> 00:07:50.136
+ma noi abbiamo fatto
+un modello matematico
+
+00:07:50.160 --> 00:07:51.776
+per vedere come accoppiarli
+
+00:07:51.800 --> 00:07:54.736
+per permettere il passaggio
+tra due andature molto diverse.
+
+00:07:54.760 --> 00:07:57.320
+E l'abbiamo testato su un robot.
+
+00:07:57.680 --> 00:07:58.880
+Ecco il risultato.

@@ -1,0 +1,46 @@
+WEBVTT
+
+00:06:28.991 --> 00:06:30.745
+of password strength.
+
+00:06:30.745 --> 00:06:33.057
+So what we decided to do was to see
+
+00:06:33.057 --> 00:06:35.427
+how long it would take to crack these passwords
+
+00:06:35.427 --> 00:06:36.841
+using the best cracking tools
+
+00:06:36.841 --> 00:06:38.649
+that the bad guys are using,
+
+00:06:38.649 --> 00:06:40.665
+or that we could find information about
+
+00:06:40.665 --> 00:06:42.202
+in the research literature.
+
+00:06:42.202 --> 00:06:44.960
+So to give you an idea of how bad guys
+
+00:06:44.960 --> 00:06:47.130
+go about cracking passwords,
+
+00:06:47.130 --> 00:06:49.081
+they will steal a password file
+
+00:06:49.081 --> 00:06:51.234
+that will have all of the passwords
+
+00:06:51.234 --> 00:06:54.123
+in kind of a scrambled form, called a hash,
+
+00:06:54.123 --> 00:06:56.685
+and so what they'll do is they'll make a guess
+
+00:06:56.685 --> 00:06:58.397
+as to what a password is,
+
+00:06:58.397 --> 00:07:00.294
+run it through a hashing function,

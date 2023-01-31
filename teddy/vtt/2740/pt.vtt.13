@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:29.470 --> 00:06:31.230
+Vou explicar o que quero dizer.
+
+00:06:32.000 --> 00:06:35.157
+Pensei que podíamos apontar
+para qualquer lado, digitar palavras,
+
+00:06:35.157 --> 00:06:37.641
+depois digitar noutro lugar qualquer,
+
+00:06:37.641 --> 00:06:41.198
+incluir números e mais números,
+e apontar para onde queríamos a resposta.
+
+00:06:41.612 --> 00:06:44.107
+Depois, apontar para o primeiro,
+pressionar 'menos',
+
+00:06:44.107 --> 00:06:46.398
+apontar para o segundo
+e obter o resultado.
+
+00:06:46.480 --> 00:06:49.848
+O problema era:
+O que devia pôr na fórmula?
+
+00:06:49.848 --> 00:06:52.538
+Tinha de ser algo que o computador
+pudesse entender
+
+00:06:52.538 --> 00:06:54.481
+e, se olhássemos para a fórmula,
+
+00:06:54.481 --> 00:06:57.596
+pudéssemos saber a que parte
+no ecrã ela se referia.
+
+00:06:57.840 --> 00:07:00.817
+A primeira coisa em que pensei
+foi como um programador a faria.

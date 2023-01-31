@@ -1,0 +1,29 @@
+WEBVTT
+
+00:10:29.974 --> 00:10:33.740
+automat wykrywa ten zamiar.
+
+00:10:33.740 --> 00:10:38.307
+Ten schemat przedstawia podstawy
+kontrolowania bionicznej nogi.
+
+00:10:38.307 --> 00:10:40.964
+Modelujemy brakującą kończynę,
+
+00:10:40.964 --> 00:10:43.728
+zbadaliśmy też występujące odruchy,
+
+00:10:43.728 --> 00:10:47.038
+jak odruchy rdzenia kręgowego
+kontrolują mięśnie
+
+00:10:47.038 --> 00:10:52.745
+i wprowadziliśmy tę zdolność
+do chipów bionicznej nogi.
+
+00:10:52.745 --> 00:10:56.756
+Następnie dostosowujemy czułość odruchu,
+
+00:10:56.756 --> 00:11:00.018
+modelowany odruch rdzenia,
+do impulsu nerwowego.

@@ -1,0 +1,44 @@
+WEBVTT
+
+00:05:27.644 --> 00:05:31.264
+that mirror my underlying
+tissue biomechanics.
+
+00:05:32.359 --> 00:05:35.533
+To achieve that mirroring, we first
+developed a mathematical model
+
+00:05:35.557 --> 00:05:37.105
+of my biological limb.
+
+00:05:37.129 --> 00:05:40.411
+To that end, we used
+imaging tools such as MRI,
+
+00:05:40.435 --> 00:05:41.999
+to look inside my body,
+
+00:05:42.023 --> 00:05:45.728
+to figure out the geometries
+and locations of various tissues.
+
+00:05:45.752 --> 00:05:47.139
+We also took robotic tools --
+
+00:05:47.163 --> 00:05:52.074
+here's a 14-actuator circle
+that goes around the biological limb.
+
+00:05:52.891 --> 00:05:55.439
+The actuators come in,
+find the surface of the limb,
+
+00:05:55.463 --> 00:05:57.708
+measure its unloaded shape,
+
+00:05:57.732 --> 00:05:59.383
+and then they push on the tissues
+
+00:05:59.407 --> 00:06:02.978
+to measure tissue compliances
+at each anatomical point.

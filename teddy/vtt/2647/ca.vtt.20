@@ -1,0 +1,38 @@
+WEBVTT
+
+00:09:58.865 --> 00:10:01.232
+I així l'ordinador pot jugar
+a Marco Polo,
+
+00:10:01.256 --> 00:10:03.623
+per tal de reduir l'error prop de 0.
+
+00:10:03.647 --> 00:10:07.021
+A mesura que ho fa,
+fa aproximacions successives a 'w'.
+
+00:10:07.045 --> 00:10:10.701
+En general, mai hi arriba del tot,
+però desprès d'uns 12 passos,
+
+00:10:10.725 --> 00:10:15.349
+s'arriba a w=2.999,
+que està prou a prop.
+
+00:10:16.302 --> 00:10:18.116
+Aquest és el procés d'aprenentatge.
+
+00:10:18.140 --> 00:10:20.870
+Recordem que el que hem estat fent aquí
+
+00:10:20.894 --> 00:10:25.272
+ha estat usar
+molts valors coneguts 'x' i 'y'
+
+00:10:25.296 --> 00:10:28.750
+i resoldre la 'w' central
+mitjançant un procés de repetició.
+
+00:10:28.774 --> 00:10:32.330
+És exactament la mateixa manera
+en la que aprenem nosaltres mateixos.

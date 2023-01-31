@@ -1,0 +1,41 @@
+WEBVTT
+
+00:08:28.115 --> 00:08:30.015
+Je vous présente PageRank,
+
+00:08:30.015 --> 00:08:32.551
+une des toutes premières
+pierres angulaires de Google.
+
+00:08:33.337 --> 00:08:37.579
+Cet algorithme utilise les lois 
+du hasard mathématique
+
+00:08:37.603 --> 00:08:41.460
+pour déterminer automatiquement
+les pages web les plus pertinentes,
+
+00:08:41.484 --> 00:08:44.141
+de la même manière que nous avons utilisé
+
+00:08:44.141 --> 00:08:47.341
+le hasard dans l'expérience
+de la Planche de Galton.
+
+00:08:47.341 --> 00:08:50.262
+Ce que nous allons donc faire,
+c'est envoyer dans ce graphique
+
+00:08:50.262 --> 00:08:52.576
+un tas de petites billes numériques,
+
+00:08:52.580 --> 00:08:56.329
+et les laisser se déplacer
+aléatoirement sur le graphique.
+
+00:08:56.329 --> 00:08:58.356
+Chaque fois qu'elles arrivent sur un site,
+
+00:08:58.356 --> 00:09:02.210
+elles passent d'un lien choisi
+aléatoirement à un autre,

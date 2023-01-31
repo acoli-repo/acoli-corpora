@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:27.178 --> 00:06:31.539
+On peut alors utiliser cette même idée 
+afin de créer des règles pour les robots.
+
+00:06:32.221 --> 00:06:35.382
+Ce que vous voyez ici , 
+ce sont des robots simulés.
+
+00:06:35.406 --> 00:06:37.889
+Le robot simulé possède 
+une règle de déplacement,
+
+00:06:37.913 --> 00:06:40.246
+qui lui permet de bouger 
+autour de la structure,
+
+00:06:40.270 --> 00:06:42.267
+tout en cherchant sa place.
+
+00:06:42.291 --> 00:06:45.291
+Et il a des règles de séquence, 
+qui lui font chercher des blocs
+
+00:06:45.315 --> 00:06:47.520
+et décider où placer
+un bloc en particulier.
+
+00:06:48.644 --> 00:06:51.707
+Et avec les bonnes règles de déplacement 
+et de séquence,
+
+00:06:51.731 --> 00:06:55.366
+on arrive à ce que les robots 
+construisent ce que l'on veut.
+
+00:06:56.197 --> 00:06:58.888
+Et on veut tous construire 
+notre propre tour.
+
+00:06:59.350 --> 00:07:01.332
+(Rires)

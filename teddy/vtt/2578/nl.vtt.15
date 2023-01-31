@@ -1,0 +1,44 @@
+WEBVTT
+
+00:07:25.720 --> 00:07:30.196
+Samen met Jean-Marie Cabelguen hebben we 
+de ruggenmergcircuits gemodelleerd.
+
+00:07:31.040 --> 00:07:34.776
+De salamander heeft interessant genoeg
+een erg primitief neuraalcircuit.
+
+00:07:34.784 --> 00:07:37.496
+Dit circuit lijkt op dat van de lampreien,
+
+00:07:37.520 --> 00:07:39.410
+de primitieve, aalachtige vissen.
+
+00:07:39.410 --> 00:07:41.276
+Het lijkt erop dat tijdens de evolutie
+
+00:07:41.280 --> 00:07:44.246
+nieuwe oscillatoren zijn toegevoegd 
+om de poten aan te sturen,
+
+00:07:44.246 --> 00:07:45.656
+dus voor beenmotoriek.
+
+00:07:45.680 --> 00:07:47.856
+We wisten de locatie van deze oscillatoren
+
+00:07:47.880 --> 00:07:50.136
+maar hebben een wiskundig model gebruikt
+
+00:07:50.160 --> 00:07:51.976
+om te zien hoe we ze moesten verbinden
+
+00:07:51.976 --> 00:07:54.640
+zodat we de twee soorten voortbeweging
+konden afwisselen.
+
+00:07:54.640 --> 00:07:57.320
+We hebben dit getest in een robot.
+
+00:07:57.680 --> 00:07:58.880
+Het zag er zo uit.

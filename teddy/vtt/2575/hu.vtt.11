@@ -1,0 +1,42 @@
+WEBVTT
+
+00:05:28.991 --> 00:05:31.616
+a 2. vers, amiről azt hitték, 
+hogy ember írta,
+
+00:05:31.640 --> 00:05:33.190
+egy csomó verset tápláltak bele,
+
+00:05:33.214 --> 00:05:34.963
+egy Emily Dickinson nevű költőtől.
+
+00:05:34.963 --> 00:05:37.592
+Az algoritmus elemezte
+a költő nyelvhasználatát,
+
+00:05:37.592 --> 00:05:38.651
+megtanulta a modellt,
+
+00:05:38.675 --> 00:05:42.933
+majd újragenerálta a modellt
+ugyanannak a szerkezetnek megfelelően.
+
+00:05:44.732 --> 00:05:46.910
+Fontos tudnunk az RKCP-ről,
+
+00:05:46.934 --> 00:05:49.772
+hogy nem érti a használt 
+szavak jelentését.
+
+00:05:50.359 --> 00:05:52.635
+A nyelv számára csak nyersanyag.
+
+00:05:52.659 --> 00:05:54.819
+Lehetne kínaiul, lehetne svédül,
+
+00:05:54.843 --> 00:05:59.022
+lehetne az egynapi Facebook-bejegyzéseik 
+gyűjteménye.
+
+00:05:59.046 --> 00:06:00.698
+Ez csak nyersanyag.

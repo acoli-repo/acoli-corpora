@@ -1,0 +1,39 @@
+WEBVTT
+
+00:07:58.093 --> 00:08:00.656
+This is a machine-learning model
+with two networks:
+
+00:08:00.680 --> 00:08:02.227
+a discriminator,
+
+00:08:02.251 --> 00:08:06.451
+whose job it is to determine
+whether something is true or false,
+
+00:08:06.475 --> 00:08:07.642
+and a generator,
+
+00:08:07.666 --> 00:08:10.816
+whose job it is to generate
+synthetic media.
+
+00:08:10.840 --> 00:08:15.942
+So the synthetic generator
+generates synthetic video or audio,
+
+00:08:15.966 --> 00:08:20.641
+and the discriminator tries to tell,
+"Is this real or is this fake?"
+
+00:08:20.665 --> 00:08:23.539
+And in fact, it is the job
+of the generator
+
+00:08:23.563 --> 00:08:27.998
+to maximize the likelihood
+that it will fool the discriminator
+
+00:08:28.022 --> 00:08:31.609
+into thinking the synthetic
+video and audio that it is creating

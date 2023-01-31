@@ -1,0 +1,39 @@
+WEBVTT
+
+00:06:57.840 --> 00:07:00.766
+Zuerst wollte ich es 
+wie ein Programmierer machen.
+
+00:07:00.766 --> 00:07:02.715
+Wenn man erstmals auf etwas zeigte,
+
+00:07:02.715 --> 00:07:05.679
+würde der Computer
+einen eindeutigen Namen abfragen.
+
+00:07:06.760 --> 00:07:10.566
+Es wurde schnell klar,
+dass das zu mühsam war.
+
+00:07:10.566 --> 00:07:14.050
+Der Computer müsste automatisch
+den Namen generieren und eingeben.
+
+00:07:14.600 --> 00:07:18.960
+Warum nicht nach der Reihenfolge
+des Anlegens vorgehen?
+
+00:07:19.480 --> 00:07:22.016
+Das versuchte ich. Wert 1, Wert 2.
+
+00:07:22.016 --> 00:07:24.802
+Ich sah sehr schnell,
+dass man sich bei mehreren Werten
+
+00:07:24.802 --> 00:07:27.336
+nie an den Platz auf dem Bildschirm
+erinnern würde.
+
+00:07:27.336 --> 00:07:32.646
+Ich überlegte, stattdessen 
+Werte überall zuzulassen.

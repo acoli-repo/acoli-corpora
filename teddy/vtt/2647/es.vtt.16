@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:58.729 --> 00:08:02.080
+Como se puede ver, en realidad, es 
+un problema relativamente sencillo.
+
+00:08:02.080 --> 00:08:04.260
+Se multiplica dos veces tres y ya está.
+
+00:08:04.562 --> 00:08:06.719
+Les voy a mostrar 
+una red neuronal artificial
+
+00:08:06.719 --> 00:08:09.625
+que hemos construido recientemente, 
+haciendo exactamente eso.
+
+00:08:09.634 --> 00:08:12.494
+Esto se ejecuta en tiempo real 
+en un teléfono móvil,
+
+00:08:12.518 --> 00:08:15.555
+y eso es, por supuesto, 
+sorprendente en sí mismo,
+
+00:08:15.555 --> 00:08:18.107
+que los teléfonos móviles puedan hacer
+
+00:08:18.107 --> 00:08:20.735
+tantos millones y billones 
+de operaciones por segundo.
+
+00:08:20.735 --> 00:08:22.234
+Lo que ven es un teléfono
+
+00:08:22.258 --> 00:08:25.805
+que analiza imágenes 
+de un pájaro una tras otra.
+
+00:08:25.829 --> 00:08:28.544
+Y, de hecho, no solo dice: 
+"Sí, es un pájaro"
+
+00:08:28.568 --> 00:08:31.979
+sino que identifica las especies 
+de pájaros con una red de este tipo.

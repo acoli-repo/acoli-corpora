@@ -1,0 +1,35 @@
+WEBVTT
+
+00:08:58.737 --> 00:09:00.765
+Potrebujeme spôsob,
+ako algoritmom povedať,
+
+00:09:00.765 --> 00:09:05.044
+ako fotky vyzerajú bez toho,
+aby sme nevnútili istú vlastnosť fotky.
+
+00:09:05.865 --> 00:09:10.378
+Jeden spôsob, ako to spraviť,
+je využiť vlastnosti rôznych fotiek
+
+00:09:10.378 --> 00:09:14.658
+a vidieť, ako ten typ fotky
+ovplyvňuje naše rekonštrukcie.
+
+00:09:15.712 --> 00:09:18.807
+Ak všetky druhy obrázkov
+vytvoria podobné obrázky,
+
+00:09:18.807 --> 00:09:21.088
+budeme si môcť byť istejší,
+
+00:09:21.088 --> 00:09:25.051
+že naše predstavy o fotke
+veľmi neovplyvňujú výslednú fotku.
+
+00:09:25.505 --> 00:09:28.399
+Je to podobné,
+ako by sme dali rovnaký opis
+
+00:09:28.399 --> 00:09:31.125
+trom rôznym kresličom z celého sveta.

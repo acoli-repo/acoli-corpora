@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:01.000
+tepedeki şekil gibi gözükür.
+
+00:05:01.000 --> 00:05:03.000
+Beyaz alanı kaldırırsanız
+
+00:05:03.000 --> 00:05:05.000
+en alttaki gibi gözükür.
+
+00:05:05.000 --> 00:05:07.000
+Bunu fiziksel olarak yapamazsınız
+
+00:05:07.000 --> 00:05:09.000
+ama bir bilgisayarda yapabilirsiniz. O yüzden bilgisayara geçelim.
+
+00:05:09.000 --> 00:05:13.000
+Burada, figür zemin şekli.
+
+00:05:13.000 --> 00:05:16.000
+Amacımız soldaki parçaları alıp
+
+00:05:16.000 --> 00:05:19.000
+sağdaki ile aynı şekli oluşturmak.
+
+00:05:19.000 --> 00:05:21.000
+Bu da az önce söylediğim kuralı takip ediyor,
+
+00:05:21.000 --> 00:05:24.000
+beyazlar tarafından çevrilmiş herhangi bir siyah alan kaldırılabilir.
+
+00:05:24.000 --> 00:05:26.000
+Bu aynı zamanda beyazlar için de geçerli.
+
+00:05:26.000 --> 00:05:28.000
+Burada ortada beyaz bir alan var
+
+00:05:28.000 --> 00:05:30.000
+ve onu kaldırıyoruz.
+
+00:05:30.000 --> 00:05:32.000
+Bir adım daha ileri gidelim.

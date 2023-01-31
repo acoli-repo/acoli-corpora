@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:59.874 --> 00:05:02.859
+Donc vous voyez ici un millier de robots
+
+00:05:02.883 --> 00:05:06.345
+travaillant ensemble pour former 
+la lettre K.
+
+00:05:06.369 --> 00:05:07.675
+Le K nous apparaît de côté.
+
+00:05:08.223 --> 00:05:10.954
+L'important, c'est que personne 
+n'est aux commandes.
+
+00:05:10.978 --> 00:05:15.803
+Chaque robot ne parle qu'à un faible 
+nombre de robots, ses voisins,
+
+00:05:15.827 --> 00:05:19.764
+et utilise sa règle de déplacement pour 
+bouger autour de la structure,
+
+00:05:19.788 --> 00:05:22.795
+en cherchant sa place en fonction 
+de ses règles de séquence.
+
+00:05:23.794 --> 00:05:28.192
+Et même si le résultat n'est pas parfait,
+
+00:05:28.216 --> 00:05:31.876
+les règles établies permettent au groupe 
+d'atteindre son but

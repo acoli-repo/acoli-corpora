@@ -1,0 +1,49 @@
+WEBVTT
+
+00:06:58.397 --> 00:07:00.444
+passariam-na por uma função <i>hash</i>
+
+00:07:00.444 --> 00:07:02.059
+e verificariam se bate
+
+00:07:02.059 --> 00:07:05.549
+com as senhas que eles têm
+em sua lista roubada.
+
+00:07:06.009 --> 00:07:09.114
+Um atacante burro tentaria
+todas as senhas na ordem.
+
+00:07:09.114 --> 00:07:12.682
+Começariam com AAAAA e depois AAAAB,
+
+00:07:12.682 --> 00:07:15.100
+e isso demoraria muito
+
+00:07:15.100 --> 00:07:16.826
+antes de conseguirem qualquer senha
+
+00:07:16.826 --> 00:07:19.323
+que seja realmente provável
+de ser usada por alguém
+
+00:07:19.323 --> 00:07:21.506
+Um atacante esperto, por outro lado,
+
+00:07:21.506 --> 00:07:23.172
+faz algo muito mais inteligente.
+
+00:07:23.172 --> 00:07:24.718
+Eles olham para as senhas
+
+00:07:24.718 --> 00:07:26.518
+que são conhecidamente populares
+
+00:07:26.518 --> 00:07:28.335
+daqueles conjuntos de senhas roubadas,
+
+00:07:28.335 --> 00:07:29.694
+e chutam aquelas primeiro.
+
+00:07:29.694 --> 00:07:31.568
+Eles vão começar chutando "password",

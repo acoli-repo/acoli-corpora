@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:29.601 --> 00:06:31.631
+e eles transmitem as informações
+
+00:06:31.631 --> 00:06:34.528
+camada após camada,
+após camada de neurónios,
+
+00:06:34.552 --> 00:06:37.585
+todos ligados através de sinapses
+de diferentes pesos.
+
+00:06:37.609 --> 00:06:39.114
+O comportamento desta rede
+
+00:06:39.114 --> 00:06:42.352
+é caracterizado pelas forças
+de todas estas sinapses.
+
+00:06:42.352 --> 00:06:45.564
+Elas caracterizam as propriedades
+informáticas dessa rede.
+
+00:06:45.588 --> 00:06:47.058
+E por fim,
+
+00:06:47.082 --> 00:06:49.619
+temos um neurónio
+ou um pequeno grupo de neurónios
+
+00:06:49.619 --> 00:06:51.570
+que se iluminam, dizendo: "ave".
+
+00:06:51.824 --> 00:06:54.956
+Agora vou representar essas três coisas
+
+00:06:54.980 --> 00:06:59.676
+— os píxeis de entrada
+e as sinapses na rede neural,
+
+00:06:59.700 --> 00:07:01.285
+e a ave, o resultado —

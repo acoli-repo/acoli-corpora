@@ -1,0 +1,45 @@
+WEBVTT
+
+00:07:28.801 --> 00:07:31.115
+porque lo que realmente pasa allí, 
+por supuesto,
+
+00:07:31.115 --> 00:07:34.135
+es una serie muy complicada 
+de operaciones matemáticas.
+
+00:07:35.172 --> 00:07:36.387
+Esa es una ecuación.
+
+00:07:36.387 --> 00:07:38.083
+Hay tres variables.
+
+00:07:38.083 --> 00:07:40.879
+Y todos sabemos que 
+si uno tiene una ecuación,
+
+00:07:40.879 --> 00:07:44.505
+puede resolver una variable 
+conociendo las otras dos.
+
+00:07:45.158 --> 00:07:48.538
+Así que el problema de la inferencia,
+
+00:07:48.562 --> 00:07:51.429
+es decir, averiguar que la imagen 
+de un pájaro es un pájaro,
+
+00:07:51.429 --> 00:07:52.763
+es este:
+
+00:07:52.763 --> 00:07:56.216
+Y es la desconocida 
+y W y X las conocidas.
+
+00:07:56.240 --> 00:07:58.729
+Se conoce la red neuronal, 
+y también los píxeles.
+
+00:07:58.729 --> 00:08:02.080
+Como se puede ver, en realidad, es 
+un problema relativamente sencillo.

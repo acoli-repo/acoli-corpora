@@ -1,0 +1,38 @@
+WEBVTT
+
+00:04:59.162 --> 00:05:02.481
+Şimdi devam etmeden önce,
+hızlıca ve basit olarak
+
+00:05:02.505 --> 00:05:04.286
+RKCP’nin nasıl çalıştığını anlatayım.
+
+00:05:04.873 --> 00:05:08.723
+RKCP Ray Kurzweil tarafından
+tasarlanan bir algoritma,
+
+00:05:08.747 --> 00:05:10.969
+kendisi Google’ın mühendislik yöneticisi
+
+00:05:10.993 --> 00:05:13.353
+ve sıkı bir yapay zekâ taraftarı.
+
+00:05:13.822 --> 00:05:17.813
+RKCP’ye bir kaynak metin veriyorsunuz,
+
+00:05:17.837 --> 00:05:22.340
+dili nasıl kullanacağını kavramak için
+kaynak metni analiz ediyor
+
+00:05:22.340 --> 00:05:24.918
+ve sonra ilk metni taklit eden dili
+
+00:05:24.918 --> 00:05:26.830
+yeniden üretiyor.
+
+00:05:26.854 --> 00:05:28.967
+Gördüğümüz bir önceki şiirde,
+
+00:05:28.991 --> 00:05:31.616
+hepinizin insan yazımı olduğunu
+düşündüğü Şiir 2,

@@ -1,0 +1,51 @@
+WEBVTT
+
+00:06:28.991 --> 00:06:30.745
+de la difficulté d'un mot de passe.
+
+00:06:30.745 --> 00:06:33.057
+Nous avons donc décidé de regarder
+
+00:06:33.057 --> 00:06:35.427
+le temps qu'il faudrait pour craquer
+ces mots de passe
+
+00:06:35.427 --> 00:06:36.841
+en utilisant les meilleurs outils
+
+00:06:36.841 --> 00:06:38.649
+que les voyous utilisent,
+
+00:06:38.649 --> 00:06:40.665
+ou sur lesquels nous pouvions
+trouver des informations
+
+00:06:40.665 --> 00:06:42.202
+dans la littérature de recherche.
+
+00:06:42.202 --> 00:06:44.960
+Pour vous donner une idée
+de comment les voyous
+
+00:06:44.960 --> 00:06:47.130
+craquent les mots de passe,
+
+00:06:47.130 --> 00:06:49.081
+ils volent un fichier de mots de passe
+
+00:06:49.081 --> 00:06:51.234
+qui contiendra tous les mots de passe
+
+00:06:51.234 --> 00:06:54.123
+sous une forme brouillée,
+appelée hachage,
+
+00:06:54.123 --> 00:06:56.685
+et ce qu'ils vont faire
+c'est faire une supposition
+
+00:06:56.685 --> 00:06:58.397
+sur ce qu'un mot de passe peut être,
+
+00:06:58.397 --> 00:07:00.294
+le passer dans une fonction de hachage,

@@ -1,0 +1,39 @@
+WEBVTT
+
+00:06:56.292 --> 00:07:01.521
+es decir, personas a quienes les dice 
+la AI pueden quedarse en casa y morir?
+
+00:07:01.545 --> 00:07:02.910
+(Risas)
+
+00:07:02.934 --> 00:07:05.386
+Ahí comenzó nuestro 70 %.
+
+00:07:05.410 --> 00:07:07.402
+Trabajamos con un equipo de médicos
+
+00:07:07.426 --> 00:07:11.225
+para verificar la lógica médica
+de cada variable en nuestro modelo.
+
+00:07:11.537 --> 00:07:16.106
+Por ejemplo, estábamos usando
+la concentración de una enzima hepática
+
+00:07:16.130 --> 00:07:17.403
+como predictor
+
+00:07:17.427 --> 00:07:21.125
+lo cual para la lógica médica 
+no era obvio.
+
+00:07:21.149 --> 00:07:23.815
+La señal estadística fue bastante fuerte.
+
+00:07:24.300 --> 00:07:27.133
+Pero ¿y si fue un sesgo 
+en nuestra muestra?
+
+00:07:27.157 --> 00:07:29.957
+Ese predictor fue sacado del modelo.

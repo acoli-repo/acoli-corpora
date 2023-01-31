@@ -1,0 +1,31 @@
+WEBVTT
+
+00:06:29.360 --> 00:06:30.656
+Và bên trong mỗi con robot,
+
+00:06:30.680 --> 00:06:36.296
+bạn phải nghĩ về sự tương tác 
+của cảm biến, thông tin, khả năng tính toán --
+
+00:06:36.320 --> 00:06:41.280
+và hệ thống này trở nên khá khó 
+để kiểm soát và quản lý.
+
+00:06:42.160 --> 00:06:45.456
+Thế nên, từ tự nhiên, chúng tôi 
+học được 3 nguyên tắc tổ chức
+
+00:06:45.480 --> 00:06:48.640
+cần thiết để cho phép chúng tôi 
+phát triển thuật toán của mình.
+
+00:06:49.640 --> 00:06:54.176
+Ý tưởng đầu tiên là các robot cần phải 
+biết được những robot lân cận chúng.
+
+00:06:54.200 --> 00:06:57.640
+Chúng cần phải có khả năng cảm nhận 
+và thông tin với các robot lân cận.
+
+00:06:58.040 --> 00:07:00.696
+Video này minh họa ý tưởng cơ bản này.

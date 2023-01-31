@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:28.568 --> 00:08:31.979
+but identifying the species of bird
+with a network of this sort.
+
+00:08:32.890 --> 00:08:34.716
+So in that picture,
+
+00:08:34.740 --> 00:08:38.542
+the x and the w are known,
+and the y is the unknown.
+
+00:08:38.566 --> 00:08:41.074
+I'm glossing over the very
+difficult part, of course,
+
+00:08:41.098 --> 00:08:44.959
+which is how on earth
+do we figure out the w,
+
+00:08:44.983 --> 00:08:47.170
+the brain that can do such a thing?
+
+00:08:47.194 --> 00:08:49.028
+How would we ever learn such a model?
+
+00:08:49.418 --> 00:08:52.651
+So this process of learning,
+of solving for w,
+
+00:08:52.675 --> 00:08:55.322
+if we were doing this
+with the simple equation
+
+00:08:55.346 --> 00:08:57.346
+in which we think about these as numbers,
+
+00:08:57.370 --> 00:09:00.057
+we know exactly how to do that: 6 = 2 x w,

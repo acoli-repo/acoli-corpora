@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:28.714 --> 00:07:30.907
+car ce qu'il se passe vraiment
+est bien-sûr
+
+00:07:30.931 --> 00:07:35.071
+une série complexe
+d'opérations mathématiques.
+
+00:07:35.095 --> 00:07:36.412
+C'est une équation.
+
+00:07:36.436 --> 00:07:38.181
+Il y a trois variables.
+
+00:07:38.205 --> 00:07:41.092
+Nous savons tous qu'avec une équation,
+
+00:07:41.116 --> 00:07:45.115
+vous pouvez trouver une variable
+si vous connaissez les deux autres.
+
+00:07:45.139 --> 00:07:48.134
+Le problème de l'inférence,
+
+00:07:48.159 --> 00:07:51.334
+c'est-à-dire trouver
+que la photo de l'oiseau est un oiseau,
+
+00:07:51.359 --> 00:07:52.900
+est le suivant :
+
+00:07:52.925 --> 00:07:56.043
+y est l'inconnue et w et x sont connus.
+
+00:07:56.068 --> 00:07:58.451
+Vous connaissez
+le réseau neuronal et les pixels.
+
+00:07:58.476 --> 00:08:01.620
+Comme vous le voyez, c'est un problème
+plutôt simple à résoudre.

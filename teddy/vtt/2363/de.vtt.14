@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:58.075 --> 00:07:00.270
+lassen es durch eine Hash-Funktion laufen
+
+00:07:00.294 --> 00:07:02.349
+und schauen, ob es zu den Passwörtern
+
+00:07:02.373 --> 00:07:05.211
+auf der Liste gestohlener
+Passwörter passt.
+
+00:07:06.009 --> 00:07:09.090
+Ein dummer Angreifer wird jedes
+Passwort nacheinander versuchen.
+
+00:07:09.114 --> 00:07:12.658
+Sie fangen mit "AAAAA" an
+und machen mit "AAAAB" weiter,
+
+00:07:12.682 --> 00:07:16.602
+und es dauert ziemlich lange,
+bis sie irgendein Passwort finden,
+
+00:07:16.626 --> 00:07:19.455
+dass Leute wirklich benutzen.
+
+00:07:19.479 --> 00:07:23.179
+Ein schlauer Angreifer andererseits
+macht etwas viel Klügeres.
+
+00:07:23.203 --> 00:07:26.494
+Sie schauen sich die Passwörter an,
+die bekanntermaßen beliebt sind,
+
+00:07:26.518 --> 00:07:28.221
+aus den gestohlenen Passwörtern,
+
+00:07:28.245 --> 00:07:29.641
+und erraten diese zuerst.
+
+00:07:29.665 --> 00:07:31.544
+Sie tippen also erst auf "Passwort",

@@ -1,0 +1,48 @@
+WEBVTT
+
+00:05:59.366 --> 00:06:01.918
+Wat gebeurt er nu tussen de pixels,
+
+00:06:01.942 --> 00:06:05.970
+de afbeelding van een vogel,
+en het woord 'vogel'?
+
+00:06:05.994 --> 00:06:08.792
+Een reeks neuronen zijn 
+met elkaar verbonden
+
+00:06:08.792 --> 00:06:09.961
+in een neuraal netwerk,
+
+00:06:09.961 --> 00:06:11.234
+zoals op deze schets hier.
+
+00:06:11.258 --> 00:06:14.530
+Dit neuraal netwerk kan biologisch zijn,
+binnen onze visuele cortex,
+
+00:06:14.554 --> 00:06:16.716
+maar tegenwoordig zijn we in staat
+
+00:06:16.740 --> 00:06:19.194
+om neurale netwerken 
+na te maken op de computer.
+
+00:06:19.834 --> 00:06:22.187
+Ik zal jullie laten zien
+hoe dat eruitziet.
+
+00:06:22.211 --> 00:06:25.627
+De pixels kan je zien 
+als de eerste laag neuronen.
+
+00:06:25.651 --> 00:06:27.761
+Hier zie je in feite 
+de werking van het oog.
+
+00:06:27.761 --> 00:06:29.577
+Dat zijn de neuronen 
+in het netvlies.
+
+00:06:29.601 --> 00:06:31.101
+Deze geven hun informatie door

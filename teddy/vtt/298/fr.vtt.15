@@ -1,0 +1,50 @@
+WEBVTT
+
+00:07:28.773 --> 00:07:32.353
+c'est qu'ils ont besoin
+de pointeurs très sophistiqués.
+
+00:07:32.353 --> 00:07:34.899
+Vous devez rester focalisé 
+sur une cible de 50cm
+
+00:07:34.899 --> 00:07:36.651
+depuis 10 000m
+
+00:07:36.651 --> 00:07:38.883
+tout en bougeant 
+à plus de 7km par seconde,
+
+00:07:38.883 --> 00:07:41.512
+ce qui exige un énorme
+degré de complexité.
+
+00:07:41.512 --> 00:07:43.268
+Donc à la place, 
+nous nous sommes tournés
+
+00:07:43.268 --> 00:07:45.244
+vers une nouvelle génération 
+de capteurs vidéo,
+
+00:07:45.244 --> 00:07:48.160
+créés à l'origine pour être utilisés 
+dans des lunettes à vision nocturne.
+
+00:07:48.160 --> 00:07:51.059
+A la place de prendre
+une seule image de haute qualité,
+
+00:07:51.059 --> 00:07:52.446
+nous pouvions prendre un flux vidéo
+
+00:07:52.446 --> 00:07:55.259
+avec un peu de bruit
+sur chacune des images,
+
+00:07:55.259 --> 00:07:58.579
+mais ensuite on combine
+toutes ces images ensemble
+
+00:07:58.579 --> 00:08:00.575
+dans des images de très haute qualité

@@ -1,0 +1,41 @@
+WEBVTT
+
+00:06:29.280 --> 00:06:30.640
+Je vais vous expliquer.
+
+00:06:32.000 --> 00:06:34.176
+Je pensais ainsi : je pointe un endroit,
+
+00:06:34.200 --> 00:06:37.296
+j'y écris quelques mots,
+et j'écris autre chose ailleurs,
+
+00:06:37.296 --> 00:06:41.250
+j'ajoute un nombre et un nombre ailleurs,
+je pointe un endroit pour la réponse,
+
+00:06:41.250 --> 00:06:44.456
+je pointe sur le premier,
+ensuite sur le moins, je pointe le second
+
+00:06:44.480 --> 00:06:45.680
+et j'obtiens le résultat.
+
+00:06:46.360 --> 00:06:49.776
+Voici mon problème :
+Que faut-il écrire dans la formule ?
+
+00:06:49.800 --> 00:06:52.420
+Ça devait être
+compréhensible par l'ordinateur.
+
+00:06:52.444 --> 00:06:54.136
+En lisant la formule,
+
+00:06:54.160 --> 00:06:57.160
+il fallait savoir quels étaient
+ses référents sur l'écran.
+
+00:06:57.840 --> 00:07:00.736
+Ma première idée fut d'organiser ça
+comme un programmeur.

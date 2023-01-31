@@ -1,0 +1,36 @@
+WEBVTT
+
+00:13:57.616 --> 00:14:00.026
+Det används alltså ingen
+LIDAR eller radar.
+
+00:14:00.026 --> 00:14:04.306
+Den använder sig bara utav passiv optik,
+vilket i grunden är hur vi människor ser.
+
+00:14:04.936 --> 00:14:07.640
+Hela vägsystemet är tänkt att navigeras
+
+00:14:07.640 --> 00:14:11.656
+med hjälp av passiv optik, eller kameror,
+
+00:14:11.656 --> 00:14:15.186
+så när man väl lyckas lösa kameraproblemet
+
+00:14:15.186 --> 00:14:16.786
+eller synen
+
+00:14:17.556 --> 00:14:19.370
+så har man löst autonomi.
+
+00:14:19.370 --> 00:14:22.026
+Löser man inte synförmågan,
+är det inte löst.
+
+00:14:22.126 --> 00:14:28.150
+Det är därför vår fokus ligger så tungt på
+att skapa ett neuralt nätverk för synen
+
+00:14:28.150 --> 00:14:31.456
+som funkar effektivt för
+olika vägförhållanden.

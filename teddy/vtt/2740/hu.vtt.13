@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:29.280 --> 00:06:30.640
+Megmutatom, mire gondolok.
+
+00:06:32.000 --> 00:06:34.176
+Úgy képzeltem, hogy rámutatok valahova,
+
+00:06:34.200 --> 00:06:37.296
+beírok pár szót, majd máshova írok be,
+
+00:06:37.320 --> 00:06:40.844
+beírok pár számot és még több számot,
+és rámutatok, hova kérem a választ.
+
+00:06:41.240 --> 00:06:44.456
+Aztán rámutatok az elsőre, mínuszt
+nyomok, rámutatok a másodikra,
+
+00:06:44.480 --> 00:06:45.680
+és megvan az eredmény.
+
+00:06:46.360 --> 00:06:49.776
+A probléma a következő volt:
+Mit tegyek a képletbe?
+
+00:06:49.800 --> 00:06:52.420
+Olyasmi kell, amit a számítógép
+be tud helyettesíteni.
+
+00:06:52.444 --> 00:06:54.136
+És ha valaki ránéz a képletre,
+
+00:06:54.160 --> 00:06:57.160
+tudnia kell, hogy a képernyő
+melyik részére hivatkozik.
+
+00:06:57.840 --> 00:07:00.736
+Az első gondolatom az volt,
+hogy programozói módon oldom meg.

@@ -1,0 +1,45 @@
+WEBVTT
+
+00:06:59.700 --> 00:07:01.285
+e l'uccello, il risultato,
+
+00:07:01.309 --> 00:07:04.663
+attraverso tre variabili: x, w ed y.
+
+00:07:04.663 --> 00:07:06.664
+Ci sono forse un milione
+di x più o meno,
+
+00:07:06.688 --> 00:07:08.641
+un milione di pixel in questa immagine.
+
+00:07:08.665 --> 00:07:11.111
+Ci sono miliardi o triliardi di w,
+
+00:07:11.135 --> 00:07:14.556
+che rappresentano il peso di tutte queste
+sinapsi nella rete neurale.
+
+00:07:14.580 --> 00:07:16.455
+E c'è un piccolissimo numero di y,
+
+00:07:16.479 --> 00:07:18.337
+di uscite che ha quella rete.
+
+00:07:18.361 --> 00:07:21.040
+Uccello è di sole tre sillabe,
+giusto?
+
+00:07:21.088 --> 00:07:24.514
+Facciamo finta che sia solo
+una semplice formula,
+
+00:07:24.538 --> 00:07:26.701
+x "x" w = y.
+
+00:07:26.725 --> 00:07:28.761
+Sto mettendo il "per" tra virgolette
+
+00:07:28.785 --> 00:07:31.065
+perché cio che realmente accade,
+ovviamente,

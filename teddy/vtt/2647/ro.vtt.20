@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:58.865 --> 00:10:01.232
+Atunci computerul 
+ar putea să o ia pe bâjbâite,
+
+00:10:01.256 --> 00:10:03.623
+şi ar reduce eroarea până aproape de zero.
+
+00:10:03.647 --> 00:10:07.021
+Pe măsură ce face asta,
+obţine aproximări succesive ale lui w.
+
+00:10:07.045 --> 00:10:10.701
+Normal, nu ajunge la rezultatul exact,
+dar cam după o duzină de paşi,
+
+00:10:10.725 --> 00:10:15.349
+ajungem la w = 2,999, 
+ceea ce e destul de aproape.
+
+00:10:16.302 --> 00:10:18.116
+Acesta e procesul de învăţare.
+
+00:10:18.140 --> 00:10:20.870
+Recapitulând, ce facem aici
+
+00:10:20.894 --> 00:10:25.272
+e să luăm o groază
+de x şi y cunoscuţi
+
+00:10:25.296 --> 00:10:28.750
+ca să-l descoperim w 
+printr-un proces iterativ.
+
+00:10:28.774 --> 00:10:32.330
+E exact aşa cum facem noi când învăţăm.

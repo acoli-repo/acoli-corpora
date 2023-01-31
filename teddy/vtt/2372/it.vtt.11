@@ -1,0 +1,50 @@
+WEBVTT
+
+00:05:27.263 --> 00:05:31.961
+che rispecchiano la biomeccanica 
+dei miei tessuti sottostanti.
+
+00:05:31.961 --> 00:05:33.311
+Per ottenere questo rispecchiamento
+
+00:05:33.311 --> 00:05:35.438
+abbiamo prima sviluppato 
+un modello matematico
+
+00:05:35.438 --> 00:05:37.014
+del mio arto biologico.
+
+00:05:37.014 --> 00:05:40.148
+A tale scopo, abbiamo usato tecniche 
+di imaging come la risonanza magnetica
+
+00:05:40.148 --> 00:05:41.816
+per guardare dentro il mio corpo
+
+00:05:41.816 --> 00:05:43.946
+e scoprire le geometrie e le posizioni
+
+00:05:43.946 --> 00:05:45.503
+di vari tessuti.
+
+00:05:45.503 --> 00:05:47.149
+Abbiamo anche preso strumenti robotici.
+
+00:05:47.149 --> 00:05:49.622
+Questo è un attuatore a 14 motori
+
+00:05:49.622 --> 00:05:52.565
+che gira attorno all'arto biologico.
+
+00:05:52.565 --> 00:05:55.220
+L'attuatore si avvicina, 
+trova la superficie dell'arto,
+
+00:05:55.220 --> 00:05:57.619
+ne misura la forma in assenza di carico
+
+00:05:57.619 --> 00:05:59.218
+e poi spinge sui tessuti
+
+00:05:59.218 --> 00:06:01.272
+per misurare la cedevolezza dei tessuti

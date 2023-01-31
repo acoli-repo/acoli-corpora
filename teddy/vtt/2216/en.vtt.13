@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:26.157 --> 00:06:30.766
+This is new and surprising,
+and so we're more likely to share it.
+
+00:06:31.092 --> 00:06:34.017
+At the same time,
+there was congressional testimony
+
+00:06:34.041 --> 00:06:37.077
+in front of both houses of Congress
+in the United States,
+
+00:06:37.101 --> 00:06:40.839
+looking at the role of bots
+in the spread of misinformation.
+
+00:06:40.863 --> 00:06:42.217
+So we looked at this too --
+
+00:06:42.241 --> 00:06:45.839
+we used multiple sophisticated
+bot-detection algorithms
+
+00:06:45.863 --> 00:06:48.937
+to find the bots in our data
+and to pull them out.
+
+00:06:49.347 --> 00:06:52.006
+So we pulled them out,
+we put them back in
+
+00:06:52.030 --> 00:06:55.149
+and we compared what happens
+to our measurement.
+
+00:06:55.173 --> 00:06:57.466
+And what we found was that, yes indeed,
+
+00:06:57.490 --> 00:07:01.172
+bots were accelerating
+the spread of false news online,

@@ -1,0 +1,36 @@
+WEBVTT
+
+00:10:56.875 --> 00:11:00.062
+And about a year ago,
+Alex Mordvintsev, on our team,
+
+00:11:00.086 --> 00:11:03.636
+decided to experiment
+with what happens if we try solving for x,
+
+00:11:03.660 --> 00:11:05.697
+given a known w and a known y.
+
+00:11:06.124 --> 00:11:07.275
+In other words,
+
+00:11:07.299 --> 00:11:08.651
+you know that it's a bird,
+
+00:11:08.675 --> 00:11:11.978
+and you already have your neural network
+that you've trained on birds,
+
+00:11:12.002 --> 00:11:14.346
+but what is the picture of a bird?
+
+00:11:15.034 --> 00:11:20.058
+It turns out that by using exactly
+the same error-minimization procedure,
+
+00:11:20.082 --> 00:11:23.512
+one can do that with the network
+trained to recognize birds,
+
+00:11:23.536 --> 00:11:26.924
+and the result turns out to be ...

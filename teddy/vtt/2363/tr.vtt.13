@@ -1,0 +1,47 @@
+WEBVTT
+
+00:06:28.991 --> 00:06:30.745
+iyi bir ölçüsü yok.
+
+00:06:30.745 --> 00:06:33.057
+Bu yüzden, kötü insanların kullandığı
+
+00:06:33.057 --> 00:06:35.427
+veya araştırma literatüründe
+
+00:06:35.427 --> 00:06:36.841
+bilgi bulabildiğimiz
+
+00:06:36.841 --> 00:06:38.649
+en iyi şifre kırma yöntemleriyle
+
+00:06:38.649 --> 00:06:40.665
+şifreleri kırmanın ne kadar süreceğine
+
+00:06:40.665 --> 00:06:42.202
+bakmaya karar verdik.
+
+00:06:42.202 --> 00:06:44.960
+Kötü insanların şifreleri nasıl kırdığı
+
+00:06:44.960 --> 00:06:47.130
+hakkında bilgi sahibi olmanız adına,
+
+00:06:47.130 --> 00:06:49.081
+hash (kargaşa) denilen 
+karmaşık form benzeri
+
+00:06:49.081 --> 00:06:51.234
+bütün şifreleri içeren
+
+00:06:51.234 --> 00:06:54.123
+şifre dosyalarını çalıyorlar,
+
+00:06:54.123 --> 00:06:56.685
+ardından şifreyi bulmak için
+
+00:06:56.685 --> 00:06:58.397
+hashing fonksiyonu üzerinden
+
+00:06:58.397 --> 00:07:00.294
+tahmin yapıyorlar

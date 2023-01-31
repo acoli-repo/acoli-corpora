@@ -1,0 +1,49 @@
+WEBVTT
+
+00:06:28.991 --> 00:06:30.745
+za jačinu šifre.
+
+00:06:30.745 --> 00:06:33.057
+Odlučili smo da vidimo
+
+00:06:33.057 --> 00:06:35.427
+koliko vremena je potrebno
+da se provale ove šifre
+
+00:06:35.427 --> 00:06:36.841
+koristeći najbolje alatke
+
+00:06:36.841 --> 00:06:38.649
+koje koriste loši momci
+
+00:06:38.649 --> 00:06:40.903
+ili one o kojima se mogu
+pronaći neki podaci
+
+00:06:40.903 --> 00:06:42.202
+u literaturi.
+
+00:06:42.202 --> 00:06:44.960
+A sada da vam dam uvid
+u to kako loši momci
+
+00:06:44.960 --> 00:06:47.130
+otkrivaju šifre.
+
+00:06:47.130 --> 00:06:49.081
+Oni ukradu datoteku
+
+00:06:49.081 --> 00:06:51.234
+koja sadrži sve šifre
+
+00:06:51.234 --> 00:06:54.123
+u nekakvom zbrkanom obliku, zvanom heš,
+
+00:06:54.123 --> 00:06:56.807
+a onda zapravo nagađaju
+
+00:06:56.907 --> 00:06:58.397
+šta je od toga šifra,
+
+00:06:58.397 --> 00:07:00.294
+provuku je kroz heš funkciju

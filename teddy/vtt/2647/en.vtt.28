@@ -1,0 +1,41 @@
+WEBVTT
+
+00:13:57.838 --> 00:14:00.394
+That's what this little demonstration is.
+
+00:14:00.418 --> 00:14:04.540
+This is a network
+that is designed to categorize
+
+00:14:04.564 --> 00:14:07.683
+all sorts of different objects --
+man-made structures, animals ...
+
+00:14:07.707 --> 00:14:10.300
+Here we're starting
+with just a picture of clouds,
+
+00:14:10.324 --> 00:14:11.995
+and as we optimize,
+
+00:14:12.019 --> 00:14:16.505
+basically, this network is figuring out
+what it sees in the clouds.
+
+00:14:16.931 --> 00:14:19.251
+And the more time
+you spend looking at this,
+
+00:14:19.275 --> 00:14:22.028
+the more things you also
+will see in the clouds.
+
+00:14:23.004 --> 00:14:26.379
+You could also use the face network
+to hallucinate into this,
+
+00:14:26.403 --> 00:14:28.215
+and you get some pretty crazy stuff.
+
+00:14:28.239 --> 00:14:29.389
+(Laughter)

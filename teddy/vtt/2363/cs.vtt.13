@@ -1,0 +1,48 @@
+WEBVTT
+
+00:06:28.991 --> 00:06:30.745
+síly hesla.
+
+00:06:30.745 --> 00:06:33.057
+Takže jsme se rozhodli podívat,
+
+00:06:33.057 --> 00:06:35.427
+jak dlouho bude trvat nabourat tato hesla
+
+00:06:35.427 --> 00:06:36.841
+použitím nejlepších nabourávacích nástrojů,
+
+00:06:36.841 --> 00:06:38.649
+které ti zlí hoši používají,
+
+00:06:38.649 --> 00:06:40.665
+nebo jsme mohli najít informace
+
+00:06:40.665 --> 00:06:42.202
+ve výzkumné literatuře.
+
+00:06:42.202 --> 00:06:44.960
+Tak abych vám udělala
+představu o tom, jak se zlí hoši
+
+00:06:44.960 --> 00:06:47.130
+nabourávají do hesel,
+
+00:06:47.130 --> 00:06:49.081
+ukradnou soubor hesel,
+
+00:06:49.081 --> 00:06:51.234
+který obsahuje všechna ta hesla
+
+00:06:51.234 --> 00:06:54.123
+v takové zakódované podobě,
+nazvané "hash",
+
+00:06:54.123 --> 00:06:56.685
+a co udělají je, že si tipnou,
+
+00:06:56.685 --> 00:06:58.397
+jaké to heslo je,
+
+00:06:58.397 --> 00:07:00.294
+projedou to skrz "hash" funkci,

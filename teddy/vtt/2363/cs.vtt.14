@@ -1,0 +1,47 @@
+WEBVTT
+
+00:06:58.397 --> 00:07:00.294
+projedou to skrz "hash" funkci,
+
+00:07:00.294 --> 00:07:02.059
+a uvidí, jestli to odpovídá
+
+00:07:02.059 --> 00:07:06.009
+heslům, které mají 
+na jejich ukradeném seznamu hesel.
+
+00:07:06.009 --> 00:07:09.114
+No a hloupý útočník zkusí každé heslo postupně.
+
+00:07:09.114 --> 00:07:12.682
+Začnou s AAAAA, pokračují s AAAAB
+
+00:07:12.682 --> 00:07:15.100
+a tohle zabere opravdu dlouho
+
+00:07:15.100 --> 00:07:16.626
+než získají hesla,
+
+00:07:16.626 --> 00:07:19.323
+která lidé s velkou pravděpodobností mají.
+
+00:07:19.323 --> 00:07:21.506
+Chytrý útočník, na druhou stranu,
+
+00:07:21.506 --> 00:07:22.892
+udělá něco mnohem chytřejšího.
+
+00:07:22.892 --> 00:07:24.718
+Podívají se na hesla,
+
+00:07:24.718 --> 00:07:26.518
+o kterých se ví, že jsou populární
+
+00:07:26.518 --> 00:07:28.245
+z těch ukradených souborů hesel
+
+00:07:28.245 --> 00:07:29.434
+a právě ty hádají jako první.
+
+00:07:29.434 --> 00:07:31.568
+Takže začnou s hádáním "heslo",

@@ -1,0 +1,33 @@
+WEBVTT
+
+00:10:56.875 --> 00:11:00.062
+Há uns anos, Alex Mordvintsev,
+da nossa equipa,
+
+00:11:00.086 --> 00:11:03.636
+decidiu experimentar o que acontece
+se tentarmos encontrar o x,
+
+00:11:03.660 --> 00:11:05.837
+em que o w e o y são conhecidos.
+
+00:11:06.124 --> 00:11:08.515
+Por outras palavras,
+sabemos que é uma ave,
+
+00:11:08.675 --> 00:11:11.978
+já treinámos a rede neural com as aves,
+
+00:11:12.002 --> 00:11:14.586
+mas o que é a imagem de uma ave?
+
+00:11:15.034 --> 00:11:20.058
+Acontece que, usando exatamente o mesmo
+procedimento de minimização de erros,
+
+00:11:20.082 --> 00:11:23.512
+podemos fazer isso com a rede
+treinada para reconhecer aves
+
+00:11:23.536 --> 00:11:26.924
+e o resultado será...

@@ -1,0 +1,44 @@
+WEBVTT
+
+00:08:57.126 --> 00:09:00.076
+nous savons comment procéder : 6 = 2 x w,
+
+00:09:00.100 --> 00:09:03.968
+il suffit de diviser par 2 et c'est fini.
+
+00:09:03.992 --> 00:09:06.650
+Le problème est l'opérateur :
+
+00:09:06.675 --> 00:09:07.919
+la division.
+
+00:09:07.944 --> 00:09:10.998
+Nous utilisons la division
+qui est l'inverse de la multiplication
+
+00:09:11.023 --> 00:09:12.388
+mais, comme je l'ai dit,
+
+00:09:12.412 --> 00:09:15.122
+nous ne faisons pas vraiment
+une multiplication.
+
+00:09:15.146 --> 00:09:18.426
+C'est une opération très, très compliquée
+et non-linéaire ;
+
+00:09:18.450 --> 00:09:20.105
+elle n'a pas d'inverse.
+
+00:09:20.129 --> 00:09:23.128
+Nous devons donc trouver un moyen
+de résoudre l'équation
+
+00:09:23.152 --> 00:09:25.153
+sans opérateur de division.
+
+00:09:25.177 --> 00:09:27.441
+La méthode pour cela est assez simple :
+
+00:09:27.465 --> 00:09:30.320
+nous utilisons une ruse algébrique

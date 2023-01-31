@@ -1,0 +1,48 @@
+WEBVTT
+
+00:05:58.490 --> 00:06:00.895
+de les utiliser afin d'apprendre
+aux robots à voir.
+
+00:06:00.919 --> 00:06:02.807
+Donc, pour ce projet,
+
+00:06:02.831 --> 00:06:04.798
+j'ai pensé au regard de la machine,
+
+00:06:04.822 --> 00:06:08.048
+et j'ai commencé à penser à la vue
+comme multidimensionnelle,
+
+00:06:08.072 --> 00:06:09.672
+comme des vues de quelque part.
+
+00:06:10.151 --> 00:06:11.985
+On a recueilli des images vidéo
+
+00:06:12.009 --> 00:06:15.072
+des flux de caméras
+accessibles au public sur Internet :
+
+00:06:15.096 --> 00:06:16.786
+des gens marchant sur le trottoir,
+
+00:06:16.810 --> 00:06:18.522
+des voitures et taxis dans la rue,
+
+00:06:18.546 --> 00:06:20.363
+toutes sortes de mouvements urbains.
+
+00:06:21.188 --> 00:06:23.791
+On a entraîné un algorithme de vision
+sur ces données,
+
+00:06:23.815 --> 00:06:26.101
+basé sur la technique de « flux optique »
+
+00:06:26.125 --> 00:06:28.102
+pour analyser les états de densité,
+
+00:06:28.126 --> 00:06:31.763
+direction, durée de temporisation,
+et vélocité du mouvement urbain.

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:04:59.162 --> 00:05:02.481
+Než se posuneme, nechte mne
+velmi rychle a jednoduše popsat,
+
+00:05:02.505 --> 00:05:04.286
+jak RKCP funguje.
+
+00:05:04.873 --> 00:05:08.723
+RKCP je algoritmus
+navržený Rayem Kurzweilem,
+
+00:05:08.747 --> 00:05:10.969
+což je ředitel vývoje v Googlu
+
+00:05:10.993 --> 00:05:13.353
+a pevný zastánce
+umělé inteligence.
+
+00:05:13.822 --> 00:05:17.813
+RKCP dáte zdroj textu,
+
+00:05:17.837 --> 00:05:22.306
+ten je zanalyzován kvůli způsobu,
+jakým je v něm použita slovní zásoba,
+
+00:05:22.330 --> 00:05:24.278
+a ta je pak přeskládána tak,
+
+00:05:24.302 --> 00:05:26.830
+aby napodobovala první text.
+
+00:05:26.854 --> 00:05:28.967
+V případě básně,
+kterou jsme zrovna viděli,
+
+00:05:28.991 --> 00:05:31.616
+básně 2, u které jste si
+mysleli, že ji psal člověk,

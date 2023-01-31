@@ -1,0 +1,46 @@
+WEBVTT
+
+00:05:59.366 --> 00:06:01.918
+Was zwischen den Pixeln,
+
+00:06:01.942 --> 00:06:05.970
+dem Bild eines Vogels 
+und dem Wort "Vogel" passiert,
+
+00:06:05.994 --> 00:06:08.758
+ist im Grunde eine Gruppe 
+miteinander verbundener Neuronen
+
+00:06:08.772 --> 00:06:10.167
+in einem neuronalen Netzwerk,
+
+00:06:10.177 --> 00:06:11.274
+wie in meinem Diagramm.
+
+00:06:11.274 --> 00:06:14.880
+Dieses neuronale Netzwerk kann 
+ein natürliches in unserer Sehrinde sein.
+
+00:06:14.880 --> 00:06:16.816
+Heute können wir beginnen,
+
+00:06:16.816 --> 00:06:19.844
+solche neuronalen Netzwerke 
+in Computern nachbauen.
+
+00:06:19.844 --> 00:06:22.187
+Ich gebe Ihnen eine Vorstellung davon.
+
+00:06:22.211 --> 00:06:25.647
+Die Pixel können Sie sich als
+erste Neuronenschicht vorstellen.
+
+00:06:25.651 --> 00:06:28.084
+Genau so funktioniert das
+im Prinzip auch im Auge --
+
+00:06:28.094 --> 00:06:29.697
+mit den Neuronen in der Netzhaut.
+
+00:06:29.737 --> 00:06:31.101
+Die Neuronen leiten weiter,

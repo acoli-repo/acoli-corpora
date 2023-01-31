@@ -1,0 +1,44 @@
+WEBVTT
+
+00:05:28.825 --> 00:05:33.289
+Ve bunu yaparak 5000 şifre topladık,
+
+00:05:33.289 --> 00:05:35.984
+insanlara, şifrelerini oluşturmak için
+
+00:05:35.984 --> 00:05:37.492
+bir takım kurallar verdik.
+
+00:05:37.492 --> 00:05:39.402
+Bazı kişiler Basic8 dediğimiz
+
+00:05:39.402 --> 00:05:40.941
+basit bir kurala sahipti.
+
+00:05:40.941 --> 00:05:43.087
+görüldüğü gibi bundaki tek kural
+
+00:05:43.087 --> 00:05:46.503
+şifrelerinin en az sekiz karakterden 
+oluşmasıydı.
+
+00:05:46.503 --> 00:05:48.754
+Bazılarına da CMU'daki kurallara benzer
+
+00:05:48.754 --> 00:05:51.244
+daha zor kurallar verdik:
+
+00:05:51.344 --> 00:05:53.225
+en az sekiz karakterli,
+
+00:05:53.225 --> 00:05:55.601
+büyük - küçük harf, sayı ve sembol içeren,
+
+00:05:55.601 --> 00:05:57.990
+sözlüklerde bulunmayan şifreler gibi.
+
+00:05:57.990 --> 00:05:59.325
+Denediğimiz kurallardan biri
+
+00:05:59.325 --> 00:06:00.595
+-daha birçok kural vardı-

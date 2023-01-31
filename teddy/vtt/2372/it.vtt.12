@@ -1,0 +1,51 @@
+WEBVTT
+
+00:05:59.218 --> 00:06:01.272
+per misurare la cedevolezza dei tessuti
+
+00:06:01.272 --> 00:06:03.349
+in ogni punto anatomico.
+
+00:06:03.349 --> 00:06:05.873
+Queste immagini e questi 
+dati robotici vengono combinati
+
+00:06:05.873 --> 00:06:07.337
+per costruire una descrizione matematica
+
+00:06:07.337 --> 00:06:09.189
+del mio arto biologico, che vedete a sinistra.
+
+00:06:09.189 --> 00:06:11.138
+Vedete una serie di punti, o nodi.
+
+00:06:11.138 --> 00:06:14.117
+Ad ogni nodo, un colore rappresenta 
+la cedevolezza del tessuto.
+
+00:06:14.117 --> 00:06:16.120
+Facciamo poi una trasformazione matematica
+
+00:06:16.120 --> 00:06:18.240
+per progettare la pelle sintetica
+
+00:06:18.240 --> 00:06:19.831
+che vedete a sinistra
+
+00:06:19.831 --> 00:06:21.890
+e abbiamo scoperto 
+che l'ottimalità si ottiene
+
+00:06:21.890 --> 00:06:25.132
+con una pelle sintetica morbida 
+dove il corpo è rigido,
+
+00:06:25.132 --> 00:06:28.848
+ed una pelle sintetica rigida 
+dove il corpo è morbido,
+
+00:06:28.848 --> 00:06:29.994
+e questo rispecchiamento si realizza
+
+00:06:29.994 --> 00:06:32.425
+in tutti i gradi di cedevolezza dei tessuti.

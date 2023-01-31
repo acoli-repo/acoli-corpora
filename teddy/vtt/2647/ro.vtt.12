@@ -1,0 +1,44 @@
+WEBVTT
+
+00:05:59.366 --> 00:06:01.918
+Deci ce se întâmplă între pixeli,
+
+00:06:01.942 --> 00:06:05.970
+între imaginea păsării
+şi cuvântul „pasăre”,
+
+00:06:05.994 --> 00:06:09.938
+e de fapt un set de neuroni interconectaţi
+într-o reţea neuronală,
+
+00:06:10.011 --> 00:06:11.234
+ca în această diagramă.
+
+00:06:11.258 --> 00:06:14.530
+Această reţea neuronală 
+poate fi biologică, în cortexul vizual,
+
+00:06:14.530 --> 00:06:16.902
+sau, acum începem să avem
+capacitatea să modelăm
+
+00:06:16.916 --> 00:06:19.364
+astfel de reţele neuronale
+pe calculator.
+
+00:06:19.834 --> 00:06:22.187
+Iată cum arată asta de fapt.
+
+00:06:22.211 --> 00:06:25.627
+Vă puteţi imagina pixelii 
+ca primul strat de neuroni,
+
+00:06:25.651 --> 00:06:27.890
+de fapt, aşa funcţionează ochiul
+
+00:06:27.914 --> 00:06:29.577
+– sunt neuronii din retină.
+
+00:06:29.601 --> 00:06:31.101
+Ei transmit semnalul
+mai departe

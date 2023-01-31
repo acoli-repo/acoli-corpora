@@ -1,0 +1,38 @@
+WEBVTT
+
+00:06:56.292 --> 00:07:01.521
+meaning people who are told by AI
+they can stay at home, and die?
+
+00:07:01.545 --> 00:07:02.910
+(Laughter)
+
+00:07:02.934 --> 00:07:05.386
+There started our 70 percent.
+
+00:07:05.410 --> 00:07:07.402
+We worked with a team of doctors
+
+00:07:07.426 --> 00:07:11.225
+to check the medical logic
+of each variable in our model.
+
+00:07:11.537 --> 00:07:16.106
+For instance, we were using
+the concentration of a liver enzyme
+
+00:07:16.130 --> 00:07:17.403
+as a predictor,
+
+00:07:17.427 --> 00:07:21.125
+for which the medical logic
+was not obvious.
+
+00:07:21.149 --> 00:07:23.815
+The statistical signal was quite strong.
+
+00:07:24.300 --> 00:07:27.133
+But what if it was a bias in our sample?
+
+00:07:27.157 --> 00:07:29.957
+That predictor was taken out of the model.

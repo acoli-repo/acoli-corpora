@@ -1,0 +1,35 @@
+WEBVTT
+
+00:06:28.577 --> 00:06:31.509
+is to design algorithms that find
+the most reasonable image
+
+00:06:31.533 --> 00:06:33.755
+that also fits the telescope measurements.
+
+00:06:34.727 --> 00:06:38.669
+Just as a forensic sketch artist
+uses limited descriptions
+
+00:06:38.693 --> 00:06:42.207
+to piece together a picture using
+their knowledge of face structure,
+
+00:06:42.231 --> 00:06:45.546
+the imaging algorithms I develop
+use our limited telescope data
+
+00:06:45.570 --> 00:06:49.892
+to guide us to a picture that also
+looks like stuff in our universe.
+
+00:06:49.916 --> 00:06:53.567
+Using these algorithms,
+we're able to piece together pictures
+
+00:06:53.591 --> 00:06:55.771
+from this sparse, noisy data.
+
+00:06:55.795 --> 00:07:00.324
+So here I show a sample reconstruction
+done using simulated data,

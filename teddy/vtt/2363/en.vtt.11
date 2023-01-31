@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:28.825 --> 00:05:33.289
+So we did this, and we collected 5,000 passwords,
+
+00:05:33.289 --> 00:05:35.984
+and we gave people a bunch of different policies
+
+00:05:35.984 --> 00:05:37.492
+to create passwords with.
+
+00:05:37.492 --> 00:05:39.402
+So some people had a pretty easy policy,
+
+00:05:39.402 --> 00:05:40.941
+we call it Basic8,
+
+00:05:40.941 --> 00:05:43.087
+and here the only rule was that your password
+
+00:05:43.087 --> 00:05:46.503
+had to have at least eight characters.
+
+00:05:46.503 --> 00:05:48.754
+Then some people had a much harder policy,
+
+00:05:48.754 --> 00:05:51.291
+and this was very similar to the CMU policy,
+
+00:05:51.291 --> 00:05:53.225
+that it had to have eight characters
+
+00:05:53.225 --> 00:05:55.601
+including uppercase, lowercase, digit, symbol,
+
+00:05:55.601 --> 00:05:57.990
+and pass a dictionary check.
+
+00:05:57.990 --> 00:05:59.325
+And one of the other policies we tried,
+
+00:05:59.325 --> 00:06:00.595
+and there were a whole bunch more,

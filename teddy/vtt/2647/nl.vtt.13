@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:29.601 --> 00:06:31.101
+Deze geven hun informatie door
+
+00:06:31.125 --> 00:06:34.528
+naar de volgende lagen neuronen.
+
+00:06:34.552 --> 00:06:37.585
+Ze zijn verbonden met zenuwknopen 
+van verschillende groottes.
+
+00:06:37.609 --> 00:06:38.944
+Het gedrag van dit netwerk
+
+00:06:38.968 --> 00:06:42.252
+wordt gekenmerkt door de kracht 
+van al deze zenuwknopen.
+
+00:06:42.276 --> 00:06:45.564
+Zij bepalen de computationele 
+eigenschappen van dat netwerk.
+
+00:06:45.588 --> 00:06:47.058
+Op het einde van de rit
+
+00:06:47.082 --> 00:06:49.529
+is er een neuron,
+of een kleine groep neuronen
+
+00:06:49.553 --> 00:06:51.847
+die oplichten en zeggen: "Vogel."
+
+00:06:51.847 --> 00:06:54.956
+Ik wil nu deze drie dingen,
+
+00:06:54.980 --> 00:06:59.676
+de pixels en de synaps 
+van het neuronennetwerk, of de input,
+
+00:06:59.700 --> 00:07:01.285
+en de vogel, of de output,

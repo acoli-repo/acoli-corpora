@@ -1,0 +1,44 @@
+WEBVTT
+
+00:05:28.825 --> 00:05:33.289
+Tak jsme to udělali a sesbírali 5000 hesel
+
+00:05:33.289 --> 00:05:35.984
+a dali jsme lidem kupu různých pravidel
+
+00:05:35.984 --> 00:05:37.492
+pro tvoření hesel.
+
+00:05:37.492 --> 00:05:39.402
+Někteří lidé měli docela jednoduché pravidlo,
+
+00:05:39.402 --> 00:05:40.941
+říkáme mu Basic8,
+
+00:05:40.941 --> 00:05:43.087
+a tady jediná podmínka bylo, že vaše heslo
+
+00:05:43.087 --> 00:05:46.503
+musí mít alespoň 8 znaků.
+
+00:05:46.503 --> 00:05:48.754
+Pak někteří lidé měli hodně těžší zásadu,
+
+00:05:48.754 --> 00:05:51.291
+a to bylo velmi podobné politice CMU,
+
+00:05:51.291 --> 00:05:53.225
+a to, že musí mít 8 znaků
+
+00:05:53.225 --> 00:05:55.601
+včetně velkého a malého písmena,
+číslovku, symbol,
+
+00:05:55.601 --> 00:05:57.990
+a musí projít testem slovníku.
+
+00:05:57.990 --> 00:05:59.325
+A jedna z dalších zásad, kterou jsme zkusili,
+
+00:05:59.325 --> 00:06:00.595
+a bylo jich mnohem více,

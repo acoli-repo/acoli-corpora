@@ -1,0 +1,39 @@
+WEBVTT
+
+00:06:57.840 --> 00:07:00.736
+Ma première idée fut d'organiser ça
+comme un programmeur.
+
+00:07:00.760 --> 00:07:02.665
+Au moment de pointer un endroit,
+
+00:07:02.689 --> 00:07:05.369
+l'ordinateur nous demande
+de taper un nom unique.
+
+00:07:06.760 --> 00:07:10.536
+C'est clair que ce système
+allait vite devenir trop fastidieux.
+
+00:07:10.560 --> 00:07:13.800
+Il fallait que l'ordinateur
+crée un nom automatiquement et l'assigne.
+
+00:07:14.600 --> 00:07:18.960
+Ensuite, je me suis proposé de les nommer
+selon leur ordre d'écriture.
+
+00:07:19.480 --> 00:07:21.976
+J'ai essayé ça. Valeur 1, valeur 2.
+
+00:07:22.000 --> 00:07:24.762
+Je me suis aperçu qu'avec
+quelques valeurs supplémentaires,
+
+00:07:24.786 --> 00:07:27.296
+j'allais oublier
+quels étaient les référents.
+
+00:07:27.320 --> 00:07:32.616
+Alors j'ai pensé que, au lieu de pouvoir
+positionner ses valeurs n'importe où,

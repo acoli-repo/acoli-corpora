@@ -1,0 +1,47 @@
+WEBVTT
+
+00:07:25.890 --> 00:07:30.356
+i kako uz pomoć toga rekonstruiramo i
+provjeravamo svoje rezultate.
+
+00:07:30.380 --> 00:07:32.796
+Budući da postoji
+beskonačno mnogo mogućih slika
+
+00:07:32.796 --> 00:07:35.265
+koje su potpuno u skladu
+s podacima naših teleskopa,
+
+00:07:35.289 --> 00:07:37.774
+moramo ih nekako filtrirati.
+
+00:07:37.774 --> 00:07:39.336
+To činimo rangiranjem slika
+
+00:07:39.336 --> 00:07:42.614
+na temelju toga koliko je vjerojatno
+da su upravo one slike crne rupe
+
+00:07:42.614 --> 00:07:45.144
+i zatim biramo onu za koju je
+ta vjerojatnost najveća.
+
+00:07:45.144 --> 00:07:47.339
+Što točno želim reći?
+
+00:07:47.542 --> 00:07:49.410
+Recimo da pokušavamo napraviti model
+
+00:07:49.410 --> 00:07:53.071
+koji bi nam rekao kolika je vjerojatnost
+da se neka slika pojavi na Facebooku.
+
+00:07:53.071 --> 00:07:55.026
+Vjerojatno bismo htjeli da nam model kaže
+
+00:07:55.026 --> 00:07:58.053
+kako je malo vjerojatno da
+netko objavi sliku sa šumovima lijevo,
+
+00:07:58.053 --> 00:08:00.246
+a vrlo vjerojatno da netko objavi selfie

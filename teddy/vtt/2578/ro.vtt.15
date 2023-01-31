@@ -1,0 +1,45 @@
+WEBVTT
+
+00:07:28.040 --> 00:07:30.280
+am modelat circuitele din măduva spinării.
+
+00:07:31.040 --> 00:07:33.176
+E interesant faptul că salamandra
+
+00:07:33.200 --> 00:07:35.060
+a păstrat un circuit foarte primitiv,
+
+00:07:35.060 --> 00:07:37.796
+care e foarte asemănător 
+cu ceea ce găsim la chișcar,
+
+00:07:37.796 --> 00:07:39.876
+acest pește primitiv
+asemănător cu un țipar,
+
+00:07:39.876 --> 00:07:41.526
+și se pare că în timpul evoluției,
+
+00:07:41.526 --> 00:07:45.416
+noi oscilatoare neuronale s-au adăugat
+pentru a controla mișcarea picioarelor.
+
+00:07:45.506 --> 00:07:49.076
+Știm bine unde se află 
+aceste oscilatoare neuronale,
+
+00:07:49.076 --> 00:07:50.826
+însă am făcut un model matematic
+
+00:07:50.826 --> 00:07:52.726
+pentru a vedea cum trebuie cuplate
+
+00:07:52.726 --> 00:07:55.506
+pentru a permite tranziția 
+între cele două tipuri de mers.
+
+00:07:55.506 --> 00:07:57.320
+Și le-am testat pe robot.
+
+00:07:57.680 --> 00:07:58.880
+Și uite cum arată.

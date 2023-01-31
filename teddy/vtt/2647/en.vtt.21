@@ -1,0 +1,42 @@
+WEBVTT
+
+00:10:28.774 --> 00:10:32.330
+It's exactly the same way
+that we do our own learning.
+
+00:10:32.354 --> 00:10:34.584
+We have many, many images as babies
+
+00:10:34.608 --> 00:10:37.241
+and we get told, "This is a bird;
+this is not a bird."
+
+00:10:37.714 --> 00:10:39.812
+And over time, through iteration,
+
+00:10:39.836 --> 00:10:42.764
+we solve for w, we solve
+for those neural connections.
+
+00:10:43.460 --> 00:10:47.546
+So now, we've held
+x and w fixed to solve for y;
+
+00:10:47.570 --> 00:10:49.417
+that's everyday, fast perception.
+
+00:10:49.441 --> 00:10:51.204
+We figure out how we can solve for w,
+
+00:10:51.228 --> 00:10:53.131
+that's learning, which is a lot harder,
+
+00:10:53.155 --> 00:10:55.140
+because we need to do error minimization,
+
+00:10:55.164 --> 00:10:56.851
+using a lot of training examples.
+
+00:10:56.875 --> 00:11:00.062
+And about a year ago,
+Alex Mordvintsev, on our team,

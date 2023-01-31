@@ -1,0 +1,47 @@
+WEBVTT
+
+00:07:58.052 --> 00:08:00.257
+z precyzją do pięciu centymetrów.
+
+00:08:00.257 --> 00:08:03.124
+BMI jest mocno związany
+z waszym stylem życia,
+
+00:08:03.124 --> 00:08:06.763
+ale mimo to możemy z precyzją
+do ośmiu kilogramów.
+
+00:08:06.763 --> 00:08:08.461
+Czy możemy przewidzieć kolor oczu?
+
+00:08:08.461 --> 00:08:09.204
+Tak, możemy.
+
+00:08:09.204 --> 00:08:10.842
+Z dokładnością 80%.
+
+00:08:10.952 --> 00:08:13.326
+Czy możemy przewidzieć kolor skóry?
+
+00:08:13.412 --> 00:08:15.680
+Możemy, dokładność 80%.
+
+00:08:15.680 --> 00:08:17.321
+Czy możemy przewidzieć wiek?
+
+00:08:18.121 --> 00:08:21.860
+Możemy, bo jak się okazuje
+kod zmienia się z wiekiem.
+
+00:08:21.884 --> 00:08:25.166
+Skraca się, tracone są fragmenty,
+pojawiają się insercje.
+
+00:08:25.190 --> 00:08:27.745
+Odczytujemy sygnały i budujemy model.
+
+00:08:28.438 --> 00:08:29.913
+I interesujące wyzwanie:
+
+00:08:29.937 --> 00:08:31.666
+czy możemy przewidzieć ludzką twarz?

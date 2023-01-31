@@ -1,0 +1,42 @@
+WEBVTT
+
+00:10:28.734 --> 00:10:32.330
+É exatamente assim que construímos
+nossa própria aprendizagem.
+
+00:10:32.334 --> 00:10:34.644
+Quando somos bebês nos mostram imagens
+
+00:10:34.644 --> 00:10:37.331
+e nos dizem: "Isso é um pássaro;
+isso não é um pássaro".
+
+00:10:37.714 --> 00:10:39.876
+Com o passar do tempo, 
+através da interação,
+
+00:10:39.876 --> 00:10:42.764
+nós encontramos o w, 
+encontramos essas conexões neurais.
+
+00:10:43.460 --> 00:10:47.510
+Agora mantemos o valor de x e w 
+para resolver y;
+
+00:10:47.510 --> 00:10:49.557
+isso acontece todo dia, percepção rápida.
+
+00:10:49.557 --> 00:10:51.198
+Compreendemos como achar w,
+
+00:10:51.198 --> 00:10:53.481
+isso é aprendizagem, 
+o que é muito mais difícil,
+
+00:10:53.481 --> 00:10:57.180
+pois precisamos minimizar os erros,
+usando vários exemplos de treinamento.
+
+00:10:57.180 --> 00:11:00.046
+Há aproximadamente um ano,
+Alex Mordvintsev, da nossa equipe,

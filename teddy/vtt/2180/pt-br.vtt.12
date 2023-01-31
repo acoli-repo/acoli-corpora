@@ -1,0 +1,46 @@
+WEBVTT
+
+00:05:58.086 --> 00:06:00.919
+se pudesse usá-las para ensinar
+meus robôs a enxergar.
+
+00:06:00.919 --> 00:06:02.831
+Então, com esse projeto,
+
+00:06:02.831 --> 00:06:04.822
+pensei sobre a perspectiva da máquina
+
+00:06:04.822 --> 00:06:08.072
+e comecei a considerar a visão
+como multidimensional,
+
+00:06:08.072 --> 00:06:10.158
+como pontos de vista.
+
+00:06:10.241 --> 00:06:12.046
+Coletamos vídeos
+
+00:06:12.046 --> 00:06:16.740
+transmitidos publicamente na internet
+de pessoas andando nas calçadas,
+
+00:06:16.740 --> 00:06:18.746
+carros e táxis nas ruas,
+
+00:06:18.746 --> 00:06:20.623
+todo tipo de movimento urbano.
+
+00:06:21.188 --> 00:06:23.811
+Com esses dados, treinamos
+um algoritmo de visão
+
+00:06:23.815 --> 00:06:26.121
+baseado em uma técnica
+chamada "fluxo ótico"
+
+00:06:26.125 --> 00:06:28.126
+para analisar a densidade coletiva,
+
+00:06:28.126 --> 00:06:32.083
+direção, repouso e velocidade
+dos movimentos urbanos.

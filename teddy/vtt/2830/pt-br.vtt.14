@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:55.795 --> 00:07:00.324
+Aqui está um exemplo de reconstrução
+feita com dados simulados,
+
+00:07:00.348 --> 00:07:04.321
+em que simulamos apontar os telescópios
+para o buraco negro no centro da galáxia.
+
+00:07:04.914 --> 00:07:06.963
+Apesar de ser apenas uma simulação,
+
+00:07:06.963 --> 00:07:09.393
+esse tipo de reconstrução nos dá esperança
+
+00:07:09.393 --> 00:07:12.846
+de que logo poderemos, de fato,
+fotografar um buraco negro
+
+00:07:12.846 --> 00:07:15.441
+e, a partir disso, determinar
+sua circunferência.
+
+00:07:16.118 --> 00:07:19.051
+Gostaria muito de falar
+sobre os detalhes desse algorítimo,
+
+00:07:19.051 --> 00:07:21.445
+mas, para a sorte de vocês,
+não temos tempo.
+
+00:07:21.539 --> 00:07:23.540
+Ainda assim, quero dar uma breve noção
+
+00:07:23.540 --> 00:07:25.842
+sobre como definimos
+a aparência do universo
+
+00:07:25.842 --> 00:07:30.308
+e como usamos isso para reconstruir
+e verificar nossos resultados.

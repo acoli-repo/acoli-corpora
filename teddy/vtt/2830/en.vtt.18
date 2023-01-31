@@ -1,0 +1,39 @@
+WEBVTT
+
+00:08:58.937 --> 00:09:02.041
+We need a way to tell our algorithms
+what images look like
+
+00:09:02.065 --> 00:09:05.314
+without imposing one type
+of image's features too much.
+
+00:09:05.865 --> 00:09:07.758
+One way we can try to get around this
+
+00:09:07.782 --> 00:09:10.844
+is by imposing the features
+of different kinds of images
+
+00:09:10.868 --> 00:09:14.998
+and seeing how the type of image we assume
+affects our reconstructions.
+
+00:09:15.712 --> 00:09:19.203
+If all images' types produce
+a very similar-looking image,
+
+00:09:19.227 --> 00:09:21.284
+then we can start to become more confident
+
+00:09:21.308 --> 00:09:25.481
+that the image assumptions we're making
+are not biasing this picture that much.
+
+00:09:25.505 --> 00:09:28.495
+This is a little bit like
+giving the same description
+
+00:09:28.519 --> 00:09:31.515
+to three different sketch artists
+from all around the world.

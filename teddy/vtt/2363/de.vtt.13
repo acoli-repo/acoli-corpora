@@ -1,0 +1,41 @@
+WEBVTT
+
+00:06:28.209 --> 00:06:30.721
+gibt es keine gute Maßeinheit
+für Passwort-Stärke.
+
+00:06:30.745 --> 00:06:33.033
+Wir beschlossen zu schauen,
+wie lange es dauert,
+
+00:06:33.057 --> 00:06:35.043
+bis wir die Passwörter knacken würden,
+
+00:06:35.067 --> 00:06:38.625
+unter Verwendung der besten Knack-Tools,
+die die bösen Jungs nutzen,
+
+00:06:38.649 --> 00:06:42.722
+oder über die wir Informationen
+in der Forschungsliteratur fanden.
+
+00:06:42.746 --> 00:06:47.056
+Hier zeige ich Ihnen, wie böse Jungs
+Passwörter knacken.
+
+00:06:47.080 --> 00:06:49.057
+Sie klauen eine Passwort-Datei,
+
+00:06:49.081 --> 00:06:52.880
+mit allen Passwörter
+in verschlüsselter Form,
+
+00:06:52.904 --> 00:06:54.099
+"Hash" genannt.
+
+00:06:54.123 --> 00:06:58.051
+Sie raten dann,
+was ein Passwort sein könnte,
+
+00:06:58.075 --> 00:07:00.270
+lassen es durch eine Hash-Funktion laufen

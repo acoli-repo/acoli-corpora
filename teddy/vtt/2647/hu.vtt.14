@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:59.700 --> 00:07:01.285
+és a madarat, a kimenetet,
+
+00:07:01.309 --> 00:07:04.366
+Három változó, az x, w és y segítségével.
+
+00:07:04.853 --> 00:07:06.664
+Talán milliónyi x,
+
+00:07:06.688 --> 00:07:08.641
+milliónyi képpont van ezen a képen.
+
+00:07:08.665 --> 00:07:11.111
+Milliárdnyi vagy billiónyi w létezik,
+
+00:07:11.135 --> 00:07:14.490
+ami az ideghálózatban lévő 
+szinapszisok súlyát jellemzi.
+
+00:07:14.490 --> 00:07:16.455
+Az y-ok - a hálózati kimenetek - száma
+
+00:07:16.479 --> 00:07:18.337
+viszont egy elég kis szám.
+
+00:07:18.361 --> 00:07:20.110
+A "madár" csak öt betű, ugye?
+
+00:07:21.088 --> 00:07:24.514
+Tegyünk úgy, mintha ez 
+az egyszerű képlet létezne:
+
+00:07:24.538 --> 00:07:26.701
+x "*" w = y
+
+00:07:26.725 --> 00:07:28.761
+Idézőjelbe tettem a szorzásjelet,
+
+00:07:28.785 --> 00:07:31.065
+mert persze ott egy sor

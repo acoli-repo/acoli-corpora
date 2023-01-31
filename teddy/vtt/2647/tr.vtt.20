@@ -1,0 +1,39 @@
+WEBVTT
+
+00:09:58.865 --> 00:10:01.232
+O zaman bilgisayar bir çeşit
+körebe (Marco Polo)
+
+00:10:01.256 --> 00:10:03.623
+oynayabilir ve hatayı
+0'a yakınlaştırabilir.
+
+00:10:03.647 --> 00:10:07.021
+Bunu yaparken de w
+için ardışık yaklaşıklama elde eder.
+
+00:10:07.045 --> 00:10:10.701
+Genellikle tam olarak ulaşamaz
+ama bir düzine aşamadan sonra
+
+00:10:10.725 --> 00:10:15.349
+w=2,999 'e kadar geldik
+ki bu da yeterince yakın.
+
+00:10:16.302 --> 00:10:18.116
+Bu öğrenme süreci.
+
+00:10:18.140 --> 00:10:20.870
+Unutmayın, burada yaptığımız;
+
+
+00:10:20.894 --> 00:10:25.272
+birçok bilinen x ve y ile
+
+00:10:25.296 --> 00:10:28.750
+ortadaki w'yi yinelemeli
+süreç boyunca çözüyoruz.
+
+00:10:28.774 --> 00:10:32.330
+Öğrenirken yaptıklarımızla
+tamamen aynı.

@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:58.093 --> 00:08:00.656
+É um modelo de aprendizado
+de máquina com duas redes:
+
+00:08:00.680 --> 00:08:02.227
+um discriminador,
+
+00:08:02.251 --> 00:08:06.451
+cuja tarefa é determinar
+se algo é verdadeiro ou falso,
+
+00:08:06.475 --> 00:08:07.642
+e um gerador,
+
+00:08:07.666 --> 00:08:10.816
+cuja tarefa é gerar mídia sintética.
+
+00:08:10.840 --> 00:08:15.942
+O gerador sintético
+gera vídeo ou áudio sintéticos,
+
+00:08:15.966 --> 00:08:20.641
+e o discriminador tenta dizer:
+"Isso é real ou falso?"
+
+00:08:20.665 --> 00:08:23.539
+De fato, é a tarefa do gerador
+
+00:08:23.563 --> 00:08:27.998
+maximizar a probabilidade
+de enganar o discriminador
+
+00:08:28.022 --> 00:08:31.609
+para ele achar que o vídeo
+e o áudio sintéticos que está criando

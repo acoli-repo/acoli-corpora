@@ -1,0 +1,47 @@
+WEBVTT
+
+00:06:58.397 --> 00:07:00.294
+dešifriraju je pomoću hash funkcije
+
+00:07:00.294 --> 00:07:02.059
+kako bi vidjeli poklapa li se
+
+00:07:02.059 --> 00:07:06.009
+s lozinkama koje su prije ukradene.
+
+00:07:06.009 --> 00:07:09.114
+Tako će glup napadač
+probavati svaku lozinku po redu.
+
+00:07:09.114 --> 00:07:12.682
+Početi će s AAAAA, pa nastavit s AAAAB,
+
+00:07:12.682 --> 00:07:15.100
+i tako će proći puno vremena
+
+00:07:15.100 --> 00:07:16.626
+prije nego uspije otkriti lozinku.
+
+00:07:16.626 --> 00:07:19.323
+za koju je izgledno da ju ljudi koriste.
+
+00:07:19.323 --> 00:07:21.506
+Pametan napadač,
+
+00:07:21.506 --> 00:07:22.892
+je puno mudriji.
+
+00:07:22.892 --> 00:07:24.718
+On provjerava nalaze li se
+
+00:07:24.718 --> 00:07:26.518
+popularne lozinke
+
+00:07:26.518 --> 00:07:28.245
+među ukradenim setovima lozinki.
+
+00:07:28.245 --> 00:07:29.434
+Njih će prve pogađati.
+
+00:07:29.434 --> 00:07:31.568
+Krenuti će s "password" (eng. lozinka),

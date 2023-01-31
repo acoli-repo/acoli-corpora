@@ -1,0 +1,49 @@
+WEBVTT
+
+00:06:58.397 --> 00:07:00.294
+provuku je kroz heš funkciju
+
+00:07:00.294 --> 00:07:02.059
+i vide da li odgovara
+
+00:07:02.059 --> 00:07:06.009
+šiframa koje imaju
+na svom spisku ukradenih šifri.
+
+00:07:06.009 --> 00:07:09.114
+Glup napadač će probati
+svaku šifru po redu.
+
+00:07:09.114 --> 00:07:12.682
+Počeće sa AAAAA i preći na AAAAB,
+
+00:07:12.682 --> 00:07:15.100
+i to će trajati veoma dugo
+
+00:07:15.100 --> 00:07:16.686
+pre nego što dobije neku šifru
+
+00:07:16.686 --> 00:07:19.323
+koju je vrlo verovatno
+da neko zapravo ima.
+
+00:07:19.323 --> 00:07:21.506
+Pametan napadač, sa druge strane,
+
+00:07:21.506 --> 00:07:22.892
+radi nešto mnogo mudrije.
+
+00:07:22.892 --> 00:07:24.718
+On posmatra šifre
+
+00:07:24.718 --> 00:07:26.518
+za koje se zna da su popularne
+
+00:07:26.518 --> 00:07:28.245
+i iz ovih nizova ukradenih
+
+00:07:28.245 --> 00:07:29.434
+prvo nagađa te šifre.
+
+00:07:29.434 --> 00:07:31.568
+Počeće sa nagađanjem reči "šifra"

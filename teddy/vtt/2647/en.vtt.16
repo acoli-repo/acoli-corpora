@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:58.723 --> 00:08:02.050
+As you can see, that's actually
+a relatively straightforward problem.
+
+00:08:02.074 --> 00:08:04.260
+You multiply two times three
+and you're done.
+
+00:08:04.862 --> 00:08:06.985
+I'll show you an artificial neural network
+
+00:08:07.009 --> 00:08:09.305
+that we've built recently,
+doing exactly that.
+
+00:08:09.634 --> 00:08:12.494
+This is running in real time
+on a mobile phone,
+
+00:08:12.518 --> 00:08:15.831
+and that's, of course,
+amazing in its own right,
+
+00:08:15.855 --> 00:08:19.323
+that mobile phones can do so many
+billions and trillions of operations
+
+00:08:19.347 --> 00:08:20.595
+per second.
+
+00:08:20.619 --> 00:08:22.234
+What you're looking at is a phone
+
+00:08:22.258 --> 00:08:25.805
+looking at one after another
+picture of a bird,
+
+00:08:25.829 --> 00:08:28.544
+and actually not only saying,
+"Yes, it's a bird,"
+
+00:08:28.568 --> 00:08:31.979
+but identifying the species of bird
+with a network of this sort.

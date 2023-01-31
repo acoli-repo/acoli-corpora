@@ -1,0 +1,46 @@
+WEBVTT
+
+00:04:59.162 --> 00:05:02.481
+Agora, antes de que sigamos, 
+deixádeme describir moi rápida e brevemente,
+
+00:05:02.505 --> 00:05:04.286
+cómo funciona RKCP.
+
+00:05:04.873 --> 00:05:06.713
+Pois ben...
+RKP é un algoritmo deseñado
+
+00:05:06.713 --> 00:05:08.747
+por Ray Kurzweill,
+
+00:05:08.747 --> 00:05:10.963
+director de enxeñería en Google
+
+00:05:10.963 --> 00:05:13.353
+e un firme crente 
+da intelixencia artificial
+
+00:05:13.822 --> 00:05:17.673
+Entón, 
+vós dades a RKP un texto de orixe,
+
+00:05:17.837 --> 00:05:19.560
+e él analíza o texto de orixe 
+co fin de descubrir
+
+00:05:19.560 --> 00:05:22.330
+como emprega a linguaxe,
+
+00:05:22.330 --> 00:05:24.278
+e logo rexenera a linguaxe
+
+00:05:24.302 --> 00:05:26.830
+que imita ese primeiro texto.
+
+00:05:26.854 --> 00:05:28.967
+Polo que no poema que acabamos de ver,
+
+00:05:28.991 --> 00:05:31.616
+Poema 2, 
+o que todos pensastes que era humano,

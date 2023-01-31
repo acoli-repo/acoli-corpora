@@ -1,0 +1,38 @@
+WEBVTT
+
+00:08:28.568 --> 00:08:31.979
+sinó també identificant-ne l'espècie d'au
+per mitjà d'aquesta xarxa.
+
+00:08:32.890 --> 00:08:34.716
+Així, en aquesta imatge,
+
+00:08:34.740 --> 00:08:38.542
+'x' i 'w' són valors coneguts,
+i 'y' és la incògnita.
+
+00:08:38.566 --> 00:08:41.074
+Per descomptat, passem per alt
+la part més difícil,
+
+00:08:41.098 --> 00:08:44.959
+que és: com descobrim el valor de 'w',
+
+00:08:44.983 --> 00:08:47.170
+el cervell que ho pot fer?
+
+00:08:47.194 --> 00:08:49.028
+Com podríem aprendre un model així?
+
+00:08:49.418 --> 00:08:52.651
+Doncs aquest procés d'aprenentatge,
+de resoldre el valor de 'w',
+
+00:08:52.675 --> 00:08:55.322
+si el fem amb l'equació,
+
+00:08:55.346 --> 00:08:57.346
+on pensem en el problema com a números,
+
+00:08:57.370 --> 00:09:00.057
+sabem com fer-ho exactament: 6 = 2 x w.

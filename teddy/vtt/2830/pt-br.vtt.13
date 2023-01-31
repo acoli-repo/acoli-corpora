@@ -1,0 +1,35 @@
+WEBVTT
+
+00:06:28.413 --> 00:06:31.419
+é desenvolver algorítimos
+que encontrem a imagem mais aceitável
+
+00:06:31.419 --> 00:06:33.755
+que se encaixe nas leituras do telescópio.
+
+00:06:34.727 --> 00:06:38.669
+Assim como desenhistas forenses
+usam descrições limitadas
+
+00:06:38.669 --> 00:06:42.151
+para reconstruir uma fotografia
+com conhecimento em estruturas faciais,
+
+00:06:42.151 --> 00:06:45.506
+os algorítimos que desenvolvo
+usam dados limitados do telescópio
+
+00:06:45.506 --> 00:06:49.868
+para nos levar a uma imagem que também
+se pareça com as substâncias no universo.
+
+00:06:49.916 --> 00:06:53.567
+Usando esses algorítimos,
+podemos reconstruir imagens
+
+00:06:53.591 --> 00:06:55.771
+a partir desses poucos dados ruidosos.
+
+00:06:55.795 --> 00:07:00.324
+Aqui está um exemplo de reconstrução
+feita com dados simulados,

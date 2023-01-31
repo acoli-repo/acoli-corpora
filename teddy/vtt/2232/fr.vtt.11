@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:29.292 --> 00:05:32.393
+en nous assurant d'éviter
+la centralisation des données,
+
+00:05:32.417 --> 00:05:34.184
+la duplication des données
+
+00:05:34.208 --> 00:05:37.208
+et en garantissant qu'elles sont à jour.
+
+00:05:38.792 --> 00:05:42.268
+Cette approche distribuée
+évite également le problème
+
+00:05:42.292 --> 00:05:45.059
+d'un point de défaillance unique.
+
+00:05:45.083 --> 00:05:48.226
+Mais puisque les données
+ne peuvent pas être répliquées
+
+00:05:48.250 --> 00:05:50.351
+ou collectées plus d'une fois,
+
+00:05:50.375 --> 00:05:53.309
+cela signifie que la conception
+doit garder à l'esprit
+
+00:05:53.333 --> 00:05:56.851
+un accès sécurisé et robuste
+à ces informations à tout moment
+
+00:05:56.875 --> 00:06:00.083
+pour que l'institution publique
+puisse offrir un service.

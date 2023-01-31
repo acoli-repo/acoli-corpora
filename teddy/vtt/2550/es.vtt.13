@@ -1,0 +1,31 @@
+WEBVTT
+
+00:06:29.360 --> 00:06:30.656
+Y dentro de cada robot,
+
+00:06:30.680 --> 00:06:36.296
+tienes que pensar en la interacción de 
+detección, comunicación, computación,
+
+00:06:36.320 --> 00:06:41.280
+y esta red se vuelve muy difícil 
+de controlar y gestionar.
+
+00:06:42.160 --> 00:06:45.456
+Así que de la naturaleza nos llevamos 
+3 principios organizativos
+
+00:06:45.480 --> 00:06:48.640
+que, básicamente, nos permiten 
+desarrollar nuestros algoritmos.
+
+00:06:49.640 --> 00:06:54.176
+La primera idea es que los robots tienen 
+que ser conscientes de sus vecinos.
+
+00:06:54.200 --> 00:06:57.640
+Tienen que ser capaces de sentir 
+y comunicarse con sus vecinos.
+
+00:06:58.040 --> 00:07:00.696
+Así que este video ilustra la idea básica.

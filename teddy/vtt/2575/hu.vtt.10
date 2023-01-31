@@ -1,0 +1,39 @@
+WEBVTT
+
+00:04:59.162 --> 00:05:02.481
+Mielőtt tovább megyünk, hagy írjam le
+gyorsan, és egyszerűen,
+
+00:05:02.505 --> 00:05:04.286
+az RKCP működését.
+
+00:05:04.873 --> 00:05:08.723
+Az RKCP algoritmust Ray Kurzweil tervezte,
+
+00:05:08.747 --> 00:05:10.969
+aki a Google fejlesztési igazgatója,
+
+00:05:10.993 --> 00:05:13.353
+és a mesterséges intelligencia
+lelkes híve.
+
+00:05:13.822 --> 00:05:17.813
+Tehát, megadunk az RKCP számára 
+egy forrásszöveget.
+
+00:05:17.837 --> 00:05:22.306
+Az algoritmus elemzi a szöveget, 
+hogy rájöjjön, hogyan használja a nyelvet.
+
+00:05:22.330 --> 00:05:24.278
+Majd újragenerálja a szöveget,
+
+00:05:24.302 --> 00:05:26.830
+mely az eredeti szöveget utánozza.
+
+00:05:26.854 --> 00:05:28.967
+Tehát, a versben, amit előbb láttunk,
+
+00:05:28.991 --> 00:05:31.616
+a 2. vers, amiről azt hitték, 
+hogy ember írta,

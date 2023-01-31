@@ -1,0 +1,32 @@
+WEBVTT
+
+00:08:29.781 --> 00:08:32.587
+một trong những nền tảng ban đầu của Google.
+
+00:08:32.587 --> 00:08:38.127
+Thuật toán này sử dụng 
+quy luật ngẫu nhiên của toán học
+
+00:08:38.127 --> 00:08:41.903
+để tự động xác định 
+những web thích đáng nhất,
+
+00:08:41.903 --> 00:08:46.849
+giống như cách mà chúng ta dùng sự ngẫu nhiên 
+trong mô hình thí nghiệm của Galton.
+
+00:08:47.149 --> 00:08:49.685
+Cho nên hãy đưa vào sơ đồ này
+
+00:08:49.685 --> 00:08:52.466
+một số những viên bi kỹ thuật số nhỏ
+
+00:08:52.466 --> 00:08:56.416
+và để chúng di chuyển một cách ngẫu nhiên qua đồ thị.
+
+00:08:56.416 --> 00:08:58.274
+Cứ mỗi lần chúng đến một vị trí,
+
+00:08:58.274 --> 00:09:02.144
+chúng sẽ đi đến vị trí tiếp theo 
+thông qua một vài đường dẫn ngẫu nhiên.

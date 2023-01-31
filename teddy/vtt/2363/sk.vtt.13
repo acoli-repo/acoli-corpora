@@ -1,0 +1,28 @@
+WEBVTT
+
+00:06:26.730 --> 00:06:30.907
+ale neexistuje skutočne dobrý spôsob,
+ako merať silu hesla.
+
+00:06:30.907 --> 00:06:35.521
+Rozhodli sme sa zistiť,
+ako dlho by trvalo prelomiť tieto heslá
+
+00:06:35.521 --> 00:06:38.696
+pomocou nástrojov, ktoré používajú hekeri,
+
+00:06:38.696 --> 00:06:42.304
+alebo o ktorých sme našli 
+informácie v literatúre.
+
+00:06:42.304 --> 00:06:47.128
+Stručne vysvetlím,
+ako hekeri prelamujú heslá.
+
+00:06:47.128 --> 00:06:53.697
+Ukradnú súbor s heslami
+v šifrovanej podobe, tzv. hash,
+
+00:06:53.697 --> 00:07:00.069
+tipnú si heslo, ktoré by tam mohlo byť, 
+použijú naň hašovaciu funkciu

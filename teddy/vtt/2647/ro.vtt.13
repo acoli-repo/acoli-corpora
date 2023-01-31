@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:29.601 --> 00:06:31.101
+Ei transmit semnalul
+mai departe
+
+00:06:31.125 --> 00:06:34.528
+prin straturi de neuroni consecutive,
+
+00:06:34.552 --> 00:06:37.585
+conectate prin sinapse
+de diferite dimensiuni.
+
+00:06:37.609 --> 00:06:38.944
+Comportarea acestei reţele
+
+00:06:38.968 --> 00:06:42.252
+e caracterizată de puterile
+tuturor sinapselor.
+
+00:06:42.276 --> 00:06:45.564
+Ele caracterizează trăsăturile
+computaţionale ale acestei reţele.
+
+00:06:45.588 --> 00:06:47.058
+Iar la final
+
+00:06:47.082 --> 00:06:49.529
+veţi avea un neuron
+sau un grup mic de neuroni
+
+00:06:49.553 --> 00:06:51.200
+care se aprind zicând „pasăre”.
+
+00:06:51.824 --> 00:06:54.956
+Voi reprezenta acum acele trei lucruri:
+
+00:06:54.980 --> 00:06:59.676
+pixelii de intrare şi sinapsele 
+din reţeaua neuronală,
+
+00:06:59.700 --> 00:07:01.285
+şi pasărea – rezultatul –

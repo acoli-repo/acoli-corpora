@@ -1,0 +1,38 @@
+WEBVTT
+
+00:06:28.145 --> 00:06:32.513
+to correlate ECG signal,
+blood composition, biomarkers,
+
+00:06:32.537 --> 00:06:34.537
+with the risk of heart attack.
+
+00:06:35.232 --> 00:06:36.506
+In one month,
+
+00:06:36.530 --> 00:06:42.561
+our model could flag 62 percent
+of patients at zero risk.
+
+00:06:42.887 --> 00:06:45.109
+They could skip the day in hospital.
+
+00:06:45.863 --> 00:06:49.355
+Would you be comfortable
+staying at home for your first dose
+
+00:06:49.379 --> 00:06:50.903
+if the algo said so?
+
+00:06:50.927 --> 00:06:51.942
+(Laughter)
+
+00:06:51.966 --> 00:06:53.616
+Doctors were not.
+
+00:06:53.966 --> 00:06:56.268
+What if we had false negatives,
+
+00:06:56.292 --> 00:07:01.521
+meaning people who are told by AI
+they can stay at home, and die?

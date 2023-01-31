@@ -1,0 +1,39 @@
+WEBVTT
+
+00:08:28.672 --> 00:08:32.940
+mais identifiant l'espèce d'oiseau
+avec un réseau de ce genre.
+
+00:08:32.964 --> 00:08:34.738
+Dans cette image,
+
+00:08:34.761 --> 00:08:38.524
+le x et le w sont connus
+et le y est l'inconnue.
+
+00:08:38.548 --> 00:08:41.013
+Je fais abstraction
+de la partie complexe, bien-sûr,
+
+00:08:41.037 --> 00:08:44.935
+qui est : comment trouver le w,
+
+00:08:44.959 --> 00:08:47.154
+le cerveau est-il capable
+d'une telle chose ?
+
+00:08:47.178 --> 00:08:49.619
+Comment apprendre un tel modèle ?
+
+00:08:49.643 --> 00:08:52.432
+Ce processus d'apprentissage,
+de recherche du w,
+
+00:08:52.456 --> 00:08:55.065
+si nous le faisons avec la simple équation
+
+00:08:55.089 --> 00:08:57.102
+dans laquelle nous utilisons des nombres,
+
+00:08:57.126 --> 00:09:00.076
+nous savons comment procéder : 6 = 2 x w,

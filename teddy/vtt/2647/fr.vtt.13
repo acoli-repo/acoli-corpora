@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:29.751 --> 00:06:31.806
+Ils transmettent l'information
+
+00:06:31.830 --> 00:06:34.542
+couche après couche de neurones,
+
+00:06:34.566 --> 00:06:37.500
+tous connectés par des synapses
+de différents poids.
+
+00:06:37.524 --> 00:06:39.138
+Le comportement de ce réseau
+
+00:06:39.162 --> 00:06:42.470
+est caractérisé par les forces
+de toutes ces synapses.
+
+00:06:42.494 --> 00:06:45.469
+Elles caractérisent les propriétés
+informatiques de ce réseau.
+
+00:06:45.493 --> 00:06:46.862
+Finalement,
+
+00:06:46.886 --> 00:06:49.562
+vous avez un neurone
+ou un petit groupe de neurones
+
+00:06:49.586 --> 00:06:51.715
+qui s'allument et disent « oiseau ».
+
+00:06:51.739 --> 00:06:54.939
+Je vais représenter ces trois choses :
+
+00:06:54.963 --> 00:06:59.482
+les pixels en entrée et les synapses
+du réseau neuronal,
+
+00:06:59.506 --> 00:07:01.230
+et l'oiseau, la sortie,

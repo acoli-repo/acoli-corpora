@@ -1,0 +1,49 @@
+WEBVTT
+
+00:05:57.911 --> 00:06:01.429
+ha ezeket fel tudnám használni arra, 
+hogy megtanítsák a robotjaimat látni.
+
+00:06:01.429 --> 00:06:02.831
+Szóval ezzel a projekttel
+
+00:06:02.831 --> 00:06:04.818
+a gép tekintetére gondoltam
+
+00:06:04.822 --> 00:06:08.048
+és magára a látásra 
+többdimenziós értelemben,
+
+00:06:08.072 --> 00:06:09.672
+mint külső figyelők.
+
+00:06:10.151 --> 00:06:11.915
+Videókat gyűjtöttünk össze
+
+00:06:11.915 --> 00:06:14.982
+nyilvánosság számára elérhető
+kamera felvételekből az interneten
+
+00:06:14.982 --> 00:06:16.686
+járdán sétáló gyalogosokról,
+
+00:06:16.686 --> 00:06:18.642
+úttesten közlekedő autókról és taxikról,
+
+00:06:18.642 --> 00:06:20.363
+mindenféle városi mozgásról.
+
+00:06:21.018 --> 00:06:23.895
+Kialakítottunk egy látási algoritmust
+ezeken a csatornákon
+
+00:06:23.895 --> 00:06:26.101
+az "optical flow" nevezetű
+technika alapján,
+
+00:06:26.125 --> 00:06:28.102
+hogy kielemezze a kollektív sűrűségét,
+
+00:06:28.126 --> 00:06:31.763
+irányát, nyugalmi állapotát és 
+sebességeit a városi mozgásnak.

@@ -1,0 +1,39 @@
+WEBVTT
+
+00:06:28.169 --> 00:06:31.087
+fino a creare una catena di blocchi.
+
+00:06:31.221 --> 00:06:32.920
+Ogni blocco ha una marca temporale,
+
+00:06:32.920 --> 00:06:34.712
+che lo "sigilla" digitalmente.
+
+00:06:35.434 --> 00:06:37.781
+Perciò, se volessi manipolare un blocco
+
+00:06:37.805 --> 00:06:41.640
+e pagare più persone con la stessa somma,
+
+00:06:42.331 --> 00:06:45.151
+dovrei hackerare, oltre a quel blocco,
+tutti quelli precedenti,
+
+00:06:45.151 --> 00:06:48.619
+- ossia l'intera storia 
+di tutta quella catena.
+
+00:06:48.813 --> 00:06:52.174
+E non solo su un singolo computer,
+ma su milioni di computer,
+
+00:06:52.328 --> 00:06:54.027
+contemporaneamente,
+
+00:06:54.131 --> 00:06:57.196
+tutti protetti dal più
+alto livello di crittografia,
+
+00:06:57.490 --> 00:07:00.304
+e rappresentano la risorsa
+informatica più potente del mondo,

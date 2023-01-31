@@ -1,0 +1,39 @@
+WEBVTT
+
+00:05:59.916 --> 00:06:01.839
+si crea un nuovo blocco
+
+00:06:01.839 --> 00:06:05.285
+che contiene tutte le transazioni
+avvenute nei 10 minuti precedenti.
+
+00:06:05.714 --> 00:06:10.399
+Poi i minatori si mettono al lavoro,
+cercando di risolvere alcuni problemi.
+
+00:06:10.873 --> 00:06:12.085
+E competono tra loro:
+
+00:06:12.219 --> 00:06:16.180
+il primo che trova la soluzione
+e riesce a convalidare il blocco,
+
+00:06:16.554 --> 00:06:18.685
+viene pagato in valuta digitale
+
+00:06:18.939 --> 00:06:21.702
+- nel caso della blockchain
+di Bitcoin, in Bitcoin.
+
+00:06:22.171 --> 00:06:23.951
+E poi -- e qui viene il bello --
+
+00:06:24.295 --> 00:06:26.752
+quel blocco è collegato
+al blocco precedente
+
+00:06:26.836 --> 00:06:28.065
+e a quello prima ancora,
+
+00:06:28.169 --> 00:06:31.087
+fino a creare una catena di blocchi.

@@ -1,0 +1,33 @@
+WEBVTT
+
+00:04:59.874 --> 00:05:02.859
+Hier sehen Sie Tausende von Robotern,
+
+00:05:02.883 --> 00:05:06.345
+die gemeinsam den Buchstaben K formen.
+
+00:05:06.369 --> 00:05:08.125
+Das K liegt auf der Seite.
+
+00:05:08.125 --> 00:05:10.954
+Das Bemerkenswerte ist,
+es gibt keine zentrale Steuerung.
+
+00:05:10.978 --> 00:05:15.487
+Jeder einzelne Roboter kommuniziert nur
+mit wenigen benachbarten Robotern
+
+00:05:15.487 --> 00:05:19.578
+und nutzt seine Bewegungsregel
+innerhalb des halbfertigen Aufbaus,
+
+00:05:19.578 --> 00:05:23.315
+um basierend auf seinen Musterregeln
+den passenden Platz zu finden.
+
+00:05:23.794 --> 00:05:28.096
+Obwohl kein Roboter fehlerlos agiert,
+
+00:05:28.096 --> 00:05:31.130
+erreicht die Gemeinschaft
+von Einzelkomponenten

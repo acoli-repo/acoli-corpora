@@ -1,0 +1,52 @@
+WEBVTT
+
+00:06:29.361 --> 00:06:31.015
+per misurare la forza di una password.
+
+00:06:31.015 --> 00:06:33.057
+Perciò abbiamo deciso di vedere
+
+00:06:33.057 --> 00:06:35.427
+quanto ci voleva per scoprire 
+queste password
+
+00:06:35.427 --> 00:06:36.841
+usando i migliori 
+strumenti di violazione
+
+00:06:36.841 --> 00:06:38.649
+che usano i cattivi 
+nel mondo informatico,
+
+00:06:38.649 --> 00:06:40.665
+o di cui potevamo trovare informazioni
+
+
+00:06:40.665 --> 00:06:42.682
+nei libri di ricerca.
+
+00:06:42.682 --> 00:06:45.360
+Per darvi un'idea di come 
+facciano i cattivi
+
+00:06:45.360 --> 00:06:47.130
+a violare le password:
+
+00:06:47.130 --> 00:06:49.081
+rubano un file
+
+00:06:49.081 --> 00:06:51.234
+che contiene tutte le password
+
+00:06:51.234 --> 00:06:54.123
+in una forma confusa, 
+chiamata "hash",
+
+00:06:54.123 --> 00:06:56.685
+e quello che fanno è indovinare
+
+00:06:56.685 --> 00:06:58.397
+quale sia la password,
+
+00:06:58.397 --> 00:07:00.294
+fare girare una funzione di hashing,

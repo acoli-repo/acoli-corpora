@@ -1,0 +1,33 @@
+WEBVTT
+
+00:08:58.730 --> 00:09:01.567
+Załóżmy, że każdy dostał taką kartkę
+
+00:09:01.591 --> 00:09:05.419
+i każdy zapisuje na niej swój transfer
+
+00:09:05.443 --> 00:09:07.689
+w systemie bitcoin.
+
+00:09:07.689 --> 00:09:11.634
+Transfery te są kopiowane na inne kartki.
+
+00:09:11.658 --> 00:09:13.676
+Gdy spojrzę na swoją kartkę,
+
+00:09:13.700 --> 00:09:19.795
+zobaczę listę wszystkich transferów
+w całym systemie bitcoin.
+
+00:09:19.795 --> 00:09:23.341
+To właśnie łańcuch bloków bitcoin,
+
+00:09:23.365 --> 00:09:27.161
+który jest listą wszystkich
+transakcji w walucie bitcoin.
+
+00:09:27.185 --> 00:09:29.473
+Tylko nie na papierze.
+
+00:09:29.473 --> 00:09:31.719
+Robi się to za pomocą kodu komputerowego

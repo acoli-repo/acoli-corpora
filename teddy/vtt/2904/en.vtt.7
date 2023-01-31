@@ -1,0 +1,41 @@
+WEBVTT
+
+00:03:29.160 --> 00:03:32.696
+to 20 milliseconds per image,
+a thousand times faster.
+
+00:03:32.720 --> 00:03:34.136
+How did we get there?
+
+00:03:34.160 --> 00:03:37.176
+Well, in the past,
+object detection systems
+
+00:03:37.200 --> 00:03:39.136
+would take an image like this
+
+00:03:39.160 --> 00:03:41.616
+and split it into a bunch of regions
+
+00:03:41.640 --> 00:03:44.896
+and then run a classifier
+on each of these regions,
+
+00:03:44.920 --> 00:03:47.456
+and high scores for that classifier
+
+00:03:47.480 --> 00:03:50.616
+would be considered
+detections in the image.
+
+00:03:50.640 --> 00:03:54.696
+But this involved running a classifier
+thousands of times over an image,
+
+00:03:54.720 --> 00:03:57.640
+thousands of neural network evaluations
+to produce detection.
+
+00:03:59.240 --> 00:04:03.776
+Instead, we trained a single network
+to do all of detection for us.

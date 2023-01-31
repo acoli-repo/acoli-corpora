@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:28.040 --> 00:07:30.280
+modelamos los circuitos de la médula.
+
+00:07:31.040 --> 00:07:33.176
+Lo interesante es que la salamandra
+
+00:07:33.200 --> 00:07:34.890
+conserva un circuito muy primitivo,
+
+00:07:34.890 --> 00:07:37.430
+muy similar al de la lamprea,
+
+00:07:37.430 --> 00:07:39.390
+ese pez parecido a una anguila primitiva,
+
+00:07:39.390 --> 00:07:41.070
+y parece que, durante la evolución,
+
+00:07:41.070 --> 00:07:44.216
+surgieron nuevos neuroosciladores 
+para controlar las extremidades,
+
+00:07:44.240 --> 00:07:46.236
+para lograr la locomoción de las piernas.
+
+00:07:46.236 --> 00:07:48.546
+Y sabemos dónde están
+estos osciladores neurales
+
+00:07:48.546 --> 00:07:50.356
+pero hicimos un modelo matemático
+
+00:07:50.356 --> 00:07:51.976
+para ver cómo deberían acoplarse
+
+00:07:51.976 --> 00:07:54.926
+y lograr esta transición
+entre las dos marchas tan diferentes.
+
+00:07:54.926 --> 00:07:57.320
+Y lo probamos a bordo de un robot.
+
+00:07:57.680 --> 00:07:58.880
+Y tiene este aspecto.

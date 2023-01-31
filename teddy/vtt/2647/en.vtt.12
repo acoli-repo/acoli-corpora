@@ -1,0 +1,48 @@
+WEBVTT
+
+00:05:59.366 --> 00:06:01.918
+So what's going on between the pixels,
+
+00:06:01.942 --> 00:06:05.970
+between the image of the bird
+and the word "bird,"
+
+00:06:05.994 --> 00:06:08.808
+is essentially a set of neurons
+connected to each other
+
+00:06:08.832 --> 00:06:09.987
+in a neural network,
+
+00:06:10.011 --> 00:06:11.234
+as I'm diagramming here.
+
+00:06:11.258 --> 00:06:14.530
+This neural network could be biological,
+inside our visual cortices,
+
+00:06:14.554 --> 00:06:16.716
+or, nowadays, we start
+to have the capability
+
+00:06:16.740 --> 00:06:19.194
+to model such neural networks
+on the computer.
+
+00:06:19.834 --> 00:06:22.187
+And I'll show you what
+that actually looks like.
+
+00:06:22.211 --> 00:06:25.627
+So the pixels you can think
+about as a first layer of neurons,
+
+00:06:25.651 --> 00:06:27.890
+and that's, in fact,
+how it works in the eye --
+
+00:06:27.914 --> 00:06:29.577
+that's the neurons in the retina.
+
+00:06:29.601 --> 00:06:31.101
+And those feed forward

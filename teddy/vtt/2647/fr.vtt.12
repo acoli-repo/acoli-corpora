@@ -1,0 +1,44 @@
+WEBVTT
+
+00:05:59.323 --> 00:06:01.994
+Ce qu'il se passe entre les pixels,
+
+00:06:02.018 --> 00:06:05.964
+entre l'image de l'oiseau
+et le mot « oiseau »,
+
+00:06:05.988 --> 00:06:08.506
+c'est un ensemble
+de neurones connectés entre eux
+
+00:06:08.530 --> 00:06:11.083
+à travers un réseau neuronal,
+comme représenté ici.
+
+00:06:11.107 --> 00:06:14.492
+Ce réseau neuronal peut être biologique,
+comme dans nos cortex visuels
+
+00:06:14.516 --> 00:06:16.625
+ou, de nos jours, nous avons la capacité
+
+00:06:16.649 --> 00:06:19.951
+de modéliser des réseaux neuronaux
+en informatique.
+
+00:06:19.975 --> 00:06:22.414
+Je vais vous montrer
+ce à quoi cela ressemble.
+
+00:06:22.438 --> 00:06:25.778
+Vous pouvez voir les pixels
+comme la première couche de neurones,
+
+00:06:25.802 --> 00:06:27.706
+c'est ainsi que l’œil fonctionne :
+
+00:06:27.730 --> 00:06:29.727
+ce sont les neurones dans la rétine.
+
+00:06:29.751 --> 00:06:31.806
+Ils transmettent l'information

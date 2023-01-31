@@ -1,0 +1,47 @@
+WEBVTT
+
+00:05:59.366 --> 00:06:01.938
+Entonces lo que pasa 
+entre los píxeles,
+
+00:06:01.942 --> 00:06:05.774
+entre la imagen del ave 
+y la palabra "pájaro"
+
+00:06:05.774 --> 00:06:08.808
+es esencialmente un conjunto 
+de neuronas conectadas entre sí
+
+00:06:08.812 --> 00:06:10.017
+en una red neuronal,
+
+00:06:10.017 --> 00:06:11.404
+como la que diagramo aquí.
+
+00:06:11.404 --> 00:06:14.750
+Esta red neuronal podría ser biológica, 
+en nuestras cortezas visuales,
+
+00:06:14.750 --> 00:06:16.640
+o, en la actualidad, podemos
+
+00:06:16.640 --> 00:06:19.474
+modelar este tipo de redes neuronales 
+en la computadora.
+
+00:06:19.834 --> 00:06:22.187
+Y mostraré qué aspecto tienen.
+
+00:06:22.211 --> 00:06:25.627
+Así que los píxeles se puede pensar 
+como una primera capa de neuronas,
+
+00:06:25.651 --> 00:06:27.890
+y así es, de hecho, 
+como funciona el ojo,
+
+00:06:27.914 --> 00:06:29.577
+eso son las neuronas de la retina.
+
+00:06:29.601 --> 00:06:31.101
+Y después avanzan

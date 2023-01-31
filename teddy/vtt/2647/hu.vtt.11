@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:29.259 --> 00:05:31.609
+Beszéljünk egy kicsit arról,
+
+00:05:31.633 --> 00:05:35.665
+hogy mit kéne csinálnia egy képi 
+információt földolgozó modellnek.
+
+00:05:36.228 --> 00:05:38.969
+Az érzékelés fő feladata,
+
+00:05:38.993 --> 00:05:43.187
+hogy rögzítse az ilyen képet,
+és jelentse ki:
+
+00:05:43.211 --> 00:05:44.387
+"ez egy madár",
+
+00:05:44.411 --> 00:05:47.285
+ami agyunknak gyerekjáték.
+
+00:05:47.309 --> 00:05:50.730
+De mindannyiuknak tudnunk kell,
+hogy a számítógép számára ez
+
+00:05:50.754 --> 00:05:53.841
+néhány éve megoldhatatlan feladat volt.
+
+00:05:53.865 --> 00:05:55.781
+A klasszikus számítási paradigma alapján
+
+00:05:55.805 --> 00:05:58.312
+ez nem egykönnyen megoldható feladat.
+
+00:05:59.366 --> 00:06:01.918
+Ami a pixelek között történik,

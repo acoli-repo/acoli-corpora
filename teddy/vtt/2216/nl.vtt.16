@@ -1,0 +1,39 @@
+WEBVTT
+
+00:07:58.093 --> 00:08:00.656
+Een model van 'machine learning'
+met twee netwerken:
+
+00:08:00.680 --> 00:08:02.227
+een discriminator,
+
+00:08:02.251 --> 00:08:06.451
+wiens taak het is om te bepalen
+of iets waar of onwaar is,
+
+00:08:06.475 --> 00:08:07.642
+en een generator,
+
+00:08:07.666 --> 00:08:10.816
+wiens taak het is
+om kunstmatige media te genereren.
+
+00:08:10.840 --> 00:08:15.942
+Dus de generator creëert
+kunstmatig video- of audiomateriaal
+
+00:08:15.966 --> 00:08:20.641
+en de discriminator probeert
+te achterhalen: is dit echt of fake?
+
+00:08:20.665 --> 00:08:23.539
+En in feite is het de taak
+van de generator
+
+00:08:23.563 --> 00:08:27.998
+om de geloofwaardigheid zó op te drijven
+dat de discriminator erin trapt
+
+00:08:28.022 --> 00:08:31.609
+en denkt dat het kunstmatig gecreëerde
+video- of audiomateriaal

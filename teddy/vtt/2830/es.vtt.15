@@ -1,0 +1,50 @@
+WEBVTT
+
+00:07:26.761 --> 00:07:30.363
+y cómo usamos eso para reconstruir
+y verificar nuestros resultados.
+
+00:07:30.364 --> 00:07:32.775
+Ya que hay un número infinito
+de imágenes posibles
+
+00:07:32.776 --> 00:07:35.582
+que explican perfectamente
+las medidas de los telescopios,
+
+00:07:35.583 --> 00:07:38.180
+tenemos que seleccionar
+entre ellas de alguna forma.
+
+00:07:38.181 --> 00:07:39.953
+Lo hacemos evaluando las imágenes
+
+00:07:39.954 --> 00:07:43.355
+basándonos en la probabilidad
+de que sean la imagen del agujero negro,
+
+00:07:43.356 --> 00:07:45.250
+y entonces elegimos la más probable.
+
+00:07:45.251 --> 00:07:47.734
+¿Qué significa eso exactamente?
+
+00:07:47.735 --> 00:07:50.228
+Digamos que estábamos
+intentando construir un sistema
+
+00:07:50.229 --> 00:07:53.429
+que nos diga las probabilidades
+de que una imagen esté en Facebook.
+
+00:07:53.430 --> 00:07:55.982
+Seguramente nos gustaría
+que el sistema nos dijera
+
+00:07:56.000 --> 00:07:59.751
+que es poco probable que alguien suba
+la imagen llena de ruido de la izquierda,
+
+00:07:59.751 --> 00:08:02.669
+y muy probable que publique
+un selfie como éste de la derecha.

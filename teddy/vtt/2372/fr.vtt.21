@@ -1,0 +1,38 @@
+WEBVTT
+
+00:10:29.974 --> 00:10:33.740
+le robot suit les désirs de mouvement.
+
+00:10:33.740 --> 00:10:35.457
+Ce diagramme montre fondamentalement
+
+00:10:35.457 --> 00:10:38.286
+comment le membre bionique est contrôlé,
+
+00:10:38.286 --> 00:10:40.964
+si nous modélisons
+le membre biologique manquant,
+
+00:10:40.964 --> 00:10:43.728
+et nous avons découvert quels réflexes
+se produisent,
+
+00:10:43.728 --> 00:10:47.118
+comment les réflexes de la moelle épinière
+contrôlent les muscles,
+
+00:10:47.118 --> 00:10:49.735
+et cette capacité est intégrée
+
+00:10:49.735 --> 00:10:52.741
+dans les puces du membre bionique.
+
+00:10:52.741 --> 00:10:56.850
+Ensuite, nous modulons
+la sensibilité du réflexe,
+
+00:10:56.850 --> 00:10:58.628
+le réflexe spinal modélisé,
+
+00:10:58.628 --> 00:11:00.019
+avec le signal neuronal,

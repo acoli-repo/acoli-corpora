@@ -1,0 +1,32 @@
+WEBVTT
+
+00:08:30.015 --> 00:08:32.551
+uno de los primeros pilares de Google.
+
+00:08:33.337 --> 00:08:37.578
+Este algoritmo usa leyes 
+de la aleatoriedad matemática
+
+00:08:37.602 --> 00:08:41.460
+para determinar automáticamente 
+las páginas web más relevantes.
+
+00:08:41.484 --> 00:08:46.546
+De la misma forma que usamos aleatoriedad 
+en el experimento del tablero de Galton.
+
+00:08:47.341 --> 00:08:49.682
+Así que vamos a enviar en este grafo
+
+00:08:49.706 --> 00:08:52.556
+un montón de pequeñas canicas, digitales
+
+00:08:52.580 --> 00:08:56.329
+y que vayan al azar a través del grafo.
+
+00:08:56.353 --> 00:08:58.020
+Cada vez que llegan a algún sitio,
+
+00:08:58.044 --> 00:09:02.210
+irán a algún tipo de relación
+elegido al azar hasta la siguiente.

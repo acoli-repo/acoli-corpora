@@ -1,0 +1,39 @@
+WEBVTT
+
+00:06:57.840 --> 00:07:00.736
+Lo primero que pensé fue
+cómo lo haría un programador.
+
+00:07:00.760 --> 00:07:02.665
+La primera vez que apuntabas a algo,
+
+00:07:02.689 --> 00:07:05.369
+la computadora pedía que 
+ingreses un nombre único.
+
+00:07:06.760 --> 00:07:10.536
+Era bastante fácil de ver rápidamente 
+que sería algo tedioso.
+
+00:07:10.560 --> 00:07:13.800
+La computadora tenía que inventar 
+por dentro el nombre de forma automática.
+
+00:07:14.600 --> 00:07:18.960
+Así que pensé, ¿por qué no hacerlo
+en el orden en que se crean?
+
+00:07:19.480 --> 00:07:21.976
+Probé eso. Valor 1, valor 2.
+
+00:07:22.000 --> 00:07:24.762
+Bastante rápidamente vi que
+con más de unos pocos valores
+
+00:07:24.786 --> 00:07:27.296
+nunca recordaría dónde estarían
+las cosas en la pantalla.
+
+00:07:27.320 --> 00:07:32.616
+Luego dije, ¿por qué en vez de 
+permitir poner valores por doquier

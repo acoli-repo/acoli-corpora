@@ -1,0 +1,31 @@
+WEBVTT
+
+00:06:29.360 --> 00:06:30.656
+And within each robot,
+
+00:06:30.680 --> 00:06:36.296
+you have to think about the interplay
+of sensing, communication, computation --
+
+00:06:36.320 --> 00:06:41.280
+and this network then becomes
+quite difficult to control and manage.
+
+00:06:42.160 --> 00:06:45.456
+So from nature we take away
+three organizing principles
+
+00:06:45.480 --> 00:06:48.640
+that essentially allow us
+to develop our algorithms.
+
+00:06:49.640 --> 00:06:54.176
+The first idea is that robots
+need to be aware of their neighbors.
+
+00:06:54.200 --> 00:06:57.640
+They need to be able to sense
+and communicate with their neighbors.
+
+00:06:58.040 --> 00:07:00.696
+So this video illustrates the basic idea.

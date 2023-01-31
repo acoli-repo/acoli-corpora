@@ -1,0 +1,49 @@
+WEBVTT
+
+00:05:56.480 --> 00:06:00.056
+from Professor Martin Fischer
+in Jena University in Germany.
+
+00:06:00.080 --> 00:06:02.656
+And thanks to that,
+you really have an amazing machine
+
+00:06:02.680 --> 00:06:05.136
+to record all the bone motion
+in great detail.
+
+00:06:05.160 --> 00:06:06.416
+That's what we did.
+
+00:06:06.440 --> 00:06:09.616
+So we basically figured out
+which bones are important for us
+
+00:06:09.640 --> 00:06:12.656
+and collected their motion in 3D.
+
+00:06:12.680 --> 00:06:15.376
+And what we did is collect
+a whole database of motions,
+
+00:06:15.400 --> 00:06:17.056
+both on ground and in water,
+
+00:06:17.080 --> 00:06:19.564
+to really collect a whole database
+of motor behaviors
+
+00:06:19.589 --> 00:06:20.833
+that a real animal can do.
+
+00:06:20.858 --> 00:06:24.008
+And then our job as roboticists
+was to replicate that in our robot.
+
+00:06:24.033 --> 00:06:27.416
+So we did a whole optimization process
+to find out the right structure,
+
+00:06:27.440 --> 00:06:30.096
+where to place the motors,
+how to connect them together,

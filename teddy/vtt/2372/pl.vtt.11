@@ -1,0 +1,45 @@
+WEBVTT
+
+00:05:27.263 --> 00:05:31.961
+która ma odzwierciedlać biomechanikę
+leżącej pod nią tkanki.
+
+00:05:31.961 --> 00:05:35.431
+Aby to osiągnąć
+stworzyliśmy model matematyczny
+
+00:05:35.431 --> 00:05:37.014
+mojej biologicznej nogi.
+
+00:05:37.014 --> 00:05:40.148
+W tym celu użyliśmy 
+obrazowania, takiego jak MRI,
+
+00:05:40.148 --> 00:05:41.816
+aby zajrzeć w głąb mojego ciała
+
+00:05:41.816 --> 00:05:45.496
+i zrozumieć geometrię
+i położenie poszczególnych tkanek.
+
+00:05:45.503 --> 00:05:47.149
+Użyliśmy też automatów.
+
+00:05:47.149 --> 00:05:49.622
+Oto okrąg 14 siłowników
+
+00:05:49.622 --> 00:05:52.565
+umieszczonych dookoła
+biologicznej kończyny.
+
+00:05:52.565 --> 00:05:55.220
+Siłowniki dotykają powierzchni kończyny,
+
+00:05:55.220 --> 00:05:57.619
+mierzą jej kształt bez obciążenia,
+
+00:05:57.619 --> 00:05:59.218
+a następnie naciskają na tkankę,
+
+00:05:59.218 --> 00:06:01.272
+aby zmierzyć jej odkształcenie

@@ -1,0 +1,42 @@
+WEBVTT
+
+00:07:28.801 --> 00:07:31.105
+porque, na verdade, 
+o que está acontecendo lá
+
+00:07:31.105 --> 00:07:34.135
+é uma série complicada
+de operações matemáticas.
+
+00:07:35.172 --> 00:07:36.393
+É uma equação.
+
+00:07:36.397 --> 00:07:38.053
+Há três variáveis,
+
+00:07:38.053 --> 00:07:40.803
+e todos nós sabemos
+que se você tem uma equação,
+
+00:07:40.803 --> 00:07:44.505
+pode encontrar uma variável, 
+se souber os outros dois termos.
+
+00:07:45.158 --> 00:07:48.538
+Então, o problema de inferência,
+
+00:07:48.542 --> 00:07:51.435
+de entender que aquela figura
+de um pássaro é um pássaro,
+
+00:07:51.439 --> 00:07:56.160
+é este: na qual y é desconhecido,
+mas w e x são conhecidos.
+
+00:07:56.160 --> 00:07:58.663
+Conhecendo a rede neural,
+você conhece os pixels.
+
+00:07:58.663 --> 00:08:02.034
+Como podem ver, é um problema
+relativamente simples.

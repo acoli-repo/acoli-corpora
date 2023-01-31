@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:56.287 --> 00:07:01.552
+les gens autorisés par l'IA
+à rester à la maison peuvent mourir ?
+
+00:07:01.552 --> 00:07:02.932
+(Rires)
+
+00:07:02.932 --> 00:07:05.414
+C'est là qu'ont commencé nos 70%.
+
+00:07:05.414 --> 00:07:07.693
+Nous avons travaillé
+avec une équipe de médecins
+
+00:07:07.693 --> 00:07:11.528
+à vérifier la logique médicale
+de chaque variable dans notre modèle.
+
+00:07:11.528 --> 00:07:16.130
+Par exemple, nous utilisions
+le taux d'une certaine enzyme du foie
+
+00:07:16.130 --> 00:07:17.432
+comme indice,
+
+00:07:17.432 --> 00:07:21.151
+ce qui n'était pas
+une logique médicale évidente.
+
+00:07:21.151 --> 00:07:24.300
+Le signal statistique était plutôt fort.
+
+00:07:24.300 --> 00:07:27.154
+Et s'il y avait un biais
+dans notre échantillon ?
+
+00:07:27.154 --> 00:07:30.302
+On a enlevé l'indice concerné du modèle.

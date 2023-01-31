@@ -1,0 +1,35 @@
+WEBVTT
+
+00:09:59.120 --> 00:10:03.906
+tenho que resolver um quebra-cabeça;
+um quebra-cabeça críptico randômico.
+
+00:10:05.069 --> 00:10:07.480
+Imagine que tenhamos 15 lados,
+
+00:10:07.504 --> 00:10:10.117
+e jogamos estes dados repetidamente.
+
+00:10:10.603 --> 00:10:13.035
+Sempre que os 15 dados derem seis,
+
+00:10:13.059 --> 00:10:14.274
+dizemos que ganhamos.
+
+00:10:15.095 --> 00:10:18.971
+Isto é muito parecido
+com o que os computadores fazem.
+
+00:10:18.995 --> 00:10:22.243
+Tentam repetidamente encontrar
+o número certo.
+
+00:10:22.686 --> 00:10:24.043
+E quando o acham,
+
+00:10:24.067 --> 00:10:26.268
+dizemos que eles resolveram
+o quebra-cabeça.
+
+00:10:27.559 --> 00:10:29.999
+O computador que resolve o quebra-cabeça

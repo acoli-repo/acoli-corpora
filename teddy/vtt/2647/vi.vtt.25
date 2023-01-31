@@ -1,0 +1,44 @@
+WEBVTT
+
+00:12:28.894 --> 00:12:31.276
+hay tạo ra hình ảnh trên toàn bộ bề mặt,
+
+00:12:31.300 --> 00:12:34.246
+đa dạng giá trị Y trên mặt phẳng,
+bạn có thể tạo ra
+
+00:12:34.246 --> 00:12:37.311
+một loại bản đồ có tất cả những thứ
+mà mạng lưới nhận biết được.
+
+00:12:37.335 --> 00:12:40.660
+Tất cả các loài thú đều ở ngay đây;
+"armadillo" ngay vị trí trung tâm.
+
+00:12:40.919 --> 00:12:43.398
+Bạn có thể tạo bản đồ cho những mạng
+lưới khác nữa.
+
+00:12:43.422 --> 00:12:46.296
+Đây là mạng lưới được thiết kế
+để nhận diện các khuôn mặt,
+
+00:12:46.320 --> 00:12:48.320
+để phân biệt mặt người này, người kia.
+
+00:12:48.344 --> 00:12:51.593
+Còn đây, chúng ta đang chọn Y
+có giá trị là "tôi",
+
+00:12:51.617 --> 00:12:53.592
+là thông số giúp nhận ra gương mặt tôi.
+
+00:12:53.592 --> 00:12:54.922
+Và khi dùng Y để tìm X,
+
+00:12:54.946 --> 00:12:57.564
+nó cho ra một thứ rất điên,
+
+00:12:57.588 --> 00:13:02.016
+đại loại như tranh lập thể, siêu thực 
+vẽ tôi đang phê thuốc

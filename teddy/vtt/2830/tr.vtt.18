@@ -1,0 +1,42 @@
+WEBVTT
+
+00:08:58.937 --> 00:09:02.041
+Çok fazla tek tipte resmin
+özelliklerini empoze etmeksizin
+
+00:09:02.065 --> 00:09:05.554
+resmin neye benzediğini bizim
+algoritmamıza söylemeye ihtiyacımız var.
+
+00:09:05.865 --> 00:09:07.758
+Bu işi halletmeye çalışmanın bir yolu
+
+
+00:09:07.782 --> 00:09:10.678
+değişik çeşitteki resimlerin
+özelliklerini empoze etmek
+
+00:09:10.678 --> 00:09:12.952
+ve varsaydığımız resmin tipinin
+
+00:09:12.952 --> 00:09:15.302
+rekonstrüksiyonumuzu
+nasıl etkilediğini görmek.
+
+00:09:15.712 --> 00:09:19.203
+Eğer tüm resim tipleri birbirine
+çok benzeyen resimler üretirse
+
+00:09:19.227 --> 00:09:21.284
+biz daha güvenilir
+olmaya başlayabiliriz ki
+
+00:09:21.308 --> 00:09:25.281
+bizim yaptığımız resim varsayımları
+bu resimden çok fazla sapmaz.
+
+00:09:25.505 --> 00:09:28.495
+Dünyadaki 3 ayrı eskiz ressamına
+
+00:09:28.519 --> 00:09:31.215
+aynı tanımlamayı vermek gibi bir şey.

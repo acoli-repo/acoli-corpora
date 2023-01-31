@@ -1,0 +1,46 @@
+WEBVTT
+
+00:05:28.825 --> 00:05:33.289
+Chúng tôi đã triển khai hình thức này, 
+và thu thập được 5.000 mật khẩu,
+
+00:05:33.289 --> 00:05:35.984
+và chúng tôi đã đưa họ
+1 đống yêu cầu khác nhau
+
+00:05:35.984 --> 00:05:37.492
+để áp dụng tạo mật khẩu.
+
+00:05:37.492 --> 00:05:39.402
+Một số có chính sách khá dễ chơi,
+
+00:05:39.402 --> 00:05:40.941
+mà tụi tôi gọi là Basic8,
+
+00:05:40.941 --> 00:05:43.087
+qui ước duy nhất là mật khẩu của bạn
+
+00:05:43.087 --> 00:05:46.503
+phải có ít nhất 8 kí tự.
+
+00:05:46.503 --> 00:05:48.754
+Đến số khác có yêu cầu khó hơn,
+
+00:05:48.754 --> 00:05:51.291
+giống với yêu cầu của bên CMU,
+
+00:05:51.291 --> 00:05:53.225
+là nó phải có 8 kí tự
+
+00:05:53.225 --> 00:05:55.601
+bao gồm kí tự hoa, kí tự thường, 
+số, biểu tượng,
+
+00:05:55.601 --> 00:05:57.990
+và phải vượt qua khâu kiểm tra từ điển.
+
+00:05:57.990 --> 00:05:59.325
+Rồi một loại chính sách khác chúng tôi thử,
+
+00:05:59.325 --> 00:06:00.595
+và thêm hàng tá nữa,

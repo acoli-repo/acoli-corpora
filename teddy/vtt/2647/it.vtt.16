@@ -1,0 +1,49 @@
+WEBVTT
+
+00:07:58.543 --> 00:08:02.050
+Come potete vedere questo in realtà
+è un problema relativamente semplice.
+
+00:08:02.074 --> 00:08:04.790
+Moltiplicate per due volte tre
+ed è fatta.
+
+00:08:04.862 --> 00:08:06.669
+Vi mostro una rete
+neurale artificiale
+
+00:08:06.669 --> 00:08:09.705
+che abbiamo recentemente realizzato 
+facendo esattamente questo.
+
+00:08:09.705 --> 00:08:12.494
+Funziona in tempo reale
+su un cellulare,
+
+00:08:12.518 --> 00:08:15.831
+e questo è di certo
+sorprendente di per sè,
+
+00:08:15.855 --> 00:08:19.323
+che i cellulari possono fare
+miliardi e triliardi di operazioni
+
+
+00:08:19.347 --> 00:08:20.259
+al secondo.
+
+00:08:20.259 --> 00:08:22.234
+Quello che state guardando
+è un cellulare
+
+00:08:22.258 --> 00:08:25.805
+che guarda un'immagine
+di un uccello dopo l'altra
+
+00:08:25.829 --> 00:08:28.544
+ed in realtà non dice solo:
+"Sì, è un uccello",
+
+00:08:28.568 --> 00:08:32.829
+ma identifica le specie di uccello
+con una rete di questo tipo.

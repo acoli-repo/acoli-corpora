@@ -1,0 +1,30 @@
+WEBVTT
+
+00:06:29.360 --> 00:06:30.656
+Et pour chaque robot,
+
+00:06:30.680 --> 00:06:36.296
+il faut penser à la combinaison des sens,
+de la communication, de la programmation.
+
+00:06:36.320 --> 00:06:41.280
+Le réseau devient vite difficile
+à contrôler et manœuvrer.
+
+00:06:42.160 --> 00:06:45.456
+Donc nous nous inspirons des principes
+d'organisation de la nature
+
+00:06:45.480 --> 00:06:48.640
+pour développer nos algorithmes.
+
+00:06:49.640 --> 00:06:54.176
+La première idée est que chaque robot
+prenne son voisin en compte.
+
+00:06:54.200 --> 00:06:57.640
+Il doit être capable de sentir
+et de communiquer avec ses voisins.
+
+00:06:58.040 --> 00:07:00.696
+Cette vidéo illustre cette idée.

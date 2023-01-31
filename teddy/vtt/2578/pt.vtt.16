@@ -1,0 +1,37 @@
+WEBVTT
+
+00:08:06.920 --> 00:08:10.120
+O que vemos aqui
+é uma versão anterior do Pleurobot
+
+00:08:10.120 --> 00:08:13.160
+que é totalmente controlada
+pelo nosso modelo de espinal medula
+
+00:08:13.160 --> 00:08:15.294
+programado no interior do robô.
+
+00:08:15.294 --> 00:08:16.905
+A única coisa que fazemos
+
+00:08:16.905 --> 00:08:19.105
+é enviar para o robô,
+através dum telecomando
+
+00:08:19.105 --> 00:08:21.825
+os dois sinais descendentes
+que normalmente devia receber
+
+00:08:21.825 --> 00:08:23.751
+da parte superior do cérebro.
+
+00:08:23.751 --> 00:08:26.420
+O interessante é que,
+jogando com estes sinais,
+
+00:08:26.420 --> 00:08:29.617
+podemos controlar totalmente
+a velocidade, a direção e o tipo de marcha.
+
+00:08:29.617 --> 00:08:31.196
+Por exemplo,

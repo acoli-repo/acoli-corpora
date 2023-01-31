@@ -1,0 +1,45 @@
+WEBVTT
+
+00:07:58.476 --> 00:08:01.620
+Comme vous le voyez, c'est un problème
+plutôt simple à résoudre.
+
+00:08:01.644 --> 00:08:04.767
+Vous multipliez deux par trois
+et vous avez fini.
+
+00:08:04.791 --> 00:08:07.073
+Je vais vous montrer un réseau neuronal
+
+00:08:07.097 --> 00:08:09.503
+que nous avons créé récemment
+et qui fait cela.
+
+00:08:09.527 --> 00:08:12.984
+Il tourne en temps réel
+sur un téléphone portable,
+
+00:08:13.008 --> 00:08:15.849
+bien-sur, c'est génial en soi
+
+00:08:15.873 --> 00:08:17.671
+que les portables puissent faire
+
+00:08:17.695 --> 00:08:20.668
+des milliards et billions d'opérations
+par seconde.
+
+00:08:20.692 --> 00:08:22.357
+Vous regardez un téléphone
+
+00:08:22.381 --> 00:08:25.641
+considérant à la suite
+plusieurs images d'oiseaux
+
+00:08:25.665 --> 00:08:28.648
+et ne disant pas seulement
+que c'est un oiseau
+
+00:08:28.672 --> 00:08:32.940
+mais identifiant l'espèce d'oiseau
+avec un réseau de ce genre.

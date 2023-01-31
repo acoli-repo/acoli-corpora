@@ -1,0 +1,36 @@
+WEBVTT
+
+00:10:59.520 --> 00:11:04.056
+Bằng cách này, chúng ta có thể cho người 
+nông dân biết số lượng trái trên từng cây,
+
+00:11:04.080 --> 00:11:08.336
+và cho phép họ ước tính 
+sản lượng của vườn,
+
+00:11:08.360 --> 00:11:11.200
+tối ưu mạch sản xuất.
+
+00:11:11.640 --> 00:11:13.256
+Điều thứ hai chúng ta có thể làm
+
+00:11:13.280 --> 00:11:17.776
+là lấy mô hình của cây trồng, 
+thiết lập hình ảnh 3D,
+
+00:11:17.800 --> 00:11:20.336
+từ đó ước tính kích thước vòm lá,
+
+00:11:20.360 --> 00:11:24.136
+và độ tương quan giữa kích thước vòm lá 
+với diện tích lá của mỗi cây,
+
+00:11:24.160 --> 00:11:26.336
+Cái này được gọi là chỉ số diện tích lá.
+
+00:11:26.360 --> 00:11:28.296
+Nếu các bạn biết chỉ số diện tích lá,
+
+00:11:28.320 --> 00:11:33.776
+về cơ bản bạn có thể tính được khả năng 
+quang hợp của mỗi cây,

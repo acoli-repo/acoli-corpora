@@ -1,0 +1,31 @@
+WEBVTT
+
+00:06:29.360 --> 00:06:30.656
+E per ogni robot
+
+00:06:30.680 --> 00:06:36.296
+dobbiamo risolvere l'interazione tra
+rilevazione, comunicazione, calcolo --
+
+00:06:36.320 --> 00:06:41.280
+e questa rete diventa pertanto
+difficile da controllare e gestire.
+
+00:06:42.160 --> 00:06:45.456
+La natura ci insegna
+3 principi organizzativi
+
+00:06:45.480 --> 00:06:48.640
+che ci consentono essenzialmente di
+sviluppare i nostri algoritmi.
+
+00:06:49.640 --> 00:06:54.176
+La prima idea è che i robot devono
+captare i robot circostanti.
+
+00:06:54.200 --> 00:06:57.640
+Devono essere in grado di rilevare e
+comunicare con i robot vicini.
+
+00:06:58.040 --> 00:07:00.696
+Questo video illustra l'idea di base.

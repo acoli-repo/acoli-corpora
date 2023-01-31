@@ -1,0 +1,36 @@
+WEBVTT
+
+00:10:56.875 --> 00:11:00.222
+Alex Mordvintsev kollégánk kb. egy éve
+elhatározta, hogy kipróbálja,
+
+00:11:00.222 --> 00:11:03.636
+mi van, ha x-re 
+próbálunk megoldást keresni
+
+00:11:03.660 --> 00:11:05.697
+w és y ismeretében.
+
+00:11:06.124 --> 00:11:07.275
+Másként fogalmazva,
+
+00:11:07.299 --> 00:11:08.651
+tudjuk, hogy ez egy madár,
+
+00:11:08.675 --> 00:11:11.978
+és ideghálózatunk már 
+be van tanítva madarakra,
+
+00:11:12.002 --> 00:11:14.346
+de milyen is egy madár képe?
+
+00:11:15.034 --> 00:11:20.058
+Kiderül, hogy ez is működik, ha ugyanazt
+a hibaminimalizáló eljárást alkalmazzuk
+
+00:11:20.082 --> 00:11:23.512
+a madarak fölismerésére 
+betanított hálózatra,
+
+00:11:23.536 --> 00:11:26.924
+és az eredménye egy kép,

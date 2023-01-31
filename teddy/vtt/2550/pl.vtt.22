@@ -1,0 +1,42 @@
+WEBVTT
+
+00:10:59.520 --> 00:11:02.100
+Poprzez takie wyliczenia
+dajesz rolnikowi informację,
+
+00:11:02.100 --> 00:11:04.080
+jak wiele owoców ma na każdym drzewie,
+
+00:11:04.080 --> 00:11:08.336
+dzięki czemu może
+oszacować wydajność sadu
+
+00:11:08.360 --> 00:11:11.200
+i zoptymalizować łańcuch produkcyjny.
+
+00:11:11.570 --> 00:11:13.250
+Kolejną rzeczą, jaką możemy zrobić,
+
+00:11:13.250 --> 00:11:14.800
+jest trójwymiarowa rekonstrukcja
+
+00:11:14.800 --> 00:11:17.800
+na podstawie modelu drzewa
+
+00:11:17.800 --> 00:11:20.336
+i oszacowanie wielkości czaszy,
+
+00:11:20.360 --> 00:11:24.166
+a następnie zestawienie wielkości czaszy 
+z powierzchnią liści na każdym drzewie.
+
+00:11:24.166 --> 00:11:26.336
+To indeksowanie powierzchni liści.
+
+00:11:26.360 --> 00:11:29.056
+Jeżeli znasz wartość
+indeksowania powierzchni liści
+
+00:11:29.056 --> 00:11:33.776
+zasadniczo wiesz, jaki duży proces 
+fotosyntezy może zajść na każdym drzewie,

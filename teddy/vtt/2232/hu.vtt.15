@@ -1,0 +1,28 @@
+WEBVTT
+
+00:07:29.108 --> 00:07:31.853
+az adatcsereszabályok, a szoftver elemei
+
+00:07:31.933 --> 00:07:34.382
+és a naplófájlok elsőrendű fontosságúak.
+
+00:07:35.593 --> 00:07:40.277
+Blokklánc-technológiát használunk,
+melyet 2007-ben dolgoztunk ki,
+
+00:07:40.751 --> 00:07:43.645
+jóval a blokklánc elterjedése előtt,
+
+00:07:44.042 --> 00:07:48.404
+hogy valós időben ellenőrizzük
+és biztosítsuk az adatok épségét.
+
+00:07:49.527 --> 00:07:52.724
+A blokklánc a revizorunk és biztosítékunk,
+
+00:07:53.262 --> 00:07:55.741
+hogy semmiféle hozzáférés az adatokhoz
+
+00:07:55.755 --> 00:07:58.341
+vagy adatmanipuláció
+nem marad észrevétlen.

@@ -1,0 +1,37 @@
+WEBVTT
+
+00:10:59.520 --> 00:11:04.056
+By doing this, you tell the farmer
+how many fruits she has in every tree
+
+00:11:04.080 --> 00:11:08.336
+and allow her to estimate
+the yield in the orchard,
+
+00:11:08.360 --> 00:11:11.200
+optimizing the production
+chain downstream.
+
+00:11:11.640 --> 00:11:13.256
+The second thing we can do
+
+00:11:13.280 --> 00:11:17.776
+is take models of plants, construct
+three-dimensional reconstructions,
+
+00:11:17.800 --> 00:11:20.336
+and from that estimate the canopy size,
+
+00:11:20.360 --> 00:11:24.136
+and then correlate the canopy size
+to the amount of leaf area on every plant.
+
+00:11:24.160 --> 00:11:26.336
+And this is called the leaf area index.
+
+00:11:26.360 --> 00:11:28.296
+So if you know this leaf area index,
+
+00:11:28.320 --> 00:11:33.776
+you essentially have a measure of how much
+photosynthesis is possible in every plant,

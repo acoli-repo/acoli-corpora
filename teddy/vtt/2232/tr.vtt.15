@@ -1,0 +1,30 @@
+WEBVTT
+
+00:07:29.083 --> 00:07:31.934
+veri değişim kuralları,
+yazılım bileşenleri
+
+00:07:31.958 --> 00:07:34.292
+ve LOG dosyaları fevkalade olmalı.
+
+00:07:35.583 --> 00:07:38.762
+Eş zamanlı olarak 
+veri bütünlüğünü kontrol etmek
+
+00:07:38.762 --> 00:07:40.792
+ve garanti altına almak için,
+
+00:07:40.792 --> 00:07:44.143
+2007 yılında tasarladığımız, 
+ki o zamanlar daha yeni tanınıyordu,
+
+00:07:44.167 --> 00:07:48.375
+bir tür Blok Zinciri kullanıyoruz.
+
+00:07:49.417 --> 00:07:55.108
+Blok Zinciri bizim denetmenimiz
+ve verilere ulaşım sağlanmamasına
+
+00:07:55.125 --> 00:07:58.292
+veya veri işlemlerinin
+kaydedilmesine dair garantimiz.

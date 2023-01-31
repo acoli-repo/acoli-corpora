@@ -1,0 +1,37 @@
+WEBVTT
+
+00:08:06.920 --> 00:08:09.936
+So what you see here
+is a previous version of Pleurobot
+
+00:08:09.960 --> 00:08:13.056
+that's completely controlled
+by our spinal cord model
+
+00:08:13.080 --> 00:08:14.680
+programmed on board of the robot.
+
+00:08:15.280 --> 00:08:16.496
+And the only thing we do
+
+00:08:16.520 --> 00:08:18.696
+is send to the robot
+through a remote control
+
+00:08:18.720 --> 00:08:21.216
+the two descending signals
+it normally should receive
+
+00:08:21.240 --> 00:08:22.840
+from the upper part of the brain.
+
+00:08:23.480 --> 00:08:26.176
+And what's interesting is,
+by playing with these signals,
+
+00:08:26.200 --> 00:08:29.000
+we can completely control
+speed, heading and type of gait.
+
+00:08:29.600 --> 00:08:30.816
+For instance,

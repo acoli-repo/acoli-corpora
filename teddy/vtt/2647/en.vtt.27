@@ -1,0 +1,43 @@
+WEBVTT
+
+00:13:27.786 --> 00:13:32.009
+This is what happens if Alex uses
+his own face as a guide image
+
+00:13:32.033 --> 00:13:35.354
+during that optimization process
+to reconstruct my own face.
+
+00:13:36.284 --> 00:13:38.612
+So you can see it's not perfect.
+
+00:13:38.636 --> 00:13:40.510
+There's still quite a lot of work to do
+
+00:13:40.534 --> 00:13:42.987
+on how we optimize
+that optimization process.
+
+00:13:43.011 --> 00:13:45.838
+But you start to get something
+more like a coherent face,
+
+00:13:45.862 --> 00:13:47.876
+rendered using my own face as a guide.
+
+00:13:48.892 --> 00:13:51.393
+You don't have to start
+with a blank canvas
+
+00:13:51.417 --> 00:13:52.573
+or with white noise.
+
+00:13:52.597 --> 00:13:53.901
+When you're solving for x,
+
+00:13:53.925 --> 00:13:57.814
+you can begin with an x,
+that is itself already some other image.
+
+00:13:57.838 --> 00:14:00.394
+That's what this little demonstration is.

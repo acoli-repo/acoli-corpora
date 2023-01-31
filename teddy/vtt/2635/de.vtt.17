@@ -1,0 +1,37 @@
+WEBVTT
+
+00:08:27.961 --> 00:08:30.122
+Schauen wir auf PageRank,
+
+00:08:30.187 --> 00:08:33.277
+einem der frühen Eckpfeiler von Google.
+
+00:08:33.277 --> 00:08:37.309
+Dieser Algorithmus verwendet
+die Gesetze mathematischer Zufälligkeit,
+
+00:08:37.309 --> 00:08:41.279
+um automatisch die wichtigsten
+Webseiten zu bestimmen
+
+00:08:41.279 --> 00:08:46.515
+in der gleichen Weise, wie Zufälligkeit
+im Galtonbrett verdeutlicht wird.
+
+00:08:47.485 --> 00:08:49.700
+Lassen Sie uns also in diese Grafik
+
+00:08:49.700 --> 00:08:52.935
+einige kleine digitale Murmeln senden
+
+00:08:52.935 --> 00:08:56.227
+und lassen wir sie irgendwie
+durch den Graphen gehen.
+
+00:08:56.227 --> 00:08:58.588
+Jedes Mal, wenn sie
+auf einer Seite ankommen,
+
+00:08:58.588 --> 00:09:00.998
+werden sie zufällig durch
+weiterführende Links

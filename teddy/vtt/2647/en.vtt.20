@@ -1,0 +1,38 @@
+WEBVTT
+
+00:09:58.865 --> 00:10:01.232
+And then the computer can
+sort of play Marco Polo,
+
+00:10:01.256 --> 00:10:03.623
+and drive down the error close to zero.
+
+00:10:03.647 --> 00:10:07.021
+As it does that, it's getting
+successive approximations to w.
+
+00:10:07.045 --> 00:10:10.701
+Typically, it never quite gets there,
+but after about a dozen steps,
+
+00:10:10.725 --> 00:10:15.349
+we're up to w = 2.999,
+which is close enough.
+
+00:10:16.302 --> 00:10:18.116
+And this is the learning process.
+
+00:10:18.140 --> 00:10:20.870
+So remember that what's been going on here
+
+00:10:20.894 --> 00:10:25.272
+is that we've been taking
+a lot of known x's and known y's
+
+00:10:25.296 --> 00:10:28.750
+and solving for the w in the middle
+through an iterative process.
+
+00:10:28.774 --> 00:10:32.330
+It's exactly the same way
+that we do our own learning.

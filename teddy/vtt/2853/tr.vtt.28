@@ -1,0 +1,36 @@
+WEBVTT
+
+00:13:57.600 --> 00:14:00.096
+Burada LIDAR (lazer tarama)
+veya radar kullanılmıyor.
+
+00:14:00.120 --> 00:14:04.160
+Bir kişinin kullanımı için gerekli 
+olan pasif optikleri kullanıyor.
+
+00:14:05.200 --> 00:14:07.696
+Tüm yol sistemi pasif optikler 
+veya kameralarla
+
+00:14:07.720 --> 00:14:11.776
+yönlendirilmek durumunda
+
+00:14:11.800 --> 00:14:13.920
+ve kameralar
+
+00:14:13.920 --> 00:14:16.400
+veya görüşü çözdüğünüzde,
+
+00:14:17.720 --> 00:14:19.216
+otonomi çözülmüş oluyor.
+
+00:14:19.240 --> 00:14:21.520
+Görüşü çözmezseniz, çözülmüş olmuyor.
+
+00:14:22.120 --> 00:14:28.136
+Bu yüzden ağırlıklı olarak 
+odaklandığımız şey, yol durumları için
+
+00:14:28.160 --> 00:14:31.376
+çok efektif olan bir görüş 
+nöral ağa sahip olmak.

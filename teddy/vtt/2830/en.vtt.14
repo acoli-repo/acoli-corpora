@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:55.795 --> 00:07:00.324
+So here I show a sample reconstruction
+done using simulated data,
+
+00:07:00.348 --> 00:07:02.281
+when we pretend to point our telescopes
+
+00:07:02.305 --> 00:07:04.890
+to the black hole
+in the center of our galaxy.
+
+00:07:04.914 --> 00:07:09.369
+Although this is just a simulation,
+reconstruction such as this give us hope
+
+00:07:09.393 --> 00:07:12.846
+that we'll soon be able to reliably take
+the first image of a black hole
+
+00:07:12.870 --> 00:07:15.465
+and from it, determine
+the size of its ring.
+
+00:07:16.118 --> 00:07:19.317
+Although I'd love to go on
+about all the details of this algorithm,
+
+00:07:19.341 --> 00:07:21.515
+luckily for you, I don't have the time.
+
+00:07:21.539 --> 00:07:23.540
+But I'd still like
+to give you a brief idea
+
+00:07:23.564 --> 00:07:25.866
+of how we define
+what our universe looks like,
+
+00:07:25.890 --> 00:07:30.356
+and how we use this to reconstruct
+and verify our results.

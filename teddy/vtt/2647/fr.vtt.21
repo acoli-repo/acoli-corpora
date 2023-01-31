@@ -1,0 +1,39 @@
+WEBVTT
+
+00:10:28.782 --> 00:10:32.225
+C'est exactement la même méthode que celle
+par laquelle nous apprenons.
+
+00:10:32.249 --> 00:10:34.523
+Bébés, nous voyons de nombreuses images
+
+00:10:34.547 --> 00:10:37.684
+et on nous dit : « C'est un oiseau ;
+ce n'en est pas un ».
+
+00:10:37.708 --> 00:10:39.756
+Avec le temps, grâce aux itérations,
+
+00:10:39.780 --> 00:10:44.504
+nous trouvons w,
+nous résolvons ces connexions neuronales.
+
+00:10:44.528 --> 00:10:47.469
+Nous avons fixés x et w et recherché y ;
+
+00:10:47.494 --> 00:10:49.458
+c'est de la perception rapide, normale.
+
+00:10:49.482 --> 00:10:51.224
+Nous avons réussi à trouver w :
+
+00:10:51.248 --> 00:10:53.228
+c'est de l'apprentissage, plus complexe
+
+00:10:53.253 --> 00:10:56.558
+car nous devons minimiser l'erreur
+en pratiquant beaucoup d'exemple.
+
+00:10:56.583 --> 00:11:00.003
+Il y a environ un an,
+Alex Mordvintsev, de notre équipe,

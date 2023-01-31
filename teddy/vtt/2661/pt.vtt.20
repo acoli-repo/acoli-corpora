@@ -1,0 +1,36 @@
+WEBVTT
+
+00:09:59.120 --> 00:10:03.982
+tenho que resolver um enigma
+— um enigma criptográfico aleatório.
+
+00:10:05.069 --> 00:10:07.480
+Imaginem que eu tinha 15 dados,
+
+00:10:07.504 --> 00:10:10.402
+e lançávamos esses dados
+vezes e vezes sem conta.
+
+00:10:10.603 --> 00:10:13.035
+Quando todos os dados
+mostrarem o seis.
+
+00:10:13.059 --> 00:10:14.674
+dizemos que ganhámos.
+
+00:10:15.095 --> 00:10:18.971
+Isto é muito aproximado ao que
+estes computadores estão a fazer.
+
+00:10:18.995 --> 00:10:22.395
+Estão a tentar, vezes sem conta,
+a acertar no número correto.
+
+00:10:22.686 --> 00:10:24.043
+Quando conseguem,
+
+00:10:24.067 --> 00:10:26.420
+dizemos que resolveram o enigma.
+
+00:10:27.559 --> 00:10:29.999
+O computador que resolve o enigma

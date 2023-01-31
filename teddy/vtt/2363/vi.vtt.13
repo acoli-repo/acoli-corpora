@@ -1,0 +1,47 @@
+WEBVTT
+
+00:06:28.991 --> 00:06:30.745
+cho độ mạnh của password.
+
+00:06:30.745 --> 00:06:33.395
+Điều mà chúng tôi quyết định làm là xem
+
+00:06:33.395 --> 00:06:35.427
+mất bao lâu để bẻ khóa các mật khẩu này
+
+00:06:35.427 --> 00:06:36.841
+sử dụng các công cụ bẻ khóa hiện đại
+
+00:06:36.841 --> 00:06:38.649
+mà những kẻ xấu đang sử dụng,
+
+00:06:38.649 --> 00:06:40.665
+hoặc là chúng tôi có thể tìm thấy 
+thông tin về nó
+
+00:06:40.665 --> 00:06:42.202
+trong các tài liệu nghiên cứu.
+
+00:06:42.202 --> 00:06:44.960
+Để các bạn hình dung được cách
+
+00:06:44.960 --> 00:06:47.130
+kẻ xấu bẻ khóa ra sao,
+
+00:06:47.130 --> 00:06:49.081
+họ sẽ đánh cắp một tập tin mật khẩu,
+
+00:06:49.081 --> 00:06:51.234
+mà chứa tất cả dữ liệu
+
+00:06:51.234 --> 00:06:54.123
+dưới một dạng xáo trộn, được gọi là hash,
+
+00:06:54.123 --> 00:06:56.685
+và điều họ sẽ làm là đoán
+
+00:06:56.685 --> 00:06:58.397
+xem mật khẩu là gì,
+
+00:06:58.397 --> 00:07:00.294
+rồi cho chạy với một chương trình hashing,

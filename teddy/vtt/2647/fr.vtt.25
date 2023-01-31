@@ -1,0 +1,43 @@
+WEBVTT
+
+00:12:29.735 --> 00:12:30.938
+sur toute cette surface,
+
+00:12:30.962 --> 00:12:33.854
+en faisant varier y sur la surface,
+vous créez une carte,
+
+00:12:33.878 --> 00:12:37.009
+une carte visuelle de toutes les choses
+que le réseau reconnaît.
+
+00:12:37.033 --> 00:12:40.801
+Les animaux sont tous là :
+le tatou est juste là.
+
+00:12:40.825 --> 00:12:43.156
+Vous pouvez aussi le faire
+avec d'autres réseaux.
+
+00:12:43.180 --> 00:12:46.272
+Voici un réseau créé
+pour reconnaître les visages,
+
+00:12:46.296 --> 00:12:48.444
+pour distinguer différents visages.
+
+00:12:48.468 --> 00:12:51.782
+Nous lui donnons un y : moi,
+
+00:12:51.806 --> 00:12:53.358
+les paramètres de mon visage.
+
+00:12:53.382 --> 00:12:55.153
+Quand il cherche x,
+
+00:12:55.177 --> 00:12:56.597
+il génère cette image de moi
+
+00:12:56.621 --> 00:13:01.903
+assez folle, cubiste,
+surréelle et psychédélique

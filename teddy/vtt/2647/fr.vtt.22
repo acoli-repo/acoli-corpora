@@ -1,0 +1,34 @@
+WEBVTT
+
+00:10:56.583 --> 00:11:00.003
+Il y a environ un an,
+Alex Mordvintsev, de notre équipe,
+
+00:11:00.027 --> 00:11:03.643
+a décidé d'essayer de voir
+ce qu'il se passe si nous cherchons x
+
+00:11:03.667 --> 00:11:06.026
+avec pour données un w et un y connus.
+
+00:11:06.050 --> 00:11:08.784
+En d'autres mots,
+vous savez que c'est un oiseau
+
+00:11:08.808 --> 00:11:11.997
+et avez entraîné votre réseau neuronal
+sur les oiseaux,
+
+00:11:12.021 --> 00:11:15.067
+mais qu'est-ce qu'une image d'oiseau ?
+
+00:11:15.091 --> 00:11:19.808
+Il s'avère qu'en utilisant la même
+procédure de minimisation de l'erreur,
+
+00:11:19.832 --> 00:11:23.109
+cela est possible avec le réseau
+entraîné à reconnaître les oiseaux
+
+00:11:23.133 --> 00:11:26.966
+et le résultat s'avère être :

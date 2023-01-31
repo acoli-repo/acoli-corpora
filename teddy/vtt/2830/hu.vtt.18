@@ -1,0 +1,38 @@
+WEBVTT
+
+00:08:58.857 --> 00:09:02.461
+Valahogy meg kell mondanunk
+az algoritmusnak, milyenek a képek,
+
+00:09:02.461 --> 00:09:05.234
+bármely képi jellemző 
+túlhangsúlyozása nélkül.
+
+00:09:05.865 --> 00:09:07.758
+Erre az egyik módszer,
+
+00:09:07.782 --> 00:09:10.634
+hogy különféle képek
+jellemzőivel látjuk el,
+
+00:09:10.868 --> 00:09:14.998
+és megnézzük a föltételezett képtípus 
+hatását a rekonstrukcióra.
+
+00:09:15.712 --> 00:09:19.203
+Ha minden képtípus
+hasonló képet állít elő,
+
+00:09:19.227 --> 00:09:21.284
+akkor biztosabbak lehetünk benne,
+
+00:09:21.308 --> 00:09:24.881
+hogy a készülő feltételezett képek
+nem nagyon torzítanak.
+
+00:09:25.505 --> 00:09:28.555
+Ez egy kicsit olyan, mintha a világ
+három fantomkép-rajzolójának
+
+00:09:28.575 --> 00:09:31.035
+ugyanazt a leírást adnánk meg.

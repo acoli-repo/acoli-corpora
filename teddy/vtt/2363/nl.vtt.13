@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:26.951 --> 00:06:30.731
+Maar je weet nog
+dat je dat niet kan meten.
+
+00:06:30.745 --> 00:06:33.057
+We besloten te kijken
+
+00:06:33.057 --> 00:06:35.427
+hoe snel je de wachtwoorden kon kraken
+
+00:06:35.427 --> 00:06:38.631
+met de beste kraak-trucs
+die de boeven gebruiken,
+
+00:06:38.649 --> 00:06:40.665
+of waar we iets over konden vinden
+
+00:06:40.665 --> 00:06:42.202
+in de onderzoeksliteratuur.
+
+00:06:42.202 --> 00:06:44.960
+Om je een idee te geven wat boeven doen
+
+00:06:44.960 --> 00:06:47.130
+om wachtwoorden te kraken:
+
+00:06:47.130 --> 00:06:49.081
+ze stelen een wachtwoordbestand
+
+00:06:49.081 --> 00:06:51.234
+waar alle wachtwoorden in zitten
+
+00:06:51.234 --> 00:06:54.123
+in een verhaspelde vorm, een 'hash',
+
+00:06:54.123 --> 00:06:56.415
+en ze gokken wat een wachtwoord is,
+
+00:06:58.397 --> 00:07:00.294
+gooien het door een verhaspelfunctie

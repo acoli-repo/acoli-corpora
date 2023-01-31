@@ -1,0 +1,44 @@
+WEBVTT
+
+00:09:27.707 --> 00:09:30.418
+Você diz: vamos fazer um truque de álgebra
+
+00:09:30.422 --> 00:09:33.332
+e mover o seis para a direita da equação.
+
+00:09:33.332 --> 00:09:35.678
+Agora, ainda temos uma multiplicação
+
+00:09:35.678 --> 00:09:39.239
+e aquele zero, vamos pensar
+nele como um erro.
+
+00:09:39.239 --> 00:09:41.778
+Em outras palavras, 
+se acharmos o w da forma certa
+
+00:09:41.778 --> 00:09:43.418
+então o erro será zero.
+
+00:09:43.418 --> 00:09:47.113
+Se não conseguirmos isso da forma certa,
+o erro será maior do que zero.
+
+00:09:47.113 --> 00:09:50.583
+Agora podemos criar suposições
+para diminuir os erros,
+
+00:09:50.583 --> 00:09:53.274
+e é o tipo de coisa que
+computadores fazem muito bem.
+
+00:09:53.274 --> 00:09:56.251
+Na primeira suposição: e se w = 0?
+Bem, o erro será 6.
+
+00:09:56.251 --> 00:09:58.911
+E se w = 1? O erro será 4.
+
+00:09:58.911 --> 00:10:03.532
+E, então, o computador tentará adivinhar
+e diminuir o erro para próximo de zero.

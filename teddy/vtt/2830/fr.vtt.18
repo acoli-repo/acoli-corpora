@@ -1,0 +1,42 @@
+WEBVTT
+
+00:08:59.173 --> 00:09:01.433
+Il nous faut une façon de dire
+à nos algorithmes
+
+00:09:01.433 --> 00:09:02.841
+à quoi les images ressemblent
+
+00:09:02.841 --> 00:09:05.874
+sans trop imposer
+un type de caractéristique d'image.
+
+00:09:05.874 --> 00:09:07.758
+Nous pourrions contourner ce problème
+
+00:09:07.782 --> 00:09:10.844
+en imposant les caractéristiques
+de différents types d'images
+
+00:09:10.868 --> 00:09:14.998
+et voir comment ces genres d'images
+influencent nos reconstructions.
+
+00:09:15.712 --> 00:09:19.203
+Si tous les types d'images produisent
+une image très similaire,
+
+00:09:19.203 --> 00:09:21.370
+nous pouvons donc gagner
+confiance sur le fait
+
+00:09:21.370 --> 00:09:25.481
+que nos hypothèses ne biaisent
+pas tellement la photo.
+
+00:09:25.505 --> 00:09:28.495
+C'est un peu comme
+donner la même description
+
+00:09:28.519 --> 00:09:31.515
+à trois dessinateurs autour du monde.

@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:29.292 --> 00:05:32.393
+Así nos aseguramos de evitar
+la centralización de los datos,
+
+00:05:32.417 --> 00:05:34.184
+la duplicación de los datos,
+
+00:05:34.328 --> 00:05:37.208
+y de garantizar que estén actualizados.
+
+00:05:38.792 --> 00:05:40.573
+Esta aproximación por distribución
+
+00:05:40.593 --> 00:05:44.659
+también evita el problema
+del punto único de fallo.
+
+00:05:45.083 --> 00:05:50.226
+Como los datos no pueden replicarse
+ni recolectarse más de una vez,
+
+00:05:50.375 --> 00:05:53.309
+el diseño del sistema
+deberá tener en cuenta
+
+00:05:53.333 --> 00:05:56.851
+un acceso seguro y robusto
+a esa información en todo momento
+
+00:05:56.875 --> 00:06:00.083
+para que la institución pública
+pueda ofrecer un servicio.

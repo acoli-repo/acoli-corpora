@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:55.795 --> 00:07:00.324
+Itt szimulált adatokból készített
+minta-rekonstrukció látható,
+
+00:07:00.348 --> 00:07:02.095
+mintha távcsövünket
+
+00:07:02.125 --> 00:07:04.180
+a galaxisban lévő
+fekete lyukra szegeznénk.
+
+00:07:04.914 --> 00:07:09.369
+Ez csak szimuláció, 
+de a rekonstrukció reményt keltő,
+
+00:07:09.393 --> 00:07:12.546
+hogy nemsokára meglesz az első képünk,
+
+00:07:12.870 --> 00:07:15.465
+és belőle meghatározhatjuk
+a gyűrű méretét.
+
+00:07:16.118 --> 00:07:19.317
+Noha szívesen részletezném 
+az algoritmust,
+
+00:07:19.341 --> 00:07:21.515
+szerencséjükre, erre nincs időm.
+
+00:07:21.539 --> 00:07:23.540
+De röviden fölvázolom,
+
+00:07:23.564 --> 00:07:25.866
+milyennek képzeljük az univerzumot,
+
+00:07:25.890 --> 00:07:29.656
+és ebből hogyan rekonstruáljuk
+és igazoljuk az eredményeinket.

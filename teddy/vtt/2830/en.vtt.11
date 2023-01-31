@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:28.120 --> 00:05:30.997
+We could still try to combine
+this information together,
+
+00:05:31.021 --> 00:05:33.014
+but now there are a lot of holes.
+
+00:05:33.038 --> 00:05:37.411
+These remaining mirrors represent
+the locations where we have telescopes.
+
+00:05:37.435 --> 00:05:41.514
+This is an incredibly small number
+of measurements to make a picture from.
+
+00:05:41.538 --> 00:05:45.376
+But although we only collect light
+at a few telescope locations,
+
+00:05:45.400 --> 00:05:48.823
+as the Earth rotates, we get to see
+other new measurements.
+
+00:05:48.847 --> 00:05:52.666
+In other words, as the disco ball spins,
+those mirrors change locations
+
+00:05:52.690 --> 00:05:55.589
+and we get to observe
+different parts of the image.
+
+00:05:55.613 --> 00:05:59.631
+The imaging algorithms we develop
+fill in the missing gaps of the disco ball
+
+00:05:59.655 --> 00:06:02.688
+in order to reconstruct
+the underlying black hole image.

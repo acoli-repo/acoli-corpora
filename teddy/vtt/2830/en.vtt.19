@@ -1,0 +1,41 @@
+WEBVTT
+
+00:09:28.519 --> 00:09:31.515
+to three different sketch artists
+from all around the world.
+
+00:09:31.539 --> 00:09:34.399
+If they all produce
+a very similar-looking face,
+
+00:09:34.423 --> 00:09:36.216
+then we can start to become confident
+
+00:09:36.240 --> 00:09:39.856
+that they're not imposing their own
+cultural biases on the drawings.
+
+00:09:39.880 --> 00:09:43.195
+One way we can try to impose
+different image features
+
+00:09:43.219 --> 00:09:45.660
+is by using pieces of existing images.
+
+00:09:46.214 --> 00:09:48.374
+So we take a large collection of images,
+
+00:09:48.398 --> 00:09:51.116
+and we break them down
+into their little image patches.
+
+00:09:51.140 --> 00:09:55.425
+We then can treat each image patch
+a little bit like pieces of a puzzle.
+
+00:09:55.449 --> 00:09:59.727
+And we use commonly seen puzzle pieces
+to piece together an image
+
+00:09:59.751 --> 00:10:02.203
+that also fits our telescope measurements.

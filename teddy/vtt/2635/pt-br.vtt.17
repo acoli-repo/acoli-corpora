@@ -1,0 +1,32 @@
+WEBVTT
+
+00:08:30.015 --> 00:08:32.551
+um dos primeiros fundamentos do Google.
+
+00:08:33.337 --> 00:08:37.579
+Esse algoritmo utiliza as leis
+de aleatoriedade matemática
+
+00:08:37.603 --> 00:08:41.460
+para determinar, automaticamente,
+as páginas mais relevantes da internet,
+
+00:08:41.484 --> 00:08:47.341
+da mesma forma como usamos aleatoriedade
+no experimento do painel de Galton.
+
+00:08:47.341 --> 00:08:52.542
+Então, vamos enviar para este gráfico
+um bocado de pequenas bolinhas digitais
+
+00:08:52.542 --> 00:08:56.329
+e deixá-las andar aleatoriamente
+através do diagrama.
+
+00:08:56.353 --> 00:08:59.140
+Sempre que chegarem
+a uma página, elas vão sair,
+
+00:08:59.150 --> 00:09:02.210
+por um link escolhido aleatoriamente,
+para a próxima página.

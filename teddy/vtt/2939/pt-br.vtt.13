@@ -1,0 +1,38 @@
+WEBVTT
+
+00:06:27.178 --> 00:06:31.539
+Podemos usar essa mesma ideia
+para criar regras para os robôs.
+
+00:06:32.221 --> 00:06:35.382
+Aqui estão alguns robôs simulados.
+
+00:06:35.406 --> 00:06:37.889
+O robô simulado tem uma regra de movimento
+
+00:06:37.913 --> 00:06:40.246
+que o faz andar pela estrutura,
+
+00:06:40.270 --> 00:06:42.267
+procurando um lugar para se encaixar,
+
+00:06:42.291 --> 00:06:45.291
+e tem regras de padrão que o faz
+procurar por grupos de blocos
+
+00:06:45.315 --> 00:06:47.520
+e decidir onde posicionar um bloco.
+
+00:06:48.644 --> 00:06:51.707
+Com as regras certas
+de padrão e movimento,
+
+00:06:51.731 --> 00:06:55.366
+podemos fazer os robôs construírem
+qualquer estrutura que quisermos.
+
+00:06:56.197 --> 00:06:58.888
+E, claro que todos nós queremos uma torre.
+
+00:06:59.350 --> 00:07:01.332
+(Risos)

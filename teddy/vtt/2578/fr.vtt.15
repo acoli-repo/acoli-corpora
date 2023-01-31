@@ -1,0 +1,44 @@
+WEBVTT
+
+00:07:27.962 --> 00:07:30.802
+c'est modéliser 
+les circuits de la moelle épinière.
+
+00:07:30.802 --> 00:07:33.200
+Ce qui est intéressant, 
+c'est que la salamandre
+
+00:07:33.200 --> 00:07:36.670
+a gardé un circuit très primitif, 
+très similaire de celui de la lamproie,
+
+00:07:36.670 --> 00:07:38.998
+ce poisson primitif
+qui ressemble à une anguille
+
+00:07:38.998 --> 00:07:42.330
+Il semble que durant son évolution,
+de nouveaux oscillateurs neuronaux
+
+00:07:42.330 --> 00:07:46.190
+ont été ajoutés pour contrôler les membres
+pour produire la locomotion des jambes.
+
+00:07:46.190 --> 00:07:47.960
+Nous savons où ceux-ci se situent,
+
+00:07:47.970 --> 00:07:49.986
+mais nous avons créé
+un modèle mathématique
+
+00:07:49.986 --> 00:07:52.112
+pour voir comment
+ils devraient être couplés
+
+00:07:52.112 --> 00:07:55.296
+pour permettre la transition 
+entre 2 déplacements très différents.
+
+00:07:55.296 --> 00:07:59.816
+Nous avons testé cela sur un robot.
+Voilà ce que ça donne.

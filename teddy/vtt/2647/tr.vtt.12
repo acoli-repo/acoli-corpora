@@ -1,0 +1,48 @@
+WEBVTT
+
+00:05:59.366 --> 00:06:01.918
+Pikseller arasında,
+
+00:06:01.942 --> 00:06:05.970
+kuş resmi ve "kuş" kelimesi 
+arasında olan,
+
+00:06:05.994 --> 00:06:08.808
+temelde sinir ağında birbirine bağlı
+
+
+00:06:08.832 --> 00:06:09.987
+nöronlar kümesidir,
+
+00:06:10.011 --> 00:06:11.374
+burada şemalaştırdığım gibi.
+
+00:06:11.374 --> 00:06:14.530
+Bu sinir ağı, görme kortekslerimizin
+içerisinde, biyolojik olabilir
+
+00:06:14.554 --> 00:06:16.716
+veya günümüzde, bu gibi
+sinir ağları modelleme
+
+00:06:16.740 --> 00:06:19.194
+kapasitesine sahip olmaya
+başladık bilgisayarlarda.
+
+00:06:19.684 --> 00:06:22.187
+Size gerçekte nasıl
+göründüğünü açıklayacağım.
+
+00:06:22.211 --> 00:06:25.641
+Pikselleri nöronların ilk
+katmanı gibi düşünebilirsiniz
+
+00:06:25.651 --> 00:06:27.890
+ve aslında gözde de
+bu şekilde işler --
+
+00:06:27.914 --> 00:06:29.577
+bunlar retinadaki nöronlar.
+
+00:06:29.601 --> 00:06:31.101
+İleri beslenir

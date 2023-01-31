@@ -1,0 +1,39 @@
+WEBVTT
+
+00:07:29.390 --> 00:07:31.900
+Hogy oldunk meg igazán fogós problémákat?
+
+00:07:31.920 --> 00:07:33.946
+Ha pl. sugárhajtóművet
+próbálunk készíteni,
+
+00:07:34.240 --> 00:07:36.456
+sok-sok változóval kell számolnunk:
+
+00:07:36.480 --> 00:07:38.433
+üzemi hőmérséklet, anyagok,
+
+00:07:38.457 --> 00:07:40.896
+különböző dimenziók, forma.
+
+00:07:40.920 --> 00:07:43.456
+Az ilyet nem lehet
+egy nekifutással megoldani,
+
+00:07:43.480 --> 00:07:44.696
+ahhoz túl nehéz.
+
+00:07:44.720 --> 00:07:45.936
+Tehát mit teszünk?
+
+00:07:45.960 --> 00:07:50.896
+Az egyik, hogy lépésenként oldjuk meg.
+
+00:07:50.920 --> 00:07:52.846
+Kezdetnek veszünk valami prototípust,
+
+00:07:53.316 --> 00:07:56.056
+beindítjuk, teszteljük, javítjuk.
+
+00:07:56.080 --> 00:07:58.880
+Beindítjuk, teszteljük, javítjuk.

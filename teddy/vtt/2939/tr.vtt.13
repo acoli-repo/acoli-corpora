@@ -1,0 +1,41 @@
+WEBVTT
+
+00:06:27.178 --> 00:06:31.539
+Benzer düşünceyi robotların kurallarını 
+oluşturmak için kullanabiliriz.
+
+00:06:31.981 --> 00:06:34.552
+Burada, bazı simule edilmiş 
+robotlar göreceksiniz.
+
+00:06:34.696 --> 00:06:37.889
+Yani bu simule edilmiş robotların
+yapı çerçevesinde nasıl hareket
+
+00:06:37.913 --> 00:06:40.246
+edeceklerini gösteren hareket 
+kuralları vardır,
+
+00:06:40.270 --> 00:06:42.167
+konumlandıracakları yerler ararlar
+
+00:06:42.211 --> 00:06:45.661
+ve bloğun yerleştirilmesine karar 
+vermek için blok gruplarına baktıkları
+
+00:06:45.661 --> 00:06:47.520
+yerlerde patern kuralları vardır.
+
+00:06:48.644 --> 00:06:51.707
+Ve doğru hareket kuralı ve 
+doğru patern kuralı ile
+
+00:06:51.731 --> 00:06:55.366
+her ne istiyor isek robotlara 
+gerçekten yaptırabiliriz.
+
+00:06:56.197 --> 00:06:58.888
+Ve tabii ki herkes kendi kulesini ister.
+
+00:06:59.350 --> 00:07:01.332
+(Gülüşme)

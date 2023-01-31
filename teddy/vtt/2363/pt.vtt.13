@@ -1,0 +1,53 @@
+WEBVTT
+
+00:06:28.991 --> 00:06:30.745
+de força da palavra-passe.
+
+00:06:30.745 --> 00:06:33.057
+Então o que decidimos foi ver
+
+00:06:33.057 --> 00:06:35.427
+quanto tempo levaria a 
+descobrir essas palavras-passe
+
+00:06:35.427 --> 00:06:37.255
+utilizando as melhores 
+ferramentas para o efeito
+
+00:06:37.255 --> 00:06:38.649
+que os "maus da fita" utilizam,
+
+00:06:38.649 --> 00:06:40.665
+ou sobre as quais conseguimos 
+encontrar informação
+
+00:06:40.665 --> 00:06:42.202
+na literatura da investigação.
+
+00:06:42.202 --> 00:06:44.960
+Então, para vos dar uma ideia 
+da forma como os "maus da fita"
+
+00:06:44.960 --> 00:06:47.130
+andam por aí a descodificar 
+palavras-passe,
+
+00:06:47.130 --> 00:06:49.081
+eles roubam um ficheiro de palavras-passe
+
+00:06:49.081 --> 00:06:51.234
+que contém todas as palavras-passe
+
+00:06:51.234 --> 00:06:54.123
+numa espécie de forma baralhada, 
+chamada uma "hash",
+
+00:06:54.123 --> 00:06:55.865
+e, por isso, o que eles fazem é:
+
+00:06:55.865 --> 00:06:58.397
+dão um palpite sobre 
+qual é uma palavra-passe,
+
+00:06:58.397 --> 00:07:00.294
+testam-na através de uma função "hash",

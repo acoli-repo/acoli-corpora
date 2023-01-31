@@ -1,0 +1,49 @@
+WEBVTT
+
+00:07:25.890 --> 00:07:30.356
+ir kaip tai naudojame rezultatams
+atkurti ir patikrinti.
+
+00:07:30.380 --> 00:07:32.876
+Kadangi egzistuoja begalinis 
+galimų vaizdų skaičius,
+
+00:07:32.900 --> 00:07:35.285
+kurie puikiai pateisina
+mūsų teleskopų išmatavimus,
+
+00:07:35.289 --> 00:07:37.894
+kažkokiu būdu mums reikia
+iš jų išskirti tinkamus.
+
+00:07:37.918 --> 00:07:39.796
+Tai darome klasifikuodami vaizdus pagal
+
+00:07:39.796 --> 00:07:42.614
+tikimybę būti
+juodosios skylės vaizdu,
+
+00:07:42.638 --> 00:07:45.220
+tada išsirenkame vieną,
+kuris yra labiausiai tikėtinas.
+
+00:07:45.220 --> 00:07:47.339
+Taigi, ką aš noriu tuo pasakyti?
+
+00:07:47.862 --> 00:07:49.840
+Tarkime, mes bandome sukurti modelį,
+
+00:07:49.864 --> 00:07:53.047
+kuris mums nurodytų tikimybę,
+kad vaizdas atsiras „Facebook“ tinkle.
+
+00:07:53.071 --> 00:07:54.772
+Norėtume, kad modelis parodytų,
+
+00:07:54.796 --> 00:07:58.463
+kad mažai tikėtina, jog kažkas paskelbtų
+šį kairėję esantį vaizdą su triukšmu,
+
+00:07:58.463 --> 00:08:00.796
+ir gana tikėtina, kad
+paskelbtų asmenukę,

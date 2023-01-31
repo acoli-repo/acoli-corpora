@@ -1,0 +1,38 @@
+WEBVTT
+
+00:06:57.840 --> 00:07:00.736
+Az első gondolatom az volt,
+hogy programozói módon oldom meg.
+
+00:07:00.760 --> 00:07:02.665
+Amikor rámutatnak valahova,
+
+00:07:02.689 --> 00:07:05.369
+a számítógép bekér egy egyedi nevet.
+
+00:07:06.760 --> 00:07:10.300
+Elég hamar világossá vált,
+hogy ez túl fárasztó.
+
+00:07:10.560 --> 00:07:13.800
+A számítógépnek automatikusan kell
+képeznie és beírnia a nevet.
+
+00:07:14.600 --> 00:07:18.960
+Azt gondoltam, mi lenne, ha olyan
+sorrendben nevezné el, ahogy létrehozzuk?
+
+00:07:19.480 --> 00:07:21.976
+Kipróbáltam. V1, V2.
+
+00:07:22.000 --> 00:07:24.606
+Elég hamar láttam,
+hogy ha több érték volt,
+
+00:07:24.606 --> 00:07:27.190
+már nem lehetett megjegyezni,
+mi hol volt a képernyőn
+
+00:07:27.190 --> 00:07:32.616
+Akkor azt mondtam: mi lenne, ha ahelyett,
+hogy bárhova engednék értéket beírni,

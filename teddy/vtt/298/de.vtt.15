@@ -1,0 +1,45 @@
+WEBVTT
+
+00:07:29.533 --> 00:07:32.353
+dass sie hoch entwickelte 
+Sensoren erfordern.
+
+00:07:32.353 --> 00:07:34.969
+Sie richten den Scanner 
+fest auf ein 50 cm großes Ziel
+
+00:07:34.969 --> 00:07:36.651
+aus einer Entfernung von 966 km
+
+00:07:36.651 --> 00:07:38.883
+bei einem Tempo von über 7 km pro Sekunde.
+
+00:07:38.883 --> 00:07:41.632
+Das erfordert unglaubliche Komplexität.
+
+00:07:41.632 --> 00:07:45.069
+Also verwendeten wir stattdessen 
+eine neue Generation von Videosensoren,
+
+00:07:45.069 --> 00:07:48.160
+die ursprünglich für Nachtsichtbrillen 
+entwickelt wurden.
+
+00:07:48.160 --> 00:07:51.059
+Anstatt eines einzigen 
+qualitativ hochwertigen Bildes
+
+00:07:51.059 --> 00:07:52.446
+konnten wir einen Videostream
+
+00:07:52.446 --> 00:07:55.369
+von einzelnen Bildern 
+mit mehr Rauschen aufnehmen,
+
+00:07:55.369 --> 00:07:58.309
+aber setzten dann 
+all diese Einzelaufnahmen
+
+00:07:58.309 --> 00:08:00.575
+zu qualitativ hochwertigen
+Bildern zusammen.

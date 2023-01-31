@@ -1,0 +1,35 @@
+WEBVTT
+
+00:10:59.520 --> 00:11:04.056
+Když farmáři řeknete,
+kolik je na stromech plodů,
+
+00:11:04.080 --> 00:11:08.336
+může odhadnout úrodu celého sadu
+
+00:11:08.360 --> 00:11:11.200
+a optimalizovat všech následující operace.
+
+00:11:11.640 --> 00:11:13.256
+Druhá věc, kterou můžeme udělat,
+
+00:11:13.280 --> 00:11:17.776
+jsou modely rostlin. Sestavíme
+jejich trojrozměrné rekonstrukce
+
+00:11:17.800 --> 00:11:20.336
+a z nich odhadneme plošný průmět koruny.
+
+00:11:20.360 --> 00:11:24.136
+Ten pak vztáhneme
+k celkové ploše listů na dané rostlině
+
+00:11:24.160 --> 00:11:26.336
+a získáme takzvaný index listové plochy.
+
+00:11:26.360 --> 00:11:28.296
+A znáte-li index listové plochy,
+
+00:11:28.320 --> 00:11:33.776
+máte měřítko toho,
+nakolik je rostlina schopna fotosyntézy,

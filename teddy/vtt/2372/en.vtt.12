@@ -1,0 +1,41 @@
+WEBVTT
+
+00:05:59.407 --> 00:06:02.978
+to measure tissue compliances
+at each anatomical point.
+
+00:06:03.542 --> 00:06:05.789
+We combine these imaging and robotic data
+
+00:06:05.813 --> 00:06:09.455
+to build a mathematical description
+of my biological limb, shown on the left.
+
+00:06:09.479 --> 00:06:11.233
+You see a bunch of points, or nodes?
+
+00:06:11.257 --> 00:06:14.407
+At each node, there's a color
+that represents tissue compliance.
+
+00:06:14.431 --> 00:06:18.373
+We then do a mathematical transformation
+to the design of the synthetic skin,
+
+00:06:18.397 --> 00:06:19.596
+shown on the right.
+
+00:06:20.088 --> 00:06:22.492
+And we've discovered optimality is:
+
+00:06:22.516 --> 00:06:25.373
+where the body is stiff,
+the synthetic skin should be soft,
+
+00:06:25.397 --> 00:06:28.857
+where the body is soft,
+the synthetic skin is stiff,
+
+00:06:28.881 --> 00:06:32.164
+and this mirroring occurs
+across all tissue compliances.

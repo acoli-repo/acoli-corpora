@@ -1,0 +1,44 @@
+WEBVTT
+
+00:06:29.601 --> 00:06:31.101
+And those feed forward
+
+00:06:31.125 --> 00:06:34.528
+into one layer after another layer,
+after another layer of neurons,
+
+00:06:34.552 --> 00:06:37.585
+all connected by synapses
+of different weights.
+
+00:06:37.609 --> 00:06:38.944
+The behavior of this network
+
+00:06:38.968 --> 00:06:42.252
+is characterized by the strengths
+of all of those synapses.
+
+00:06:42.276 --> 00:06:45.564
+Those characterize the computational
+properties of this network.
+
+00:06:45.588 --> 00:06:47.058
+And at the end of the day,
+
+00:06:47.082 --> 00:06:49.529
+you have a neuron
+or a small group of neurons
+
+00:06:49.553 --> 00:06:51.200
+that light up, saying, "bird."
+
+00:06:51.824 --> 00:06:54.956
+Now I'm going to represent
+those three things --
+
+00:06:54.980 --> 00:06:59.676
+the input pixels and the synapses
+in the neural network,
+
+00:06:59.700 --> 00:07:01.285
+and bird, the output --

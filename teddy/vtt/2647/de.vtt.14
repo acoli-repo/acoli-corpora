@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:59.700 --> 00:07:01.285
+und den Vogel als Output
+
+00:07:01.309 --> 00:07:04.366
+durch drei Variablen ersetzen: x, w und y.
+
+00:07:04.853 --> 00:07:06.664
+Es kann eine Million x geben --
+
+00:07:06.688 --> 00:07:08.641
+eine Million Pixel in einem Bild.
+
+00:07:08.665 --> 00:07:11.111
+Es gibt Milliarden oder Billiarden w,
+
+00:07:11.135 --> 00:07:14.556
+die für die Gewichtung der Synapsen
+im neuronalen Netzwerk stehen.
+
+00:07:14.580 --> 00:07:16.455
+Es gibt nur ganz wenige y,
+
+00:07:16.479 --> 00:07:18.337
+also Outputs des Netzwerks.
+
+00:07:18.361 --> 00:07:20.360
+"Vogel" hat nur fünf Buchstaben.
+
+00:07:21.088 --> 00:07:24.514
+Dann tun wir doch einfach so,
+als sei es nur eine einfache Formel:
+
+00:07:24.538 --> 00:07:26.541
+x "x" w = y.
+
+00:07:26.575 --> 00:07:28.941
+Ich setze das "Mal"-Zeichen 
+in Anführungszeichen,
+
+00:07:28.965 --> 00:07:31.065
+denn der eigentliche Vorgang hier

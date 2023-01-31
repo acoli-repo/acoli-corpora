@@ -1,0 +1,45 @@
+WEBVTT
+
+00:07:28.040 --> 00:07:30.280
+model obwodu rdzenia kręgowego.
+
+00:07:31.040 --> 00:07:33.176
+Co ciekawe, traszka nadal ma
+
+00:07:33.200 --> 00:07:34.820
+bardzo prymitywny obwód,
+
+00:07:34.844 --> 00:07:37.386
+podobny do tego u minoga,
+
+00:07:37.386 --> 00:07:39.502
+tej prymitywnej ryby
+przypominającej węgorza.
+
+00:07:39.502 --> 00:07:41.508
+Wygląda to tak, jakby w procesie ewolucji
+
+00:07:41.508 --> 00:07:44.314
+dodane zostały nowe oscylatory neuronowe
+
+00:07:44.314 --> 00:07:45.836
+kontrolujące poruszanie nogami.
+
+00:07:45.836 --> 00:07:47.832
+Wiemy, gdzie znajdują się te oscylatory,
+
+00:07:47.832 --> 00:07:50.078
+ale stworzyliśmy matematyczny model,
+
+00:07:50.078 --> 00:07:51.786
+żeby sprawdzić, jak je połączyć,
+
+00:07:51.786 --> 00:07:55.216
+żeby umożliwić zmianę
+między dwoma sposobami ruchu.
+
+00:07:55.216 --> 00:07:57.670
+Sprawdzaliśmy to na robocie.
+
+00:07:57.670 --> 00:07:58.880
+Wygląda to tak.

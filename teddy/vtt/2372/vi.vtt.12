@@ -1,0 +1,42 @@
+WEBVTT
+
+00:05:59.413 --> 00:06:02.978
+để đo khả năng thích ứng tại
+mỗi điểm của mô.
+
+00:06:03.542 --> 00:06:05.829
+Chúng tôi kết hợp hình ảnh với
+dữ liệu nhận được
+
+00:06:05.829 --> 00:06:09.475
+để xây dựng một mô phỏng toán học của chi
+sinh học của tôi, hình bên trái.
+
+00:06:09.479 --> 00:06:11.253
+Bạn có thấy nhiều điểm và nút?
+
+00:06:11.257 --> 00:06:14.407
+Ở mỗi nút, có một màu để diễn tả
+mức phản ứng của mô.
+
+00:06:14.431 --> 00:06:18.367
+Rồi chúng tôi chuyển mô hình toán học
+thành mẫu thiết kế da tổng hợp,
+
+00:06:18.367 --> 00:06:19.596
+như hình bên phải.
+
+00:06:20.088 --> 00:06:22.522
+Và chúng tôi tìm được trường hợp tối ưu:
+
+00:06:22.522 --> 00:06:25.393
+nơi mà phần cơ thể cứng thì
+da tổng hợp phải mềm,
+
+00:06:25.397 --> 00:06:28.877
+nơi mà phần cơ thể mềm thì
+da tổng hợp cứng,
+
+00:06:28.881 --> 00:06:32.164
+và sự đối ứng này được áp dụng cho tất cả
+bề mặt thích ứng của mô.

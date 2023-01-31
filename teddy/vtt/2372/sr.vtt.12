@@ -1,0 +1,50 @@
+WEBVTT
+
+00:05:59.218 --> 00:06:01.272
+da izmere saglasnost tkiva
+
+00:06:01.272 --> 00:06:03.349
+na svakoj anatomskoj tački.
+
+00:06:03.349 --> 00:06:05.873
+Ove podatke sa slika
+i robotičke podatke kombinujemo
+
+00:06:05.873 --> 00:06:07.337
+da sastavimo matematički opis
+
+00:06:07.337 --> 00:06:09.189
+mog biološkog uda, prikazanog sleva.
+
+00:06:09.189 --> 00:06:11.138
+Vidite dosta tačaka, ili čvorova.
+
+00:06:11.138 --> 00:06:14.117
+Na svakom čvoru stoji boja
+koja predstavlja saglasnost tkiva.
+
+00:06:14.117 --> 00:06:16.120
+Onda radimo matematičku transformaciju
+
+00:06:16.120 --> 00:06:18.240
+do dizajna sintetičke kože
+
+00:06:18.240 --> 00:06:19.831
+na desnoj strani,
+
+00:06:19.831 --> 00:06:21.890
+i otkrili smo da je optimalno to da,
+
+00:06:21.890 --> 00:06:25.132
+tamo gde je telo čvrsto,
+sintetička koža treba da bude meka,
+
+00:06:25.132 --> 00:06:28.848
+gde je telo meko,
+sintetička koža je čvrsta
+
+00:06:28.848 --> 00:06:29.994
+i ovo preslikavanje
+
+00:06:29.994 --> 00:06:32.425
+se dešava preko svih saglasnosti tkiva.

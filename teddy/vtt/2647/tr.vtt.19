@@ -1,0 +1,51 @@
+WEBVTT
+
+00:09:27.747 --> 00:09:30.418
+Biraz cebir hilesi yapalım diyebiliriz
+
+00:09:30.442 --> 00:09:33.348
+ve 6'yı denklemin 
+sağ tarafına taşıyalım.
+
+00:09:33.372 --> 00:09:35.198
+Hâlâ çarpma işlemini kullanıyoruz.
+
+00:09:35.675 --> 00:09:39.255
+0'ı hata olarak düşünelim.
+
+00:09:39.279 --> 00:09:41.794
+Yani, w'yi doğru bulursak
+
+00:09:41.818 --> 00:09:43.474
+hata 0 olacaktır.
+
+00:09:43.498 --> 00:09:45.436
+Doğru bulamazsak,
+
+00:09:45.460 --> 00:09:47.209
+hata 0'dan büyük olacaktır.
+
+00:09:47.233 --> 00:09:50.599
+Şimdi hatayı minimize etmek için
+tahminlerde bulunabiliriz
+
+00:09:50.623 --> 00:09:53.310
+ki bu da bilgisayarların iyi
+olduğu bir alan.
+
+00:09:53.334 --> 00:09:54.927
+Başka bir tahminde bulundunuz:
+
+00:09:54.951 --> 00:09:56.107
+Farz edelim w=0 olsun.
+
+00:09:56.131 --> 00:09:57.371
+O zaman hata 6 olur.
+
+00:09:57.395 --> 00:09:58.841
+Ya w=1 olursa? 
+Hata 4 olur.
+
+00:09:58.865 --> 00:10:01.232
+O zaman bilgisayar bir çeşit
+körebe (Marco Polo)

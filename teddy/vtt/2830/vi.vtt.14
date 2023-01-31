@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:55.795 --> 00:07:00.324
+Vậy nên, giờ tôi sẽ cho các bạn thấy
+một ảnh mẫu dược tạo bởi dữ liệu giả lập,
+
+00:07:00.348 --> 00:07:02.281
+khi ta giả định hướng các kính thiên văn
+
+00:07:02.305 --> 00:07:04.890
+về phía hố đen ngay giữa thiên hà
+của chúng ta.
+
+00:07:04.914 --> 00:07:09.369
+Mặc dù đây chỉ là giả lập, việc xây dựng
+hình ảnh này cho chúng ta hy vọng
+
+00:07:09.393 --> 00:07:12.846
+rằng ta sẽ sớm có thể chụp được hình ảnh
+hố đen đáng tin cậy đầu tiên
+
+00:07:12.870 --> 00:07:15.465
+và từ đó, xác định kích thước
+của vòng sáng.
+
+00:07:16.118 --> 00:07:19.317
+Mặc dù tôi rất thích được diễn giải
+chi tiết về giải thuật này,
+
+00:07:19.341 --> 00:07:21.515
+nhưng may cho các bạn,
+tôi không có thời gian.
+
+00:07:21.539 --> 00:07:23.540
+Nhưng tôi cũng trình bày thoáng qua
+
+00:07:23.564 --> 00:07:25.866
+cách chúng tôi 
+xác định hình dạng của vũ trụ,
+
+00:07:25.890 --> 00:07:30.356
+và chúng tôi sử dụng nó để xây dựng
+và kiểm tra kết quả của mình thế nào.

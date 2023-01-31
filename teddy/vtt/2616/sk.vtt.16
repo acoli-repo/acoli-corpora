@@ -1,0 +1,47 @@
+WEBVTT
+
+00:07:58.361 --> 00:08:00.154
+s presnosťou 5 centimetrov.
+
+00:08:00.178 --> 00:08:03.313
+BMI pomerne dosť súvisí
+s naším životným štýlom,
+
+00:08:03.337 --> 00:08:07.201
+ale stále ho môžeme dostať
+pomerne presne, s presnosťou na 8kg.
+
+00:08:07.225 --> 00:08:08.636
+Vieme predpovedať farbu očí?
+
+00:08:08.636 --> 00:08:09.948
+Áno, vieme.
+
+00:08:09.948 --> 00:08:10.986
+Presnosť 80 percent.
+
+00:08:11.466 --> 00:08:13.324
+Môžeme predpovedať farbu pleti?
+
+00:08:13.348 --> 00:08:15.789
+Áno, môžeme, s presnosťou 80 percent.
+
+00:08:15.813 --> 00:08:17.153
+Môžeme predpovedať vek?
+
+00:08:18.121 --> 00:08:21.860
+Môžeme, pretože zjavne
+sa kód v priebehu života mení.
+
+00:08:21.884 --> 00:08:25.166
+Skráti sa, stratíte jeho časti,
+niečo sa doň pridá.
+
+00:08:25.190 --> 00:08:27.745
+Čítame signály a vytvoríme model.
+
+00:08:28.438 --> 00:08:29.913
+Teraz je tu zaujímavá výzva:
+
+00:08:29.937 --> 00:08:31.666
+Môžeme predpovedať ľudskú tvár?

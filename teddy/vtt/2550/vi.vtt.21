@@ -1,0 +1,30 @@
+WEBVTT
+
+00:10:29.640 --> 00:10:32.936
+Góc trái, ở giữa là một camera hồng ngoại.
+
+00:10:32.960 --> 00:10:36.736
+Và góc trái dưới cùng là một camera nhiệt.
+
+00:10:36.760 --> 00:10:40.096
+Và trên màn hình chính, 
+các bạn đang thấy một cấu trúc 3D tái lập
+
+00:10:40.120 --> 00:10:46.240
+mỗi cây trong vườn khi các cảm biến
+bay ngang qua các cây.
+
+00:10:47.640 --> 00:10:51.680
+Khi được trang bị những thông tin thế này,
+chúng ta có thể làm được nhiều thứ.
+
+00:10:52.200 --> 00:10:56.456
+Đầu tiên và có thể là thứ quan trọng nhất
+chúng ta có thể làm, rất đơn giản là
+
+00:10:56.480 --> 00:10:58.920
+đếm số lượng quả trên mỗi cây.
+
+00:10:59.520 --> 00:11:04.056
+Bằng cách này, chúng ta có thể cho người 
+nông dân biết số lượng trái trên từng cây,

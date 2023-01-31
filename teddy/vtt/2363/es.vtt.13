@@ -1,0 +1,50 @@
+WEBVTT
+
+00:06:28.991 --> 00:06:30.745
+de seguridad de la contraseña.
+
+00:06:30.745 --> 00:06:33.057
+Así que decidimos ver
+
+00:06:33.057 --> 00:06:35.427
+el tiempo que se tardaría 
+en descifrar estas contraseñas
+
+00:06:35.427 --> 00:06:36.841
+utilizando las mejores 
+herramientas de descifrado
+
+00:06:36.841 --> 00:06:38.649
+que usan los malos,
+
+00:06:38.649 --> 00:06:40.665
+o averiguando información al respecto
+
+00:06:40.665 --> 00:06:42.202
+en la literatura especializada.
+
+00:06:42.202 --> 00:06:44.960
+Para que se hagan 
+una idea de cómo los chicos malos
+
+00:06:44.960 --> 00:06:47.130
+descifran contraseñas,
+
+00:06:47.130 --> 00:06:49.081
+ellos roban un archivo de contraseñas
+
+00:06:49.081 --> 00:06:51.234
+donde están todas las contraseñas
+
+00:06:51.234 --> 00:06:54.123
+en una especie de formulario 
+codificado llamado hash,
+
+00:06:54.123 --> 00:06:56.685
+y así lo que harán es una conjetura
+
+00:06:56.685 --> 00:06:58.397
+acerca de lo que es una contraseña,
+
+00:06:58.397 --> 00:07:00.294
+que se comparará con una función hash,

@@ -1,0 +1,38 @@
+WEBVTT
+
+00:13:57.600 --> 00:14:00.096
+Do vậy LIDAR và radar
+không được sử dụng ở đây.
+
+00:14:00.120 --> 00:14:04.160
+Ở đây đang sử dụng thị giác thụ động,
+về bản chất là giống như của con người.
+
+00:14:05.200 --> 00:14:07.696
+Toàn bộ hệ thống đường được tính toán
+để vận hành
+
+00:14:07.720 --> 00:14:11.776
+với thi giác thụ động, tức là các camera,
+
+00:14:11.800 --> 00:14:15.136
+do vậy một khi bạn giải quyết được
+vấn để camera
+
+00:14:15.160 --> 00:14:16.400
+hay thị giác,
+
+00:14:17.720 --> 00:14:19.216
+thì chuyện tự lái được xử lý.
+
+00:14:19.240 --> 00:14:21.520
+Nếu không xử lý thị giác,
+thì không xử lý được.
+
+00:14:22.120 --> 00:14:28.136
+Đó là lý do chúng ta tập trung mạnh vào
+xây dựng một mạng thần kinh thị giác
+
+00:14:28.160 --> 00:14:31.376
+mà thực sự hiệu quả
+với các điều kiện đường xá.

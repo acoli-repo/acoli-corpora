@@ -1,0 +1,37 @@
+WEBVTT
+
+00:08:28.568 --> 00:08:31.979
+dar identifică şi specia păsării,
+folosind o reţea de acest tip.
+
+00:08:32.890 --> 00:08:34.716
+Deci în acea poză,
+
+00:08:34.740 --> 00:08:38.542
+x şi w sunt cunoscute 
+iar y e necunoscut.
+
+00:08:38.566 --> 00:08:41.074
+Sar peste partea foarte dificilă,
+
+00:08:41.098 --> 00:08:44.959
+anume, cum reuşim să-l descoperim w,
+
+00:08:44.983 --> 00:08:47.170
+care e creierul care poate face asta?
+
+00:08:47.194 --> 00:08:49.028
+Cum am putea găsi un astfel de model?
+
+00:08:49.418 --> 00:08:52.651
+Acest proces al învăţării, 
+al aflării lui w,
+
+00:08:52.675 --> 00:08:55.322
+dacă am face asta cu ecuaţia simplă
+
+00:08:55.346 --> 00:08:57.346
+în care gândim variabilele ca numere,
+
+00:08:57.370 --> 00:09:00.057
+ştim exact cum s-o rezolvăm: 6 = 2 x w,

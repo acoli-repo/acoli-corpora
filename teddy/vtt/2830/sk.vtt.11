@@ -1,0 +1,38 @@
+WEBVTT
+
+00:05:28.120 --> 00:05:30.997
+Mohli by sme sa pokúsiť
+dať tie informácie dokopy,
+
+00:05:31.021 --> 00:05:33.014
+ale bolo by tam veľa dier.
+
+00:05:33.038 --> 00:05:37.411
+Tieto zostávajúce zrkadlá
+predstavujú miesta, kde teleskopy máme.
+
+00:05:37.435 --> 00:05:41.514
+Z takého malého počtu merania
+je nemožné urobiť fotografiu.
+
+00:05:41.538 --> 00:05:44.770
+Lenže hoci zbierame svetlo
+len z niekoľkých miest,
+
+00:05:45.360 --> 00:05:48.453
+ako sa Zem točí, získame ďalšie merania.
+
+00:05:48.847 --> 00:05:52.630
+Inými slovami, ako sa diskoguľa otáča,
+tieto zrkadlá menia svoje miesta
+
+00:05:52.630 --> 00:05:54.809
+a môžeme pozorovať iné časti fotografie.
+
+00:05:55.613 --> 00:05:59.615
+Vyvinuli sme algoritmus, ktorý zapĺňa
+chýbajúce medzery na diskoguli
+
+00:05:59.615 --> 00:06:02.688
+a rekonštruuje skrytú fotografiu
+čiernej diery.

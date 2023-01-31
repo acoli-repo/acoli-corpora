@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:56.292 --> 00:07:01.521
+ou seja, pessoas que a IA
+permite ficar em casa e que morrem?
+
+00:07:01.545 --> 00:07:02.910
+(Risos)
+
+00:07:02.934 --> 00:07:05.386
+Nossos 70% começavam por aí.
+
+00:07:05.410 --> 00:07:07.402
+Trabalhamos com uma equipe de médicos
+
+00:07:07.426 --> 00:07:11.225
+para verificar a lógica médica
+de cada variável de nosso modelo.
+
+00:07:11.537 --> 00:07:16.106
+Por exemplo, usamos a concentração
+de uma enzima hepática
+
+00:07:16.130 --> 00:07:17.403
+como um indicador,
+
+00:07:17.427 --> 00:07:21.125
+para o qual a lógica médica não era óbvia.
+
+00:07:21.149 --> 00:07:23.925
+O sinal estatístico era bastante forte.
+
+00:07:24.300 --> 00:07:27.133
+Mas e se fosse um viés em nossa amostra?
+
+00:07:27.157 --> 00:07:29.957
+Esse indicador foi retirado do modelo.

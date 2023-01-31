@@ -1,0 +1,35 @@
+WEBVTT
+
+00:06:28.277 --> 00:06:31.263
+je navrhnúť algoritmy,
+ktoré nájdu najlepšiu fotku,
+
+00:06:31.263 --> 00:06:33.755
+ktorá zároveň zapadá do meraní teleskopov.
+
+00:06:34.727 --> 00:06:38.669
+Rovnako ako súdny kreslič,
+ktorý používa obmedzené opisy,
+
+00:06:38.673 --> 00:06:41.817
+aby vytvoril obrázok pomocou
+svojich znalostí štruktúry tváre,
+
+00:06:42.171 --> 00:06:45.390
+algoritmus, ktorý vyvíjam,
+používa naše obmedzené dáta z teleskopov,
+
+00:06:45.390 --> 00:06:49.562
+aby nás naviedol k obrázku,
+ktorý tiež vyzerá ako niečo vo vesmíre.
+
+00:06:49.916 --> 00:06:53.467
+Pomocou týchto algoritmov
+sa nám podarilo poskladať obrázky
+
+00:06:53.591 --> 00:06:55.431
+z týchto riedkych a nejasných dát.
+
+00:06:55.795 --> 00:07:00.388
+Tu vidíte vzorovú rekonštrukciu
+pomocou simulovaných dát,

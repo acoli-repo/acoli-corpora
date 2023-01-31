@@ -1,0 +1,33 @@
+WEBVTT
+
+00:08:30.015 --> 00:08:32.551
+one of the early cornerstones of Google.
+
+00:08:33.337 --> 00:08:37.579
+This algorithm uses the laws
+of mathematical randomness
+
+00:08:37.603 --> 00:08:41.460
+to determine automatically
+the most relevant web pages,
+
+00:08:41.484 --> 00:08:46.546
+in the same way as we used randomness
+in the Galton Board experiment.
+
+00:08:47.341 --> 00:08:49.682
+So let's send into this graph
+
+00:08:49.706 --> 00:08:52.556
+a bunch of tiny, digital marbles
+
+00:08:52.580 --> 00:08:56.329
+and let them go randomly
+through the graph.
+
+00:08:56.353 --> 00:08:58.020
+Each time they arrive at some site,
+
+00:08:58.044 --> 00:09:02.210
+they will go out through some link
+chosen at random to the next one.

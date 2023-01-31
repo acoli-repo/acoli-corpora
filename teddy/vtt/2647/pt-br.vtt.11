@@ -1,0 +1,36 @@
+WEBVTT
+
+00:05:29.295 --> 00:05:31.593
+Vamos falar um pouco
+
+00:05:31.593 --> 00:05:35.665
+sobre o que um modelo para processar
+informações visuais precisaria fazer.
+
+00:05:36.228 --> 00:05:38.969
+A tarefa básica de percepção
+
+00:05:38.973 --> 00:05:43.091
+é levar uma imagem como esta e dizer:
+
+00:05:43.091 --> 00:05:44.467
+"É um pássaro",
+
+00:05:44.467 --> 00:05:47.269
+algo muito simples de se fazer
+com nosso cérebro.
+
+00:05:47.269 --> 00:05:50.730
+Mas vocês têm que entender
+que, para um computador,
+
+00:05:50.754 --> 00:05:53.805
+isso era praticamente impossível
+há alguns anos.
+
+00:05:53.805 --> 00:05:58.641
+O paradigma computacional clássico
+não é uma tarefa simples de ser realizada.
+
+00:05:59.366 --> 00:06:01.918
+O que está acontecendo entre os pixels,

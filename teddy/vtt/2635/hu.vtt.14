@@ -1,0 +1,38 @@
+WEBVTT
+
+00:06:59.660 --> 00:07:01.462
+A számítógép a segítségünkre van,
+
+00:07:01.486 --> 00:07:04.672
+de nem mennénk semmire, 
+ha nem modelleznénk matematikailag
+
+00:07:04.696 --> 00:07:07.259
+az adatokban elrejtett 
+információ keresését.
+
+00:07:08.491 --> 00:07:10.870
+Nézzünk egy egyszerű problémát.
+
+00:07:11.872 --> 00:07:15.679
+Tegyük föl, hogy valami
+bűnügyben nyomozunk,
+
+00:07:15.703 --> 00:07:19.491
+és a tényekről sok embernek 
+megvan a saját verziója.
+
+00:07:20.032 --> 00:07:21.777
+Kit akarunk először meghallgatni?
+
+00:07:22.681 --> 00:07:24.596
+Az értelmes válasz:
+
+00:07:24.620 --> 00:07:26.057
+a közvetlen tanúkat.
+
+00:07:26.878 --> 00:07:28.112
+Tegyük föl,
+
+00:07:28.136 --> 00:07:32.356
+hogy a 7. számú tanú

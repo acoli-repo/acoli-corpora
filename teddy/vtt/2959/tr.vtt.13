@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:29.808 --> 00:06:31.936
+aslında bazı anahtar yetileri anlamaları
+
+00:06:31.960 --> 00:06:33.960
+için yardım ettiğini görebildik.
+
+00:06:34.388 --> 00:06:37.813
+Ancak UCLA'daki ortaklarımız 
+daha derine inmemizi istedi.
+
+00:06:38.344 --> 00:06:41.831
+Veri analizine ve öğrenci 
+değerlendirmesine odaklanırlar.
+
+00:06:42.399 --> 00:06:46.557
+Ve o arka uç oyun verisini alıp
+bunu bir çocuğun matematik puanını
+
+00:06:46.557 --> 00:06:50.044
+tahmin etmede kullanabilecekler mi
+diye görmek istediler.
+
+00:06:50.068 --> 00:06:53.718
+Böylece nöral bir ağ yaptılar, 
+aslında bilgisayarı bu veriyi
+
+00:06:53.742 --> 00:06:55.264
+kullanmak için eğittiler
+
+00:06:55.288 --> 00:06:56.788
+ve işte sonuçlar:
+
+00:06:56.812 --> 00:07:00.742
+Bu çocukların standartlaştırılmış 
+matematik puanlarının alt kümesi.

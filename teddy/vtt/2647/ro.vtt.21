@@ -1,0 +1,39 @@
+WEBVTT
+
+00:10:28.774 --> 00:10:32.330
+E exact aşa cum facem noi când învăţăm.
+
+00:10:32.354 --> 00:10:34.584
+Ca bebeluşi vedem multe, multe imagini
+
+00:10:34.608 --> 00:10:37.241
+şi ni se spune „asta e o pasăre,
+asta nu e o pasăre”.
+
+00:10:37.714 --> 00:10:39.812
+Cu timpul, prin repetiţie,
+
+00:10:39.836 --> 00:10:42.764
+îl aflăm pe w, descoperim
+conexiunile neuronale.
+
+00:10:43.460 --> 00:10:47.546
+Acum am păstrat constante x şi w
+pentru a-l afla pe y;
+
+00:10:47.570 --> 00:10:49.417
+asta e percepţia rapidă, de zi cu zi.
+
+00:10:49.441 --> 00:10:51.204
+Ne dăm seama cum putem descoperi w,
+
+00:10:51.228 --> 00:10:53.131
+asta e învăţarea, care e mult mai grea,
+
+00:10:53.155 --> 00:10:56.690
+deoarece trebuie să minimizăm eroarea
+prin multe încercări de învăţare.
+
+00:10:56.875 --> 00:11:00.062
+Cam acum un an, Alex Mordvintsev
+din echipa noastră,

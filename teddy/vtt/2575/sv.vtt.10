@@ -1,0 +1,39 @@
+WEBVTT
+
+00:04:59.162 --> 00:05:02.485
+Innan vi går vidare tänkte jag beskriva 
+väldigt snabbt och enkelt
+
+00:05:02.485 --> 00:05:04.286
+hur RKCP fungerar.
+
+00:05:04.997 --> 00:05:08.747
+RKCP är en algoritm 
+som är utformad av Ray Kurzweil,
+
+00:05:08.747 --> 00:05:10.969
+en teknikchef på Google
+
+00:05:10.969 --> 00:05:13.329
+som tror stenhårt på 
+artificiell intelligens.
+
+00:05:13.984 --> 00:05:17.885
+Man ger RKCP en källtext,
+
+00:05:17.885 --> 00:05:22.354
+och så analyserar den källtexten 
+för att se hur den använder språk
+
+00:05:22.354 --> 00:05:24.302
+och sen regenererar den språk
+
+00:05:24.302 --> 00:05:26.830
+som efterliknar den första texten.
+
+00:05:26.830 --> 00:05:29.011
+I dikten vi såg alldeles nyss -
+
+00:05:29.011 --> 00:05:31.636
+- dikt 2, den ni trodde 
+var skriven av en människa -

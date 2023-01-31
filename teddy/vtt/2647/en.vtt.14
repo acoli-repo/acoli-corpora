@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:59.700 --> 00:07:01.285
+and bird, the output --
+
+00:07:01.309 --> 00:07:04.366
+by three variables: x, w and y.
+
+00:07:04.853 --> 00:07:06.664
+There are maybe a million or so x's --
+
+00:07:06.688 --> 00:07:08.641
+a million pixels in that image.
+
+00:07:08.665 --> 00:07:11.111
+There are billions or trillions of w's,
+
+00:07:11.135 --> 00:07:14.556
+which represent the weights of all
+these synapses in the neural network.
+
+00:07:14.580 --> 00:07:16.455
+And there's a very small number of y's,
+
+00:07:16.479 --> 00:07:18.337
+of outputs that that network has.
+
+00:07:18.361 --> 00:07:20.110
+"Bird" is only four letters, right?
+
+00:07:21.088 --> 00:07:24.514
+So let's pretend that this
+is just a simple formula,
+
+00:07:24.538 --> 00:07:26.701
+x "x" w = y.
+
+00:07:26.725 --> 00:07:28.761
+I'm putting the times in scare quotes
+
+00:07:28.785 --> 00:07:31.065
+because what's really
+going on there, of course,

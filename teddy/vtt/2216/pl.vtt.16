@@ -1,0 +1,38 @@
+WEBVTT
+
+00:07:58.076 --> 00:08:00.756
+To model systemu uczącego się maszynowo
+z dwoma sieciami:
+
+00:08:00.756 --> 00:08:02.236
+dyskryminatorem,
+
+00:08:02.236 --> 00:08:06.436
+który odpowiada za ustalenie,
+czy coś jest prawdziwe, czy fałszywe,
+
+00:08:06.476 --> 00:08:07.636
+i generatorem,
+
+00:08:07.676 --> 00:08:10.796
+który odpowiada za generowanie
+mediów syntetycznych.
+
+00:08:10.836 --> 00:08:15.956
+Generator syntetyczny
+generuje syntetyczny obraz i dźwięk,
+
+00:08:15.956 --> 00:08:20.636
+z kolei dyskryminator próbuje rozróżnić,
+czy jest on prawdziwy, czy fałszywy.
+
+00:08:20.676 --> 00:08:23.516
+Zadaniem generatora jest
+
+00:08:23.556 --> 00:08:27.996
+zmaksymalizowanie prawdopodobieństwa
+przekonania dyskryminatora,
+
+00:08:28.036 --> 00:08:32.916
+że syntetyczny obraz i dźwięk,
+które stworzył są prawdziwe.

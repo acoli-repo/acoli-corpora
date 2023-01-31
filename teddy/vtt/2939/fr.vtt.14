@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:59.350 --> 00:07:01.332
+(Rires)
+
+00:07:02.000 --> 00:07:03.684
+Donc à partir de ces règles,
+
+00:07:03.708 --> 00:07:06.874
+on va alors créer le type 
+de robot qui peut appliquer ces règles.
+
+00:07:06.898 --> 00:07:10.207
+Ici, vous voyez un robot qui peut grimper
+sur des blocs,
+
+00:07:10.231 --> 00:07:12.912
+mais il peut aussi les soulever 
+et les déplacer,
+
+00:07:12.936 --> 00:07:15.633
+il peut modifier 
+la structure sur laquelle il se trouve.
+
+00:07:16.617 --> 00:07:17.765
+Mais avec ces règles,
+
+00:07:17.789 --> 00:07:21.268
+on ne peut créer qu'un type de robot.
+
+00:07:21.292 --> 00:07:23.871
+On peut imaginer 
+plein de types de robots différents.
+
+00:07:23.895 --> 00:07:28.505
+Par exemple, des robots 
+capables de déplacer des sacs de sable
+
+00:07:28.529 --> 00:07:31.078
+pour aider à construire des digues.

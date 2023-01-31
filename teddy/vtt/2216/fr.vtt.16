@@ -1,0 +1,38 @@
+WEBVTT
+
+00:07:58.093 --> 00:08:01.060
+C'est un modèle d'apprentissage
+automatique avec deux réseaux :
+
+00:08:01.060 --> 00:08:02.227
+un discriminateur,
+
+00:08:02.251 --> 00:08:06.451
+dont le rôle est de déterminer
+si quelque chose est vrai ou faux,
+
+00:08:06.475 --> 00:08:07.642
+et un générateur,
+
+00:08:07.666 --> 00:08:10.816
+dont le rôle est de générer
+des médias synthétiques.
+
+00:08:10.840 --> 00:08:15.942
+Le générateur synthétique génère une vidéo
+ou un enregistrement audio synthétique
+
+00:08:15.966 --> 00:08:20.641
+et le discriminateur essaye de dire
+s'il est réel ou falsifié.
+
+00:08:20.665 --> 00:08:23.539
+La tâche du générateur
+
+00:08:23.563 --> 00:08:27.998
+consiste à maximiser la probabilité
+de faire croire au discriminateur
+
+00:08:28.022 --> 00:08:33.359
+que la vidéo et l'enregistrement audio
+qu'il crée sont réels.

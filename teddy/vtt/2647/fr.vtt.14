@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:59.506 --> 00:07:01.230
+et l'oiseau, la sortie,
+
+00:07:01.254 --> 00:07:04.715
+avec trois variables : x, w et y.
+
+00:07:04.739 --> 00:07:06.668
+Il y a peut-être un million de x :
+
+00:07:06.692 --> 00:07:08.604
+un million de pixels par image.
+
+00:07:08.628 --> 00:07:11.083
+Il y a des milliards ou des billions de w
+
+00:07:11.107 --> 00:07:14.398
+qui représentent le poids de toutes
+ces synapses du réseau neuronal.
+
+00:07:14.422 --> 00:07:16.398
+Et il y a très peu de y,
+
+00:07:16.422 --> 00:07:18.467
+de sorties présentes dans le réseau.
+
+00:07:18.491 --> 00:07:21.143
+« Oiseau » n'a que six lettres.
+
+00:07:21.167 --> 00:07:24.496
+Prétendons que la formule est simple :
+
+00:07:24.520 --> 00:07:26.696
+x « fois » w = y.
+
+00:07:26.720 --> 00:07:28.690
+Je mets fois entre guillements
+
+00:07:28.714 --> 00:07:30.907
+car ce qu'il se passe vraiment
+est bien-sûr

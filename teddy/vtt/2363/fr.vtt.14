@@ -1,0 +1,49 @@
+WEBVTT
+
+00:06:58.397 --> 00:07:00.294
+le passer dans une fonction de hachage,
+
+00:07:00.294 --> 00:07:02.059
+et regarder si ça correspond
+
+00:07:02.059 --> 00:07:06.009
+aux mots de passe qu'ils ont
+sur la liste volée.
+
+00:07:06.009 --> 00:07:09.114
+Un attaquant idiot prendra
+tous les mots de passe dans l'ordre.
+
+00:07:09.114 --> 00:07:12.682
+Il commencera par AAAAA et ensuite AAAAB,
+
+00:07:12.682 --> 00:07:15.100
+et ça va prendre beaucoup de temps
+
+00:07:15.100 --> 00:07:16.626
+avant qu'il n'obtienne un mot de passe
+
+00:07:16.626 --> 00:07:19.323
+que les gens pourraient avoir.
+
+00:07:19.323 --> 00:07:21.506
+Un attaquant intelligent, d'un autre côté,
+
+00:07:21.506 --> 00:07:22.892
+fait quelque chose de beaucoup plus malin.
+
+00:07:22.892 --> 00:07:24.718
+Il regarde les mots de passe
+
+00:07:24.718 --> 00:07:26.518
+qui sont réputés populaires
+
+00:07:26.518 --> 00:07:28.245
+dans ces listes de mots de passe volés,
+
+00:07:28.245 --> 00:07:29.434
+et il suppose quels sont les premiers.
+
+00:07:29.434 --> 00:07:31.568
+Il va donc commencer par penser
+à « mot de passe »,

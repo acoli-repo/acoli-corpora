@@ -1,0 +1,47 @@
+WEBVTT
+
+00:10:28.774 --> 00:10:32.330
+È esattamente lo stesso processo
+che utilizziamo per apprendere.
+
+00:10:32.354 --> 00:10:34.584
+Riceviamo moltissime
+immagini da bambini
+
+00:10:34.608 --> 00:10:37.641
+che ci dicono: "questo è un uccello;
+questo non è un uccello."
+
+00:10:37.714 --> 00:10:39.812
+E con il tempo, attraverso l'iterazione,
+
+00:10:39.836 --> 00:10:43.444
+risolviamo la w, risolviamo
+quei collegamenti neurali.
+
+00:10:43.460 --> 00:10:47.400
+Quindi adesso abbiamo mantenuto 
+fisse x ed w per risolvere y;
+
+00:10:47.400 --> 00:10:49.351
+questa è la rapida percezione quotidiana.
+
+00:10:49.351 --> 00:10:50.968
+Abbiamo capito
+come risolvere la w,
+
+00:10:50.968 --> 00:10:53.015
+che è apprendere,
+che è molto più difficile,
+
+00:10:53.015 --> 00:10:55.210
+perché abbiamo bisogno
+di minimizzare l'errore,
+
+00:10:55.210 --> 00:10:56.951
+usando molti esempi
+come allenamento.
+
+00:10:56.951 --> 00:11:00.062
+E circa un anno fa, 
+Alex Mordvintsev, nel nostro team,

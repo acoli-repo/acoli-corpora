@@ -1,0 +1,38 @@
+WEBVTT
+
+00:07:58.093 --> 00:08:00.656
+Ez egy gépi tanulási modell
+két hálózattal:
+
+00:08:00.680 --> 00:08:02.227
+van egy diszkriminátor,
+
+00:08:02.251 --> 00:08:06.451
+ennek a feladata eldönteni,
+hogy valami igaz-e vagy hamis,
+
+00:08:06.475 --> 00:08:07.642
+és van a generátor,
+
+00:08:07.666 --> 00:08:10.816
+ennek az a dolga, hogy
+szintetikus médiát állítson elő.
+
+00:08:10.840 --> 00:08:15.942
+Tehát a szintetikus generátor szintetikus
+videót vagy hanganyagot hoz létre,
+
+00:08:15.966 --> 00:08:20.641
+majd a diszkriminátor megpróbálja
+eldönteni, igaz-e vagy hamis a mű.
+
+00:08:20.665 --> 00:08:23.539
+Tulajdonképp a generátor dolga
+mindent megtenni azért,
+
+00:08:23.563 --> 00:08:27.998
+hogy átverje a diszkriminátort úgy,
+
+00:08:28.022 --> 00:08:31.609
+hogy az valódinak vélje
+a szintetikus videót

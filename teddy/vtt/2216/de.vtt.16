@@ -1,0 +1,38 @@
+WEBVTT
+
+00:07:58.093 --> 00:08:01.636
+Das ist ein Modell für machinelles Lernen
+mit zwei Netzwerken:
+
+00:08:01.640 --> 00:08:03.187
+einem Diskriminator,
+
+00:08:03.221 --> 00:08:06.451
+dessen Aufgabe es ist, zu bestimmen,
+ob etwas wahr oder falsch ist,
+
+00:08:06.475 --> 00:08:07.642
+und einem Generator,
+
+00:08:07.666 --> 00:08:10.816
+dessen Aufgabe es ist, 
+synthetische Medien zu produzieren.
+
+00:08:10.840 --> 00:08:16.012
+Der synthetische Generator produziert
+also synthetische Videos oder Audio,
+
+00:08:16.012 --> 00:08:20.665
+und der Diskriminator versucht 
+zu erkennen, ob es echt oder fake ist.
+
+00:08:20.665 --> 00:08:25.499
+Es ist sogar die Aufgabe des Generators,
+die Wahrscheinlichkeit zu erhöhen,
+
+00:08:25.507 --> 00:08:28.572
+dass es den Diskriminator täuscht,
+
+00:08:28.602 --> 00:08:33.289
+sodass er glaubt, dass das produzierte
+synthetische Video oder Audio wahr ist.

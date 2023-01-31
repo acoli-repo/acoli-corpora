@@ -1,0 +1,47 @@
+WEBVTT
+
+00:06:58.397 --> 00:07:00.294
+run it through a hashing function,
+
+00:07:00.294 --> 00:07:02.059
+and see whether it matches
+
+00:07:02.059 --> 00:07:06.009
+the passwords they have on
+their stolen password list.
+
+00:07:06.009 --> 00:07:09.114
+So a dumb attacker will try every password in order.
+
+00:07:09.114 --> 00:07:12.682
+They'll start with AAAAA and move on to AAAAB,
+
+00:07:12.682 --> 00:07:15.100
+and this is going to take a really long time
+
+00:07:15.100 --> 00:07:16.626
+before they get any passwords
+
+00:07:16.626 --> 00:07:19.323
+that people are really likely to actually have.
+
+00:07:19.323 --> 00:07:21.506
+A smart attacker, on the other hand,
+
+00:07:21.506 --> 00:07:22.892
+does something much more clever.
+
+00:07:22.892 --> 00:07:24.718
+They look at the passwords
+
+00:07:24.718 --> 00:07:26.518
+that are known to be popular
+
+00:07:26.518 --> 00:07:28.245
+from these stolen password sets,
+
+00:07:28.245 --> 00:07:29.434
+and they guess those first.
+
+00:07:29.434 --> 00:07:31.568
+So they're going to start by guessing "password,"

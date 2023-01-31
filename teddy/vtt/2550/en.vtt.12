@@ -1,0 +1,36 @@
+WEBVTT
+
+00:05:59.920 --> 00:06:03.376
+And if you plot a histogram
+of the number of Band-Aids we've ordered
+
+00:06:03.400 --> 00:06:05.976
+in the past, that sort of tailed off now.
+
+00:06:06.000 --> 00:06:07.960
+Because these robots are really safe.
+
+00:06:08.760 --> 00:06:11.216
+The small size has some disadvantages,
+
+00:06:11.240 --> 00:06:15.320
+and nature has found a number of ways
+to compensate for these disadvantages.
+
+00:06:15.960 --> 00:06:19.960
+The basic idea is they aggregate
+to form large groups, or swarms.
+
+00:06:20.320 --> 00:06:24.296
+So, similarly, in our lab,
+we try to create artificial robot swarms.
+
+00:06:24.320 --> 00:06:25.701
+And this is quite challenging
+
+00:06:25.725 --> 00:06:29.045
+because now you have to think
+about networks of robots.
+
+00:06:29.360 --> 00:06:30.656
+And within each robot,

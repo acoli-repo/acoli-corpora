@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:56.824 --> 00:06:00.407
+and connects users who are asking
+for specific medicines
+
+00:06:00.431 --> 00:06:04.163
+with those who are selling
+their private leftovers.
+
+00:06:04.187 --> 00:06:07.491
+We also pool the location data
+of those Twitter users
+
+00:06:07.515 --> 00:06:10.379
+and use it for a visualization tool.
+
+00:06:10.403 --> 00:06:14.322
+It gives local organizations
+like Médicos por la Salud
+
+00:06:14.346 --> 00:06:17.180
+a sense of where they have a shortage.
+
+00:06:17.204 --> 00:06:20.307
+We can also apply
+machine learning algorithms
+
+00:06:20.331 --> 00:06:22.718
+to detect clusters of disease.
+
+00:06:22.742 --> 00:06:24.628
+If they've received humanitarian aid,
+
+00:06:24.652 --> 00:06:27.482
+this could help them
+to make better decisions
+
+00:06:27.506 --> 00:06:30.108
+about the distributions of the supplies.

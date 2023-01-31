@@ -1,0 +1,44 @@
+WEBVTT
+
+00:05:59.366 --> 00:06:02.018
+Então, o que acontece entre os píxeis,
+
+00:06:02.018 --> 00:06:05.970
+entre a imagem de um pássaro
+e a palavra "ave",
+
+00:06:05.994 --> 00:06:08.808
+é uma série de neurónios
+ligados uns aos outros
+
+00:06:08.832 --> 00:06:11.547
+numa rede neural
+como este diagrama aqui.
+
+00:06:11.704 --> 00:06:14.530
+Esta rede neural pode ser biológica,
+como no córtex visual,
+
+00:06:14.554 --> 00:06:17.226
+ou, atualmente, começamos
+a ter a capacidade de modelar
+
+00:06:17.226 --> 00:06:19.194
+estas redes neurais no computador.
+
+00:06:19.834 --> 00:06:22.187
+Vou mostrar o aspeto que isso tem.
+
+00:06:22.211 --> 00:06:25.627
+Podemos considerar os píxeis
+como uma primeira camada de neurónio
+
+00:06:25.651 --> 00:06:27.890
+— e, de facto, é assim
+que funciona o olho —
+
+00:06:27.914 --> 00:06:29.577
+são os neurónios na retina.
+
+00:06:29.601 --> 00:06:31.631
+e eles transmitem as informações

@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:29.846 --> 00:05:32.408
+Ahora lleva tres años en remisión
+
+00:05:32.432 --> 00:05:33.959
+y, cada vez que llamo,
+
+00:05:33.983 --> 00:05:36.826
+me dice: "Estoy bien, no te preocupes".
+
+00:05:37.711 --> 00:05:40.301
+Pero no todos pueden irse del país,
+
+00:05:40.325 --> 00:05:43.025
+y muchos no están bien
+de salud como para viajar.
+
+00:05:43.434 --> 00:05:45.526
+Por eso la gente recurre a Twitter
+
+00:05:45.550 --> 00:05:48.513
+para comprar y vender medicinas
+
+00:05:48.553 --> 00:05:51.557
+con la etiqueta #ServicioPublico.
+
+00:05:52.358 --> 00:05:56.800
+Nuestro bot escanea Twitter
+buscando la etiqueta #ServicioPublico
+
+00:05:56.824 --> 00:06:00.407
+y conecta usuarios que buscan
+un medicamento específico

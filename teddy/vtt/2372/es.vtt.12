@@ -1,0 +1,54 @@
+WEBVTT
+
+00:05:59.218 --> 00:06:01.272
+para medir la elasticidad del tejido
+
+00:06:01.272 --> 00:06:03.349
+en cada punto anatómico.
+
+00:06:03.349 --> 00:06:05.873
+Combinamos estos datos 
+de imagen y robóticos
+
+00:06:05.873 --> 00:06:07.337
+para construir una 
+descripción matemática
+
+00:06:07.337 --> 00:06:09.189
+de mi miembro biológico, 
+se muestra a la izquierda.
+
+00:06:09.189 --> 00:06:11.138
+Verán muchos puntos o nodos.
+
+00:06:11.138 --> 00:06:14.117
+En cada nodo, hay un color que 
+representa la elasticidad del tejido.
+
+00:06:14.117 --> 00:06:16.120
+Entonces hacemos una 
+transformación matemática
+
+00:06:16.120 --> 00:06:18.240
+para el diseño de 
+la piel sintética
+
+00:06:18.240 --> 00:06:19.831
+que se muestra a la derecha,
+
+00:06:19.831 --> 00:06:21.890
+y hemos descubierto que lo óptimo
+
+00:06:21.890 --> 00:06:25.132
+es que donde el cuerpo es rígido, 
+la piel sintética debe ser suave,
+
+00:06:25.132 --> 00:06:28.848
+donde el cuerpo es suave, 
+la piel sintética debe ser rígida,
+
+00:06:28.848 --> 00:06:29.994
+y este reflejo se produce
+
+00:06:29.994 --> 00:06:32.425
+a través de la elasticidad del tejido.

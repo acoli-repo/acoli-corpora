@@ -1,0 +1,46 @@
+WEBVTT
+
+00:05:28.825 --> 00:05:33.289
+Tako smo prikupili 5.000 lozinki
+
+00:05:33.289 --> 00:05:35.984
+uz hrpu različitih politika i pravila
+
+00:05:35.984 --> 00:05:37.492
+za stvaranje lozinki.
+
+00:05:37.492 --> 00:05:39.402
+Neki ispitanicu su imali
+jednostavna pravila,
+
+00:05:39.402 --> 00:05:40.941
+nazvali smo ih Basic8,
+
+00:05:40.941 --> 00:05:43.087
+gdje je jedino pravilo bilo da lozinka
+
+00:05:43.087 --> 00:05:46.503
+ima najmanje osam znakova.
+
+00:05:46.503 --> 00:05:48.754
+Drugi su morali poštovati
+kompliciranije politike,
+
+00:05:48.754 --> 00:05:51.291
+slične onima na CMU-u,
+
+00:05:51.291 --> 00:05:53.225
+gdje je moralo biti osam znakova
+
+00:05:53.225 --> 00:05:55.601
+uključujući velika i mala slova,
+broj i simbol,
+
+00:05:55.601 --> 00:05:57.990
+i proći provjeru rječnika.
+
+00:05:57.990 --> 00:05:59.325
+Testirali smo još jednu politiku,
+
+00:05:59.325 --> 00:06:00.595
+a bilo ih je puno više,

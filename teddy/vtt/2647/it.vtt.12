@@ -1,0 +1,46 @@
+WEBVTT
+
+00:05:59.366 --> 00:06:01.918
+Ciò che accade
+tra i pixel,
+
+00:06:01.942 --> 00:06:05.970
+tra l'immagine dell'uccello e
+la parola "uccello",
+
+00:06:05.994 --> 00:06:08.808
+essenzialmente è un gruppo
+di neuroni connessi tra loro
+
+00:06:08.832 --> 00:06:09.861
+in una rete neurale,
+
+00:06:09.861 --> 00:06:11.234
+come sto schematizzando qui.
+
+00:06:11.258 --> 00:06:15.040
+Questa rete neurale può essere
+biologica, nella nostra corteccia visuale,
+
+00:06:15.040 --> 00:06:16.716
+oppure, oggi, possiamo
+
+00:06:16.740 --> 00:06:19.774
+modellare queste reti neuronali
+su un computer.
+
+00:06:19.834 --> 00:06:22.187
+E vi mostrerò come in realtà ciò appaia.
+
+00:06:22.211 --> 00:06:25.627
+Quindi i pixel potete immaginarli
+come un primo strato di neuroni,
+
+00:06:25.651 --> 00:06:27.890
+ed è così, infatti, che funziona l'occhio:
+
+00:06:27.914 --> 00:06:29.577
+questi sono i neuroni della retina.
+
+00:06:29.601 --> 00:06:31.101
+Ed essi trasmettono

@@ -1,0 +1,53 @@
+WEBVTT
+
+00:09:27.753 --> 00:09:30.458
+Vamos a aplicar 
+un pequeño truco de álgebra,
+
+00:09:30.458 --> 00:09:33.348
+y a mover el 6 hacia 
+el lado derecho de la ecuación.
+
+00:09:33.372 --> 00:09:35.678
+Ahora, todavía usamos la multiplicación.
+
+00:09:35.678 --> 00:09:39.169
+Y el cero... pensémoslo como un error.
+
+00:09:39.169 --> 00:09:41.808
+Es decir, si hemos resuelto la W 
+de la manera correcta,
+
+00:09:41.808 --> 00:09:43.804
+luego el error será el cero.
+
+00:09:43.804 --> 00:09:45.646
+Y si no lo hacemos del todo bien,
+
+00:09:45.646 --> 00:09:47.183
+el error será mayor que cero.
+
+00:09:47.183 --> 00:09:50.473
+Así que ahora solo podemos hacer 
+conjeturas para minimizar el error,
+
+00:09:50.473 --> 00:09:53.034
+y en eso las computadoras son muy buenas.
+
+00:09:53.034 --> 00:09:55.327
+Así que ya hemos hecho 
+una aproximación inicial:
+
+00:09:55.327 --> 00:09:56.107
+¿Y si W = 0?
+
+00:09:56.131 --> 00:09:57.401
+Entonces el error es 6.
+
+00:09:57.401 --> 00:09:59.041
+¿Qué pasa si W = 1? 
+El error es 4.
+
+00:09:59.041 --> 00:10:02.452
+Y luego, la computadora puede correr 
+una especie de Marco Polo,

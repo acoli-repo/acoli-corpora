@@ -1,0 +1,36 @@
+WEBVTT
+
+00:10:56.951 --> 00:11:00.062
+E circa un anno fa, 
+Alex Mordvintsev, nel nostro team,
+
+00:11:00.086 --> 00:11:03.636
+decise di sperimentare cosa
+accade se cerchiamo di risolvere x,
+
+00:11:03.660 --> 00:11:06.097
+conoscendo w e y.
+
+00:11:06.124 --> 00:11:07.275
+In altre parole,
+
+00:11:07.299 --> 00:11:08.651
+sapete che è un uccello,
+
+00:11:08.675 --> 00:11:11.978
+e avete già la rete neurale
+che avete allenato sugli uccelli,
+
+00:11:12.002 --> 00:11:14.976
+ma cos'è l'immagine di un uccello?
+
+00:11:15.034 --> 00:11:20.058
+È venuto fuori che utilizzando la stessa 
+procedura di minimizzazione dell'errore,
+
+00:11:20.082 --> 00:11:23.512
+si può fare con la rete allenata
+a riconoscere gli uccelli,
+
+00:11:23.536 --> 00:11:30.374
+ed il risultato è...

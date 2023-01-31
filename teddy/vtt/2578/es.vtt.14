@@ -1,0 +1,47 @@
+WEBVTT
+
+00:06:57.920 --> 00:07:00.936
+Para eso usamos un traje seco
+y recubrimos todo el robot...
+
+00:07:00.960 --> 00:07:02.056
+(Risas)
+
+00:07:02.080 --> 00:07:05.256
+y entonces podemos ir al agua
+y reproducir la marcha de natación.
+
+00:07:05.280 --> 00:07:08.616
+Aquí estábamos muy contentos
+porque esto es difícil de hacer.
+
+00:07:08.640 --> 00:07:10.780
+La física de interacción es compleja.
+
+00:07:10.780 --> 00:07:13.296
+El robot es mucho más grande 
+que un animal pequeño,
+
+00:07:13.320 --> 00:07:16.230
+por eso tuvimos que hacer 
+un escalado dinámico de frecuencias
+
+00:07:16.230 --> 00:07:19.036
+para asegurarnos de lograr
+la misma física de interacción.
+
+00:07:19.036 --> 00:07:21.476
+Pero al final, logramos
+buena compatibilidad,
+
+00:07:21.476 --> 00:07:23.080
+y estábamos muy, muy felices.
+
+00:07:23.480 --> 00:07:25.696
+Pasemos a la médula espinal.
+
+00:07:25.720 --> 00:07:28.016
+Con Jean-Marie Cabelguen
+
+00:07:28.040 --> 00:07:30.280
+modelamos los circuitos de la médula.

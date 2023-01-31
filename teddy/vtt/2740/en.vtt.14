@@ -1,0 +1,39 @@
+WEBVTT
+
+00:06:57.840 --> 00:07:00.736
+The first thing I thought was
+the programmer way of doing it.
+
+00:07:00.760 --> 00:07:02.665
+The first time you pointed to somewhere,
+
+00:07:02.689 --> 00:07:05.369
+the computer would ask you
+to type in a unique name.
+
+00:07:06.760 --> 00:07:10.536
+It became pretty clear pretty fast that
+that was going to be too tedious.
+
+00:07:10.560 --> 00:07:13.800
+The computer had to automatically
+make up the name and put it inside.
+
+00:07:14.600 --> 00:07:18.960
+So I thought, why not make it be
+the order in which you create them?
+
+00:07:19.480 --> 00:07:21.976
+I tried that. Value 1, value 2.
+
+00:07:22.000 --> 00:07:24.762
+Pretty quickly I saw
+that if you had more than a few values
+
+00:07:24.786 --> 00:07:27.296
+you'd never remember
+on the screen where things were.
+
+00:07:27.320 --> 00:07:32.616
+Then I said, why not instead of
+allowing you to put values anywhere,

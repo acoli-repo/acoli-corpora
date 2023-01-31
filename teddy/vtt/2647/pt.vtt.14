@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:59.700 --> 00:07:01.285
+e a ave, o resultado —
+
+00:07:01.309 --> 00:07:04.576
+por três variáveis: x, w e y.
+
+00:07:04.853 --> 00:07:06.754
+Há talvez um milhão de x,
+
+00:07:06.754 --> 00:07:08.641
+um milhão de píxeis nesta imagem.
+
+00:07:08.665 --> 00:07:11.111
+Há milhares de milhões ou biliões de w,
+
+00:07:11.135 --> 00:07:14.556
+que representam os pesos de todas
+essas sinapses na rede neural.
+
+00:07:14.580 --> 00:07:16.455
+E há um pequeno número de y,
+
+00:07:16.479 --> 00:07:18.337
+de resultados que essa rede neural tem.
+
+00:07:18.361 --> 00:07:20.430
+"Ave" tem apenas três letras, não é?
+
+00:07:21.088 --> 00:07:24.514
+Então vamos supor que isso
+é uma fórmula simples,
+
+00:07:24.538 --> 00:07:26.701
+x "vezes" w = y.
+
+00:07:26.725 --> 00:07:28.891
+Coloco o sinal de multiplicação entre aspas
+
+00:07:28.891 --> 00:07:31.065
+porque o que realmente está 
+ali a acontecer,

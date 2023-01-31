@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:01.000
+it would look like the figure on top.
+
+00:05:01.000 --> 00:05:03.000
+If you could pick up the white area,
+
+00:05:03.000 --> 00:05:05.000
+it would look like the figure on the bottom.
+
+00:05:05.000 --> 00:05:07.000
+Well, you can't do that physically,
+
+00:05:07.000 --> 00:05:09.000
+but on a computer you can do it. Let's switch over to the P.C.
+
+00:05:09.000 --> 00:05:13.000
+And here it is, figure-ground.
+
+00:05:13.000 --> 00:05:16.000
+The goal here is to take the pieces on the left
+
+00:05:16.000 --> 00:05:19.000
+and make them so they look like the shape on the right.
+
+00:05:19.000 --> 00:05:21.000
+And this follows the rules I just said:
+
+00:05:21.000 --> 00:05:24.000
+any black area that is surrounded by white can be picked up.
+
+00:05:24.000 --> 00:05:26.000
+But that is also true of any white area.
+
+00:05:26.000 --> 00:05:28.000
+So, here we got the white area in the middle,
+
+00:05:28.000 --> 00:05:30.000
+and you can pick it up.
+
+00:05:30.000 --> 00:05:32.000
+I'll just go one step further.

@@ -1,0 +1,35 @@
+WEBVTT
+
+00:06:28.577 --> 00:06:31.509
+yra algoritmų, kurie rastų
+tinkamiausią vaizdą ir atitiktų
+
+00:06:31.533 --> 00:06:33.755
+teleskopo išmatavimus, kūrimas.
+
+00:06:34.727 --> 00:06:38.669
+Kaip ir kriminalinės ekspertizės ekspertai
+naudojasi ribotais apibūdinimais,
+
+00:06:38.693 --> 00:06:42.207
+kad sudėliotų vaizdą pasinaudodami
+savo žiniomis apie veido struktūrą,
+
+00:06:42.231 --> 00:06:45.546
+mano vizualizavimo algoritmai
+naudoja ribotus teleskopų duomenis,
+
+00:06:45.570 --> 00:06:49.892
+kad padėtų mums atkurti vaizdą, kuris
+atrodytų kaip visatoje matomi dalykai.
+
+00:06:49.916 --> 00:06:53.567
+Naudodami šiuos algoritmus,
+mes galime sudėlioti vaizdus
+
+00:06:53.591 --> 00:06:55.771
+iš šių negausių, chaotiškų duomenų.
+
+00:06:55.795 --> 00:07:00.324
+Čia demonstruoju bandomąją rekonstrukciją,
+sukurtą naudojant netikrus duomenis,

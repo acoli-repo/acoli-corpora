@@ -1,0 +1,39 @@
+WEBVTT
+
+00:06:27.178 --> 00:06:31.539
+Possiamo usare quella stessa idea
+per creare regole per i robot.
+
+00:06:32.221 --> 00:06:35.382
+Ora vedrete robot simulati.
+
+00:06:35.406 --> 00:06:37.889
+Il robot simulato
+ha una regola di movimento,
+
+00:06:37.913 --> 00:06:40.246
+ossia come attraversa la struttura,
+
+00:06:40.270 --> 00:06:42.267
+in cerca di un posto in cui inserirsi,
+
+00:06:42.291 --> 00:06:45.291
+e ha uno schema
+in cui cerca un gruppo di blocchi
+
+00:06:45.315 --> 00:06:47.520
+per decidere dove posizionare un blocco.
+
+00:06:48.644 --> 00:06:51.707
+Con le regole di movimento giuste
+e gli schemi giusti,
+
+00:06:51.731 --> 00:06:55.366
+possiamo spingere i robot
+a costruire qualunque cosa.
+
+00:06:56.197 --> 00:06:58.888
+Certo, tutti vogliono la loro torre.
+
+00:06:59.350 --> 00:07:01.332
+(Risate)

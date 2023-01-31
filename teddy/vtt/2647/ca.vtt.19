@@ -1,0 +1,52 @@
+WEBVTT
+
+00:09:27.747 --> 00:09:30.418
+Només s'ha de fer 
+un petit truc d'àlgebra.
+
+00:09:30.442 --> 00:09:33.348
+És mou el 6 a la part dreta de l'equació.
+
+00:09:33.372 --> 00:09:35.198
+Així, encara usem la multiplicació.
+
+00:09:35.675 --> 00:09:39.255
+Aquest 0, considerem-lo un error.
+
+00:09:39.279 --> 00:09:41.794
+És a dir, si hem resolt 'w'
+correctament,
+
+00:09:41.818 --> 00:09:43.474
+l'error és 0;
+
+00:09:43.498 --> 00:09:45.436
+si no l'hem resolt bé,
+
+00:09:45.460 --> 00:09:47.209
+l'error serà més gran que 0.
+
+00:09:47.233 --> 00:09:50.599
+Ara només podem calcular a ull,
+per tal de minimitzar l'error,
+
+00:09:50.623 --> 00:09:53.310
+i els ordinadors són bons
+en aquest tipus de coses.
+
+00:09:53.334 --> 00:09:54.927
+Prenent una aproximació inicial:
+
+00:09:54.951 --> 00:09:56.107
+què passa si w = 0?
+
+00:09:56.131 --> 00:09:57.371
+Bé, llavors l'error és 6.
+
+00:09:57.395 --> 00:09:58.841
+Què passa si w = 1?
+L'error és 4.
+
+00:09:58.865 --> 00:10:01.232
+I així l'ordinador pot jugar
+a Marco Polo,

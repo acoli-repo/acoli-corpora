@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:29.601 --> 00:06:31.101
+İleri beslenir
+
+00:06:31.125 --> 00:06:34.528
+bir katmandan diğer katmana,
+ardından diğer farklı ağırlıklı
+
+00:06:34.552 --> 00:06:37.585
+sinapslarla birbirine bağlı 
+olan nöronlar katmanına.
+
+00:06:37.609 --> 00:06:38.944
+Bu ağın davranışı
+
+00:06:38.968 --> 00:06:42.252
+tüm bu sinapsların gücü ile 
+karakterize edilir.
+
+00:06:42.276 --> 00:06:45.564
+Ağın hesaplama gücün özelliklerini
+karakterize ederler.
+
+00:06:45.588 --> 00:06:47.058
+Günün sonunda,
+
+00:06:47.082 --> 00:06:49.529
+tek bir nöron veya küçük bir
+nöron grubunuz olur,
+
+00:06:49.553 --> 00:06:51.200
+"Kuş" sözü ile parlayan.
+
+00:06:51.824 --> 00:06:54.956
+Şimdi şu üç şeyi tasvir edeceğim--
+
+00:06:54.980 --> 00:06:59.676
+giriş pikselleri ve 
+sinir ağındaki sinapslar
+
+00:06:59.700 --> 00:07:01.285
+ve kuş yani çıktı verisi --

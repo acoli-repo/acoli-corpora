@@ -1,0 +1,35 @@
+WEBVTT
+
+00:09:59.120 --> 00:10:03.906
+I have to solve a puzzle --
+a random cryptographic puzzle.
+
+00:10:05.069 --> 00:10:07.480
+Imagine that we had 15 dice,
+
+00:10:07.504 --> 00:10:10.117
+and we were throwing these dice
+over and over again.
+
+00:10:10.603 --> 00:10:13.035
+Whenever the dice come up all sixes,
+
+00:10:13.059 --> 00:10:14.274
+we say that we win.
+
+00:10:15.095 --> 00:10:18.971
+This is very close to what these computers
+are all actually doing.
+
+00:10:18.995 --> 00:10:22.243
+They're trying over and over again
+to land on the right number.
+
+00:10:22.686 --> 00:10:24.043
+And when they do,
+
+00:10:24.067 --> 00:10:26.268
+we say that they've solved the puzzle.
+
+00:10:27.559 --> 00:10:29.999
+The computer that solves the puzzle

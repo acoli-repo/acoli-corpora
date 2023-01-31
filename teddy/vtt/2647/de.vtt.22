@@ -1,0 +1,36 @@
+WEBVTT
+
+00:10:58.285 --> 00:11:01.106
+wollte Alex Mordvintsev
+aus unserem Team herausfinden,
+
+00:11:01.106 --> 00:11:03.636
+was passiert, wenn wir nach x auflösen
+
+00:11:03.660 --> 00:11:05.697
+und w und y bekannt sind.
+
+00:11:06.074 --> 00:11:06.995
+Anders ausgedrückt:
+
+00:11:06.995 --> 00:11:08.651
+Sie wissen, dass es ein Vogel ist.
+
+00:11:08.675 --> 00:11:12.268
+Ihr neuronales Netzwerk
+ist schon auf Vögel trainiert,
+
+00:11:12.268 --> 00:11:14.596
+doch was ist das Bild eines Vogels?
+
+00:11:15.034 --> 00:11:20.058
+Tatsächlich kann man die gleiche
+Fehlerminimierungsstrategie 
+
+
+00:11:20.082 --> 00:11:23.512
+bei Netzwerken zum Erkennen 
+von Vögeln anwenden.
+
+00:11:23.536 --> 00:11:26.924
+Das Ergebnis ist ...

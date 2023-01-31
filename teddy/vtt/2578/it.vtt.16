@@ -1,0 +1,37 @@
+WEBVTT
+
+00:08:06.920 --> 00:08:09.936
+Quello che vedete
+è una versione precedente di Pleurobot
+
+00:08:09.960 --> 00:08:13.056
+completamente controllata
+dal nostro modello di spina dorsale
+
+00:08:13.080 --> 00:08:14.680
+programmata sul robot.
+
+00:08:15.280 --> 00:08:16.496
+L'unica cosa che facciamo
+
+00:08:16.520 --> 00:08:18.696
+è mandare al robot
+tramite un telecomando
+
+00:08:18.720 --> 00:08:21.216
+i due segnali discendenti
+che di solito riceve
+
+00:08:21.240 --> 00:08:22.840
+dalla parte superiore del cervello.
+
+00:08:23.480 --> 00:08:26.176
+La cosa interessante è che,
+giocando con questi segnali,
+
+00:08:26.200 --> 00:08:29.060
+possiamo controllare 
+velocità, direzione e tipo di andatura.
+
+00:08:29.600 --> 00:08:30.816
+Per esempio,

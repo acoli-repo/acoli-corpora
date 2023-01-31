@@ -1,0 +1,36 @@
+WEBVTT
+
+00:05:56.080 --> 00:06:00.010
+e confirmações antes de mandar
+o trabalho para a impressão.
+
+00:06:00.440 --> 00:06:05.536
+Fazer uma versão simples e funcional
+do que você está tentando construir
+
+00:06:05.560 --> 00:06:07.880
+te obriga a descobrir problemas chave.
+
+00:06:08.720 --> 00:06:13.120
+E permite que você encontre soluções
+para esses problemas com menor custo.
+
+00:06:13.720 --> 00:06:15.960
+Então eu decidi construir um protótipo.
+
+00:06:16.760 --> 00:06:21.336
+Fui para um terminal de vídeo conectado
+ao sistema de "time-sharing" da Harvard,
+
+00:06:21.360 --> 00:06:22.856
+e comecei a trabalhar.
+
+00:06:22.880 --> 00:06:26.136
+Um dos primeiros problemas
+que encontrei foi:
+
+00:06:26.160 --> 00:06:28.840
+como representar valores em fórmulas?
+
+00:06:29.280 --> 00:06:30.960
+Vou mostrar o que quero dizer.

@@ -1,0 +1,35 @@
+WEBVTT
+
+00:05:29.208 --> 00:05:32.248
+Elkerülhető az adatgyűjtés központosítása,
+
+00:05:32.308 --> 00:05:34.304
+a többszörös adatgyűjtés,
+
+00:05:34.382 --> 00:05:36.854
+és biztosítható a naprakészség.
+
+00:05:38.862 --> 00:05:40.888
+Ezzel az elosztott módszerrel
+
+00:05:40.922 --> 00:05:44.255
+elkerülhető az egyedi hibapont,
+a SPOF problémája.
+
+00:05:45.213 --> 00:05:49.875
+Mivel az adatgyűjtés nem ismételhető,
+
+00:05:50.406 --> 00:05:51.314
+ez azt jelenti,
+
+00:05:51.355 --> 00:05:53.399
+hogy a tervezésnek
+szem előtt kell tartania:
+
+00:05:53.423 --> 00:05:56.929
+az adatokhoz bármikor biztonságosan
+és biztosan hozzá lehessen férni,
+
+00:05:56.975 --> 00:06:00.183
+így téve a közintézmények
+szolgáltatásait elérhetővé.

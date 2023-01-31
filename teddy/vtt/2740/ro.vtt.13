@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:29.280 --> 00:06:31.700
+Să vă arăt ce vreau să spun.
+
+00:06:32.000 --> 00:06:34.176
+Eu credeam că dacă dai parametrii,
+
+00:06:34.200 --> 00:06:37.296
+scrii câteva cuvinte,
+apoi scrii câteva în altă parte,
+
+00:06:37.320 --> 00:06:40.844
+apoi pui nişte numere şi alte numere,
+indici unde vrei răspunsul,
+
+00:06:41.240 --> 00:06:44.456
+apoi indici pe primul, apeşi pe minus,
+indici pe al doilea,
+
+00:06:44.480 --> 00:06:45.680
+şi obţii rezultatul.
+
+00:06:46.360 --> 00:06:49.776
+Problema era: ce să scriu în formulă?
+
+00:06:49.800 --> 00:06:52.420
+Trebuia să fie ceva
+ce calculatorul să poată recunoaşte.
+
+00:06:52.444 --> 00:06:54.136
+Şi dacă te uitai la formulă,
+
+00:06:54.160 --> 00:06:57.160
+trebuia să ştii
+la ce punct de pe ecran se referă.
+
+00:06:57.840 --> 00:07:00.736
+M-am gândit mai întâi la modul 
+cum procedează programatorii.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:29.521 --> 00:06:31.085
+E eles alimentam
+
+00:06:31.085 --> 00:06:34.528
+camada por camada de neurônios,
+
+00:06:34.532 --> 00:06:37.509
+todas conectadas por sinapses
+de diferentes pesos.
+
+00:06:37.509 --> 00:06:39.004
+O comportamento dessa rede
+
+00:06:39.004 --> 00:06:42.312
+é caracterizado pelas forças
+de todas aquelas sinapses.
+
+00:06:42.312 --> 00:06:45.564
+Elas caracterizam as propriedades 
+computacionais dessa rede.
+
+00:06:45.568 --> 00:06:47.098
+E, no final das contas,
+
+00:06:47.098 --> 00:06:49.569
+você tem um neurônio,
+ou um grupo de neurônios,
+
+00:06:49.569 --> 00:06:51.860
+que ativam-se, dizendo "pássaro".
+
+00:06:51.860 --> 00:06:54.940
+Agora, representarei essas três coisas:
+
+00:06:54.940 --> 00:06:59.560
+a entrada de pixels 
+e as sinapses na rede neural,
+
+00:06:59.560 --> 00:07:04.465
+e o pássaro, a saída,
+através de três variáveis: x, w e y.

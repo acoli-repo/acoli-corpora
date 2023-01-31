@@ -1,0 +1,48 @@
+WEBVTT
+
+00:06:57.920 --> 00:07:00.936
+So for that we have a dry suit
+that we put all over the robot --
+
+00:07:00.960 --> 00:07:02.056
+(Laughter)
+
+00:07:02.080 --> 00:07:05.256
+and then we can go in water
+and start replaying the swimming gaits.
+
+00:07:05.280 --> 00:07:08.616
+And here, we were very happy,
+because this is difficult to do.
+
+00:07:08.640 --> 00:07:10.856
+The physics of interaction are complex.
+
+00:07:10.880 --> 00:07:13.296
+Our robot is much bigger
+than a small animal,
+
+00:07:13.320 --> 00:07:16.376
+so we had to do what's called
+dynamic scaling of the frequencies
+
+00:07:16.400 --> 00:07:18.736
+to make sure we had
+the same interaction physics.
+
+00:07:18.760 --> 00:07:21.176
+But you see at the end,
+we have a very close match,
+
+00:07:21.200 --> 00:07:23.080
+and we were very, very happy with this.
+
+00:07:23.480 --> 00:07:25.696
+So let's go to the spinal cord.
+
+00:07:25.720 --> 00:07:28.016
+So here what we did
+with Jean-Marie Cabelguen
+
+00:07:28.040 --> 00:07:30.280
+is model the spinal cord circuits.

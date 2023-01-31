@@ -1,0 +1,36 @@
+WEBVTT
+
+00:10:56.875 --> 00:11:00.062
+Cam acum un an, Alex Mordvintsev
+din echipa noastră,
+
+00:11:00.086 --> 00:11:03.636
+a hotărât să vadă ce se întâmplă
+dacă încercăm să descoperim x,
+
+00:11:03.660 --> 00:11:05.697
+când sunt date w şi y.
+
+00:11:06.124 --> 00:11:07.275
+Cu alte cuvinte,
+
+00:11:07.299 --> 00:11:08.651
+ştiţi că e o pasăre
+
+00:11:08.675 --> 00:11:11.978
+şi aveţi deja reţeaua neuronală
+care a fost pregătită pe păsări,
+
+00:11:12.002 --> 00:11:14.346
+dar ce este imaginea unei păsări?
+
+00:11:15.034 --> 00:11:20.058
+Folosind aceeaşi procedură
+de minimizare a erorii,
+
+00:11:20.082 --> 00:11:23.512
+se poate face asta cu reţeaua pregătită
+să recunoască păsări,
+
+00:11:23.536 --> 00:11:26.924
+iar rezultatul va fi...

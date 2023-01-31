@@ -1,0 +1,41 @@
+WEBVTT
+
+00:05:57.748 --> 00:06:03.013
+och sedan trycker de på vävnaden
+för att mäta elasticiteten i varje punkt.
+
+00:06:03.542 --> 00:06:05.933
+Vi kombinerar bilderna och mätdatat
+
+00:06:05.933 --> 00:06:09.409
+och får en matematisk beskrivning
+av mitt ben, som ni ser till vänster.
+
+00:06:09.409 --> 00:06:11.227
+Ser ni punkterna där strecken möts?
+
+00:06:11.227 --> 00:06:14.417
+Vid varje punkt finns en färg
+som motsvarar vävnadselasticiteten.
+
+00:06:14.431 --> 00:06:18.393
+Med hjälp av en matematisk transformation
+designas motsvarande syntetiska skinn,
+
+00:06:18.397 --> 00:06:19.956
+som ni ser till höger.
+
+00:06:19.956 --> 00:06:22.512
+Vi har kommit fram till följande optimum:
+
+00:06:22.516 --> 00:06:25.393
+där kroppen är hård
+ska de syntetiska skinnet vara mjukt,
+
+00:06:25.397 --> 00:06:28.907
+där kroppen är mjuk
+är det syntetiska skinnet styvt,
+
+00:06:28.907 --> 00:06:32.164
+och den här speglingen används
+för alla vävnadsapplikationer.

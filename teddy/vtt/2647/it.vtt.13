@@ -1,0 +1,44 @@
+WEBVTT
+
+00:06:29.601 --> 00:06:31.101
+Ed essi trasmettono
+
+00:06:31.125 --> 00:06:34.528
+da uno strato all'altro,
+
+00:06:34.552 --> 00:06:37.399
+tutti connessi da sinapsi di
+peso differente.
+
+00:06:37.399 --> 00:06:38.944
+Il comportamento
+di questa rete
+
+00:06:38.968 --> 00:06:42.252
+è caratterizzato dalle forze
+di tutte queste sinapsi.
+
+00:06:42.276 --> 00:06:45.564
+Esse caratterizzano le proprietà
+di calcolo di questa rete.
+
+00:06:45.588 --> 00:06:47.058
+E alla fine della giornata,
+
+00:06:47.082 --> 00:06:49.529
+abbiamo un neurone o 
+un piccolo gruppo di neuroni
+
+00:06:49.553 --> 00:06:51.790
+che si accendono e dicono "uccello".
+
+00:06:51.820 --> 00:06:54.956
+Adesso vi mostrerò
+queste tre cose:
+
+00:06:54.980 --> 00:06:59.676
+i pixel di input, le sinapsi
+nella rete neurale,
+
+00:06:59.700 --> 00:07:01.285
+e l'uccello, il risultato,

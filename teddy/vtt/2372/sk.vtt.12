@@ -1,0 +1,48 @@
+WEBVTT
+
+00:05:59.218 --> 00:06:01.272
+aby zmerali poddajnosť tkanív
+
+00:06:01.272 --> 00:06:03.349
+v každom anatomickom bode.
+
+00:06:03.349 --> 00:06:05.873
+Spojíme tieto zobrazovacie
+a robotické dáta
+
+00:06:05.873 --> 00:06:07.337
+a vytvoríme matematický opis
+
+00:06:07.337 --> 00:06:09.189
+mojej biologickej končatiny, vľavo.
+
+00:06:09.189 --> 00:06:11.138
+Vidíte skupinu bodov alebo uzlíkov.
+
+00:06:11.138 --> 00:06:14.117
+Každý uzlík je vo farbe,
+ktorá reprezentuje poddajnosť tkaniva.
+
+00:06:14.117 --> 00:06:16.280
+Podľa toho urobíme
+matematickú transformáciu
+
+00:06:16.280 --> 00:06:18.240
+pre dizajn syntetickej kože,
+
+00:06:18.240 --> 00:06:19.831
+obrázok napravo,
+
+00:06:19.831 --> 00:06:21.890
+a zistili sme, že je optimálne
+
+00:06:21.890 --> 00:06:25.132
+keď tam, kde je telo pevné,
+syntetická koža by mala byť mäkká,
+
+00:06:25.132 --> 00:06:28.848
+a tam, kde je telo mäkké,
+tak je syntetická koža pevná,
+
+00:06:28.848 --> 00:06:30.544
+a toto zrkadlové obrátenie funguje

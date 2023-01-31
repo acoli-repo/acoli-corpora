@@ -1,0 +1,42 @@
+WEBVTT
+
+00:05:59.366 --> 00:06:01.918
+O que está acontecendo entre os pixels,
+
+00:06:01.942 --> 00:06:05.954
+entre a imagem do pássaro
+e a palavra "pássaro",
+
+00:06:05.954 --> 00:06:08.772
+é sobretudo um grupo de neurônios
+conectados uns aos outros,
+
+00:06:08.772 --> 00:06:11.247
+em uma rede neural, conforme mostro aqui.
+
+00:06:11.258 --> 00:06:14.530
+Essa conexão neural poderia ser biológica,
+em nosso córtex visual,
+
+00:06:14.554 --> 00:06:16.680
+ou, atualmente, começamos
+a ter a capacidade
+
+00:06:16.680 --> 00:06:19.194
+de modelar tais conexões neurais
+no computador.
+
+00:06:19.834 --> 00:06:22.171
+Eu mostrarei com o que elas 
+realmente se parecem.
+
+00:06:22.171 --> 00:06:25.611
+Vocês podem pensar nos pixels como
+uma primeira camada de neurônios,
+
+00:06:25.611 --> 00:06:29.514
+que, na verdade, é como atuam no olho,
+são os neurônios na retina.
+
+00:06:29.521 --> 00:06:31.085
+E eles alimentam

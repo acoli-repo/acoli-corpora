@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:29.937 --> 00:08:31.666
+Can we predict a human face?
+
+00:08:33.014 --> 00:08:34.292
+It's a little complicated,
+
+00:08:34.316 --> 00:08:37.507
+because a human face is scattered
+among millions of these letters.
+
+00:08:37.531 --> 00:08:40.160
+And a human face is not
+a very well-defined object.
+
+00:08:40.184 --> 00:08:42.235
+So, we had to build an entire tier of it
+
+00:08:42.259 --> 00:08:44.969
+to learn and teach
+a machine what a face is,
+
+00:08:44.993 --> 00:08:47.030
+and embed and compress it.
+
+00:08:47.054 --> 00:08:49.302
+And if you're comfortable
+with machine learning,
+
+00:08:49.326 --> 00:08:51.610
+you understand what the challenge is here.
+
+00:08:52.108 --> 00:08:58.099
+Now, after 15 years -- 15 years after
+we read the first sequence --
+
+00:08:58.123 --> 00:09:01.025
+this October, we started
+to see some signals.

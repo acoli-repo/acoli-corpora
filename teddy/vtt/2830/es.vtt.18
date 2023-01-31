@@ -1,0 +1,38 @@
+WEBVTT
+
+00:08:58.540 --> 00:09:01.238
+Necesitamos una manera
+de explicar a nuestros algoritmos
+
+00:09:01.239 --> 00:09:02.758
+qué aspecto tienen las imágenes
+
+00:09:02.759 --> 00:09:06.043
+sin imponerles demasiadas
+características de un tipo de imagen.
+
+00:09:06.074 --> 00:09:07.806
+Una manera de resolver esto
+
+00:09:07.807 --> 00:09:10.987
+es imponer características
+de varios tipos de imágenes,
+
+00:09:10.988 --> 00:09:15.540
+y ver cómo el tipo de imagen que suponemos
+afecta a nuestras reconstrucciones.
+
+00:09:15.541 --> 00:09:18.929
+Si todos los tipos de imágenes
+producen imágenes similares,
+
+00:09:18.930 --> 00:09:21.094
+podemos empezar a estar seguros
+
+00:09:21.095 --> 00:09:25.358
+de que nuestras conjeturas
+no están deformando tanto la imagen.
+
+00:09:25.359 --> 00:09:31.319
+Es parecido a dar la misma descripción
+a tres artistas de diferentes lugares.

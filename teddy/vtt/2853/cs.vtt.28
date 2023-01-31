@@ -1,0 +1,34 @@
+WEBVTT
+
+00:13:57.600 --> 00:14:00.096
+Takže nepoužíá žádný LIDAR nebo radar.
+
+00:14:00.120 --> 00:14:04.610
+Jedná se pouze o pasivně řízenou optiku,
+což je v zásadě to, čím disponuje člověk.
+
+00:14:05.200 --> 00:14:07.906
+Celý systém zamýšlíme
+na silnicích navigovat
+
+00:14:07.926 --> 00:14:11.556
+prostřednictvím pasivní optiky a kamer.
+
+00:14:11.810 --> 00:14:16.866
+A jakmile jednou vyřešíte
+kamery a rozpoznávání,
+
+00:14:17.520 --> 00:14:19.216
+pak máte vyřešenu i autonomii.
+
+00:14:19.240 --> 00:14:21.980
+Dokud nemáte rozpoznávání,
+tak není vyřešena autonomie.
+
+00:14:22.160 --> 00:14:28.136
+Proto tolik usilujeme o to, abychom měli
+pro rozpoznávání neuronovou síť,
+
+00:14:28.160 --> 00:14:31.246
+která by byla velice efektivní
+v běžném provozu.

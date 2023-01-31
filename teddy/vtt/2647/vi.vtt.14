@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:59.700 --> 00:07:01.285
+và con chim ở đầu ra
+
+00:07:01.309 --> 00:07:04.366
+là ba biến số: X, W và Y.
+
+00:07:04.853 --> 00:07:06.664
+Biến X có thể có hàng triệu giá trị.
+
+00:07:06.688 --> 00:07:08.641
+nghĩa là hàng triệu điểm ảnh trong hình.
+
+00:07:08.665 --> 00:07:11.111
+Biến W có hàng tỉ hay cả ngàn tỉ giá trị,
+
+00:07:11.135 --> 00:07:14.556
+tương ứng với khối lượng khác nhau
+của toàn bộ xi-náp trong mạng nơron.
+
+00:07:14.580 --> 00:07:16.455
+Và với biến Y, chỉ có 4 giá trị,
+
+00:07:16.479 --> 00:07:18.337
+là số giá trị mà mạng nơron xuất ra.
+
+00:07:18.361 --> 00:07:20.110
+"B-i-r-d" có 4 kí tự đúng không?
+
+00:07:21.088 --> 00:07:24.514
+Giờ thì hãy giả sử ta có biểu thức
+đơn giản này:
+
+00:07:24.538 --> 00:07:26.701
+X "x" W =Y.
+
+00:07:26.725 --> 00:07:28.761
+Tôi đặt dấu nhân trong ngoặc kép
+
+00:07:28.785 --> 00:07:31.065
+vì đó mới là những gì 
+đang thực sự diễn ra,

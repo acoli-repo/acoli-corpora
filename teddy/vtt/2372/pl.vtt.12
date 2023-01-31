@@ -1,0 +1,44 @@
+WEBVTT
+
+00:05:59.218 --> 00:06:01.272
+aby zmierzyć jej odkształcenie
+
+00:06:01.272 --> 00:06:03.349
+w każdym punkcie anatomicznym.
+
+00:06:03.349 --> 00:06:05.873
+Połączyliśmy dane uzyskane z obu urządzeń,
+
+00:06:05.873 --> 00:06:09.267
+aby stworzyć matematyczny opis
+biologicznej kończyny, widoczny po lewej.
+
+00:06:09.267 --> 00:06:11.138
+Widać grupę punktów i węzłów,
+
+00:06:11.138 --> 00:06:14.117
+każdy węzeł ma kolor
+reprezentujący odkształcenie tkanki.
+
+00:06:14.117 --> 00:06:16.120
+Po wykonaniu transformacji matematycznej
+
+00:06:16.120 --> 00:06:19.840
+otrzymaliśmy projekt
+sztucznej skóry, pokazanej po prawej.
+
+00:06:19.840 --> 00:06:22.390
+Ustaliliśmy, że najbardziej
+optymalnie byłoby
+
+00:06:22.390 --> 00:06:25.192
+stworzyć miękką skórę tam,
+gdzie ciało jest sztywne
+
+00:06:25.192 --> 00:06:28.848
+i sztywną skórę tam,
+gdzie ciało jest miękkie.
+
+00:06:28.848 --> 00:06:32.384
+To odzwierciedlanie
+występuje na całej powierzchni tkanki.

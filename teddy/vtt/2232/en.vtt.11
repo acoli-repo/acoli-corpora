@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:29.292 --> 00:05:32.393
+making sure we avoid
+centralization of data,
+
+00:05:32.417 --> 00:05:34.184
+duplication of data,
+
+00:05:34.208 --> 00:05:37.208
+and guarantee that it's
+actually up to date.
+
+00:05:38.792 --> 00:05:42.268
+This distributed approach
+also avoids the problem
+
+00:05:42.292 --> 00:05:45.059
+of the single point of failure.
+
+00:05:45.083 --> 00:05:48.226
+But since the data cannot be replicated,
+
+00:05:48.250 --> 00:05:50.351
+or collected more than once,
+
+00:05:50.375 --> 00:05:53.309
+it means that the design
+has to keep in mind
+
+00:05:53.333 --> 00:05:56.851
+secure and robust access
+to that information at all times,
+
+00:05:56.875 --> 00:06:00.083
+so the public institution
+can offer a service.

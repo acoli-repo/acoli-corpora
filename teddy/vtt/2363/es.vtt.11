@@ -1,0 +1,49 @@
+WEBVTT
+
+00:05:28.825 --> 00:05:33.289
+Haciendo esto, 
+hemos recogido 5000 contraseñas,
+
+00:05:33.289 --> 00:05:35.984
+y dimos a la gente una serie 
+de diferentes políticas
+
+00:05:35.984 --> 00:05:37.492
+para crear contraseñas.
+
+00:05:37.492 --> 00:05:39.402
+Algunas personas debían aplicar 
+una política bastante fácil,
+
+00:05:39.402 --> 00:05:40.941
+la llamamos Basic8,
+
+00:05:40.941 --> 00:05:43.087
+y ahí la única regla es que la contraseña
+
+00:05:43.087 --> 00:05:46.503
+debía tener al menos ocho caracteres.
+
+00:05:46.503 --> 00:05:48.754
+Otras personas tenían que aplicar 
+una política mucho más dura,
+
+00:05:48.754 --> 00:05:51.291
+y esto era muy similar 
+a la política de CMU,
+
+00:05:51.291 --> 00:05:53.225
+es decir, ocho caracteres
+
+00:05:53.225 --> 00:05:55.601
+incluyendo mayúsculas, 
+minúsculas, dígitos, símbolo,
+
+00:05:55.601 --> 00:05:57.990
+y pasar una verificación de diccionario.
+
+00:05:57.990 --> 00:05:59.325
+Y una de las otras políticas que probamos,
+
+00:05:59.325 --> 00:06:00.595
+y había un montón más,

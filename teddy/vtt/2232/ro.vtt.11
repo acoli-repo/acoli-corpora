@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:29.292 --> 00:05:32.393
+asigurându-ne că evităm
+centralizarea datelor,
+
+00:05:32.417 --> 00:05:34.184
+duplicarea acestora,
+
+00:05:34.208 --> 00:05:37.208
+și garantează 
+că sunt de fapt actualizate.
+
+00:05:38.792 --> 00:05:41.638
+Această abordare distribuită,
+evită de asemenea
+
+00:05:41.638 --> 00:05:45.059
+problema punctului unic de eșec.
+
+00:05:45.083 --> 00:05:48.226
+Dar, deoarece datele nu pot fi reproduse
+
+00:05:48.250 --> 00:05:50.351
+sau colectate de mai multe ori,
+
+00:05:50.375 --> 00:05:53.309
+înseamnă că proiectarea 
+trebuie să aibă în minte
+
+00:05:53.333 --> 00:05:56.851
+accesul robust și sigur 
+la aceste informații în orice moment,
+
+00:05:56.875 --> 00:06:00.083
+încât instituția publică
+să poată oferi un serviciu.

@@ -1,0 +1,41 @@
+WEBVTT
+
+00:08:28.568 --> 00:08:31.979
+sino que identifica las especies 
+de pájaros con una red de este tipo.
+
+00:08:32.890 --> 00:08:34.690
+Así que en ese cuadro,
+
+00:08:34.690 --> 00:08:38.216
+la X y la W son conocidas, 
+y la Y es la desconocida.
+
+00:08:38.216 --> 00:08:41.123
+Estoy pasando por alto 
+la parte más difícil, por supuesto,
+
+00:08:41.123 --> 00:08:44.943
+que es cómo demonios 
+podemos averiguar la W,
+
+00:08:44.943 --> 00:08:47.130
+cómo puede el cerebro hacerlo.
+
+00:08:47.130 --> 00:08:49.868
+¿Cómo podríamos llegar a aprender 
+un modelo de este tipo?
+
+00:08:49.868 --> 00:08:52.651
+Este proceso de aprendizaje 
+de despejar W,
+
+00:08:52.675 --> 00:08:55.322
+si lo hacemos con una simple ecuación
+
+00:08:55.346 --> 00:08:57.346
+en la que pensamos en ellos como números,
+
+00:08:57.370 --> 00:09:00.097
+sabemos exactamente 
+cómo hacer eso: 6 = 2 x W,

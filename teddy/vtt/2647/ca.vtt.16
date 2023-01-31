@@ -1,0 +1,47 @@
+WEBVTT
+
+00:07:58.723 --> 00:08:02.050
+De fet, en realitat es tracta
+d'un problema relativament senzill.
+
+00:08:02.074 --> 00:08:04.260
+Multiplicant 2 vegades 3
+estaria resolt.
+
+00:08:04.862 --> 00:08:06.985
+Els ensenyaré
+una xarxa neuronal artificial,
+
+00:08:07.009 --> 00:08:09.305
+que hem construït fa poc,
+seguint aquesta idea.
+
+00:08:09.634 --> 00:08:12.494
+Això s'executa en temps real
+des d'un telèfon mòbil,
+
+00:08:12.518 --> 00:08:15.831
+la qual cosa ja és, en si,
+prou sorprenent;
+
+00:08:15.855 --> 00:08:19.323
+el fet que telèfons mòbils facin
+milers de milions i bilions d'operacions,
+
+00:08:19.347 --> 00:08:20.595
+en uns pocs segons.
+
+00:08:20.619 --> 00:08:22.234
+El que veuen és un telèfon,
+
+00:08:22.258 --> 00:08:25.805
+mirant una per una
+imatges d'ocells.
+
+00:08:25.829 --> 00:08:28.544
+De fet, no només mirant
+i dient "Sí, és un ocell",
+
+00:08:28.568 --> 00:08:31.979
+sinó també identificant-ne l'espècie d'au
+per mitjà d'aquesta xarxa.

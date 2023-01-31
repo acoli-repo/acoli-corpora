@@ -1,0 +1,45 @@
+WEBVTT
+
+00:04:57.854 --> 00:05:00.476
+Egyik ilyen példa a fehérjék hajtogatása.
+
+00:05:00.476 --> 00:05:02.138
+Van tehát itt egy interfészünk,
+
+00:05:02.138 --> 00:05:05.402
+egy fehérjén lévő fizikai fogantyúk,
+
+00:05:05.402 --> 00:05:07.153
+amelyeket megfogva,
+
+00:05:07.153 --> 00:05:10.140
+a fehérjét különféle módon tudjuk 
+mozgatni és hajtogatni.
+
+00:05:10.140 --> 00:05:13.140
+Ha olyan módon hajtogatjuk, 
+aminek nincs értelme
+
+00:05:13.140 --> 00:05:15.107
+a háttérben futó szimuláció szerint,
+
+00:05:15.107 --> 00:05:17.309
+akkor ezt fizikai visszacsatolás jelzi,
+
+00:05:17.309 --> 00:05:19.282
+azaz a fogantyúk
+
+00:05:19.282 --> 00:05:20.890
+ellenállnak a mozgatásnak.
+
+00:05:20.890 --> 00:05:22.421
+Azt megérezni, hogy mi történik
+
+00:05:22.421 --> 00:05:24.660
+a molekuláris szimuláció belsejében,
+
+00:05:24.660 --> 00:05:27.606
+egy gyökeresen új interaktivitást jelent.
+
+00:05:27.606 --> 00:05:30.587
+Most kezdjük csak felfedezni,

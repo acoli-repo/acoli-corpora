@@ -1,0 +1,25 @@
+WEBVTT
+
+00:06:25.600 --> 00:06:31.296
+(Pljesak)
+
+00:06:31.320 --> 00:06:36.256
+No, željeli smo napraviti detekciju 
+još dostupnijom i korisnijom
+
+00:06:36.280 --> 00:06:40.336
+pa smo kombinacijom optimizacije modela,
+
+00:06:40.360 --> 00:06:42.656
+binarizacije mreže i aproksimacije
+
+00:06:42.680 --> 00:06:46.600
+dobili detekciju objekata
+koja radi na mobitelu.
+
+00:06:52.800 --> 00:06:58.120
+(Pljesak)
+
+00:06:58.960 --> 00:07:04.016
+A ja sam stvarno uzbuđen 
+jer sada imamo moćno rješenje

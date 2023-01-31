@@ -1,0 +1,49 @@
+WEBVTT
+
+00:07:25.890 --> 00:07:30.356
+and how we use this to reconstruct
+and verify our results.
+
+00:07:30.380 --> 00:07:32.876
+Since there are an infinite number
+of possible images
+
+00:07:32.900 --> 00:07:35.265
+that perfectly explain
+our telescope measurements,
+
+00:07:35.289 --> 00:07:37.894
+we have to choose
+between them in some way.
+
+00:07:37.918 --> 00:07:39.756
+We do this by ranking the images
+
+00:07:39.780 --> 00:07:42.614
+based upon how likely they are
+to be the black hole image,
+
+00:07:42.638 --> 00:07:45.120
+and then choosing the one
+that's most likely.
+
+00:07:45.144 --> 00:07:47.339
+So what do I mean by this exactly?
+
+00:07:47.862 --> 00:07:49.840
+Let's say we were trying to make a model
+
+00:07:49.864 --> 00:07:53.047
+that told us how likely an image
+were to appear on Facebook.
+
+00:07:53.071 --> 00:07:54.772
+We'd probably want the model to say
+
+00:07:54.796 --> 00:07:58.353
+it's pretty unlikely that someone
+would post this noise image on the left,
+
+00:07:58.377 --> 00:08:00.796
+and pretty likely that someone
+would post a selfie

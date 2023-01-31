@@ -1,0 +1,44 @@
+WEBVTT
+
+00:07:58.723 --> 00:08:02.050
+Como podemos ver, isto é de facto
+um problema relativamente simples.
+
+00:08:02.074 --> 00:08:04.260
+Multiplicamos duas vezes três
+e está feito.
+
+00:08:04.862 --> 00:08:06.985
+Vou mostrar uma rede neural artificial
+
+00:08:07.009 --> 00:08:09.715
+que construímos há pouco tempo,
+fazendo exatamente isso.
+
+00:08:09.715 --> 00:08:12.494
+Isto está a correr em tempo real
+num telemóvel
+
+00:08:12.518 --> 00:08:15.831
+e, claro, é incrível, só por si,
+
+00:08:15.855 --> 00:08:18.627
+que os telemóveis possam fazer
+milhares de milhões ou
+
+00:08:18.647 --> 00:08:20.595
+ou biliões de operações por segundo.
+
+00:08:20.619 --> 00:08:22.374
+O que estamos a ver é um telemóvel
+
+00:08:22.374 --> 00:08:25.805
+a olhar para figuras de aves,
+umas atrás das outras,
+
+00:08:25.829 --> 00:08:28.544
+a dizer: "Sim, isto é uma ave",
+
+00:08:28.568 --> 00:08:31.979
+e também a identificar as espécies de aves
+com uma rede deste tipo.

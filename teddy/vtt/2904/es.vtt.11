@@ -1,0 +1,39 @@
+WEBVTT
+
+00:05:30.320 --> 00:05:31.576
+Y esto es genial.
+
+00:05:31.600 --> 00:05:34.776
+Y todo el procesamiento 
+está sucediendo en tiempo real
+
+00:05:34.800 --> 00:05:36.390
+en la computadora portátil.
+
+00:05:37.080 --> 00:05:38.536
+Y es importante recordar
+
+00:05:38.560 --> 00:05:42.276
+que se trata de un sistema de 
+detección de objetos de propósito general,
+
+00:05:42.276 --> 00:05:46.800
+así que podemos entrenar esto 
+para cualquier dominio de la imagen.
+
+00:05:48.320 --> 00:05:50.856
+El mismo código que usamos
+
+00:05:50.880 --> 00:05:53.336
+para encontrar señales 
+de stop o de peatones,
+
+00:05:53.360 --> 00:05:55.336
+bicicletas en un vehículo autodirigido,
+
+00:05:55.360 --> 00:05:58.216
+puede usarse 
+para encontrar células cancerosas
+
+00:05:58.240 --> 00:06:01.256
+en una biopsia de tejido.

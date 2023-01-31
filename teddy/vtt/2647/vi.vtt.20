@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:58.825 --> 00:10:01.282
+Rồi sau đó máy tính sẽ như 
+chơi trò bịt mắt bắt dê,
+
+00:10:01.282 --> 00:10:03.623
+và đuổi theo lỗi cho đến khi nó
+gần chạm tới 0.
+
+00:10:03.647 --> 00:10:06.151
+Nó sẽ tiến dần về giá trị đúng của W.
+
+
+00:10:06.151 --> 00:10:10.701
+Thật ra sẽ không có giá trị hoàn toàn
+chính xác, nhưng sau mười mấy lần,
+
+00:10:10.725 --> 00:10:15.349
+chúng ta có được W = 2.999,
+là giá trị gần đúng nhất.
+
+00:10:16.302 --> 00:10:18.116
+Và đây chính là quá trình học tập.
+
+00:10:18.140 --> 00:10:20.870
+Hãy nhớ điều đang diễn ra 
+từ nãy đến giờ
+
+00:10:20.894 --> 00:10:25.272
+là cách thức chúng ta sử dụng rất nhiều
+giá trị đã biết của X và Y
+
+00:10:25.296 --> 00:10:28.750
+để tìm ra mối quan tâm của ta là W,
+thông qua quá trình lặp đi lặp lại.
+
+00:10:28.774 --> 00:10:32.330
+Đó cũng chính là phương pháp
+học tập của chúng ta.

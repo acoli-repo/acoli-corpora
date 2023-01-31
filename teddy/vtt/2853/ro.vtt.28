@@ -1,0 +1,31 @@
+WEBVTT
+
+00:13:57.606 --> 00:14:00.126
+Nu folosim LIDAR sau radar.
+
+00:14:00.126 --> 00:14:04.160
+Folosim doar optica pasivă,
+adică ce folosește și un om.
+
+00:14:05.200 --> 00:14:11.986
+Se poate circula pe toate drumurile
+cu optică pasivă sau camere,
+
+00:14:11.986 --> 00:14:17.716
+iar odată ce reușești
+folosind camerele sau privirea,
+
+00:14:17.720 --> 00:14:19.256
+autonomia e soluționată.
+
+00:14:19.256 --> 00:14:22.130
+Dacă nu folosești privirea,
+nu-i soluționată.
+
+00:14:22.130 --> 00:14:28.146
+De asta ne concentrăm așa mult
+să avem o rețea neurală vizuală
+
+00:14:28.146 --> 00:14:31.396
+care să fie foarte eficientă
+în condiții de drum.

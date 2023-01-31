@@ -1,0 +1,49 @@
+WEBVTT
+
+00:05:58.490 --> 00:06:00.895
+if I could use them
+to teach my robots to see.
+
+00:06:00.919 --> 00:06:02.807
+So with this project,
+
+00:06:02.831 --> 00:06:04.798
+I thought about the gaze of the machine,
+
+00:06:04.822 --> 00:06:08.048
+and I began to think about vision
+as multidimensional,
+
+00:06:08.072 --> 00:06:09.672
+as views from somewhere.
+
+00:06:10.151 --> 00:06:11.985
+We collected video
+
+00:06:12.009 --> 00:06:15.072
+from publicly available
+camera feeds on the internet
+
+00:06:15.096 --> 00:06:16.786
+of people walking on the sidewalks,
+
+00:06:16.810 --> 00:06:18.522
+cars and taxis on the road,
+
+00:06:18.546 --> 00:06:20.363
+all kinds of urban movement.
+
+00:06:21.188 --> 00:06:23.791
+We trained a vision algorithm
+on those feeds
+
+00:06:23.815 --> 00:06:26.101
+based on a technique
+called "optical flow,"
+
+00:06:26.125 --> 00:06:28.102
+to analyze the collective density,
+
+00:06:28.126 --> 00:06:31.763
+direction, dwell and velocity states
+of urban movement.

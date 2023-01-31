@@ -1,0 +1,45 @@
+WEBVTT
+
+00:12:57.588 --> 00:13:02.016
+kind of cubist, surreal,
+psychedelic picture of me
+
+00:13:02.040 --> 00:13:03.846
+from multiple points of view at once.
+
+00:13:03.870 --> 00:13:06.604
+The reason it looks like
+multiple points of view at once
+
+00:13:06.628 --> 00:13:10.315
+is because that network is designed
+to get rid of the ambiguity
+
+00:13:10.339 --> 00:13:12.815
+of a face being in one pose
+or another pose,
+
+00:13:12.839 --> 00:13:16.215
+being looked at with one kind of lighting,
+another kind of lighting.
+
+00:13:16.239 --> 00:13:18.324
+So when you do
+this sort of reconstruction,
+
+00:13:18.348 --> 00:13:20.652
+if you don't use some sort of guide image
+
+00:13:20.676 --> 00:13:21.887
+or guide statistics,
+
+00:13:21.911 --> 00:13:25.676
+then you'll get a sort of confusion
+of different points of view,
+
+00:13:25.700 --> 00:13:27.068
+because it's ambiguous.
+
+00:13:27.786 --> 00:13:32.009
+This is what happens if Alex uses
+his own face as a guide image

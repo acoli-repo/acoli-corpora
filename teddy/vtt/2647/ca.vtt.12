@@ -1,0 +1,47 @@
+WEBVTT
+
+00:05:59.366 --> 00:06:01.918
+Així doncs, què passa entre els píxels,
+
+00:06:01.942 --> 00:06:05.970
+entre la imatge de l'ocell
+i la paraula "ocell",
+
+00:06:05.994 --> 00:06:08.808
+és, essencialment, 
+un conjunt de neurones interconnectades
+
+00:06:08.832 --> 00:06:09.987
+en una xarxa neuronal,
+
+00:06:10.011 --> 00:06:11.234
+Com mostra el diagrama.
+
+00:06:11.258 --> 00:06:14.530
+Aquesta xarxa neural pot ser biològica,
+dins el nostre còrtex visual,
+
+00:06:14.554 --> 00:06:16.716
+o, com hem començat
+a ser capaços de fer,
+
+00:06:16.740 --> 00:06:19.194
+modelar aquestes xarxes neurals
+a l'ordinador.
+
+00:06:19.834 --> 00:06:22.187
+Els ensenyaré quin aspecte té.
+
+00:06:22.211 --> 00:06:25.627
+Així, els píxels es poden entendre
+com una primera capa de neurones,
+
+00:06:25.651 --> 00:06:27.890
+que, de fet, és com funciona
+en el cas de l'ull,
+
+00:06:27.914 --> 00:06:29.577
+les neurones que hi ha a la retina.
+
+00:06:29.601 --> 00:06:31.101
+Una rere l'altra,

@@ -1,0 +1,39 @@
+WEBVTT
+
+00:08:58.937 --> 00:09:02.041
+Turime kažkaip nurodyti savo 
+algoritmams, kaip atrodo nuotraukos,
+
+00:09:02.065 --> 00:09:05.314
+pernelyg neprimetant vieno 
+nuotraukų ypatybių tipo.
+
+00:09:05.865 --> 00:09:07.848
+Vienas būdų, kaip galėtume tai išspręsti,
+
+00:09:07.848 --> 00:09:10.844
+yra įvairių vaizdų 
+tipų priskyrimas,
+
+00:09:10.868 --> 00:09:14.998
+o tada išsiaiškinti, kaip pateiktas 
+vaizdas veikia mūsų rekonstrukcijas.
+
+00:09:15.712 --> 00:09:19.203
+Jei visų nuotraukų tipai pateikia
+labai panašiai atrodantį atvaizdą,
+
+00:09:19.227 --> 00:09:21.284
+tuomet galime būti labiau tikri,
+
+00:09:21.308 --> 00:09:25.481
+kad mūsų daromos prielaidos apie
+atvaizdus nėra pernelyg šališkos.
+
+00:09:25.505 --> 00:09:28.495
+Tai šiek tiek panašu į
+to paties apibūdinimo pateikimą trims
+
+00:09:28.519 --> 00:09:31.635
+skirtingiems kriminalinės ekspertizės
+ekspertams iš viso pasaulio.

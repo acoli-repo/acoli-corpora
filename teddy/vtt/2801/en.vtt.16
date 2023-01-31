@@ -1,0 +1,50 @@
+WEBVTT
+
+00:07:59.320 --> 00:08:01.816
+digest the food, create electricity,
+
+00:08:01.840 --> 00:08:04.336
+use that electricity
+to move through the environment
+
+00:08:04.360 --> 00:08:05.576
+and keep doing this.
+
+00:08:05.600 --> 00:08:09.136
+OK, so let's see what happens
+when we run the Row-bot --
+
+00:08:09.160 --> 00:08:10.536
+when it does some rowing.
+
+00:08:10.560 --> 00:08:12.216
+Here we've got a couple of videos,
+
+00:08:12.240 --> 00:08:14.896
+the first thing you'll see --
+hopefully you can see here
+
+00:08:14.920 --> 00:08:16.216
+is the mouth open.
+
+00:08:16.240 --> 00:08:19.256
+The front mouth and the bottom mouth open,
+
+00:08:19.280 --> 00:08:20.816
+and it will stay opened enough,
+
+00:08:20.840 --> 00:08:22.856
+then the robot will start to row forward.
+
+00:08:22.880 --> 00:08:24.136
+It moves through the water
+
+00:08:24.160 --> 00:08:27.256
+so that food goes in
+as the waste products go out.
+
+00:08:27.280 --> 00:08:28.536
+Once it's moved enough,
+
+00:08:28.560 --> 00:08:31.496
+it stops and then it closes the mouth --

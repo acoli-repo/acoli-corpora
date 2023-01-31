@@ -1,0 +1,44 @@
+WEBVTT
+
+00:05:59.366 --> 00:06:01.918
+Ami a pixelek között történik,
+
+00:06:01.942 --> 00:06:05.970
+a madár képe és a "madár" szó között, 
+lényegében annyi,
+
+00:06:05.994 --> 00:06:07.952
+hogy az idegsejtek egy halmaza
+
+00:06:07.972 --> 00:06:09.987
+összekapcsolódott egy ideghálózatban,
+
+00:06:10.011 --> 00:06:11.234
+ahogy itt fölvázolom.
+
+00:06:11.258 --> 00:06:14.530
+Ez lehet egy élő sejtekből álló
+neuronhálózat a látókéregben,
+
+00:06:14.554 --> 00:06:16.716
+vagy annak egy számítógépe modellje,
+
+00:06:16.740 --> 00:06:19.194
+aminek elkészítésére ma már 
+kezdünk képesek lenni.
+
+00:06:19.834 --> 00:06:22.187
+Megmutatom, hogy néz ez ki.
+
+00:06:22.211 --> 00:06:25.627
+A képpontok fölfoghatók 
+az idegsejtek első rétegeként,
+
+00:06:25.651 --> 00:06:27.794
+és valóban így működik ez a szemben;
+
+00:06:27.814 --> 00:06:29.491
+ezek a recehártyán lévő idegsejtek.
+
+00:06:29.491 --> 00:06:31.381
+Aztán továbbadják a következő rétegnek,

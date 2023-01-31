@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:59.670 --> 00:07:01.269
+y el pájaro, la salida,
+
+00:07:01.269 --> 00:07:04.366
+con tres variables: X, W e Y.
+
+00:07:04.853 --> 00:07:06.648
+Hay tal vez un millón o más de X,
+
+00:07:06.648 --> 00:07:08.635
+un millón de píxeles en la imagen.
+
+00:07:08.635 --> 00:07:11.105
+Hay miles de millones o billones de W,
+
+00:07:11.105 --> 00:07:14.550
+que representan los pesos de todas 
+estas sinapsis en la red neuronal.
+
+00:07:14.550 --> 00:07:16.495
+Y hay un número muy pequeño de Y,
+
+00:07:16.495 --> 00:07:18.387
+de salidas que tiene esa red.
+
+00:07:18.387 --> 00:07:20.390
+"Pájaro" son solo seis letras, ¿verdad?
+
+00:07:21.088 --> 00:07:24.498
+Así que vamos a suponer 
+que esto es solo una fórmula simple,
+
+00:07:24.498 --> 00:07:26.695
+X "x" W = Y.
+
+00:07:26.695 --> 00:07:28.801
+Pongo la multiplicación entre comillas
+
+00:07:28.801 --> 00:07:31.115
+porque lo que realmente pasa allí, 
+por supuesto,

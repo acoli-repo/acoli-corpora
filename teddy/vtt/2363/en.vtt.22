@@ -1,0 +1,49 @@
+WEBVTT
+
+00:10:58.380 --> 00:11:02.547
+and we had the computer pick the random words
+
+00:11:02.547 --> 00:11:03.647
+in the pass phrase.
+
+00:11:03.647 --> 00:11:04.800
+Now the reason we did this
+
+00:11:04.800 --> 00:11:06.386
+is that humans are not very good
+
+00:11:06.386 --> 00:11:07.770
+at picking random words.
+
+00:11:07.770 --> 00:11:09.032
+If we asked a human to do it,
+
+00:11:09.032 --> 00:11:12.030
+they would pick things that were not very random.
+
+00:11:12.030 --> 00:11:14.062
+So we tried a few different conditions.
+
+00:11:14.062 --> 00:11:16.152
+In one condition, the computer picked
+
+00:11:16.152 --> 00:11:18.368
+from a dictionary of the very common words
+
+00:11:18.368 --> 00:11:19.730
+in the English language,
+
+00:11:19.730 --> 00:11:21.494
+and so you'd get pass phrases like
+
+00:11:21.494 --> 00:11:23.418
+"try there three come."
+
+00:11:23.418 --> 00:11:25.150
+And we looked at that, and we said,
+
+00:11:25.150 --> 00:11:28.200
+"Well, that doesn't really seem very memorable."
+
+00:11:28.200 --> 00:11:30.440
+So then we tried picking words

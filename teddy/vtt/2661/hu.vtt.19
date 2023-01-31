@@ -1,0 +1,39 @@
+WEBVTT
+
+00:09:30.023 --> 00:09:31.719
+Számítógépes kóddal rögzítik,
+
+00:09:31.743 --> 00:09:34.406
+a hálózatra világszerte csatlakoztatott
+
+00:09:34.430 --> 00:09:35.638
+több ezer számítógépen.
+
+00:09:37.235 --> 00:09:40.979
+Minden egyes számítógép 
+kollektíven megerősíti,
+
+00:09:41.003 --> 00:09:42.887
+hogy ki mennyi bitcoinnal rendelkezik.
+
+00:09:42.911 --> 00:09:46.324
+A bitcoin-blokklánc tehát
+a bitcoin működésének alapja.
+
+00:09:46.348 --> 00:09:49.253
+De hogyan hozzák létre az új bitcoinokat?
+
+00:09:49.930 --> 00:09:53.790
+Nos, a kódot úgy tervezték, 
+hogy egy mechanizmus alapján
+
+00:09:53.814 --> 00:09:55.111
+új bitcoint hozzon létre.
+
+00:09:55.680 --> 00:09:59.096
+Ez pedig úgy működik, 
+hogy a bitcoin megszerzéséhez
+
+00:09:59.120 --> 00:10:03.906
+egy – véletlenszerű kriptografikus – 
+feladványt kell megoldani.

@@ -1,0 +1,52 @@
+WEBVTT
+
+00:10:59.760 --> 00:11:01.376
+y el robot no se caerá,
+
+00:11:01.400 --> 00:11:02.976
+lo cual nos sorprendió.
+
+00:11:03.000 --> 00:11:04.596
+Hay una pequeña protuberancia.
+
+00:11:04.596 --> 00:11:06.630
+Esperaba que el robot 
+cayera de inmediato,
+
+00:11:06.630 --> 00:11:09.576
+porque no hay sensores, ni bucle 
+de retroalimentación rápida.
+
+00:11:09.576 --> 00:11:12.266
+Pero no, sencillamente la mecánica
+estabilizó la marcha,
+
+00:11:12.266 --> 00:11:13.536
+y el robot no se cayó.
+
+00:11:13.536 --> 00:11:16.296
+Obviamente, con escalones más grandes
+y con obstáculos,
+
+00:11:16.320 --> 00:11:19.976
+se necesitan bucles de control total,
+reflejos, y todo.
+
+00:11:20.000 --> 00:11:22.936
+Pero lo importante aquí es que
+para perturbaciones pequeñas,
+
+00:11:22.960 --> 00:11:24.456
+la mecánica es correcta.
+
+00:11:24.480 --> 00:11:26.756
+Y pienso que este es 
+un mensaje muy importante
+
+00:11:26.756 --> 00:11:29.291
+de la biomecánica y la robótica
+para la neurociencia:
+
+00:11:29.291 --> 00:11:33.495
+No hay que subestimar hasta qué punto
+el cuerpo ya ayuda a la locomoción.

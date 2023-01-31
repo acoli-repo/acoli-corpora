@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:28.568 --> 00:08:31.979
+e também a identificar as espécies de aves
+com uma rede deste tipo.
+
+00:08:32.890 --> 00:08:34.716
+Assim, nesta imagem,
+
+00:08:34.740 --> 00:08:38.542
+o x e o w são conhecidos,
+e o y é a incógnita.
+
+00:08:38.566 --> 00:08:41.074
+Claro, estou a encobrir
+a parte mais difícil,
+
+00:08:41.098 --> 00:08:44.959
+que é como podemos
+descobrir o valor de w,
+
+00:08:44.983 --> 00:08:47.170
+como é que o cérebro
+pode fazer tal coisa?
+
+00:08:47.194 --> 00:08:49.258
+Como poderemos
+aprender esse modelo?
+
+00:08:49.418 --> 00:08:52.651
+Este processo de aprendizagem,
+de encontrar o w,
+
+00:08:52.675 --> 00:08:55.322
+se estivéssemos a fazer isso
+com uma simples equação
+
+00:08:55.346 --> 00:08:57.346
+em que utilizamos números,
+
+00:08:57.370 --> 00:09:00.417
+sabemos exatamente como fazer isso:
+6 = 2 x w.

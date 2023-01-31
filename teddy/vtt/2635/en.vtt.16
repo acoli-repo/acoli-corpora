@@ -1,0 +1,31 @@
+WEBVTT
+
+00:08:00.354 --> 00:08:03.018
+OK, that was easy,
+
+00:08:03.042 --> 00:08:08.288
+but now what about if you have
+a big bunch of people who will testify?
+
+00:08:08.864 --> 00:08:10.216
+And this graph,
+
+00:08:10.240 --> 00:08:15.859
+I may think of it as all people
+who testify in a complicated crime case,
+
+00:08:15.883 --> 00:08:19.905
+but it may just as well be web pages
+pointing to each other,
+
+00:08:19.929 --> 00:08:22.000
+referring to each other for contents.
+
+00:08:22.878 --> 00:08:25.214
+Which ones are the most authoritative?
+
+00:08:25.587 --> 00:08:26.921
+Not so clear.
+
+00:08:28.091 --> 00:08:29.991
+Enter PageRank,

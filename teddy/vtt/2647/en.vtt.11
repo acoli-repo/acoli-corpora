@@ -1,0 +1,39 @@
+WEBVTT
+
+00:05:29.259 --> 00:05:31.609
+Let's talk for a moment
+
+00:05:31.633 --> 00:05:35.665
+about what a model for processing
+visual information would need to do.
+
+00:05:36.228 --> 00:05:38.969
+The basic task of perception
+
+00:05:38.993 --> 00:05:43.187
+is to take an image like this one and say,
+
+00:05:43.211 --> 00:05:44.387
+"That's a bird,"
+
+00:05:44.411 --> 00:05:47.285
+which is a very simple thing
+for us to do with our brains.
+
+00:05:47.309 --> 00:05:50.730
+But you should all understand
+that for a computer,
+
+00:05:50.754 --> 00:05:53.841
+this was pretty much impossible
+just a few years ago.
+
+00:05:53.865 --> 00:05:55.781
+The classical computing paradigm
+
+00:05:55.805 --> 00:05:58.312
+is not one in which
+this task is easy to do.
+
+00:05:59.366 --> 00:06:01.918
+So what's going on between the pixels,

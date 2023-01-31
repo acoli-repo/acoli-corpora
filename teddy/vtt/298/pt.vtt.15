@@ -1,0 +1,47 @@
+WEBVTT
+
+00:07:27.752 --> 00:07:30.113
+O problema deles é que exigem
+
+00:07:30.113 --> 00:07:32.353
+uma pontaria muito sofisticada.
+
+00:07:32.353 --> 00:07:34.899
+Temos que estar focados num alvo de 50 cm
+
+00:07:34.899 --> 00:07:36.651
+a uma distância de 950 km
+
+00:07:36.651 --> 00:07:39.253
+enquanto nos movimentamos 
+a mais de 7 km por segundo,
+
+00:07:39.253 --> 00:07:41.632
+o que exige um enorme grau
+de complexidade.
+
+00:07:41.632 --> 00:07:45.069
+Em vez disso, virámo-nos para uma 
+nova geração de sensores de vídeo
+
+00:07:45.069 --> 00:07:48.160
+inicialmente criados para uso 
+em óculos de visão noturna
+
+00:07:48.160 --> 00:07:51.059
+Em vez de tirar uma única imagem,
+de alta qualidade,
+
+00:07:51.059 --> 00:07:53.186
+podíamos fazer uma transmissão em vídeo
+
+00:07:53.186 --> 00:07:55.369
+de fotogramas com mais ruído
+individualmente,
+
+00:07:55.369 --> 00:07:58.573
+mas depois podíamos recombinar
+todos esses fotogramas em conjunto
+
+00:07:58.579 --> 00:08:00.535
+em imagens de muito alta qualidade.

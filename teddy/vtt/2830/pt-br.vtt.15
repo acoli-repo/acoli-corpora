@@ -1,0 +1,48 @@
+WEBVTT
+
+00:07:25.842 --> 00:07:30.308
+e como usamos isso para reconstruir
+e verificar nossos resultados.
+
+00:07:30.380 --> 00:07:32.660
+Como há um número infinito
+de imagens possíveis,
+
+00:07:32.660 --> 00:07:35.139
+que bem explicam
+as leituras do telescópio,
+
+00:07:35.139 --> 00:07:37.818
+temos que escolher
+entre elas de alguma forma.
+
+00:07:37.818 --> 00:07:39.756
+Fazemos isso classificando as imagens
+
+00:07:39.756 --> 00:07:42.590
+com base na probabilidade de serem
+imagens do buraco negro
+
+00:07:42.590 --> 00:07:45.072
+e escolhendo a mais provável.
+
+00:07:45.144 --> 00:07:47.419
+O que isso significa?
+
+00:07:47.862 --> 00:07:49.674
+Imaginem que tentamos montar um modelo
+
+00:07:49.674 --> 00:07:53.047
+que mostra a probabilidade
+de uma imagem aparecer no Facebook.
+
+00:07:53.047 --> 00:07:54.748
+Seria preferível que ele mostrasse
+
+00:07:54.748 --> 00:07:58.067
+que é bem improvável que alguém poste
+essa imagem ruidosa à esquerda,
+
+00:07:58.067 --> 00:08:01.666
+e que é bem provável que alguém poste
+uma "selfie" como a da direita.

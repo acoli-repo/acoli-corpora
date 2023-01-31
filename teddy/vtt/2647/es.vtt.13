@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:29.601 --> 00:06:31.101
+Y después avanzan
+
+00:06:31.125 --> 00:06:34.528
+de una capa a la otra, 
+y luego a otra capa de neuronas,
+
+00:06:34.552 --> 00:06:37.499
+todas conectadas 
+por sinapsis de diferentes pesos.
+
+00:06:37.499 --> 00:06:38.944
+El comportamiento de esta red
+
+00:06:38.968 --> 00:06:42.252
+se caracteriza por las fortalezas 
+de todas esas sinapsis.
+
+00:06:42.276 --> 00:06:45.528
+Estas caracterizan las propiedades 
+computacionales de esta red.
+
+00:06:45.528 --> 00:06:47.088
+Y al final
+
+00:06:47.088 --> 00:06:49.529
+una neurona o un pequeño grupo de neuronas
+
+00:06:49.553 --> 00:06:51.300
+da la luz, diciendo, "pájaro".
+
+00:06:51.824 --> 00:06:54.956
+Ahora voy a representar esas tres cosas:
+
+00:06:54.980 --> 00:06:59.670
+los píxeles de entrada, 
+las sinapsis en la red neuronal,
+
+00:06:59.670 --> 00:07:01.269
+y el pájaro, la salida,

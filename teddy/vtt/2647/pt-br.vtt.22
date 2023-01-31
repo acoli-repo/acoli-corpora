@@ -1,0 +1,36 @@
+WEBVTT
+
+00:10:57.180 --> 00:11:00.046
+Há aproximadamente um ano,
+Alex Mordvintsev, da nossa equipe,
+
+00:11:00.046 --> 00:11:03.636
+decidiu experimentar o que aconteceria
+se tentássemos encontrar x,
+
+00:11:03.640 --> 00:11:05.964
+conhecendo os valores de w e y.
+
+00:11:05.964 --> 00:11:07.069
+Em outras palavras,
+
+00:11:07.069 --> 00:11:08.731
+você sabe que isto é um pássaro,
+
+00:11:08.731 --> 00:11:11.978
+e já tem sua rede neural
+que treinou com pássaros,
+
+00:11:11.982 --> 00:11:14.346
+mas o que é a figura de um pássaro?
+
+00:11:15.034 --> 00:11:20.022
+Ocorre que, usando o mesmo
+procedimento de minimização de erros,
+
+00:11:20.022 --> 00:11:23.512
+pode-se fazer isso com a rede treinada
+para reconhecer pássaros
+
+00:11:23.516 --> 00:11:26.924
+e o resultado será...

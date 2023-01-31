@@ -1,0 +1,35 @@
+WEBVTT
+
+00:13:57.600 --> 00:14:00.096
+Ovde se ne koristi LIDAR, niti radar.
+
+00:14:00.120 --> 00:14:04.160
+Samo koristimo pasivnu optiku,
+a to u suštini ljudi koriste.
+
+00:14:05.200 --> 00:14:07.696
+Trebalo bi čitavim sistemom puteva
+da upravljamo
+
+00:14:07.720 --> 00:14:11.776
+pasivnom optikom ili kamerama,
+
+00:14:11.800 --> 00:14:15.136
+te čim rešite problem kamera
+
+00:14:15.160 --> 00:14:16.400
+ili vida,
+
+00:14:17.720 --> 00:14:19.246
+rešili ste samoupravljanje.
+
+00:14:19.246 --> 00:14:21.520
+Ako ne rešite problem vida,
+nemate rešenje.
+
+00:14:22.120 --> 00:14:28.136
+Stoga smo se toliko usredsredili
+na nabavku vizuelne neuronske mreže
+
+00:14:28.160 --> 00:14:31.376
+koja je veoma efikasna na putnim uslovima.

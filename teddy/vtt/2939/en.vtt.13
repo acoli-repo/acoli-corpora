@@ -1,0 +1,41 @@
+WEBVTT
+
+00:06:27.178 --> 00:06:31.539
+And we can use that same idea
+to create rules for robots.
+
+00:06:32.221 --> 00:06:35.382
+So here, you're going to see
+some simulated robots.
+
+00:06:35.406 --> 00:06:37.889
+So the simulated robot has a motion rule,
+
+00:06:37.913 --> 00:06:40.246
+which is how it traverses
+through the structure,
+
+00:06:40.270 --> 00:06:42.267
+looking for a place to fit in,
+
+00:06:42.291 --> 00:06:45.291
+and it has pattern rules
+where it looks at groups of blocks
+
+00:06:45.315 --> 00:06:47.520
+to decide whether to place a block.
+
+00:06:48.644 --> 00:06:51.707
+And with the right motion rules
+and the right pattern rules,
+
+00:06:51.731 --> 00:06:55.366
+we can actually get the robots
+to build whatever we want.
+
+00:06:56.197 --> 00:06:58.888
+And of course, everybody wants
+their own tower.
+
+00:06:59.350 --> 00:07:01.332
+(Laughter)

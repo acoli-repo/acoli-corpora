@@ -1,0 +1,38 @@
+WEBVTT
+
+00:08:58.773 --> 00:09:02.041
+Treba nam način na koji bismo
+algoritmima rekli kako slike izgledaju,
+
+00:09:02.065 --> 00:09:05.314
+a da istovremeno previše ne namećemo
+osobine jedne vrste slika.
+
+00:09:05.565 --> 00:09:07.758
+Jedan od načina
+na koji bismo to mogli riješiti
+
+00:09:07.782 --> 00:09:10.844
+jest da ubacimo osobine
+različitih vrsta slika
+
+00:09:10.868 --> 00:09:14.998
+i vidimo kako pretpostavljena vrsta slike
+utječe na naše rekonstrukcije.
+
+00:09:15.712 --> 00:09:19.203
+Ako sve vrste slika dovode
+do vrlo slične slike,
+
+00:09:19.227 --> 00:09:21.284
+možemo biti sigurniji
+
+00:09:21.308 --> 00:09:25.481
+da naše pretpostavke ne idu
+previše u prilog jednoj slici.
+
+00:09:25.505 --> 00:09:28.495
+To je donekle kao da date isti opis
+
+00:09:28.519 --> 00:09:31.515
+trima različitim crtačima diljem svijeta.

@@ -1,0 +1,44 @@
+WEBVTT
+
+00:07:30.380 --> 00:07:32.876
+Keďže existuje
+nekonečné množstvo možných fotiek,
+
+00:07:32.890 --> 00:07:35.239
+ktoré dokonale vysvetľujú
+naše merania teleskopmi,
+
+00:07:35.239 --> 00:07:37.828
+musíme si medzi nimi nejako vybrať.
+
+00:07:37.828 --> 00:07:39.636
+Robíme to tým, že obrázky hodnotíme
+
+00:07:39.636 --> 00:07:42.834
+podľa toho, ako veľmi je pravdepodobné,
+že vyzerajú ako čierna diera
+
+00:07:42.834 --> 00:07:45.570
+a potom vyberieme ten,
+ktorý má najväčšiu pravdepodobnosť.
+
+00:07:45.570 --> 00:07:47.339
+Čo presne tým myslím?
+
+00:07:47.862 --> 00:07:49.880
+Povedzme, že sa snažíme spraviť model,
+
+00:07:49.880 --> 00:07:53.107
+ktorý by nám povedal, ako sa asi fotka
+bude zobrazovať na Facebooku.
+
+00:07:53.107 --> 00:07:54.942
+Asi by sme chceli, aby model povedal,
+
+00:07:54.942 --> 00:07:58.207
+že je nepravdepodobné, že by niekto
+zverejnil zrnitý obrázok naľavo
+
+00:07:58.207 --> 00:08:01.520
+a pravdepodobné, že niekto
+by publikoval selfie ako tú napravo.

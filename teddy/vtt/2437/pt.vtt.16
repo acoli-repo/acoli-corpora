@@ -1,0 +1,42 @@
+WEBVTT
+
+00:07:57.125 --> 00:08:02.184
+Os algoritmos são, por definição, 
+conjuntos de regras ou passos
+
+00:08:02.208 --> 00:08:05.917
+que foram concebidos para alcançar 
+um resultado específico, OK?
+
+00:08:06.833 --> 00:08:09.859
+Mas estes conjuntos de regras ou passos
+não podem ser objetivos,
+
+00:08:09.873 --> 00:08:11.996
+porque foram concebidos
+por seres humanos
+
+00:08:12.010 --> 00:08:13.986
+dentro de um contexto cultural específico
+
+00:08:14.010 --> 00:08:16.610
+e são modelados
+por valores culturais específicos.
+
+00:08:16.667 --> 00:08:18.873
+Por isso quando as máquinas aprendem,
+
+00:08:18.897 --> 00:08:21.277
+aprendem a partir de algoritmos parciais,
+
+00:08:21.625 --> 00:08:25.071
+e muitas vezes aprendem também
+a partir de bases de dados parciais.
+
+00:08:25.833 --> 00:08:29.559
+De momento, estamos a ver os primeiros
+exemplos de viés algorítmico.
+
+00:08:29.713 --> 00:08:33.494
+E alguns destes exemplos
+são francamente aterradores.

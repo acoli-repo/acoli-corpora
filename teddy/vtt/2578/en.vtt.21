@@ -1,0 +1,41 @@
+WEBVTT
+
+00:10:29.080 --> 00:10:31.480
+of these three segments
+of the leg as pantograph.
+
+00:10:32.280 --> 00:10:35.056
+Now, what's interesting
+is that this quite dynamic gait
+
+00:10:35.080 --> 00:10:36.976
+is obtained purely in open loop,
+
+00:10:37.000 --> 00:10:40.136
+meaning no sensors,
+no complex feedback loops.
+
+00:10:40.160 --> 00:10:42.576
+And that's interesting, because it means
+
+00:10:42.600 --> 00:10:46.616
+that just the mechanics
+already stabilized this quite rapid gait,
+
+00:10:46.640 --> 00:10:50.816
+and that really good mechanics
+already basically simplify locomotion.
+
+00:10:50.840 --> 00:10:54.136
+To the extent that we can even
+disturb a bit locomotion,
+
+00:10:54.160 --> 00:10:55.816
+as you will see in the next video,
+
+00:10:55.840 --> 00:10:59.736
+where we can for instance do some exercise
+where we have the robot go down a step,
+
+00:10:59.760 --> 00:11:01.376
+and the robot will not fall over,

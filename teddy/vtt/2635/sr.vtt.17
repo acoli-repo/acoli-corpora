@@ -1,0 +1,35 @@
+WEBVTT
+
+00:08:30.015 --> 00:08:32.551
+jednom od kamena temeljaca Gugla.
+
+00:08:33.337 --> 00:08:37.579
+Ovaj algoritam koristi zakone
+matematičke nasumičnosti
+
+00:08:37.603 --> 00:08:41.460
+da automatski odredi
+najrelevantnije veb-stranice,
+
+00:08:41.484 --> 00:08:44.531
+na isti način kako smo
+koristili nasumičnost
+
+00:08:44.551 --> 00:08:47.311
+u eksperimentu Galtonove table.
+
+00:08:47.341 --> 00:08:49.682
+Onda, propustimo kroz ovaj grafik
+
+00:08:49.706 --> 00:08:52.556
+gomilu malih, digitalnih klikera
+
+00:08:52.580 --> 00:08:56.329
+i pustimo ih da idu nasumično kroz grafik.
+
+00:08:56.353 --> 00:08:58.020
+Svaki put kad su na nekom sajtu,
+
+00:08:58.044 --> 00:09:02.210
+izaći će sa tog sajta i preći na drugi
+koristeći se nekim nasumičnim linkom.

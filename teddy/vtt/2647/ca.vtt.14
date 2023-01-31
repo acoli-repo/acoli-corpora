@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:59.700 --> 00:07:01.285
+i l'ocell, el resultat;
+
+00:07:01.309 --> 00:07:04.366
+amb tres variables: x, w i y.
+
+00:07:04.877 --> 00:07:06.688
+Potser hi ha un milió o més de 'x',
+
+00:07:06.688 --> 00:07:08.641
+un milió de píxels a la imatge.
+
+00:07:08.665 --> 00:07:11.111
+Hi ha milers de milions de 'w',
+
+00:07:11.135 --> 00:07:14.556
+que representen els pesos de les sinapsis
+a la xarxa neuronal.
+
+00:07:14.580 --> 00:07:16.455
+Però hi ha un nombre molt petit de 'y',
+
+00:07:16.479 --> 00:07:18.337
+els resultats de la xarxa neuronal.
+
+00:07:18.361 --> 00:07:20.110
+"Bird" ['ocell'] són 4 lletres, oi?
+
+00:07:21.088 --> 00:07:24.514
+Plantegem-nos-ho
+com una fórmula senzilla:
+
+00:07:24.538 --> 00:07:26.701
+x "x" w = y
+
+00:07:26.725 --> 00:07:28.761
+Poso els temps entre cometes
+
+00:07:28.785 --> 00:07:31.065
+perquè el que passa realment,
+per descomptat,

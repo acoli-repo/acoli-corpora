@@ -1,0 +1,51 @@
+WEBVTT
+
+00:06:58.397 --> 00:07:00.294
+fare girare una funzione di hashing,
+
+00:07:00.294 --> 00:07:02.059
+e verificare se corrisponde o meno
+
+00:07:02.059 --> 00:07:06.009
+alle password elencate 
+nella loro lista di password rubate.
+
+00:07:06.009 --> 00:07:09.114
+Un hacker stupido proverà 
+tutte le password in ordine.
+
+00:07:09.114 --> 00:07:12.682
+Inizierà con AAAA 
+e proseguirà con AAAAB,
+
+00:07:12.682 --> 00:07:15.100
+e questo richiede molto tempo
+
+00:07:15.100 --> 00:07:16.626
+prima di trovare qualche password
+
+00:07:16.626 --> 00:07:19.793
+che è probabile venga 
+realmente usata dagli utenti.
+
+00:07:19.793 --> 00:07:21.506
+Gli hacker intelligenti, invece,
+
+00:07:21.506 --> 00:07:22.892
+agiscono in modo molto più intelligente.
+
+00:07:22.892 --> 00:07:24.718
+Guardano le password
+
+00:07:24.718 --> 00:07:26.518
+che sono popolari
+
+00:07:26.518 --> 00:07:28.245
+tra i set di password rubate,
+
+00:07:28.245 --> 00:07:29.434
+e provano quelle per prime.
+
+00:07:29.434 --> 00:07:31.568
+Inizieranno tirando a indovinare: 
+"password",

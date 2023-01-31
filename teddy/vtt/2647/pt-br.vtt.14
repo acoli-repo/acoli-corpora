@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:59.560 --> 00:07:04.465
+e o pássaro, a saída,
+através de três variáveis: x, w e y.
+
+00:07:04.853 --> 00:07:08.605
+Há um milhão ou mais de x,
+um milhão de pixels nesta imagem.
+
+00:07:08.605 --> 00:07:11.095
+Há bilhões ou trilhões de w,
+
+00:07:11.095 --> 00:07:14.556
+que representam o peso de todas 
+estas sinapses na rede neural.
+
+00:07:14.560 --> 00:07:18.095
+E há um número muito pequeno de y,
+de saídas que essa rede tem.
+
+00:07:18.095 --> 00:07:20.770
+"Pássaro" tem sete letras, certo?
+
+00:07:21.088 --> 00:07:24.498
+Então, vamos imaginar que esta
+seja apenas uma fórmula simples:
+
+00:07:24.498 --> 00:07:26.645
+x "x" w = y.
+
+00:07:26.645 --> 00:07:28.801
+O sinal de multiplicação fica entre aspas,
+
+00:07:28.801 --> 00:07:31.105
+porque, na verdade, 
+o que está acontecendo lá

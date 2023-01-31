@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:58.093 --> 00:08:00.656
+Este un model de învățare automată
+cu două rețele:
+
+00:08:00.680 --> 00:08:02.227
+un discriminator,
+
+00:08:02.251 --> 00:08:06.451
+al cărui scop este să determine
+dacă ceva este adevărat sau fals.
+
+00:08:06.475 --> 00:08:07.642
+și un generator,
+
+00:08:07.666 --> 00:08:10.816
+care creează știri artificiale.
+
+00:08:10.840 --> 00:08:15.942
+Așadar, generatorul sintetic
+creează o înregistrare video sau audio,
+
+00:08:15.966 --> 00:08:20.641
+iar discriminatorul încearcă să determine
+dacă este adevărată sau falsă.
+
+00:08:20.665 --> 00:08:23.539
+De fapt, obiectivul generatorului
+
+00:08:23.563 --> 00:08:27.998
+să maximizeze probabilitatea
+de a păcăli discriminatorul
+
+00:08:28.022 --> 00:08:31.609
+și de a-l face să creadă
+că acel conținut video sau audio creat

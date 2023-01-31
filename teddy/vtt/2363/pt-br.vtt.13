@@ -1,0 +1,48 @@
+WEBVTT
+
+00:06:28.991 --> 00:06:30.745
+da força de uma senha.
+
+00:06:30.745 --> 00:06:33.057
+e o que decidimos fazer foi observar
+
+00:06:33.057 --> 00:06:35.287
+quanto tempo demoraria
+para quebrar uma senha
+
+00:06:35.287 --> 00:06:37.281
+usando as melhores ferramentas de quebra
+
+00:06:37.281 --> 00:06:38.649
+que os vilões estão usando,
+
+00:06:38.649 --> 00:06:41.115
+ou sobre as quais conseguíamos
+encontrar informações
+
+00:06:41.115 --> 00:06:42.382
+na literatura de pesquisa.
+
+00:06:42.382 --> 00:06:44.960
+Então para dar uma ideia de como os vilões
+
+00:06:44.960 --> 00:06:47.130
+fazem para quebrar senhas,
+
+00:06:47.130 --> 00:06:49.081
+eles roubariam um arquivo de senhas
+
+00:06:49.081 --> 00:06:51.234
+que teria todas as senhas
+
+00:06:51.234 --> 00:06:54.123
+numa forma embaralhada chamada de <i>hash</i>
+
+00:06:54.123 --> 00:06:56.685
+e o que fariam é, eles chutariam
+
+00:06:56.685 --> 00:06:58.397
+o que uma senha seria,
+
+00:06:58.397 --> 00:07:00.444
+passariam-na por uma função <i>hash</i>

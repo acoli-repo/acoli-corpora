@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:59.041 --> 00:10:02.452
+Y luego, la computadora puede correr 
+una especie de Marco Polo,
+
+00:10:02.452 --> 00:10:04.093
+y reducir el error cercano a cero.
+
+00:10:04.093 --> 00:10:07.021
+A medida que lo hace, se logra 
+aproximaciones sucesivas a W.
+
+00:10:07.045 --> 00:10:10.701
+Por lo general, nunca llega allí, 
+pero tras una docena de pasos,
+
+00:10:10.725 --> 00:10:15.349
+estamos en W = 2.999, 
+que es lo suficientemente aproximado.
+
+00:10:16.302 --> 00:10:18.116
+Y este es el proceso de aprendizaje.
+
+00:10:18.140 --> 00:10:20.870
+Así que recuerden que
+
+00:10:20.894 --> 00:10:25.272
+hemos tomado muchas X e Y conocidas
+
+00:10:25.296 --> 00:10:28.750
+para resolver la W por medio 
+de un proceso iterativo.
+
+00:10:28.774 --> 00:10:32.330
+De la misma manera como 
+lo hacemos en nuestro propio aprendizaje.

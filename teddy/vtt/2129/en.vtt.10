@@ -1,0 +1,45 @@
+WEBVTT
+
+00:04:57.854 --> 00:05:00.476
+One example of those is protein folding.
+
+00:05:00.476 --> 00:05:01.888
+So here we have an interface
+
+00:05:01.888 --> 00:05:05.402
+where we have physical handles onto a protein,
+
+00:05:05.402 --> 00:05:07.153
+and we can grab those handles
+
+00:05:07.153 --> 00:05:10.140
+and try to move the protein and
+try to fold it in different ways.
+
+00:05:10.140 --> 00:05:13.140
+And if we move it in a way that
+doesn't really make sense
+
+00:05:13.140 --> 00:05:15.107
+with the underlying molecular simulation,
+
+00:05:15.107 --> 00:05:17.309
+we get this physical feedback where we can
+
+00:05:17.309 --> 00:05:19.282
+actually feel these physical handles
+
+00:05:19.282 --> 00:05:20.890
+pulling back against us.
+
+00:05:20.890 --> 00:05:22.421
+So feeling what's going on
+
+00:05:22.421 --> 00:05:24.660
+inside a molecular simulation
+
+00:05:24.660 --> 00:05:27.606
+is a whole different level of interaction.
+
+00:05:27.606 --> 00:05:30.587
+So we're just beginning to explore

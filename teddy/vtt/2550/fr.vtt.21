@@ -1,0 +1,31 @@
+WEBVTT
+
+00:10:29.640 --> 00:10:32.936
+au milieu, une caméra infrarouge ;
+
+00:10:32.960 --> 00:10:36.736
+et en bas, une caméra thermique.
+
+00:10:36.760 --> 00:10:40.096
+Sur l'écran principal, vous voyez
+la reconstruction en 3D
+
+00:10:40.120 --> 00:10:46.240
+de chaque arbre du verger,
+créée au fil de l'avancée des capteurs.
+
+00:10:47.640 --> 00:10:51.680
+Avec ces informations,
+nous pouvons faire de nombreuses choses.
+
+00:10:52.200 --> 00:10:56.456
+La première chose, qui est sans doute
+la plus importante, est très simple :
+
+00:10:56.480 --> 00:10:58.920
+compter le nombre de fruits
+sur chaque arbre.
+
+00:10:59.520 --> 00:11:04.056
+Quand l'agriculteur peut savoir combien
+de fruits il y a sur chaque arbre,

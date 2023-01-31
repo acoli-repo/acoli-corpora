@@ -1,0 +1,38 @@
+WEBVTT
+
+00:10:59.520 --> 00:11:04.056
+Böyle yaparak çiftçiye her ağaçtaki 
+meyve sayısını söylersiniz
+
+00:11:04.080 --> 00:11:08.336
+ve bahçedeki hâsılatı 
+tahmin etmesini sağlarsınız,
+
+00:11:08.360 --> 00:11:11.200
+bununla üretim zinciri boyunca 
+optimizasyon sağlarsınız.
+
+00:11:11.640 --> 00:11:13.256
+Yapabileceğimiz ikinci şey,
+
+00:11:13.280 --> 00:11:17.776
+bitkilerin modellerini almak, 
+üç boyutlu olarak yeniden oluşturmak
+
+00:11:17.800 --> 00:11:20.336
+ve böylece bitki örtüsünün 
+büyüklüğünü tahmin etmek,
+
+00:11:20.360 --> 00:11:24.136
+sonra örtünün büyüklüğünü her bitkideki 
+yaprak alanın miktarı ile ilintilemek.
+
+00:11:24.160 --> 00:11:26.336
+Buna yaprak alan indeksi denir.
+
+00:11:26.360 --> 00:11:28.326
+Eğer yaprak alanı indeksini biliyorsanız,
+
+00:11:28.326 --> 00:11:33.776
+aslında her bitkide ne kadar fotosentez 
+mümkün olduğuna dair ölçünüz olur,

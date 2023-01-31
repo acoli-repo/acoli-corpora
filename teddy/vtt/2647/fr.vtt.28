@@ -1,0 +1,38 @@
+WEBVTT
+
+00:13:57.877 --> 00:14:00.426
+C'est le cas dans cette démonstration.
+
+00:14:00.450 --> 00:14:04.503
+C'est un réseau conçu pour catégoriser
+
+00:14:04.527 --> 00:14:07.429
+toutes sortes d'objets : structures
+artificielles, animaux...
+
+00:14:07.453 --> 00:14:10.279
+Nous commençons avec une image de nuages
+
+00:14:10.303 --> 00:14:11.864
+et, en optimisant,
+
+00:14:11.888 --> 00:14:16.995
+ce réseau détermine
+ce qu'il voit dans les nuages.
+
+00:14:17.019 --> 00:14:19.413
+Et plus vous y passez de temps,
+
+00:14:19.437 --> 00:14:22.887
+plus vous verrez de choses
+dans les nuages.
+
+00:14:22.911 --> 00:14:26.514
+Vous pouvez utiliser le réseau entraîné
+aux visages pour halluciner dessus
+
+00:14:26.538 --> 00:14:28.223
+et obtenir un truc assez fou.
+
+00:14:28.247 --> 00:14:30.580
+(Rires)

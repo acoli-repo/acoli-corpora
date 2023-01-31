@@ -1,0 +1,46 @@
+WEBVTT
+
+00:06:29.241 --> 00:06:30.745
+puterea unei parole.
+
+00:06:30.745 --> 00:06:33.057
+Așa că am decis să vedem
+
+00:06:33.057 --> 00:06:35.427
+cât ar dura să spargem parolele
+
+00:06:35.427 --> 00:06:36.991
+folosind cele mai bune programe
+
+00:06:36.991 --> 00:06:38.649
+folosite de băieții răi,
+
+00:06:38.649 --> 00:06:40.665
+sau despre care am putut găsi informații
+
+00:06:40.665 --> 00:06:42.692
+în literatura de cercetare.
+
+00:06:42.692 --> 00:06:44.960
+Să vă faceți idee cum procedează
+
+00:06:44.960 --> 00:06:47.130
+băieții răi când sparg parolele:
+
+00:06:47.130 --> 00:06:49.081
+fură un fișier de parole
+
+00:06:49.081 --> 00:06:51.234
+care are toate parolele
+
+00:06:51.234 --> 00:06:54.123
+într-o formă codificată, numit haș,
+
+00:06:54.123 --> 00:06:56.685
+și încearcă să ghicească
+
+00:06:56.685 --> 00:06:58.397
+parola,
+
+00:06:58.397 --> 00:07:00.294
+o trec printr-o funcție de hașare

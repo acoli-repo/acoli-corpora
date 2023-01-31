@@ -1,0 +1,40 @@
+WEBVTT
+
+00:12:28.834 --> 00:12:31.276
+ou geração de imagem
+sobre essa superfície inteira,
+
+00:12:31.280 --> 00:12:34.226
+variando y sobre a superfície,
+você cria um mapa visual
+
+00:12:34.226 --> 00:12:37.275
+de todas as coisas
+que a rede consegue reconhecer.
+
+00:12:37.275 --> 00:12:40.200
+Todos os animas estão aqui;
+o tatu está bem naquele canto.
+
+00:12:40.919 --> 00:12:43.352
+Você também pode fazer isso 
+com outras redes.
+
+00:12:43.352 --> 00:12:46.280
+Essa é uma rede criada 
+para reconhecer faces,
+
+00:12:46.280 --> 00:12:48.320
+distinguir uma face de outra.
+
+00:12:48.324 --> 00:12:53.016
+E, aqui, colocamos um y que seria "eu",
+parâmetros da minha própria face.
+
+00:12:53.016 --> 00:12:57.908
+E quando essa rede encontra x,
+ela gera essa imagem doida,
+
+00:12:57.908 --> 00:13:02.016
+um estilo cubismo, surreal,
+uma figura psicodélica de mim

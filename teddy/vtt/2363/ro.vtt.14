@@ -1,0 +1,47 @@
+WEBVTT
+
+00:06:58.397 --> 00:07:00.294
+o trec printr-o funcție de hașare
+
+00:07:00.294 --> 00:07:02.059
+și văd dacă se potrivește
+
+00:07:02.059 --> 00:07:06.009
+cu parolele de pe lista de parole furate.
+
+00:07:06.009 --> 00:07:09.114
+Un atacator prost va încerca 
+fiecare parolă la rând.
+
+00:07:09.114 --> 00:07:12.682
+Va începe cu AAAAA și va trece la AAAAB,
+
+00:07:12.682 --> 00:07:15.100
+și îi va lua o groază de timp
+
+00:07:15.100 --> 00:07:16.626
+până să obțină o parolă
+
+00:07:16.626 --> 00:07:19.323
+foarte probabil ca utilizatorii s-o aibă.
+
+00:07:19.323 --> 00:07:21.506
+Un atacator deștept, pe de altă parte,
+
+00:07:21.506 --> 00:07:23.262
+face ceva mult mai inteligent.
+
+00:07:23.262 --> 00:07:24.718
+Se uită la parolele
+
+00:07:24.718 --> 00:07:26.518
+despre care se știe că sunt des întâlnite
+
+00:07:26.518 --> 00:07:28.245
+din seturile de parole furate,
+
+00:07:28.245 --> 00:07:29.784
+și le ghicește întâi pe acelea.
+
+00:07:29.784 --> 00:07:31.568
+Începe prin a ghici „parolă",

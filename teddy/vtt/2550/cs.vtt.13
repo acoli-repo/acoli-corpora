@@ -1,0 +1,31 @@
+WEBVTT
+
+00:06:29.360 --> 00:06:30.656
+A v každém z nich
+
+00:06:30.680 --> 00:06:36.296
+musíte počítat se souhrou
+vnímání, komunikace a výpočtů –
+
+00:06:36.320 --> 00:06:41.280
+a celá síť je pak
+poměrně složitá na řízení a správu.
+
+00:06:42.160 --> 00:06:45.456
+Z přírody jsme převzali
+tři organizační principy,
+
+00:06:45.480 --> 00:06:48.640
+které nám v podstatě stačí
+k vývoji našich algoritmů.
+
+00:06:49.640 --> 00:06:54.176
+První idea je, že roboti
+musí vědět o svých sousedech.
+
+00:06:54.200 --> 00:06:57.640
+Musí své sousedy umět vnímat
+a komunikovat s nimi.
+
+00:06:58.040 --> 00:07:00.696
+Toto video ilustruje základní ideu.

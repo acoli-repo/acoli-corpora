@@ -1,0 +1,44 @@
+WEBVTT
+
+00:08:57.370 --> 00:09:00.477
+akkor pontosan tudjuk, 
+miként kell a 6 = 2 * w -t megoldani.,
+
+00:09:00.477 --> 00:09:03.393
+mindkét oldalt 2-vel kell osztani.
+
+00:09:04.001 --> 00:09:06.221
+A bökkenő ezzel az operátorral van.
+
+00:09:06.823 --> 00:09:07.974
+Osztás...
+
+00:09:07.998 --> 00:09:11.119
+Azért osztást alkalmaztunk,
+mert ez a szorzás inverze,
+
+00:09:11.143 --> 00:09:12.583
+de ahogy már mondtam,
+
+00:09:12.607 --> 00:09:15.056
+itt nem igazi szorzásról van szó.
+
+00:09:15.080 --> 00:09:18.406
+Ez itt egy igen kacifántos,
+nemlineáris művelet;
+
+00:09:18.430 --> 00:09:20.134
+és nincs inverze.
+
+00:09:20.158 --> 00:09:23.308
+Rá kell jönnünk, milyen módszerrel 
+oldható meg az egyenlet
+
+00:09:23.332 --> 00:09:25.356
+osztási művelet nélkül.
+
+00:09:25.380 --> 00:09:27.723
+A módszer elég egyszerű.
+
+00:09:27.747 --> 00:09:30.418
+Alkalmazzunk egy kis algebrai trükköt,
