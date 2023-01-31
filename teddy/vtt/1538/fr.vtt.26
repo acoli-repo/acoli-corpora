@@ -1,0 +1,54 @@
+WEBVTT
+
+00:12:57.821 --> 00:13:00.210
+Le code ressemble passablement
+à tout autre code
+
+00:13:00.210 --> 00:13:02.448
+dans ce système.
+
+00:13:02.448 --> 00:13:04.849
+Alors il se peut que je ne trouve pas 
+le code qui contrôle la batterie,
+
+00:13:04.849 --> 00:13:06.860
+mais il y a plein de choses 
+qui y sont similaires.
+
+00:13:06.860 --> 00:13:08.714
+Vous avez le code 
+qui contrôle votre écran,
+
+00:13:08.714 --> 00:13:10.930
+qui contrôle vos boutons, 
+qui contrôle vos micros,
+
+00:13:10.930 --> 00:13:12.858
+alors même si je ne peux pas trouver 
+le code de la batterie,
+
+00:13:12.858 --> 00:13:15.103
+je parie que je peux trouver 
+un de ces trucs.
+
+00:13:15.103 --> 00:13:17.808
+Donc l'étape suivante dans 
+l'analyse du processus binaire
+
+00:13:17.808 --> 00:13:19.039
+est de regarder les bouts d'informations
+
+00:13:19.039 --> 00:13:21.057
+qui sont similaires entre eux.
+
+00:13:21.057 --> 00:13:25.040
+C'est vraiment, vraiment difficile 
+à faire au niveau binaire,
+
+00:13:25.040 --> 00:13:28.683
+par contre, si on traduit ces similarités 
+en abstractions visuelles,
+
+00:13:28.683 --> 00:13:31.121
+je n'ai même pas besoin de trier 
+les données brutes.

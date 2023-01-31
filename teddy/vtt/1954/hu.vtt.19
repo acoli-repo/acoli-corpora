@@ -1,0 +1,22 @@
+WEBVTT
+
+00:09:29.950 --> 00:09:34.406
+Harmadszor, ki kell számítani a kvad mozgáspályáját
+
+00:09:34.406 --> 00:09:37.430
+az adott helyétől addig a pontig, ahol elvileg ütközni fog a labdával.
+
+00:09:37.430 --> 00:09:41.239
+Negyedszer, 20 ms időtartamig követjük a kiszámolt stratégiát.
+
+00:09:41.239 --> 00:09:44.046
+Húsz milliszekundum múlva megismételjük az egészet,
+
+00:09:44.046 --> 00:09:46.289
+míg a kvad ténylegesen el nem éri a labdát.
+
+00:09:55.560 --> 00:09:58.206
+(Taps)
+
+00:09:58.206 --> 00:10:01.578
+A gépek tehát önállóan képesek dinamikai manőverezésre,

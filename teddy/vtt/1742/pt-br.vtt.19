@@ -1,0 +1,41 @@
+WEBVTT
+
+00:09:27.642 --> 00:09:30.425
+e todos os algoritmos de estoque
+simplesmente funcionam.
+
+00:09:30.425 --> 00:09:33.501
+Neste exemplo dá para ver que o estoque
+
+00:09:33.501 --> 00:09:36.867
+ocupou todo o perímetro do prédio
+
+00:09:36.867 --> 00:09:39.213
+porque é onde as 
+estações de coleta estão.
+
+00:09:39.213 --> 00:09:41.231
+Eles ordenaram-se por si mesmos.
+
+00:09:41.231 --> 00:09:43.518
+Então eu vou concluir com um último vídeo
+
+00:09:43.518 --> 00:09:46.502
+que mostra como isso vai afetar
+
+00:09:46.502 --> 00:09:50.096
+um dia real na vida de um separador.
+
+00:09:50.096 --> 00:09:54.432
+Como mencionamos, o processo é
+mover o estoque pelas vias
+
+00:09:54.432 --> 00:09:57.084
+e encontrar o caminho até
+as estações de separação.
+
+00:09:57.084 --> 00:09:59.555
+E nosso software roda por trás
+
+00:09:59.555 --> 00:10:02.306
+e entende o que acontece em cada estação,

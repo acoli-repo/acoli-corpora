@@ -1,0 +1,35 @@
+WEBVTT
+
+00:07:27.964 --> 00:07:30.112
+Udało mi się spisać zestaw zasad
+
+00:07:30.112 --> 00:07:33.507
+pozwalających tłumaczyć 
+tę reprezentację na angielski.
+
+00:07:33.507 --> 00:07:37.578
+Udoskonaliłem to, stworzyłem system
+zwany silnikiem FreeSpeech,
+
+00:07:37.578 --> 00:07:40.781
+który bierze dowolne zdanie
+FreeSpeech jako dane wejściowe
+
+00:07:40.781 --> 00:07:44.061
+i tworzy perfekcyjnie
+gramatyczny angielski tekst.
+
+00:07:44.061 --> 00:07:47.556
+Łącząc te dwie rzeczy,
+reprezentację i silnik,
+
+00:07:47.556 --> 00:07:51.343
+mogłem stworzyć
+aplikację dla autystycznych dzieci,
+
+00:07:51.343 --> 00:07:57.772
+dostarczającą im nie tylko słowa,
+ale również gramatykę.
+
+00:07:57.772 --> 00:08:00.143
+Wypróbowałem to z autystycznymi dziećmi

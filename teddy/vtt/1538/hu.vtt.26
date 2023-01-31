@@ -1,0 +1,45 @@
+WEBVTT
+
+00:12:57.821 --> 00:13:00.210
+Az a kód nagyon hasonlít 
+a rendszerben lévő
+
+00:13:00.210 --> 00:13:02.448
+többi kódra.
+
+00:13:02.448 --> 00:13:04.849
+Így lehet, hogy nem találom meg 
+a vezérlőkódot,
+
+00:13:04.849 --> 00:13:06.860
+amelyre sok minden nagyon hasonlít.
+
+00:13:06.860 --> 00:13:08.714
+Van képernyővezérlő,
+
+00:13:08.714 --> 00:13:10.930
+billentyűvezérlő, mikrofonvezérlő kód,
+
+00:13:10.930 --> 00:13:12.858
+így ha nem is lelem meg az akkuvezérlőt,
+
+00:13:12.858 --> 00:13:15.103
+valamelyiket biztos.
+
+00:13:15.103 --> 00:13:17.808
+A bináris elemzésem következő lépése,
+
+00:13:17.808 --> 00:13:19.039
+hogy megfigyeljem
+
+00:13:19.039 --> 00:13:21.057
+az egymásra hasonlító infókat.
+
+00:13:21.057 --> 00:13:25.040
+Nagyon-nagyon nehéz lenne bináris alakban,
+
+00:13:25.040 --> 00:13:28.683
+de ha átalakítjuk őket képi absztrakcióvá,
+
+00:13:28.683 --> 00:13:31.121
+nem kell a nyers adatokat átböngésznem.

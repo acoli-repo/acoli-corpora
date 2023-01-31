@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:56.000 --> 00:06:01.000
+Quindi, potevamo raccogliere luce con un'apparecchiatura fissa per circa due ore e mezza al giorno.
+
+00:06:01.000 --> 00:06:04.000
+Le celle solari però catturano luce per quattro ore e mezza.
+
+00:06:04.000 --> 00:06:06.000
+In un giorno medio, una cella solare --
+
+00:06:06.000 --> 00:06:08.000
+poiché il sole si sposta nel cielo --
+
+00:06:08.000 --> 00:06:11.000
+una cella solare e' soggetta ad un calo di prestazione dall'andamento sinusoidale
+
+00:06:11.000 --> 00:06:13.000
+ad angoli d'incidenza fuori asse.
+
+00:06:13.000 --> 00:06:15.000
+Raccoglie in media circa quattro ore e mezza di luce al giorno.
+
+00:06:15.000 --> 00:06:18.000
+Quindi, perfino questo, sebbene fosse eccezionale per un dispositivo fisso --
+
+00:06:18.000 --> 00:06:20.000
+riuscivamo a raggiungere alte temperature -- non era sufficiente.
+
+00:06:20.000 --> 00:06:22.000
+Dovevamo battere le celle solari.
+
+00:06:22.000 --> 00:06:24.000
+Considerammo allora un'altra idea.
+
+00:06:24.000 --> 00:06:27.000
+Pensammo al modo di aprire la parabola in singoli petali mobili.
+
+00:06:27.000 --> 00:06:30.000
+Quelli che vedete quì sono 12 petali separati,
+
+00:06:30.000 --> 00:06:33.000
+ognuno dei quali potrebbe essere controllato da un singolo microprocessore

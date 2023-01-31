@@ -1,0 +1,34 @@
+WEBVTT
+
+00:09:57.000 --> 00:10:00.000
+onde algumas vezes você deseja um UM e você recebe um ZERO,
+
+00:10:00.000 --> 00:10:02.000
+existe redundância na rede
+
+00:10:02.000 --> 00:10:05.000
+que pode recuperar a informação perdida.
+
+00:10:05.000 --> 00:10:08.000
+Isto torna o cérebro inerentemente robusto.
+
+00:10:08.000 --> 00:10:11.000
+O que você tem aqui é um sistema onde você armazena dados localmente.
+
+00:10:11.000 --> 00:10:15.000
+E é frágil, porque cada um destes passos precisa ser perfeito,
+
+00:10:15.000 --> 00:10:18.000
+senão você perde seu dado. Enquanto no cérebro, você tem um sistema
+
+00:10:18.000 --> 00:10:22.000
+que armazena dados de maneira distribuída, e robusta.
+
+00:10:22.000 --> 00:10:26.000
+O que eu basicamente quero contar é sobre meu sonho,
+
+00:10:26.000 --> 00:10:29.000
+que é construir um computador que funciona como o cérebro.
+
+00:10:29.000 --> 00:10:33.000
+Isto é algo que temos trabalhado nos últimos dois anos.

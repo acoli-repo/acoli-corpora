@@ -1,0 +1,47 @@
+WEBVTT
+
+00:12:57.083 --> 00:13:00.634
+D'abord, comme je l'ai expliqué, 
+si on demande à un ordinateur
+
+00:13:00.634 --> 00:13:03.713
+« Est-ce que ce nombre est premier ? » ,
+en l'écrivant en abrégé,
+
+00:13:03.713 --> 00:13:07.915
+on n'obtient pas plus de six lignes de code 
+pour vérifier la primalité d'un nombre,
+
+00:13:07.915 --> 00:13:10.236
+c'est une question particulièrement simple à poser.
+
+00:13:10.236 --> 00:13:13.249
+Avec une réponse particulièrement claire : 
+oui ou non,
+
+00:13:13.249 --> 00:13:15.806
+qui ne requiert qu'un phénoménal acharnement.
+
+00:13:15.806 --> 00:13:17.975
+Les grands nombres premiers 
+sont un excellent moyen de tester
+
+00:13:17.975 --> 00:13:20.608
+la vitesse et la précision des processeurs.
+
+00:13:20.608 --> 00:13:23.409
+Deuxièmement, lorsque Curtis Cooper s'est mis
+à la recherche de ce nombre premier géant,
+
+00:13:23.409 --> 00:13:25.334
+il n'était pas le seul.
+
+00:13:25.334 --> 00:13:26.519
+A la maison, mon PC portable passe en revue
+
+00:13:26.519 --> 00:13:28.794
+quatre candidats premiers potentiels
+
+00:13:28.794 --> 00:13:32.450
+dans le cadre d'une traque en réseau
+de ces grands nombres premiers

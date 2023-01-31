@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:28.000 --> 00:08:30.000
+about how the scaffolding of vision
+
+00:08:30.000 --> 00:08:32.000
+gets set up.
+
+00:08:32.000 --> 00:08:34.000
+What might be the causal connections
+
+00:08:34.000 --> 00:08:36.000
+between the early developing skills
+
+00:08:36.000 --> 00:08:38.000
+and the later developing ones?
+
+00:08:38.000 --> 00:08:40.000
+And we've used this general approach to study
+
+00:08:40.000 --> 00:08:43.000
+many different visual proficiencies,
+
+00:08:43.000 --> 00:08:47.000
+but I want to highlight one particular one,
+
+00:08:47.000 --> 00:08:50.000
+and that is image parsing into objects.
+
+00:08:50.000 --> 00:08:52.000
+So, any image of the kind that you see on the left,
+
+00:08:52.000 --> 00:08:55.000
+be it a real image or a synthetic image,
+
+00:08:55.000 --> 00:08:57.000
+it's made up of little regions
+
+00:08:57.000 --> 00:08:59.000
+that you see in the middle column,
+
+00:08:59.000 --> 00:09:02.000
+regions of different colors, different luminances.

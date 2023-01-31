@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:59.642 --> 00:06:03.323
+unde putem lăsa comentarii pe site.
+
+00:06:03.323 --> 00:06:06.330
+Mulţi probabil aţi mai folosit ceva asemănător în trecut.
+
+00:06:06.330 --> 00:06:08.277
+Din păcate, atunci când acest formular a fost implementat,
+
+00:06:08.277 --> 00:06:10.702
+dezvoltatorul web a fost un pic ameţit
+
+00:06:10.702 --> 00:06:11.944
+şi a uitat cam toate
+
+00:06:11.944 --> 00:06:14.933
+codările de securitate pe care le-a învăţat.
+
+00:06:14.933 --> 00:06:17.999
+Aşadar, să ne imaginăm că atacatorul nostru,
+
+00:06:17.999 --> 00:06:21.447
+să-l numim Atacatorul cel Rău, doar aşa de distracţie,
+
+00:06:21.447 --> 00:06:23.470
+inserează aici ceva mai puţin drăguţ.
+
+00:06:23.470 --> 00:06:25.169
+Acesta este un script.
+
+00:06:25.169 --> 00:06:29.246
+Este un cod care va fi interpretat pe pagina web.
+
+00:06:29.246 --> 00:06:31.571
+Am să postez acest cod

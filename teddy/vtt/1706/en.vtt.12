@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:59.642 --> 00:06:03.323
+where we can submit comments to the website.
+
+00:06:03.323 --> 00:06:06.330
+Many of you will have used something a bit like this before.
+
+00:06:06.330 --> 00:06:08.277
+Unfortunately, when this was implemented,
+
+00:06:08.277 --> 00:06:10.702
+the developer was slightly inebriated
+
+00:06:10.702 --> 00:06:11.944
+and managed to forget
+
+00:06:11.944 --> 00:06:14.933
+all of the secure coding practices he had learned.
+
+00:06:14.933 --> 00:06:17.999
+So let's imagine that our attacker,
+
+00:06:17.999 --> 00:06:21.447
+called Evil Hacker just for comedy value,
+
+00:06:21.447 --> 00:06:23.470
+inserts something a little nasty.
+
+00:06:23.470 --> 00:06:25.169
+This is a script.
+
+00:06:25.169 --> 00:06:29.246
+It's code which will be interpreted on the webpage.
+
+00:06:29.246 --> 00:06:31.571
+So I'm going to submit this post,

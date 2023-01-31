@@ -1,0 +1,31 @@
+WEBVTT
+
+00:09:57.778 --> 00:10:00.921
+Questa lunga stringa di numeri e lettere
+
+00:10:00.921 --> 00:10:05.996
+identifica in maniera univoca ogni singolo cambiamento,
+
+00:10:05.996 --> 00:10:08.853
+ma senza coordinamento centrale.
+
+00:10:08.853 --> 00:10:13.342
+Tutti i sistemi Git generano questo numero nello stesso modo,
+
+00:10:13.342 --> 00:10:16.684
+il che significa che questa firma è direttamente e indissolubilmente
+
+00:10:16.684 --> 00:10:19.834
+legata ad un particolare cambiamento.
+
+00:10:19.834 --> 00:10:21.770
+Questo ha il seguente effetto:
+
+00:10:21.770 --> 00:10:25.448
+Un programmatore a Edimburgo e un programmatore a Entebbe
+
+00:10:25.448 --> 00:10:29.150
+possono ricevere entrambi una copia dello stesso software.
+
+00:10:29.150 --> 00:10:32.976
+Ognuno di loro può fare cambiamenti e possono unirli

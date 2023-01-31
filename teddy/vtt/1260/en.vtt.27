@@ -1,0 +1,43 @@
+WEBVTT
+
+00:13:27.000 --> 00:13:30.000
+we can now open up the same concepts
+
+00:13:30.000 --> 00:13:33.000
+and look at much larger groups of people.
+
+00:13:33.000 --> 00:13:36.000
+This is a subset of data from our database --
+
+00:13:36.000 --> 00:13:39.000
+just 50,000 out of several million --
+
+00:13:39.000 --> 00:13:41.000
+and the social graph that connects them
+
+00:13:41.000 --> 00:13:44.000
+through publicly available sources.
+
+00:13:44.000 --> 00:13:46.000
+And if you put them on one plain,
+
+00:13:46.000 --> 00:13:49.000
+a second plain is where the content lives.
+
+00:13:49.000 --> 00:13:52.000
+So we have the programs
+
+00:13:52.000 --> 00:13:54.000
+and the sporting events
+
+00:13:54.000 --> 00:13:56.000
+and the commercials,
+
+00:13:56.000 --> 00:13:58.000
+and all of the link structures that tie them together
+
+00:13:58.000 --> 00:14:00.000
+make a content graph.
+
+00:14:00.000 --> 00:14:04.000
+And then the important third dimension.

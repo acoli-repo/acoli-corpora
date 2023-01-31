@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:29.000 --> 00:06:32.000
+Le but était ici qu'en moins d'une minute, quelqu'un puisse reproduire
+
+00:06:32.000 --> 00:06:36.000
+ce qu'un graphiste ou dessinateur aurait mis plusieurs semaine à créer.
+
+00:06:36.000 --> 00:06:38.000
+Ok, maintenant je lui met des mains.
+
+00:06:38.000 --> 00:06:40.000
+Voilà, nous avons crée ensemble une petite creature.
+
+00:06:40.000 --> 00:06:45.000
+Laissez moi lui ajouter une petite arme au bout de la queue afin qu'il puisse se battre.
+
+00:06:45.000 --> 00:06:48.000
+Donc, voilà notre modèle définitif. On peux maintenant passer à l'étape coloration.
+
+00:06:48.000 --> 00:06:51.000
+A cette étape, le programme peut comprendre le type de
+
+00:06:51.000 --> 00:06:53.000
+topologie de cette créature. Il sait où se situe le squelette,
+
+00:06:53.000 --> 00:06:55.000
+et où sont la colonne vertébrale et les membres.
+
+00:06:55.000 --> 00:06:57.000
+Il sait comment les rayures devraient se mettre, la façon de gérer les ombres,
+
+00:06:57.000 --> 00:06:59.000
+et donc, nous générons pas à pas la carte des textures --
+
+00:06:59.000 --> 00:07:02.000
+et c'est quelque chose qu'un spécialiste des textures pourrait mettre beaucoup, beaucoup de temps à faire.

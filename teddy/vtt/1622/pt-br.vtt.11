@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:27.323 --> 00:05:30.061
+fizeram simulações por computador do que acontece
+
+00:05:30.061 --> 00:05:33.492
+quando estimativas vagas se combinam, até no tráfego leve,
+
+00:05:33.492 --> 00:05:36.116
+quando carros apenas compartilham informações de GPS,
+
+00:05:36.116 --> 00:05:38.629
+e nós deslocamos essa pesquisa para fora da simulação por computador
+
+00:05:38.629 --> 00:05:41.656
+e para dentro de simuladores robóticos que possuem os mesmos sensores
+
+00:05:41.656 --> 00:05:44.789
+que estão nos carros hoje nesses robôs:
+
+00:05:44.789 --> 00:05:46.627
+câmeras estéreo, GPS,
+
+00:05:46.627 --> 00:05:48.501
+e os lasers bidimensionais de análise de distância
+
+00:05:48.501 --> 00:05:50.741
+que são comuns em sistemas de backup.
+
+00:05:50.741 --> 00:05:55.225
+Nós também adicionamos um discreto rádio de ondas curtas,
+
+00:05:55.225 --> 00:05:57.134
+e os robôs conversam entre si.
+
+00:05:57.134 --> 00:05:58.673
+Quando esses robôs se encontram,
+
+00:05:58.673 --> 00:06:01.644
+eles rastreiam a posição de cada um deles precisamente,

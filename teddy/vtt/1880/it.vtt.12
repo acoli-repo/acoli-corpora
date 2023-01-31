@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:59.335 --> 00:06:01.324
+in modo da rendere la carta interattiva.
+
+00:06:01.324 --> 00:06:02.755
+È davvero molto semplice.
+
+00:06:02.755 --> 00:06:05.688
+Si tratta solamente di un insieme di cose che sono già state fatte prima,
+
+00:06:05.688 --> 00:06:07.847
+ma messe insieme in un modo diverso.
+
+00:06:07.847 --> 00:06:10.527
+Abbiamo un pezzo di carta con dell'inchiostro conduttivo,
+
+00:06:10.527 --> 00:06:15.140
+poi ci aggiungiamo un piccolo circuito con un paio di chip,
+
+00:06:15.140 --> 00:06:17.206
+uno per far funzionare un software ad interfaccia touch capacitivo,
+
+00:06:17.206 --> 00:06:18.585
+in modo da sapere dove abbiamo toccato,
+
+00:06:18.585 --> 00:06:21.388
+e l'altro per far funzionare, molto spesso,
+
+00:06:21.388 --> 00:06:25.351
+dei software wireless in modo che il pezzo di carta riesca a connettersi.
+
+00:06:25.351 --> 00:06:28.758
+Vi descriverò solo un paio di cose che abbiamo creato.
+
+00:06:28.758 --> 00:06:30.448
+Abbiamo creato molte cose diverse.

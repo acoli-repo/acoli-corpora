@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.250 --> 00:12:03.390
+Quer sem atraso, caso em que a luz
+apenas faria cócegas na palma da mão,
+
+00:12:03.440 --> 00:12:07.000
+quer com um atraso
+de 2 ou 3 décimos de segundo.
+
+00:12:07.590 --> 00:12:10.400
+O importante aqui é que a mão direita
+
+00:12:10.400 --> 00:12:12.920
+faz sempre a mesma coisa
+— movimento sinusoidal.
+
+00:12:12.920 --> 00:12:15.580
+A mão esquerda, a mesma coisa,
+faz cócegas sinusoidais
+
+00:12:15.580 --> 00:12:17.820
+Estamos só a jogar
+com uma causalidade temporal.
+
+00:12:17.820 --> 00:12:21.820
+Quando passamos de 0 para 0,1 segundos,
+provoca mais cócegas.
+
+00:12:22.030 --> 00:12:25.240
+Quando passamos de 0,1 para 0,2,
+provoca mais cócegas no final.
+
+00:12:25.290 --> 00:12:27.450
+E pelos 2 décimos de segundo,
+
+00:12:27.450 --> 00:12:29.820
+faz cócegas equivalentes
+às provocadas pelo robô
+
+00:12:29.820 --> 00:12:32.070
+que apenas nos fez cócegas
+sem fazermos nada.

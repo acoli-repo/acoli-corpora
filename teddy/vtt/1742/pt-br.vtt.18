@@ -1,0 +1,38 @@
+WEBVTT
+
+00:08:59.008 --> 00:09:02.901
+e agora estão sendo separados para 
+muitos pedidos nas estações.
+
+00:09:02.901 --> 00:09:07.064
+Agora dois dias depois,
+todos os doces, os que sobraram,
+
+00:09:07.064 --> 00:09:09.337
+migraram para o fundo do depósito
+
+00:09:09.337 --> 00:09:13.630
+e estão ocupando a área mais fria
+desse mapa térmico.
+
+00:09:13.630 --> 00:09:17.113
+Outro efeito colateral dessa abordagem
+de processamento paralelo
+
+00:09:17.113 --> 00:09:20.108
+é que essas coisas podem ser escaladas
+de forma gigantesca.
+
+00:09:20.108 --> 00:09:21.635
+(Risos)
+
+00:09:21.635 --> 00:09:25.239
+Então, usando duas, 20 ou 
+200 estações de separação,
+
+00:09:25.239 --> 00:09:27.642
+o algoritmo de planejamento de rotas
+
+00:09:27.642 --> 00:09:30.425
+e todos os algoritmos de estoque
+simplesmente funcionam.

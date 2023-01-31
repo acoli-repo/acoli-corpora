@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:30.000
+Ovaj subjekt stoji ispred kompjuterskih kamera
+
+00:09:30.000 --> 00:09:32.000
+i one mogu, kadar po kadar, da rekonstruišu
+
+00:09:32.000 --> 00:09:35.000
+geometriju upravo onoga što subjekt radi u trenutku.
+
+00:09:35.000 --> 00:09:40.000
+Bukvalno dobijate 3D podatke o subjektu u realnom vremenu.
+
+00:09:40.000 --> 00:09:43.000
+Ako pogledamo uporedo,
+
+00:09:43.000 --> 00:09:46.000
+levo vidimo šta nam podaci o zapremini daju,
+
+00:09:46.000 --> 00:09:48.000
+a desno vidimo šta nam označivači daju.
+
+00:09:49.000 --> 00:09:51.000
+Jasno je da smo bili u mnogo boljem položaju za ovo.
+
+00:09:51.000 --> 00:09:53.000
+Ali to su bili rani dani te tehnologije
+
+00:09:53.000 --> 00:09:55.000
+i još nije bila dokazana.
+
+00:09:55.000 --> 00:09:57.000
+Merimo složenost i preciznost podataka
+
+00:09:57.000 --> 00:09:59.000
+u smislu broja poligona.
+
+00:09:59.000 --> 00:10:02.000
+Tako, s leve strane imamo 100 000 poligona.

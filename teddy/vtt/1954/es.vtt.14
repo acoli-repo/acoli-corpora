@@ -1,0 +1,30 @@
+WEBVTT
+
+00:06:54.252 --> 00:07:01.008
+descubrimos que hay una forma 
+poco convencional para volarlo.
+
+00:07:07.980 --> 00:07:09.686
+Renunciamos a controlar el balanceo,
+
+00:07:09.686 --> 00:07:12.756
+pero el viraje, el cabeceo y la aceleración
+todavía pueden ser controladas
+
+00:07:12.756 --> 00:07:18.208
+con algoritmos que aprovechan
+esta configuración nueva.
+
+00:07:21.668 --> 00:07:24.100
+Los modelos matemáticos
+nos dicen exactamente cuándo
+
+00:07:24.100 --> 00:07:26.172
+y por qué esto es posible.
+
+00:07:26.172 --> 00:07:28.540
+En este caso, este conocimiento
+nos permite diseñar
+
+00:07:28.540 --> 00:07:30.796
+arquitecturas de máquinas novedosas

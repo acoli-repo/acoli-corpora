@@ -1,0 +1,31 @@
+WEBVTT
+
+00:08:28.535 --> 00:08:31.200
+a přesto jej Torvalds celé roky provozoval
+
+00:08:31.200 --> 00:08:35.104
+ne s pomocí automatických nástrojů,
+ale ze svého e-mailu.
+
+00:08:35.104 --> 00:08:37.577
+Lidé mu doopravdy e-mailem posílali změny,
+
+00:08:37.577 --> 00:08:41.696
+na kterých se dohodli, a on je ručně dosadil do kódu.
+
+00:08:41.696 --> 00:08:46.442
+A pak, po 15 letech dohlížení na Linux a zkoumání,
+
+00:08:46.442 --> 00:08:49.252
+jak tato komunita funguje, řekl: "Asi už vím,
+
+00:08:49.252 --> 00:08:53.419
+jak napsat systém pro správu verzí
+pro svobodné lidi."
+
+00:08:53.419 --> 00:08:59.314
+Nazval ho "Git". Git je decentralizovaný systém
+pro správu verzí.
+
+00:08:59.314 --> 00:09:02.338
+Má dva hlavní rozdíly

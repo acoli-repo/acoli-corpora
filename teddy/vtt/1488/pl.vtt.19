@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:26.000 --> 00:09:30.000
+przetłumaczeniu tego wzorca aktywności na nowy wzorzec aktywności,
+
+00:09:30.000 --> 00:09:33.000
+po prostu przepuszczając dane przez sieć.
+
+00:09:33.000 --> 00:09:35.000
+Mamy więc takie połączenia,
+
+00:09:35.000 --> 00:09:38.000
+dzięki którym wzorzec wejściowy po prostu przepływa
+
+00:09:38.000 --> 00:09:40.000
+i generuje wzorzec wyjściowy.
+
+00:09:40.000 --> 00:09:44.000
+Widzimy tu, że mamy nadmiarowe połączenia.
+
+00:09:44.000 --> 00:09:48.000
+Więc jeśli ten lub tamten fragment danych gdzieś utknie
+
+00:09:48.000 --> 00:09:53.000
+i nie dotrze do celu, te dwa fragmenty mogą aktywować brakującą część
+
+00:09:53.000 --> 00:09:55.000
+dzięki połączeniom nadmiarowym.
+
+00:09:55.000 --> 00:09:57.000
+Więc nawet gdy korzystamy z takich kiepskich urządzeń,
+
+00:09:57.000 --> 00:10:00.000
+w których czasem chcemy jedynkę, a dostajemy zero,
+
+00:10:00.000 --> 00:10:02.000
+mamy nadmiarowość sieci,

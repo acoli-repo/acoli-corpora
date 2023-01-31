@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:28.439 --> 00:05:33.141
+interpretują instrukcje w mało elastyczny sposób.
+
+00:05:33.141 --> 00:05:37.164
+Niezwykle trudno napisać zestaw
+
+00:05:37.164 --> 00:05:40.202
+instrukcji, które komputer wie jak wykonać.
+
+00:05:40.202 --> 00:05:42.068
+Przy założeniu, że instrukcje pisze jedna osoba.
+
+00:05:42.068 --> 00:05:44.167
+Gdy kod pisze więcej osób,
+
+00:05:44.167 --> 00:05:47.251
+łatwo można nadpisać wzajemnie
+
+00:05:47.251 --> 00:05:49.912
+efekty swojej pracy na tym samym pliku.
+
+00:05:49.912 --> 00:05:52.094
+Mogą też przesłać niezgodne instrukcje,
+
+00:05:52.094 --> 00:05:54.535
+co spowoduje zawieszenie komputera.
+
+00:05:54.535 --> 00:05:57.494
+Skala tego problemu zwiększa się
+
+00:05:57.494 --> 00:06:00.263
+wraz z rosnącą liczbą programistów.

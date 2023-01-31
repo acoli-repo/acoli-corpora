@@ -1,0 +1,44 @@
+WEBVTT
+
+00:09:30.321 --> 00:09:31.748
+J'ai donc construit un modèle.
+
+00:09:31.748 --> 00:09:35.200
+Un modèle simulant des suricates
+traversant une route virtuelle.
+
+00:09:35.926 --> 00:09:37.515
+C'est un modèle simpliste.
+
+00:09:37.803 --> 00:09:40.527
+Des suricates en mouvement sont comme
+des particules aléatoires
+
+00:09:40.527 --> 00:09:42.881
+dont la seule règle 
+est celle de l'alignement.
+
+00:09:42.881 --> 00:09:45.091
+Ils bougent tout simplement ensemble.
+
+00:09:45.091 --> 00:09:50.080
+Quand ces particules atteignent la route,
+elles sentent une sorte d'obstacle,
+
+00:09:50.080 --> 00:09:52.363
+et rebondissent contre lui.
+
+00:09:52.363 --> 00:09:54.460
+La seule différence 
+entre la femelle dominante,
+
+00:09:54.460 --> 00:09:57.230
+ici en rouge, et les autres individus,
+
+00:09:57.230 --> 00:10:00.000
+c'est que, pour elle, 
+la hauteur de l'obstacle,
+
+00:10:00.000 --> 00:10:02.400
+autrement dit,
+le risque représenté par la route,

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:27.000 --> 00:09:32.000
+toutes ces armatures prennent des charges diagonales.
+
+00:09:32.000 --> 00:09:35.000
+Ainsi, chacune d'entre elles est un peu différente-en-forme
+
+00:09:35.000 --> 00:09:37.000
+quand vous vous déplacez sur toute la longueur du bâtiment.
+
+00:09:37.000 --> 00:09:39.000
+Ainsi, travaillant avec
+
+00:09:39.000 --> 00:09:42.000
+Bentley et MicroStation,
+
+00:09:42.000 --> 00:09:44.000
+nous avons écrit une partie de logiciel sur mesure
+
+00:09:44.000 --> 00:09:47.000
+qui met en réseaux tous les composants ensemble
+
+00:09:47.000 --> 00:09:50.000
+en ces morceaux d'informations,
+
+00:09:50.000 --> 00:09:52.000
+pour que si nous changeons n'importe quel élément
+
+00:09:52.000 --> 00:09:54.000
+le long de la longueur du bâtiment,
+
+00:09:54.000 --> 00:09:57.000
+non seulement cela change la distribution
+
+00:09:57.000 --> 00:09:59.000
+à travers chacune de ces armatures,
+
+00:09:59.000 --> 00:10:02.000
+mais chacune de ces armatures distribue alors cette information

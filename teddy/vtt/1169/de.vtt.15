@@ -1,0 +1,49 @@
+WEBVTT
+
+00:07:29.000 --> 00:07:32.000
+für ein Bild? Es war ein Babygesicht.
+
+00:07:32.000 --> 00:07:34.000
+Wie sieht es also mit unserem Ansatz aus,
+
+00:07:34.000 --> 00:07:36.000
+den Code zu addieren? Sie können sehen,
+
+00:07:36.000 --> 00:07:38.000
+dass es so viel besser ist. Nicht nur können Sie
+
+00:07:38.000 --> 00:07:40.000
+das Babygesicht erkennen, Sie können sogar
+
+00:07:40.000 --> 00:07:42.000
+erkennen, dass es das Gesicht dieses Babies ist,
+
+00:07:42.000 --> 00:07:44.000
+eine wirkliche Herausforderung.
+
+00:07:44.000 --> 00:07:46.000
+Links ist also der Encoder alleine,
+
+00:07:46.000 --> 00:07:48.000
+und rechts sehen sie eine blinde Netzhaut,
+
+00:07:48.000 --> 00:07:50.000
+also Encoder und Transducer.
+
+00:07:50.000 --> 00:07:52.000
+Aber der entscheidende Faktor ist wirklich der Encoder,
+
+00:07:52.000 --> 00:07:54.000
+weil wir den Encoder mit dem anderen Transducer
+
+00:07:54.000 --> 00:07:56.000
+zusammenbringen können.
+
+00:07:56.000 --> 00:07:58.000
+Dieser hier ist der erste, den wir ausprobiert haben.
+
+00:07:58.000 --> 00:08:00.000
+Ich wollte nur etwas zur Standardmethode sagen
+
+00:08:00.000 --> 00:08:02.000
+Als sie zunächst rauskam, war es eine

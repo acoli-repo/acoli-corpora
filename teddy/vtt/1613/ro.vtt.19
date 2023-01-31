@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:31.000
+În mod normal, eficienţa este crucială
+
+00:09:31.000 --> 00:09:35.000
+deoarece costul combustibilului pe durata de viaţă a motorului, depăşeşte cu mult costul motorului.
+
+00:09:35.000 --> 00:09:37.000
+Dar dacă sursa ta de combustibil este gratis,
+
+00:09:37.000 --> 00:09:40.000
+atunci singurul lucru care contează este doar preţul capital al motorului.
+
+00:09:40.000 --> 00:09:42.000
+Deci nu vrei să optimizezi pentru eficienţă,
+
+00:09:42.000 --> 00:09:44.000
+vrei să optimizezi pentru energie pe dolar.
+
+00:09:44.000 --> 00:09:46.000
+Astfel, folosindu-ne de această nouă schimbare, cu noile criterii,
+
+00:09:46.000 --> 00:09:48.000
+ne-am gândit că am putea să ne mai uităm odată la motorul Stirling,
+
+00:09:48.000 --> 00:09:50.000
+şi să apelăm la algorimii genetici.
+
+00:09:50.000 --> 00:09:54.000
+Practic, Robert Stirling nu l-a avut pe Gordon Moore înaintea lui
+
+00:09:54.000 --> 00:09:56.000
+pentru a face rost de puterea unui procesor de trei gigaherţi.
+
+00:09:56.000 --> 00:09:58.000
+Aşa că am luat acelaşi algoritm genetic care l-am folosit mai devreme
+
+00:09:58.000 --> 00:10:00.000
+pentru a face acel concentrator, care nu a fost bun pentru noi,
+
+00:10:00.000 --> 00:10:03.000
+pentru a optimiza motorul Stirling.

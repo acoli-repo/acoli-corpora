@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:57.494 --> 00:06:00.263
+conforme intervienen más programadores.
+
+00:06:00.263 --> 00:06:03.610
+En una primera aproximación, el problema de gestionar
+
+00:06:03.610 --> 00:06:06.336
+un gran proyecto de software consiste
+
+00:06:06.336 --> 00:06:09.992
+en mantener bajo control este caos social.
+
+00:06:09.992 --> 00:06:12.467
+Ahora, durante décadas ha existido una solución canónica
+
+00:06:12.467 --> 00:06:14.121
+a este problema, que implica usar algo llamado
+
+00:06:14.121 --> 00:06:16.101
+"sistema de control de versiones".
+
+00:06:16.101 --> 00:06:18.310
+Y un sistema de control de versiones hace justamente eso.
+
+00:06:18.310 --> 00:06:21.704
+Proporciona una copia canónica del software
+
+00:06:21.704 --> 00:06:23.256
+de un servidor de algún lado.
+
+00:06:23.256 --> 00:06:26.162
+Los únicos programadores que pueden modificarlo
+
+00:06:26.162 --> 00:06:29.693
+son aquellos con permisos específicos para acceder al mismo,
+
+00:06:29.693 --> 00:06:33.460
+y sólo pueden acceder a la subsección de código

@@ -1,0 +1,35 @@
+WEBVTT
+
+00:10:28.140 --> 00:10:30.907
+biopsji nowotworów.
+
+00:10:30.907 --> 00:10:33.222
+Kazali komputerowi zidentyfikować,
+
+00:10:33.222 --> 00:10:35.693
+za pomocą danych
+i współczynników przeżycia,
+
+00:10:35.693 --> 00:10:42.301
+czy badane komórki
+są faktycznie komórkami nowotworowymi.
+
+00:10:42.904 --> 00:10:46.729
+Kiedy przepuszczono dane
+przez algorytm uczenia maszynowego,
+
+00:10:46.729 --> 00:10:48.606
+maszyna była w stanie zidentyfikować
+
+00:10:48.606 --> 00:10:50.868
+12 wyznaczników, które wskazywały na to,
+
+00:10:50.868 --> 00:10:57.385
+że dane komórki pobrane z piersi
+są nowotworowe.
+
+00:10:57.385 --> 00:10:58.726
+Jest jednak problem,
+
+00:10:59.148 --> 00:11:02.672
+mianowicie medycyna znała tylko dziewięć.

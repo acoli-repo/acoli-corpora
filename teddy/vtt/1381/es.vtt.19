@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:30.000
+El sujeto se posiciona en frente de un arreglo computarizado de cámaras,
+
+00:09:30.000 --> 00:09:32.000
+y esas cámaras pueden, cuadro por cuadro,
+
+00:09:32.000 --> 00:09:35.000
+reconstruir la geometría de manera precisa de lo que el sujeto esté haciendo en el momento.
+
+00:09:35.000 --> 00:09:40.000
+Asé que, efectivamente, se obtiene información 3D en tiempo real del sujeto.
+
+00:09:40.000 --> 00:09:43.000
+Y si observan una comparación,
+
+00:09:43.000 --> 00:09:46.000
+en la izquierda, vemos lo que la información volumétrica nos da
+
+00:09:46.000 --> 00:09:48.000
+y en la derecha ven lo que los marcadores nos otorgan.
+
+00:09:49.000 --> 00:09:51.000
+Así que, claramente, nos encontrábamos en una situación substancialmente mejor para esto.
+
+00:09:51.000 --> 00:09:53.000
+Pero estos eran los primeros días de esa tecnología,
+
+00:09:53.000 --> 00:09:55.000
+y no había sido realmente puesta a prueba.
+
+00:09:55.000 --> 00:09:57.000
+Pero medimos la complejidad y la fidelidad de los datos
+
+00:09:57.000 --> 00:09:59.000
+en términos de la cantidad de polígonos.
+
+00:09:59.000 --> 00:10:02.000
+Así, en la izquierda, vemos 100,000 polígonos.

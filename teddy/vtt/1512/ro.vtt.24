@@ -1,0 +1,23 @@
+WEBVTT
+
+00:11:58.400 --> 00:12:03.857
+lucrând pentru prima dată nu pe hârtie, 
+ci direct pe ecran, cu pixeli.
+
+00:12:04.657 --> 00:12:11.390
+Pe atunci, ecranele foloseau un sistem 
+binar. Pixelii erau fie vizibili, fie nu.
+
+00:12:11.390 --> 00:12:15.716
+Aici vedeți conturul literei „H” mari,
+
+00:12:15.716 --> 00:12:18.812
+o linie neagră subțire,
+
+00:12:18.812 --> 00:12:25.209
+acesta fiind modul de stocare în memorie,
+suprapusă peste imaginea bitmap, zona gri,
+
+00:12:25.209 --> 00:12:30.164
+acesta fiind modul de afișare pe ecran.
+Imaginea bitmap e rasterizată.

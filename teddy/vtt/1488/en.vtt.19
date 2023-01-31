@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:26.000 --> 00:09:30.000
+is that you translate this pattern of activity into a new pattern of activity,
+
+00:09:30.000 --> 00:09:33.000
+just by it flowing through the network.
+
+00:09:33.000 --> 00:09:35.000
+So you set up these connections
+
+00:09:35.000 --> 00:09:38.000
+such that the input pattern just flows
+
+00:09:38.000 --> 00:09:40.000
+and generates the output pattern.
+
+00:09:40.000 --> 00:09:44.000
+What you see here is that there's these redundant connections.
+
+00:09:44.000 --> 00:09:48.000
+So if this piece of data or this piece of the data gets clobbered,
+
+00:09:48.000 --> 00:09:53.000
+it doesn't show up over here, these two pieces can activate the missing part
+
+00:09:53.000 --> 00:09:55.000
+with these redundant connections.
+
+00:09:55.000 --> 00:09:57.000
+So even when you go to these crappy devices
+
+00:09:57.000 --> 00:10:00.000
+where sometimes you want a one and you get a zero, and it doesn't show up,
+
+00:10:00.000 --> 00:10:02.000
+there's redundancy in the network

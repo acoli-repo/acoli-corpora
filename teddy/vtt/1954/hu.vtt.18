@@ -1,0 +1,28 @@
+WEBVTT
+
+00:09:03.943 --> 00:09:10.542
+(Taps)
+
+00:09:10.542 --> 00:09:13.192
+Ennek a kvadnak egy ütőt szíjaztunk a fejéhez:
+
+00:09:13.192 --> 00:09:16.679
+az ütő optimális területe kb. alma nagyságú, tehát nem túl nagy.
+
+00:09:16.679 --> 00:09:19.846
+A következő számítást másodpercenként 50-szer kell elvégezni,
+
+00:09:19.846 --> 00:09:21.602
+vagyis 20 milliszekundumonként egyszer.
+
+00:09:21.602 --> 00:09:24.414
+Először is meg kell határozni, hogy merre megy a labda.
+
+00:09:24.414 --> 00:09:26.851
+Aztán azt kell kiszámolni, hogy üsse meg a kvad a labdát,
+
+00:09:26.851 --> 00:09:29.950
+hogy az arra repüljön, ahonnan jött.
+
+00:09:29.950 --> 00:09:34.406
+Harmadszor, ki kell számítani a kvad mozgáspályáját

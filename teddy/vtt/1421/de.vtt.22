@@ -1,0 +1,40 @@
+WEBVTT
+
+00:10:57.000 --> 00:11:00.000
+Aber es ist sehr präzise.
+
+00:11:00.000 --> 00:11:03.000
+Es ist eine präzise Spezifikation mit präziser formaler Sprache,
+
+00:11:03.000 --> 00:11:06.000
+die Mathematica wissen lässt, was hier zu tun ist.
+
+00:11:06.000 --> 00:11:09.000
+Nun, auf der anderen Seite haben wir Wolfram Alpha,
+
+00:11:09.000 --> 00:11:11.000
+mit allen Arten von Unordnung der Welt
+
+00:11:11.000 --> 00:11:13.000
+und menschlicher Sprache und so weiter implementiert.
+
+00:11:13.000 --> 00:11:16.000
+Was passiert , wenn man diese beiden Dinge kombiniert?
+
+00:11:16.000 --> 00:11:18.000
+Ich glaube, es ist ziemlich erstaunlich.
+
+00:11:18.000 --> 00:11:20.000
+Mit Wolfram Alpha innerhalb Mathematica,
+
+00:11:20.000 --> 00:11:22.000
+können Sie zum Beispiel präzise Programme erstellen,
+
+00:11:22.000 --> 00:11:24.000
+die Daten aus der echten Welt abrufen.
+
+00:11:24.000 --> 00:11:26.000
+Hier ist ein einfaches Beispiel.
+
+00:11:29.000 --> 00:11:32.000
+Sie können auch einfach nur eine ungenaue Eingabe machen

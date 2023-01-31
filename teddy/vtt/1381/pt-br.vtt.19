@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:30.000
+A pessoa se coloca em frente de um conjunto de câmera computadorizadas,
+
+00:09:30.000 --> 00:09:32.000
+e essas câmera podem, quadro a quadro,
+
+00:09:32.000 --> 00:09:35.000
+reconstruir a geometria do que exatamene a pessoa está fazendo naquele momento.
+
+00:09:35.000 --> 00:09:40.000
+Assim, efetivamente, você consegue os dados 3D da pessoa em tempo real.
+
+00:09:40.000 --> 00:09:43.000
+E se vocês observarem a comparação,
+
+00:09:43.000 --> 00:09:46.000
+à esquerda, vemos o que os dados volumétricos nos dão
+
+00:09:46.000 --> 00:09:48.000
+e à direita vocês vêem o que os marcadores nos dão.
+
+00:09:49.000 --> 00:09:51.000
+Assim, claramente, nós estávamos em uma posição bem melhor agora.
+
+00:09:51.000 --> 00:09:53.000
+Mas esse era o início dessa tecnologia,
+
+00:09:53.000 --> 00:09:55.000
+e não estava provada ainda.
+
+00:09:55.000 --> 00:09:57.000
+Mas medimos a complexidade e a fidelidade dos dados
+
+00:09:57.000 --> 00:09:59.000
+em termos de contagem poligonal.
+
+00:09:59.000 --> 00:10:02.000
+E então,à esquerda, nós estávamo vendo 100.000 polígonos.

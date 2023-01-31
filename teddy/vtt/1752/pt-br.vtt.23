@@ -1,0 +1,38 @@
+WEBVTT
+
+00:11:29.585 --> 00:11:31.720
+obtenção de dados, todas essas coisas
+
+00:11:31.720 --> 00:11:34.795
+são muito mais simples e eficientes,
+
+00:11:34.795 --> 00:11:39.212
+porque não processam
+a estrutura de informação da fala.
+
+00:11:39.212 --> 00:11:44.407
+Em vez disso, eles processam a estrutura
+da informação dos pensamentos.
+
+00:11:45.188 --> 00:11:47.996
+A estrutura da informação dos pensamentos.
+
+00:11:47.996 --> 00:11:50.072
+É uma ideia provocadora.
+
+00:11:50.072 --> 00:11:52.214
+Mas vamos observar com mais detalhes.
+
+00:11:52.214 --> 00:11:54.580
+Esse é o ecossistema do FreeSpeech.
+
+00:11:54.580 --> 00:11:57.464
+Temos a representação
+do FreeSpeech de um lado,
+
+00:11:57.464 --> 00:11:59.692
+e temos o FreeSpeech Engine
+que gera inglês.
+
+00:11:59.694 --> 00:12:01.419
+Se pensarmos bem,

@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:26.114 --> 00:07:30.738
+Podstawowym założeniem licencji open-source jest,
+
+00:07:30.738 --> 00:07:34.484
+że wszyscy powinni mieć dostęp do całego kodu źródłowego
+
+00:07:34.484 --> 00:07:37.737
+cały czas. To niesie oczywiście
+
+00:07:37.737 --> 00:07:41.044
+groźbę chaosu, do którego nie można dopuścić,
+
+00:07:41.044 --> 00:07:42.622
+jeśli coś ma zadziałać.
+
+00:07:42.622 --> 00:07:45.104
+Dlatego w projektach open-source
+
+00:07:45.104 --> 00:07:47.784
+przyjęto "feudalny" system zarządzania.
+
+00:07:47.784 --> 00:07:50.292
+Torvalds powiedział: "nie, nie zamierzam tego zrobić".
+
+00:07:50.292 --> 00:07:53.857
+Jego punkt widzenia był bardzo klarowny.
+
+00:07:53.857 --> 00:07:56.390
+Przyjmując narzędzie, przyjmujesz
+
+00:07:56.390 --> 00:07:59.979
+też filozofię zarządzania z nim związaną.
+
+00:07:59.979 --> 00:08:03.115
+Nie miał zamiaru przyjąć czegoś, co nie działałoby

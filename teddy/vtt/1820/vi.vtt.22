@@ -1,0 +1,46 @@
+WEBVTT
+
+00:10:59.000 --> 00:11:01.000
+hơn là một bàn cờ.
+
+00:11:01.000 --> 00:11:04.000
+Do đó bạn có thể đọc được số nhị phân của
+năm, sáu, và bảy.
+
+00:11:04.000 --> 00:11:07.000
+Và muốn phép toán này đúng ngay từ lúc khởi đầu,
+
+00:11:07.000 --> 00:11:09.000
+bạn cần một đầu vào, một kiểu hạt giống.
+
+00:11:09.000 --> 00:11:11.000
+Bạn có thể dùng DNA origami làm hạt giống.
+
+00:11:11.000 --> 00:11:13.000
+Bạn có thể mã hóa con số 32
+
+00:11:13.000 --> 00:11:15.000
+vào phía bên phải của DNA origami,
+
+00:11:15.000 --> 00:11:17.000
+và khi bạn thêm những viên gạch vào bộ đếm
+
+00:11:17.000 --> 00:11:20.000
+nó sẽ bắt đầu đếm, nó sẽ đọc 32 con số
+
+00:11:20.000 --> 00:11:22.000
+và sẽ dừng ở 32.
+
+00:11:22.000 --> 00:11:25.000
+Vậy nên điều chúng tôi đã làm là tìm ra
+
+00:11:25.000 --> 00:11:28.000
+một chương trình phân tử
+biết chỗ nào phải dừng.
+
+00:11:28.000 --> 00:11:30.000
+Nó biết lúc nào cần dừng phát triển
+vì nó có thể đếm được.
+
+00:11:30.000 --> 00:11:32.000
+Nó biết nó đã lớn được bao nhiêu.

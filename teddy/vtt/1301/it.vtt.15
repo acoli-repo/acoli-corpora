@@ -1,0 +1,38 @@
+WEBVTT
+
+00:07:26.114 --> 00:07:30.738
+Il software open-source, la promessa centrale della licenza open-source,
+
+00:07:30.738 --> 00:07:34.484
+è che tutti dovrebbero poter sempre accedere
+
+00:07:34.484 --> 00:07:37.737
+al codice sorgente.
+Ma naturalmente, questo crea
+
+00:07:37.737 --> 00:07:41.044
+una minaccia di caos che va anticipata
+
+00:07:41.044 --> 00:07:42.622
+in modo che tutto funzioni.
+
+00:07:42.622 --> 00:07:45.104
+Quindi molti progetti open-source si sono messi al lavoro
+
+00:07:45.104 --> 00:07:47.784
+e hanno adottato il sistema di gestione feudale.
+
+00:07:47.784 --> 00:07:50.292
+Ma Torvalds ha detto, "No, io non lo faccio in questo modo."
+
+00:07:50.292 --> 00:07:53.857
+Il suo punto di vista sull'argomento era molto chiaro.
+
+00:07:53.857 --> 00:07:56.390
+Quando si adotta uno strumento, si adotta anche
+
+00:07:56.390 --> 00:07:59.979
+la filosofia di gestione incorporata in quello strumento,
+
+00:07:59.979 --> 00:08:03.115
+e non avrebbe adottato niente che non funzionasse

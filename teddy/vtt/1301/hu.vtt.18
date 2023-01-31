@@ -1,0 +1,34 @@
+WEBVTT
+
+00:08:59.314 --> 00:09:02.338
+Két nagy különbség van
+
+00:09:02.338 --> 00:09:04.401
+hagyományos verziókezelő rendszerekkel szemben.
+
+00:09:04.401 --> 00:09:07.548
+Az első, hogy megfelel annak a filozófiai igéretnek,
+
+00:09:07.548 --> 00:09:10.834
+hogy nyílt kódú. Mindenki, aki dolgozik egy projekten
+
+00:09:10.834 --> 00:09:14.505
+a teljes forráskódhoz fér hozzá. Mindig.
+
+00:09:14.505 --> 00:09:17.179
+És amikor emberek a Git munkafolyamatról diagramot készítenek,
+
+00:09:17.179 --> 00:09:20.116
+ilyen rajzokat használnak.
+
+00:09:20.116 --> 00:09:22.434
+Nem kell megérteni, hogy a körök
+
+00:09:22.434 --> 00:09:26.113
+meg a négyzetek meg a nyilak mit jelentenek, hogy lássuk ez mennyivel
+
+00:09:26.113 --> 00:09:29.208
+bonyolultabb módja a munkának, mint amit
+
+00:09:29.208 --> 00:09:31.929
+a hagyományos verziókezelő rendszerek támogatnak.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:31.000
+Habituellement, l'efficacité est capitale
+
+00:09:31.000 --> 00:09:35.000
+car le coût du carburant pour votre moteur, au cours de sa vie, dépasse le coût initial du moteur.
+
+00:09:35.000 --> 00:09:37.000
+Mais si votre source d'énergie est gratuite,
+
+00:09:37.000 --> 00:09:40.000
+alors la seule chose qui compte c'est le coût initial du moteur.
+
+00:09:40.000 --> 00:09:42.000
+Donc vous ne voulez pas optimiser son efficacité,
+
+00:09:42.000 --> 00:09:44.000
+vous voulez optimiser la puissance délivrée par dollar.
+
+00:09:44.000 --> 00:09:46.000
+Donc, en utilisant cela, ce nouveau critère,
+
+00:09:46.000 --> 00:09:48.000
+nous avons pensé que nous pouvions ré-étudier le moteur Stirling,
+
+00:09:48.000 --> 00:09:50.000
+à l'aide de quelques algorithmes génétiques.
+
+00:09:50.000 --> 00:09:54.000
+Typiquement, Robert Stirling n'avait pas eu Gordon Moore avant lui
+
+00:09:54.000 --> 00:09:56.000
+pour lui accorder la puissance d'un processeur de trois gigahertz.
+
+00:09:56.000 --> 00:09:58.000
+Donc nous avons utilisé le même algorithme génétique que nous avions utilisé
+
+00:09:58.000 --> 00:10:00.000
+pour faire le concentrateur, qui ne nous avait pas satisfait,
+
+00:10:00.000 --> 00:10:03.000
+et nous l'avons appliqué au moteur Stirling,

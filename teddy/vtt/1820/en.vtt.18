@@ -1,0 +1,37 @@
+WEBVTT
+
+00:08:58.000 --> 00:09:00.000
+made a little switch, you see here, wired it up,
+
+00:09:00.000 --> 00:09:03.000
+tested it and showed that it is indeed a switch.
+
+00:09:03.000 --> 00:09:05.000
+Now, this is just a single switch
+
+00:09:05.000 --> 00:09:09.000
+and you need half a billion for a computer, so we have a long way to go.
+
+00:09:09.000 --> 00:09:11.000
+But this is very promising
+
+00:09:11.000 --> 00:09:16.000
+because the origami can organize parts just one-tenth the size
+
+00:09:16.000 --> 00:09:17.000
+of those in a normal computer.
+
+00:09:17.000 --> 00:09:20.000
+So it's very promising for making small computers.
+
+00:09:20.000 --> 00:09:23.000
+Now, I want to get back to that compiler.
+
+00:09:23.000 --> 00:09:26.000
+The DNA origami is a proof that that compiler actually works.
+
+00:09:27.000 --> 00:09:29.000
+So, you start with something in the computer.
+
+00:09:29.000 --> 00:09:32.000
+You get a high-level description of the computer program,

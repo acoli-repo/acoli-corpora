@@ -1,0 +1,28 @@
+WEBVTT
+
+00:05:58.819 --> 00:06:03.066
+Il trucco è stato scomporre la costruzione del computer
+
+00:06:03.066 --> 00:06:06.020
+in numerosi moduli autonomi,
+
+00:06:06.020 --> 00:06:09.920
+ognuno dei quali poteva essere dettagliato individualmente,
+
+00:06:09.920 --> 00:06:15.155
+costruito e testato in isolamento rispetto al resto del progetto.
+
+00:06:15.155 --> 00:06:18.144
+Dal primo giorno io e Noam abbiamo deciso
+
+00:06:18.144 --> 00:06:21.680
+che tutti i mattoni sarebbero stati liberamente accessibili
+
+00:06:21.680 --> 00:06:23.160
+su internet.
+
+00:06:23.160 --> 00:06:27.631
+Specifiche dei chip, API, descrizioni del progetto,
+
+00:06:27.631 --> 00:06:31.535
+strumenti software, simulatori hardware, emulatori di CPU,

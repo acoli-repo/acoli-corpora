@@ -1,0 +1,40 @@
+WEBVTT
+
+00:11:27.000 --> 00:11:31.000
+So we can describe the communication between the neurons.
+
+00:11:31.000 --> 00:11:34.000
+There literally are only a handful
+
+00:11:34.000 --> 00:11:36.000
+of equations that you need to simulate
+
+00:11:36.000 --> 00:11:38.000
+the activity of the neocortex.
+
+00:11:38.000 --> 00:11:41.000
+But what you do need is a very big computer.
+
+00:11:41.000 --> 00:11:43.000
+And in fact you need one laptop
+
+00:11:43.000 --> 00:11:46.000
+to do all the calculations just for one neuron.
+
+00:11:46.000 --> 00:11:48.000
+So you need 10,000 laptops.
+
+00:11:48.000 --> 00:11:50.000
+So where do you go? You go to IBM,
+
+00:11:50.000 --> 00:11:52.000
+and you get a supercomputer, because they know how to take
+
+00:11:52.000 --> 00:11:56.000
+10,000 laptops and put it into the size of a refrigerator.
+
+00:11:56.000 --> 00:11:59.000
+So now we have this Blue Gene supercomputer.
+
+00:11:59.000 --> 00:12:01.000
+We can load up all the neurons,

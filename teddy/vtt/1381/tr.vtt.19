@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:30.000
+Denek bir dizi kamera içeren bir bilgisayarın karşısında duruyor
+
+00:09:30.000 --> 00:09:32.000
+ve bu kameralar, kare kare
+
+00:09:32.000 --> 00:09:35.000
+denek o anda ne yapıyorsa onun geometrisini yeniden kurabiliyor.
+
+00:09:35.000 --> 00:09:40.000
+Böylece denekle eş zamanda etkili bir şekilde üç boyutlu veri alabiliyorsunuz.
+
+00:09:40.000 --> 00:09:43.000
+Ve bir karşılaştırmaya bakarsanız,
+
+00:09:43.000 --> 00:09:46.000
+solda, hacimsel verilerin bize verdiklerini görüyoruz
+
+00:09:46.000 --> 00:09:48.000
+ve sağda işaretleyicilerin bize ne verdiğini görüyorsunuz.
+
+00:09:49.000 --> 00:09:51.000
+Açıkçası, bunda diğerlerinden oldukça iyi bir yerdeydik.
+
+00:09:51.000 --> 00:09:53.000
+Ama bunlar bu teknolojinin ilk günleriydi
+
+00:09:53.000 --> 00:09:55.000
+ve henüz gerçekten kanıtlanmamıştı.
+
+00:09:55.000 --> 00:09:57.000
+Ama biz verilerin karışıklık ve uygunluklarını
+
+00:09:57.000 --> 00:09:59.000
+çokgen sayımı cinsinden yaparız.
+
+00:09:59.000 --> 00:10:02.000
+Ve böylece, sol tarafta 100.000 çokgen görüyorduk.

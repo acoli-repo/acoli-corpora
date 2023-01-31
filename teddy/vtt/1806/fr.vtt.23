@@ -1,0 +1,34 @@
+WEBVTT
+
+00:11:27.965 --> 00:11:32.092
+Je l'appellerai score.
+
+00:11:32.092 --> 00:11:34.923
+Ça vous crée quelques nouvelles briques,
+
+00:11:34.923 --> 00:11:39.589
+et ça crée aussi un petit écran de résultat
+qui enregistre ce score,
+
+00:11:39.589 --> 00:11:44.841
+donc à chaque fois que je clique sur
+"Modifier score", ça incrémente le score.
+
+00:11:44.841 --> 00:11:47.366
+Donc j'ai montré ça au membre de ce club --
+
+00:11:47.366 --> 00:11:50.067
+appelons le Victor -- et quand Victor,
+
+00:11:50.067 --> 00:11:52.869
+a vu que cette nouvelle brique allait
+lui permettre d'incrémenter le score,
+
+00:11:52.869 --> 00:11:54.685
+il a su exactement quoi faire.
+
+00:11:54.685 --> 00:11:56.999
+Il a pris la brique
+
+00:11:56.999 --> 00:12:00.043
+et l'a ajoutée au programme

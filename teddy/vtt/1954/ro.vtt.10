@@ -1,0 +1,36 @@
+WEBVTT
+
+00:04:57.715 --> 00:05:00.926
+Două precizări:
+1. Gravitația acționează la fel
+
+00:05:00.926 --> 00:05:03.051
+asupra tuturor corpurilor.
+
+00:05:03.051 --> 00:05:05.515
+2. Elicele sunt îndreptate toate
+
+00:05:05.515 --> 00:05:08.062
+în aceeași direcție ca paharul, în sus.
+
+00:05:08.642 --> 00:05:11.019
+Combinând cele două informații,
+rezultatul net
+
+00:05:11.019 --> 00:05:13.306
+e că forțele laterale
+asupra paharului sunt mici
+
+00:05:13.306 --> 00:05:16.091
+și vin în mare parte
+din efectele aerodinamice,
+
+00:05:16.091 --> 00:05:18.722
+care la aceste viteze sunt neglijabile.
+
+00:05:23.336 --> 00:05:25.727
+De asta nu e nevoie
+să incluzi paharul în model.
+
+00:05:25.727 --> 00:05:28.515
+Apa nu se varsă orice ar face drona.

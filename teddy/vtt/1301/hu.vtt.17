@@ -1,0 +1,28 @@
+WEBVTT
+
+00:08:28.535 --> 00:08:31.200
+és mégis, Torvalds éveken át
+
+00:08:31.200 --> 00:08:35.104
+nem automatizált eszközökkel futtatta ezt, hanem a postafiókjából.
+
+00:08:35.104 --> 00:08:37.577
+Emberek szó szerint elküldték neki a változtatásokat,
+
+00:08:37.577 --> 00:08:41.696
+amelyekben megegyeztek, és ő kézzel egyesítette őket.
+
+00:08:41.696 --> 00:08:46.442
+Majd, miután 15 évig nézegette a Linuxot és kisilabizálta,
+
+00:08:46.442 --> 00:08:49.252
+hogyan működik a közösség, azt mondta, "azt hiszem, tudom
+
+00:08:49.252 --> 00:08:53.419
+hogyan kell megírni a szabad emberek verziókezelő rendszerét."
+
+00:08:53.419 --> 00:08:59.314
+Ezt Git-nek hívta. A Git elosztott verziókövetés.
+
+00:08:59.314 --> 00:09:02.338
+Két nagy különbség van

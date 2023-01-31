@@ -1,0 +1,37 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:01.000
+cum am descoperit când am făcut varianta foarte simplificată în liceu --
+
+00:12:01.000 --> 00:12:03.000
+de la potenţial foarte posibil,
+
+00:12:03.000 --> 00:12:07.000
+odată ce îi ridici eficienţa, dacă poţi proiecta asta încât să fie îndeajuns de ieftin.
+
+00:12:07.000 --> 00:12:11.000
+Şi am pornit pe un drum pentru a încerca să îl facem cât se poate de ieftin.
+
+00:12:11.000 --> 00:12:13.000
+Am construit un model matematic imens despre cum merge motorul Stirling.
+
+00:12:13.000 --> 00:12:15.000
+Am aplicat algoritmul genetic.
+
+00:12:15.000 --> 00:12:18.000
+Am primit de aici rezultatele pentru motorul optim.
+
+00:12:18.000 --> 00:12:21.000
+Am construit motoare -- şi am construit 100 de modele diferite în ultimii doi ani.
+
+00:12:21.000 --> 00:12:24.000
+L-am măsurat pe fiecare, am readaptat modelul la ce am măsurat,
+
+00:12:24.000 --> 00:12:26.000
+şi am ajuns treptat la prototipul actual.
+
+00:12:26.000 --> 00:12:29.000
+A dus către un motor, ieftin şi compact.
+
+00:12:29.000 --> 00:12:31.000
+Şi aşa arată motorul.

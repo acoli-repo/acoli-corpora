@@ -1,0 +1,34 @@
+WEBVTT
+
+00:08:29.749 --> 00:08:31.809
+que apenas calculava as probabilidades
+
+00:08:31.809 --> 00:08:33.903
+de uma dada configuração do tabuleiro
+
+00:08:33.903 --> 00:08:37.509
+levar a um tabuleiro vencedor 
+ou a um tabuleiro perdedor,
+
+00:08:37.509 --> 00:08:39.678
+depois de cada movimento.
+
+00:08:39.843 --> 00:08:42.462
+Joga com o computador. Ganha.
+
+00:08:43.132 --> 00:08:45.188
+Joga com o computador. Ganha.
+
+00:08:45.457 --> 00:08:47.640
+Joga com o computador. Ganha.
+
+00:08:49.345 --> 00:08:52.683
+Então, Arthur Samuel deixa 
+o computador jogar sozinho.
+
+00:08:54.127 --> 00:08:56.740
+Ele joga sozinho. Reúne mais dados.
+
+00:08:57.184 --> 00:09:01.119
+Reúne mais dados. 
+Aumenta o rigor das suas previsões.

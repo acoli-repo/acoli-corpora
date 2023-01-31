@@ -1,0 +1,25 @@
+WEBVTT
+
+00:05:59.000 --> 00:06:03.000
+bạn làm tăng cường độ dòng điện và bạn sẽ có một dòng điện ổn định
+
+00:06:03.000 --> 00:06:07.000
+Khi bạn đóng các cổng, sẽ không còn dòng điện nào chảy qua các thiết bị nữa
+
+00:06:07.000 --> 00:06:12.000
+Máy tính của bạn sử dụng trạng thái tồn tại của dòng điện để biểu diễn "một", 1
+
+00:06:12.000 --> 00:06:16.000
+Và sự vắng mặt của dòng điện biểu diễn "không", 0
+
+00:06:16.000 --> 00:06:22.000
+Một thực tế đang diễn ra là các transistor càng ngày càng trở nên nhỏ hơn
+
+00:06:22.000 --> 00:06:24.000
+và nó đã không hoạt động như thế này nữa
+
+00:06:24.000 --> 00:06:29.000
+Thực tế nó bắt đầu hoạt động giống như một thiết bị ( sinh học ) mà các nơ-ron sử dụng để tính toán
+
+00:06:29.000 --> 00:06:31.000
+Nó được gọi là một kênh ion

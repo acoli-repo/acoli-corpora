@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:26.000 --> 00:09:30.000
+es que se traduce ese patrón de actividad en un nuevo patrón de actividad,
+
+00:09:30.000 --> 00:09:33.000
+sencillamente haciéndolo fluir por la red.
+
+00:09:33.000 --> 00:09:35.000
+Así que preparas todas esas conexiones,
+
+00:09:35.000 --> 00:09:38.000
+de manera que el patrón de entrada fluya
+
+00:09:38.000 --> 00:09:40.000
+y genere el patrón de salida.
+
+00:09:40.000 --> 00:09:44.000
+Lo que se observa es que hay estas conexiones redundantes.
+
+00:09:44.000 --> 00:09:48.000
+Así que, si este trozo de datos o este trozo de datos se corrompen,
+
+00:09:48.000 --> 00:09:53.000
+no se transmite aquí, estos dos trozos pueden activar la parte perdida
+
+00:09:53.000 --> 00:09:55.000
+con estas conexiones redundantes.
+
+00:09:55.000 --> 00:09:57.000
+Así que, cuando analizas estos dispositivos horribles,
+
+00:09:57.000 --> 00:10:00.000
+donde a veces quieres un uno y obtienes un cero,
+
+00:10:00.000 --> 00:10:02.000
+existe esta redundancia en la red

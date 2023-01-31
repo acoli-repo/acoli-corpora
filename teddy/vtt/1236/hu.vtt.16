@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:01.000
+jelek követhetik és még néhány más jel,
+
+00:08:01.000 --> 00:08:03.000
+de ezek közül az alul lévő jelek közül egyik sem.
+
+00:08:03.000 --> 00:08:05.000
+Sőt, vannak olyan jelek,
+
+00:08:05.000 --> 00:08:07.000
+amelyek nagyon szeretnek a szövegek végén lenni,
+
+00:08:07.000 --> 00:08:09.000
+mint például ez a korsó alakú jel.
+
+00:08:09.000 --> 00:08:11.000
+És ez a jel itt pedig, éppenséggel a
+
+00:08:11.000 --> 00:08:13.000
+a leggyakrabban előforduló jel az írásban.
+
+00:08:13.000 --> 00:08:16.000
+Vannak ilyen minták, ebből jött az ötletünk.
+
+00:08:16.000 --> 00:08:18.000
+Az ötlet pedig az volt, hogy használjunk számítógépet
+
+00:08:18.000 --> 00:08:20.000
+ezeknek a mintáknak a megismerésére,
+
+00:08:20.000 --> 00:08:23.000
+így hát a számítógépnek megadtuk a létező szövegeket.
+
+00:08:23.000 --> 00:08:25.000
+És a számítógép ebből felállított egy statisztikai modellt,
+
+00:08:25.000 --> 00:08:27.000
+hogy milyen szimbólumok hajlamosak együtt előfordulni,
+
+00:08:27.000 --> 00:08:29.000
+és milyen szimbólumoknak szokásuk, hogy követik egymást.
+
+00:08:29.000 --> 00:08:31.000
+Ha már adott a számítógépes modell,

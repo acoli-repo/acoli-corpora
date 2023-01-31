@@ -1,0 +1,37 @@
+WEBVTT
+
+00:10:56.000 --> 00:11:00.000
+do when they stream video over the Internet.
+
+00:11:00.000 --> 00:11:01.000
+They want to compress the information --
+
+00:11:01.000 --> 00:11:05.000
+they just want to send the changes, what's new in the image, and so on --
+
+00:11:05.000 --> 00:11:08.000
+and that is how your eyeball
+
+00:11:08.000 --> 00:11:11.000
+is able to squeeze all that information down to your optic nerve,
+
+00:11:11.000 --> 00:11:13.000
+to send to the rest of the brain.
+
+00:11:13.000 --> 00:11:16.000
+Instead of doing this in software, or doing those kinds of algorithms,
+
+00:11:16.000 --> 00:11:19.000
+we went and talked to neurobiologists
+
+00:11:19.000 --> 00:11:23.000
+who have actually reverse engineered that piece of brain that's called the retina.
+
+00:11:23.000 --> 00:11:25.000
+And they figured out all the different cells,
+
+00:11:25.000 --> 00:11:28.000
+and they figured out the network, and we just took that network
+
+00:11:28.000 --> 00:11:32.000
+and we used it as the blueprint for the design of a silicon chip.

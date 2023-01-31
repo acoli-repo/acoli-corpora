@@ -1,0 +1,22 @@
+WEBVTT
+
+00:11:29.000 --> 00:11:36.000
+places in the United States are being implemented, at least for public security.
+
+00:11:36.000 --> 00:11:42.000
+If in 1999 I told you, let's build a data storage and retrieval system.
+
+00:11:42.000 --> 00:11:45.000
+It's got to store terabytes. It's got to be available 24 hours a day,
+
+00:11:45.000 --> 00:11:48.000
+seven days a week. It's got to be available from anywhere in the world.
+
+00:11:48.000 --> 00:11:52.000
+It has to support over 100 million users at any given moment. It's got to
+
+00:11:52.000 --> 00:11:57.000
+be robust to attack, including closing the main index, injecting malicious files,
+
+00:11:57.000 --> 00:12:02.000
+armed seizure of some major nodes. You'd say that would take years.

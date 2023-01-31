@@ -1,0 +1,37 @@
+WEBVTT
+
+00:11:58.177 --> 00:12:00.517
+for the first time working not on paper
+
+00:12:00.517 --> 00:12:04.477
+but directly onto the screen from the pixel up.
+
+00:12:04.477 --> 00:12:08.330
+At that time, screens were binary.
+
+00:12:08.330 --> 00:12:11.370
+The pixel was either on or it was off.
+
+00:12:11.370 --> 00:12:14.225
+Here you see the outline of a letter,
+
+00:12:14.225 --> 00:12:15.692
+the cap H,
+
+00:12:15.692 --> 00:12:18.493
+which is the thin black line, the contour,
+
+00:12:18.493 --> 00:12:21.369
+which is how it is stored in memory,
+
+00:12:21.369 --> 00:12:23.039
+superimposed on the bitmap,
+
+00:12:23.039 --> 00:12:25.187
+which is the grey area,
+
+00:12:25.187 --> 00:12:27.024
+which is how it's displayed on the screen.
+
+00:12:27.024 --> 00:12:30.170
+The bitmap is rasterized from the outline.

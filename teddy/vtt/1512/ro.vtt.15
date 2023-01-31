@@ -1,0 +1,31 @@
+WEBVTT
+
+00:07:28.393 --> 00:07:32.361
+Exista pe atunci o problemă 
+cu mărimea fonturilor,
+
+00:07:32.361 --> 00:07:37.547
+cantitatea de date necesară 
+pentru a găsi și a stoca un font
+
+00:07:37.547 --> 00:07:39.773
+în memoria computerului.
+
+00:07:40.163 --> 00:07:44.789
+Asta limita numărul de fonturi obținut 
+cu sistemul de cules caractere.
+
+00:07:45.069 --> 00:07:49.201
+Am făcut o analiză a datelor
+
+00:07:49.201 --> 00:07:52.963
+și am constatat că fontul <i>serif</i> tipic, 
+din stânga,
+
+00:07:52.963 --> 00:07:57.467
+necesită de aproape două ori mai multe
+date decât fontul <i>sans-serif</i>, din mijloc,
+
+00:07:57.473 --> 00:08:03.565
+din cauza punctelor necesare 
+pentru a-i defini „codițele” elegante.

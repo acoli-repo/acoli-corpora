@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:05.000
+on how do you do an autonomously self-replicating system.
+
+00:05:05.000 --> 00:05:07.000
+And this is sort of Babbage's revenge.
+
+00:05:07.000 --> 00:05:08.000
+These are little mechanical computers.
+
+00:05:08.000 --> 00:05:11.000
+These are five-state state machines.
+
+00:05:11.000 --> 00:05:14.000
+So, that's about three light switches lined up.
+
+00:05:14.000 --> 00:05:16.000
+In a neutral state, they won't bind at all.
+
+00:05:16.000 --> 00:05:20.000
+Now, if I make a string of these, a bit string,
+
+00:05:20.000 --> 00:05:22.000
+they will be able to replicate.
+
+00:05:22.000 --> 00:05:23.000
+So we start with white, blue, blue, white.
+
+00:05:23.000 --> 00:05:29.000
+That encodes; that will now copy. From one comes two,
+
+00:05:29.000 --> 00:05:31.000
+and then from two comes three.

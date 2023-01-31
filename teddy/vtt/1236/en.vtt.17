@@ -1,0 +1,37 @@
+WEBVTT
+
+00:08:29.000 --> 00:08:31.000
+Given the computer model,
+
+00:08:31.000 --> 00:08:34.000
+we can test the model by essentially quizzing it.
+
+00:08:34.000 --> 00:08:36.000
+So we could deliberately erase some symbols,
+
+00:08:36.000 --> 00:08:39.000
+and we can ask it to predict the missing symbols.
+
+00:08:39.000 --> 00:08:42.000
+Here are some examples.
+
+00:08:45.000 --> 00:08:47.000
+You may regard this
+
+00:08:47.000 --> 00:08:49.000
+as perhaps the most ancient game
+
+00:08:49.000 --> 00:08:52.000
+of Wheel of Fortune.
+
+00:08:53.000 --> 00:08:55.000
+What we found
+
+00:08:55.000 --> 00:08:57.000
+was that the computer was successful in 75 percent of the cases
+
+00:08:57.000 --> 00:08:59.000
+in predicting the correct symbol.
+
+00:08:59.000 --> 00:09:01.000
+In the rest of the cases,

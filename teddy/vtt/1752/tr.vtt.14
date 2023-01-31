@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:59.705 --> 00:07:02.640
+pek çok ay boyunca bununla uğraştım.
+
+00:07:02.640 --> 00:07:05.366
+Bunun çok sayıda kombinasyonunu deniyordum.
+
+00:07:05.366 --> 00:07:07.655
+Bu arada FreeSpeech'in çok ilginç bir özelliğini fark ettim.
+
+00:07:07.655 --> 00:07:10.318
+Konuşma dilini, İngilizce cümleleri
+
+00:07:10.318 --> 00:07:12.892
+FreeSpeech cümlelerine ve tersi yönde
+
+00:07:12.892 --> 00:07:15.034
+birini diğerine dönüştürmekle uğraşıyordum.
+
+00:07:15.034 --> 00:07:17.289
+Ve fark ettim ki böyle bir yapılandırma,
+
+00:07:17.289 --> 00:07:19.315
+böyle bir dil temsil yolu,
+
+00:07:19.315 --> 00:07:23.710
+FreeSpeech ile İngilizce arasında çeviri için
+
+00:07:23.710 --> 00:07:26.444
+çok net kurallar yaratmamı
+
+00:07:26.444 --> 00:07:27.932
+mümkün kılıyordu.
+
+00:07:27.932 --> 00:07:30.112
+O halde, böyle bir temsilden İngilizce'ye çeviri için

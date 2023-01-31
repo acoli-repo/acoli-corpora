@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:28.000 --> 00:08:31.000
+Well, a crucial idea of Wolfram Alpha
+
+00:08:31.000 --> 00:08:33.000
+is that you can just ask it questions
+
+00:08:33.000 --> 00:08:36.000
+using ordinary human language,
+
+00:08:36.000 --> 00:08:38.000
+which means that we've got to be able to take
+
+00:08:38.000 --> 00:08:41.000
+all those strange utterances that people type into the input field
+
+00:08:41.000 --> 00:08:43.000
+and understand them.
+
+00:08:43.000 --> 00:08:45.000
+And I must say that I thought that step
+
+00:08:45.000 --> 00:08:48.000
+might just be plain impossible.
+
+00:08:49.000 --> 00:08:51.000
+Two big things happened:
+
+00:08:51.000 --> 00:08:54.000
+First, a bunch of new ideas about linguistics
+
+00:08:54.000 --> 00:08:57.000
+that came from studying the computational universe;
+
+00:08:57.000 --> 00:09:00.000
+and second, the realization that having actual computable knowledge
+
+00:09:00.000 --> 00:09:02.000
+completely changes how one can

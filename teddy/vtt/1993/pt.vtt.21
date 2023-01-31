@@ -1,0 +1,35 @@
+WEBVTT
+
+00:10:27.653 --> 00:10:30.288
+que corresponde aos sinais autênticos.
+
+00:10:30.288 --> 00:10:33.103
+Estes três pontos vermelhos representam 
+os pontos de rastreamento
+
+00:10:33.103 --> 00:10:35.982
+que se tentam manter centrados nesse pico.
+
+00:10:35.982 --> 00:10:39.047
+Mas se se enviar um sinal de GPS falso,
+
+00:10:39.047 --> 00:10:43.513
+um outro pico aparece e, se se conseguir que 
+os dois picos
+
+00:10:43.513 --> 00:10:48.231
+fiquem perfeitamente alinhados, os pontos de 
+rastreamento não os conseguem diferenciar,
+
+00:10:48.231 --> 00:10:51.542
+e eles passam a seguir o sinal falso, mais forte,
+
+00:10:51.542 --> 00:10:55.502
+e o pico original é retirado de cena.
+
+00:10:55.502 --> 00:10:57.669
+A essa altura, o jogo acabou.
+
+00:10:57.669 --> 00:11:01.406
+Os sinais falsos agora controlam completamente 
+o dispositivo de GPS.

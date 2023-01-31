@@ -1,0 +1,46 @@
+WEBVTT
+
+00:05:29.738 --> 00:05:33.017
+2 elevado à potência de 
+um número primo, subtraindo 1.
+
+00:05:33.017 --> 00:05:34.739
+Não vou entrar em grandes detalhes 
+quanto ao porquê,
+
+00:05:34.739 --> 00:05:36.461
+porque, na maior parte dos casos,
+
+00:05:36.461 --> 00:05:38.185
+vão ficar com os olhos a sangrar 
+se eu o fizer,
+
+00:05:38.185 --> 00:05:42.396
+mas basta dizer que, tendo um número 
+nesta forma,
+
+00:05:42.396 --> 00:05:45.859
+é bastante fácil testar 
+se é um número primo.
+
+00:05:45.859 --> 00:05:49.459
+Um número ímpar aleatório 
+é muito mais difícil de testar.
+
+00:05:49.459 --> 00:05:51.380
+Mas assim que começamos 
+a ir à caça de números primos enormes,
+
+00:05:51.380 --> 00:05:53.219
+apercebemo-nos de que não basta
+
+00:05:53.219 --> 00:05:55.960
+colocar simplesmente 
+qualquer número primo na potência.
+
+00:05:55.960 --> 00:05:58.557
+(2 ^ 11) - 1 = 2047,
+
+00:05:58.557 --> 00:06:01.925
+e não precisam que eu vos diga 
+que é 23 x 89.

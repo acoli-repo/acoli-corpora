@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:27.000 --> 00:06:30.000
+Mai nou, e un mod de a ilustra
+
+00:06:30.000 --> 00:06:33.000
+cum reacționează creierul în fața variabilelor.
+
+00:06:33.000 --> 00:06:36.000
+Ideea de bază e că vrei să faci deducții și să acționezi.
+
+00:06:36.000 --> 00:06:38.000
+Să ne gândim la deducții.
+
+00:06:38.000 --> 00:06:40.000
+Vrei să generezi deducții despre lume.
+
+00:06:40.000 --> 00:06:42.000
+Ce sunt deducțiile?
+
+00:06:42.000 --> 00:06:44.000
+Exemplu de deducție: unde-mi sunt situate brațele în spațiu?
+
+00:06:44.000 --> 00:06:46.000
+Mă uit la o pisică sau la o vulpe?
+
+00:06:46.000 --> 00:06:49.000
+Vom reprezenta deducțiile prin probabilități.
+
+00:06:49.000 --> 00:06:51.000
+Vom reprezenta o deducție
+
+00:06:51.000 --> 00:06:53.000
+cu o cifră între 0 și 1 -
+
+00:06:53.000 --> 00:06:56.000
+0 înseamnă că nu cred, 1 că sunt sigur.
+
+00:06:56.000 --> 00:06:59.000
+Cifrele între 0 și 1 ilustreză gradul de nesiguranță.
+
+00:06:59.000 --> 00:07:01.000
+Idea în deducția bayesiană

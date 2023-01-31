@@ -1,0 +1,28 @@
+WEBVTT
+
+00:09:29.208 --> 00:09:31.929
+tek tek bilmenize gerek yok.
+
+00:09:31.929 --> 00:09:36.238
+Tabii bu, baştaki kaosun geri gelmesi anlamına da geliyor
+
+00:09:36.238 --> 00:09:39.288
+ve Git'in ikinci büyük özelliği devreye giriyor.
+
+00:09:39.288 --> 00:09:43.284
+Ekran görüntüsü, en popüler Git servisi GitHub'dan
+
+00:09:43.284 --> 00:09:46.634
+bir programcının Git üzerinde her işlem yaptığında,
+
+00:09:46.634 --> 00:09:49.795
+yeni bir dosya yarattığında,
+
+00:09:49.795 --> 00:09:53.104
+olan bir dosyayı düzenlediğinde,
+
+00:09:53.104 --> 00:09:57.778
+iki dosyayı birleştirdiğinde, Git böyle bir imza oluşturuyor.
+
+00:09:57.778 --> 00:10:00.921
+Rakam ve harflerden oluşan bu uzun değişken

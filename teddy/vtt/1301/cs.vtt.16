@@ -1,0 +1,33 @@
+WEBVTT
+
+00:07:59.979 --> 00:08:03.115
+A jemu se nechtělo přijmout něco,
+co nemohlo fungovat tak,
+
+00:08:03.115 --> 00:08:05.424
+jako fungovala sama Linuxová komunita.
+
+00:08:05.424 --> 00:08:07.956
+Abych vám pomohl udělat si představu, jak obrovské
+
+00:08:07.956 --> 00:08:11.624
+rozhodnutí to bylo, toto je mapa
+
+00:08:11.624 --> 00:08:15.113
+vnitřních závislostí v Linuxu,
+
+00:08:15.113 --> 00:08:17.720
+uvnitř operačního systému Linux,
+a ukazuje, které části
+
+00:08:17.720 --> 00:08:22.165
+programu závisí na kterých jiných částech programu, aby mohly fungovat.
+
+00:08:22.165 --> 00:08:25.743
+Je to neuvěřitelně komplikovaný proces.
+
+00:08:25.743 --> 00:08:28.535
+Je to neuvěřitelně komplikovaný program,
+
+00:08:28.535 --> 00:08:31.200
+a přesto jej Torvalds celé roky provozoval

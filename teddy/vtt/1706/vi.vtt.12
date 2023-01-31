@@ -1,0 +1,42 @@
+WEBVTT
+
+00:05:59.642 --> 00:06:03.323
+nơi chúng ta có thể đăng tải bình luận.
+
+00:06:03.323 --> 00:06:06.330
+Có lẽ nhiều người trong số các bạn 
+đã dùng một số chức năng tương tự như thế này.
+
+00:06:06.330 --> 00:06:08.277
+Không may là khi thiết kế chức năng này,
+
+00:06:08.277 --> 00:06:10.702
+người thiết kế hơi bị say một chút
+
+00:06:10.702 --> 00:06:11.944
+và quên mất
+
+00:06:11.944 --> 00:06:14.933
+tất cả các phương pháp lập trình an toàn
+mà anh ta đã được học.
+
+00:06:14.933 --> 00:06:17.999
+Bây giờ hãy tưởng tượng rằng 
+kẻ tấn công
+
+00:06:17.999 --> 00:06:21.447
+mà tôi tạm gọi là 
+Evil Hacker cho vui nhé,
+
+00:06:21.447 --> 00:06:23.470
+chèn thứ gì đó nguy hiểm 
+vào khung bình luận.
+
+00:06:23.470 --> 00:06:25.169
+Đây là một đoạn mã.
+
+00:06:25.169 --> 00:06:29.246
+Nó sẽ được thông dịch trên trang web.
+
+00:06:29.246 --> 00:06:31.571
+Bây giờ tôi sẽ đăng đoạn mã này lên,

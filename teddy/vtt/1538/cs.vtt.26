@@ -1,0 +1,45 @@
+WEBVTT
+
+00:12:57.821 --> 00:13:00.210
+Ten kód vypadá stejně jako všechny kódy
+
+00:13:00.210 --> 00:13:02.448
+v systému.
+
+00:13:02.448 --> 00:13:04.849
+Možná nenajdu kód, který řídí baterii,
+
+00:13:04.849 --> 00:13:06.860
+ale jsou tam jiné věci,
+které mu jsou podobné.
+
+00:13:06.860 --> 00:13:08.714
+Máte kód, který řídí obrazovku,
+
+00:13:08.714 --> 00:13:10.930
+který řídí tlačítka, nebo mikrofon,
+
+00:13:10.930 --> 00:13:12.858
+takže i když nenajdu kód pro baterii,
+
+00:13:12.858 --> 00:13:15.103
+určitě můžu najít něco z toho.
+
+00:13:15.103 --> 00:13:17.808
+Dalším krokem v mé binární analýze
+
+00:13:17.808 --> 00:13:19.039
+je podívat se na části dat,
+
+00:13:19.039 --> 00:13:21.057
+které jsou si podobné.
+
+00:13:21.057 --> 00:13:25.040
+To je na binární úrovni nesmírně těžké,
+
+00:13:25.040 --> 00:13:28.683
+ale pokud je přeložíme
+do obrazové abstrakce,
+
+00:13:28.683 --> 00:13:31.121
+nemusím se vůbec probírat původními daty.

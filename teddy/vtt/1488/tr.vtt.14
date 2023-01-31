@@ -1,0 +1,34 @@
+WEBVTT
+
+00:06:58.000 --> 00:07:01.000
+düzensiz bir akış var.
+
+00:07:01.000 --> 00:07:04.000
+Gözeneği kapatsanız bile -- ki nöronlar bunu yapıyorlar,
+
+00:07:04.000 --> 00:07:09.000
+elektrik aktivitesi yaratmak için bu gözenekler açılıp kapatılır.
+
+00:07:09.000 --> 00:07:12.000
+kapalı olsa bile, bu iyonlar çok küçük oldukları için,
+
+00:07:12.000 --> 00:07:15.000
+bir seferde bir kaç tanesi aradan geçebilir.
+
+00:07:15.000 --> 00:07:18.000
+Yani elimizde şu var: Gözenek açık olduğu zaman,
+
+00:07:18.000 --> 00:07:20.000
+düzensiz de olsa bir akım var.
+
+00:07:20.000 --> 00:07:23.000
+Bu sizin "1"iniz, ama aralara serpiştirilmiş "0"lar da var.
+
+00:07:23.000 --> 00:07:27.000
+Kapalı olduğu zaman da "0" demek,
+
+00:07:27.000 --> 00:07:30.000
+ama aralarda "1"ler de var, tamam.
+
+00:07:30.000 --> 00:07:33.000
+Şimdi, aynı şey transistörlerde de olmaya başlıyor.

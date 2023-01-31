@@ -1,0 +1,27 @@
+WEBVTT
+
+00:10:30.598 --> 00:10:33.000
+Požádali počítač,
+
+00:10:33.000 --> 00:10:36.650
+aby zjistil z dat a statistik o přežití,
+
+00:10:36.650 --> 00:10:42.297
+jestli jsou buňky skutečně 
+zhoubné nebo ne.
+
+00:10:42.797 --> 00:10:45.732
+Když dostal data pomocí
+algoritmu strojového učení,
+
+00:10:45.732 --> 00:10:49.790
+počítač byl schopný identifikovat
+12 znaků nejlépe určujících,
+
+00:10:49.790 --> 00:10:56.612
+zda buňky z biopsie rakoviny prsu
+jsou skutečně zhoubné.
+
+00:10:57.302 --> 00:11:01.916
+Problém byl, že odborná lékařská
+literatura uváděla jenom 9 z nich.

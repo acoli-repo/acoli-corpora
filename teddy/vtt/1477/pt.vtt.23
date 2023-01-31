@@ -1,0 +1,44 @@
+WEBVTT
+
+00:11:26.830 --> 00:11:30.580
+Estes são dois modelos funcionais
+que, pelo menos em alguns sítios nos EUA,
+
+00:11:30.580 --> 00:11:35.410
+estão a ser implementados,
+pelo menos no âmbito da segurança pública.
+
+00:11:36.010 --> 00:11:38.370
+Se em 1999 eu vos dissesse:
+
+00:11:38.480 --> 00:11:41.780
+"Vamos construir um sistema 
+de armazenamento e recuperação de dados.
+
+00:11:41.780 --> 00:11:43.280
+"Tem de armazenar terabytes.
+
+00:11:43.280 --> 00:11:46.430
+"Tem de estar disponível 24 horas por dia,
+sete dias por semana,
+
+00:11:46.430 --> 00:11:48.280
+"a partir de qualquer sítio no mundo.
+
+00:11:48.280 --> 00:11:51.740
+"Tem de suportar mais de 100 milhões
+de utilizadores a qualquer momento.
+
+00:11:51.740 --> 00:11:53.530
+"Tem de ser impermeável a ataques,
+
+00:11:53.530 --> 00:11:57.000
+"incluindo o fecho do índice principal, 
+injeção de ficheiros maliciosos,
+
+00:11:57.000 --> 00:11:59.460
+"ataques armados a alguns
+nós de rede importantes",
+
+00:11:59.460 --> 00:12:02.280
+vocês diriam que isso demoraria anos.

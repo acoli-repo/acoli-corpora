@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:26.000 --> 00:09:30.000
+c'est que vous traduisez ce modèle d'activité en un nouveau modèle,
+
+00:09:30.000 --> 00:09:33.000
+juste en le faisant passer à travers le réseau.
+
+00:09:33.000 --> 00:09:35.000
+Donc vous fixez ces connections
+
+00:09:35.000 --> 00:09:38.000
+afin que l'influx coule à travers le réseau
+
+00:09:38.000 --> 00:09:40.000
+et génère le modèle final.
+
+00:09:40.000 --> 00:09:44.000
+Ce que vous voyez ici, c'est qu'il y a des connections redondantes.
+
+00:09:44.000 --> 00:09:48.000
+Donc, si un bout de donnée ou un autre est abîmé,
+
+00:09:48.000 --> 00:09:53.000
+ça n'a aucun effet, ces deux parties peuvent activer la partie manquante
+
+00:09:53.000 --> 00:09:55.000
+grâce à ces connections redondantes.
+
+00:09:55.000 --> 00:09:57.000
+Donc même avec un matériel nul
+
+00:09:57.000 --> 00:10:00.000
+avec un zéro alors que l'on veut un un,
+
+00:10:00.000 --> 00:10:02.000
+la redondance dans le réseau

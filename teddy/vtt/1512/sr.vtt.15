@@ -1,0 +1,40 @@
+WEBVTT
+
+00:07:28.393 --> 00:07:30.431
+U to vreme je postojao problem
+
+00:07:30.431 --> 00:07:32.287
+sa veličinom fontova,
+
+00:07:32.287 --> 00:07:35.171
+prostorom u memoriji koji je potreban
+
+00:07:35.171 --> 00:07:40.141
+da bi se čuvali i pretraživali.
+
+00:07:40.141 --> 00:07:41.799
+To je ograničavalo broj fontova
+
+00:07:41.799 --> 00:07:44.789
+koje možete čuvati na sistemu za slaganje.
+
+00:07:44.789 --> 00:07:48.938
+Analizirao sam podatke i utvrdio
+
+00:07:48.938 --> 00:07:51.462
+da je za uobičajeno serifno pismo
+
+00:07:51.462 --> 00:07:52.921
+koje vidite levo
+
+00:07:52.921 --> 00:07:54.937
+potrebno skoro dva puta više prostora
+
+00:07:54.937 --> 00:07:57.473
+nego za bezserifno u sredini,
+
+00:07:57.473 --> 00:07:59.535
+zbog tačaka potrebnih kako bi
+
+00:07:59.535 --> 00:08:04.043
+se uobličile elegantne krivine serifa.

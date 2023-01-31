@@ -1,0 +1,37 @@
+WEBVTT
+
+00:08:28.253 --> 00:08:30.969
+fiziksel hareketlerle etkileşerek oynanıyor.
+
+00:08:30.969 --> 00:08:33.213
+Ama başkasının oyununu oynamak yerine,
+
+00:08:33.213 --> 00:08:35.455
+kendi oyununuzu oluşturabiliyorsunuz,
+
+00:08:35.455 --> 00:08:36.838
+ve başkasının oyununu gördüğünüzde,
+
+00:08:36.838 --> 00:08:39.478
+"içine bak" diyebiliyorsunuz
+
+00:08:39.478 --> 00:08:42.372
+ve oyunu kontrol eden kod bloklarına bakabiliyorsunuz.
+
+00:08:42.372 --> 00:08:45.927
+Örneğin yeni bir blok var artık ne kadar video hareketi olduğunu gösteren
+
+00:08:45.927 --> 00:08:49.048
+ve eğer bu kadar video hareketi varsa
+
+00:08:49.048 --> 00:08:52.427
+balon patlayacak.
+
+00:08:52.427 --> 00:08:54.811
+Kameranın Scratch'e bilgi göndermesi yöntemiyle
+
+00:08:54.811 --> 00:08:57.316
+aynı şekilde
+
+00:08:57.316 --> 00:09:00.323
+mikrofonu da kullanabilirsiniz.

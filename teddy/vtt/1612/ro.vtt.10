@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:05.000
+despre cum faci un sistem auto-replicator autonom.
+
+00:05:05.000 --> 00:05:07.000
+Asta este cumva răzbunarea lui Babbage.
+
+00:05:07.000 --> 00:05:08.000
+Acestea sunt mici computere mecanice.
+
+00:05:08.000 --> 00:05:11.000
+Acestea sunt maşini cu structuri în cinci poziţii.
+
+00:05:11.000 --> 00:05:14.000
+Deci, sunt cam trei întrerupătoare de lumină aliniate.
+
+00:05:14.000 --> 00:05:16.000
+Într-o stare neutră, nu se vor lega deloc.
+
+00:05:16.000 --> 00:05:20.000
+Acum, dacă fac un string din ele, un string de biţi,
+
+00:05:20.000 --> 00:05:22.000
+vor fi capabile de replicare.
+
+00:05:22.000 --> 00:05:23.000
+Aşa că începem cu alb, albastru, albastru, alb.
+
+00:05:23.000 --> 00:05:29.000
+Acum encodează; acum asta va copia. Din unu iese doi,
+
+00:05:29.000 --> 00:05:31.000
+şi apoi din doi iese trei.

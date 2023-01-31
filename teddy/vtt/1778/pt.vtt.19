@@ -1,0 +1,45 @@
+WEBVTT
+
+00:09:29.618 --> 00:09:33.609
+Assim, eu construí um modelo 
+de suricatas simulados,
+
+00:09:33.609 --> 00:09:35.522
+que atravessam uma estrada simulada.
+
+00:09:35.522 --> 00:09:37.394
+É um modelo simplista.
+
+00:09:37.394 --> 00:09:40.234
+Os suricatas em movimento 
+são como partículas aleatórias
+
+00:09:40.234 --> 00:09:42.456
+cuja única regra é o alinhamento.
+
+00:09:42.456 --> 00:09:44.862
+Eles simplesmente movem-se juntos.
+
+00:09:44.862 --> 00:09:48.046
+Quando estas partículas chegam à estrada,
+
+00:09:48.046 --> 00:09:49.988
+eles pressentem algum tipo de obstáculo,
+
+00:09:49.988 --> 00:09:52.072
+e ressaltam contra ele.
+
+00:09:52.072 --> 00:09:53.228
+A única diferença
+
+00:09:53.228 --> 00:09:55.270
+entre a fêmea dominante, aqui a vermelho,
+
+00:09:55.270 --> 00:09:56.755
+e os outros indivíduos,
+
+00:09:56.755 --> 00:09:59.309
+é que para ela, a altura do obstáculo
+
+00:09:59.309 --> 00:10:01.814
+que é, na verdade, o risco percebido da estrada,

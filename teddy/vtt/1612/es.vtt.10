@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:05.000
+de cómo haces un sistema auto replicable autónomo.
+
+00:05:05.000 --> 00:05:07.000
+Y esto es, podríamos decir que la revancha de Babbage.
+
+00:05:07.000 --> 00:05:08.000
+Éstas son pequeñas computadoras mecánicas.
+
+00:05:08.000 --> 00:05:11.000
+Éstas son máquinas de cinco estados.
+
+00:05:11.000 --> 00:05:14.000
+Y, esto son tres interruptores alineados.
+
+00:05:14.000 --> 00:05:16.000
+En un estado neutral, no se unirían.
+
+00:05:16.000 --> 00:05:20.000
+Ahora, si hacemos una línea de estos, una línea de bits,
+
+00:05:20.000 --> 00:05:22.000
+podrán replicarse.
+
+00:05:22.000 --> 00:05:23.000
+Entonces comenzamos con blanco, azul, azul, blanco.
+
+00:05:23.000 --> 00:05:29.000
+Eso codifica, eso ahora se copiará. De uno vienen dos,
+
+00:05:29.000 --> 00:05:31.000
+y de dos salen tres.

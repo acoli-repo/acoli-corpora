@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:28.540 --> 00:07:30.796
+oss å designe nye maskinarkitekturer
+
+00:07:30.796 --> 00:07:34.972
+eller smarte algoritmer som elegant håndterer skader,
+
+00:07:34.972 --> 00:07:36.696
+på samme måte som menneskelige atleter,
+
+00:07:36.696 --> 00:07:40.519
+i stedet for å bygge maskiner med redundans.
+
+00:07:40.519 --> 00:07:42.631
+Det er vanskelig å ikke holde pusten når vi ser
+
+00:07:42.631 --> 00:07:45.068
+en stuper tar en saltomortale mot vannet,
+
+00:07:45.068 --> 00:07:46.858
+eller når en høydehopper snur seg i luften,
+
+00:07:46.858 --> 00:07:48.576
+og faller raskt mot bakken.
+
+00:07:48.576 --> 00:07:51.144
+Klarer stuperen en perfekt inngang?
+
+00:07:51.144 --> 00:07:53.144
+Vil høydehopperen lande riktig.
+
+00:07:53.144 --> 00:07:54.812
+La oss si at vi vil at dette helikopteret
+
+00:07:54.812 --> 00:07:57.263
+skal ta tre saltoer og avslutte på
+
+00:07:57.263 --> 00:07:59.532
+nøyaktig det samme sted som det startet.
+
+00:07:59.532 --> 00:08:01.879
+Denne manøveren kommer til å skje så raskt

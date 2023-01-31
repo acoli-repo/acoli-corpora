@@ -1,0 +1,28 @@
+WEBVTT
+
+00:09:03.943 --> 00:09:10.542
+(Applaudissements)
+
+00:09:10.542 --> 00:09:13.192
+Ce quad a une raquette fixée sur sa tête,
+
+00:09:13.192 --> 00:09:16.679
+avec une zone de frappe idéale de la taille d'une pomme environ, donc pas vraiment grande.
+
+00:09:16.679 --> 00:09:19.846
+Les calculs suivants sont effectués chaque 20 millisecondes,
+
+00:09:19.846 --> 00:09:21.602
+soit 50 fois par seconde.
+
+00:09:21.602 --> 00:09:24.414
+D'abord, nous essayons de comprendre où va la balle.
+
+00:09:24.414 --> 00:09:26.851
+Ensuite, nous calculons comment le quad devrait la frapper
+
+00:09:26.851 --> 00:09:29.950
+pour qu'elle retourne à l'endroit exact d'où elle a été jetée.
+
+00:09:29.950 --> 00:09:34.406
+Troisièmement, on prévoit une trajectoire qui amène le quad

@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:28.439 --> 00:05:33.141
+híresen inflexibilis értelmezői az instrukcióknak,
+
+00:05:33.141 --> 00:05:37.164
+így rendkívül nehéz megírni egy adag instrukciót,
+
+00:05:37.164 --> 00:05:40.202
+amelyeket a számítógép végre tud hajtani.
+
+00:05:40.202 --> 00:05:42.068
+És ez akkor is így van, ha egy ember írja.
+
+00:05:42.068 --> 00:05:44.167
+Ha több mint egy ember írja
+
+00:05:44.167 --> 00:05:47.251
+akkor nagyon könnyen megtörténik, hogy bármelyik két programozó felülírja
+
+00:05:47.251 --> 00:05:49.912
+a másik munkáját ha ugyanazon a fájlon dolgoznak,
+
+00:05:49.912 --> 00:05:52.094
+vagy hogy inkompatibilis utasításokat küldenek
+
+00:05:52.094 --> 00:05:54.535
+amely egyszerűen zavart okoz a számítógép működésében,
+
+00:05:54.535 --> 00:05:57.494
+és a probléma egyre csak nő,
+
+00:05:57.494 --> 00:06:00.263
+minél több programozó vesz részt benne.

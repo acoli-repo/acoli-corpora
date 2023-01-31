@@ -1,0 +1,42 @@
+WEBVTT
+
+00:05:59.642 --> 00:06:03.323
+ahol észrevételeket lehet
+fűzni az oldalhoz.
+
+00:06:03.323 --> 00:06:06.330
+Biztos használtak már
+ilyesmit korábban.
+
+00:06:06.330 --> 00:06:08.277
+Sajnálatos módon a megírásakor
+
+00:06:08.277 --> 00:06:10.702
+a fejlesztő kissé kapatos lehetett,
+
+00:06:10.702 --> 00:06:11.944
+mert sikerült megfeledkeznie
+
+00:06:11.944 --> 00:06:14.933
+mindenről, amit
+a biztonságos kódolásról tanult.
+
+00:06:14.933 --> 00:06:17.999
+Képzeljük el tehát, hogy a támadó --
+
+00:06:17.999 --> 00:06:21.447
+legyen a neve Hekk Elek
+a hekk kedvéért --
+
+00:06:21.447 --> 00:06:23.470
+beilleszt a kódba egy huncut részletet.
+
+00:06:23.470 --> 00:06:25.169
+Így fest a szkript.
+
+00:06:25.169 --> 00:06:29.246
+Ez egy kód, amely a weboldalon
+fog kiértékelődni.
+
+00:06:29.246 --> 00:06:31.571
+Tehát elküldöm az "észrevételt",

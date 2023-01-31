@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:56.000 --> 00:06:01.000
+Deci, pentru aproximativ două ore şi jumătate din zi, putem colecta cu o componentă staţionară.
+
+00:06:01.000 --> 00:06:04.000
+Totuşi, celulele solare colectează lumină timp de patru ore şi jumătate.
+
+00:06:04.000 --> 00:06:06.000
+Într-o zi obişnuită, o celulă solară --
+
+00:06:06.000 --> 00:06:08.000
+pentru că soarele se mişcă pe cer,
+
+00:06:08.000 --> 00:06:11.000
+celula solară pierde din performanţe după o funcţie sinusoidală
+
+00:06:11.000 --> 00:06:13.000
+la unghiurile dezaxate.
+
+00:06:13.000 --> 00:06:15.000
+Adună aproximativ patru ore şi jumătate de lumină pe zi.
+
+00:06:15.000 --> 00:06:18.000
+Şi chiar aşa, cu toate că mergea bine fără componente mobile,
+
+00:06:18.000 --> 00:06:20.000
+puteam atinge temperaturi mari -- dar nu era deajuns.
+
+00:06:20.000 --> 00:06:22.000
+Trebuia să întrecem celulele solare.
+
+00:06:22.000 --> 00:06:24.000
+Aşa că ne-am orientat către o altă idee.
+
+00:06:24.000 --> 00:06:27.000
+Am căutat un mod de a împărţi parabola în petale individuale care ar urmări razele solare.
+
+00:06:27.000 --> 00:06:30.000
+Deci ceea ce vedeţi aici sunt 12 petale separate,
+
+00:06:30.000 --> 00:06:33.000
+care pot fi controlate folosind microprocesoare individuale

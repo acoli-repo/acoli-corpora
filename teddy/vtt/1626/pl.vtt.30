@@ -1,0 +1,40 @@
+WEBVTT
+
+00:14:59.000 --> 00:15:01.000
+Na przykład
+
+00:15:01.000 --> 00:15:03.000
+w ekstremalnych przypadkach,
+
+00:15:03.000 --> 00:15:05.000
+możemy ewoluować program,
+
+00:15:05.000 --> 00:15:09.000
+zaczynając od przypadkowego ciągu instrukcji.
+
+00:15:09.000 --> 00:15:11.000
+Mówimy, "Komputerze, wygeneruj proszę
+
+00:15:11.000 --> 00:15:14.000
+sto milionów przypadkowych sekwencji instrukcji.
+
+00:15:14.000 --> 00:15:17.000
+Teraz uruchom je wszystkie,
+
+00:15:17.000 --> 00:15:19.000
+uruchom te wszystkie programy,
+
+00:15:19.000 --> 00:15:22.000
+i wybierz te, których wynik jest najbliższy temu, czego szukam."
+
+00:15:22.000 --> 00:15:24.000
+Innymi słowy, definiuję czego szukam.
+
+00:15:24.000 --> 00:15:26.000
+Powiedzmy, na przykład,
+
+00:15:26.000 --> 00:15:28.000
+że chcę posortować liczby.
+
+00:15:28.000 --> 00:15:31.000
+Znajdź więc programy, które są najbliżej sortowania liczb.

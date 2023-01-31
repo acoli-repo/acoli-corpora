@@ -1,0 +1,39 @@
+WEBVTT
+
+00:07:27.932 --> 00:07:30.112
+Puteam scrie un set de reguli
+
+00:07:30.112 --> 00:07:33.507
+care să traducă din această reprezentare,
+în limba engleză.
+
+00:07:33.507 --> 00:07:35.338
+Astfel am dezvoltat acest lucru,
+
+00:07:35.338 --> 00:07:37.570
+această aplicație numită Motorul FreeSpeech
+
+00:07:37.570 --> 00:07:40.131
+care ia orice propoziție din FreeSpeech ca input
+
+00:07:40.131 --> 00:07:44.061
+și alcătuiește un text corect gramatical, în limba engleză.
+
+00:07:44.061 --> 00:07:45.666
+Asociind aceste două lucruri,
+
+00:07:45.666 --> 00:07:47.547
+reprezentarea și motorul,
+
+00:07:47.547 --> 00:07:51.343
+am creat o aplicație, o tehnologie 
+pentru copiii cu autism,
+
+00:07:51.343 --> 00:07:53.842
+care nu le oferă doar cuvinte,
+
+00:07:53.842 --> 00:07:57.783
+ci le oferă și gramatică.
+
+00:07:57.783 --> 00:08:00.143
+Am încercat asta cu copii cu autism,

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:01.000
+Veľmi starostlivo si vyberajú, s kým sa spoja.
+
+00:08:01.000 --> 00:08:04.000
+Je to viac ako len dokumentáciu aj preto,
+
+00:08:04.000 --> 00:08:06.000
+lebo potrebujete zostrojiť ich trojrozmerný
+
+00:08:06.000 --> 00:08:08.000
+digitálny model.
+
+00:08:08.000 --> 00:08:10.000
+A toto sme robili pre desiatky tisícov neurónov,
+
+00:08:10.000 --> 00:08:13.000
+budovali sme model pre všetky rozličné typy neurónov,
+
+00:08:13.000 --> 00:08:15.000
+s ktorými sme prišli do kontaktu.
+
+00:08:15.000 --> 00:08:17.000
+A keď to už máte, môže nakoniec začať
+
+00:08:17.000 --> 00:08:21.000
+budovať neorkotexový stĺpec.
+
+00:08:21.000 --> 00:08:24.000
+Tu ich vlastne navíjame.
+
+00:08:24.000 --> 00:08:27.000
+Avšak keď to robíte, zbadáte že,
+
+00:08:27.000 --> 00:08:29.000
+jednotlivé vetvy sa navzájom križujú.
+
+00:08:29.000 --> 00:08:32.000
+prakticky v miliónoch miestach.

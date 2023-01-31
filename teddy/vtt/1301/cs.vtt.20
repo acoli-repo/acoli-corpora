@@ -1,0 +1,33 @@
+WEBVTT
+
+00:09:57.778 --> 00:10:00.921
+Tato dlouhá řada písmen a čísel
+
+00:10:00.921 --> 00:10:05.996
+je unikátní identifikátor každé změny,
+
+00:10:05.996 --> 00:10:08.853
+ale není nutné jej koordinovat centrálně.
+
+00:10:08.853 --> 00:10:13.342
+Git pokaždé a všude generuje tento podpis
+stejným způsobem,
+
+00:10:13.342 --> 00:10:16.684
+takže podpis se váže přímo
+
+00:10:16.684 --> 00:10:19.834
+k nějaké konkrétní změně bez možnosti padělání.
+
+00:10:19.834 --> 00:10:21.770
+To má následující dopad:
+
+00:10:21.770 --> 00:10:25.448
+Programátor v Edinburghu a programátor v Entebbe
+
+00:10:25.448 --> 00:10:29.150
+si mohou oba stáhnout
+identickou kopii nějakého programu.
+
+00:10:29.150 --> 00:10:32.976
+Oba mohou udělat změny a posléze je zapojit zpátky,

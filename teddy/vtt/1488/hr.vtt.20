@@ -1,0 +1,34 @@
+WEBVTT
+
+00:09:57.000 --> 00:10:00.000
+gdje ponekad želite dobiti jedan, a dobijete nulu i to se ne pokaže,
+
+00:10:00.000 --> 00:10:02.000
+postoji redundancija u mreži
+
+00:10:02.000 --> 00:10:05.000
+koja može vratiti izgubljene informacije.
+
+00:10:05.000 --> 00:10:08.000
+To čini mozak nevjerojatno postojanim.
+
+00:10:08.000 --> 00:10:11.000
+Ono što imamo ovdje jest sistem koji pohranjuje podatke lokalno.
+
+00:10:11.000 --> 00:10:15.000
+Krhak je, jer svaki korak mora biti savršen
+
+00:10:15.000 --> 00:10:18.000
+inače gubite podatke, dok u mozgu imate sistem
+
+00:10:18.000 --> 00:10:22.000
+koji pohranjuje podatke na distribuirani način, i to ga čini postojanim.
+
+00:10:22.000 --> 00:10:26.000
+Ono o čemu zapravo želim pričati jest moj san,
+
+00:10:26.000 --> 00:10:29.000
+a to je da napravim računalo koje radi kao mozak.
+
+00:10:29.000 --> 00:10:33.000
+To je nešto na čemu radimo zadnjih nekoliko godina.

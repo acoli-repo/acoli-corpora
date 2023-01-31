@@ -1,0 +1,42 @@
+WEBVTT
+
+00:04:59.063 --> 00:05:01.063
+nenhum dos raios solares atingirá o foco.
+
+00:05:01.063 --> 00:05:05.054
+Procurámos construir um coletor
+capaz de captar mais de um grau de luz,
+
+00:05:05.054 --> 00:05:06.781
+sem partes móveis.
+
+00:05:06.827 --> 00:05:08.963
+Criámos um algoritmo genético para isso,
+
+00:05:08.963 --> 00:05:12.000
+construímos um modelo em Excel
+de uma multi-superfície refletora
+
+00:05:12.000 --> 00:05:14.472
+e evoluiu uma coisa espantosa,
+
+00:05:14.472 --> 00:05:16.954
+após mil milhões de diferentes tentativas,
+
+00:05:16.954 --> 00:05:20.763
+com uma função de ajuste que define
+como podemos captar o máximo de luz
+
+00:05:20.763 --> 00:05:23.136
+da maioria dos ângulos,
+ao longo do dia, do Sol.
+
+00:05:23.436 --> 00:05:24.863
+Esta é a forma que evoluiu.
+
+00:05:24.863 --> 00:05:28.118
+É este coletor sem movimento,
+com estes 6 chifres em forma de tuba.
+
+00:05:28.954 --> 00:05:31.018
+Cada um deles capta luz da seguinte forma

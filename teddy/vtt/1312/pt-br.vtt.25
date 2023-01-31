@@ -1,0 +1,43 @@
+WEBVTT
+
+00:12:29.000 --> 00:12:32.000
+se podemos usar isto como receita
+
+00:12:32.000 --> 00:12:35.000
+para construir máquinas com sistemas visuais
+
+00:12:35.000 --> 00:12:38.000
+que podem aprender sozinhas, que não precisem ser programadas
+
+00:12:38.000 --> 00:12:40.000
+por um programador humano.
+
+00:12:40.000 --> 00:12:42.000
+E é isto o que estamos tentando fazer.
+
+00:12:42.000 --> 00:12:45.000
+Estou no MIT, e no MIT você precisa aplicar
+
+00:12:45.000 --> 00:12:47.000
+qualquer conhecimento básico que adquire.
+
+00:12:47.000 --> 00:12:49.000
+Então nós estamos criando Dylan,
+
+00:12:49.000 --> 00:12:51.000
+que é um sistema computacional
+
+00:12:51.000 --> 00:12:53.000
+com um objetivo ambicioso
+
+00:12:53.000 --> 00:12:55.000
+de receber sinais visuais
+
+00:12:55.000 --> 00:12:58.000
+do mesmo tipo que uma criança humana receberia,
+
+00:12:58.000 --> 00:13:00.000
+e descobrir de modo autônomo
+
+00:13:00.000 --> 00:13:03.000
+o que são os objetos neste campo de visão.

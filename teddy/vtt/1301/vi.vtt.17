@@ -1,0 +1,28 @@
+WEBVTT
+
+00:08:28.535 --> 00:08:31.200
+dù vậy, trong nhiều năm, Torvalds quản lý nó
+
+00:08:31.200 --> 00:08:35.104
+không cần công cụ tự động nào, chỉ có email của anh ta.
+
+00:08:35.104 --> 00:08:37.577
+Người khác sẽ mail cho anh ta những thay đổi
+
+00:08:37.577 --> 00:08:41.696
+mà họ thống nhất, và anh ta kết hợp chúng 1 cách thủ công.
+
+00:08:41.696 --> 00:08:46.442
+Sau 15 năm chăm sóc Linux và hiểu được cách cộng đồng
+
+00:08:46.442 --> 00:08:49.252
+làm việc, anh ta nói "Tôi nghĩ tôi biết cách viết
+
+00:08:49.252 --> 00:08:53.419
+1 hệ thống kiểm soát phiên bản cho người dùng miễn phí."
+
+00:08:53.419 --> 00:08:59.314
+Anh gọi nó là Git, nó kiểm soát phiên bản phân tán.
+
+00:08:59.314 --> 00:09:02.338
+Nó có 2 khác biệt lớn

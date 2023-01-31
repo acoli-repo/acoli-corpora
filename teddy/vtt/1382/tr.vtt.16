@@ -1,0 +1,31 @@
+WEBVTT
+
+00:07:57.000 --> 00:08:00.000
+gerçekten çok önemli hale gelir, çünkü uzanabiliriz,
+
+00:08:00.000 --> 00:08:02.000
+2B değil, sahte 2B değil, gerçekten 3B.
+
+00:08:02.000 --> 00:08:04.000
+Burada bazı seçim düzlemleri.
+
+00:08:04.000 --> 00:08:07.000
+Ve bir Boolean işlemi yapacağız
+
+00:08:07.000 --> 00:08:10.000
+çünkü sarıyı ve yeşil çimlerdeki tapirleri seviyoruz.
+
+00:08:19.000 --> 00:08:22.000
+İşte oradan gerçek çalışma dünyasına.
+
+00:08:22.000 --> 00:08:24.000
+Burada bir lojistik sistemi var,
+
+00:08:24.000 --> 00:08:26.000
+bizim oluşturduğumuz küçük bir sistem.
+
+00:08:26.000 --> 00:08:28.000
+Bir sürü bileşeni var.
+
+00:08:28.000 --> 00:08:31.000
+Ve çok önemli olan bir husus, geleneksel çizelge halindeki veriyi

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:57.000 --> 00:10:00.000
+Hoztam egy modellt a robotikából.
+
+00:10:00.000 --> 00:10:03.000
+Alárendelő architektúrának nevezik ezt.
+
+00:10:03.000 --> 00:10:06.000
+Ez azt jelenti, hogy van egy többszintű ellenőrző rendszerünk.
+
+00:10:06.000 --> 00:10:08.000
+Az alsó rétegnek, a bélagynak,
+
+00:10:08.000 --> 00:10:11.000
+megvannak a maga céljai --emésztési védelem --
+
+00:10:11.000 --> 00:10:13.000
+és akkor van a magasabb agyunk is,
+
+00:10:13.000 --> 00:10:15.000
+aminek a célja a koordinálás,
+
+00:10:15.000 --> 00:10:17.000
+és viselkedések létrehozása.
+
+00:10:17.000 --> 00:10:20.000
+Mindkettő szemügyreveszi ugyanazt az ételt --
+
+00:10:20.000 --> 00:10:23.000
+ez itt a kék nyíl -- ami a bél belsejében
+
+00:10:23.000 --> 00:10:25.000
+és a belek területén van.
+
+00:10:25.000 --> 00:10:27.000
+A nagyagy figyelembe vesz olyan jeleket is,
+
+00:10:27.000 --> 00:10:29.000
+amelyek az alsóbb agyban futó
+
+00:10:29.000 --> 00:10:31.000
+programokból erednek.

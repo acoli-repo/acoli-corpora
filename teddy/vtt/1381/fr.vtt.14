@@ -1,0 +1,49 @@
+WEBVTT
+
+00:06:57.000 --> 00:07:00.000
+Nous nous sommes donc concentrés sur la capture de mouvements.
+
+00:07:00.000 --> 00:07:02.000
+Je suis sûr que vous savez ce en quoi elle consiste.
+
+00:07:02.000 --> 00:07:04.000
+Le summum technologique de l'époque
+
+00:07:04.000 --> 00:07:06.000
+était appelé capture de mouvement à base de marqueurs.
+
+00:07:06.000 --> 00:07:07.000
+Je vais immédiatement vous en donner une illustration.
+
+00:07:07.000 --> 00:07:09.000
+Vous devez porter un justaucorps
+
+00:07:09.000 --> 00:07:11.000
+auquel sont fixés des marqueurs réfléchissants,
+
+00:07:11.000 --> 00:07:13.000
+de plus, au lieu d'utiliser des cameras,
+
+00:07:13.000 --> 00:07:15.000
+la salle est remplie de capteur infrarouges
+
+00:07:15.000 --> 00:07:17.000
+qui enregistrent en temps réél la position dans l'espace
+
+00:07:17.000 --> 00:07:19.000
+(en 3 dimensions) de chacun des marqueurs.
+
+00:07:19.000 --> 00:07:22.000
+A partir des données du mouvement recueillies par les capteurs, les animateurs
+
+00:07:22.000 --> 00:07:24.000
+les appliquent à un personnage généré par ordinateur.
+
+00:07:24.000 --> 00:07:27.000
+Vous pouvez voir sur la droite les personnages obtenus par ordinateur
+
+00:07:27.000 --> 00:07:30.000
+avoir les mêmes mouvements complexes que ceux réalisés par les danseurs.
+
+00:07:30.000 --> 00:07:32.000
+Nous avons également cherché parmi les nombreux films existants,

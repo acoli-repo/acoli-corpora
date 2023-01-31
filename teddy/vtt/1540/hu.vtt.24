@@ -1,0 +1,34 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:00.000
+Szóval tegyük fel, hogy mindegyiken elvégezzük a tesztet.
+
+00:12:00.000 --> 00:12:02.000
+Mi történik?
+
+00:12:02.000 --> 00:12:04.000
+Aközül a 100 közül, aki beteg,
+
+00:12:04.000 --> 00:12:09.000
+a teszt 99%-ban helyes eredményt mutat, és 99 pozitív lesz.
+
+00:12:09.000 --> 00:12:11.000
+Azok között, akik nem betegek,
+
+00:12:11.000 --> 00:12:14.000
+a teszt 99%-ban helyes lesz.
+
+00:12:14.000 --> 00:12:16.000
+Csak az esetek egy százalékában téved.
+
+00:12:16.000 --> 00:12:20.000
+De olyan sok van belőlük, hogy nagyon sok hamis pozitív lesz.
+
+00:12:20.000 --> 00:12:22.000
+Máshogy fogalmazva --
+
+00:12:22.000 --> 00:12:27.000
+azok közül, akiknél pozitív a teszt -- itt vannak ezek a személyek --
+
+00:12:27.000 --> 00:12:32.000
+kevesebb mint egy a százból tényleg beteg.

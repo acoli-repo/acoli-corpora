@@ -1,0 +1,28 @@
+WEBVTT
+
+00:09:29.208 --> 00:09:31.929
+hệ thống kiểm soát phiên bản ban đầu.
+
+00:09:31.929 --> 00:09:36.238
+Nhưng điều này cũng đưa sự hỗn loạn trở lại,
+
+00:09:36.238 --> 00:09:39.288
+và đây là cải tiến lớn thứ 2 của Git.
+
+00:09:39.288 --> 00:09:43.284
+Đây là ảnh chụp GitHub, dịch vụ hosting chính của Git,
+
+00:09:43.284 --> 00:09:46.634
+mỗi khi 1 lập trình viên dùng Git
+
+00:09:46.634 --> 00:09:49.795
+để tạo 1 thay đổi bất kì,
+
+00:09:49.795 --> 00:09:53.104
+tạo file mới, chỉnh sửa phải đã có,
+
+00:09:53.104 --> 00:09:57.778
+kết hợp 2 file, Git tạo ra kí hiệu thế này.
+
+00:09:57.778 --> 00:10:00.921
+Chuỗi dài chữ và số này

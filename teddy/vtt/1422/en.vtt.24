@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+Either no time delay,
+
+00:12:01.000 --> 00:12:03.000
+in which case light would just tickle your palm,
+
+00:12:03.000 --> 00:12:07.000
+or with a time delay of two-tenths of three-tenths of a second.
+
+00:12:07.000 --> 00:12:09.000
+So the important point here
+
+00:12:09.000 --> 00:12:12.000
+is the right hand always does the same things -- sinusoidal movement.
+
+00:12:12.000 --> 00:12:15.000
+The left hand always is the same and puts sinusoidal tickle.
+
+00:12:15.000 --> 00:12:17.000
+All we're playing with is a tempo causality.
+
+00:12:17.000 --> 00:12:19.000
+And as we go from naught to 0.1 second,
+
+00:12:19.000 --> 00:12:21.000
+it becomes more ticklish.
+
+00:12:21.000 --> 00:12:23.000
+As you go from 0.1 to 0.2,
+
+00:12:23.000 --> 00:12:25.000
+it becomes more ticklish at the end.
+
+00:12:25.000 --> 00:12:27.000
+And by 0.2 of a second,
+
+00:12:27.000 --> 00:12:29.000
+it's equivalently ticklish
+
+00:12:29.000 --> 00:12:31.000
+to the robot that just tickled you without you doing anything.

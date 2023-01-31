@@ -1,0 +1,45 @@
+WEBVTT
+
+00:11:57.010 --> 00:12:00.122
+és elkészült a FreeSpeech Engine, 
+ami angol mondatokat készít.
+
+00:12:00.122 --> 00:12:01.472
+Ha ebbe belegondolunk,
+
+00:12:01.472 --> 00:12:03.699
+a FreeSpeech független a nyelvtől.
+
+00:12:03.699 --> 00:12:05.863
+Semmilyen különleges információt 
+nem tartalmaz
+
+00:12:05.863 --> 00:12:07.820
+az angol nyelvről.
+
+00:12:07.820 --> 00:12:09.688
+Minden, amit a rendszer tud 
+az angol nyelvről
+
+00:12:09.688 --> 00:12:13.928
+már eleve kódolva van.
+
+00:12:13.928 --> 00:12:17.968
+Ami önmagában is egy nagyon 
+érdekes gondolat.
+
+00:12:17.968 --> 00:12:20.225
+Az összes emberi nyelv kódolva
+
+00:12:20.225 --> 00:12:23.169
+egy programba.
+
+00:12:23.169 --> 00:12:25.654
+De ha a rendszer belsejébe nézünk,
+
+00:12:25.654 --> 00:12:28.255
+látjuk, hogy ez valójában nem is 
+annyira bonyolult.
+
+00:12:28.255 --> 00:12:30.383
+Nem túl bonyolult kód.

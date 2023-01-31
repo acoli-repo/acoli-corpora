@@ -1,0 +1,42 @@
+WEBVTT
+
+00:11:57.464 --> 00:12:00.012
+et la machine « FreeSpeech », 
+qui génère l'anglais.
+
+00:12:00.012 --> 00:12:01.419
+Si vous y réfléchissez,
+
+00:12:01.419 --> 00:12:04.183
+« FreeSpeech » est complètement 
+indépendant du langage.
+
+00:12:04.183 --> 00:12:07.280
+Il ne contient aucune 
+information spécifique en anglais.
+
+00:12:07.280 --> 00:12:10.078
+Tout ce que ce système 
+sait à propos de l'anglais
+
+00:12:10.078 --> 00:12:14.698
+est en fait codé dans l'application.
+
+00:12:14.698 --> 00:12:16.935
+C'est un concept assez intéressant.
+
+00:12:16.935 --> 00:12:20.539
+On encode l'ensemble d'un langage humain
+
+00:12:20.539 --> 00:12:23.184
+dans le programme d'un logiciel.
+
+00:12:23.184 --> 00:12:26.085
+Mais si vous regardez 
+à l'intérieur de cette machine,
+
+00:12:26.085 --> 00:12:28.073
+en fait, ce n'est pas très compliqué.
+
+00:12:28.073 --> 00:12:30.178
+Ce n'est pas un code très compliqué.

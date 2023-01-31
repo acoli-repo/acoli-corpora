@@ -1,0 +1,38 @@
+WEBVTT
+
+00:07:28.371 --> 00:07:30.413
+Siihen aikaan oli eräs ongelma
+
+00:07:30.413 --> 00:07:35.163
+fonttien kokoon liittyen: datan
+määrä, joka tarvittiin löytämään ja
+
+00:07:35.163 --> 00:07:40.121
+säilömään fontti koneen muistiin.
+
+00:07:40.121 --> 00:07:41.788
+Vain rajallisen määrän fontteja
+
+00:07:41.788 --> 00:07:44.788
+sai järjestelmään kerralla.
+
+00:07:44.788 --> 00:07:48.954
+Tein datasta analyysin,
+
+00:07:48.954 --> 00:07:51.454
+ja selvisi että tyypillinen serif-fontti,
+
+00:07:51.454 --> 00:07:52.913
+jonka näette vasemmalla,
+
+00:07:52.913 --> 00:07:54.913
+tarvitsi kaksin verroin enemmän dataa
+
+00:07:54.913 --> 00:07:57.454
+kuin keskellä oleva sans serif,
+
+00:07:57.454 --> 00:07:59.538
+syynä kaikki pisteet, joita tarvittiin
+
+00:07:59.538 --> 00:08:04.038
+määrittämään serifin elegantit kaaret.

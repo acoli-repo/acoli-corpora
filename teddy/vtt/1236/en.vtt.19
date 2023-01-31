@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:30.000
+So imagine a monkey
+
+00:09:30.000 --> 00:09:32.000
+sitting at a keyboard.
+
+00:09:32.000 --> 00:09:35.000
+I think you might get a random jumble of letters that looks like this.
+
+00:09:35.000 --> 00:09:37.000
+Such a random jumble of letters
+
+00:09:37.000 --> 00:09:39.000
+is said to have a very high entropy.
+
+00:09:39.000 --> 00:09:41.000
+This is a physics and information theory term.
+
+00:09:41.000 --> 00:09:44.000
+But just imagine it's a really random jumble of letters.
+
+00:09:44.000 --> 00:09:48.000
+How many of you have ever spilled coffee on a keyboard?
+
+00:09:48.000 --> 00:09:50.000
+You might have encountered the stuck-key problem --
+
+00:09:50.000 --> 00:09:53.000
+so basically the same symbol being repeated over and over again.
+
+00:09:53.000 --> 00:09:56.000
+This kind of a sequence is said to have a very low entropy
+
+00:09:56.000 --> 00:09:58.000
+because there's no variation at all.
+
+00:09:58.000 --> 00:10:01.000
+Language, on the other hand, has an intermediate level of entropy;

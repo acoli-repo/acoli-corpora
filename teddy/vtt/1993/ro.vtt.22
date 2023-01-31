@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:57.669 --> 00:11:01.406
+Semnalele false controlează complet acest receptor GPS.
+
+00:11:01.406 --> 00:11:02.901
+E posibil cu adevărat aşa ceva?
+
+00:11:02.901 --> 00:11:04.624
+Poate cineva manipula cu adevărat
+
+00:11:04.624 --> 00:11:06.606
+încadrarea în timp şi poziţionarea unui receptor GPS
+
+00:11:06.606 --> 00:11:09.485
+aşa simplu, cu un spoofer?
+
+00:11:09.485 --> 00:11:11.500
+Răspunsul scurt este da.
+
+00:11:11.500 --> 00:11:14.304
+Cauza este că semnalele civile GPS
+
+00:11:14.304 --> 00:11:15.406
+sunt complet deschise.
+
+00:11:15.406 --> 00:11:19.397
+Ele nu sunt încriptate. Nu au nicio autentificare.
+
+00:11:19.397 --> 00:11:22.892
+Sunt larg deschise, vulnerabile oricărui atac spoofing.
+
+00:11:22.892 --> 00:11:25.467
+Chiar şi aşa, până recent,
+
+00:11:25.467 --> 00:11:27.859
+nimeni nu s-a îngrijorat în priviinţa spooferelor GPS.
+
+00:11:27.859 --> 00:11:29.837
+Oamenii s-au gândit că ar fi prea complicat
+
+00:11:29.837 --> 00:11:32.652
+sau prea scump pentru un hacker să construiască unul.

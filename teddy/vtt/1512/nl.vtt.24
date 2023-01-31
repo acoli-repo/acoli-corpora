@@ -1,0 +1,33 @@
+WEBVTT
+
+00:11:58.177 --> 00:12:00.517
+Voor het eerst niet op papier
+
+00:12:00.517 --> 00:12:04.477
+maar meteen op het scherm,
+pixel voor pixel.
+
+00:12:04.477 --> 00:12:08.330
+Schermen waren binair in die tijd.
+
+00:12:08.330 --> 00:12:11.370
+De pixel was ofwel aan, ofwel uit.
+
+00:12:11.370 --> 00:12:14.225
+Hier zie je de omtrek van een letter,
+
+00:12:14.225 --> 00:12:15.692
+de hoofdletter H.
+
+00:12:15.692 --> 00:12:21.529
+Deze zwarte contourlijn is 
+hoe hij wordt opgeslagen in het geheugen.
+
+00:12:21.529 --> 00:12:25.187
+De grijze zone is de bitmap,
+
+00:12:25.187 --> 00:12:27.171
+die wordt weergegeven op het scherm.
+
+00:12:27.171 --> 00:12:30.170
+De bitmap is gerasterd vanaf de omtrek.

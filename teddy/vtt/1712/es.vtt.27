@@ -1,0 +1,31 @@
+WEBVTT
+
+00:13:29.000 --> 00:13:34.000
+interpretar con precisión, facilidad, control y a pesar de su discapacidad física
+
+00:13:34.000 --> 00:13:37.000
+sus propias obras musicales.
+
+00:13:37.000 --> 00:13:39.000
+Entonces, el proceso y la tecnología,
+
+00:13:39.000 --> 00:13:42.000
+básicamente, primero necesitábamos una solución de ingeniería, ya saben,
+
+00:13:42.000 --> 00:13:45.000
+tenemos una cámara que mira hacia un apuntador infrarrojo.
+
+00:13:45.000 --> 00:13:49.000
+Decidimos usar el mismo tipo de gestos que el ya utilizaba
+
+00:13:49.000 --> 00:13:53.000
+para su controlador de habla.
+
+00:13:53.000 --> 00:13:56.000
+Y esta fue la parte menos interesante del proceso,
+
+00:13:56.000 --> 00:13:59.000
+la parte de diseño. Necesitábamos una forma de introducir datos, monitoreo constante,
+
+00:13:59.000 --> 00:14:02.000
+y el software vería la clase de formas que el hacía.

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:28.095 --> 00:08:31.063
+What this would do is send the cybercriminals
+
+00:08:31.063 --> 00:08:36.103
+a text message every day telling them how much money
+
+00:08:36.103 --> 00:08:37.769
+they'd made that day,
+
+00:08:37.769 --> 00:08:41.065
+so a kind of cybercriminal billings report, if you will.
+
+00:08:41.065 --> 00:08:43.822
+If you look closely, you'll notice a series
+
+00:08:43.822 --> 00:08:46.805
+of what are Russian telephone numbers.
+
+00:08:46.805 --> 00:08:48.284
+Now that's obviously interesting,
+
+00:08:48.284 --> 00:08:51.521
+because that gives us a way of finding our cybercriminals.
+
+00:08:51.521 --> 00:08:53.636
+Down below, highlighted in red,
+
+00:08:53.636 --> 00:08:55.387
+in the other section of source code,
+
+00:08:55.387 --> 00:08:58.130
+is this bit "leded:leded."
+
+00:08:58.130 --> 00:08:59.419
+That's a username,
+
+00:08:59.419 --> 00:09:02.278
+kind of like you might have on Twitter.

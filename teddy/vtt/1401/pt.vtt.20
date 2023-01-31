@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:57.000 --> 00:10:00.000
+Apresento aqui um modelo da robótica.
+
+00:10:00.000 --> 00:10:03.000
+É a chamada Arquitectura de Subsunção.
+
+00:10:03.000 --> 00:10:06.000
+O que quer dizer é que temos um sistema de controlo em camadas.
+
+00:10:06.000 --> 00:10:08.000
+A camada inferior, o nosso cérebro no intestino,
+
+00:10:08.000 --> 00:10:11.000
+tem os seus próprios objectivos -- defesa da digestão --
+
+00:10:11.000 --> 00:10:13.000
+e temos o cérebro superior
+
+00:10:13.000 --> 00:10:15.000
+com o objectivo de integração
+
+00:10:15.000 --> 00:10:17.000
+e de geração de comportamentos.
+
+00:10:17.000 --> 00:10:20.000
+Agora, ambos olham -- e isto é representado pelas setas azuis --
+
+00:10:20.000 --> 00:10:23.000
+ambos olham para a mesma comida, que está no lúmen
+
+00:10:23.000 --> 00:10:25.000
+e na área do nosso intestino.
+
+00:10:25.000 --> 00:10:27.000
+O grande cérebro integra sinais,
+
+00:10:27.000 --> 00:10:29.000
+que vêm dos programas em funcionamento
+
+00:10:29.000 --> 00:10:31.000
+do cérebro inferior.

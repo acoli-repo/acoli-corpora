@@ -1,0 +1,48 @@
+WEBVTT
+
+00:10:57.669 --> 00:11:01.406
+Las señales falsas toman
+el control del receptor GPS.
+
+00:11:01.406 --> 00:11:02.901
+¿Es esto posible?
+
+00:11:02.901 --> 00:11:04.624
+¿Puede alguien manipular
+
+00:11:04.624 --> 00:11:06.606
+el posicionamiento de un receptor GPS
+
+00:11:06.606 --> 00:11:09.485
+de ese modo, con un simulador?
+
+00:11:09.485 --> 00:11:11.500
+Bueno, sí.
+
+00:11:11.500 --> 00:11:14.304
+La clave es que las señales
+de los GPS civiles
+
+00:11:14.304 --> 00:11:15.406
+son completamente abiertas.
+
+00:11:15.406 --> 00:11:19.397
+No están encriptadas.
+Carecen de autenticación.
+
+00:11:19.397 --> 00:11:22.892
+Son vulnerables ante cualquier
+ataque de simuladores.
+
+00:11:22.892 --> 00:11:25.467
+De hecho, hasta hace poco,
+
+00:11:25.467 --> 00:11:27.859
+nadie tenía en cuenta
+a estos simuladores.
+
+00:11:27.859 --> 00:11:29.837
+La gente creía que sería muy complicado
+
+00:11:29.837 --> 00:11:32.652
+o muy costoso de construir.

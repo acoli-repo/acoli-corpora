@@ -1,0 +1,43 @@
+WEBVTT
+
+00:13:57.477 --> 00:14:02.334
+Ecco la H minuscola in Georgia corsivo.
+
+00:14:02.334 --> 00:14:04.607
+La bitmap sembra 
+frastagliata e irregolare.
+
+00:14:04.607 --> 00:14:06.466
+È frastagliata e irregolare.
+
+00:14:06.466 --> 00:14:08.462
+Ma ho scoperto, facendo esperimenti,
+
+00:14:08.462 --> 00:14:11.679
+che c'è un'inclinazione ottimale,
+
+00:14:11.679 --> 00:14:13.625
+per il corsivo su schermo
+
+00:14:13.625 --> 00:14:15.957
+in modo che i tratti si spezzino bene
+
+00:14:15.957 --> 00:14:18.440
+al confine tra i pixel.
+
+00:14:18.440 --> 00:14:21.221
+Guardate questo esempio come, 
+seppure frastagliato,
+
+00:14:21.221 --> 00:14:23.271
+le gambe sinistre e destre
+
+00:14:23.271 --> 00:14:25.220
+si spezzino allo stesso livello.
+
+00:14:25.220 --> 00:14:28.740
+È una vittoria. Va bene.
+
+00:14:28.740 --> 00:14:31.918
+E ovviamente, 
+a maggiori profondità,

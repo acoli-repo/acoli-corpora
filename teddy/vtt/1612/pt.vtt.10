@@ -1,0 +1,38 @@
+WEBVTT
+
+00:04:59.420 --> 00:05:03.050
+sobre como fazer um sistema 
+autorreplicativo autónomo.
+
+00:05:04.780 --> 00:05:06.800
+Isto é uma espécie de vingança de Babbage.
+
+00:05:06.820 --> 00:05:08.840
+Estes são pequenos computadores mecânicos.
+
+00:05:08.860 --> 00:05:10.920
+São máquinas de estados 
+com cinco estados.
+
+00:05:10.960 --> 00:05:13.540
+São três interruptores de luz alinhados.
+
+00:05:13.600 --> 00:05:15.810
+No estado neutro, nunca se ligam.
+
+00:05:15.850 --> 00:05:19.650
+Mas, se fizermos uma cadeia com eles, 
+uma cadeia de bits,
+
+00:05:19.790 --> 00:05:22.010
+eles conseguirão replicar-se.
+
+00:05:22.050 --> 00:05:24.220
+Começamos com branco, azul, azul, branco.
+
+00:05:25.190 --> 00:05:28.170
+Este é o código que agora vai copiar-se.
+De um passa para dois.
+
+00:05:29.870 --> 00:05:31.650
+E depois de dois passa para três.

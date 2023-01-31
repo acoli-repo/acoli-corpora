@@ -1,0 +1,36 @@
+WEBVTT
+
+00:12:25.209 --> 00:12:30.164
+acesta fiind modul de afișare pe ecran.
+Imaginea bitmap e rasterizată.
+
+00:12:30.164 --> 00:12:32.781
+În cazul lui „H” mare, 
+alcătuit doar din linii drepte,
+
+00:12:32.781 --> 00:12:37.559
+cele două se sincronizează aproape perfect
+în sistemul de coordonate carteziene.
+
+00:12:38.867 --> 00:12:41.593
+Însă nu și în cazul literei „O”.
+
+00:12:41.903 --> 00:12:44.720
+Arată mai mult a lucrare de zidărie
+decât a design de font,
+
+00:12:44.720 --> 00:12:47.621
+dar, credeţi-mă, 
+e un „O” în format bitmap reușit,
+
+00:12:47.621 --> 00:12:52.196
+pentru simplul motiv 
+că e simetric pe axele x și y.
+
+00:12:52.196 --> 00:12:56.454
+Într-o reprezentare bitmap binară, 
+nu poți cere mai mult de atât.
+
+00:12:56.734 --> 00:13:02.968
+Uneori cream trei-patru versiuni diferite
+ale unei litere dificile, ca „a” mic,

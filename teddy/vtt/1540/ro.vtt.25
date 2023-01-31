@@ -1,0 +1,31 @@
+WEBVTT
+
+00:12:27.000 --> 00:12:32.000
+mai puțin de unu din 100 au într-adevăr această boală.
+
+00:12:32.000 --> 00:12:36.000
+Deci deși credem că testul e corect, partea importantă a poveștii e
+
+00:12:36.000 --> 00:12:39.000
+aceea că există o altă bucată de informație de care avem nevoie.
+
+00:12:39.000 --> 00:12:41.000
+Iată intuiția cheie.
+
+00:12:42.000 --> 00:12:45.000
+Ceea ce trebuie să facem, odată ce știm că testul este pozitiv
+
+00:12:45.000 --> 00:12:51.000
+este să cântărim plauzibilitatea sau probabilitatea a două explicații concurente.
+
+00:12:51.000 --> 00:12:54.000
+Fiecare din aceste explicații are o parte probabilă și una improbabilă.
+
+00:12:54.000 --> 00:12:57.000
+O explicație e aceea că persoana nu are boala --
+
+00:12:57.000 --> 00:13:00.000
+aceste lucru este copleșitor de probabil, dacă alegi o persoană aleatoriu --
+
+00:13:00.000 --> 00:13:03.000
+însă testul iese greșit, ceea ce este puțin probabil.

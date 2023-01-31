@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:28.907 --> 00:06:32.178
+of the sounds that occur in the language.
+
+00:06:32.178 --> 00:06:33.816
+The more speech you have,
+
+00:06:33.816 --> 00:06:36.121
+the better sounding voice you're going to have.
+
+00:06:36.121 --> 00:06:37.794
+Once you have those recordings,
+
+00:06:37.794 --> 00:06:39.207
+what we need to do
+
+00:06:39.207 --> 00:06:41.925
+is we have to parse these recordings
+
+00:06:41.925 --> 00:06:44.374
+into little snippets of speech,
+
+00:06:44.374 --> 00:06:46.711
+one- or two-sound combinations,
+
+00:06:46.711 --> 00:06:48.594
+sometimes even whole words
+
+00:06:48.594 --> 00:06:53.110
+that start populating a dataset or a database.
+
+00:06:53.110 --> 00:06:56.827
+We're going to call this database a voice bank.
+
+00:06:56.827 --> 00:06:58.923
+Now the power of the voice bank
+
+00:06:58.923 --> 00:07:00.937
+is that from this voice bank,

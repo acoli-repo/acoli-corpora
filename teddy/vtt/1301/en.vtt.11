@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:28.439 --> 00:05:33.141
+are such famously inflexible interpreters of instructions
+
+00:05:33.141 --> 00:05:37.164
+that it's extraordinarily difficult to write out a set
+
+00:05:37.164 --> 00:05:40.202
+of instructions that the computer knows how to execute,
+
+00:05:40.202 --> 00:05:42.068
+and that's if one person is writing it.
+
+00:05:42.068 --> 00:05:44.167
+Once you get more than one person writing it,
+
+00:05:44.167 --> 00:05:47.251
+it's very easy for any two programmers to overwrite
+
+00:05:47.251 --> 00:05:49.912
+each other's work if they're working on the same file,
+
+00:05:49.912 --> 00:05:52.094
+or to send incompatible instructions
+
+00:05:52.094 --> 00:05:54.535
+that simply causes the computer to choke,
+
+00:05:54.535 --> 00:05:57.494
+and this problem grows larger
+
+00:05:57.494 --> 00:06:00.263
+the more programmers are involved.

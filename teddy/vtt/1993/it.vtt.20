@@ -1,0 +1,34 @@
+WEBVTT
+
+00:09:57.379 --> 00:10:00.868
+a spese dell'affidabilità generale del GPS,
+
+00:10:00.868 --> 00:10:03.028
+c'è una cosa ancora più potente
+
+00:10:03.028 --> 00:10:06.820
+e più sovversiva di Wave Bubble,
+
+00:10:06.820 --> 00:10:10.209
+ed è il GPS spoofer.
+
+00:10:10.209 --> 00:10:13.034
+L'idea alla base del GPS spoofer è semplice.
+
+00:10:13.034 --> 00:10:17.011
+Invece di disturbare i segnali GPS, li si falsifica.
+
+00:10:17.011 --> 00:10:20.129
+Li si imita, e se lo si fa correttamente,
+
+00:10:20.129 --> 00:10:23.296
+l'apparecchio che state attaccando non sa neanche di essere stato raggirato.
+
+00:10:23.296 --> 00:10:24.928
+Vi faccio vedere come funziona.
+
+00:10:24.928 --> 00:10:27.653
+In qualunque ricevitore GPS, c'è un picco all'interno
+
+00:10:27.653 --> 00:10:30.288
+che corresponde al segnale autentico.

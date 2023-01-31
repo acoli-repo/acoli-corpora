@@ -1,0 +1,38 @@
+WEBVTT
+
+00:07:28.396 --> 00:07:32.291
+Il y avait un problème à l'époque
+avec la taille des fontes,
+
+00:07:32.291 --> 00:07:34.511
+c'est-à-dire la quantité
+de données nécessaire
+
+00:07:34.511 --> 00:07:40.141
+pour trouver et stocker
+une fonte en mémoire.
+
+00:07:40.141 --> 00:07:41.799
+Cela limitait le nombre de fontes
+
+00:07:41.799 --> 00:07:44.789
+dans un système
+de composition typographique.
+
+00:07:44.789 --> 00:07:51.468
+J'ai analysé les données, et j'ai conclu
+qu'un caractère à empattements typique
+
+00:07:51.468 --> 00:07:52.921
+(que vous voyez à gauche)
+
+00:07:52.921 --> 00:07:55.087
+nécessitait presque
+deux fois plus de données
+
+00:07:55.087 --> 00:07:57.473
+qu'une linéale (au milieu),
+
+00:07:57.473 --> 00:08:02.065
+en raison de tous ces points
+servant à définir les courbes élégantes

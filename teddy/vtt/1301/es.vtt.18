@@ -1,0 +1,34 @@
+WEBVTT
+
+00:08:59.314 --> 00:09:02.338
+Tiene dos grandes diferencias
+
+00:09:02.338 --> 00:09:04.401
+con los sistemas tradicionales de control de versiones.
+
+00:09:04.401 --> 00:09:07.548
+La primera es que hace honor a la promesa filosófica
+
+00:09:07.548 --> 00:09:10.834
+del código abierto. Todo el que trabaja en un proyecto
+
+00:09:10.834 --> 00:09:14.505
+tiene acceso a todo el código fuente, todo el tiempo.
+
+00:09:14.505 --> 00:09:17.179
+Y al graficar el flujo de trabajo de Git
+
+00:09:17.179 --> 00:09:20.116
+se usan gráficos que tienen este aspecto.
+
+00:09:20.116 --> 00:09:22.434
+Y no hay que entender el significado de los círculos,
+
+00:09:22.434 --> 00:09:26.113
+las cajas y las flechas para ver que ésta es una forma mucho más
+
+00:09:26.113 --> 00:09:29.208
+complicada de trabajar que la provista
+
+00:09:29.208 --> 00:09:31.929
+por los sistemas comunes de control de versiones.

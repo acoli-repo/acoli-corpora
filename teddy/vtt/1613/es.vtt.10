@@ -1,0 +1,40 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:01.000
+ninguno de los rayos del sol alcanzarán el foco.
+
+00:05:01.000 --> 00:05:03.000
+Así que tratamos de encontrar una manera de hacer un colector no rastreador,
+
+00:05:03.000 --> 00:05:05.000
+un colector que recolectara mucho más que un grado de luz,
+
+00:05:05.000 --> 00:05:07.000
+sin partes móviles
+
+00:05:07.000 --> 00:05:09.000
+Así que creamos un algoritmo genético para intentarlo,
+
+00:05:09.000 --> 00:05:12.000
+hicimos un modelo en Excel de un reflector de superficies múltiples,
+
+00:05:12.000 --> 00:05:14.000
+y algo asombroso se desarrolló, literalmente,
+
+00:05:14.000 --> 00:05:17.000
+de probar un billón de ciclos, un billón de intentos diferentes,
+
+00:05:17.000 --> 00:05:21.000
+con una función de desempeño que definía cómo se puede recolectar la mayor cantidad de luz,
+
+00:05:21.000 --> 00:05:23.000
+desde la mayoría de ángulos, a lo largo del día, del sol.
+
+00:05:23.000 --> 00:05:25.000
+Y esta es la forma que se desarrolló.
+
+00:05:25.000 --> 00:05:28.000
+Es un colector no rastreador con seis cuernos con forma de tuba,
+
+00:05:28.000 --> 00:05:31.000
+y cada uno de ellos recolecta luz de la siguiente manera --

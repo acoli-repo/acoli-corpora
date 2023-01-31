@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:29.952 --> 00:09:32.228
+dum elevador novo
+
+00:09:32.228 --> 00:09:34.257
+— são os elevadores 
+de destino controlado,
+
+00:09:34.257 --> 00:09:36.733
+em que temos que escolher 
+o andar para onde vamos
+
+00:09:36.733 --> 00:09:38.476
+antes de entrar no elevador.
+
+00:09:38.476 --> 00:09:40.542
+Usam um algoritmo 'bin-packing'.
+
+00:09:40.542 --> 00:09:42.190
+Portanto, nada daqueles disparates
+
+00:09:42.190 --> 00:09:44.485
+de deixar cada um entrar 
+no elevador que quiser.
+
+00:09:44.485 --> 00:09:47.085
+Os que querem ir para o 10º andar 
+vão para a cabina 2,
+
+00:09:47.085 --> 00:09:49.752
+e os que querem ir para o 3º andar 
+vão para a cabina 5.
+
+00:09:49.752 --> 00:09:54.276
+O problema com isso é que
+as pessoas passam-se.
+
+00:09:54.276 --> 00:09:55.847
+As pessoas entram em pânico.
+
+00:09:55.847 --> 00:09:58.162
+E vemos porquê.
+
+00:09:58.162 --> 00:10:00.047
+É porque o elevador

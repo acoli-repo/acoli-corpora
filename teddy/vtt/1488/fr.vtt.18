@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+OK, donc un ordinateur prend une donnée spécifique dans la mémoire,
+
+00:09:01.000 --> 00:09:04.000
+l'envoie dans le processeur ou dans l'unité logique,
+
+00:09:04.000 --> 00:09:06.000
+et ensuite, il remet le résultat dans la mémoire.
+
+00:09:06.000 --> 00:09:08.000
+C'est le chemin rouge qui est surligné.
+
+00:09:08.000 --> 00:09:12.000
+La façon de travailler du cerveau, vous avez tous ces neurones.
+
+00:09:12.000 --> 00:09:14.000
+Et leur façon de représenter l'information est
+
+00:09:14.000 --> 00:09:16.000
+Ils divisent les données en petits morceaux
+
+00:09:16.000 --> 00:09:19.000
+qui sont représentés par des impulsions et des neurones différents.
+
+00:09:19.000 --> 00:09:21.000
+Donc on a tous ces bouts de donnée
+
+00:09:21.000 --> 00:09:23.000
+répartis au sein du réseau.
+
+00:09:23.000 --> 00:09:26.000
+Et puis la façon dont vous travaillez les données pour avoir un résultat
+
+00:09:26.000 --> 00:09:30.000
+c'est que vous traduisez ce modèle d'activité en un nouveau modèle,
+
+00:09:30.000 --> 00:09:33.000
+juste en le faisant passer à travers le réseau.

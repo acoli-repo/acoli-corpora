@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:57.823 --> 00:07:00.962
+et chaque fois qu'on bascule sur le secours,
+
+00:07:00.962 --> 00:07:03.471
+on sélectionne le réseau le plus rapide,
+
+00:07:03.471 --> 00:07:05.870
+c'est pourquoi il y aura
+une fonction multi-carte SIM
+
+00:07:05.870 --> 00:07:07.966
+afin de pouvoir utiliser
+plusieurs cartes SIM,
+
+00:07:07.966 --> 00:07:11.380
+et si un réseau est plus rapide,
+c'est sur celui-là qu'on se branche,
+
+00:07:11.380 --> 00:07:14.729
+et si ses temps de réponse
+ne sont pas très bons,
+
+00:07:14.729 --> 00:07:17.144
+eh bien, on se branche sur le suivant.
+
+00:07:17.144 --> 00:07:20.881
+L'idée ici est d'être capable
+de se connecter n'importe où.
+
+00:07:20.881 --> 00:07:23.769
+Avec l'équilibrage de charge,
+c'est possible.
+
+00:07:23.769 --> 00:07:27.622
+L'autre point qui nous intéresse,
+-- nous aimons les capteurs --
+
+00:07:27.622 --> 00:07:31.050
+c'est cette idée que cela pourrait être
+une porte d'accès

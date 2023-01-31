@@ -1,0 +1,37 @@
+WEBVTT
+
+00:10:56.000 --> 00:11:00.000
+realizan cuando envían vídeo por Internet.
+
+00:11:00.000 --> 00:11:01.000
+Se quiere comprimir la información --
+
+00:11:01.000 --> 00:11:05.000
+sólo quieren enviar los cambios respecto a la imagen anterior, etc.
+
+00:11:05.000 --> 00:11:08.000
+y así es como el globo ocular
+
+00:11:08.000 --> 00:11:11.000
+es capaz de comprimir toda la información hacia el nervio óptico,
+
+00:11:11.000 --> 00:11:13.000
+para enviar lo que queda al cerebro.
+
+00:11:13.000 --> 00:11:16.000
+En vez de hacer esto por software, o realizando ese tipo de algoritmos,
+
+00:11:16.000 --> 00:11:19.000
+fuimos a hablar con neurobiólogos
+
+00:11:19.000 --> 00:11:23.000
+que habían realmente realizado ingeniería inversa sobre ese trozo del cerebro llamado retina.
+
+00:11:23.000 --> 00:11:25.000
+Y habían resuelto todas las diferentes células,
+
+00:11:25.000 --> 00:11:28.000
+y habían resuelto la red y, sencillamente, tomamos esa red
+
+00:11:28.000 --> 00:11:32.000
+y la usamos como plano para diseñar un chip de silicio.

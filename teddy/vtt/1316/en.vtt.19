@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:31.000
+a new-style elevator;
+
+00:09:31.000 --> 00:09:33.000
+they're called destination-control elevators.
+
+00:09:33.000 --> 00:09:36.000
+These are the ones where you have to press what floor you're going to go to
+
+00:09:36.000 --> 00:09:38.000
+before you get in the elevator.
+
+00:09:38.000 --> 00:09:40.000
+And it uses what's called a bin-packing algorithm.
+
+00:09:40.000 --> 00:09:42.000
+So none of this mishegas
+
+00:09:42.000 --> 00:09:44.000
+of letting everybody go into whatever car they want.
+
+00:09:44.000 --> 00:09:46.000
+Everybody who wants to go to the 10th floor goes into car two,
+
+00:09:46.000 --> 00:09:49.000
+and everybody who wants to go to the third floor goes into car five.
+
+00:09:49.000 --> 00:09:51.000
+And the problem with that
+
+00:09:51.000 --> 00:09:53.000
+is that people freak out.
+
+00:09:53.000 --> 00:09:55.000
+People panic.
+
+00:09:55.000 --> 00:09:57.000
+And you see why. You see why.
+
+00:09:57.000 --> 00:09:59.000
+It's because the elevator
+
+00:09:59.000 --> 00:10:02.000
+is missing some important instrumentation, like the buttons.

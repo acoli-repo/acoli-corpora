@@ -1,0 +1,47 @@
+WEBVTT
+
+00:09:58.980 --> 00:10:00.920
+Há duas maneiras diferentes para detetar
+
+00:10:00.920 --> 00:10:02.790
+se desapareceu qualquer informação.
+
+00:10:02.790 --> 00:10:05.090
+Podemos usar as estatísticas
+ou usar os casos.
+
+00:10:05.090 --> 00:10:08.010
+Prefiro as estatísticas,
+por isso é o que vou fazer primeiro.
+
+00:10:08.010 --> 00:10:09.480
+Isto chama-se um enredo funil.
+
+00:10:09.480 --> 00:10:11.400
+É uma forma muito inteligente de detetar
+
+00:10:11.400 --> 00:10:14.000
+se desapareceram
+pequenos ensaios negativos.
+
+00:10:14.000 --> 00:10:17.970
+É um gráfico de todos os testes
+feitos para determinado tratamento.
+
+00:10:18.000 --> 00:10:20.290
+À medida que nos aproximamos
+do topo do gráfico,
+
+00:10:20.290 --> 00:10:22.280
+vemos que cada ponto é um teste.
+
+00:10:22.280 --> 00:10:25.680
+À medida que subimos, aqueles são
+os ensaios maiores, têm menos erros.
+
+00:10:25.690 --> 00:10:29.110
+É menos provável que haja ao acaso
+falsos positivos ou falsos negativos.
+
+00:10:29.110 --> 00:10:30.230
+Todos se agrupam.

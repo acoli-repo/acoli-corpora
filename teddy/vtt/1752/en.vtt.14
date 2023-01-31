@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:59.705 --> 00:07:02.640
+and I was playing with this for many, many months.
+
+00:07:02.640 --> 00:07:05.366
+I was trying out so many
+different combinations of this.
+
+00:07:05.366 --> 00:07:07.655
+And then I noticed something very
+interesting about FreeSpeech.
+
+00:07:07.655 --> 00:07:10.898
+I was trying to convert language,
+
+00:07:10.898 --> 00:07:13.282
+convert sentences in English
+into sentences in FreeSpeech,
+
+00:07:13.282 --> 00:07:15.034
+and vice versa, and back and forth.
+
+00:07:15.034 --> 00:07:17.289
+And I realized that this particular configuration,
+
+00:07:17.289 --> 00:07:19.315
+this particular way of representing language,
+
+00:07:19.315 --> 00:07:23.710
+it allowed me to actually create very concise rules
+
+00:07:23.710 --> 00:07:26.444
+that go between FreeSpeech on one side
+
+00:07:26.444 --> 00:07:27.932
+and English on the other.
+
+00:07:27.932 --> 00:07:30.112
+So I could actually write this set of rules

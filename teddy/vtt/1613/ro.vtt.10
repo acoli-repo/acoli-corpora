@@ -1,0 +1,40 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:01.000
+niciuna dintre razele soarelui nu va lovi focarul.
+
+00:05:01.000 --> 00:05:03.000
+Aşa că am încercat să facem un colector fără urmărire,
+
+00:05:03.000 --> 00:05:05.000
+un colector care ar aduna mult mai mult decât un grad de lumină,
+
+00:05:05.000 --> 00:05:07.000
+şi fără părţi mobile.
+
+00:05:07.000 --> 00:05:09.000
+Aşa că am creat acest algoritm genetic pentru a testa această idee,
+
+00:05:09.000 --> 00:05:12.000
+am făcut un model în XL al unui reflector cu suprafeţe multiple,
+
+00:05:12.000 --> 00:05:14.000
+şi un lucru uluitor a evoluat, literalmente a evoluat,
+
+00:05:14.000 --> 00:05:17.000
+după ce au fost încercate un miliard ce cicluri, un miliard de tentative diferite,
+
+00:05:17.000 --> 00:05:21.000
+cu o funcţie fitness care a definit cum poţi aduna cea mai multă energie,
+
+00:05:21.000 --> 00:05:23.000
+din cele mai multe unghiuri, în decurs de o zi, de la soare.
+
+00:05:23.000 --> 00:05:25.000
+Şi aceasta este forma care a evoluat.
+
+00:05:25.000 --> 00:05:28.000
+Acest colector, fără urmărire, cu aceste 6 hornuri ca de tubă,
+
+00:05:28.000 --> 00:05:31.000
+şi fiecare din ele colectează lumină în felul următor --

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:31.000
+In genere, l'efficienza è un fattore cruciale
+
+00:09:31.000 --> 00:09:35.000
+dato che, nel tempo, il costo del carburante supera di molto il costo del motore.
+
+00:09:35.000 --> 00:09:37.000
+Ma se il carburante è gratis
+
+00:09:37.000 --> 00:09:40.000
+l'unica cosa che conta è il costo nudo del motore.
+
+00:09:40.000 --> 00:09:42.000
+Quindi non si cerca di massimizzare l'efficienza,
+
+00:09:42.000 --> 00:09:44.000
+bensì la quantità di energia prodotta per dollaro speso.
+
+00:09:44.000 --> 00:09:46.000
+Quindi in quest'ottica, seguendo questo nuovo criterio,
+
+00:09:46.000 --> 00:09:48.000
+pensammo di poter rinnovare il motore Stirling
+
+00:09:48.000 --> 00:09:50.000
+facendo uso anche di algoritmi genetici.
+
+00:09:50.000 --> 00:09:54.000
+Robert Stirling non ebbe Gordon Moore a precederlo
+
+00:09:54.000 --> 00:09:56.000
+e a portarci la potenza dei processori da 3 gigahertz.
+
+00:09:56.000 --> 00:09:58.000
+Così utilizzammo lo stesso algoritmo genetico usato
+
+00:09:58.000 --> 00:10:00.000
+per il concentratore, quello che non aveva funzionato,
+
+00:10:00.000 --> 00:10:03.000
+per ottimizzare il motore Stirling,

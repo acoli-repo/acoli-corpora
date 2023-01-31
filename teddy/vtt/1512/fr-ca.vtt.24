@@ -1,0 +1,36 @@
+WEBVTT
+
+00:11:58.177 --> 00:12:01.177
+Pour la première fois,
+nous ne travaillions pas sur le papier,
+
+00:12:01.177 --> 00:12:04.477
+mais directement à l'écran,
+à partir du pixel.
+
+00:12:04.477 --> 00:12:08.330
+À cette époque,
+les écrans étaient binaires :
+
+00:12:08.330 --> 00:12:11.370
+un pixel était soit allumé, soit éteint.
+
+00:12:11.370 --> 00:12:15.805
+Voici le contour du « H »,
+
+00:12:15.805 --> 00:12:18.482
+qui est la mince ligne noire.
+
+00:12:18.482 --> 00:12:21.369
+C'est ainsi qu'il est stocké en mémoire.
+
+00:12:21.369 --> 00:12:25.187
+L'image matricielle (en gris)
+y est superposée,
+
+00:12:25.187 --> 00:12:27.024
+ce qui constitue l'affichage.
+
+00:12:27.024 --> 00:12:30.170
+L'image vectorielle est dessinée
+à partir du contour.

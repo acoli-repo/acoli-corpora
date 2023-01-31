@@ -1,0 +1,25 @@
+WEBVTT
+
+00:05:59.000 --> 00:06:03.000
+você aumenta o volume da corrente, e obtêm um fluxo constante de corrente.
+
+00:06:03.000 --> 00:06:07.000
+E quando você desliga o portão, não existe mais corrente fluindo pelo dispositivo.
+
+00:06:07.000 --> 00:06:12.000
+Seu computador usa esta presença de corrente para representar um UM (1),
+
+00:06:12.000 --> 00:06:16.000
+e a ausência de corrente para representar um ZERO (0).
+
+00:06:16.000 --> 00:06:22.000
+Agora, o que acontece é que como os transistores estão ficando menores, e menores, e menores,
+
+00:06:22.000 --> 00:06:24.000
+eles não se comportam mais assim.
+
+00:06:24.000 --> 00:06:29.000
+De fato, eles estão começando a se comportar como o dispositivo que os neurônios utilizam para computar,
+
+00:06:29.000 --> 00:06:31.000
+que é chamado de um canal iônico.

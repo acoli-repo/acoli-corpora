@@ -1,0 +1,40 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:01.000
+hiç bir şekilde odaklarına alamazlar.
+
+00:05:01.000 --> 00:05:03.000
+Bizde güneşi takip etmeyen bir toplayıcı yapmanın peşine düştük,
+
+00:05:03.000 --> 00:05:05.000
+bu toplayıcı 1 derece sapmadan çok daha fazlasını kaldırabilecek
+
+00:05:05.000 --> 00:05:07.000
+ve hareketsiz olacak.
+
+00:05:07.000 --> 00:05:09.000
+Bizde bunu bulmak için genetik algoritmayı kullandık,
+
+00:05:09.000 --> 00:05:12.000
+bir çoklu-yüzeyli yansıtıcının XL modelini yaptık,
+
+00:05:12.000 --> 00:05:14.000
+ve inanılmaz bir şey evrimleşti, resmen evrimleşti,
+
+00:05:14.000 --> 00:05:17.000
+milyarlarca döngüden, milyarlaca farklı denemeden sonra,
+
+00:05:17.000 --> 00:05:21.000
+gün içindeki güneşin pek çok farklı açılarından yararlanarak güneşi
+
+00:05:21.000 --> 00:05:23.000
+toplayabilecek formu yakalamayı başardık.
+
+00:05:23.000 --> 00:05:25.000
+İşte buda ortaya çıkan şekil.
+
+00:05:25.000 --> 00:05:28.000
+Bu, altı tane boynuzu olan takipsiz bir toplayıcı,
+
+00:05:28.000 --> 00:05:31.000
+ve her biri güneş ışığını şu şekilde topluyor:

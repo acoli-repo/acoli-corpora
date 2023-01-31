@@ -1,0 +1,41 @@
+WEBVTT
+
+00:05:29.317 --> 00:05:32.175
+Cette visualisation a été faite par un professeur italien.
+
+00:05:32.175 --> 00:05:35.569
+Il s'appelle André Pannison, et il a simplement
+
+00:05:35.569 --> 00:05:37.744
+pris les conversations Twitter sur la Place Tahrir
+
+00:05:37.744 --> 00:05:41.198
+le jour où Hosni Mubarak a fini par démissionner
+
+00:05:41.198 --> 00:05:43.830
+et les points que vous voyez sont les retweets, 
+donc quand quelqu'un
+
+00:05:43.830 --> 00:05:46.609
+retweete un message, on crée une connexion 
+entre deux points,
+
+00:05:46.609 --> 00:05:49.219
+et plus le message est retweeté par d'autres,
+
+00:05:49.219 --> 00:05:52.425
+plus on voit de nœuds, de connexions se créer.
+
+00:05:52.425 --> 00:05:54.347
+C'est un moyen formidable 
+de visualiser une conversation,
+
+00:05:54.347 --> 00:05:57.058
+mais ce que vous obtenez ce sont des indices 
+sur qui est plus intéressant
+
+00:05:57.058 --> 00:05:59.739
+et vaut la peine d'être étudié.
+
+00:05:59.739 --> 00:06:02.618
+Plus la conversation s'agrandit, plus elle devient

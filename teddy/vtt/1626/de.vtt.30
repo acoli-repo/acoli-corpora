@@ -1,0 +1,40 @@
+WEBVTT
+
+00:14:59.000 --> 00:15:01.000
+Um ein Beispiel zu nennen,
+
+00:15:01.000 --> 00:15:03.000
+in den extremsten Fällen,
+
+00:15:03.000 --> 00:15:05.000
+können wir ein Programm erstellen, welches sich
+
+00:15:05.000 --> 00:15:09.000
+aus zufälligen Instruktionen entwickelt.
+
+00:15:09.000 --> 00:15:11.000
+Wir sagen, "Computer, generiere bitte
+
+00:15:11.000 --> 00:15:14.000
+einhundert Millionen zufällig ausgewählte Sequenzen von Instruktionen.
+
+00:15:14.000 --> 00:15:17.000
+Jetzt führe bitte alle diese zufällig gewählten Instruktionen aus,
+
+00:15:17.000 --> 00:15:19.000
+führe alle Programme aus,
+
+00:15:19.000 --> 00:15:22.000
+und wähle schlussendlich diejenigen, welche meiner Vorgaben am nächsten sind."
+
+00:15:22.000 --> 00:15:24.000
+Also in anderen Worten definiere ich zuerst was ich will.
+
+00:15:24.000 --> 00:15:26.000
+Sagen wir mal, ich will Nummern sortieren,
+
+00:15:26.000 --> 00:15:28.000
+das wäre ein einfaches Beispiel, welches ich schon dafür verwendet habe.
+
+00:15:28.000 --> 00:15:31.000
+Finde also Programme, welche am ehesten Nummern sortieren können.

@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:01.000
+dies Fisch-ähnliche und andere Zeichen folgen,
+
+00:08:01.000 --> 00:08:03.000
+aber niemals die Unteren.
+
+00:08:03.000 --> 00:08:05.000
+Ausserdem gibt es einige Zeichen,
+
+00:08:05.000 --> 00:08:07.000
+die oft am Ende eines Textes stehen,
+
+00:08:07.000 --> 00:08:09.000
+wie dieses Krug-ähnliche.
+
+00:08:09.000 --> 00:08:11.000
+Dieses Zeichen ist übrigens
+
+00:08:11.000 --> 00:08:13.000
+das am Häufigsten vorkommende.
+
+00:08:13.000 --> 00:08:16.000
+Die Muster brachten uns auf eine Idee.
+
+00:08:16.000 --> 00:08:18.000
+wir könnten einen Computer
+
+00:08:18.000 --> 00:08:20.000
+die Muster lernen lassen, und so
+
+00:08:20.000 --> 00:08:23.000
+fütterten wir ihm die vorhandenen Texte.
+
+00:08:23.000 --> 00:08:25.000
+Er lernte so ein statistisches Modell,
+
+00:08:25.000 --> 00:08:27.000
+welche der Symbole zusammen auftauchten,
+
+00:08:27.000 --> 00:08:29.000
+welche einander oft folgten.
+
+00:08:29.000 --> 00:08:31.000
+Mit dem Computermodell

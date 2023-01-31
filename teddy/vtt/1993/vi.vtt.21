@@ -1,0 +1,31 @@
+WEBVTT
+
+00:10:27.653 --> 00:10:30.288
+trao đổi tín hiệu xác thực.
+
+00:10:30.288 --> 00:10:33.103
+Ba cái chấm đỏ này đại diện cho những điểm theo dõi
+
+00:10:33.103 --> 00:10:35.982
+mà nó giữ chúng ta tại trung tâm của cái đỉnh đó.
+
+00:10:35.982 --> 00:10:39.047
+Nhưng nếu bạn gửi một tín hiệu GPS giả
+
+00:10:39.047 --> 00:10:43.513
+một đỉnh chóp khác, và nếu bạn có hai đỉnh chóp này
+
+00:10:43.513 --> 00:10:48.231
+được xếp thành hàng, những điểm theo dõi sẽ không thể nói được sự khác biệt,
+
+00:10:48.231 --> 00:10:51.542
+và chúng sẽ bị tấn công bởi tín hiệu giả mạnh hơn
+
+00:10:51.542 --> 00:10:55.502
+với điểm chóp thật bị ép ra ngoài.
+
+00:10:55.502 --> 00:10:57.669
+Tại điểm này, trò chơi kết thúc.
+
+00:10:57.669 --> 00:11:01.406
+Tín hiệu giả giờ hoàn toàn kiểm soát tín hiệu nhận GPS

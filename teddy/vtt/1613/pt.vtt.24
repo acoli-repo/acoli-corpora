@@ -1,0 +1,45 @@
+WEBVTT
+
+00:11:58.981 --> 00:12:01.690
+como descobri quando construí
+a versão simples no liceu,
+
+00:12:01.690 --> 00:12:03.527
+em algo potencialmente viável.
+
+00:12:03.527 --> 00:12:07.245
+Logo que elevada a eficiência,
+era preciso obtê-la a baixo custo.
+
+00:12:07.245 --> 00:12:10.790
+Traçámos o caminho para conseguir
+o custo mais baixo possível.
+
+00:12:10.790 --> 00:12:14.191
+Construímos um modelo matemático
+de como funciona um motor de Stirling.
+
+00:12:14.191 --> 00:12:15.881
+Aplicámos o algoritmo genético.
+
+00:12:15.881 --> 00:12:18.545
+Daí conseguimos os resultados
+para o motor ótimo.
+
+00:12:18.545 --> 00:12:21.609
+Construímos 100 motores diferentes
+nos últimos dois anos.
+
+00:12:21.609 --> 00:12:24.972
+Medimos cada um deles e reajustámos
+o modelo com o que medimos,
+
+00:12:24.972 --> 00:12:27.090
+e chegámos ao protótipo atual.
+
+00:12:27.090 --> 00:12:29.500
+Chegámos a um motor
+muito compacto e barato.
+
+00:12:29.500 --> 00:12:31.536
+Este é o aspeto do motor.

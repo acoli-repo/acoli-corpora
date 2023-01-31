@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:58.819 --> 00:06:03.066
+Cái hay ở đây là cách chia cấu
+trúc của máy tính
+
+00:06:03.066 --> 00:06:06.020
+ra thành nhiều phần tự vận hành,
+
+00:06:06.020 --> 00:06:09.920
+mỗi phần có thể được chuyên biệt hóa,
+
+00:06:09.920 --> 00:06:15.155
+được thiết lập và kiểm tra
+riêng rẽ và độc lập với các phần khác.
+
+00:06:15.155 --> 00:06:18.144
+Và từ ngày đầu tiên, Noam
+và tôi quyết định
+
+00:06:18.144 --> 00:06:21.680
+đặt tất cả những chi tiết
+này trong mã nguồn mở
+
+00:06:21.680 --> 00:06:23.160
+trên mạng.
+
+00:06:23.160 --> 00:06:27.631
+Vì thế các chi tiết về chip, API, 
+nội dung dự án,
+
+00:06:27.631 --> 00:06:31.535
+các công cụ phần mềm,
+phần cứng ảo, CPU ảo,

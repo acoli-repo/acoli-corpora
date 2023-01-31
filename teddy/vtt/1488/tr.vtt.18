@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+Tamam,o halde bilgisayar bellekten bir veri parçası alıyor,
+
+00:09:01.000 --> 00:09:04.000
+onu işlemciye ya da ALU'ya gönderiyor,
+
+00:09:04.000 --> 00:09:06.000
+ve sonra da sonucu belleğe geri koyuyor.
+
+00:09:06.000 --> 00:09:08.000
+Beliren kırmızı renkli yol şeklinde.
+
+00:09:08.000 --> 00:09:12.000
+Beyinlerin çalışmasında, bütün bu nöronlara sahipsiniz.
+
+00:09:12.000 --> 00:09:14.000
+Ve onların bilgiyi temsil etme şekli
+
+00:09:14.000 --> 00:09:16.000
+verileri kısa bölümler ve farklı nöronlar tarafından
+
+00:09:16.000 --> 00:09:19.000
+temsil edilecek şekilde ufak parçalar haline getirmek.
+
+00:09:19.000 --> 00:09:21.000
+Böylece şebekenin tamamına dağıtılmış
+
+00:09:21.000 --> 00:09:23.000
+bütün veri bölümlerine sahipsiniz.
+
+00:09:23.000 --> 00:09:26.000
+Ve sonra verilerin işlenmesiyle hedefe ulaşmada izlenecek yol,
+
+00:09:26.000 --> 00:09:30.000
+sizin şebekenin içindeki akışı sağlamanız yoluyla
+
+00:09:30.000 --> 00:09:33.000
+bu aktivite biçimini yeni bir aktivite biçimine dönüştürmektir.

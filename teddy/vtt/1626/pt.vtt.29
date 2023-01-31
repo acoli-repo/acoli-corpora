@@ -1,0 +1,41 @@
+WEBVTT
+
+00:14:29.521 --> 00:14:32.412
+é pensarmos num certo nível de abstração
+
+00:14:32.412 --> 00:14:34.114
+e depois entregamos isso à máquina.
+
+00:14:34.114 --> 00:14:37.276
+A máquina leva isso a um ponto 
+para além do que seríamos capazes,
+
+00:14:37.276 --> 00:14:39.658
+mais longe e mais depressa
+do que seríamos capazes.
+
+00:14:39.658 --> 00:14:41.814
+De facto, às vezes, fá-lo com métodos
+
+00:14:41.822 --> 00:14:44.222
+que nem sequer compreendemos.
+
+00:14:44.438 --> 00:14:47.127
+Um método particularmente interessante
+
+00:14:47.127 --> 00:14:49.771
+que tenho utilizado recentemente
+
+00:14:49.771 --> 00:14:51.616
+é a própria evolução.
+
+00:14:52.123 --> 00:14:55.812
+Portanto, o que fazemos
+é colocar dentro da máquina
+
+00:14:55.812 --> 00:14:57.334
+um processo de evolução
+
+00:14:57.355 --> 00:15:00.430
+que decorre numa escala temporal 
+de microssegundos.

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:27.323 --> 00:05:30.061
+telah melakukan simulasi computer akan apa yang terjadi
+
+00:05:30.061 --> 00:05:33.492
+dengan logika fuzzy, bahkan di tempat yang sepi
+
+00:05:33.492 --> 00:05:36.116
+di mana mobil hanya membagikan data GPS,
+
+00:05:36.116 --> 00:05:38.629
+kami mengalihkan penelitian ini dari simulasi komputer
+
+00:05:38.629 --> 00:05:41.656
+ke tes robot yang memiliki sensor sungguhan
+
+00:05:41.656 --> 00:05:44.789
+yang ada di mobil pada robot-robot ini:
+
+00:05:44.789 --> 00:05:46.627
+kamera stereo, GPS,
+
+00:05:46.627 --> 00:05:48.501
+dan pelacak laser 2 dimensi
+
+00:05:48.501 --> 00:05:50.741
+yang biasa ada dalam sistem cadangan.
+
+00:05:50.741 --> 00:05:55.225
+Kami juga memasang radio komunikasi jarak pendek
+
+00:05:55.225 --> 00:05:57.134
+di mana robot-robot itu saling berbicara.
+
+00:05:57.134 --> 00:05:58.673
+Saat robot-robot ini saling mendekat,
+
+00:05:58.673 --> 00:06:01.644
+mereka melacak posisi robot lainnya dengan tepat

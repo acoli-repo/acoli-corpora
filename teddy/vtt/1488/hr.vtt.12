@@ -1,0 +1,25 @@
+WEBVTT
+
+00:05:59.000 --> 00:06:03.000
+povećavamo količinu struje i dobivamo stalan tok struje.
+
+00:06:03.000 --> 00:06:07.000
+A kada ugasimo prekidač, nema struje koja teče kroz napravu.
+
+00:06:07.000 --> 00:06:12.000
+Vaše računalo koristi prisutnost struje da predstavlja jedinicu,
+
+00:06:12.000 --> 00:06:16.000
+a nedostatak struje da predstavi nulu.
+
+00:06:16.000 --> 00:06:22.000
+Ono što se događa jest da tranzistori postaju sve manji, i manji, i manji
+
+00:06:22.000 --> 00:06:24.000
+i više se ne ponašaju tako.
+
+00:06:24.000 --> 00:06:29.000
+U stvari počnu se ponašati kao naprave koje neuroni koriste za računanje,
+
+00:06:29.000 --> 00:06:31.000
+koji se nazivaju ionski kanali.

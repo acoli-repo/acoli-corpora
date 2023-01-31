@@ -1,0 +1,28 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+known as 3D SLAM, for simultaneous localization and mapping.
+
+00:09:01.000 --> 00:09:03.000
+DEPTHX is an all-seeing eyeball.
+
+00:09:03.000 --> 00:09:07.000
+Its sensor beams look both forward and backward at the same time,
+
+00:09:07.000 --> 00:09:10.000
+allowing it to do new exploration
+
+00:09:10.000 --> 00:09:12.000
+while it's still achieving geometric sensor-lock
+
+00:09:12.000 --> 00:09:13.000
+on what it's gone through already.
+
+00:09:13.000 --> 00:09:16.000
+What I'm going to show you next
+
+00:09:16.000 --> 00:09:20.000
+is the first fully autonomous robotic exploration underground
+
+00:09:20.000 --> 00:09:23.000
+that's ever been done.

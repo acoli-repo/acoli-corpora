@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:31.000
+quand vous observez les méthodes de tests utilisées par l'industrie,
+
+00:09:31.000 --> 00:09:33.000
+qu'elles sont en fait meilleures
+
+00:09:33.000 --> 00:09:35.000
+que les tests indépendants.
+
+00:09:35.000 --> 00:09:38.000
+Et pourtant, ils arrivent toujours à obtenir les résultats qu'ils désirent.
+
+00:09:38.000 --> 00:09:40.000
+Comment est-ce que cela marche ?
+
+00:09:40.000 --> 00:09:43.000
+Comment expliquer cet étrange phénomène ?
+
+00:09:43.000 --> 00:09:45.000
+Il s'avère que c'est dû à la disparition
+
+00:09:45.000 --> 00:09:47.000
+des données négatives en cours de tests ;
+
+00:09:47.000 --> 00:09:49.000
+elles sont cachées aux médecins et aux patients.
+
+00:09:49.000 --> 00:09:51.000
+Ceci est le côté le plus important de toute cette histoire.
+
+00:09:51.000 --> 00:09:53.000
+C'est le sommet de la pyramide des preuves.
+
+00:09:53.000 --> 00:09:56.000
+Il faut avoir l'ensemble des données d'un traitement donné
+
+00:09:56.000 --> 00:09:58.000
+pour savoir, si oui ou non, il est efficace.
+
+00:09:58.000 --> 00:10:00.000
+Il y a deux manières de détecter
+
+00:10:00.000 --> 00:10:02.000
+si des données ont disparu en cours de route.

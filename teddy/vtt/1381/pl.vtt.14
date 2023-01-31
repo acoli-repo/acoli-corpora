@@ -1,0 +1,49 @@
+WEBVTT
+
+00:06:57.000 --> 00:07:00.000
+Skupiliśmy się zatem na motion capture.
+
+00:07:00.000 --> 00:07:02.000
+Jestem pewien, że wielu z państwa widziało już tę technologię.
+
+00:07:02.000 --> 00:07:04.000
+W tamtym czasie szczytem techniki
+
+00:07:04.000 --> 00:07:06.000
+był tzw. marker-based motion capture.
+
+00:07:06.000 --> 00:07:07.000
+Pokażę państwu przykład.
+
+00:07:07.000 --> 00:07:09.000
+Wygląda to tak: ubiera się strój gimnastyczny,
+
+00:07:09.000 --> 00:07:11.000
+a na ciało przypina się odblaskowe punkty.
+
+00:07:11.000 --> 00:07:13.000
+i zamiast kamer
+
+00:07:13.000 --> 00:07:15.000
+używa się czujników na podczerwień
+
+00:07:15.000 --> 00:07:17.000
+umieszczonych na całym ciele,
+
+00:07:17.000 --> 00:07:19.000
+które śledzą trójwymiarową pozycję punktów w czasie rzeczywistym.
+
+00:07:19.000 --> 00:07:22.000
+Następnie animator zbiera dane dotyczące ruchu punktów
+
+00:07:22.000 --> 00:07:24.000
+i dostosowuje je do komputerowej postaci.
+
+00:07:24.000 --> 00:07:27.000
+Można zauważyć, że komputerowe postacie po prawej
+
+00:07:27.000 --> 00:07:30.000
+ruszają się tak samo jak tancerze.
+
+00:07:30.000 --> 00:07:32.000
+Zwróciliśmy ponadto uwagę na inne filmy,

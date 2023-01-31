@@ -1,0 +1,37 @@
+WEBVTT
+
+00:11:29.814 --> 00:11:31.984
+recuperación de datos, todo eso,
+
+00:11:31.984 --> 00:11:35.042
+son mucho más simples y eficaces,
+
+00:11:35.042 --> 00:11:38.626
+porque no procesan
+la estructura de la expresión,
+
+00:11:39.476 --> 00:11:42.709
+sino la estructura del pensamiento.
+
+00:11:45.992 --> 00:11:48.417
+La estructura del pensamiento.
+
+00:11:48.417 --> 00:11:49.959
+Es una idea estimulante.
+
+00:11:50.165 --> 00:11:52.459
+Pero veamos con más detalle.
+
+00:11:52.459 --> 00:11:54.728
+Este es el ecosistema de FreeSpeech.
+
+00:11:54.728 --> 00:11:57.324
+A un lado, tenemos la 
+representación de FreeSpeech,
+
+00:11:57.470 --> 00:11:59.917
+y tenemos el motor de FreeSpeech,
+que genera inglés.
+
+00:11:59.917 --> 00:12:01.724
+Ahora, si lo piensan,

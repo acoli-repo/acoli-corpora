@@ -1,0 +1,38 @@
+WEBVTT
+
+00:06:59.705 --> 00:07:02.640
+a zabýval jsem se jí mnoho a mnoho měsíců.
+
+00:07:02.640 --> 00:07:05.366
+Zkoušel jsem řadu nejrůznějších kombinací.
+
+00:07:05.366 --> 00:07:07.655
+A pak jsem odhalil něco zajímavého.
+
+00:07:07.655 --> 00:07:10.898
+Pokoušel jsem se převést jazyk,
+
+00:07:10.898 --> 00:07:13.282
+převést věty v angličtině do vět ve FreeSpeech
+
+00:07:13.282 --> 00:07:15.034
+a obráceně.
+
+00:07:15.034 --> 00:07:17.289
+A uvědomil jsem si, 
+že tato konkrétní konfigurace,
+
+00:07:17.289 --> 00:07:19.315
+tento způsob reprezentace jazyka,
+
+00:07:19.315 --> 00:07:23.710
+mi umožňuje vytvořit velmi výstižná pravidla,
+
+00:07:23.710 --> 00:07:26.444
+která fungují mezi FreeSpeech na jedné straně
+
+00:07:26.444 --> 00:07:27.932
+a angličtinou na straně druhé.
+
+00:07:27.932 --> 00:07:30.112
+A tak jsem mohl zapsat tato pravidla,

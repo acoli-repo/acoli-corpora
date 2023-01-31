@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:56.000 --> 00:06:01.000
+Entonces, alrededor de dos horas y media del día podíamos recolectar con un componente estacionario.
+
+00:06:01.000 --> 00:06:04.000
+Sin embargo, las celdas solares captan luz durante cuatro horas y media.
+
+00:06:04.000 --> 00:06:06.000
+En un día promedio, una celda solar --
+
+00:06:06.000 --> 00:06:08.000
+debido al movimiento del sol a través del cielo,
+
+00:06:08.000 --> 00:06:11.000
+la celda solar decae con una función sinusoidal de rendimiento
+
+00:06:11.000 --> 00:06:13.000
+en los ángulos fuera de eje.
+
+00:06:13.000 --> 00:06:15.000
+Capta cerca de cuatro horas y media de luz solar durante el día.
+
+00:06:15.000 --> 00:06:18.000
+Por tanto, aunque era maravilloso sin partes que se movieran --
+
+00:06:18.000 --> 00:06:20.000
+podíamos lograr altas temperaturas -- no era suficiente.
+
+00:06:20.000 --> 00:06:22.000
+Necesitábamos derrotar a las celdas solares.
+
+00:06:22.000 --> 00:06:24.000
+Entonces, pensamos en otra idea.
+
+00:06:24.000 --> 00:06:27.000
+Vimos cómo separar una parábola en pétalos individuales que rastrearíamos.
+
+00:06:27.000 --> 00:06:30.000
+Así que lo que ven aquí son 12 pétalos separados,
+
+00:06:30.000 --> 00:06:33.000
+que cada uno podría ser controlado con microprocesadores individuales

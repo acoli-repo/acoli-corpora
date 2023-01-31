@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:01.000
+par ces symboles en forme de poisson et quelques autres signes,
+
+00:08:01.000 --> 00:08:03.000
+mais jamais par ces autres signes en bas.
+
+00:08:03.000 --> 00:08:05.000
+Et de plus, il y a quelques signes
+
+00:08:05.000 --> 00:08:07.000
+qui préfèrent vraiment la fin des textes,
+
+00:08:07.000 --> 00:08:09.000
+comme ce signe en forme de pot.
+
+00:08:09.000 --> 00:08:11.000
+Et ce signe, en fait, se trouve être
+
+00:08:11.000 --> 00:08:13.000
+le signe le plus fréquemment rencontré dans l'écriture.
+
+00:08:13.000 --> 00:08:16.000
+Compte tenu de tels modèles, voici notre idée.
+
+00:08:16.000 --> 00:08:18.000
+L'idée était d'utiliser un ordinateur
+
+00:08:18.000 --> 00:08:20.000
+pour apprendre ces modèles,
+
+00:08:20.000 --> 00:08:23.000
+et donc nous avons donné les textes actuels à l'ordinateur.
+
+00:08:23.000 --> 00:08:25.000
+Et l'ordinateur a appris un modèle statistique
+
+00:08:25.000 --> 00:08:27.000
+des symboles ayant tendance à apparaître ensemble
+
+00:08:27.000 --> 00:08:29.000
+et des symboles ayant tendance à se suivre.
+
+00:08:29.000 --> 00:08:31.000
+Compte tenu du modèle informatique,

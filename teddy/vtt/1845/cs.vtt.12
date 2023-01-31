@@ -1,0 +1,28 @@
+WEBVTT
+
+00:05:58.819 --> 00:06:03.066
+Šlo hlavně o to rozložit stavbu počítače
+
+00:06:03.066 --> 00:06:06.020
+do mnoha samostatných modulů tak,
+
+00:06:06.020 --> 00:06:09.920
+aby každý z nich mohl být samostatně popsán,
+
+00:06:09.920 --> 00:06:15.155
+postaven a otestován v izolaci od zbytku projektu.
+
+00:06:15.155 --> 00:06:18.144
+A od prvního dne jsme se s Noamem rozhodli
+
+00:06:18.144 --> 00:06:21.680
+zpřístupnit všechny tyto stavební kameny zdarma jako open source
+
+00:06:21.680 --> 00:06:23.160
+na Internet.
+
+00:06:23.160 --> 00:06:27.631
+Takže specifikace čipů, API, projektové popisy,
+
+00:06:27.631 --> 00:06:31.535
+sofwarové nástroje, hardwarové simulátory, CPU emulátory,

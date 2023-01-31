@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:58.673 --> 00:06:01.644
+they track each other's position precisely,
+
+00:06:01.644 --> 00:06:04.381
+and they can avoid each other.
+
+00:06:04.381 --> 00:06:07.607
+We're now adding more and more robots into the mix,
+
+00:06:07.607 --> 00:06:09.078
+and we encountered some problems.
+
+00:06:09.078 --> 00:06:11.437
+One of the problems, when you get too much chatter,
+
+00:06:11.437 --> 00:06:15.165
+it's hard to process all the packets, so you have to prioritize,
+
+00:06:15.165 --> 00:06:17.522
+and that's where the predictive model helps you.
+
+00:06:17.522 --> 00:06:21.894
+If your robot cars are all tracking the predicted trajectories,
+
+00:06:21.894 --> 00:06:23.661
+you don't pay as much attention to those packets.
+
+00:06:23.661 --> 00:06:25.364
+You prioritize the one guy
+
+00:06:25.364 --> 00:06:26.697
+who seems to be going a little off course.
+
+00:06:26.697 --> 00:06:29.223
+That guy could be a problem.
+
+00:06:29.223 --> 00:06:32.225
+And you can predict the new trajectory.

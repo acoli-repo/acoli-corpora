@@ -1,0 +1,43 @@
+WEBVTT
+
+00:12:57.000 --> 00:13:00.000
+Ayrıca Julie'nin yaş, cinsiyet ve boy bilgilerini de modelime yerleştirdim.
+
+00:13:00.000 --> 00:13:02.000
+Onun ortalama sayıda kişi ile ortalama hava kirliliğine
+
+00:13:02.000 --> 00:13:04.000
+sahip bir evde yaşadığını varsaydım.
+
+00:13:04.000 --> 00:13:06.000
+Bu yazılımı kullanarak her kullanıcı bu bilgileri girebilir
+
+00:13:06.000 --> 00:13:08.000
+ve "Akciğer Fonksiyon Raporu" düğmesine tıklayarak
+
+00:13:08.000 --> 00:13:10.000
+oluşturduğum bu raporu elde edebilir.
+
+00:13:10.000 --> 00:13:14.000
+Bu rapor, araştırmamın düğüm noktasını açıklığa kavuşturuyor.
+
+00:13:14.000 --> 00:13:18.000
+Peki rapor ne gösteriyor? --Sağ üst köşedeki grafiğe bakacak olursanız--
+
+00:13:18.000 --> 00:13:20.000
+sarı renk ile gösterilen bölgede Julie'nin gerçek
+
+00:13:20.000 --> 00:13:22.000
+nefes verme gücü gösteriliyor.
+
+00:13:22.000 --> 00:13:25.000
+Bu ölçüm, Julie'nin doktorundan aldığı değerdir.
+
+00:13:25.000 --> 00:13:27.000
+Aynı grafiğin alt kısmında mavi renk ile gösterilen bölge,
+
+00:13:27.000 --> 00:13:30.000
+Julie'nin yaşı, cinsiyeti ve boyu baz alınarak
+
+00:13:30.000 --> 00:13:32.000
+değerlendirilen ve normalde olması gerekli

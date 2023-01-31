@@ -1,0 +1,31 @@
+WEBVTT
+
+00:09:57.778 --> 00:10:00.921
+Chuỗi dài chữ và số này
+
+00:10:00.921 --> 00:10:05.996
+là số nhận dạng duy nhất cho mỗi thay đổi,
+
+00:10:05.996 --> 00:10:08.853
+mà không cần bộ phân quyền trung tâm nào.
+
+00:10:08.853 --> 00:10:13.342
+Mọi hệ thống Git đều tạo con số này theo cách như nhau,
+
+00:10:13.342 --> 00:10:16.684
+nghĩa là kí hiệu này gắn trực tiếp
+
+00:10:16.684 --> 00:10:19.834
+đối với mỗi thay đổi.
+
+00:10:19.834 --> 00:10:21.770
+Nó có hiệu quả như sau:
+
+00:10:21.770 --> 00:10:25.448
+1 lập trình viên ở Edinburgh và 1 ở Entebbe
+
+00:10:25.448 --> 00:10:29.150
+cùng có phiên bản giống nhau của một phần mềm.
+
+00:10:29.150 --> 00:10:32.976
+Mỗi người tạo ra những thay đổi và kết hợp với nhau

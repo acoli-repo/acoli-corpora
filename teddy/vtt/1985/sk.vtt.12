@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:59.000 --> 00:06:01.000
+a svetlo prechádza týmto otvorom.
+
+00:06:01.000 --> 00:06:03.000
+Je tam prijímač.
+
+00:06:03.000 --> 00:06:06.000
+Prijímač prekonvertuje tieto malé nepatrné zmeny v amplitúde,
+
+00:06:06.000 --> 00:06:08.000
+ktorú tu vytvárame,
+
+00:06:08.000 --> 00:06:10.000
+do elektrického signálu.
+
+00:06:10.000 --> 00:06:12.000
+Tento elektrický signál je potom prekonvertovaný naspať
+
+00:06:12.000 --> 00:06:14.000
+na vysokorýchlostný dátový tok.
+
+00:06:14.000 --> 00:06:16.000
+Dúfame, že v budúcnosti
+
+00:06:16.000 --> 00:06:18.000
+dokážeme integrovať tento malý otvor
+
+00:06:18.000 --> 00:06:21.000
+do smartphonov,
+
+00:06:21.000 --> 00:06:24.000
+a to nielen integrovať fotodetektor,
+
+00:06:24.000 --> 00:06:27.000
+ale možno použiť zabudovaný fotoaparát.
+
+00:06:28.000 --> 00:06:30.000
+Čo sa teda stane,
+
+00:06:30.000 --> 00:06:33.000
+keď vypnem svetlo?

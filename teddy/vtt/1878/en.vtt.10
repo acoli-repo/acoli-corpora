@@ -1,0 +1,44 @@
+WEBVTT
+
+00:04:58.829 --> 00:05:02.079
+when you actually work at Facebook?
+
+00:05:02.079 --> 00:05:04.371
+So anyway, there are lots of these photos
+
+00:05:04.371 --> 00:05:07.788
+being erroneously reported as spam and abuse,
+
+00:05:07.788 --> 00:05:10.246
+and one of the engineers on the team had a hunch.
+
+00:05:10.246 --> 00:05:12.371
+He really thought there was something else going on
+
+00:05:12.371 --> 00:05:13.538
+and he was right,
+
+00:05:13.538 --> 00:05:15.871
+because when he looked
+through a bunch of the cases,
+
+00:05:15.871 --> 00:05:17.454
+he found that most of them
+
+00:05:17.454 --> 00:05:19.329
+were from people who were requesting
+
+00:05:19.329 --> 00:05:22.163
+the takedown of a photo of themselves.
+
+00:05:22.163 --> 00:05:24.204
+Now this was a scenario that the team
+
+00:05:24.204 --> 00:05:26.538
+never even took into account before.
+
+00:05:26.538 --> 00:05:28.371
+So they added a new feature
+
+00:05:28.371 --> 00:05:30.496
+that allowed people to message their friend

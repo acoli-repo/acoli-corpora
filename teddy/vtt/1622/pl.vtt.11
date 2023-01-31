@@ -1,0 +1,42 @@
+WEBVTT
+
+00:05:27.323 --> 00:05:30.061
+stworzyli symulacje komputerowe,
+mające na celu ocenić efekty
+
+00:05:30.061 --> 00:05:33.492
+łączenia niedokładnych
+danych z GPSu,
+
+00:05:33.492 --> 00:05:36.116
+nawet podczas niedużego ruchu.
+
+00:05:36.116 --> 00:05:38.629
+Następnie badania przenieśliśmy
+
+00:05:38.629 --> 00:05:41.656
+w obszar testów na robotach z czujnikami
+
+00:05:41.656 --> 00:05:44.789
+powszechnie montowanymi w autach -
+
+00:05:44.789 --> 00:05:46.627
+kamery stereo, GPS,
+
+00:05:46.627 --> 00:05:48.501
+dwuwymiarowe laserowe dalekomierze
+
+00:05:48.501 --> 00:05:50.741
+występujące często w systemach rezerwowych.
+
+00:05:50.741 --> 00:05:55.225
+Dołączamy także radio komunikacyjne krótkiego zasięgu.
+
+00:05:55.225 --> 00:05:57.134
+Roboty rozmawiają ze sobą.
+
+00:05:57.134 --> 00:05:58.673
+Gdy roboty na siebie nacierają,
+
+00:05:58.673 --> 00:06:01.644
+precyzyjnie śledzą siebie nawzajem,

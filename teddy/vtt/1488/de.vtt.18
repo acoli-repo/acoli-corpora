@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+Okay, also ein Computer holt bestimmte Daten aus dem Speicher,
+
+00:09:01.000 --> 00:09:04.000
+und sendet sie an den Hauptprozessor oder die ALU,
+
+00:09:04.000 --> 00:09:06.000
+und schickt das Resultat zurück in den Speicher.
+
+00:09:06.000 --> 00:09:08.000
+Das ist der rot gekennzeichnete Pfad.
+
+00:09:08.000 --> 00:09:12.000
+In Gehirnen dagegen gibt es all diese Neuronen.
+
+00:09:12.000 --> 00:09:14.000
+Und sie stellen Daten dar,
+
+00:09:14.000 --> 00:09:16.000
+indem sie diese Daten in kleine Teile aufsplitten,
+
+00:09:16.000 --> 00:09:19.000
+die durch Pulse und unterschiedliche Neuronen repräsentiert werden.
+
+00:09:19.000 --> 00:09:21.000
+Es gibt also all diese Datenteile,
+
+00:09:21.000 --> 00:09:23.000
+über das ganze Netzwerk verteilt.
+
+00:09:23.000 --> 00:09:26.000
+Um diese zu verarbeiten und ein Resultat zu erhalten,
+
+00:09:26.000 --> 00:09:30.000
+wird das Aktivitätsmuster der Neuronen in ein neues Muster übersetzt,
+
+00:09:30.000 --> 00:09:33.000
+einfach indem es durch das Netzwerk fließt.

@@ -1,0 +1,34 @@
+WEBVTT
+
+00:08:59.314 --> 00:09:02.338
+Nó có 2 khác biệt lớn
+
+00:09:02.338 --> 00:09:04.401
+so với hệ thống kiểm soát phiên bản truyền thống.
+
+00:09:04.401 --> 00:09:07.548
+Thứ nhất, nó duy trì triết lý của mã nguồn mở.
+
+00:09:07.548 --> 00:09:10.834
+Bất kì ai làm việc với dự án đều có quyền
+
+00:09:10.834 --> 00:09:14.505
+truy cập toàn bộ mã nguồn mọi lúc mọi nơi.
+
+00:09:14.505 --> 00:09:17.179
+Và khi vẽ lại luồng công việc Git trên biểu đồ,
+
+00:09:17.179 --> 00:09:20.116
+họ dùng những bản vẽ như thế này.
+
+00:09:20.116 --> 00:09:22.434
+Bạn không cần hiểu các vòng tròn
+
+00:09:22.434 --> 00:09:26.113
+và hộp và mũi tên có nghĩa gì vì nó là cách làm việc
+
+00:09:26.113 --> 00:09:29.208
+phức tạp hơn rất nhiều so với
+
+00:09:29.208 --> 00:09:31.929
+hệ thống kiểm soát phiên bản ban đầu.

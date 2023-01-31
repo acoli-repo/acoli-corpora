@@ -1,0 +1,38 @@
+WEBVTT
+
+00:07:59.979 --> 00:08:03.115
+et il n'allait pas adopter 
+une chose qui ne marchait pas
+
+00:08:03.115 --> 00:08:05.424
+comme la communauté Linux .
+
+00:08:05.424 --> 00:08:07.956
+Pour vous donner une idée de l'énormité
+
+00:08:07.956 --> 00:08:11.624
+d'une telle décision, voici une carte
+
+00:08:11.624 --> 00:08:15.113
+des dépendances internes
+au sein de Linux,
+
+00:08:15.113 --> 00:08:17.720
+au sein du système d'exploitation
+Linux,
+
+00:08:17.720 --> 00:08:20.394
+dont des sections du programme
+
+00:08:20.394 --> 00:08:23.068
+s'appuient sur d'autres sections
+pour se lancer.
+
+00:08:23.068 --> 00:08:25.743
+C'est un processus extrêmement complexe.
+
+00:08:25.743 --> 00:08:28.535
+C'est un programme extrêmement compliqué,
+
+00:08:28.535 --> 00:08:30.724
+pourtant, pendant des années,

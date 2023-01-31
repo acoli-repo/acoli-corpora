@@ -1,0 +1,28 @@
+WEBVTT
+
+00:09:03.943 --> 00:09:10.542
+(Tepuk tangan)
+
+00:09:10.542 --> 00:09:13.192
+Quad ini memiliki raket yang diikat di kepalanya
+
+00:09:13.192 --> 00:09:16.679
+dengan sweet spot kira-kira ukuran sebuah apel, jadi tidak terlalu besar.
+
+00:09:16.679 --> 00:09:19.846
+Perhitungan berikut dibuat setiap 20 milidetik,
+
+00:09:19.846 --> 00:09:21.602
+atau 50 kali per detik.
+
+00:09:21.602 --> 00:09:24.414
+Pertama kami menghitung arah bola.
+
+00:09:24.414 --> 00:09:26.851
+Kemudian kami menghitung bagaimana quad harus memukul bola
+
+00:09:26.851 --> 00:09:29.950
+sehingga ia akan terbang dari asal lemparan.
+
+00:09:29.950 --> 00:09:34.406
+Ketiga, lintasan direncanakan yang membawa quad

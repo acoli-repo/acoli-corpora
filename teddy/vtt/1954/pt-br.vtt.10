@@ -1,0 +1,39 @@
+WEBVTT
+
+00:04:57.715 --> 00:05:00.926
+Dois fatores: o primeiro 
+é que a gravidade age
+
+00:05:00.926 --> 00:05:03.051
+em todos os objetos da mesma maneira.
+
+00:05:03.051 --> 00:05:05.515
+O segundo é que os propulsores 
+estão todos apontando
+
+00:05:05.515 --> 00:05:08.642
+para a mesma direção que o copo, 
+apontando para cima.
+
+00:05:08.642 --> 00:05:11.019
+Você coloca essas duas coisas juntas, 
+o resultado líquido
+
+00:05:11.019 --> 00:05:13.306
+é que todas as forças laterais 
+no copo são pequenas
+
+00:05:13.306 --> 00:05:16.091
+e estão dominadas principalmente 
+pelos efeitos aerodinâmicos,
+
+00:05:16.091 --> 00:05:19.932
+que nestas velocidades são insignificantes.
+
+00:05:23.336 --> 00:05:25.407
+E é por isso que você 
+não precisa modelar o copo.
+
+00:05:25.407 --> 00:05:29.255
+Ele naturalmente não derrama, 
+não importa o que o 'quad' faça.

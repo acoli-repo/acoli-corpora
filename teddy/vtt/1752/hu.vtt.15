@@ -1,0 +1,41 @@
+WEBVTT
+
+00:07:29.334 --> 00:07:31.392
+Vagyis, le tudtam írni azokat 
+a szabályokat,
+
+00:07:31.392 --> 00:07:34.432
+amelyek ebből a bizonyos 
+megjelenítésből angolra fordítanak.
+
+00:07:34.432 --> 00:07:36.417
+Aztán el is végeztem a fejlesztést.
+
+00:07:36.417 --> 00:07:38.688
+Kifejlesztettem a FreeSpeech Engine-t,
+
+00:07:38.688 --> 00:07:40.910
+ami bármely FreeSpeech mondatból
+
+00:07:40.910 --> 00:07:44.451
+nyelvtanilag helyes angol mondatra fordít.
+
+00:07:44.451 --> 00:07:46.501
+Összekapcsolva ezt a két dolgot,
+
+00:07:46.501 --> 00:07:48.356
+a megjelenítést és a fordítót,
+
+00:07:48.356 --> 00:07:51.867
+elkészítettem egy alkalmazást 
+az autista gyerek számára,
+
+00:07:51.867 --> 00:07:54.593
+ami nem csak szavakat ad nekik,
+
+00:07:54.593 --> 00:07:56.412
+de nyelvtan is.
+
+00:07:56.412 --> 00:08:00.773
+Majd kipróbáltam az alkalmazást 
+autista gyerekekkel,

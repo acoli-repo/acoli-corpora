@@ -1,0 +1,47 @@
+WEBVTT
+
+00:11:29.979 --> 00:11:32.451
+And the rewards are apple cube rewards.
+
+00:11:32.475 --> 00:11:34.802
+So here's how game theorists
+look at these data.
+
+00:11:34.826 --> 00:11:36.848
+This is a graph of the percentage of times
+
+00:11:36.872 --> 00:11:39.078
+the matcher picked right on the x-axis
+
+00:11:39.102 --> 00:11:41.256
+and the percentage of times
+they picked right
+
+00:11:41.280 --> 00:11:43.485
+by the mismatcher on the y-axis.
+
+00:11:43.509 --> 00:11:46.838
+So a point here is the behavior
+by a pair of players,
+
+00:11:46.862 --> 00:11:49.058
+one trying to match,
+one trying to mismatch.
+
+00:11:49.082 --> 00:11:52.399
+The NE square in the middle --
+actually, NE, CH and QRE --
+
+00:11:52.423 --> 00:11:55.547
+those are three different theories
+of Nash equilibrium and others,
+
+00:11:55.571 --> 00:11:57.254
+tells you what the theory predicts,
+
+00:11:57.278 --> 00:11:59.403
+which is that they should match 50-50,
+
+00:11:59.427 --> 00:12:01.854
+because if you play left
+too much, for example,

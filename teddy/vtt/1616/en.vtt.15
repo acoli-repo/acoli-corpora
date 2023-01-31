@@ -1,0 +1,31 @@
+WEBVTT
+
+00:07:26.832 --> 00:07:32.050
+where I can use as many fingers
+as I have to draw and make --
+
+00:07:38.274 --> 00:07:40.976
+Now, there's a lot of actual math
+going on under here
+
+00:07:41.000 --> 00:07:45.442
+for this to control this mesh
+and do the right thing.
+
+00:07:46.183 --> 00:07:51.875
+This technique of being able to manipulate
+a mesh here, with multiple control points,
+
+00:07:51.899 --> 00:07:53.375
+is actually state of the art.
+
+00:07:53.399 --> 00:07:55.223
+It was released at SIGGRAPH last year.
+
+00:07:55.247 --> 00:07:58.017
+It's a great example
+of the kind of research I really love:
+
+00:07:58.041 --> 00:08:00.840
+all this compute power
+to make things do the right things,

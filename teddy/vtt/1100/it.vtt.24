@@ -1,0 +1,37 @@
+WEBVTT
+
+00:11:57.000 --> 00:12:00.000
+Beh, uno dei metodi che usiamo nel mio laboratorio e studio
+
+00:12:00.000 --> 00:12:03.000
+è la conversione della luce in suono
+
+00:12:03.000 --> 00:12:07.000
+rendendo le persone capaci di ascoltare il loro mondo visivo.
+
+00:12:07.000 --> 00:12:10.000
+E possono orientarsi nel loro mondo usando le orecchie.
+
+00:12:10.000 --> 00:12:13.000
+Qui c'è David, a destra. Con in mano una videocamera.
+
+00:12:13.000 --> 00:12:15.000
+A sinistra c'è ciò che la videocamera vede.
+
+00:12:15.000 --> 00:12:18.000
+E vedrete che c'è una linea, una debole linea che attraversa l'immagine.
+
+00:12:18.000 --> 00:12:21.000
+Quella linea è frazionata in 32 quadrati.
+
+00:12:21.000 --> 00:12:23.000
+In ogni quadrato calcoliamo il colore medio.
+
+00:12:23.000 --> 00:12:25.000
+E poi semplicemente lo convertiamo in suono.
+
+00:12:25.000 --> 00:12:28.000
+E ora lui sta per
+
+00:12:28.000 --> 00:12:32.000
+girarsi, chiudere gli occhi,

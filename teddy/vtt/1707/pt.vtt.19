@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:27.227 --> 00:09:32.618
+todas essas asnas sustentam
+cargas diagonais.
+
+00:09:32.618 --> 00:09:35.363
+Assim, cada uma tem
+um perfil ligeiramente diferente
+
+00:09:35.363 --> 00:09:37.663
+consoante nos deslocamos pelo edifício.
+
+00:09:37.663 --> 00:09:42.118
+Assim, trabalhando com
+a Bentley e a MicroStation,
+
+00:09:42.118 --> 00:09:44.554
+escrevemos um programa personalizado
+
+00:09:44.554 --> 00:09:47.654
+que interliga em rede todos os componentes
+
+00:09:47.654 --> 00:09:50.509
+nestes blocos de informação,
+
+00:09:50.509 --> 00:09:52.918
+de forma que, se alterarmos
+qualquer elemento
+
+00:09:52.918 --> 00:09:54.954
+do comprimento do edifício,
+
+00:09:54.954 --> 00:09:58.990
+não somente muda a distribuição
+entre cada uma das asnas,
+
+00:09:59.000 --> 00:10:02.163
+mas também cada asna
+distribui essa informação

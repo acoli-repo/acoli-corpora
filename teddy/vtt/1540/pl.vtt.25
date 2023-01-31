@@ -1,0 +1,31 @@
+WEBVTT
+
+00:12:27.000 --> 00:12:32.000
+mniej niż jeden na 100 będzie naprawdę chory.
+
+00:12:32.000 --> 00:12:36.000
+Nawet jeśli sądzimy, że test jest dokładny, nadal brakuje nam
+
+00:12:36.000 --> 00:12:39.000
+istotnej części informacji.
+
+00:12:39.000 --> 00:12:41.000
+Oto kluczowa intuicja.
+
+00:12:42.000 --> 00:12:45.000
+Gdy już wiemy, że wynik testu jest pozytywny,
+
+00:12:45.000 --> 00:12:51.000
+musimy porównać prawdopodobieństwo dwóch możliwych wyjaśnień.
+
+00:12:51.000 --> 00:12:54.000
+Każde z nich ma prawdopodobną część i mało prawdopodobną część.
+
+00:12:54.000 --> 00:12:57.000
+Jedno wyjaśnienie jest takie, że dana osoba nie jest chora -
+
+00:12:57.000 --> 00:13:00.000
+co jest prawdopodobne, jeśli została wybrana losowo -
+
+00:13:00.000 --> 00:13:03.000
+tylko test podał nieprawidłowy wynik, co jest mało prawdopodobne.

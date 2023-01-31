@@ -1,0 +1,52 @@
+WEBVTT
+
+00:13:28.683 --> 00:13:31.121
+je n'ai même pas besoin de trier 
+les données brutes.
+
+00:13:31.121 --> 00:13:33.276
+Tout ce que j'ai à faire est d'attendre
+que l'image apparaisse
+
+00:13:33.276 --> 00:13:35.512
+pour voir où j'ai des bouts similaires.
+
+00:13:35.512 --> 00:13:38.540
+Je poursuis ces traces de similarités 
+comme une traînée de miettes de pain
+
+00:13:38.540 --> 00:13:41.646
+pour trouver exactement 
+ce que je cherche.
+
+00:13:41.646 --> 00:13:43.380
+À cette étape du processus,
+
+00:13:43.380 --> 00:13:44.698
+Jj'ai localisé le code
+
+00:13:44.698 --> 00:13:46.383
+qui est responsable du contrôle
+de la batterie,
+
+00:13:46.383 --> 00:13:48.959
+mais ce n'est toujours pas suffisant
+pour faire exploser le téléphone.
+
+00:13:48.959 --> 00:13:50.523
+La dernière pièce du puzzle
+
+00:13:50.523 --> 00:13:53.202
+est de comprendre comment ce code
+
+00:13:53.202 --> 00:13:54.404
+contrôle la batterie.
+
+00:13:54.404 --> 00:13:56.792
+Pour ça, j'ai besoin d'identifier
+
+00:13:56.792 --> 00:13:58.508
+des relations très subtiles et détaillées
+
+00:13:58.508 --> 00:14:00.597
+à l'intérieur des informations binaires,

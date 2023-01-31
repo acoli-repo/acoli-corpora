@@ -1,0 +1,31 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:30.000
+à propos des reines n'est pas vrai --
+
+00:09:30.000 --> 00:09:33.000
+même si la reine avait l'intelligence
+
+00:09:33.000 --> 00:09:37.000
+d'envoyer des messages chimiques dans ce réseau de chambres
+
+00:09:37.000 --> 00:09:39.000
+pour dire aux fourmis dehors quoi faire,
+
+00:09:39.000 --> 00:09:43.000
+il est impossible que ces messages arrivent à temps pour voir
+
+00:09:43.000 --> 00:09:48.000
+une différence d'allocations d'ouvrières que nous voyons à l'extérieur du nid.
+
+00:09:48.000 --> 00:09:52.000
+Donc c'est comme ça que nous savons que la reine ne supervise pas le comportement de la colonie.
+
+00:09:53.000 --> 00:09:56.000
+Donc quand j'ai commencer à travailler sur l'allocation de tâches,
+
+00:09:56.000 --> 00:09:59.000
+ma première question était: "Quel lien y a-t-il
+
+00:09:59.000 --> 00:10:02.000
+entre les fourmis qui accomplissent des tâches différentes?

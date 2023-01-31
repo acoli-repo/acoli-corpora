@@ -1,0 +1,36 @@
+WEBVTT
+
+00:10:27.653 --> 00:10:30.288
+qui correspond aux signaux authentiques.
+
+00:10:30.288 --> 00:10:33.103
+Ces trois points rouges représentent les points traceurs
+
+00:10:33.103 --> 00:10:35.982
+qui tentent de rester centrés sur ce pic.
+
+00:10:35.982 --> 00:10:39.047
+Mais si vous envoyez un faux signal GPS,
+
+00:10:39.047 --> 00:10:43.513
+un autre pic apparaît, et si vous 
+parvenez à aligner parfaitement
+
+00:10:43.513 --> 00:10:48.231
+ces deux pics, les points traceurs 
+ne peuvent pas faire la différence,
+
+00:10:48.231 --> 00:10:51.542
+et il sont détournés par le signal 
+falsifié qui est plus puissant,
+
+00:10:51.542 --> 00:10:55.502
+alors que le pic authentique
+est repoussé de force.
+
+00:10:55.502 --> 00:10:57.669
+A ce moment, la partie est perdue.
+
+00:10:57.669 --> 00:11:01.406
+Le faux signal contrôle
+désormais complètement le GPS.

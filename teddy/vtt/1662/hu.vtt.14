@@ -1,0 +1,33 @@
+WEBVTT
+
+00:06:57.016 --> 00:07:00.346
+a folyamat lépéseinél a bizonytalanságot és következetlenségeket.
+
+00:07:00.346 --> 00:07:03.058
+Mindenfelé hibákba botlunk
+
+00:07:03.058 --> 00:07:05.547
+a dokumentumokban: hibás a kapitány neve,
+
+00:07:05.547 --> 00:07:08.760
+egyes hajók soha nem hagyták el a kikötőt.
+
+00:07:08.760 --> 00:07:13.617
+Vannak fordítási hibák, félreértelmezések,
+
+00:07:13.624 --> 00:07:17.090
+és hogyha mindezt algoritmikus úton kezdjük feldolgozni,
+
+00:07:17.090 --> 00:07:20.039
+akkor újabb hibák jelennek meg a felismerésben,
+
+00:07:20.039 --> 00:07:22.000
+a kivonatolásban.
+
+00:07:22.000 --> 00:07:26.481
+A végeredmény pedig: 
+nagyon-nagyon bizonytalan adatok.
+
+00:07:26.481 --> 00:07:30.238
+De hogyan tudnánk felismerni és kijavítani 
+ezeket az inkonzisztenciákat?

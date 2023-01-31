@@ -1,0 +1,40 @@
+WEBVTT
+
+00:12:58.000 --> 00:13:00.000
+and autonomously discovering:
+
+00:13:00.000 --> 00:13:03.000
+What are the objects in this visual input?
+
+00:13:03.000 --> 00:13:06.000
+So, don't worry about the internals of Dylan.
+
+00:13:06.000 --> 00:13:09.000
+Here, I'm just going to talk about
+
+00:13:09.000 --> 00:13:11.000
+how we test Dylan.
+
+00:13:11.000 --> 00:13:13.000
+The way we test Dylan is by giving it
+
+00:13:13.000 --> 00:13:16.000
+inputs, as I said, of the same kind
+
+00:13:16.000 --> 00:13:19.000
+that a baby, or a child in Project Prakash would get.
+
+00:13:19.000 --> 00:13:22.000
+But for a long time we couldn't quite figure out:
+
+00:13:22.000 --> 00:13:25.000
+Wow can we get these kinds of video inputs?
+
+00:13:26.000 --> 00:13:28.000
+So, I thought,
+
+00:13:28.000 --> 00:13:30.000
+could we have Darius
+
+00:13:30.000 --> 00:13:33.000
+serve as our babycam carrier,

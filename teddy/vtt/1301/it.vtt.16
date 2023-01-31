@@ -1,0 +1,31 @@
+WEBVTT
+
+00:07:59.979 --> 00:08:03.115
+e non avrebbe adottato niente che non funzionasse
+
+00:08:03.115 --> 00:08:05.424
+come funzionava la comunità Linux.
+
+00:08:05.424 --> 00:08:07.956
+Per darvi il senso dell'enormità
+
+00:08:07.956 --> 00:08:11.624
+di tale decisione, questa è una mappa
+
+00:08:11.624 --> 00:08:15.113
+delle dipendenze interne di Linux,
+
+00:08:15.113 --> 00:08:17.720
+all'interno del sistema operativo Linux, quale sotto-sistema
+
+00:08:17.720 --> 00:08:22.165
+del programma dipende da quale altro sotto-sistema per andare avanti.
+
+00:08:22.165 --> 00:08:25.743
+È un processo tremendamente complicato.
+
+00:08:25.743 --> 00:08:28.535
+È un programma tremendamente complicato,
+
+00:08:28.535 --> 00:08:31.200
+eppure, per anni, Torvalds lo ha gestito

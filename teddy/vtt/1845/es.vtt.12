@@ -1,0 +1,28 @@
+WEBVTT
+
+00:05:58.819 --> 00:06:03.066
+El truco consistió en descomponer la construcción
+
+00:06:03.066 --> 00:06:06.020
+en muchos módulos independientes,
+
+00:06:06.020 --> 00:06:09.920
+que pudiesen especificarse de forma individual,
+
+00:06:09.920 --> 00:06:15.155
+y construirse y probarse de manera aislada del resto del proyecto.
+
+00:06:15.155 --> 00:06:18.144
+Desde el primer día, Noam y yo decidimos poner
+
+00:06:18.144 --> 00:06:21.680
+a disposición estos bloques libremente como código abierto
+
+00:06:21.680 --> 00:06:23.160
+en la Web.
+
+00:06:23.160 --> 00:06:27.631
+Dejamos especificaciones de chips, APIs, especificaciones
+
+00:06:27.631 --> 00:06:31.535
+del proyecto, simuladores de hardware, emuladores de CPU,

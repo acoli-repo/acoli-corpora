@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:30.000
+Le sujet se tient en face à une rangée d'ordinateurs et de caméras,
+
+00:09:30.000 --> 00:09:32.000
+qui peuvent, image par image,
+
+00:09:32.000 --> 00:09:35.000
+reconstruire la géométrie du visage quelle que soient ses mouvements.
+
+00:09:35.000 --> 00:09:40.000
+Vous récupérez ainsi des données en 3D temps réel du sujet.
+
+00:09:40.000 --> 00:09:43.000
+Et si vous faites la comparaison,
+
+00:09:43.000 --> 00:09:46.000
+on peut voir à gauche ce que nous donnent les données volumétriques
+
+00:09:46.000 --> 00:09:48.000
+tandis qu'à droite ce que nous donnent les marqueurs.
+
+00:09:49.000 --> 00:09:51.000
+Le choix est vite fait.
+
+00:09:51.000 --> 00:09:53.000
+Nous étions cependant aux prémices de cette technologie
+
+00:09:53.000 --> 00:09:55.000
+et elle n'avait pas encore fait ses preuves.
+
+00:09:55.000 --> 00:09:57.000
+Nous mesurons la complexité ainsi que la fidélité d'un modèle
+
+00:09:57.000 --> 00:09:59.000
+grâce à la quantité de polygones qui le composent.
+
+00:09:59.000 --> 00:10:02.000
+Pour information, sur la gauche, on pouvait voir 100 000 polygones.

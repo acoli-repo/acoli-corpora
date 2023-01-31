@@ -1,0 +1,40 @@
+WEBVTT
+
+00:07:29.000 --> 00:07:31.000
+qualifiée dans tous les domaines,
+
+00:07:31.000 --> 00:07:34.000
+pour être en mesure de calculer les réponses aux questions spécifiques que les gens ont,
+
+00:07:34.000 --> 00:07:36.000
+pas en cherchant ce que les autres
+
+00:07:36.000 --> 00:07:38.000
+ont pu écrire avant,
+
+00:07:38.000 --> 00:07:40.000
+mais en utilisant la connaissance intégrée
+
+00:07:40.000 --> 00:07:43.000
+pour calculer de toutes nouvelles réponses à une question spécifique.
+
+00:07:43.000 --> 00:07:45.000
+Maintenant, bien sûr, Wolfram Alpha
+
+00:07:45.000 --> 00:07:47.000
+est un projet à long terme, monumentalement énorme,
+
+00:07:47.000 --> 00:07:49.000
+avec beaucoup, beaucoup de défis.
+
+00:07:49.000 --> 00:07:52.000
+Pour commencer, il faut organiser une quantité astronomique
+
+00:07:52.000 --> 00:07:55.000
+de sources différentes de faits et de données,
+
+00:07:55.000 --> 00:07:58.000
+nous avons construit tout un pipeline d'automatisation Mathematica
+
+00:07:58.000 --> 00:08:01.000
+et d'experts humains pour ce faire.

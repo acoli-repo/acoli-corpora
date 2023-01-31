@@ -1,0 +1,34 @@
+WEBVTT
+
+00:08:28.535 --> 00:08:31.200
+und doch hat Torvalds das jahrelang
+
+00:08:31.200 --> 00:08:35.104
+nicht mit automatisierten Werkzeugen gemacht, 
+sondern aus seinem Email-Postfach heraus.
+
+00:08:35.104 --> 00:08:37.577
+Leute haben ihm buchstäblich Änderungen gemailt,
+
+00:08:37.577 --> 00:08:41.696
+die sie vereinbart hatten, 
+und er hat sie von Hand zusammengefügt.
+
+00:08:41.696 --> 00:08:46.442
+Und dann, nachdem er 15 Jahre Linux 
+beobachtet und herausgefunden hatte,
+
+00:08:46.442 --> 00:08:49.252
+wie die Gemeinschaft funktioniert, 
+sagte er: "Ich glaube ich weiß,
+
+00:08:49.252 --> 00:08:53.419
+wie ich ein Versionsverwaltungssystem 
+schreiben kann für unabhängige Menschen."
+
+00:08:53.419 --> 00:08:59.314
+Und er nannte es "Git." 
+Git ist verteilte Versionskontrolle.
+
+00:08:59.314 --> 00:09:02.338
+Es hat zwei große Unterschiede

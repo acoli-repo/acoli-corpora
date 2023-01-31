@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:58.000 --> 00:10:00.000
+Il y a deux manières de détecter
+
+00:10:00.000 --> 00:10:02.000
+si des données ont disparu en cours de route.
+
+00:10:02.000 --> 00:10:05.000
+Soit les statistiques, soit les études de cas.
+
+00:10:05.000 --> 00:10:07.000
+Je préfère personnellement les statistiques, je vais commencer par ça.
+
+00:10:07.000 --> 00:10:09.000
+Il existe ce que l'on appelle un graphique en entonnoir.
+
+00:10:09.000 --> 00:10:11.000
+Cet entonnoir est un moyen très malin de détecter
+
+00:10:11.000 --> 00:10:14.000
+si des petits résultats négatifs ont disparu en cours de route.
+
+00:10:14.000 --> 00:10:16.000
+Voici un graphique de tous les tests
+
+00:10:16.000 --> 00:10:18.000
+effectués sur un traitement particulier.
+
+00:10:18.000 --> 00:10:20.000
+Si vous allez vers le haut du graphique,
+
+00:10:20.000 --> 00:10:22.000
+chaque point est un test.
+
+00:10:22.000 --> 00:10:25.000
+En montant, ceux-ci sont des tests plus larges, ils comportent moins d'erreurs.
+
+00:10:25.000 --> 00:10:28.000
+Ils auront moins de faux positifs aléatoires, de faux négatifs aléatoires.
+
+00:10:28.000 --> 00:10:30.000
+Ils forment des grappes.
+
+00:10:30.000 --> 00:10:32.000
+Les larges tests sont plus proches de la bonne réponse.

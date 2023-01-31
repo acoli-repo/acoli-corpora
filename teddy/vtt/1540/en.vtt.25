@@ -1,0 +1,31 @@
+WEBVTT
+
+00:12:27.000 --> 00:12:32.000
+less than one in 100 actually have the disease.
+
+00:12:32.000 --> 00:12:36.000
+So even though we think the test is accurate, the important part of the story is
+
+00:12:36.000 --> 00:12:39.000
+there's another bit of information we need.
+
+00:12:39.000 --> 00:12:41.000
+Here's the key intuition.
+
+00:12:42.000 --> 00:12:45.000
+What we have to do, once we know the test is positive,
+
+00:12:45.000 --> 00:12:51.000
+is to weigh up the plausibility, or the likelihood, of two competing explanations.
+
+00:12:51.000 --> 00:12:54.000
+Each of those explanations has a likely bit and an unlikely bit.
+
+00:12:54.000 --> 00:12:57.000
+One explanation is that the person doesn't have the disease --
+
+00:12:57.000 --> 00:13:00.000
+that's overwhelmingly likely, if you pick someone at random --
+
+00:13:00.000 --> 00:13:03.000
+but the test gets it wrong, which is unlikely.

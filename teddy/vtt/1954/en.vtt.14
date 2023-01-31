@@ -1,0 +1,23 @@
+WEBVTT
+
+00:07:07.980 --> 00:07:09.662
+We relinquish control of yaw,
+
+00:07:09.686 --> 00:07:12.732
+but roll, pitch and acceleration
+can still be controlled
+
+00:07:12.756 --> 00:07:16.102
+with algorithms that exploit
+this new configuration.
+
+00:07:21.668 --> 00:07:25.957
+Mathematical models tell us
+exactly when and why this is possible.
+
+00:07:25.981 --> 00:07:28.759
+In this instance, this knowledge
+allows us to design
+
+00:07:28.783 --> 00:07:31.256
+novel machine architectures

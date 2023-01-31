@@ -1,0 +1,40 @@
+WEBVTT
+
+00:11:27.000 --> 00:11:31.000
+Vagyis le tudjuk írni a neuronok közti kommunikációt.
+
+00:11:31.000 --> 00:11:34.000
+Szó szerint csak egy maréknyi
+
+00:11:34.000 --> 00:11:36.000
+egyenletre van szükség, hogy szimulálni tudjuk
+
+00:11:36.000 --> 00:11:38.000
+a neokortex tevékenységét.
+
+00:11:38.000 --> 00:11:41.000
+Amire szükség van, az egy nagyon nagy számítógép.
+
+00:11:41.000 --> 00:11:43.000
+Pontosabban egy laptop-ra van szükség
+
+00:11:43.000 --> 00:11:46.000
+neurononként, ami elvégzi a számításokat.
+
+00:11:46.000 --> 00:11:48.000
+Vagyis 10 000 laptopra van szükség.
+
+00:11:48.000 --> 00:11:50.000
+Hova forduljunk? Az IBM-hez,
+
+00:11:50.000 --> 00:11:52.000
+és ők adnak egy szupercomputert, mert ők tudják, hogy lehet berakni
+
+00:11:52.000 --> 00:11:56.000
+10 000 laptopot egy hűtőládányi térfogatba.
+
+00:11:56.000 --> 00:11:59.000
+Itt van tehát ez a Blue Gene szupercomputerünk.
+
+00:11:59.000 --> 00:12:01.000
+Betöltjük az összes neuront,

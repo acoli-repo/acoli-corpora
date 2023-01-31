@@ -1,0 +1,28 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+connu sous le nom de 3D SLAM, pour Simultaneous Localization And Mapping.
+
+00:09:01.000 --> 00:09:03.000
+DEPTHX est un œil qui voit tout.
+
+00:09:03.000 --> 00:09:07.000
+Ses capteurs regardent en même temps devant et derrière lui,
+
+00:09:07.000 --> 00:09:10.000
+permettant de faire de nouvelles explorations
+
+00:09:10.000 --> 00:09:12.000
+pendant qu'il est toujours en train de produire la géométrie
+
+00:09:12.000 --> 00:09:13.000
+de ce qu'il vient de traverser.
+
+00:09:13.000 --> 00:09:16.000
+Ce que je vais vous montrer maintenant
+
+00:09:16.000 --> 00:09:20.000
+est la première exploration souterraine complètement autonome
+
+00:09:20.000 --> 00:09:23.000
+jamais réalisée.

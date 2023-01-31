@@ -1,0 +1,35 @@
+WEBVTT
+
+00:05:29.738 --> 00:05:33.017
+doi la o putere de număr prim, minus unu.
+
+00:05:33.017 --> 00:05:35.434
+Nu voi intra în detalii de ce e așa
+
+00:05:35.434 --> 00:05:38.185
+pentru că, dacă aș face-o, la majoritatea de aici 
+le-ar ieși ochii din cap.
+
+00:05:38.185 --> 00:05:42.396
+E suficient să vă spun că un număr de această formă
+
+00:05:42.396 --> 00:05:45.859
+e destul de ușor de testat dacă e prim sau nu.
+
+00:05:45.859 --> 00:05:49.459
+Un număr ciudat oarecare e mult mai greu de testat.
+
+00:05:49.459 --> 00:05:51.380
+Dar pornind la vânătoare de numere prime,
+
+00:05:51.380 --> 00:05:53.219
+ne dăm seama că cu e suficient
+
+00:05:53.219 --> 00:05:55.960
+să punem orice exponent prim în formulă.
+
+00:05:55.960 --> 00:05:58.557
+(2 ^ 11) - 1 = 2,047,
+
+00:05:58.557 --> 00:06:01.925
+și nu trebuie să vă spun eu că acesta e 23 x 89.

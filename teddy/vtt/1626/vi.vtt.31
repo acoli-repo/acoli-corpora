@@ -1,0 +1,46 @@
+WEBVTT
+
+00:15:28.000 --> 00:15:31.000
+Và tìm chương trình gần gũi nhất với công việc sắp xếp con số.
+
+00:15:31.000 --> 00:15:34.000
+Và đương nhiên, dãy câu lệnh ngẫu nhiên
+
+00:15:34.000 --> 00:15:36.000
+sẽ không có xu hướng sắp xếp các con số,
+
+00:15:36.000 --> 00:15:38.000
+vì vậy, không một câu lệnh nào sẽ thực sự thực hiện nhiệm vụ ấy.
+
+00:15:38.000 --> 00:15:40.000
+Nhưng một trong số đó, nếu may mắn,
+
+00:15:40.000 --> 00:15:42.000
+sẽ đặt hai số vào đúng vị trí.
+
+00:15:42.000 --> 00:15:44.000
+Và tôi nói, "Máy tính,
+
+00:15:44.000 --> 00:15:47.000
+liệu bạn có thể chọn ra 10%
+
+00:15:47.000 --> 00:15:49.000
+trong số dãy ngẫu nhiên đó mà thực hiện công việc tốt nhất.
+
+00:15:49.000 --> 00:15:51.000
+Giữ chúng lại. Loại đi dãy còn lại.
+
+00:15:51.000 --> 00:15:53.000
+Và tiếp theo hãy sao chép lại
+
+00:15:53.000 --> 00:15:55.000
+những dãy câu lệnh sắp xếp các con số tốt nhất.
+
+00:15:55.000 --> 00:15:58.000
+Và hãy sao chép chúng bằng quá trình tái tổ hợp
+
+00:15:58.000 --> 00:16:00.000
+tương tự như sinh sản."
+
+00:16:00.000 --> 00:16:03.000
+Lấy ra hai chương trình và chúng sẽ tạo ra sản phẩm

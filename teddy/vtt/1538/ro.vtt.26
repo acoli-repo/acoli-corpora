@@ -1,0 +1,45 @@
+WEBVTT
+
+00:12:58.101 --> 00:13:00.640
+Acel cod arată ca toate celelalte coduri
+
+00:13:00.640 --> 00:13:02.508
+din sistemul respectiv.
+
+00:13:02.508 --> 00:13:04.949
+Poate nu găsesc
+codul care controlează bateria,
+
+00:13:04.949 --> 00:13:06.860
+dar există multe lucruri similare:
+
+00:13:06.860 --> 00:13:08.714
+codul care controlează ecranul,
+
+00:13:08.714 --> 00:13:11.080
+care controlează butoanele, microfoanele.
+
+00:13:11.080 --> 00:13:13.368
+Deci chiar dacă nu găsesc
+codul pentru baterie,
+
+00:13:13.368 --> 00:13:15.303
+sunt sigur că pot găsi altceva.
+
+00:13:15.303 --> 00:13:18.018
+Următorul pas în analiza mea binară
+
+00:13:18.018 --> 00:13:21.549
+e să mă uit la fragmente de informație
+care seamănă unele cu altele.
+
+00:13:21.549 --> 00:13:25.230
+Este extrem de dificil 
+să faci asta la nivel binar,
+
+00:13:25.230 --> 00:13:29.203
+dar dacă traducem asemănările 
+într-o abstractizare vizuală,
+
+00:13:29.203 --> 00:13:31.401
+nici nu trebuie să mă uit la codul binar.

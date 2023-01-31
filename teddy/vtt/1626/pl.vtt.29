@@ -1,0 +1,43 @@
+WEBVTT
+
+00:14:29.000 --> 00:14:31.000
+operować na pewnym poziomie abstrakcji
+
+00:14:31.000 --> 00:14:33.000
+a resztę przekazać maszynie
+
+00:14:33.000 --> 00:14:36.000
+która pozwala nam robić rzeczy inaczej niemożliwe,
+
+00:14:36.000 --> 00:14:39.000
+o wiele szybciej i łatwiej.
+
+00:14:39.000 --> 00:14:41.000
+Czasem nawet robiąc to w sposób,
+
+00:14:41.000 --> 00:14:44.000
+którego sami do końca nie rozumiemy.
+
+00:14:44.000 --> 00:14:46.000
+Jedną z takich metod,
+
+00:14:46.000 --> 00:14:49.000
+którą ostatnio stosujemy,
+
+00:14:49.000 --> 00:14:51.000
+jest sama ewolucja.
+
+00:14:51.000 --> 00:14:53.000
+Robimy to
+
+00:14:53.000 --> 00:14:55.000
+programując
+
+00:14:55.000 --> 00:14:57.000
+proces ewolucji
+
+00:14:57.000 --> 00:14:59.000
+w skali mikrosekundowej.
+
+00:14:59.000 --> 00:15:01.000
+Na przykład

@@ -1,0 +1,35 @@
+WEBVTT
+
+00:09:03.943 --> 00:09:10.542
+(Aplausos)
+
+00:09:10.542 --> 00:09:13.192
+Este 'quad' tem uma raquete 
+presa em seu topo
+
+00:09:13.192 --> 00:09:16.679
+com um ponto ideal do tamanho de 
+uma maçã, portanto não muito grande.
+
+00:09:16.679 --> 00:09:19.846
+Os cálculos a seguir são feitos 
+a cada 20 milissegundos,
+
+00:09:19.846 --> 00:09:21.602
+ou 50 vezes por segundo.
+
+00:09:21.602 --> 00:09:24.414
+Primeiro descobrimos
+aonde a bola está indo.
+
+00:09:24.414 --> 00:09:26.851
+Então, a seguir, calculamos 
+como o 'quad' deve atingir a bola
+
+00:09:26.851 --> 00:09:29.950
+para que ela volte para 
+onde ela foi atirada.
+
+00:09:29.950 --> 00:09:34.406
+Terceiro, é calculada 
+uma trajetória que leve o 'quad'

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:27.323 --> 00:05:30.061
+napravili su računalnu simulaciju o tome što se događa
+
+00:05:30.061 --> 00:05:33.492
+kada se kombiniraju nejasne procjene ,čak i sa semaforima
+
+00:05:33.492 --> 00:05:36.116
+kada automobili dijele GPS podatke,
+
+00:05:36.116 --> 00:05:38.629
+i prenesli smo ovo istraživanje iz računalne simulacije
+
+00:05:38.629 --> 00:05:41.656
+u probni robot koji ima stvarne senzore
+
+00:05:41.656 --> 00:05:44.789
+koji su sada u automobilu na tim robotima:
+
+00:05:44.789 --> 00:05:46.627
+kamera, GPS,
+
+00:05:46.627 --> 00:05:48.501
+i dvodimenzionalni laserski daljinomjer
+
+00:05:48.501 --> 00:05:50.741
+koji su uobičajeni u sigurnosnim sustavima.
+
+00:05:50.741 --> 00:05:55.225
+Također smo pridodali i diskretni komunikacijski radio kratkog dometa,
+
+00:05:55.225 --> 00:05:57.134
+i roboti pričaju jedni s drugima.
+
+00:05:57.134 --> 00:05:58.673
+Kada ti roboti dođu jedan drugome,
+
+00:05:58.673 --> 00:06:01.644
+prate pozicije jedan drugome vrlo precizno,

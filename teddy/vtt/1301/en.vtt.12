@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:57.494 --> 00:06:00.263
+the more programmers are involved.
+
+00:06:00.263 --> 00:06:03.610
+To a first approximation, the problem of managing
+
+00:06:03.610 --> 00:06:06.336
+a large software project is the problem
+
+00:06:06.336 --> 00:06:09.992
+of keeping this social chaos at bay.
+
+00:06:09.992 --> 00:06:12.467
+Now, for decades there has been a canonical solution
+
+00:06:12.467 --> 00:06:14.121
+to this problem, which is to use something called
+
+00:06:14.121 --> 00:06:16.101
+a "version control system,"
+
+00:06:16.101 --> 00:06:18.310
+and a version control system does what is says on the tin.
+
+00:06:18.310 --> 00:06:21.704
+It provides a canonical copy of the software
+
+00:06:21.704 --> 00:06:23.256
+on a server somewhere.
+
+00:06:23.256 --> 00:06:26.162
+The only programmers who can change it are people
+
+00:06:26.162 --> 00:06:29.693
+who've specifically been given permission to access it,
+
+00:06:29.693 --> 00:06:33.460
+and they're only allowed to access the sub-section of it

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:11:27.000 --> 00:11:31.000
+Så vi kan beskrive kommunikasjonen mellom nervecellene.
+
+00:11:31.000 --> 00:11:34.000
+Det er bokstavelig talt bare en håndfull
+
+00:11:34.000 --> 00:11:36.000
+likninger du trenger for å simulere
+
+00:11:36.000 --> 00:11:38.000
+aktiviteten til neokorteks.
+
+00:11:38.000 --> 00:11:41.000
+Men det du vil trenge er en veldig stor datamaskin.
+
+00:11:41.000 --> 00:11:43.000
+Du behøver faktisk en bærbar PC
+
+00:11:43.000 --> 00:11:46.000
+for å gjøre beregningene for et enkelt nevron.
+
+00:11:46.000 --> 00:11:48.000
+Du må altså ha 10.000 bærbare datamaskiner.
+
+00:11:48.000 --> 00:11:50.000
+Så hva gjør du? Du går til IBM,
+
+00:11:50.000 --> 00:11:52.000
+og får en superdatamaskin, fordi de mtte ta
+
+00:11:52.000 --> 00:11:56.000
+10.000 laptoper og pakke dem sammen til en størrelse som et kjøleskap.
+
+00:11:56.000 --> 00:11:59.000
+Så nå har vi superdatamaskinen Blue Gene.
+
+00:11:59.000 --> 00:12:01.000
+Vi kan laste opp alle nervecellene,

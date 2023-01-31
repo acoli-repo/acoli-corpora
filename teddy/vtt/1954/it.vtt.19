@@ -1,0 +1,22 @@
+WEBVTT
+
+00:09:29.950 --> 00:09:34.406
+Terzo, viene calcolata una traiettoria che porta il Quad
+
+00:09:34.406 --> 00:09:37.430
+dalla sua posizione attuale al punto dell'impatto con la palla.
+
+00:09:37.430 --> 00:09:41.239
+Quarto, abbiamo solo 20 millisecondi in cui è valida questa strategia.
+
+00:09:41.239 --> 00:09:44.046
+Venti millisecondi dopo, l'intero processo viene ripetuto
+
+00:09:44.046 --> 00:09:46.289
+fino a che il Quad batte la palla.
+
+00:09:55.560 --> 00:09:58.206
+(Applausi)
+
+00:09:58.206 --> 00:10:01.578
+Queste macchine non riescono ad eseguire manovre dinamiche soltanto da sole

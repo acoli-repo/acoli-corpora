@@ -1,0 +1,47 @@
+WEBVTT
+
+00:08:59.977 --> 00:09:01.652
+And the way I can figure that out
+
+00:09:01.652 --> 00:09:03.335
+is by looking at chunks,
+
+00:09:03.335 --> 00:09:05.788
+sequential chunks of binary information,
+
+00:09:05.788 --> 00:09:08.690
+and I look at the relationships
+between those chunks.
+
+00:09:08.690 --> 00:09:10.462
+When I gather up enough of these sequences,
+
+00:09:10.462 --> 00:09:12.466
+I begin to get an idea of exactly
+
+00:09:12.466 --> 00:09:15.100
+what this information must be.
+
+00:09:15.100 --> 00:09:16.284
+So let's go back to that
+
+00:09:16.284 --> 00:09:18.374
+blow up the terrorist's phone situation.
+
+00:09:18.374 --> 00:09:20.577
+This is what English text looks like
+
+00:09:20.577 --> 00:09:21.890
+at a binary level.
+
+00:09:21.890 --> 00:09:24.216
+This is what your contacts list would look like
+
+00:09:24.216 --> 00:09:25.776
+if I were examining it.
+
+00:09:25.776 --> 00:09:28.010
+It's really hard to analyze this at this level,
+
+00:09:28.010 --> 00:09:30.114
+but if we take those same binary chunks

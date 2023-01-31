@@ -1,0 +1,53 @@
+WEBVTT
+
+00:08:59.977 --> 00:09:01.652
+Et pour que je le comprenne,
+
+00:09:01.652 --> 00:09:03.335
+je dois regarder des bouts,
+
+00:09:03.335 --> 00:09:05.788
+des bouts séquentiels 
+d'informations binaires,
+
+00:09:05.788 --> 00:09:08.690
+et regarder les relations entre ces bouts.
+
+00:09:08.690 --> 00:09:10.462
+Lorsque j'ai recueilli 
+assez de ces séquences,
+
+00:09:10.462 --> 00:09:12.466
+je commence à avoir une idée exacte
+
+00:09:12.466 --> 00:09:15.100
+de ce que ces informations doivent être.
+
+00:09:15.100 --> 00:09:16.284
+Alors revenons à cette situation
+
+00:09:16.284 --> 00:09:18.374
+où on fait exploser 
+le téléphone du terroriste.
+
+00:09:18.374 --> 00:09:20.577
+Voici à quoi ressemble 
+le texte en anglais
+
+00:09:20.577 --> 00:09:21.890
+à un niveau binaire.
+
+00:09:21.890 --> 00:09:24.216
+Voici à quoi ressemblerait
+votre liste de contacts
+
+00:09:24.216 --> 00:09:25.776
+si j'étais en train de l'examiner.
+
+00:09:25.776 --> 00:09:28.010
+C'est vraiment difficile 
+à analyser à ce niveau,
+
+00:09:28.010 --> 00:09:30.114
+mais si nous prenons 
+ces mêmes bouts binaires

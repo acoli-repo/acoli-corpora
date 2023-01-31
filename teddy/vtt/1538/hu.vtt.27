@@ -1,0 +1,48 @@
+WEBVTT
+
+00:13:28.683 --> 00:13:31.121
+nem kell a nyers adatokat átböngésznem.
+
+00:13:31.121 --> 00:13:33.276
+Csak annyi kell, hogy rábukkanjak a képre,
+
+00:13:33.276 --> 00:13:35.512
+hogy lássam: hasonló helyen járok.
+
+00:13:35.512 --> 00:13:38.540
+Követem ezeket a hasonló szálakat, 
+mint az elszórt morzsát,
+
+00:13:38.540 --> 00:13:41.646
+s így megtalálom, amit keresek.
+
+00:13:41.646 --> 00:13:43.380
+Tehát ebben a pillanatban
+
+00:13:43.380 --> 00:13:44.698
+megvan
+
+00:13:44.698 --> 00:13:46.383
+az akkuvezérlő kód,
+
+00:13:46.383 --> 00:13:48.959
+de ez még mindig kevés 
+az akku fölrobbantásához.
+
+00:13:48.959 --> 00:13:50.523
+A kirakós utolsó darabja:
+
+00:13:50.523 --> 00:13:53.202
+meg kell értenem, hogy a kód
+
+00:13:53.202 --> 00:13:54.404
+hogyan vezérli az akkut.
+
+00:13:54.404 --> 00:13:56.792
+Ehhez precízen ki kell derítenem
+
+00:13:56.792 --> 00:13:58.508
+a bináris infóban lévő infó
+
+00:13:58.508 --> 00:14:00.597
+nagyon részletes kapcsolódásait.

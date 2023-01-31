@@ -1,0 +1,36 @@
+WEBVTT
+
+00:10:28.145 --> 00:10:30.907
+a biopsiilor de cancer.
+
+00:10:30.907 --> 00:10:33.222
+Au cerut calculatorului să identifice,
+
+00:10:33.222 --> 00:10:36.413
+analizând datele
+și procentajul de supraviețuire,
+
+00:10:36.413 --> 00:10:40.910
+să determine dacă într-adevăr celulele
+
+00:10:40.910 --> 00:10:42.904
+sunt canceroase sau nu.
+
+00:10:42.904 --> 00:10:46.592
+Și bineînțeles, folosind date
+și un algoritm de învățare automată,
+
+00:10:46.592 --> 00:10:51.096
+mașina a reușit să identifice
+cele 12 semne tipice care prezic optim
+
+00:10:51.096 --> 00:10:57.407
+că biopsia unor celule canceroase
+de sân e într-adevăr canceroasă.
+
+00:10:57.407 --> 00:10:59.193
+Problema?
+
+00:10:59.193 --> 00:11:02.672
+Literatura medicală cunoștea
+numai nouă dintre ele.

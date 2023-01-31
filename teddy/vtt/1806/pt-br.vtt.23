@@ -1,0 +1,31 @@
+WEBVTT
+
+00:11:27.965 --> 00:11:32.092
+Vou chamá-la "Score" (placar).
+
+00:11:32.092 --> 00:11:34.923
+E isso cria alguns blocos novos para você,
+
+00:11:34.923 --> 00:11:39.589
+e também cria um pequeno placar que mantém a contagem dos pontos
+
+00:11:39.589 --> 00:11:44.841
+então cada vez que eu clico "change score" (mudar o placar), ela aumenta os pontos.
+
+00:11:44.841 --> 00:11:47.366
+Então eu mostrei isso ao membro do clube--
+
+00:11:47.366 --> 00:11:50.067
+vamos chamá-lo de Victor -- e o Victor
+
+00:11:50.067 --> 00:11:52.869
+quando viu que esse bloco o permitia aumentar o placar
+
+00:11:52.869 --> 00:11:54.685
+soube exatamente o que fazer.
+
+00:11:54.685 --> 00:11:56.999
+Ele pegou o bloco
+
+00:11:56.999 --> 00:12:00.043
+e o colocou no programa

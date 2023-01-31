@@ -1,0 +1,44 @@
+WEBVTT
+
+00:05:27.323 --> 00:05:30.061
+han creado simulaciones computarizadas de lo que ocurre
+
+00:05:30.061 --> 00:05:33.492
+cuando se combinan cálculos aproximados, 
+incluso con poco tráfico,
+
+00:05:33.492 --> 00:05:36.116
+cuando los autos solo comparten información GPS,
+
+00:05:36.116 --> 00:05:38.629
+y hemos llevado esta investigación 
+de simulación por computación
+
+00:05:38.629 --> 00:05:41.656
+y hacia un banco de pruebas robóticas 
+que tienen los sensores reales
+
+00:05:41.656 --> 00:05:44.789
+que los autos tienen actualmente, en estos robots:
+
+00:05:44.789 --> 00:05:46.627
+cámaras estéreo, GPS,
+
+00:05:46.627 --> 00:05:48.501
+y los telémetros láser bidimensionales
+
+00:05:48.501 --> 00:05:50.741
+que son comunes en los sistemas de respaldo.
+
+00:05:50.741 --> 00:05:55.225
+También incluimos una radio de comunicación 
+de corto alcance,
+
+00:05:55.225 --> 00:05:57.134
+y los robots hablan entre sí.
+
+00:05:57.134 --> 00:05:58.673
+Cuando estos robots se acercan,
+
+00:05:58.673 --> 00:06:01.644
+rastrean la posición del otro de manera precisa

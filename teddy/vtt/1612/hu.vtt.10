@@ -1,0 +1,35 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:04.533
+hogyan lehet automatikusan
+önmagát másoló rendszert készíteni.
+
+00:05:05.000 --> 00:05:07.000
+Ez Babbage bosszúja.
+
+00:05:07.000 --> 00:05:08.680
+Ezek kis mechanikus számológépek.
+
+00:05:08.680 --> 00:05:11.000
+Ötállapotú gépek.
+
+00:05:11.000 --> 00:05:13.730
+Ez három, sorba kötött villanykapcsoló.
+
+00:05:13.730 --> 00:05:16.000
+Semleges állapotban nem kapcsolnak.
+
+00:05:16.000 --> 00:05:20.000
+Ha karakterláncba, bitláncba kötjük őket,
+
+00:05:20.000 --> 00:05:22.000
+akkor másolni tudják magukat.
+
+00:05:22.000 --> 00:05:23.630
+Kezdjük: fehér, kék, kék, fehér.
+
+00:05:23.630 --> 00:05:26.521
+Kódolja; most másolni fog.
+
+00:05:26.521 --> 00:05:31.540
+Egyből kettő lesz, kettőből három.

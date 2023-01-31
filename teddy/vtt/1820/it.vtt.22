@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:59.000 --> 00:11:01.000
+invece di una scacchiera.
+
+00:11:01.000 --> 00:11:04.000
+In modo da leggere i numeri binari cinque, sei e sette.
+
+00:11:04.000 --> 00:11:07.000
+E per iniziare correttamente questo tipo di computazioni
+
+00:11:07.000 --> 00:11:09.000
+abbiamo bisogno di qualche input, un seme di qualche sorta.
+
+00:11:09.000 --> 00:11:11.000
+Ad esempio possiamo usare un origami di DNA.
+
+00:11:11.000 --> 00:11:13.000
+Possiamo codificare il numero 32
+
+00:11:13.000 --> 00:11:15.000
+sulla destra di un origami di DNA
+
+00:11:15.000 --> 00:11:17.000
+e quando aggiungiamo tasselli che contano,
+
+00:11:17.000 --> 00:11:20.000
+questi iniziano a contare, leggendo quel 32
+
+00:11:20.000 --> 00:11:22.000
+e si fermeranno a 32.
+
+00:11:22.000 --> 00:11:25.000
+Quello che abbiamo fatto è trovare un modo
+
+00:11:25.000 --> 00:11:28.000
+per cui il programma molecolare sappia quando interrompere l'esecuzione.
+
+00:11:28.000 --> 00:11:30.000
+Sa quando smettere di crescere perché sa contare.
+
+00:11:30.000 --> 00:11:32.000
+Sa quanto è grande.

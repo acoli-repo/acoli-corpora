@@ -1,0 +1,32 @@
+WEBVTT
+
+00:09:29.208 --> 00:09:31.929
+sistemele de versionare obișnuite.
+
+00:09:31.929 --> 00:09:36.238
+Dar asta aduce haosul înapoi
+
+00:09:36.238 --> 00:09:39.288
+și asta e cea de-a doua mare inovație Git.
+
+00:09:39.288 --> 00:09:43.284
+Asta e o captură de ecran de pe GitHub,
+principalul serviciu de hosting Git
+
+00:09:43.284 --> 00:09:46.634
+și de fiecare dată când
+un programator folosește Git
+
+00:09:46.634 --> 00:09:49.795
+ca să facă o schimbare importantă,
+
+00:09:49.795 --> 00:09:53.104
+să creeze un fișier nou,
+să modifice unul existent,
+
+00:09:53.104 --> 00:09:57.778
+să combine două fișiere,
+Git creează această semnătură.
+
+00:09:57.778 --> 00:10:00.921
+Acest șir lung de numere și litere

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:14:59.000 --> 00:15:01.000
+Y, por ejemplo,
+
+00:15:01.000 --> 00:15:03.000
+en los casos más extremos,
+
+00:15:03.000 --> 00:15:05.000
+podemos evolucionar un programa
+
+00:15:05.000 --> 00:15:09.000
+a partir de una secuencia aleatoria de instrucciones.
+
+00:15:09.000 --> 00:15:11.000
+Le decimos: "por favor computadora, ¿puedes correr
+
+00:15:11.000 --> 00:15:14.000
+cien millones de secuencias de instrucciones al azar?
+
+00:15:14.000 --> 00:15:17.000
+¿Podrías ejecutar estas secuencias de instrucciones al azar,
+
+00:15:17.000 --> 00:15:19.000
+ejecutar todos esos programas,
+
+00:15:19.000 --> 00:15:22.000
+y tomar aquellas que más se aproximen a lo que queremos hacer?"
+
+00:15:22.000 --> 00:15:24.000
+En otras palabras, yo defino lo que quiero.
+
+00:15:24.000 --> 00:15:26.000
+Digamos que quiero ordenar números,
+
+00:15:26.000 --> 00:15:28.000
+para poner un ejemplo simple.
+
+00:15:28.000 --> 00:15:31.000
+Así, encontramos los programas que más se acercan a ordenar números.

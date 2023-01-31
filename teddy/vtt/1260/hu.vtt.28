@@ -1,0 +1,40 @@
+WEBVTT
+
+00:13:58.000 --> 00:14:00.000
+mely a tartalmi grafikont adja.
+
+00:14:00.000 --> 00:14:04.000
+A harmadik dimenzió is fontos.
+
+00:14:04.000 --> 00:14:06.000
+Minden itt látható, egymáshoz rendelt kapcsolat,
+
+00:14:06.000 --> 00:14:08.000
+tulajdonképpen nem más, mint
+
+00:14:08.000 --> 00:14:11.000
+valami, amit valaki mondott,
+
+00:14:11.000 --> 00:14:13.000
+és valamilyen tartalom.
+
+00:14:13.000 --> 00:14:16.000
+Ismétlem, több tízmillió ilyen kapocs van,
+
+00:14:16.000 --> 00:14:19.000
+ami a szociális grafikonok kötőszövetét képzi,
+
+00:14:19.000 --> 00:14:22.000
+és ami a tartalomhoz való kapcsolatukat adja.
+
+00:14:22.000 --> 00:14:24.000
+Elkezdhetjük tesztelni a szerkezetet
+
+00:14:24.000 --> 00:14:26.000
+ezzel az érdekes módszerrel például.
+
+00:14:26.000 --> 00:14:29.000
+Tegyük fel, hogy a tartalom egy szeletének
+
+00:14:29.000 --> 00:14:31.000
+útvonalát akarjuk nyomon követni, mely

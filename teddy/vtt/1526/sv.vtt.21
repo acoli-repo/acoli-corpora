@@ -1,0 +1,42 @@
+WEBVTT
+
+00:10:27.900 --> 00:10:30.037
+cancerbiopsier
+
+00:10:30.727 --> 00:10:33.222
+och dom bad en dator att identifiera,
+
+00:10:33.222 --> 00:10:35.693
+genom att se på data 
+och överlevnadsstatistik
+
+00:10:35.693 --> 00:10:40.001
+för att bedöma om celler är
+
+00:10:40.731 --> 00:10:42.665
+drabbade av cancer eller inte,
+
+00:10:42.665 --> 00:10:44.562
+och visst, när man kastar data på den
+
+00:10:44.562 --> 00:10:46.729
+genom en algoritm för maskininlärning
+
+00:10:46.729 --> 00:10:48.426
+så kunde datorn identifiera
+
+00:10:48.426 --> 00:10:50.868
+de 12 varningssignalerna 
+som bäst förutspådde
+
+00:10:50.868 --> 00:10:54.167
+att biopsin av bröstcancerceller
+
+00:10:54.167 --> 00:10:56.674
+verkligen är cancer.
+
+00:10:57.385 --> 00:10:59.883
+Problemet var att medicinsk facklitteratur
+
+00:10:59.883 --> 00:11:02.249
+bara kände till nio av dom.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:12:29.000 --> 00:12:32.000
+si nous pouvons utiliser cela comme recette
+
+00:12:32.000 --> 00:12:35.000
+pour construire des systèmes de vision sur des machines
+
+00:12:35.000 --> 00:12:38.000
+qui peuvent apprendre par elles-mêmes, qui n'ont pas besoin d'être programmées
+
+00:12:38.000 --> 00:12:40.000
+par un programmateur humain.
+
+00:12:40.000 --> 00:12:42.000
+Et c'est ce que nous essayons de faire.
+
+00:12:42.000 --> 00:12:45.000
+Je suis au MIT, au MIT vous devez appliquer
+
+00:12:45.000 --> 00:12:47.000
+tout connaissance fondamentale que vous acquérez.
+
+00:12:47.000 --> 00:12:49.000
+Alors nous sommes en train de créer Dylan,
+
+00:12:49.000 --> 00:12:51.000
+qui est un système informatique
+
+00:12:51.000 --> 00:12:53.000
+avec le but ambitieux
+
+00:12:53.000 --> 00:12:55.000
+de recueillir les données visuelles
+
+00:12:55.000 --> 00:12:58.000
+du même genre que ceux qu'un enfant humain recevrait,
+
+00:12:58.000 --> 00:13:00.000
+et de découvrir de façon autonome
+
+00:13:00.000 --> 00:13:03.000
+quels sont les objets dans ces données visuelles.

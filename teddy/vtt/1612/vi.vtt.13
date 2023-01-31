@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:28.000 --> 00:06:31.000
+Vì vậy, tôi đã cố gắng
+để có phiên bản của kỹ sư:
+
+00:06:31.000 --> 00:06:34.230
+Chúng ta có thể xây dựng hệ thống cơ học
+trong các vật liệu vô cơ
+
+00:06:34.230 --> 00:06:36.060
+mà sẽ làm điều tương tự không?
+
+00:06:36.060 --> 00:06:40.000
+Ở đây chúng tôi có thể
+làm cho một hình dạng 2D
+
+00:06:40.000 --> 00:06:44.000
+-là chữ B - 
+lắp ráp từ một chuỗi các thành phần
+
+00:06:44.000 --> 00:06:46.000
+tuân theo các quy tắc cực kỳ đơn giản.
+
+00:06:46.000 --> 00:06:49.250
+Và mấu chốt của việc di chuyển
+với các quy tắc cực kỳ đơn giản ở đây,
+
+00:06:49.250 --> 00:06:52.160
+và các máy trạng thái rất đơn giản
+trong thiết kế trước đây,
+
+00:06:52.160 --> 00:06:55.000
+là bạn không cần logic kỹ thuật số
+để tính toán.
+
+00:06:55.000 --> 00:06:59.000
+Và theo cách đó bạn có thể quy mô
+những vật nhỏ hơn nhiều so với vi mạch.
+
+00:06:59.000 --> 00:07:03.000
+Bạn có thể sử dụng nó như tiểu thành phần
+trong quá trình lắp ráp.

@@ -1,0 +1,35 @@
+WEBVTT
+
+00:11:27.327 --> 00:11:31.715
+ta sẽ nhận được các thuật toán
+như tìm kiếm, khôi phục
+
+00:11:31.720 --> 00:11:34.795
+đơn giản và hiệu quả hơn rất nhiều,
+
+00:11:34.795 --> 00:11:39.212
+bởi vì FreeSpeech
+không xử lí dữ kiện lời nói.
+
+00:11:39.212 --> 00:11:45.188
+Thay vào đó, là dữ kiện suy nghĩ.
+
+00:11:45.188 --> 00:11:47.996
+Cấu trúc dữ liệu suy nghĩ.
+
+00:11:47.996 --> 00:11:50.072
+Đó là một ý tưởng gợi nhiều suy nghĩ.
+
+00:11:50.072 --> 00:11:52.214
+Hãy cùng xem xét 
+một cách chi tiết hơn.
+
+00:11:52.214 --> 00:11:54.580
+Đây là hệ sinh thái của FreeSpeech.
+
+00:11:54.580 --> 00:11:57.464
+Phần biểu đạt ở một bên,
+
+00:11:57.464 --> 00:12:01.442
+và phần dịch sang tiếng Anh, 
+ở một bên.

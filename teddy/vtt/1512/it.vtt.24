@@ -1,0 +1,42 @@
+WEBVTT
+
+00:11:58.177 --> 00:12:00.517
+per la prima volta 
+non lavorando su carta
+
+00:12:00.517 --> 00:12:04.477
+ma direttamente sullo schermo 
+a livello di pixel.
+
+00:12:04.477 --> 00:12:08.330
+All'epoca, gli schermi erano binari.
+
+00:12:08.330 --> 00:12:11.370
+Il pixel era acceso o spento.
+
+00:12:11.370 --> 00:12:14.225
+Qui vedete i contorni di una lettera,
+
+00:12:14.225 --> 00:12:15.692
+la H maiuscola,
+
+00:12:15.692 --> 00:12:18.493
+che è la linea nera sottile, 
+il contorno,
+
+00:12:18.493 --> 00:12:21.369
+ossia come viene memorizzata
+
+00:12:21.369 --> 00:12:23.039
+superimposta sulla bitmap,
+
+00:12:23.039 --> 00:12:25.187
+l'area grigia,
+
+00:12:25.187 --> 00:12:27.024
+che è quello 
+che viene visualizzato a schermo.
+
+00:12:27.024 --> 00:12:30.170
+La bitmap viene rasterizzata 
+dal contorno.

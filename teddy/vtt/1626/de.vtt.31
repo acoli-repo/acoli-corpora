@@ -1,0 +1,46 @@
+WEBVTT
+
+00:15:28.000 --> 00:15:31.000
+Finde also Programme, welche am ehesten Nummern sortieren können.
+
+00:15:31.000 --> 00:15:34.000
+Natürlich ist die Chance bei zufällig gewählten Instruktionen
+
+00:15:34.000 --> 00:15:36.000
+sehr klein, dass sie per Zufall eben Nummern sortieren,
+
+00:15:36.000 --> 00:15:38.000
+also werden wohl keine der Instruktionen tatsächlich dies machen.
+
+00:15:38.000 --> 00:15:40.000
+Aber eine von denen mag mit etwas Glück
+
+00:15:40.000 --> 00:15:42.000
+zwei Nummern in die richtige Reihenfolge rücken.
+
+00:15:42.000 --> 00:15:44.000
+Jetzt sage ich, "Computer,
+
+00:15:44.000 --> 00:15:47.000
+nimm jetzt diejenigen 10 % der Sequenzen, welche
+
+00:15:47.000 --> 00:15:49.000
+meinen Vorgaben am nächsten gekommen sind.
+
+00:15:49.000 --> 00:15:51.000
+Speichere diese ab, lösche den Rest.
+
+00:15:51.000 --> 00:15:53.000
+Jetzt reproduziere alle übriggebliebenen,
+
+00:15:53.000 --> 00:15:55.000
+die die Nummern am besten sortiert haben.
+
+00:15:55.000 --> 00:15:58.000
+Und zwar mit einer Methode des Rekombinierens,
+
+00:15:58.000 --> 00:16:00.000
+analog zur Fortpflanzung."
+
+00:16:00.000 --> 00:16:03.000
+Nimm zwei Programme und sie produzieren Kinder

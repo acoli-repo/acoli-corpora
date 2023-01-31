@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:30.000
+Wyobraźcie sobie małpę
+
+00:09:30.000 --> 00:09:32.000
+piszącą na klawiaturze.
+
+00:09:32.000 --> 00:09:35.000
+Pewnie uzyskamy przypadkowy ciąg znaków podobny do tego.
+
+00:09:35.000 --> 00:09:37.000
+Taki przypadkowy ciąg znaków
+
+00:09:37.000 --> 00:09:39.000
+charakteryzuje się wysoką entropią.
+
+00:09:39.000 --> 00:09:41.000
+Jest to termin z fizyki i teorii informacji.
+
+00:09:41.000 --> 00:09:44.000
+Wyobraźcie sobie całkowicie przypadkowy ciąg liter.
+
+00:09:44.000 --> 00:09:48.000
+Ilu z was wylało kiedykolwiek kawę na klawiaturę?
+
+00:09:48.000 --> 00:09:50.000
+Mogliście się spotkać z problemem zablokowanego klawisza,
+
+00:09:50.000 --> 00:09:53.000
+gdy ten sam symbol cały czas się powtarza.
+
+00:09:53.000 --> 00:09:56.000
+Ten rodzaj sekwencji charakteryzuje się bardzo niską entropią,
+
+00:09:56.000 --> 00:09:58.000
+ponieważ nie występują tu różne symbole.
+
+00:09:58.000 --> 00:10:01.000
+Język z kolei cechuje się średnim poziomem entropii;

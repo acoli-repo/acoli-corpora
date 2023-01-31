@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:59.000 --> 00:09:01.000
+En el resto de los casos,
+
+00:09:01.000 --> 00:09:04.000
+normalmente la segunda o tercera mejor opción era la respuesta correcta.
+
+00:09:04.000 --> 00:09:06.000
+Hay también un uso práctico
+
+00:09:06.000 --> 00:09:08.000
+para este procedimiento en particular.
+
+00:09:08.000 --> 00:09:10.000
+Muchos de estos textos están dañados,
+
+00:09:10.000 --> 00:09:12.000
+aquí hay un ejemplo de un texto así.
+
+00:09:12.000 --> 00:09:15.000
+Y ahora podemos usar el modelo informático para tratar de completar el texto
+
+00:09:15.000 --> 00:09:17.000
+y hacer una mejor predicción.
+
+00:09:17.000 --> 00:09:20.000
+Aquí hay un ejemplo de un símbolo que fue predicho.
+
+00:09:20.000 --> 00:09:22.000
+Y puede ser realmente útil mientras tratamos de descifrar la escritura,
+
+00:09:22.000 --> 00:09:25.000
+generando más datos que podamos analizar.
+
+00:09:25.000 --> 00:09:28.000
+Hay otra cosa que puedes hacer con el modelo informático.
+
+00:09:28.000 --> 00:09:30.000
+Imaginen un mono
+
+00:09:30.000 --> 00:09:32.000
+sentado frente a un teclado.

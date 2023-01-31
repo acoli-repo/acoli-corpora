@@ -1,0 +1,34 @@
+WEBVTT
+
+00:08:59.314 --> 00:09:02.338
+Są dwie duże różnice
+
+00:09:02.338 --> 00:09:04.401
+między nią, a tradycyjnymi systemami.
+
+00:09:04.401 --> 00:09:07.548
+Pierwsza, to spełnienie założeń filozofii
+
+00:09:07.548 --> 00:09:10.834
+open-source. Każdy, kto pracuje nad projektem
+
+00:09:10.834 --> 00:09:14.505
+ma dostęp do całego kodu źródłowego przez cały czas.
+
+00:09:14.505 --> 00:09:17.179
+Diagram przepływu pracy w Git
+
+00:09:17.179 --> 00:09:20.116
+wygląda tak.
+
+00:09:20.116 --> 00:09:22.434
+I nie trzeba rozumieć, co oznaczają te kółka,
+
+00:09:22.434 --> 00:09:26.113
+pola i strzałki, by zobaczyć, że to bardziej
+
+00:09:26.113 --> 00:09:29.208
+skomplikowany sposób pracy,
+
+00:09:29.208 --> 00:09:31.929
+niż w standardowym systemie.

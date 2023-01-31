@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:31.000
+Normalmente, eficiência é crucial.
+
+00:09:31.000 --> 00:09:35.000
+Pois o custo do combustível para o seu mecanismo em sua vida supera o custo do mecanismo.
+
+00:09:35.000 --> 00:09:37.000
+Mas se a sua fonte de combustível é grátis
+
+00:09:37.000 --> 00:09:40.000
+A única coisa que importa é o custo de seus mecanismos.
+
+00:09:40.000 --> 00:09:42.000
+Então você não quer otimizá-lo para ser eficiente.
+
+00:09:42.000 --> 00:09:44.000
+Você quer otimizá-lo para melhor custo benefício.
+
+00:09:44.000 --> 00:09:46.000
+Usando este novo critério,
+
+00:09:46.000 --> 00:09:48.000
+Nós pensamos que poderíamos reavaliar o mecanismo Stirling,
+
+00:09:48.000 --> 00:09:50.000
+e também trazer algorítimos genéticos para ele.
+
+00:09:50.000 --> 00:09:54.000
+Basicamente, Robert Stirling não teve Gordon Moore antes dele
+
+00:09:54.000 --> 00:09:56.000
+para dar a gente poder de processamento de três gigahertz.
+
+00:09:56.000 --> 00:09:58.000
+Então nós pegamos o mesmo algoritmo genético que nós usamos antes
+
+00:09:58.000 --> 00:10:00.000
+para fazer o concentrador, o qual não funcionou para a gente,
+
+00:10:00.000 --> 00:10:03.000
+otimizar o mecanismo Stirling.

@@ -1,0 +1,47 @@
+WEBVTT
+
+00:12:27.024 --> 00:12:30.170
+A bitmap-et a körvonalak alapján 
+alakítottuk ki.
+
+00:12:30.170 --> 00:12:32.531
+Itt a nagy H-ban, ami csupa
+egyenes vonalból áll,
+
+00:12:32.531 --> 00:12:34.499
+a kettő majdnem tökéletes
+szinkronban van
+
+00:12:34.499 --> 00:12:38.867
+a Descartes-féle koordináta-hálón.
+
+00:12:38.867 --> 00:12:41.293
+Az O-val más a helyzet.
+
+00:12:41.293 --> 00:12:44.720
+Ez inkább arra hasonlít, 
+ahogyan a téglákat rakják, 
+
+
+00:12:44.720 --> 00:12:47.621
+nem egy betűtervre, 
+de higyjék el, ez jó bitmap az O-ra,
+
+00:12:47.621 --> 00:12:50.016
+azon egyszerű oknál fogva, 
+hogy szimmetrikus
+
+00:12:50.016 --> 00:12:52.116
+mind az x, mind az y tengelyre.
+
+00:12:52.116 --> 00:12:54.974
+Egy bináris bitmap esetén ennél többet
+
+00:12:54.974 --> 00:12:56.694
+nem lehet elvárni.
+
+00:12:56.694 --> 00:12:59.116
+Előfordult, hogy csináltam, nem emlékszem,
+
+00:12:59.116 --> 00:13:01.454
+három-négy változatot 

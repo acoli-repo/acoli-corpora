@@ -1,0 +1,49 @@
+WEBVTT
+
+00:06:28.960 --> 00:06:30.376
+But really the goal here was,
+
+00:06:30.400 --> 00:06:32.896
+within about a minute,
+I wanted somebody to replicate
+
+00:06:32.920 --> 00:06:36.176
+what typically takes a pictorial artist
+several weeks to create.
+
+00:06:36.200 --> 00:06:38.136
+OK, now I'll put some hands on it.
+
+00:06:38.160 --> 00:06:41.056
+OK, so here I've basically
+thrown together a little creature.
+
+00:06:41.080 --> 00:06:44.160
+Let me give it a little weapon
+on the tail here, so it can fight.
+
+00:06:44.880 --> 00:06:46.496
+OK, so that's the complete model.
+
+00:06:46.520 --> 00:06:48.656
+Now we can actually
+go to the painting phase.
+
+00:06:48.680 --> 00:06:51.176
+At this phase, the program
+has some understanding
+
+00:06:51.200 --> 00:06:52.816
+of the topology of this creature.
+
+00:06:52.840 --> 00:06:55.876
+It knows where the backbone is,
+where the spine, the limbs are,
+
+00:06:55.900 --> 00:06:58.156
+how stripes should run,
+how it should be shaded.
+
+00:06:58.180 --> 00:07:00.676
+And so we're procedurally
+generating the texture map,

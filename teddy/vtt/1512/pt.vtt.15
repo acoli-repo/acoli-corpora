@@ -1,0 +1,40 @@
+WEBVTT
+
+00:07:28.424 --> 00:07:30.736
+Havia um problema na altura
+
+00:07:30.736 --> 00:07:32.750
+com o tamanho das fontes,
+
+00:07:32.750 --> 00:07:35.613
+a quantidade de dados
+necessária para pesquisar
+
+00:07:35.613 --> 00:07:39.614
+e armazenar uma fonte
+na memória do computador.
+
+00:07:40.393 --> 00:07:42.704
+Limitava o número de fontes 
+que era possível ter
+
+00:07:42.704 --> 00:07:44.904
+no sistema tipográfico ao mesmo tempo.
+
+00:07:45.294 --> 00:07:49.180
+Fiz uma análise dos dados
+
+00:07:49.180 --> 00:07:51.630
+e descobri que a típica fonte com serifa,
+
+00:07:51.630 --> 00:07:53.342
+que se vê à esquerda,
+
+00:07:53.342 --> 00:07:55.516
+precisava de quase o dobro dos dados
+
+00:07:55.516 --> 00:07:57.652
+do que a fonte sem serifa no meio,
+
+00:07:57.652 --> 00:08:00.290
+devido a todos os pontos que precisava

@@ -1,0 +1,25 @@
+WEBVTT
+
+00:05:59.000 --> 00:06:03.000
+este o creștere a cantității de curent, și apare un flux stabil de curent.
+
+00:06:03.000 --> 00:06:07.000
+Și când se oprește acest electron poartă, nu mai există curent prin dispozitiv.
+
+00:06:07.000 --> 00:06:12.000
+Calculatorul dvs. folosește această prezență a curentului pentru a reprezenta pe unu
+
+00:06:12.000 --> 00:06:16.000
+iar absența curentului pentru a reprezenta un zero.
+
+00:06:16.000 --> 00:06:22.000
+Acum, ce se întâmplă este că pe măsură ce tranzistorii devin din ce în ce mai mici,
+
+00:06:22.000 --> 00:06:24.000
+încep să nu se mai comporte așa.
+
+00:06:24.000 --> 00:06:29.000
+De fapt, ei încep să se comporte ca dispozitivul pe care neuronii îl folosesc pentru procesare,
+
+00:06:29.000 --> 00:06:31.000
+care este numit canal ionic.

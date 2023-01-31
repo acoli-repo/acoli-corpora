@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:31.000
+Normalmente, la eficiencia es crucial
+
+00:09:31.000 --> 00:09:35.000
+porque el costo del combustible del motor sobre su vida útil reduce el costo del motor.
+
+00:09:35.000 --> 00:09:37.000
+Pero si la fuente de la energía es gratis,
+
+00:09:37.000 --> 00:09:40.000
+entonces la única cosa que importa es el costo del la inversión en el motor.
+
+00:09:40.000 --> 00:09:42.000
+Por tanto no quieres optimizar por eficiencia,
+
+00:09:42.000 --> 00:09:44.000
+quieres optimizar por potencia por dólar.
+
+00:09:44.000 --> 00:09:46.000
+Entonces, utilizando este nueva perspectiva, con el nuevo criterio,
+
+00:09:46.000 --> 00:09:48.000
+pensamos que podíamos volver a considerar el motor Stirling,
+
+00:09:48.000 --> 00:09:50.000
+y además incorporar algorítmos genéticos.
+
+00:09:50.000 --> 00:09:54.000
+Básicamente, Robert Stirling no tuvo a Gordon Moore antes de él
+
+00:09:54.000 --> 00:09:56.000
+para darle procesadores de tres gigahertz.
+
+00:09:56.000 --> 00:09:58.000
+Entonces tomamos el mismo algorítmo genético que usamos anteriormente
+
+00:09:58.000 --> 00:10:00.000
+para hacer ese concentrador, que no funcinó para nosotros,
+
+00:10:00.000 --> 00:10:03.000
+para optimizar el motor Stirling

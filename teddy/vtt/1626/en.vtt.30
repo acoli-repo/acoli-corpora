@@ -1,0 +1,40 @@
+WEBVTT
+
+00:14:59.000 --> 00:15:01.000
+So for example,
+
+00:15:01.000 --> 00:15:03.000
+in the most extreme cases,
+
+00:15:03.000 --> 00:15:05.000
+we can actually evolve a program
+
+00:15:05.000 --> 00:15:09.000
+by starting out with random sequences of instructions.
+
+00:15:09.000 --> 00:15:11.000
+Say, "Computer, would you please make
+
+00:15:11.000 --> 00:15:14.000
+a hundred million random sequences of instructions.
+
+00:15:14.000 --> 00:15:17.000
+Now would you please run all of those random sequences of instructions,
+
+00:15:17.000 --> 00:15:19.000
+run all of those programs,
+
+00:15:19.000 --> 00:15:22.000
+and pick out the ones that came closest to doing what I wanted."
+
+00:15:22.000 --> 00:15:24.000
+So in other words, I define what I wanted.
+
+00:15:24.000 --> 00:15:26.000
+Let's say I want to sort numbers,
+
+00:15:26.000 --> 00:15:28.000
+as a simple example I've done it with.
+
+00:15:28.000 --> 00:15:31.000
+So find the programs that come closest to sorting numbers.

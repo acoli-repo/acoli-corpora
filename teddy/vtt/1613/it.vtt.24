@@ -1,0 +1,37 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:01.000
+come io stesso pensavo quando ne costruivo le versioni basi alle superiori --
+
+00:12:01.000 --> 00:12:03.000
+ad una possibile realtà,
+
+00:12:03.000 --> 00:12:07.000
+una volta incrementata l'efficienza e raggiunto un contenuto costo di produzione.
+
+00:12:07.000 --> 00:12:11.000
+Intraprendemmo, quindi, la strada per provare a renderlo il più possibile economico.
+
+00:12:11.000 --> 00:12:13.000
+Sviluppammo un grande modello matematico del funzionamento del motore Stirling.
+
+00:12:13.000 --> 00:12:15.000
+Applicammo l'algoritmo genetico.
+
+00:12:15.000 --> 00:12:18.000
+Da ciò ricavammo i risultati per l'ottimizzazione del motore.
+
+00:12:18.000 --> 00:12:21.000
+Poi costruimmo i motori -- circa 100 tipi diversi negli ultimi due anni.
+
+00:12:21.000 --> 00:12:24.000
+Ognuno veniva testato, ed il modello poi riadattato sulla base dei tests,
+
+00:12:24.000 --> 00:12:26.000
+fino a giungere all'attuale prototipo.
+
+00:12:26.000 --> 00:12:29.000
+Siamo giunti ad un motore molto compatto ed economico
+
+00:12:29.000 --> 00:12:31.000
+Ed ecco come si presenta questo motore.

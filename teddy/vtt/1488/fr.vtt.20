@@ -1,0 +1,34 @@
+WEBVTT
+
+00:09:57.000 --> 00:10:00.000
+avec un zéro alors que l'on veut un un,
+
+00:10:00.000 --> 00:10:02.000
+la redondance dans le réseau
+
+00:10:02.000 --> 00:10:05.000
+permet de retrouver l'information manquante.
+
+00:10:05.000 --> 00:10:08.000
+Cela rend le cerveau robuste par nature.
+
+00:10:08.000 --> 00:10:11.000
+Ce que vous avez ici, c'est un système où les données sont stockées localement.
+
+00:10:11.000 --> 00:10:15.000
+Et c'est fragile, parce que chacune de ces étapes doit être parfaite,
+
+00:10:15.000 --> 00:10:18.000
+ou sinon on perd des données. Alors que dans le cerveau, on a un système
+
+00:10:18.000 --> 00:10:22.000
+qui stocke les données de façon distribuée, et c'est solide.
+
+00:10:22.000 --> 00:10:26.000
+Ce que je veux partager, c'est mon rêve
+
+00:10:26.000 --> 00:10:29.000
+qui est de construire un ordinateur qui fonctionne comme le cerveau.
+
+00:10:29.000 --> 00:10:33.000
+Nous avons travaillé sur le sujet depuis une vingtaine d'années.

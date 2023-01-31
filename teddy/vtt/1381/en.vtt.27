@@ -1,0 +1,40 @@
+WEBVTT
+
+00:13:29.000 --> 00:13:32.000
+And so here, you can see again, the chosen take.
+
+00:13:32.000 --> 00:13:35.000
+And you are seeing, now, that data being transposed on to Ben 87.
+
+00:13:35.000 --> 00:13:38.000
+And so, what's interesting about this is
+
+00:13:38.000 --> 00:13:40.000
+we used something called image analysis,
+
+00:13:40.000 --> 00:13:43.000
+which is taking timings from different components of Benjamin's face.
+
+00:13:43.000 --> 00:13:46.000
+And so we could choose, say, his left eyebrow.
+
+00:13:46.000 --> 00:13:48.000
+And the software would tell us that, well,
+
+00:13:48.000 --> 00:13:50.000
+in frame 14 the left eyebrow begins to move from here to here,
+
+00:13:50.000 --> 00:13:52.000
+and it concludes moving in frame 32.
+
+00:13:52.000 --> 00:13:54.000
+And so we could choose numbers of positions on the face
+
+00:13:54.000 --> 00:13:56.000
+to pull that data from.
+
+00:13:56.000 --> 00:13:58.000
+And then, the sauce I talked about with our technology stew --
+
+00:13:58.000 --> 00:14:01.000
+that secret sauce was, effectively, software that allowed us to

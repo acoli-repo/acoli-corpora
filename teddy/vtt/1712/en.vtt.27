@@ -1,0 +1,31 @@
+WEBVTT
+
+00:13:29.000 --> 00:13:34.000
+with precision, with control, and despite his physical disability, to be able to do that,
+
+00:13:34.000 --> 00:13:37.000
+to be able to perform his piece of music.
+
+00:13:37.000 --> 00:13:39.000
+So, the process and the technology --
+
+00:13:39.000 --> 00:13:42.000
+basically, first we needed an engineering solution. So, you know,
+
+00:13:42.000 --> 00:13:45.000
+we have a FireWire camera, it looked at an infrared pointer.
+
+00:13:45.000 --> 00:13:49.000
+We went with the type of gesture metaphor that Dan was already used to
+
+00:13:49.000 --> 00:13:53.000
+with his speaking controller.
+
+00:13:53.000 --> 00:13:56.000
+And this was actually the least interesting part of the work, you know,
+
+00:13:56.000 --> 00:13:59.000
+the design process. We needed an input; we needed continuous tracking;
+
+00:13:59.000 --> 00:14:02.000
+in the software, we look at the types of shapes he's making.

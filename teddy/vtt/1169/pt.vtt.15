@@ -1,0 +1,49 @@
+WEBVTT
+
+00:07:29.000 --> 00:07:32.000
+Era a face de um bebé.
+
+00:07:32.000 --> 00:07:34.000
+O que acontece com a nossa abordagem,
+
+00:07:34.000 --> 00:07:36.000
+acrescentando o código? Podemos ver
+
+00:07:36.000 --> 00:07:38.000
+que é muito melhor. Conseguimos não apenas
+
+00:07:38.000 --> 00:07:40.000
+identificar a cara do bebé, mas saber também
+
+00:07:40.000 --> 00:07:42.000
+que é a cara daquele bebé em especial,
+
+00:07:42.000 --> 00:07:44.000
+o que é algo muito difícil.
+
+00:07:44.000 --> 00:07:46.000
+Temos à esquerda o codificador isolado,
+
+00:07:46.000 --> 00:07:48.000
+e à direita uma retina cega,
+
+00:07:48.000 --> 00:07:50.000
+com o codificador e o transdutor.
+
+00:07:50.000 --> 00:07:52.000
+Mas o que interessa é a que tem só o codificador,
+
+00:07:52.000 --> 00:07:54.000
+porque podemos combinar o codificador
+
+00:07:54.000 --> 00:07:56.000
+com um transdutor diferente. Esta foi simplesmente
+
+00:07:56.000 --> 00:07:58.000
+a nossa primeira tentativa. Queria apenas acrescentar algo
+
+00:07:58.000 --> 00:08:00.000
+sobre o método comum.
+
+00:08:00.000 --> 00:08:02.000
+Quando saiu, era algo muito excitante,

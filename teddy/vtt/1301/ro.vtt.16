@@ -1,0 +1,36 @@
+WEBVTT
+
+00:07:59.979 --> 00:08:03.115
+iar Torvalds n-avea de gând
+să accepte ceva ce nu mergea,
+
+00:08:03.115 --> 00:08:05.424
+așa cum mergea comunitatea Linux.
+
+00:08:05.424 --> 00:08:07.956
+Și ca să vă arăt cât de mare
+
+00:08:07.956 --> 00:08:11.624
+era o decizie de acest gen, asta-i o hartă
+
+00:08:11.624 --> 00:08:15.113
+a dependințelor interne
+din sistemul de operare Linux,
+
+00:08:15.113 --> 00:08:17.720
+în cadrul sistemului de operare Linux,
+care subrutine
+
+00:08:17.720 --> 00:08:22.165
+se bazează pe care alte subrutine
+pentru a funcționa.
+
+00:08:22.165 --> 00:08:25.743
+Un proces extrem de complicat.
+
+00:08:25.743 --> 00:08:28.535
+Un program extrem de complicat.
+
+00:08:28.535 --> 00:08:31.200
+Totuși, ani la rând, Torvalds
+a rulat programul

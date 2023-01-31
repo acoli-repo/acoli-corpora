@@ -1,0 +1,31 @@
+WEBVTT
+
+00:04:57.715 --> 00:05:00.926
+Dos factors: Primer, la gravetat actua
+
+00:05:00.926 --> 00:05:03.051
+sobre tots els objectes de la mateixa manera.
+
+00:05:03.051 --> 00:05:05.515
+Segon, els propulsors sempre apunten
+
+00:05:05.515 --> 00:05:08.642
+cap a la mateixa direcció que el got, amunt.
+
+00:05:08.642 --> 00:05:11.019
+Si tenim en compte aquests dos factors, el resultat net
+
+00:05:11.019 --> 00:05:13.306
+és que totes les forces laterals en aquest got són molt petites,
+
+00:05:13.306 --> 00:05:16.091
+i són en gran part causades només per efectes aerodinàmics
+
+00:05:16.091 --> 00:05:19.932
+que es poden menysprear a aquestes velocitats.
+
+00:05:23.336 --> 00:05:25.407
+I aquest és el motiu pel qual no cal modelar el got.
+
+00:05:25.407 --> 00:05:29.255
+Simplement per les lleis de la física l'aigua no vessa sense importar què faci el quad.

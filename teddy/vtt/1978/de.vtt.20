@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:58.000 --> 00:10:00.000
+Es gibt zwei verschidene Möglichkeiten zu erkennen,
+
+00:10:00.000 --> 00:10:02.000
+ob einige Daten verlorengegangen sind.
+
+00:10:02.000 --> 00:10:05.000
+Sie können Statistiken benutzen, oder Geschichten.
+
+00:10:05.000 --> 00:10:07.000
+Ich persönlich bevorzuge Statistiken, also rede ich darüber zuerst.
+
+00:10:07.000 --> 00:10:09.000
+Das hier nennt man einen Funnel Plot.
+
+00:10:09.000 --> 00:10:11.000
+Ein Funnel Plot ist ein ganz schlaues Verfahren um zu erkunden,
+
+00:10:11.000 --> 00:10:14.000
+ob kleine negative Versuche verschwunden sind, verloren gegangen sind.
+
+00:10:14.000 --> 00:10:16.000
+Das ist also eine Grafik aller Versuche,
+
+00:10:16.000 --> 00:10:18.000
+die über eine bestimmte Behandlung gemacht worden sind.
+
+00:10:18.000 --> 00:10:20.000
+Wenn Sie nun nach oben gehen zur Spitze hin,
+
+00:10:20.000 --> 00:10:22.000
+sehen Sie, dass jeder Punkt ein Versuch ist.
+
+00:10:22.000 --> 00:10:25.000
+Je weiter Sie nach oben kommen, desto größer sind die Versuche, sie haben also weniger Fehler.
+
+00:10:25.000 --> 00:10:28.000
+Sie haben eine kleinere Wahrscheinlichkeit, zufällige falsche Positive oder Negative zu sein.
+
+00:10:28.000 --> 00:10:30.000
+Sie drängen sich also alle aneinander.
+
+00:10:30.000 --> 00:10:32.000
+Die großen Versuche sind näher an der wahren Antwort.

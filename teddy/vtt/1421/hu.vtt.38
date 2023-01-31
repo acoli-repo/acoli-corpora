@@ -1,0 +1,37 @@
+WEBVTT
+
+00:18:59.000 --> 00:19:01.000
+hasonló felépítésű,
+
+00:19:01.000 --> 00:19:03.000
+olyan, hogy van egy nagy ág, amely kisebb ágakra válik szét,
+
+00:19:03.000 --> 00:19:06.000
+majd még kisebb ágakká és így tovább.
+
+00:19:06.000 --> 00:19:08.000
+Ez is egy módja, ahogy a valódi
+
+00:19:08.000 --> 00:19:11.000
+komplexitást megközelíthetjük.
+
+00:19:11.000 --> 00:19:14.000
+Úgy gondolom, az elemi sejtautomata 30-as szabályával
+
+00:19:14.000 --> 00:19:16.000
+egy másik szintre jutunk.
+
+00:19:16.000 --> 00:19:19.000
+Valójában egész pontosan azért jelentenek másik szintet,
+
+00:19:19.000 --> 00:19:21.000
+mert olyan dolgoknak tűnnnek, amelyek
+
+00:19:22.000 --> 00:19:25.000
+komplexitásra képesek
+
+00:19:25.000 --> 00:19:28.000
+ez olyasmi, aminél nagyobb kompexitás aligha lehet ...
+
+00:19:29.000 --> 00:19:32.000
+Még nagyon sokat beszélhetnék erről, de most befejezem.

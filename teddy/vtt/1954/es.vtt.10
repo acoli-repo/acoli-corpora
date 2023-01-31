@@ -1,0 +1,41 @@
+WEBVTT
+
+00:04:57.715 --> 00:05:00.926
+Dos razones: la primera
+es que la gravedad actúa
+
+00:05:00.926 --> 00:05:03.051
+en todos los objetos
+de la misma manera.
+
+00:05:03.051 --> 00:05:05.515
+La segunda es que todas
+las hélices apuntan
+
+00:05:05.515 --> 00:05:08.642
+en la misma dirección que la copa, 
+apuntando hacia arriba.
+
+00:05:08.642 --> 00:05:11.019
+Juntando estas dos razones, 
+el resultado neto
+
+00:05:11.019 --> 00:05:13.306
+es que todas las fuerzas laterales
+sobre el vaso son pequeñas
+
+00:05:13.306 --> 00:05:16.091
+y están dominadas principalmente
+por efectos aerodinámicos,
+
+00:05:16.091 --> 00:05:19.932
+los cuales a estas velocidades
+son insignificantes.
+
+00:05:23.336 --> 00:05:25.407
+Y por eso no se necesita
+modelar la copa.
+
+00:05:25.407 --> 00:05:29.255
+Naturalmente no se derrama,
+sin importar lo que haga el quad.

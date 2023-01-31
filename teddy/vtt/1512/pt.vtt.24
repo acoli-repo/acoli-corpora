@@ -1,0 +1,40 @@
+WEBVTT
+
+00:11:58.577 --> 00:12:00.748
+pela primeira vez a trabalhar, 
+não no papel,
+
+00:12:00.748 --> 00:12:04.119
+mas directamente no ecrã, 
+a partir dos píxeis.
+
+00:12:04.750 --> 00:12:08.330
+Nessa altura, os ecrãs eram binários.
+
+00:12:08.603 --> 00:12:11.527
+O píxel estava ligado ou desligado.
+
+00:12:11.527 --> 00:12:14.225
+Aqui podem ver o perfil de uma letra,
+
+00:12:14.225 --> 00:12:15.818
+o H maiúsculo,
+
+00:12:15.818 --> 00:12:18.608
+que é a fina linha preta, o contorno,
+
+00:12:18.608 --> 00:12:21.442
+que é como se armazena na memória,
+
+00:12:21.442 --> 00:12:23.481
+sobreposto no mapa de bits,
+
+00:12:23.481 --> 00:12:25.460
+que é a zona cinzenta,
+
+00:12:25.460 --> 00:12:27.476
+que é como aparece no ecrã.
+
+00:12:27.476 --> 00:12:30.233
+O mapa de bits é rasterizado 
+a partir do perfil.

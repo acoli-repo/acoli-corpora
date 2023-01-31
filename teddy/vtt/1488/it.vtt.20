@@ -1,0 +1,34 @@
+WEBVTT
+
+00:09:57.000 --> 00:10:00.000
+che a volte danno zero quando desideri un uno,
+
+00:10:00.000 --> 00:10:02.000
+la ridondanza del network
+
+00:10:02.000 --> 00:10:05.000
+permette di recuperare l'informazione mancante.
+
+00:10:05.000 --> 00:10:08.000
+Questo rende il cervello intrinsecamente robusto.
+
+00:10:08.000 --> 00:10:11.000
+In questo sistema, i dati vengono immagazzinati localmente.
+
+00:10:11.000 --> 00:10:15.000
+Ed è fragile, perché ogni passaggio deve essere perfetto,
+
+00:10:15.000 --> 00:10:18.000
+altrimenti i dati si perdono. Invece il sistema cerebrale
+
+00:10:18.000 --> 00:10:22.000
+conserva i dati in maniera distribuita, ed è quindi robusto.
+
+00:10:22.000 --> 00:10:26.000
+Vorrei parlarvi del mio sogno
+
+00:10:26.000 --> 00:10:29.000
+di costruire un computer che funziona come il cervello.
+
+00:10:29.000 --> 00:10:33.000
+È un progetto al quale stiamo lavorando da un paio di anni.

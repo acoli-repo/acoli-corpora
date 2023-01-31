@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:59.000 --> 00:11:01.000
+plutôt qu'un damier.
+
+00:11:01.000 --> 00:11:04.000
+On peut obtenir les nombres 5,6 et 7 en binaires.
+
+00:11:04.000 --> 00:11:07.000
+Afin de lancer de tels calculs
+
+00:11:07.000 --> 00:11:09.000
+on a besoin d'une base, une sorte de graine.
+
+00:11:09.000 --> 00:11:11.000
+Et pour cela on peut utiliser l'ADN origami.
+
+00:11:11.000 --> 00:11:13.000
+On peut encoder le nombre 32
+
+00:11:13.000 --> 00:11:15.000
+dans la partie gauche de l'ADN origami
+
+00:11:15.000 --> 00:11:17.000
+et lorsque l'on ajoute les tuiles qui permettent de compter,
+
+00:11:17.000 --> 00:11:20.000
+elles vont commencer à compter en lisant ce nombre.
+
+00:11:20.000 --> 00:11:22.000
+et elles vont s'arrêter à 32.
+
+00:11:22.000 --> 00:11:25.000
+Ce que nous avons donc réussi à trouver c'est un moyen
+
+00:11:25.000 --> 00:11:28.000
+d'avoir un programme moléculaire qui sait quand il doit s'arrêter d'évoluer.
+
+00:11:28.000 --> 00:11:30.000
+Il sait quand s'arrêter parce qu'il est capable de compter.
+
+00:11:30.000 --> 00:11:32.000
+Il connait sa taille.

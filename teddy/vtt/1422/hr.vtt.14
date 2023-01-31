@@ -1,0 +1,46 @@
+WEBVTT
+
+00:06:59.000 --> 00:07:01.000
+Glavna ideja Bayesovog zaključivanja
+
+00:07:01.000 --> 00:07:03.000
+jest da postoje dva izvora informacija
+
+00:07:03.000 --> 00:07:05.000
+iz kojih se mogu donijeti zaključci.
+
+00:07:05.000 --> 00:07:07.000
+Imamo podatke –
+
+00:07:07.000 --> 00:07:09.000
+a podaci u neuroznanosti jesu informacije iz osjetila.
+
+00:07:09.000 --> 00:07:12.000
+Dakle, imamo informacije iz osjetila, pomoću kojih možemo doći do uvjerenja.
+
+00:07:12.000 --> 00:07:15.000
+No, postoji još jedan izvor informacija, a to je prethodno znanje.
+
+00:07:15.000 --> 00:07:18.000
+Znanje skupljate kroz život u obliku sjećanja.
+
+00:07:18.000 --> 00:07:20.000
+A svrha Bayesove teorije odlučivanja
+
+00:07:20.000 --> 00:07:22.000
+jest da pomoću nje izračunate
+
+00:07:22.000 --> 00:07:24.000
+optimalni način kombiniranja
+
+00:07:24.000 --> 00:07:26.000
+prijašnjeg znanja i osjetilnih podražaja
+
+00:07:26.000 --> 00:07:28.000
+i pomoću njih stvorite nova uvjerenja.
+
+00:07:28.000 --> 00:07:30.000
+Stavio sam ovdje gore formulu.
+
+00:07:30.000 --> 00:07:32.000
+Neću objašnjavati tu formulu, ali baš je lijepa.

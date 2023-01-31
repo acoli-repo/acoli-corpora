@@ -1,0 +1,41 @@
+WEBVTT
+
+00:05:59.642 --> 00:06:03.323
+in dem man Kommentare 
+auf der Website hinterlassen kann.
+
+00:06:03.323 --> 00:06:06.330
+Viele von Ihnen haben etwas ähnliches 
+bestimmt schonmal benutzt.
+
+00:06:06.330 --> 00:06:08.277
+Unglücklicherweise 
+war der Entwickler leicht beschwipst,
+
+00:06:08.277 --> 00:06:10.702
+als das hier implementiert wurde,
+
+00:06:10.702 --> 00:06:11.944
+und schaffte es, alle
+
+00:06:11.944 --> 00:06:14.933
+sicheren Programmiertechniken zu vergessen, 
+die er gelernt hatte.
+
+00:06:14.933 --> 00:06:17.999
+Stellen wir uns also vor, dass unser Angreifer,
+
+00:06:17.999 --> 00:06:21.447
+den wir aus Spaß Bösen Hacker nennen,
+
+00:06:21.447 --> 00:06:23.470
+etwas Fieses einbaut.
+
+00:06:23.470 --> 00:06:25.169
+Dies ist ein Script.
+
+00:06:25.169 --> 00:06:29.246
+Es ist Code, der auf der Website interpretiert wird.
+
+00:06:29.246 --> 00:06:31.571
+Ich werde diesen Eintrag abschicken

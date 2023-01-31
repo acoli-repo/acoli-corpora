@@ -1,0 +1,45 @@
+WEBVTT
+
+00:10:28.140 --> 00:10:30.907
+delle biopsie tumorali,
+
+00:10:30.907 --> 00:10:33.222
+hanno chiesto al computer di identificare,
+
+00:10:33.222 --> 00:10:35.693
+osservando i dati 
+e le statistiche di sopravvivenza,
+
+00:10:35.693 --> 00:10:40.360
+di determinare se le cellule 
+sono veramente
+
+00:10:40.360 --> 00:10:42.904
+tumorali oppure no
+
+00:10:42.904 --> 00:10:44.682
+e sicuramente quando mettendoci i dati,
+
+00:10:44.682 --> 00:10:47.259
+attraverso un algoritmo 
+per l'apprendimento automatico
+
+00:10:47.259 --> 00:10:49.066
+la macchina è in grado di identificare
+
+00:10:49.066 --> 00:10:51.208
+i 12 segni distintivi 
+che predicono al meglio
+
+00:10:51.208 --> 00:10:53.437
+che la biopsia 
+delle cellule tumorali del seno
+
+00:10:53.437 --> 00:10:57.385
+sono effettivamente tumorali.
+
+00:10:57.385 --> 00:10:59.883
+Il problema: la letteratura medica
+
+00:10:59.883 --> 00:11:02.672
+ne conosce soltanto nove.

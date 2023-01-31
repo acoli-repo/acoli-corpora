@@ -1,0 +1,44 @@
+WEBVTT
+
+00:11:58.177 --> 00:12:00.517
+por primera vez 
+funcionando no en papel
+
+00:12:00.517 --> 00:12:04.477
+sino directamente en la pantalla 
+a partir de píxeles.
+
+00:12:04.477 --> 00:12:08.330
+Para ese entonces, 
+las pantallas eran binarias.
+
+00:12:08.330 --> 00:12:11.370
+El píxel estaba encendido 
+o estaba apagado.
+
+00:12:11.370 --> 00:12:14.225
+Aquí pueden ver 
+el contorno de una letra,
+
+00:12:14.225 --> 00:12:15.692
+la H mayúscula,
+
+00:12:15.692 --> 00:12:18.493
+que es la línea fina negra, el contorno,
+
+00:12:18.493 --> 00:12:21.369
+que es como se almacena en la memoria,
+
+00:12:21.369 --> 00:12:23.039
+superpuesta sobre el mapa de bits,
+
+00:12:23.039 --> 00:12:25.187
+que es el área gris,
+
+00:12:25.187 --> 00:12:27.024
+que es como 
+se muestra en la pantalla.
+
+00:12:27.024 --> 00:12:30.170
+El mapa de bits 
+se rasteriza del contorno.

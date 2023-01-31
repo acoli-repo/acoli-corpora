@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:26.000 --> 00:09:30.000
+este că se traduce acest tipar de activitate într-un nou tipar de activitate,
+
+00:09:30.000 --> 00:09:33.000
+doar parcurgând această rețea.
+
+00:09:33.000 --> 00:09:35.000
+Deci stabilești aceste conexiuni,
+
+00:09:35.000 --> 00:09:38.000
+încât pattern-ul de intrare să treacă prin ele
+
+00:09:38.000 --> 00:09:40.000
+și să se genereze pattern-ul de ieșire.
+
+00:09:40.000 --> 00:09:44.000
+Ceea ce puteți vedea aici sunt aceste conexiuni redundante.
+
+00:09:44.000 --> 00:09:48.000
+Așa că dacă această parte a informației sau această parte sunt distruse,
+
+00:09:48.000 --> 00:09:53.000
+nu se va simți aici, aceste două părți vor putea activa partea care lipsește
+
+00:09:53.000 --> 00:09:55.000
+cu ajutorul acestor conexiuni redundante.
+
+00:09:55.000 --> 00:09:57.000
+Și deci chiar și când priviți aceste dispozitive de neîncredere
+
+00:09:57.000 --> 00:10:00.000
+când câteodată vreți un 1 și obțineți un 0,
+
+00:10:00.000 --> 00:10:02.000
+există redundanță în rețea

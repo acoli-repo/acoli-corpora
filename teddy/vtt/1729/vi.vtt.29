@@ -1,0 +1,40 @@
+WEBVTT
+
+00:14:29.000 --> 00:14:31.000
+Các đèn LED này được nối dây với cảm biến
+
+00:14:31.000 --> 00:14:34.000
+có khả năng nhận biết sự hiện diện của các phân tử mùi trong không khí.
+
+00:14:35.000 --> 00:14:38.000
+Mỗi mùi sẽ kích hoạt một nhóm cảm biến khác nhau,
+
+00:14:38.000 --> 00:14:40.000
+và từ đó hoạt hóa
+
+00:14:40.000 --> 00:14:43.000
+một nhân tố dò mùi ở bên trong thể nấm.
+
+00:14:43.000 --> 00:14:45.000
+Như vậy, phi tiêu trong buồng lái của những chú ruồi này,
+
+00:14:45.000 --> 00:14:47.000
+Actor,
+
+00:14:47.000 --> 00:14:49.000
+có thể biết mùi nào đang hiện diện
+
+00:14:49.000 --> 00:14:53.000
+chỉ bằng cách nhìn xem chiếc đèn LED xanh nào đang được thắp sáng.
+
+00:14:54.000 --> 00:14:56.000
+Còn việc Actor làm gì với thông tin này
+
+00:14:56.000 --> 00:14:58.000
+thì còn phụ thuộc vào chính sách của nó,
+
+00:14:58.000 --> 00:15:00.000
+và các quy định này được lưu trữ trong độ mạnh của những liên kết,
+
+00:15:00.000 --> 00:15:02.000
+giữa những chiếc máy dò mùi

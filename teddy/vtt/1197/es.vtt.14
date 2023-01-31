@@ -1,0 +1,62 @@
+WEBVTT
+
+00:06:58.923 --> 00:07:00.937
+es que a partir de 
+este banco de voz,
+
+00:07:00.937 --> 00:07:02.948
+ahora podemos decir 
+cualquier nuevo enunciado,
+
+00:07:02.948 --> 00:07:04.372
+del tipo, "Me encanta el chocolate",
+
+00:07:04.372 --> 00:07:06.111
+todos necesitamos 
+poder decir eso,
+
+00:07:06.111 --> 00:07:07.942
+pescar a través de 
+esa base de datos
+
+00:07:07.942 --> 00:07:09.882
+y encontrar todos 
+los segmentos necesarios
+
+00:07:09.882 --> 00:07:11.811
+para decir ese enunciado.
+
+00:07:11.811 --> 00:07:13.600
+(Video) Voz: Me encanta el chocolate.
+
+00:07:13.600 --> 00:07:14.991
+RP: Eso es la síntesis de voz.
+
+00:07:14.991 --> 00:07:17.564
+Se llama síntesis por concatenación, 
+y eso es lo que estamos usando.
+
+00:07:17.564 --> 00:07:19.097
+Esa no es la mejor parte.
+
+00:07:19.097 --> 00:07:21.318
+Lo novedoso es cómo 
+hacemos que suene
+
+00:07:21.318 --> 00:07:22.775
+como esta joven mujer.
+
+00:07:22.775 --> 00:07:24.299
+Ella es Samantha.
+
+00:07:24.299 --> 00:07:26.645
+La conocí cuando 
+ella tenía 9 años,
+
+00:07:26.645 --> 00:07:28.542
+y desde entonces, 
+mi equipo y yo
+
+00:07:28.542 --> 00:07:31.256
+hemos estado tratando de construir 
+una voz personalizada para ella.

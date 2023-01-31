@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+Do đó, một máy tính chọn một mục cụ thể của dữ liệu từ bộ nhớ,
+
+00:09:01.000 --> 00:09:04.000
+nó sẽ gửi nó vào bộ vi xử lý hoặc ALU,
+
+00:09:04.000 --> 00:09:06.000
+và sau đó nó sẽ trả kết quả trở lại vào bộ nhớ.
+
+00:09:06.000 --> 00:09:08.000
+Trên hình là con đường màu đỏ đã được làm nổi bật
+
+00:09:08.000 --> 00:09:12.000
+Cách bộ não làm việc, như tôi đã nói với các bạn, các bạn có tất cả những nơ-ron
+
+00:09:12.000 --> 00:09:14.000
+Và cách mà chúng biểu diễn thông tin là
+
+00:09:14.000 --> 00:09:16.000
+chúng phá vỡ thông tin thành các mảnh nhỏ
+
+00:09:16.000 --> 00:09:19.000
+các mảnh này được biểu diễn bởi các xung và các nơ-ron khác
+
+00:09:19.000 --> 00:09:21.000
+Như thế bạn có tất cả các phần của dữ liệu
+
+00:09:21.000 --> 00:09:23.000
+được phân tán thông qua một mạng lưới
+
+00:09:23.000 --> 00:09:26.000
+Và cách mà bạn xử lý dữ liệu để lấy kết quả
+
+00:09:26.000 --> 00:09:30.000
+là việc bạn dịch một mô hình này sang một mô hình khác
+
+00:09:30.000 --> 00:09:33.000
+chỉ bằng cách chảy qua mạng xử lý

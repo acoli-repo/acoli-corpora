@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:57.669 --> 00:11:01.406
+Sztuczny sygnał całkowicie kontroluje odbiornik.
+
+00:11:01.406 --> 00:11:02.901
+Czy jest to na prawdę możliwe?
+
+00:11:02.901 --> 00:11:04.624
+Czy ktoś naprawdę może manipulować
+
+00:11:04.624 --> 00:11:06.606
+czasem i pozycjonowaniem odbiornika GPS,
+
+00:11:06.606 --> 00:11:09.485
+zupełnie jak tutaj robił to "oszukany GPS"?
+
+00:11:09.485 --> 00:11:11.500
+Odpowiedź jest krótka: tak.
+
+00:11:11.500 --> 00:11:14.304
+Kluczowe jest to, że cywilne sygnały GPS
+
+00:11:14.304 --> 00:11:15.406
+są zupełnie otwarte.
+
+00:11:15.406 --> 00:11:19.397
+Nie mają kodowania, ani autoryzacji.
+
+00:11:19.397 --> 00:11:22.892
+Są podatne na ataki oszustów.
+
+00:11:22.892 --> 00:11:25.467
+Mimo tego, do niedawna
+
+00:11:25.467 --> 00:11:27.859
+nikt nie martwił się oszustami GPS.
+
+00:11:27.859 --> 00:11:29.837
+Ludzie myśleli, że byłoby ich budowa
+
+00:11:29.837 --> 00:11:32.652
+byłaby dla hakera zbyt skomplikowana i za droga.

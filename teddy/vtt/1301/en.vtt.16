@@ -1,0 +1,31 @@
+WEBVTT
+
+00:07:59.979 --> 00:08:03.115
+and he wasn't going to adopt anything that didn't work
+
+00:08:03.115 --> 00:08:05.424
+the way the Linux community worked.
+
+00:08:05.424 --> 00:08:07.956
+And to give you a sense of how enormous
+
+00:08:07.956 --> 00:08:11.624
+a decision like this was, this is a map
+
+00:08:11.624 --> 00:08:15.113
+of the internal dependencies within Linux,
+
+00:08:15.113 --> 00:08:17.720
+within the Linux operating system, which sub-parts
+
+00:08:17.720 --> 00:08:22.165
+of the program rely on which other sub-parts to get going.
+
+00:08:22.165 --> 00:08:25.743
+This is a tremendously complicated process.
+
+00:08:25.743 --> 00:08:28.535
+This is a tremendously complicated program,
+
+00:08:28.535 --> 00:08:31.200
+and yet, for years, Torvalds ran this

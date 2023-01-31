@@ -1,0 +1,41 @@
+WEBVTT
+
+00:05:28.439 --> 00:05:33.141
+Dar computerele interpretează
+instrucțiunile atât de rigid
+
+00:05:33.141 --> 00:05:37.164
+încât devine foarte dificil
+să scrii un set
+
+00:05:37.164 --> 00:05:40.202
+de instrucțiuni pe care computerul
+știe să le execute
+
+00:05:40.202 --> 00:05:43.228
+și vorbim de cazul în care sunt scrise
+de o singură persoană.
+
+00:05:43.228 --> 00:05:44.927
+Când avem mai mult de o persoană,
+
+00:05:44.927 --> 00:05:48.211
+devine foarte ușor pentru oricare
+alți doi programatori să suprascrie
+
+00:05:48.211 --> 00:05:50.492
+munca fiecăruia
+dacă lucrează la același fișier,
+
+00:05:50.492 --> 00:05:52.484
+sau să trimită instrucțiuni incompatibile
+
+00:05:52.484 --> 00:05:54.535
+care duc la blocarea calculatorului.
+
+00:05:54.535 --> 00:05:57.494
+Și această problemă se extinde
+
+00:05:57.494 --> 00:06:00.263
+cu cât sunt implicați
+mai mulți programatori.

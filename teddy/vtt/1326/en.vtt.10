@@ -1,0 +1,37 @@
+WEBVTT
+
+00:04:58.881 --> 00:05:02.097
+2 x 2 x 2 x 2 x 2.
+
+00:05:02.097 --> 00:05:05.501
+So 2 ^ 5 is 2 x 2 = 4,
+
+00:05:05.501 --> 00:05:07.681
+8, 16, 32.
+
+00:05:07.681 --> 00:05:11.195
+If you've got that, you're with me for the entire journey. Okay?
+
+00:05:11.195 --> 00:05:13.167
+So 2 ^ 5,
+
+00:05:13.167 --> 00:05:14.879
+those five little twos multiplied together.
+
+00:05:14.879 --> 00:05:19.142
+(2 ^ 5) - 1 = 31.
+
+00:05:19.142 --> 00:05:22.453
+31 is a prime number, and that five in the power
+
+00:05:22.453 --> 00:05:24.998
+is also a prime number.
+
+00:05:24.998 --> 00:05:28.502
+And the vast bulk of massive primes we've ever found
+
+00:05:28.502 --> 00:05:29.738
+are of that form:
+
+00:05:29.738 --> 00:05:33.017
+two to a prime number, take away one.

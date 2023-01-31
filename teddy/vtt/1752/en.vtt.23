@@ -1,0 +1,38 @@
+WEBVTT
+
+00:11:29.395 --> 00:11:31.720
+like retrieval, all of these things,
+
+00:11:31.720 --> 00:11:34.795
+are much simpler and also more effective,
+
+00:11:34.795 --> 00:11:39.212
+because they don't process
+the data structure of speech.
+
+00:11:39.212 --> 00:11:45.188
+Instead they're processing
+the data structure of thought.
+
+00:11:45.188 --> 00:11:47.996
+The data structure of thought.
+
+00:11:47.996 --> 00:11:50.072
+That's a provocative idea.
+
+00:11:50.072 --> 00:11:52.214
+But let's look at this in a little more detail.
+
+00:11:52.214 --> 00:11:54.580
+So this is the FreeSpeech ecosystem.
+
+00:11:54.580 --> 00:11:57.464
+We have the Free Speech
+representation on one side,
+
+00:11:57.464 --> 00:11:59.692
+and we have the FreeSpeech 
+Engine, which generates English.
+
+00:11:59.694 --> 00:12:01.419
+Now if you think about it,

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:56.000 --> 00:06:01.000
+Czyli ze stacjonarnym koncentratorem mogliśmy zebrać dwie i pół godziny z każdego dnia.
+
+00:06:01.000 --> 00:06:04.000
+Ale ogniwa słoneczne zbierają światło przez cztery i pół godziny.
+
+00:06:04.000 --> 00:06:06.000
+Przy przeciętnym dniu, ogniwo słonczne -
+
+00:06:06.000 --> 00:06:08.000
+ponieważ słońce porusza się po niebie -
+
+00:06:08.000 --> 00:06:11.000
+ogniwo słoneczne ma sinusoidalny wykres wydajności
+
+00:06:11.000 --> 00:06:13.000
+przy pochyleniu względem osi.
+
+00:06:13.000 --> 00:06:15.000
+Więc zbiera średnio cztery i pół godziny światła dziennie.
+
+00:06:15.000 --> 00:06:18.000
+Więc nawet to, mimo że było super bez ruchomych części -
+
+00:06:18.000 --> 00:06:20.000
+mogliśmy osiągać wysokie temperatury - nie wystarczyło.
+
+00:06:20.000 --> 00:06:22.000
+Musieliśmy być lepsi niż ogniwa słoneczne.
+
+00:06:22.000 --> 00:06:24.000
+Więc rozważyliśmy inny pomysł.
+
+00:06:24.000 --> 00:06:27.000
+Spróbowaliśmy rozbić parabolę na osobne płatki, które by śledziły słońce.
+
+00:06:27.000 --> 00:06:30.000
+Widzicie tutaj dwanaście osobnych płatków,
+
+00:06:30.000 --> 00:06:33.000
+z których każdy może być kontrolowany osobnym mikroprocesorem

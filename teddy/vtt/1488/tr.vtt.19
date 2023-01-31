@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:26.000 --> 00:09:30.000
+sizin şebekenin içindeki akışı sağlamanız yoluyla
+
+00:09:30.000 --> 00:09:33.000
+bu aktivite biçimini yeni bir aktivite biçimine dönüştürmektir.
+
+00:09:33.000 --> 00:09:35.000
+Ve bağlantıları kurarsınız,
+
+00:09:35.000 --> 00:09:38.000
+giriş paterni ilerler
+
+00:09:38.000 --> 00:09:40.000
+ve çıkış paterni oluşur.
+
+00:09:40.000 --> 00:09:44.000
+Burada gördüğünüz (yine) bu fazla sayıdaki bağlantıların varlığıdır.
+
+00:09:44.000 --> 00:09:48.000
+Bir kez bu data parçası ya da şu data parçası işlenirse
+
+00:09:48.000 --> 00:09:53.000
+kendini burada göstermezl, diğer bağlantıların yardımıyla
+
+00:09:53.000 --> 00:09:55.000
+bu iki parça ortada görünmeyen parçayı aktive eder.
+
+00:09:55.000 --> 00:09:57.000
+Böylece bazen bir koyup ta sıfır aldığınız
+
+00:09:57.000 --> 00:10:00.000
+işe yaramaz aletlerle çalışsanız bile
+
+00:10:00.000 --> 00:10:02.000
+şebekede fazladan varolan güç

@@ -1,0 +1,49 @@
+WEBVTT
+
+00:07:29.000 --> 00:07:32.000
+a imagem? Era um rosto de bebê.
+
+00:07:32.000 --> 00:07:34.000
+E com a nossa abordagem,
+
+00:07:34.000 --> 00:07:36.000
+adicionando o código? Podem ver
+
+00:07:36.000 --> 00:07:38.000
+que é muito melhor. Não apenas você pode
+
+00:07:38.000 --> 00:07:40.000
+dizer que é o rosto de um bebê, mas você pode
+
+00:07:40.000 --> 00:07:42.000
+dizer que é o rosto daquele bebê, o que é
+
+00:07:42.000 --> 00:07:44.000
+uma tarefa realmente desafiadora.
+
+00:07:44.000 --> 00:07:46.000
+A da esquerda é do codificador
+
+00:07:46.000 --> 00:07:48.000
+apenas, e a da direita é de uma retina
+
+00:07:48.000 --> 00:07:50.000
+cega real, daí o codificador e o transdutor.
+
+00:07:50.000 --> 00:07:52.000
+Mas o elemento chave realmente é apenas o codificador,
+
+00:07:52.000 --> 00:07:54.000
+porque podemos acoplar o codificador com
+
+00:07:54.000 --> 00:07:56.000
+um transdutor diferente.
+
+00:07:56.000 --> 00:07:58.000
+Este na verdade é o primeiro que testamos.
+
+00:07:58.000 --> 00:08:00.000
+Queria apenas dizer algo sobre o método padrão.
+
+00:08:00.000 --> 00:08:02.000
+Quando isto surgiu, era realmente

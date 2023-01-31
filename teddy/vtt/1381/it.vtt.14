@@ -1,0 +1,49 @@
+WEBVTT
+
+00:06:57.000 --> 00:07:00.000
+Per questo ci siamo focalizzati sulla motion capture.
+
+00:07:00.000 --> 00:07:02.000
+Sono certo che molti di voi abbiano visto la motion capture.
+
+00:07:02.000 --> 00:07:04.000
+Allo stato dell'arte di allora
+
+00:07:04.000 --> 00:07:06.000
+la motion capture era basata sui marker.
+
+00:07:06.000 --> 00:07:07.000
+Qui ve ne dò un esempio.
+
+00:07:07.000 --> 00:07:09.000
+Di base l'idea consiste nell'indossare una calzamaglia
+
+00:07:09.000 --> 00:07:11.000
+su cui ci sono dei marker riflettenti,
+
+00:07:11.000 --> 00:07:13.000
+e invece che usare delle telecamere
+
+00:07:13.000 --> 00:07:15.000
+ci sono dei sensori a infrarossi posti attorno a un volume
+
+00:07:15.000 --> 00:07:17.000
+i quali in tempo reale recepiscono la posizione tridimensionale
+
+00:07:17.000 --> 00:07:19.000
+di quei marker.
+
+00:07:19.000 --> 00:07:22.000
+Gli animatori possono trarre i dati provenienti dal movimento dei marker
+
+00:07:22.000 --> 00:07:24.000
+e applicarli ad un personaggio generato al computer.
+
+00:07:24.000 --> 00:07:27.000
+Potete vedere a destra che i personaggi creati al computer
+
+00:07:27.000 --> 00:07:30.000
+eseguono tutto l'insieme di movimenti dei ballerini.
+
+00:07:30.000 --> 00:07:32.000
+Al tempo abbiamo visto una serie di film

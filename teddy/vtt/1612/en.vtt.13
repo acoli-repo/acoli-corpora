@@ -1,0 +1,34 @@
+WEBVTT
+
+00:06:28.000 --> 00:06:31.000
+So I was trying to, you know, take the engineer's version:
+
+00:06:31.000 --> 00:06:34.000
+Can we build a mechanical system in inorganic materials
+
+00:06:34.000 --> 00:06:35.000
+that will do the same thing?
+
+00:06:35.000 --> 00:06:40.000
+So what I'm showing you here is that we can make a 2D shape --
+
+00:06:40.000 --> 00:06:44.000
+the B -- assemble from a string of components
+
+00:06:44.000 --> 00:06:46.000
+that follow extremely simple rules.
+
+00:06:46.000 --> 00:06:49.000
+And the whole point of going with the extremely simple rules here,
+
+00:06:49.000 --> 00:06:52.000
+and the incredibly simple state machines in the previous design,
+
+00:06:52.000 --> 00:06:55.000
+was that you don't need digital logic to do computation.
+
+00:06:55.000 --> 00:06:59.000
+And that way you can scale things much smaller than microchips.
+
+00:06:59.000 --> 00:07:03.000
+So you can literally use these as the tiny components in the assembly process.

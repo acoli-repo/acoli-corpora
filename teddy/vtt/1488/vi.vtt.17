@@ -1,0 +1,31 @@
+WEBVTT
+
+00:08:29.000 --> 00:08:33.000
+Bắt đầu xảy ra tắc nghẽn giao thông trong kênh ion
+
+00:08:33.000 --> 00:08:36.000
+Dòng chảy hiện tại bị bật và tắt một cách ngẫu nhiên
+
+00:08:36.000 --> 00:08:38.000
+ngay cả khi nó cần phải được bật lên.
+
+00:08:38.000 --> 00:08:40.000
+Điều đó có nghĩa là máy tính của bạn sẽ nhận về
+
+00:08:40.000 --> 00:08:44.000
+những bit 0 và 1 lẫn lộn với nhau, nó có thể dẫn tới làm hỏng máy của bạn
+
+00:08:44.000 --> 00:08:48.000
+Vì vậy, chúng ta đang ở giai đoạn
+
+00:08:48.000 --> 00:08:51.000
+mà chúng ta không thực sự biết làm thế nào để tính toán với các thiết bị loại này.
+
+00:08:51.000 --> 00:08:54.000
+Và thứ duy nhất mà chúng ta biết ngay bây giờ
+
+00:08:54.000 --> 00:08:57.000
+có thể tính toán với các thiết bị kiểu như bộ não
+
+00:08:57.000 --> 00:09:01.000
+Do đó, một máy tính chọn một mục cụ thể của dữ liệu từ bộ nhớ,

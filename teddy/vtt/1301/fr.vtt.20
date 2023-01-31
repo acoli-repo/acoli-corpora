@@ -1,0 +1,39 @@
+WEBVTT
+
+00:09:57.778 --> 00:10:00.921
+Cette longue chaîne 
+de chiffres et de lettres
+
+00:10:00.921 --> 00:10:05.996
+est un identificateur unique 
+lié à chaque modification unique,
+
+00:10:05.996 --> 00:10:08.853
+mais sans coordination centrale.
+
+00:10:08.853 --> 00:10:13.342
+Chaque système Git génère 
+ce numéro de la même façon,
+
+00:10:13.342 --> 00:10:16.684
+ce qui signifie que c'est 
+une signature liée directement
+
+00:10:16.684 --> 00:10:19.834
+et sans possibilité de falsification 
+sur un changement particulier.
+
+00:10:19.834 --> 00:10:21.770
+Ceci a l'effet suivant :
+
+00:10:21.770 --> 00:10:25.448
+un programmeur à Édimbourg 
+et un programmeur à Entebbe
+
+00:10:25.448 --> 00:10:29.150
+peuvent tous les deux avoir
+une copie du même logiciel.
+
+00:10:29.150 --> 00:10:31.403
+Chacun d'eux peut apporter 
+des modifications,

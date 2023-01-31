@@ -1,0 +1,31 @@
+WEBVTT
+
+00:10:27.653 --> 00:10:30.288
+that corresponds to the authentic signals.
+
+00:10:30.288 --> 00:10:33.103
+These three red dots represent the tracking points
+
+00:10:33.103 --> 00:10:35.982
+that try to keep themselves centered on that peak.
+
+00:10:35.982 --> 00:10:39.047
+But if you send in a fake GPS signal,
+
+00:10:39.047 --> 00:10:43.513
+another peak pops up, and if you can get these two peaks
+
+00:10:43.513 --> 00:10:48.231
+perfectly aligned, the tracking points can't tell the difference,
+
+00:10:48.231 --> 00:10:51.542
+and they get hijacked by the stronger counterfeit signal,
+
+00:10:51.542 --> 00:10:55.502
+with the authentic peak getting forced off.
+
+00:10:55.502 --> 00:10:57.669
+At this point, the game is over.
+
+00:10:57.669 --> 00:11:01.406
+The fake signals now completely control this GPS receiver.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:59.000 --> 00:11:01.000
+em vez de um tabuleiro de xadrez.
+
+00:11:01.000 --> 00:11:04.000
+Então vocês podem ler em binário os números cinco, seis e sete.
+
+00:11:04.000 --> 00:11:07.000
+E para conseguir que essas computações comecem corretamente,
+
+00:11:07.000 --> 00:11:09.000
+vocês precisam alguma espécie de entrada, um tipo de semente.
+
+00:11:09.000 --> 00:11:11.000
+Vocês podem usar o origami de DNA para isso.
+
+00:11:11.000 --> 00:11:13.000
+Vocês podem codificar o número 32
+
+00:11:13.000 --> 00:11:15.000
+no lado direito de um origami de DNA
+
+00:11:15.000 --> 00:11:17.000
+e quando você adiciona esses blocos que contam,
+
+00:11:17.000 --> 00:11:20.000
+eles vão começar a contar, eles vão ler aquele 32
+
+00:11:20.000 --> 00:11:22.000
+e vão parar em 32.
+
+00:11:22.000 --> 00:11:25.000
+Assim, o que fizemos foi imaginar uma maneira
+
+00:11:25.000 --> 00:11:28.000
+de fazer um programa molecular saber quando parar de crescer.
+
+00:11:28.000 --> 00:11:30.000
+Ele sabe quando parar de crescer porque ele consegue contar.
+
+00:11:30.000 --> 00:11:32.000
+Ele conhece o seu próprio tamanho.

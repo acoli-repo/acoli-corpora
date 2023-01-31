@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:28.000 --> 00:08:30.000
+wo die Wahrscheinlichkeit für Leben hoch ist.
+
+00:08:30.000 --> 00:08:32.000
+Wir fahren die Wand entlang, das nennt man Annäherungsoperation,
+
+00:08:32.000 --> 00:08:34.000
+und suchen nach Farbwechseln.
+
+00:08:34.000 --> 00:08:37.000
+Wenn wir etwas Interessantes sehen, ziehen wir es in das Mikroskop.
+
+00:08:37.000 --> 00:08:41.000
+Wenn es den Mikroskoptest besteht, holen wir uns eine Probe.
+
+00:08:41.000 --> 00:08:43.000
+Entweder nehmen wir eine Flüssigprobe
+
+00:08:43.000 --> 00:08:46.000
+oder wir können sogar einen festen Kern aus der Wand entnehmen.
+
+00:08:46.000 --> 00:08:47.000
+Keine Hände am Steuer.
+
+00:08:47.000 --> 00:08:49.000
+Das ist hier alles autonomes Verhalten hier,
+
+00:08:49.000 --> 00:08:51.000
+das der Roboter selbstständig durchführt.
+
+00:08:52.000 --> 00:08:54.000
+Der echte Zaubertrick dieses Gefährts ist jedoch
+
+00:08:54.000 --> 00:08:57.000
+das komplett neue Navigationssystem, das wir entwickelt haben,
+
+00:08:57.000 --> 00:09:01.000
+als 3D SLAM bekannt, für gleichzeitige Lokalisierung und Kartografierung.

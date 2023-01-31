@@ -1,0 +1,47 @@
+WEBVTT
+
+00:05:58.348 --> 00:06:01.270
+valahogy így néz ki.
+
+00:06:01.270 --> 00:06:03.436
+Ami azt illeti, ha valóban 
+ilyen a forráskódírás,
+
+00:06:03.436 --> 00:06:05.931
+akkor tényleg csak az embereknek
+egy olyan szűk részcsoportja
+
+00:06:05.931 --> 00:06:09.003
+fogja művelni, akik 
+speciális matematikai
+
+00:06:09.003 --> 00:06:11.269
+és technológiai háttérrel 
+rendelkeznek.
+
+00:06:11.269 --> 00:06:13.769
+De a forráskódírásnak nem 
+feltétlenül kell így kinéznie.
+
+00:06:13.769 --> 00:06:17.748
+Hadd mutassam meg, hogy milyen 
+forráskódot írni a Scratch-ben.
+
+00:06:17.748 --> 00:06:22.027
+Nincs más dolgunk, minthogy 
+elemeket pattintsunk össze.
+
+00:06:22.027 --> 00:06:23.942
+Itt például fogjuk a 
+mozgatás elemet,
+
+00:06:23.942 --> 00:06:25.711
+összekapcsoljuk a halommal,
+
+00:06:25.711 --> 00:06:28.469
+és így az elemek 
+halmaza vezérli
+
+00:06:28.469 --> 00:06:31.987
+a játékunkban, vagy a sztorinkban 
+szereplő karakterek,

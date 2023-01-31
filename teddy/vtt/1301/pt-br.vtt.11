@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:28.439 --> 00:05:33.141
+são tão famosos pela interpretação inflexível das instruções
+
+00:05:33.141 --> 00:05:37.164
+que é extraordinariamente difícil escrever um conjunto
+
+00:05:37.164 --> 00:05:40.202
+de instruções que o computador saiba como executar,
+
+00:05:40.202 --> 00:05:42.068
+e isso se uma pessoa está escrevendo.
+
+00:05:42.068 --> 00:05:44.167
+Uma vez que se tem mais de uma pessoa escrevendo,
+
+00:05:44.167 --> 00:05:47.251
+é muito fácil para qualquer dos dois programadores sobrepor
+
+00:05:47.251 --> 00:05:49.912
+o trabalho um do outro se estão trabalhando no mesmo arquivo,
+
+00:05:49.912 --> 00:05:52.094
+ou mandar instruções incompatíveis,
+
+00:05:52.094 --> 00:05:54.535
+que simplesmente fazem o computador travar,
+
+00:05:54.535 --> 00:05:57.494
+e este problema fica maior
+
+00:05:57.494 --> 00:06:00.263
+quanto maior o número de programadores envolvidos.

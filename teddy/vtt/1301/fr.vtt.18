@@ -1,0 +1,54 @@
+WEBVTT
+
+00:08:58.086 --> 00:09:00.212
+Git est un contrôle de version distribué.
+
+00:09:00.212 --> 00:09:02.338
+Il a deux grandes différences
+
+00:09:02.338 --> 00:09:04.401
+par rapport aux systèmes
+de contrôle de version traditionnels.
+
+00:09:04.401 --> 00:09:06.545
+La première est qu'il est à la hauteur
+
+00:09:06.545 --> 00:09:08.689
+de la promesse philosophique
+de l'open source.
+
+00:09:08.689 --> 00:09:10.627
+Tous ceux qui travaillent sur un projet
+
+00:09:12.565 --> 00:09:14.103
+ont accès à toutes les données 
+du code source
+
+00:09:14.103 --> 00:09:15.641
+tout le temps.
+
+00:09:15.641 --> 00:09:17.132
+Et quand les gens dessinent
+
+00:09:17.132 --> 00:09:18.623
+des diagrammes de flux de travail Git,
+
+00:09:18.623 --> 00:09:20.116
+ils utilisent des dessins
+qui ressemblent à ça.
+
+00:09:20.116 --> 00:09:22.434
+Pas besoin de comprendre 
+ce que les cercles,
+
+00:09:22.434 --> 00:09:26.113
+les cases et les flèches signifient 
+pour voir qu'il s'agit
+
+00:09:26.113 --> 00:09:29.208
+d'une façon bien plus 
+compliquée de travailler
+
+00:09:29.208 --> 00:09:31.929
+que les systèmes de contrôle de 
+version ordinaires ne supportent.

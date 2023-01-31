@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:28.000 --> 00:11:31.000
+U 21.veku možemo da eksperimentišemo
+
+00:11:31.000 --> 00:11:34.000
+primenjujući robotičke tehnologije na ovaj problem.
+
+00:11:34.000 --> 00:11:37.000
+Zapravo, imamo neku vrstu štapa u ruci pričvršćenoj za robota,
+
+00:11:37.000 --> 00:11:39.000
+i roboti će to pomerati napred-nazad.
+
+00:11:39.000 --> 00:11:41.000
+A mi ćemo to pratiti preko kompjutera
+
+00:11:41.000 --> 00:11:43.000
+i koristiti to za kontrolisanje drugog robota,
+
+00:11:43.000 --> 00:11:45.000
+koji će golicati po dlanu drugim štapom.
+
+00:11:45.000 --> 00:11:47.000
+A onda ćemo ih pitati da ocene nekoliko stvari
+
+00:11:47.000 --> 00:11:49.000
+uključujući i golicljivost.
+
+00:11:49.000 --> 00:11:51.000
+Pokazaću vam samo deo našeg istraživanja.
+
+00:11:51.000 --> 00:11:53.000
+I tu sam sklonio robote,
+
+00:11:53.000 --> 00:11:56.000
+i vidimo ljude koji sinusoidalno pomeraju desnu ruku napred-nazad.
+
+00:11:56.000 --> 00:11:59.000
+To ponovo puštamo drugoj ruci, sa izvesnim kašnjenjem.
+
+00:11:59.000 --> 00:12:01.000
+U slučaju da nema kašnjenja,

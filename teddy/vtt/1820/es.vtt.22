@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:59.000 --> 00:11:01.000
+en vez de un tablero de ajedrez.
+
+00:11:01.000 --> 00:11:04.000
+Así que pueden leer números binarios, cinco, seis y siete.
+
+00:11:04.000 --> 00:11:07.000
+Y para lograr que este tipo de conteos comiencen adecuadamente,
+
+00:11:07.000 --> 00:11:09.000
+necesitan algún tipo de aporte, como una semilla.
+
+00:11:09.000 --> 00:11:11.000
+Pueden usar el origami de ADN para ello.
+
+00:11:11.000 --> 00:11:13.000
+Pueden codificar el número 32
+
+00:11:13.000 --> 00:11:15.000
+en el lado derecho del origami de ADN
+
+00:11:15.000 --> 00:11:17.000
+y cuando agregan esos mosaicos que cuentan,
+
+00:11:17.000 --> 00:11:20.000
+empezarán a contar, leerán ese 32
+
+00:11:20.000 --> 00:11:22.000
+y se detendrán en 32.
+
+00:11:22.000 --> 00:11:25.000
+Entonces, lo que hemos hecho es que hemos encontrado una forma
+
+00:11:25.000 --> 00:11:28.000
+de hacer que un programa molecular sepa cuándo dejar de crecer.
+
+00:11:28.000 --> 00:11:30.000
+Éste sabe cuándo dejar de crecer porque puede contar.
+
+00:11:30.000 --> 00:11:32.000
+Sabe qué tan grande es.

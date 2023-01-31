@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:58.251 --> 00:07:00.478
+koji je vrlo sličan onome
+
+00:07:00.478 --> 00:07:02.854
+koji koristi mrav sakupljač kako bi regulirao
+
+00:07:02.854 --> 00:07:04.395
+protok tragača za hranom.
+
+00:07:04.395 --> 00:07:07.761
+I pogodite kako nazivamo tu analogiju?
+
+00:07:07.761 --> 00:07:09.279
+Anternet dolazi. (ant=mrav)
+
+00:07:09.279 --> 00:07:11.000
+(Pljesak)
+
+00:07:11.000 --> 00:07:14.454
+Stoga podaci ne odlaze s računala
+
+00:07:14.454 --> 00:07:17.315
+ukoliko ne dobiju signal da postoji dovoljna propusnost
+
+00:07:17.315 --> 00:07:20.044
+za nesmetano kolanje.
+
+00:07:20.044 --> 00:07:21.485
+U začecima interneta,
+
+00:07:21.485 --> 00:07:23.759
+kad su operativni troškovi bili vrlo visoki
+
+00:07:23.759 --> 00:07:26.986
+i kad je bilo vrlo važno ne izgubiti nikakav podatak,
+
+00:07:26.986 --> 00:07:29.143
+sustav je bio podešen za interakcije
+
+00:07:29.143 --> 00:07:32.205
+na način da aktivira protok podataka.

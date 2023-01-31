@@ -1,0 +1,43 @@
+WEBVTT
+
+00:12:29.000 --> 00:12:32.000
+can we use this as a recipe
+
+00:12:32.000 --> 00:12:35.000
+for constructing machine-based vision systems
+
+00:12:35.000 --> 00:12:38.000
+that can learn on their own, that don't need to be programmed
+
+00:12:38.000 --> 00:12:40.000
+by a human programmer?
+
+00:12:40.000 --> 00:12:42.000
+And that's what we're trying to do.
+
+00:12:42.000 --> 00:12:45.000
+I'm at MIT, at MIT you need to apply
+
+00:12:45.000 --> 00:12:47.000
+whatever basic knowledge you gain.
+
+00:12:47.000 --> 00:12:49.000
+So we are creating Dylan,
+
+00:12:49.000 --> 00:12:51.000
+which is a computational system
+
+00:12:51.000 --> 00:12:53.000
+with an ambitious goal
+
+00:12:53.000 --> 00:12:55.000
+of taking in visual inputs
+
+00:12:55.000 --> 00:12:58.000
+of the same kind that a human child would receive,
+
+00:12:58.000 --> 00:13:00.000
+and autonomously discovering:
+
+00:13:00.000 --> 00:13:03.000
+What are the objects in this visual input?

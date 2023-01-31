@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:58.000 --> 00:10:01.000
+Jazyk má na druhou stranu středně vysokou míru entropie -
+
+00:10:01.000 --> 00:10:03.000
+není ani příliš rigidní,
+
+00:10:03.000 --> 00:10:05.000
+ani příliš náhodně uspořádaný.
+
+00:10:05.000 --> 00:10:07.000
+Jak je na tom protoindické písmo?
+
+00:10:07.000 --> 00:10:11.000
+Tady máme graf, který zachycuje entropii celé množiny sekvencí.
+
+00:10:11.000 --> 00:10:13.000
+Úplně nahoře vidíte rovnoměrně nahodilou sekvenci,
+
+00:10:13.000 --> 00:10:15.000
+což je náhodná změť písmen -
+
+00:10:15.000 --> 00:10:17.000
+je zajímavé, že tady rovněž najdeme
+
+00:10:17.000 --> 00:10:20.000
+DNA sekvenci lidského genomu a instrumentální hudbu.
+
+00:10:20.000 --> 00:10:22.000
+Obě tyto řady jsou velice, velice proměnlivé,
+
+00:10:22.000 --> 00:10:24.000
+a proto je v rámci grafu najdete velice vysoko.
+
+00:10:24.000 --> 00:10:26.000
+Na spodním konci žebříčku
+
+00:10:26.000 --> 00:10:28.000
+najdete velice rigidní sekvenci, řadu sestavenou pouze z písmen A,
+
+00:10:28.000 --> 00:10:30.000
+a rovněž zde najdete počítačový program,
+
+00:10:30.000 --> 00:10:32.000
+v tomto případě naprogramovaný v jazyce Fortran,

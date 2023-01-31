@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:28.000 --> 00:08:30.000
+où il y a de grandes probabilités de vies.
+
+00:08:30.000 --> 00:08:32.000
+On se déplace le long du mur, dans ce qui est appelé opération de proximité,
+
+00:08:32.000 --> 00:08:34.000
+cherchant des changements de couleurs.
+
+00:08:34.000 --> 00:08:37.000
+Si on trouve quelque chose d'intéressant, on le met sous un microscope.
+
+00:08:37.000 --> 00:08:41.000
+Si ça passe le test du microscope, on passe au prélèvement.
+
+00:08:41.000 --> 00:08:43.000
+On peut aussi bien prendre des échantillons liquides,
+
+00:08:43.000 --> 00:08:46.000
+ou bien une carotte solide du mur.
+
+00:08:46.000 --> 00:08:47.000
+Tout ça sans les mains.
+
+00:08:47.000 --> 00:08:49.000
+C'est uniquement un comportement autonome
+
+00:08:49.000 --> 00:08:51.000
+qui est géré par le robot lui-même.
+
+00:08:52.000 --> 00:08:54.000
+Le vrai tour de force de ce véhicule
+
+00:08:54.000 --> 00:08:57.000
+est un système complètement nouveau de navigation qu'on a développé,
+
+00:08:57.000 --> 00:09:01.000
+connu sous le nom de 3D SLAM, pour Simultaneous Localization And Mapping.

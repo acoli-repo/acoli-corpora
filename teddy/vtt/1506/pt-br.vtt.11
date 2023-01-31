@@ -1,0 +1,46 @@
+WEBVTT
+
+00:05:27.582 --> 00:05:30.138
+Dois jogadores, que estão sendo escaneados usando eletrodos de EEG,
+
+00:05:30.138 --> 00:05:33.015
+vão barganhar de um a seis dólares.
+
+00:05:33.015 --> 00:05:35.679
+Se conseguirem fazer isso em 10 segundos, vão realmente ganhar o dinheiro.
+
+00:05:35.679 --> 00:05:38.719
+Se os 10 segundos se esgotarem e eles não tiverem feito o acordo, ganham nada.
+
+00:05:38.719 --> 00:05:40.402
+Este é um tipo de erro conjunto.
+
+00:05:40.402 --> 00:05:43.219
+A questão é que um jogador, à esquerda,
+
+00:05:43.219 --> 00:05:45.907
+é informado de quanto há em cada jogada.
+
+00:05:45.907 --> 00:05:48.139
+Eles jogam muitas vezes com diferentes quantias cada vez.
+
+00:05:48.139 --> 00:05:50.380
+Neste caso, sabem que há quatro dólares.
+
+00:05:50.380 --> 00:05:52.257
+O jogador não informado não sabe,
+
+00:05:52.257 --> 00:05:54.311
+mas eles sabem que o jogador informado sabe.
+
+00:05:54.311 --> 00:05:56.370
+Então o desafio do jogador não informado é:
+
+00:05:56.370 --> 00:05:57.840
+"Este cara está realmente sendo honesto
+
+00:05:57.840 --> 00:05:59.694
+ou está me dando um oferta muito baixa
+
+00:05:59.694 --> 00:06:02.772
+para me fazer pensar que há somente um ou dois dólares para dividir?".

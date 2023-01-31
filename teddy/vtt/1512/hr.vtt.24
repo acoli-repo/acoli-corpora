@@ -1,0 +1,37 @@
+WEBVTT
+
+00:11:58.177 --> 00:12:00.517
+po prvi put radeći ne na papiru,
+
+00:12:00.517 --> 00:12:04.477
+nego direktno na zaslonu, od prvog piksela.
+
+00:12:04.477 --> 00:12:08.330
+U to vrijeme zasloni su bili binarni.
+
+00:12:08.330 --> 00:12:11.370
+Piksel je bio ili uključen ili isključen.
+
+00:12:11.370 --> 00:12:14.225
+Ovdje vidite obris slova,
+
+00:12:14.225 --> 00:12:15.692
+velikog H,
+
+00:12:15.692 --> 00:12:18.493
+tanku crnu liniju, konturu,
+
+00:12:18.493 --> 00:12:21.369
+ono što se pohranjuje u memoriji,
+
+00:12:21.369 --> 00:12:23.039
+stavljenu preko bitmape,
+
+00:12:23.039 --> 00:12:25.187
+to je ovo sivo područje,
+
+00:12:25.187 --> 00:12:27.024
+što pak predstavlja ono što se prikazuje na zaslonu.
+
+00:12:27.024 --> 00:12:30.170
+Bitmapa se rasterizira iz obrisa.

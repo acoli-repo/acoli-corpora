@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:29.738 --> 00:05:33.017
+İkinin asal sayı olan bir kuvveti eksi bir.
+
+00:05:33.017 --> 00:05:35.434
+Çok detayına inmeyeceğim çünkü,
+
+00:05:35.434 --> 00:05:38.185
+eğer öyle yaparsam, çoğunuzun gözleri önüne akacak.
+
+00:05:38.185 --> 00:05:42.396
+ama şu kadarını söyleyebilirim ki, bu yapıdaki bir sayının
+
+00:05:42.396 --> 00:05:45.859
+kuvvet olarak alınabileceği kolayca test edilebilir.
+
+00:05:45.859 --> 00:05:49.459
+Sıradan bir sayının test edilmesi çok daha zordur.
+
+00:05:49.459 --> 00:05:51.380
+Ama asal sayıların peşine düşer düşmez,
+
+00:05:51.380 --> 00:05:53.219
+herhangi bir asal sayının kuvvet olarak
+
+00:05:53.219 --> 00:05:55.960
+alınmasının yeterli olmadığını görürüz.
+
+00:05:55.960 --> 00:05:58.557
+(2^11)-1=2,047,
+
+00:05:58.557 --> 00:06:01.925
+ve bunun bana 23x89 olduğunu söylemenize gerek yok.

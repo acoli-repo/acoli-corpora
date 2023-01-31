@@ -1,0 +1,40 @@
+WEBVTT
+
+00:07:29.000 --> 00:07:31.000
+em todas as áreas,
+
+00:07:31.000 --> 00:07:34.000
+e ser capaz de processar respostas para perguntas específicas das pessoas,
+
+00:07:34.000 --> 00:07:36.000
+não através da busca do que outras pessoas
+
+00:07:36.000 --> 00:07:38.000
+tenham escrito antes,
+
+00:07:38.000 --> 00:07:40.000
+mas ao usar o conhecimento construído
+
+00:07:40.000 --> 00:07:43.000
+para processar novas e originais respostas para perguntas específicas.
+
+00:07:43.000 --> 00:07:45.000
+Agora, é claro, Wolfram Alpha
+
+00:07:45.000 --> 00:07:47.000
+é um projeto monumentalmente grande e de longo prazo
+
+00:07:47.000 --> 00:07:49.000
+com muitos e muitos desafios.
+
+00:07:49.000 --> 00:07:52.000
+Para começar, temos que supervisionar um zilhão
+
+00:07:52.000 --> 00:07:55.000
+de diferentes fontes com fatos e dados,
+
+00:07:55.000 --> 00:07:58.000
+e construímos um bom funil de processamento na automação de Mathematica
+
+00:07:58.000 --> 00:08:01.000
+e experts de domínios humanos para se chegar nisso.

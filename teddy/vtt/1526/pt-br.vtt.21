@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:28.140 --> 00:10:30.337
+biópsias de câncer,
+
+00:10:30.907 --> 00:10:33.222
+e pediram para o computador
+para identificar,
+
+00:10:33.222 --> 00:10:35.693
+olhando os dados e taxas de sobrevivência
+
+00:10:35.693 --> 00:10:40.360
+para determinar se as células
+
+00:10:40.360 --> 00:10:42.904
+são cancerosas ou não,
+
+00:10:42.904 --> 00:10:44.682
+e, certamente, alimentando os dados
+
+
+00:10:44.682 --> 00:10:46.799
+em um algoritmo de
+aprendizagem de máquina,
+
+00:10:46.799 --> 00:10:48.606
+a máquina foi capaz de identificar
+
+00:10:48.606 --> 00:10:50.868
+os 12 sinais que melhor predizem
+
+00:10:50.868 --> 00:10:54.167
+que nesta biópsia, as células da mama
+
+00:10:54.167 --> 00:10:57.385
+são realmente cancerosas.
+
+00:10:57.385 --> 00:10:59.883
+O problema: a literatura médica
+
+00:10:59.883 --> 00:11:02.672
+só conhecia nove deles.

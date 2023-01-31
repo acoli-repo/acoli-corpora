@@ -1,0 +1,34 @@
+WEBVTT
+
+00:09:57.379 --> 00:10:00.868
+în detrimentul dependenței generale de GPS,
+
+00:10:00.868 --> 00:10:03.028
+există ceva și mai puternic
+
+00:10:03.028 --> 00:10:06.820
+şi mai subversiv decât Wave Bubble,
+
+00:10:06.820 --> 00:10:10.209
+şi acesta e un GPS spoofer.
+
+00:10:10.209 --> 00:10:13.034
+Ideea din spatele acestuia e simplă.
+
+00:10:13.034 --> 00:10:17.011
+În loc să bruiaţi semnalele GPS, le simulaţi.
+
+00:10:17.011 --> 00:10:20.129
+Le imitaţi şi dacă faceţi asta corect, dispozitivul
+
+00:10:20.129 --> 00:10:23.296
+pe care îl atacaţi nici nu ştie că e spoofed (falsificat).
+
+00:10:23.296 --> 00:10:24.928
+Să vă arăt cum funcţionează.
+
+00:10:24.928 --> 00:10:27.653
+În orice receptor GPS, există un vârf în interior
+
+00:10:27.653 --> 00:10:30.288
+care corespunde semnalelor autentice.

@@ -1,0 +1,28 @@
+WEBVTT
+
+00:09:29.208 --> 00:09:31.929
+i controlli di versione ordinari.
+
+00:09:31.929 --> 00:09:36.238
+Ma è anche ciò che fa tornare il caos,
+
+00:09:36.238 --> 00:09:39.288
+e questa è la seconda grande innovazione del Git.
+
+00:09:39.288 --> 00:09:43.284
+Questa è una schermata di GitHub, il primo servizio di hosting Git,
+
+00:09:43.284 --> 00:09:46.634
+e ogni volta che un programmatore usa Git
+
+00:09:46.634 --> 00:09:49.795
+per fare un cambiamento importante,
+
+00:09:49.795 --> 00:09:53.104
+creando un nuovo file, modificandone uno esistente,
+
+00:09:53.104 --> 00:09:57.778
+unendo due file, Git crea questo tipo di firma.
+
+00:09:57.778 --> 00:10:00.921
+Questa lunga stringa di numeri e lettere

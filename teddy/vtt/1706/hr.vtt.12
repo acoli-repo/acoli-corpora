@@ -1,0 +1,41 @@
+WEBVTT
+
+00:05:59.642 --> 00:06:02.723
+gdje možemo postavljati komentare 
+na web stranicu.
+
+00:06:03.323 --> 00:06:06.330
+Mnogi od vas su koristili 
+nešto slično prije.
+
+00:06:06.330 --> 00:06:08.277
+Na žalost, kada je ovo implementirano,
+
+00:06:08.277 --> 00:06:10.112
+programer je bio malo opijen
+
+00:06:10.702 --> 00:06:11.944
+i uspio je zaboraviti
+
+00:06:11.944 --> 00:06:14.813
+svo znanje za sigurnosno kodiranje 
+koje je imao.
+
+00:06:15.473 --> 00:06:17.999
+Zamislimo da naš napadač,
+
+00:06:17.999 --> 00:06:21.447
+zvan Zločesti Haker, da bude zanimljivije,
+
+00:06:21.447 --> 00:06:23.470
+umetnuo nešto opasno.
+
+00:06:23.470 --> 00:06:25.169
+Ovo je skripta.
+
+00:06:25.169 --> 00:06:28.826
+To je kod koji će se 
+interpretirati na web stranici.
+
+00:06:29.466 --> 00:06:31.571
+Stoga ću objaviti ovaj komentar,

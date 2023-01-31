@@ -1,0 +1,46 @@
+WEBVTT
+
+00:10:28.000 --> 00:10:30.000
+Donc ils sont tous regroupés.
+
+00:10:30.000 --> 00:10:32.000
+Les tests à grande échelle sont plus proches de la réponse correcte.
+
+00:10:32.000 --> 00:10:34.000
+Et en vous éloignant vers le bas,
+
+00:10:34.000 --> 00:10:37.000
+ce que vous pouvez voir, de ce côté-ci, sont les faux négatifs fallacieux,
+
+00:10:37.000 --> 00:10:39.000
+et de ce côté-là, les faux positifs fallacieux.
+
+00:10:39.000 --> 00:10:41.000
+S'il y a un biais de publication,
+
+00:10:41.000 --> 00:10:44.000
+si les petits tests négatifs ont été dissimulés au vol,
+
+00:10:44.000 --> 00:10:46.000
+vous pouvez le voir sur un de ces graphiques.
+
+00:10:46.000 --> 00:10:48.000
+Donc vous pouvez voir ici que les petits tests négatifs,
+
+00:10:48.000 --> 00:10:50.000
+qui auraient dû se trouver en bas à gauche, ont disparu.
+
+00:10:50.000 --> 00:10:53.000
+Celui-ci est un graphique qui révèle la présence d'un biais de publication
+
+00:10:53.000 --> 00:10:55.000
+dans les études sur le biais de publication.
+
+00:10:55.000 --> 00:10:57.000
+Je pense que c'est la blague d'épidémiologie la plus drôle
+
+00:10:57.000 --> 00:10:59.000
+que vous entendrez jamais.
+
+00:10:59.000 --> 00:11:01.000
+C'est ainsi que vous pouvez le prouver statistiquement,

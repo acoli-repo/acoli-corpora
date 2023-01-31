@@ -1,0 +1,49 @@
+WEBVTT
+
+00:06:57.000 --> 00:07:00.000
+So we focused on motion capture.
+
+00:07:00.000 --> 00:07:02.000
+I'm sure many of you have seen motion capture.
+
+00:07:02.000 --> 00:07:04.000
+The state of the art at the time
+
+00:07:04.000 --> 00:07:06.000
+was something called marker-based motion capture.
+
+00:07:06.000 --> 00:07:07.000
+I'll give you an example here.
+
+00:07:07.000 --> 00:07:09.000
+It's basically the idea of, you wear a leotard,
+
+00:07:09.000 --> 00:07:11.000
+and they put some reflective markers on your body,
+
+00:07:11.000 --> 00:07:13.000
+and instead of using cameras,
+
+00:07:13.000 --> 00:07:15.000
+there're infrared sensors around a volume,
+
+00:07:15.000 --> 00:07:17.000
+and those infrared sensors track the three-dimensional position
+
+00:07:17.000 --> 00:07:19.000
+of those markers in real time.
+
+00:07:19.000 --> 00:07:22.000
+And then animators can take the data of the motion of those markers
+
+00:07:22.000 --> 00:07:24.000
+and apply them to a computer-generated character.
+
+00:07:24.000 --> 00:07:27.000
+You can see the computer characters on the right
+
+00:07:27.000 --> 00:07:30.000
+are having the same complex motion as the dancers.
+
+00:07:30.000 --> 00:07:32.000
+But we also looked at numbers of other films at the time

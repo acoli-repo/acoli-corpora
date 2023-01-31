@@ -1,0 +1,38 @@
+WEBVTT
+
+00:05:28.439 --> 00:05:33.141
+Ale počítače jsou tak
+nechvalně proslulými interprety příkazů,
+
+00:05:33.141 --> 00:05:37.164
+že je nepředstavitelně složité sepsat seznam příkazů,
+
+00:05:37.164 --> 00:05:40.202
+které má počítač umět vykonat.
+
+00:05:40.202 --> 00:05:42.068
+A to je ten jednodušší případ,
+kdy kód píše jediný člověk.
+
+00:05:42.068 --> 00:05:44.167
+Jakmile má kód psát víc než jeden člověk,
+
+00:05:44.167 --> 00:05:47.251
+je velmi jednoduché, aby si
+dva programátoři navzájem
+
+00:05:47.251 --> 00:05:49.912
+přepisovali úpravy, kdyby pracovali
+na jednom souboru,
+
+00:05:49.912 --> 00:05:52.094
+nebo aby počítači dávali nekompatibilní instrukce,
+
+00:05:52.094 --> 00:05:54.535
+na kterých program zhavaruje.
+
+00:05:54.535 --> 00:05:57.494
+Tento problém roste s tím,
+
+00:05:57.494 --> 00:06:00.263
+čím víc programátorů má pracovat na jedné věci.

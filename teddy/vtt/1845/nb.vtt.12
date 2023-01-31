@@ -1,0 +1,28 @@
+WEBVTT
+
+00:05:58.819 --> 00:06:03.066
+Trikset var å dekomponere datamaskinens oppbygning
+
+00:06:03.066 --> 00:06:06.020
+til tallrike enkeltstående moduler,
+
+00:06:06.020 --> 00:06:09.920
+hver i stand til å bli enkeltvis spesifisert,
+
+00:06:09.920 --> 00:06:15.155
+bygd og enhetstestet separert fra resten av prosjektet.
+
+00:06:15.155 --> 00:06:18.144
+Og fra dag én, bestemte Noam og jeg oss for å legge
+
+00:06:18.144 --> 00:06:21.680
+alle disse byggesteinene fritt tilgjengelig i åpen kildekode
+
+00:06:21.680 --> 00:06:23.160
+på nettet.
+
+00:06:23.160 --> 00:06:27.631
+Så brikke-spesifikasjoner, APIer, prosjektbeskrivelser,
+
+00:06:27.631 --> 00:06:31.535
+programvare-verktøy, maskinvare-simulatorer, prosessor-emulatorer,

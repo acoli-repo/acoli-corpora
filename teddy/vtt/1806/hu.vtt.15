@@ -1,0 +1,50 @@
+WEBVTT
+
+00:07:27.969 --> 00:07:31.736
+Olyan forráskódot is írhatunk, amivel 
+a fizikai világgal tudunk interakcióba lépni.
+
+00:07:31.736 --> 00:07:34.215
+Itt egy példa Hong Kong-ból,
+
+00:07:34.215 --> 00:07:35.622
+ahol néhány gyerek csinált 
+egy játékot,
+
+00:07:35.622 --> 00:07:38.903
+majd megépítették a saját, 
+fizikai interfész eszközüket,
+
+00:07:38.903 --> 00:07:41.795
+tettek rá egy fényérzékelőt,
+
+00:07:41.795 --> 00:07:43.738
+ami, ha lyukat 
+érzékel a táblán,
+
+00:07:43.738 --> 00:07:45.938
+tehát amikor mozgatják 
+a fizikai fűrészt,
+
+00:07:45.938 --> 00:07:48.178
+a fényérzékelő érzékeli 
+a lyukat,
+
+00:07:48.178 --> 00:07:51.134
+és így vezérli a virtuális
+fűrészt a képernyőn,
+
+00:07:51.134 --> 00:07:53.914
+ami elfűrészeli a fát.
+
+00:07:53.914 --> 00:07:56.023
+Folytatni fogjuk az új
+dolgok felderítését,
+
+00:07:56.023 --> 00:07:59.079
+amivel összekapcsolhatjuk a 
+fizikai világot a virtuálissal,
+
+00:07:59.079 --> 00:08:02.007
+így kapcsolatba lépve a 
+körülöttünk lévő valós világgal.

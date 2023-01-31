@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:05.000
+sobre como você faz um sistema autônomo auto-replicantes.
+
+00:05:05.000 --> 00:05:07.000
+E isto não é uma espécie de vingança de Babbage.
+
+00:05:07.000 --> 00:05:08.000
+Estes são pequenos computadores mecânicos.
+
+00:05:08.000 --> 00:05:11.000
+São máquinas de estados com cinco estados.
+
+00:05:11.000 --> 00:05:14.000
+Então, é como três interruptores de luz alinhados.
+
+00:05:14.000 --> 00:05:16.000
+Em um estado neutro, eles não se ligarão de forma alguma.
+
+00:05:16.000 --> 00:05:20.000
+Agora, se fizermos uma cadeia deles, uma cadeia de bits,
+
+00:05:20.000 --> 00:05:22.000
+eles serão capazes de replicar-se.
+
+00:05:22.000 --> 00:05:23.000
+Então começamos com branco, azul, azul, branco.
+
+00:05:23.000 --> 00:05:29.000
+Isso codifica; agora irá copiar. De um, surgem dois,
+
+00:05:29.000 --> 00:05:31.000
+e então de dois surgem três.

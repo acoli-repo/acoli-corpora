@@ -1,0 +1,38 @@
+WEBVTT
+
+00:05:59.642 --> 00:06:03.323
+komentarzy do strony.
+
+00:06:03.323 --> 00:06:06.330
+Wielu z was używało kiedyś czegoś takiego.
+
+00:06:06.330 --> 00:06:08.277
+Niestety, w czasie implementacji
+
+00:06:08.277 --> 00:06:10.702
+programista był lekko wstawiony
+
+00:06:10.702 --> 00:06:11.944
+i udało mu się zapomnieć
+
+00:06:11.944 --> 00:06:14.933
+wszystkich wyuczonych zasad 
+bezpiecznego programowania,
+
+00:06:14.933 --> 00:06:17.999
+Powiedzmy, że nasz napastnik
+
+00:06:17.999 --> 00:06:21.447
+którego nazwiemy dla zgrywu Złym Hackerem,
+
+00:06:21.447 --> 00:06:23.470
+umieszcza tu coś paskudnego.
+
+00:06:23.470 --> 00:06:25.169
+To kawałek skryptu.
+
+00:06:25.169 --> 00:06:29.246
+Jego kod zostanie zinterpretowany na stronie.
+
+00:06:29.246 --> 00:06:31.571
+Wyślę teraz ten komentarz,

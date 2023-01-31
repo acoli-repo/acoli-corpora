@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:31.000
+Normalerweise ist Effektivität essentiell,
+
+00:09:31.000 --> 00:09:35.000
+da die Treibstoffkosten des Motors die Anschaffungskosten bei weitem übersteigen.
+
+00:09:35.000 --> 00:09:37.000
+Wenn aber der Treibstoff kostenlos ist,
+
+00:09:37.000 --> 00:09:40.000
+dann sind nur die Anschaffungskosten des Motors wichtig.
+
+00:09:40.000 --> 00:09:42.000
+Man möchte also nicht die Effektivität optimisieren,
+
+00:09:42.000 --> 00:09:44.000
+sondern die Leistung pro Dollar.
+
+00:09:44.000 --> 00:09:46.000
+Nach diesem Wandel, dem neuen Kriterium,
+
+00:09:46.000 --> 00:09:48.000
+dachten wir, wir könnten den Stirlingmotor neu besehen,
+
+00:09:48.000 --> 00:09:50.000
+und auch die genetischen Algorithmen einbringen.
+
+00:09:50.000 --> 00:09:54.000
+Robert Stirling konnte nicht auf Gordon Moore zurückgreifen,
+
+00:09:54.000 --> 00:09:56.000
+um drei Gigahertz Prozessorleistung zur Verfügung zu haben.
+
+00:09:56.000 --> 00:09:58.000
+Also nahmen wir den selben genetischen Algorithmus, den wir benutzt hatten,
+
+00:09:58.000 --> 00:10:00.000
+um den Konzentrator zu entwickeln, mit dem wir ja keinen Erfolg hatten,
+
+00:10:00.000 --> 00:10:03.000
+um damit den Stirlingmotor zu optimieren

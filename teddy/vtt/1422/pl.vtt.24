@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+Jeśli nie ma opóźnienia,
+
+00:12:01.000 --> 00:12:03.000
+światło tylko połaskocze dłoń,
+
+00:12:03.000 --> 00:12:07.000
+albo z opóźnieniem 0,2 lub 0,3 sekundy.
+
+00:12:07.000 --> 00:12:09.000
+Prawa ręka zawsze robi to samo: ruch sinusoidalny.
+
+00:12:09.000 --> 00:12:12.000
+Prawa ręka zawsze robi to samo: ruch sinusoidalny.
+
+00:12:12.000 --> 00:12:15.000
+Lewa ręka jest zawsze łaskotana sinusoidalnie.
+
+00:12:15.000 --> 00:12:17.000
+Manipulujemy tylko z zależnością czasową.
+
+00:12:17.000 --> 00:12:19.000
+Kiedy przyspieszamy od 0 do 0,1 sekundy
+
+00:12:19.000 --> 00:12:21.000
+łaskocze bardziej.
+
+00:12:21.000 --> 00:12:23.000
+Między 0,1 a 0,2 sekundy
+
+00:12:23.000 --> 00:12:25.000
+łaskocze tym bardziej, im większe opóźnienie.
+
+00:12:25.000 --> 00:12:27.000
+Powyżej 0,2 sekundy
+
+00:12:27.000 --> 00:12:29.000
+łaskotliwość jest taka sama jak wtedy,
+
+00:12:29.000 --> 00:12:31.000
+gdy robot zrobił to bez aktywności badanego.

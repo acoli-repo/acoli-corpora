@@ -1,0 +1,34 @@
+WEBVTT
+
+00:08:58.000 --> 00:09:01.000
+which is directed at a familiar question.
+
+00:09:01.000 --> 00:09:04.000
+Life is a string of choices
+
+00:09:04.000 --> 00:09:07.000
+creating a constant pressure to decide what to do next.
+
+00:09:08.000 --> 00:09:11.000
+We cope with this pressure by having brains,
+
+00:09:11.000 --> 00:09:14.000
+and within our brains, decision-making centers
+
+00:09:14.000 --> 00:09:17.000
+that I've called here the "Actor."
+
+00:09:18.000 --> 00:09:21.000
+The Actor implements a policy that takes into account
+
+00:09:21.000 --> 00:09:23.000
+the state of the environment
+
+00:09:23.000 --> 00:09:26.000
+and the context in which we operate.
+
+00:09:26.000 --> 00:09:29.000
+Our actions change the environment, or context,
+
+00:09:29.000 --> 00:09:32.000
+and these changes are then fed back into the decision loop.

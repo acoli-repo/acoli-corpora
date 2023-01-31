@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:58.000 --> 00:10:00.000
+Et il y a deux façons différentes pour repérer
+
+00:10:00.000 --> 00:10:02.000
+si des données ont été dissimulées.
+
+00:10:02.000 --> 00:10:05.000
+Vous pouvez utiliser les statistiques, ou vous pouvez utiliser les histoires.
+
+00:10:05.000 --> 00:10:07.000
+Personnellement je préfère les statistiques, donc c'est ce que je vais faire en premier.
+
+00:10:07.000 --> 00:10:09.000
+Voici ce qu'on appelle un graphique en entonnoir.
+
+00:10:09.000 --> 00:10:11.000
+Un graphique en entonnoir est un moyen très habile de repérer
+
+00:10:11.000 --> 00:10:14.000
+si de petits tests négatifs ont disparu, ont été dissimulés au vol.
+
+00:10:14.000 --> 00:10:16.000
+Donc c'est une représentation graphique de tous les tests
+
+00:10:16.000 --> 00:10:18.000
+qui ont été faits pour un traitement spécifique.
+
+00:10:18.000 --> 00:10:20.000
+En allant vers le haut du graphique —
+
+00:10:20.000 --> 00:10:22.000
+chaque point que vous voyez est un test.
+
+00:10:22.000 --> 00:10:25.000
+Et en montant, vous trouvez les tests à plus grande échelle, qui comportent donc moins d'erreurs.
+
+00:10:25.000 --> 00:10:28.000
+Ils sont moins susceptibles d'être de faux positifs ou négatifs, dus au hasard.
+
+00:10:28.000 --> 00:10:30.000
+Donc ils sont tous regroupés.
+
+00:10:30.000 --> 00:10:32.000
+Les tests à grande échelle sont plus proches de la réponse correcte.

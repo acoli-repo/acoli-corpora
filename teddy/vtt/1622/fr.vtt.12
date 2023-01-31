@@ -1,0 +1,47 @@
+WEBVTT
+
+00:05:58.673 --> 00:06:01.644
+chacun suit la position 
+des autres de manière précise,
+
+00:06:01.644 --> 00:06:04.381
+et ils peuvent s'éviter.
+
+00:06:04.381 --> 00:06:07.607
+Nous ajoutons maintenant de plus en plus 
+de robots dans le test,
+
+00:06:07.607 --> 00:06:09.078
+et nous avons rencontré quelques problèmes.
+
+00:06:09.078 --> 00:06:11.437
+Un de ces problèmes, c'est que 
+quand il y a trop de bavardage,
+
+00:06:11.437 --> 00:06:15.165
+il est difficile de traiter toutes les données,
+alors il faut identifier les priorités,
+
+00:06:15.165 --> 00:06:17.522
+et c'est là où les modèles de prédiction 
+sont utiles.
+
+00:06:17.522 --> 00:06:21.894
+Si toutes vos voitures robotisées 
+suivent les trajectoires prévues,
+
+00:06:21.894 --> 00:06:23.661
+vous n'accorderez pas 
+autant d'attention à ces données.
+
+00:06:23.661 --> 00:06:25.364
+Vous allez privilégier le type
+
+00:06:25.364 --> 00:06:26.697
+qui semble dévier un peu de sa route.
+
+00:06:26.697 --> 00:06:29.223
+Ce type peut devenir un problème.
+
+00:06:29.223 --> 00:06:32.225
+Et vous pouvez prévoir sa nouvelle trajectoire.

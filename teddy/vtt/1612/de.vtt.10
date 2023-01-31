@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:05.000
+dazu, wie man ein autonomes, selbst-replizierendes System erstellt.
+
+00:05:05.000 --> 00:05:07.000
+Und das hier ist in gewisser Weise Babbages Rache.
+
+00:05:07.000 --> 00:05:08.000
+Das hier sind kleine mechanische Computer.
+
+00:05:08.000 --> 00:05:11.000
+Es sind Zustandsmaschinen mit fünf Zuständen.
+
+00:05:11.000 --> 00:05:14.000
+Das sind also drei Lichtschalter in einer Reihe.
+
+00:05:14.000 --> 00:05:16.000
+In einem neutralen Zustand werden sie sich überhaupt nicht verknüpfen.
+
+00:05:16.000 --> 00:05:20.000
+Wenn ich jetzt eine Reihung davon erstelle, eine Bitfolge,
+
+00:05:20.000 --> 00:05:22.000
+dann werden sie sich replizieren können.
+
+00:05:22.000 --> 00:05:23.000
+Wir beginnen also mit weiß, blau, blau, weiß.
+
+00:05:23.000 --> 00:05:29.000
+Das kodiert; das wird nun kopiert. Aus eins wird zwei,
+
+00:05:29.000 --> 00:05:31.000
+und dann aus zwei wird drei.

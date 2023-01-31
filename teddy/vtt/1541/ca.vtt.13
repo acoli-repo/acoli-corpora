@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:29.242 --> 00:06:31.239
+Ens n'hem d'adonar de que la memòria operativa
+
+00:06:31.239 --> 00:06:32.588
+té una capacitat limitada,
+
+00:06:32.588 --> 00:06:35.777
+i que la pròpia capacitat de la memòria operativa té a veure amb com la gestionem.
+
+00:06:35.777 --> 00:06:37.878
+La gestionem per mitjà d'estratègies.
+
+00:06:37.878 --> 00:06:40.739
+Vull parlar-vos una mica sobre un parell d'estratègies aquí,
+
+00:06:40.739 --> 00:06:42.234
+i aquestes seran realment important
+
+00:06:42.234 --> 00:06:45.299
+perquè estareu ara en un entorn ric en informació
+
+00:06:45.299 --> 00:06:47.419
+durant els pròxims dies.
+
+00:06:47.419 --> 00:06:50.323
+Ara mateix, el primer de tot és que necessitem pensar,
+
+00:06:50.323 --> 00:06:53.330
+necessitem processar la nostra existència, la nostra vida,
+
+00:06:53.330 --> 00:06:54.805
+immediatament i repetidament.
+
+00:06:54.805 --> 00:06:57.246
+Hem de processar el que està passant
+
+00:06:57.246 --> 00:07:00.160
+en el moment en que succeeix i no 10 minuts més tard,

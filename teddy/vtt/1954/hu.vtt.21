@@ -1,0 +1,28 @@
+WEBVTT
+
+00:10:28.042 --> 00:10:31.553
+Figyeljék meg: amikor a háló kifeszül, a kvadok kifelé fordulnak.
+
+00:10:36.486 --> 00:10:38.258
+(Taps)
+
+00:10:38.258 --> 00:10:40.545
+Nem véletlen: amikor a háló kifeszül, a kvadok kb. az ötszörösét
+
+00:10:40.545 --> 00:10:43.230
+kapják annak a gyorsulásnak, amit a bungee-jumpingozó
+
+00:10:43.230 --> 00:10:47.818
+érez a zuhanás végén.
+
+00:10:51.009 --> 00:10:53.686
+A mutatvány algoritmusa nagyon hasonlít ahhoz,
+
+00:10:53.686 --> 00:10:57.070
+mint amikor egyetlen kvaddal üttetem vissza a labdát.
+
+00:10:57.070 --> 00:10:59.934
+A matematikai modell segítségével folyamatosan, azaz
+
+00:10:59.934 --> 00:11:04.449
+másodpercenként 50-szer újratervezzük a kooperatív stratégiát.

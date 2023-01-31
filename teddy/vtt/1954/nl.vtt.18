@@ -1,0 +1,29 @@
+WEBVTT
+
+00:09:03.943 --> 00:09:10.542
+(Applaus)
+
+00:09:10.542 --> 00:09:13.192
+Deze quad heeft een racket op zijn kop
+
+00:09:13.192 --> 00:09:16.679
+met een ‘sweet spot’ ongeveer ter grootte van een appel, niet al te groot dus.
+
+00:09:16.679 --> 00:09:19.846
+De volgende berekeningen gebeuren 
+elke 20 milliseconden
+
+00:09:19.846 --> 00:09:21.602
+of 50 keer per seconde.
+
+00:09:21.602 --> 00:09:24.414
+Eerst bepalen we waar de bal naartoe gaat.
+
+00:09:24.414 --> 00:09:26.851
+Dan berekenen we hoe de quad de bal moet raken
+
+00:09:26.851 --> 00:09:29.950
+zodat hij terugkeert naar zijn uitgangspunt.
+
+00:09:29.950 --> 00:09:34.406
+Ten derde wordt een baan bepaald

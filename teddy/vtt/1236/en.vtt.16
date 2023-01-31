@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:01.000
+by these fish-like symbols and some other signs,
+
+00:08:01.000 --> 00:08:03.000
+but never by these other signs at the bottom.
+
+00:08:03.000 --> 00:08:05.000
+And furthermore, there's some signs
+
+00:08:05.000 --> 00:08:07.000
+that really prefer the end of texts,
+
+00:08:07.000 --> 00:08:09.000
+such as this jar-shaped sign,
+
+00:08:09.000 --> 00:08:11.000
+and this sign, in fact, happens to be
+
+00:08:11.000 --> 00:08:13.000
+the most frequently occurring sign in the script.
+
+00:08:13.000 --> 00:08:16.000
+Given such patterns, here was our idea.
+
+00:08:16.000 --> 00:08:18.000
+The idea was to use a computer
+
+00:08:18.000 --> 00:08:20.000
+to learn these patterns,
+
+00:08:20.000 --> 00:08:23.000
+and so we gave the computer the existing texts.
+
+00:08:23.000 --> 00:08:25.000
+And the computer learned a statistical model
+
+00:08:25.000 --> 00:08:27.000
+of which symbols tend to occur together
+
+00:08:27.000 --> 00:08:29.000
+and which symbols tend to follow each other.
+
+00:08:29.000 --> 00:08:31.000
+Given the computer model,

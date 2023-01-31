@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:57.000 --> 00:07:00.000
+E poi ci sono dozzine di persone che hanno scattato dozzine di foto.
+
+00:07:00.000 --> 00:07:02.000
+E una volta che arriviamo qui,
+
+00:07:02.000 --> 00:07:06.000
+abbiamo dieci foto o meno, e poi c'è questa coda lunga e piatta.
+
+00:07:06.000 --> 00:07:08.000
+E una volta arrivati a metà,
+
+00:07:08.000 --> 00:07:10.000
+abbiamo centinaia di persone
+
+00:07:10.000 --> 00:07:13.000
+che hanno contribuito con una sola foto a testa.
+
+00:07:13.000 --> 00:07:15.000
+Questa si chiama distribuzione esponenziale.
+
+00:07:15.000 --> 00:07:20.000
+Appare frequentemente in sistemi sociali senza vincoli
+
+00:07:20.000 --> 00:07:24.000
+nei quali le persone sono libere di contribuire come vogliono,
+
+00:07:24.000 --> 00:07:26.000
+questo è quello che spesso si ottiene. Giusto?
+
+00:07:26.000 --> 00:07:30.000
+Matematicamente, la distribuzione esponenziale è fatta in modo per cui chi è in ennesima posizione
+
+00:07:30.000 --> 00:07:33.000
+sta facendo circa un ennesimo di ciò che si sta misurando,

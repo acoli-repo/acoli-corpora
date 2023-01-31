@@ -1,0 +1,25 @@
+WEBVTT
+
+00:11:28.000 --> 00:11:32.000
+și am folosit-o ca tipar pentru design-ul unui cip din silicon.
+
+00:11:32.000 --> 00:11:38.000
+Și deci acum neuronii sunt reprezentați de mici noduri sau circuite pe cip,
+
+00:11:38.000 --> 00:11:43.000
+și conexiunile dintre neuroni sunt de fapt modelate prin tranzistori
+
+00:11:43.000 --> 00:11:45.000
+Și acești tranzistori se comportă în mod esențial
+
+00:11:45.000 --> 00:11:48.000
+la fel cum canalele ionice se comportă în creier.
+
+00:11:48.000 --> 00:11:53.000
+Oferă același tip de arhitectură robustă pe care am descris-o.
+
+00:11:53.000 --> 00:11:57.000
+Iată cum arată ochiul nostru artificial.
+
+00:11:57.000 --> 00:12:02.000
+Cipul retinei pe care l-am proiectat se află în spatele acestei lentile.

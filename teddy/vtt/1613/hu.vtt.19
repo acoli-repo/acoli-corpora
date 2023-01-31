@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:31.000
+Normál esetben a hatékonyság kulcsfontosságú
+
+00:09:31.000 --> 00:09:35.000
+hiszen a motor üzemeltetési költsége mellett maga a motor ára eltörpül.
+
+00:09:35.000 --> 00:09:37.000
+De ha az üzemanyag ingyen van,
+
+00:09:37.000 --> 00:09:40.000
+az egyetlen dolog, ami számít, a motor bekerülési költsége.
+
+00:09:40.000 --> 00:09:42.000
+Így nem a hatékonyságra kell optimalizálni,
+
+00:09:42.000 --> 00:09:44.000
+hanem a dolláronként elérhető teljesítményre.
+
+00:09:44.000 --> 00:09:46.000
+Ezzel az új megközelítéssel,
+
+00:09:46.000 --> 00:09:48.000
+és a genetikus algoritmus alkalmazásával vizsgáltuk meg
+
+00:09:48.000 --> 00:09:50.000
+újból a Striling motort.
+
+00:09:50.000 --> 00:09:54.000
+Anno Robert Stirlingnek nem volt szerencséje Gordon Moorék találmányához
+
+00:09:54.000 --> 00:09:56.000
+a három gigahertz-es processzorhoz.
+
+00:09:56.000 --> 00:09:58.000
+Ugyanazt a genetikus algoritmust használtuk,
+
+00:09:58.000 --> 00:10:00.000
+ami ugyan a gyűjtőnél nem hozott sikert,
+
+00:10:00.000 --> 00:10:03.000
+hogy ezúttal a Stirling motort optimalizáljuk,

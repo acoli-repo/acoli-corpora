@@ -1,0 +1,39 @@
+WEBVTT
+
+00:07:27.932 --> 00:07:30.112
+A tak jsem mohl zapsat tato pravidla,
+
+00:07:30.112 --> 00:07:33.507
+překládáná z této zvláštní reprezentace do angličtiny.
+
+00:07:33.507 --> 00:07:35.338
+A tak jsem vytvořil tohle.
+
+00:07:35.338 --> 00:07:37.570
+Vytvořil jsem něco, co jsem nazval 
+FreeSpeech Engine (Motor Volné řeči),
+
+00:07:37.570 --> 00:07:40.131
+který jakoukoliv větu ve FreeSpeech dokáže
+
+00:07:40.131 --> 00:07:44.061
+přeměnit na zcela gramaticky bezchybný anglický text.
+
+00:07:44.061 --> 00:07:45.666
+A spojením těchto dvou věcí,
+
+00:07:45.666 --> 00:07:47.547
+reprezentace a motoru,
+
+00:07:47.547 --> 00:07:51.343
+jsem byl schopný vytvořit aplikaci, 
+technologii pro autistické děti,
+
+00:07:51.343 --> 00:07:53.842
+která jim předává nejen slova,
+
+00:07:53.842 --> 00:07:57.783
+ale také gramatiku.
+
+00:07:57.783 --> 00:08:00.143
+A tak jsem to vyzkoušel s autistickými dětmi

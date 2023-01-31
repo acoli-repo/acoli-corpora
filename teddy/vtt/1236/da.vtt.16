@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:01.000
+af disse fiskelignende symboler og nogle andre,
+
+00:08:01.000 --> 00:08:03.000
+men aldrig af disse andre tegn i bunden.
+
+00:08:03.000 --> 00:08:05.000
+Ydermere er der nogle tegn,
+
+00:08:05.000 --> 00:08:07.000
+som "foretrækker" slutningen af en tekst,
+
+00:08:07.000 --> 00:08:09.000
+såsom dette krukkeformede tegn,
+
+00:08:09.000 --> 00:08:11.000
+og dette tegn viser sig at være
+
+00:08:11.000 --> 00:08:13.000
+det mest hyppigt forekommende tegn i skriften.
+
+00:08:13.000 --> 00:08:16.000
+Sådanne mønstre bragte os på end ide.
+
+00:08:16.000 --> 00:08:18.000
+Ideen var at bruge en computer
+
+00:08:18.000 --> 00:08:20.000
+til at lære disse mønstre,
+
+00:08:20.000 --> 00:08:23.000
+og derfor gav vi computeren de eksisterende tekster.
+
+00:08:23.000 --> 00:08:25.000
+Og computeren lærte en statistisk model
+
+00:08:25.000 --> 00:08:27.000
+over hvilke symboler der optræder sammen
+
+00:08:27.000 --> 00:08:29.000
+og hvilke symboler som følger efter hinanden.
+
+00:08:29.000 --> 00:08:31.000
+Med denne computermodel,

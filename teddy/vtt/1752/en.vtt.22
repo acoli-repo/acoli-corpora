@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:58.157 --> 00:11:00.080
+into speech on the other hand.
+
+00:11:00.080 --> 00:11:01.842
+Now what's interesting is that
+
+00:11:01.842 --> 00:11:04.410
+we do a lot of work in information nowadays,
+
+00:11:04.410 --> 00:11:07.489
+and almost all of that is done
+in the language domain.
+
+00:11:07.489 --> 00:11:09.428
+Take Google, for example.
+
+00:11:09.428 --> 00:11:12.105
+Google trawls all these
+countless billions of websites,
+
+00:11:12.105 --> 00:11:14.830
+all of which are in English,
+and when you want to use Google,
+
+00:11:14.830 --> 00:11:17.280
+you go into Google search, and you type in English,
+
+00:11:17.280 --> 00:11:21.443
+and it matches the English with the English.
+
+00:11:21.443 --> 00:11:25.026
+What if we could do this in FreeSpeech instead?
+
+00:11:25.026 --> 00:11:27.327
+I have a suspicion that if we did this,
+
+00:11:27.327 --> 00:11:29.395
+we'd find that algorithms like searching,
+
+00:11:29.395 --> 00:11:31.720
+like retrieval, all of these things,

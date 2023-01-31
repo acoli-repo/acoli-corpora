@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:27.000 --> 00:09:32.000
+nehmen die Träger diagonale Kräfte auf.
+
+00:09:32.000 --> 00:09:35.000
+Jeder einzelne verändert seine Form,
+
+00:09:35.000 --> 00:09:37.000
+wenn man sich an der Längsseite des Gebäudes nach unten bewegt.
+
+00:09:37.000 --> 00:09:39.000
+Mit Hilfe von
+
+00:09:39.000 --> 00:09:42.000
+Bentley und MicroStation
+
+00:09:42.000 --> 00:09:44.000
+haben wir eine individuelle Software geschrieben,
+
+00:09:44.000 --> 00:09:47.000
+die alle Komponenten zu diesen Informationsbrocken
+
+00:09:47.000 --> 00:09:50.000
+miteinander verbindet,
+
+00:09:50.000 --> 00:09:52.000
+so dass, wenn wir ein Element
+
+00:09:52.000 --> 00:09:54.000
+entlang des Gebäudes ändern,
+
+00:09:54.000 --> 00:09:57.000
+sich diese Änderung nicht nur
+
+00:09:57.000 --> 00:09:59.000
+auf die einzelnen Träger verteilt,
+
+00:09:59.000 --> 00:10:02.000
+sondern jeder einzelne Träger verteilt die Information

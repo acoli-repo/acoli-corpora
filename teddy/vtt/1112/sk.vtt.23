@@ -1,0 +1,40 @@
+WEBVTT
+
+00:11:27.000 --> 00:11:31.000
+Dokážeme popísať komunikáciu medzi neurónmi.
+
+00:11:31.000 --> 00:11:34.000
+Prakticky je to len hŕstka rovníc,
+
+00:11:34.000 --> 00:11:36.000
+ktorými potrebujete simulovať
+
+00:11:36.000 --> 00:11:38.000
+aktivitu neokortexu.
+
+00:11:38.000 --> 00:11:41.000
+To čo však potrebujete je veľmi veľký počítač.
+
+00:11:41.000 --> 00:11:43.000
+V skutočnosti potrebujete jeden laptop,
+
+00:11:43.000 --> 00:11:46.000
+aby robil všetky kalkulácie len pre jeden neurón.
+
+00:11:46.000 --> 00:11:48.000
+Takže potrebujete desať tisíc laptopov.
+
+00:11:48.000 --> 00:11:50.000
+Takže kam pôjdete? Idete do IBM,
+
+00:11:50.000 --> 00:11:52.000
+a dostanete superpočítač, pretože vedia ako dať dokopy
+
+00:11:52.000 --> 00:11:56.000
+10 tisíc laptopov a dať do skrine o veľkosti chladničky.
+
+00:11:56.000 --> 00:11:59.000
+Teraz máme tento Blue Gene superpočítač.
+
+00:11:59.000 --> 00:12:01.000
+Môžeme nahrať všetky neuróny

@@ -1,0 +1,52 @@
+WEBVTT
+
+00:12:57.821 --> 00:13:00.210
+Ese código se parece mucho 
+a los otros tipos de código
+
+00:13:00.210 --> 00:13:02.448
+de ese sistema.
+
+00:13:02.448 --> 00:13:04.849
+Podría no encontrar el código 
+que controla la batería,
+
+00:13:04.849 --> 00:13:06.860
+hay muchas cosas similares a eso.
+
+00:13:06.860 --> 00:13:08.714
+Hay código que controla la pantalla,
+
+00:13:08.714 --> 00:13:10.930
+otro que controla los botones, 
+otro que controla los micrófonos,
+
+00:13:10.930 --> 00:13:12.858
+e incluso si no puedo encontrar 
+el código de la batería,
+
+00:13:12.858 --> 00:13:15.103
+apuesto a que puedo encontrar 
+una de esas cosas.
+
+00:13:15.103 --> 00:13:17.808
+El paso siguiente en mi proceso 
+de análisis del binario
+
+00:13:17.808 --> 00:13:19.039
+es analizar fragmentos de información
+
+00:13:19.039 --> 00:13:21.057
+que tengan similitudes.
+
+00:13:21.057 --> 00:13:25.040
+Es muy, muy difícil de 
+hacer a nivel binario,
+
+00:13:25.040 --> 00:13:28.683
+pero si en cambio traducimos esas 
+similitudes en abstracciones visuales,
+
+00:13:28.683 --> 00:13:31.121
+ni siquiera tenemos que tamizar 
+los datos en bruto.

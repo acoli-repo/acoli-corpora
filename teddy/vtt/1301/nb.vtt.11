@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:28.439 --> 00:05:33.141
+er velkjent for å være ikke-fleksible tolkere av instruksjoner
+
+00:05:33.141 --> 00:05:37.164
+at det er usedvanlig vanskelig å skrive ut et sett
+
+00:05:37.164 --> 00:05:40.202
+med instruksjoner som datamaskinen vet hvordan den skal utføre,
+
+00:05:40.202 --> 00:05:42.068
+og det gjelder selv om bare en person skriver det.
+
+00:05:42.068 --> 00:05:44.167
+Når du får mer enn én person som skal skrive,
+
+00:05:44.167 --> 00:05:47.251
+blir det veldig enkelt for to programmerere å overskrive
+
+00:05:47.251 --> 00:05:49.912
+hverandres arbeid hvis de jobber med samme fil,
+
+00:05:49.912 --> 00:05:52.094
+eller sende inkompatible instruksjoner
+
+00:05:52.094 --> 00:05:54.535
+som bare gjør at datamaskinen henger seg opp,
+
+00:05:54.535 --> 00:05:57.494
+og dette problemet blir større
+
+00:05:57.494 --> 00:06:00.263
+jo flere programmerere som blir involvert.

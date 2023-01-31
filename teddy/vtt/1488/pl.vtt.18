@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+OK. Więc komputer bierze określoną daną z pamięci,
+
+00:09:01.000 --> 00:09:04.000
+wysyła ją do procesora, czyli jednostki arytmetyczno-logicznej,
+
+00:09:04.000 --> 00:09:06.000
+a potem wstawia ją z powrotem do pamięci.
+
+00:09:06.000 --> 00:09:08.000
+To ta ścieżka wyróżniona na czerwono.
+
+00:09:08.000 --> 00:09:12.000
+Mózg działa w taki sposób, że mamy te wszystkie neurony,
+
+00:09:12.000 --> 00:09:14.000
+a one przekazują informacje przez
+
+00:09:14.000 --> 00:09:16.000
+podzielenie danych na małe kawałeczki,
+
+00:09:16.000 --> 00:09:19.000
+których reprezentacją są impulsy i różne neurony.
+
+00:09:19.000 --> 00:09:21.000
+Mamy więc te wszystkie kawałeczki danych
+
+00:09:21.000 --> 00:09:23.000
+rozsyłane przez sieć.
+
+00:09:23.000 --> 00:09:26.000
+A przetwarzanie tych danych w celu otrzymania wyników polega na
+
+00:09:26.000 --> 00:09:30.000
+przetłumaczeniu tego wzorca aktywności na nowy wzorzec aktywności,
+
+00:09:30.000 --> 00:09:33.000
+po prostu przepuszczając dane przez sieć.

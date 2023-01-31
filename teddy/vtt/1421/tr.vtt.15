@@ -1,0 +1,40 @@
+WEBVTT
+
+00:07:29.000 --> 00:07:31.000
+olmaya çalışmak,
+
+00:07:31.000 --> 00:07:34.000
+ve insanların sorduğu kendine özgü soruların cevaplarını hesaplamak,
+
+00:07:34.000 --> 00:07:36.000
+ve bunu başkalarının yazdığı
+
+00:07:36.000 --> 00:07:38.000
+bilgiler arasından arayarak değil,
+
+00:07:38.000 --> 00:07:40.000
+aksine mevcut bilgileri kullanarak
+
+00:07:40.000 --> 00:07:43.000
+bu özel sorulara taze yeni cevapları hesaplamaktır.
+
+00:07:43.000 --> 00:07:45.000
+Wolfram Alpha tabii ki devasa
+
+00:07:45.000 --> 00:07:47.000
+büyüklükte, çok zorluklar içeren
+
+00:07:47.000 --> 00:07:49.000
+uzun vadeli bir projedir.
+
+00:07:49.000 --> 00:07:52.000
+Başlangıç için zilyon tane farklı veri
+
+00:07:52.000 --> 00:07:55.000
+kaynağını düzenlemek gerekir,
+
+00:07:55.000 --> 00:07:58.000
+ve bunun için beşeri alan uzmanları ve Mathematica
+
+00:07:58.000 --> 00:08:01.000
+otomasyonu altyapısını inşa ettik.

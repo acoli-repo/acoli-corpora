@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:57.494 --> 00:06:00.263
+jo flere programmerere som blir involvert.
+
+00:06:00.263 --> 00:06:03.610
+Forenklet, er problemet med å håndtere
+
+00:06:03.610 --> 00:06:06.336
+et stor programvareprosjekt lik problemet
+
+00:06:06.336 --> 00:06:09.992
+med å holde dette sosiale kaoset i sjakk.
+
+00:06:09.992 --> 00:06:12.467
+Nå, i flere tiår har det vært en kanonisk løsning
+
+00:06:12.467 --> 00:06:14.121
+på dette problemet, nemlig å bruke noe som kalles
+
+00:06:14.121 --> 00:06:16.101
+et "versjonskontrollsystem"
+
+00:06:16.101 --> 00:06:18.310
+og en versjonskontrollsystem gjør hva navnet sier.
+
+00:06:18.310 --> 00:06:21.704
+Det lagrer en hoved-kopi av programvaren
+
+00:06:21.704 --> 00:06:23.256
+på en server et sted.
+
+00:06:23.256 --> 00:06:26.162
+De eneste programmererne som kan endre det er folk
+
+00:06:26.162 --> 00:06:29.693
+som får spesiell tillatelse til å gjøre endringer,
+
+00:06:29.693 --> 00:06:33.460
+og de får bare tilgang til den delen av programmet

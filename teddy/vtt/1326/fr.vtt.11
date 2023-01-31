@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.738 --> 00:05:33.017
+deux puissance un nombre premier, 
+auquel on soustrait 1.
+
+00:05:33.017 --> 00:05:35.434
+Je ne vais pas entrer dans les détails
+en vous expliquant le pourquoi,
+
+00:05:35.434 --> 00:05:38.185
+parce que la plupart d'entre vous 
+attraperaient une migraine carabinée,
+
+00:05:38.185 --> 00:05:42.396
+mais on va se contenter de savoir
+qu'il est assez facile de vérifier
+
+00:05:42.396 --> 00:05:45.859
+la primalité d'un nombre de cette forme.
+
+00:05:45.859 --> 00:05:49.459
+Un nombre impair choisi au hasard 
+est beaucoup plus difficile à tester.
+
+00:05:49.459 --> 00:05:51.380
+Mais dès qu'on part à la chasse
+aux nombres premiers géants,
+
+00:05:51.380 --> 00:05:53.219
+on se rend compte 
+qu'il ne suffit pas
+
+00:05:53.219 --> 00:05:55.960
+de mettre n'importe quel nombre impair
+comme exposant.
+
+00:05:55.960 --> 00:05:58.557
+(2 ^ 11) - 1 = 2047,
+
+00:05:58.557 --> 00:06:01.925
+et inutile que je vous dise
+que c'est 23 x 89.

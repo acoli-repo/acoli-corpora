@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:59.642 --> 00:06:03.323
+onde se pode enviar comentários 
+para o "website".
+
+00:06:03.323 --> 00:06:06.330
+Muitos de vocês já usaram algo parecido antes.
+
+00:06:06.330 --> 00:06:08.277
+Infelizmente, quando isto foi implementado
+
+00:06:08.277 --> 00:06:10.702
+o programador estava um pouco embriagado
+
+00:06:10.702 --> 00:06:11.944
+e esqueceu-se
+
+00:06:11.944 --> 00:06:14.933
+de todas as práticas de segurança 
+que aprendeu.
+
+00:06:14.933 --> 00:06:17.999
+Vamos imaginar que o nosso 
+pirata informático,
+
+00:06:17.999 --> 00:06:21.447
+chamado Pirata do Mal só para ter mais graça,
+
+00:06:21.447 --> 00:06:23.470
+inseriu alguma coisa um pouco má.
+
+00:06:23.470 --> 00:06:25.169
+Isto é um "script".
+
+00:06:25.169 --> 00:06:29.246
+É o código que será interpretado na página.
+
+00:06:29.246 --> 00:06:31.571
+Eu vou enviar este comentário,

@@ -1,0 +1,44 @@
+WEBVTT
+
+00:11:59.467 --> 00:12:01.635
+Wenn einer z.B. zu oft links spielt,
+
+00:12:01.635 --> 00:12:04.351
+kann ich als Mismatcher das 
+ausnützen und rechts drücken.
+
+00:12:04.351 --> 00:12:07.115
+Die Dreiecke hier sind die Schimpansen,
+
+00:12:07.115 --> 00:12:10.962
+und sie liegen rings um die Vorhersage herum.
+
+00:12:10.962 --> 00:12:12.736
+Jetzt verändern wir die Belohnung.
+
+00:12:12.736 --> 00:12:16.179
+Beim links-links-Spielen erhält der 
+Matcher eine höhere Belohnung.
+
+00:12:16.179 --> 00:12:17.699
+Er bekommt 3 Apfelstücke.
+
+00:12:17.699 --> 00:12:20.499
+Nach der Spieltheorie sollte der 
+Mismatcher sein Verhalten ändern,
+
+00:12:20.499 --> 00:12:22.089
+denn er wird denken:
+
+00:12:22.089 --> 00:12:23.899
+"Dieser Typ will die große Belohnung,
+
+00:12:23.899 --> 00:12:26.964
+deshalb drücke ich rechts, 
+damit er sie nicht bekommt."
+
+00:12:26.964 --> 00:12:28.629
+Ihr Verhalten bewegt sich sichtlich hinauf
+
+00:12:28.629 --> 00:12:32.077
+hin zu der Veränderung im Nash-Gleichgewicht.

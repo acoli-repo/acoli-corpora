@@ -1,0 +1,28 @@
+WEBVTT
+
+00:09:03.943 --> 00:09:10.542
+(Applausi)
+
+00:09:10.542 --> 00:09:13.192
+Il Quad ha una racchetta fissata sulla sommità
+
+00:09:13.192 --> 00:09:16.679
+con il punto ottimale delle dimensioni all'incirca di una mela, quindi non molto grande.
+
+00:09:16.679 --> 00:09:19.846
+Per effettuare la mossa che vediamo ora, l'elaborazione è fatta ogni 20 millisecondi
+
+00:09:19.846 --> 00:09:21.602
+o 50 volte al secondo.
+
+00:09:21.602 --> 00:09:24.414
+Prima cerchiamo di capire dove sta andando la palla.
+
+00:09:24.414 --> 00:09:26.851
+Poi calcoliamo come il Quad dovrebbe colpirla
+
+00:09:26.851 --> 00:09:29.950
+facendolo volare nella direzione dove è stata tirata la palla.
+
+00:09:29.950 --> 00:09:34.406
+Terzo, viene calcolata una traiettoria che porta il Quad

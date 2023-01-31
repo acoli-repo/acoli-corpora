@@ -1,0 +1,31 @@
+WEBVTT
+
+00:10:27.653 --> 00:10:30.288
+ami a hiteles jeleknek felel meg.
+
+00:10:30.288 --> 00:10:33.103
+Ez a három piros pötty reprezentálja a nyomkövető pontokat,
+
+00:10:33.103 --> 00:10:35.982
+amelyek próbálnak a csúcsra szimmetrikusnak maradni.
+
+00:10:35.982 --> 00:10:39.047
+De ha egy hamis GPS-jelet küldünk,
+
+00:10:39.047 --> 00:10:43.513
+akkor egy másik csúcs emelkedik ki, és ha el tudjuk érni, hogy ez a két csúcs
+
+00:10:43.513 --> 00:10:48.231
+tökéletesen illeszkedjen, akkor a nyomkövető pontok nem tudják megkülönböztetni őket,
+
+00:10:48.231 --> 00:10:51.542
+és eltérítheti őket az erősebb, színlelt jel,
+
+00:10:51.542 --> 00:10:55.502
+úgy, hogy a hiteles csúcsot kikapcsolja.
+
+00:10:55.502 --> 00:10:57.669
+Ezen a ponton vége a játéknak.
+
+00:10:57.669 --> 00:11:01.406
+A GPS-vevő végképp a hamis jel hatása alá kerül.

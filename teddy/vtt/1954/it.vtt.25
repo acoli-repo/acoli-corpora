@@ -1,0 +1,25 @@
+WEBVTT
+
+00:12:29.985 --> 00:12:33.230
+Sta cercando di stare in un punto fisso nello spazio.
+
+00:12:33.230 --> 00:12:34.775
+Se provo a spostarlo dalla sua posizione,
+
+00:12:34.775 --> 00:12:38.434
+oppone resistenza e ritorna a stare dove voleva essere.
+
+00:12:40.048 --> 00:12:42.633
+Ma noi siamo in grado di modificare questo comportamento.
+
+00:12:43.359 --> 00:12:48.160
+Possiamo usare dei modelli matematici per calcolare la forza che devo applicare al Quad.
+
+00:12:48.160 --> 00:12:51.446
+Quando conosciamo questa forza, possiamo anche cambiare le leggi della fisica,
+
+00:12:51.446 --> 00:12:54.370
+per quanto riguarda il Quad, ovviamente.
+
+00:12:56.630 --> 00:12:59.984
+Ecco, qui il quad si sta comportando come se fosse in un fluido viscoso.

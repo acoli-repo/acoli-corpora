@@ -1,0 +1,37 @@
+WEBVTT
+
+00:11:57.000 --> 00:12:00.000
+Jednou z možností, ktoré používame v mojom labáku a štúdiu
+
+00:12:00.000 --> 00:12:03.000
+je prekladanie svetla do zvuku
+
+00:12:03.000 --> 00:12:07.000
+a umožňujeme ľudom počuť ich vizuálny svet.
+
+00:12:07.000 --> 00:12:10.000
+Môžu sa pohybovať vo svete pomocou svojich uší.
+
+00:12:10.000 --> 00:12:13.000
+Tu napravo je David. Drží kameru.
+
+00:12:13.000 --> 00:12:15.000
+Naľavo vidíme, čo sníma jeho kamera.
+
+00:12:15.000 --> 00:12:18.000
+Vidíte, že cez obraz ide jemná čiara.
+
+00:12:18.000 --> 00:12:21.000
+Táto čiara je rozdelená na 32 štvorcov.
+
+00:12:21.000 --> 00:12:23.000
+V každom štvorci spočítame priemernú farbu.
+
+00:12:23.000 --> 00:12:25.000
+A to preložíme do zvuku.
+
+00:12:25.000 --> 00:12:28.000
+A teraz sa
+
+00:12:28.000 --> 00:12:32.000
+otočí, zavrie oči,

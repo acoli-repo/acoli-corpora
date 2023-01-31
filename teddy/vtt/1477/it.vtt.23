@@ -1,0 +1,22 @@
+WEBVTT
+
+00:11:29.000 --> 00:11:36.000
+implementando in alcuni posti degli Stati Uniti, quanto meno per la sicurezza pubblica.
+
+00:11:36.000 --> 00:11:42.000
+Se nel 1999 vi avessi detto: “Costruiamo un sistema di archiviazione e recupero dati.
+
+00:11:42.000 --> 00:11:45.000
+Dovrà contenere Terabytes di dati. Dovrà essere disponibile 24 ore al giorno,
+
+00:11:45.000 --> 00:11:48.000
+7 giorni alla settimana. Dovrà essere accessibile da ogni punto del mondo.
+
+00:11:48.000 --> 00:11:52.000
+Deve supportare oltre 100 milioni di accessi in ogni dato momento.
+
+00:11:52.000 --> 00:11:57.000
+Dovrà essere resistente agli attacchi, tra cui la chiusura del main index, l'intrusione di files infetti,
+
+00:11:57.000 --> 00:12:02.000
+l’attacco armato ad alcuni nodi principali.”, avreste detto: "Ci vorrebbero anni,

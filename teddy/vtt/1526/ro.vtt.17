@@ -1,0 +1,32 @@
+WEBVTT
+
+00:08:29.276 --> 00:08:33.670
+Tot ce făcea era să calculeze
+probabilitatea ca o configurație dată
+
+00:08:33.670 --> 00:08:37.280
+să conducă la o tablă de joc
+câștigătoare sau necâștigătoare
+
+00:08:37.280 --> 00:08:39.188
+după fiecare mutare.
+
+00:08:39.678 --> 00:08:42.588
+Joacă cu calculatorul. Câștigă.
+
+00:08:42.828 --> 00:08:45.076
+Joacă cu calculatorul. Câștigă.
+
+00:08:45.336 --> 00:08:48.107
+Joacă cu calculatorul. Câștigă.
+
+00:08:49.067 --> 00:08:54.024
+Atunci Arthur Samuel
+lasă calculatorul să joace singur.
+
+00:08:54.024 --> 00:08:57.080
+Joacă singur, adună mai multe date.
+
+00:08:57.080 --> 00:09:01.389
+Adună mai multe date,
+îi crește precizia predicției.

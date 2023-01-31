@@ -1,0 +1,29 @@
+WEBVTT
+
+00:08:28.535 --> 00:08:31.200
+Dodatkowo Torvalds przez długie lata
+
+00:08:31.200 --> 00:08:35.104
+kierował wszystkim bez zautomatyzowanych narzędzi, 
+ale za pomocą e-maila.
+
+00:08:35.104 --> 00:08:37.577
+Ludzie po prostu przysyłali mu zmiany mailem,
+
+00:08:37.577 --> 00:08:41.696
+a on wprowadzał je ręcznie.
+
+00:08:41.696 --> 00:08:46.442
+Po 15 lat obserwowania Linuksa
+
+00:08:46.442 --> 00:08:49.252
+i jego społeczności powiedział: "Myślę, że wiem
+
+00:08:49.252 --> 00:08:53.419
+jak napisać system kontroli wersji dla wolnych ludzi".
+
+00:08:53.419 --> 00:08:59.314
+Nazwał go "Git." To rozproszona kontrola wersji.
+
+00:08:59.314 --> 00:09:02.338
+Są dwie duże różnice

@@ -1,0 +1,46 @@
+WEBVTT
+
+00:15:28.000 --> 00:15:31.000
+Encontro programas que mais se aproximam de sequenciar números.
+
+00:15:31.000 --> 00:15:34.000
+Obviamente, sequências aleatórias de instruções
+
+00:15:34.000 --> 00:15:36.000
+não põem ordem em números,
+
+00:15:36.000 --> 00:15:38.000
+portanto, nenhuma delas vai realmente fazer isso.
+
+00:15:38.000 --> 00:15:40.000
+Mas uma delas, por sorte,
+
+00:15:40.000 --> 00:15:42.000
+pode colocar dois números na ordem correta.
+
+00:15:42.000 --> 00:15:44.000
+E digo: "Computador,
+
+00:15:44.000 --> 00:15:47.000
+você poderia, por favor, pegar os 10 por cento
+
+00:15:47.000 --> 00:15:49.000
+dessas sequências aleatórias que tiveram o melhor desempenho.
+
+00:15:49.000 --> 00:15:51.000
+Salve essas. Descarte as restantes.
+
+00:15:51.000 --> 00:15:53.000
+E agora vamos reproduzir
+
+00:15:53.000 --> 00:15:55.000
+aquelas que melhor sequenciaram os números.
+
+00:15:55.000 --> 00:15:58.000
+E vamos reproduzi-las por um processo de recombinação
+
+00:15:58.000 --> 00:16:00.000
+análogo ao sexo."
+
+00:16:00.000 --> 00:16:03.000
+Pegue dois programas e eles produzem filhos

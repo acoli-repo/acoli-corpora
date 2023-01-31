@@ -1,0 +1,46 @@
+WEBVTT
+
+00:15:28.000 --> 00:15:31.000
+Poi trovo i programmi che si avvicinano di più all'ordinare i numeri.
+
+00:15:31.000 --> 00:15:34.000
+Ovviamente, è molto improbabile che
+
+00:15:34.000 --> 00:15:36.000
+istruzioni casuali riescano a ordinare numeri,
+
+00:15:36.000 --> 00:15:38.000
+quindi nessuna sequenza lo fa davvero.
+
+00:15:38.000 --> 00:15:40.000
+Ma una di esse, per puro caso,
+
+00:15:40.000 --> 00:15:42.000
+potrebbe mettere due numeri nell'ordine giusto.
+
+00:15:42.000 --> 00:15:44.000
+Allora dico al computer
+
+00:15:44.000 --> 00:15:47.000
+di prendere il 10 percento delle sequenze casuali
+
+00:15:47.000 --> 00:15:49.000
+che hanno fatto il lavoro migliore.
+
+00:15:49.000 --> 00:15:51.000
+Salviamo quelle ed eliminiamo il resto.
+
+00:15:51.000 --> 00:15:53.000
+Poi riproduciamo
+
+00:15:53.000 --> 00:15:55.000
+quelle che hanno ordinato meglio i numeri.
+
+00:15:55.000 --> 00:15:58.000
+E le riproduciamo tramite un processo di ricombinazione
+
+00:15:58.000 --> 00:16:00.000
+analogo al sesso.
+
+00:16:00.000 --> 00:16:03.000
+Prendete due programmi, essi produrranno figli

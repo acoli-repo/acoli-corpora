@@ -1,0 +1,39 @@
+WEBVTT
+
+00:04:58.881 --> 00:05:02.097
+2 x 2 x 2 x 2 x 2.
+
+00:05:02.097 --> 00:05:05.501
+Así que 2 ^ 5 es 2 x 2 = 4,
+
+00:05:05.501 --> 00:05:07.681
+8, 16, 32.
+
+00:05:07.681 --> 00:05:11.195
+Si se entiende eso, podrán seguirme 
+todo el tiempo. ¿De acuerdo?
+
+00:05:11.195 --> 00:05:13.167
+Así que 2 ^ 5,
+
+00:05:13.167 --> 00:05:14.879
+esos cinco pequeños 2 se multiplican juntos.
+
+00:05:14.879 --> 00:05:19.142
+(2 ^ 5)-1 = 31.
+
+00:05:19.142 --> 00:05:22.453
+31 es un número primo y el 5 en la potencia
+
+00:05:22.453 --> 00:05:24.998
+también es un número primo.
+
+00:05:24.998 --> 00:05:28.502
+Y la mayor parte de números primos 
+masivos que hemos encontrado
+
+00:05:28.502 --> 00:05:29.738
+son de esa forma:
+
+00:05:29.738 --> 00:05:33.017
+2 elevado a un número primo, restar 1.

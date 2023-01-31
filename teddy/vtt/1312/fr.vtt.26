@@ -1,0 +1,40 @@
+WEBVTT
+
+00:12:58.000 --> 00:13:00.000
+et de découvrir de façon autonome
+
+00:13:00.000 --> 00:13:03.000
+quels sont les objets dans ces données visuelles.
+
+00:13:03.000 --> 00:13:06.000
+Ne vous souciez pas du fonctionnement interne de Dylan.
+
+00:13:06.000 --> 00:13:09.000
+Ici, je vais juste parler de
+
+00:13:09.000 --> 00:13:11.000
+la façon dont nous testons Dylan.
+
+00:13:11.000 --> 00:13:13.000
+Nous le testons en lui donnant
+
+00:13:13.000 --> 00:13:16.000
+des données, comme je l'ai dit, du même genre
+
+00:13:16.000 --> 00:13:19.000
+que celles que recevrait un bébé, ou un enfant du projet Prakash.
+
+00:13:19.000 --> 00:13:22.000
+Mais pendant longtemps nous n'avons pas bien pu déterminer
+
+00:13:22.000 --> 00:13:25.000
+comment obtenir ces sortes de données vidéos.
+
+00:13:26.000 --> 00:13:28.000
+Alors j'ai pensé
+
+00:13:28.000 --> 00:13:30.000
+que nous pourrions utiliser Darius
+
+00:13:30.000 --> 00:13:33.000
+comme notre porteur de babycam

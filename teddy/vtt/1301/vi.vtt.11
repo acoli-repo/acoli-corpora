@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:28.439 --> 00:05:33.141
+chỉ là những bộ dịch lệnh thô cứng
+
+00:05:33.141 --> 00:05:37.164
+và cực kì khó để viết 1 bộ lệnh
+
+00:05:37.164 --> 00:05:40.202
+mà máy tính hiểu để mà hoạt động,
+
+00:05:40.202 --> 00:05:42.068
+và đó là trường hợp chỉ 1 người viết.
+
+00:05:42.068 --> 00:05:44.167
+Khi có hơn 1 người viết,
+
+00:05:44.167 --> 00:05:47.251
+Bất kì 2 lập trình viên nào cũng dễ dàng viết đè
+
+00:05:47.251 --> 00:05:49.912
+lên việc của người kia nếu họ cùng làm trên 1 file,
+
+00:05:49.912 --> 00:05:52.094
+hoặc đưa ra các lệnh không tương thích
+
+00:05:52.094 --> 00:05:54.535
+làm cho máy tính bị "đứng",
+
+00:05:54.535 --> 00:05:57.494
+và vấn đề càng lớn thêm
+
+00:05:57.494 --> 00:06:00.263
+khi càng có thêm lập trình viên tham gia.

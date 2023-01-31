@@ -1,0 +1,25 @@
+WEBVTT
+
+00:05:59.000 --> 00:06:03.000
+akım miktarında bir artış görürsünüz, sabit bir akım vardır.
+
+00:06:03.000 --> 00:06:07.000
+"Kapı"yı kapattığınızda ise cihazdan geçen bir akım yoktur.
+
+00:06:07.000 --> 00:06:12.000
+Bilgisayar, akımın olduğu durumu bir "1",
+
+00:06:12.000 --> 00:06:16.000
+olmadığı durumu ise bir 0 (sıfır) göstermek için kullanır.
+
+00:06:16.000 --> 00:06:22.000
+Bugünlerde olan şu: transistörler gittikçe küçülüyor, küçülüyor, küçülüyorlar.
+
+00:06:22.000 --> 00:06:24.000
+Ve artık bu şekilde davranmıyorlar.
+
+00:06:24.000 --> 00:06:29.000
+Aslında, yavaş yavaş nöronların hesap yapmak için kullandıkları cihaza benziyorlar,
+
+00:06:29.000 --> 00:06:31.000
+buna "iyon kanalı" deniyor.

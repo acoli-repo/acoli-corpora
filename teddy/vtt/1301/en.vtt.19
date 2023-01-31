@@ -1,0 +1,28 @@
+WEBVTT
+
+00:09:29.208 --> 00:09:31.929
+by ordinary version control systems.
+
+00:09:31.929 --> 00:09:36.238
+But this is also the thing that brings the chaos back,
+
+00:09:36.238 --> 00:09:39.288
+and this is Git's second big innovation.
+
+00:09:39.288 --> 00:09:43.284
+This is a screenshot from GitHub, the premier Git hosting service,
+
+00:09:43.284 --> 00:09:46.634
+and every time a programmer uses Git
+
+00:09:46.634 --> 00:09:49.795
+to make any important change at all,
+
+00:09:49.795 --> 00:09:53.104
+creating a new file, modifying an existing one,
+
+00:09:53.104 --> 00:09:57.778
+merging two files, Git creates this kind of signature.
+
+00:09:57.778 --> 00:10:00.921
+This long string of numbers and letters here

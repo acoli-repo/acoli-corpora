@@ -1,0 +1,41 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:05.000
+về cách làm một hệ thống tự sao chép
+
+00:05:05.000 --> 00:05:07.170
+Và cái này giống như
+sự trả thù của Babbage.
+
+00:05:07.170 --> 00:05:08.880
+Đây là những máy tính cơ học nhỏ.
+
+
+00:05:08.880 --> 00:05:11.000
+Đây là các máy 5 trạng thái.
+
+00:05:11.000 --> 00:05:14.000
+Đó là về ba thiết bị chuyển mạch ánh sáng
+xếp thành hàng.
+
+00:05:14.000 --> 00:05:16.560
+Ở trạng thái trung tính,
+chúng sẽ không bám vào nhau.
+
+00:05:16.560 --> 00:05:20.000
+Bây giờ, nếu tôi tạo ra một chuỗi
+các chuỗi này, thành một chuỗi bit,
+
+00:05:20.000 --> 00:05:22.000
+nó sẽ có thể nhân rộng.
+
+00:05:22.000 --> 00:05:23.870
+Bắt đầu với
+trắng, xanh, xanh, trắng.
+
+00:05:23.870 --> 00:05:29.000
+Nó mã hoá; rồi sẽ sao chép.
+Từ một thành hai,
+
+00:05:29.000 --> 00:05:31.000
+và sau đó từ hai đến ba.

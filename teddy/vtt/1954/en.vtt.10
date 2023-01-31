@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:58.942 --> 00:05:02.575
+The first is that gravity acts
+on all objects in the same way.
+
+00:05:03.051 --> 00:05:04.830
+The second is that the propellers
+
+00:05:04.854 --> 00:05:07.927
+are all pointing in the same direction
+of the glass, pointing up.
+
+00:05:08.642 --> 00:05:10.289
+You put these two things together,
+
+00:05:10.313 --> 00:05:13.868
+the net result is that all side forces
+on the glass are small
+
+00:05:13.892 --> 00:05:16.169
+and are mainly dominated
+by aerodynamic effects,
+
+00:05:16.193 --> 00:05:18.154
+which at these speeds are negligible.
+
+00:05:23.336 --> 00:05:25.670
+And that's why you don't need
+to model the glass.
+
+00:05:25.694 --> 00:05:28.435
+It naturally doesn't spill,
+no matter what the quad does.

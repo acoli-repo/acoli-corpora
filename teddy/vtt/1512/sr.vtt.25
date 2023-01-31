@@ -1,0 +1,41 @@
+WEBVTT
+
+00:12:27.024 --> 00:12:30.170
+Bitmapa se rasterizuje od konture.
+
+00:12:30.170 --> 00:12:32.411
+Kod velikog H su sve linije prave,
+
+00:12:32.411 --> 00:12:34.499
+i ove dve su skoro potpuno uspravne
+
+00:12:34.499 --> 00:12:38.867
+po Dekartovom koordinatnom sistemu.
+
+00:12:38.867 --> 00:12:41.993
+Kod O nije tako.
+
+00:12:41.993 --> 00:12:44.720
+Ovo više liči na zidanje
+nego dizajn slova,
+
+00:12:44.720 --> 00:12:47.621
+ali mi verujte da je ovo dobro bitmapno O,
+
+00:12:47.621 --> 00:12:49.636
+jer je simetrično
+
+00:12:49.636 --> 00:12:52.116
+prema x i y osi.
+
+00:12:52.116 --> 00:12:54.974
+Kod binarnih bitmapa
+
+00:12:54.974 --> 00:12:56.694
+bolje od toga i ne može.
+
+00:12:56.694 --> 00:12:59.098
+Povremeno bih za zahtevnija slova
+
+00:12:59.098 --> 00:13:01.454
+napravio tri ili četiri verzije,

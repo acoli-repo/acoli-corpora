@@ -1,0 +1,43 @@
+WEBVTT
+
+00:14:59.000 --> 00:15:02.000
+que esta en el lugar equivocado, y dirás, oye, algo paso.
+
+00:15:02.000 --> 00:15:04.000
+Puede que te tome un segundo averiguar que fue, pero algo paso.
+
+00:15:04.000 --> 00:15:06.000
+Ahora podira cambiar tu puerta en otras maneras.
+
+00:15:06.000 --> 00:15:08.000
+Puedo hacerla más grande o chica, puedo cambiarla de bronce a plata,
+
+00:15:08.000 --> 00:15:10.000
+Puedo poner una palanca. Puedo cambiar tu puerta, ponerle colores,
+
+00:15:10.000 --> 00:15:13.000
+Puedo ponerle ventanas. Puedo cambiar miles de cosas de tu puerta,
+
+00:15:13.000 --> 00:15:15.000
+y en los dos segundos que te toma abrir tu puerta,
+
+00:15:15.000 --> 00:15:18.000
+vas a notar que algo ha cambiado
+
+00:15:18.000 --> 00:15:20.000
+Ahora, la manera ingenieril de aproximar esto, la manera IA de aproximarlo,
+
+00:15:20.000 --> 00:15:23.000
+es construir una base de datos de puertas. Tiene todos los atributos de puertas.
+
+00:15:23.000 --> 00:15:26.000
+Y conforme te acercas a la puerta,recorremos lista una por una.
+
+00:15:26.000 --> 00:15:28.000
+Puerta, puerta, puerta, tu sabes, color, tu sabes lo que digo.
+
+00:15:28.000 --> 00:15:30.000
+No hacemos eso. Tu cerebro no hace eso.
+
+00:15:30.000 --> 00:15:32.000
+Lo que tu cerebro esta haciendo es predicciones constantes todo el tiempo

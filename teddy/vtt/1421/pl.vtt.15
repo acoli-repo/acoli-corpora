@@ -1,0 +1,40 @@
+WEBVTT
+
+00:07:29.000 --> 00:07:31.000
+źródłem we wszystkich dziedzinach,
+
+00:07:31.000 --> 00:07:34.000
+by móc obliczać odpowiedzi na specyficzne pytania jakie ludzie mogą zadawać,
+
+00:07:34.000 --> 00:07:36.000
+nie poprzez wyszukiwanie tego czego inni
+
+00:07:36.000 --> 00:07:38.000
+już dowiedli i napisali,
+
+00:07:38.000 --> 00:07:40.000
+lecz poprzez użycie "wbudowanej", istniejącej już wiedzy
+
+00:07:40.000 --> 00:07:43.000
+by obliczyć nową odpowiedź na specyficzne pytanie.
+
+00:07:43.000 --> 00:07:45.000
+Oczywiście Wolfram Alpha
+
+00:07:45.000 --> 00:07:47.000
+jest monumentalnie wielkim i długim projektem
+
+00:07:47.000 --> 00:07:49.000
+z wieloma wyzwaniami.
+
+00:07:49.000 --> 00:07:52.000
+Na początek, trzeba przecież nadzorować nieokreśloną liczbę
+
+00:07:52.000 --> 00:07:55.000
+różnych źródeł faktów i danych,
+
+00:07:55.000 --> 00:07:58.000
+stworzyliśmy więc automatyczne rozwiązania za pomocą Mathematica
+
+00:07:58.000 --> 00:08:01.000
+oraz ludzkich zasobów i zarazem ekspertów w tych dziedzinach.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:57.000 --> 00:10:00.000
+Tomé aquí un modelo de la robótica.
+
+00:10:00.000 --> 00:10:03.000
+Se llama la Arquitectura de Subsunción.
+
+00:10:03.000 --> 00:10:06.000
+Lo que significa que tenemos un sistema de control en capas.
+
+00:10:06.000 --> 00:10:08.000
+La capa inferior, nuestro cerebro intestinal,
+
+00:10:08.000 --> 00:10:11.000
+tiene sus propios objetivos: la defensa de la digestión;
+
+00:10:11.000 --> 00:10:13.000
+y tenemos el cerebro superior
+
+00:10:13.000 --> 00:10:15.000
+con el objetivo de la integración
+
+00:10:15.000 --> 00:10:17.000
+y generación de comportamientos.
+
+00:10:17.000 --> 00:10:20.000
+Ambos miran, estas son las flechas azules,
+
+00:10:20.000 --> 00:10:23.000
+ambos miran la misma comida, que está en el lumen,
+
+00:10:23.000 --> 00:10:25.000
+en la zona del intestino.
+
+00:10:25.000 --> 00:10:27.000
+El gran cerebro integra las señales
+
+00:10:27.000 --> 00:10:29.000
+procedentes de los programas en ejecución
+
+00:10:29.000 --> 00:10:31.000
+del cerebro inferior.

@@ -1,0 +1,48 @@
+WEBVTT
+
+00:12:29.800 --> 00:12:32.000
+ta có thể dùng nó như một công thức
+
+00:12:32.000 --> 00:12:35.000
+để chế tạo nên những hệ trực quan
+điều khiển bằng máy móc
+
+00:12:35.000 --> 00:12:38.500
+có thể tự rút kinh nghiệm
+mà không cần được lập trình sẵn
+
+00:12:38.500 --> 00:12:39.830
+bởi một kỹ sư?
+
+00:12:39.830 --> 00:12:42.280
+Và đó là những gì
+chúng tôi đang cố gắng chinh phục.
+
+00:12:42.280 --> 00:12:45.000
+Tôi từ MIT, và ở MIT bạn phải áp dụng
+
+00:12:45.000 --> 00:12:47.000
+bất cứ kiến thức cơ bản nào bạn học được.
+
+00:12:47.000 --> 00:12:49.000
+Chúng tôi đang chế tạo Dylan,
+
+00:12:49.000 --> 00:12:51.000
+một hệ thống máy tính
+
+00:12:51.000 --> 00:12:53.000
+với một mục tiêu đầy tham vọng
+
+00:12:53.000 --> 00:12:55.000
+là lấy những hình ảnh "đầu vào"
+
+00:12:55.000 --> 00:12:58.000
+cùng loại như những hình ảnh
+mà một đứa trẻ nhìn thấy,
+
+00:12:58.000 --> 00:13:00.000
+và tự động giải mã:
+
+00:13:00.000 --> 00:13:03.000
+Những đồ vật trong loạt hình ảnh này
+là gì?

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:27.000 --> 00:06:30.000
+And it's more recently a unifying way
+
+00:06:30.000 --> 00:06:33.000
+to think about how the brain deals with uncertainty.
+
+00:06:33.000 --> 00:06:36.000
+And the fundamental idea is you want to make inferences and then take actions.
+
+00:06:36.000 --> 00:06:38.000
+So let's think about the inference.
+
+00:06:38.000 --> 00:06:40.000
+You want to generate beliefs about the world.
+
+00:06:40.000 --> 00:06:42.000
+So what are beliefs?
+
+00:06:42.000 --> 00:06:44.000
+Beliefs could be: where are my arms in space?
+
+00:06:44.000 --> 00:06:46.000
+Am I looking at a cat or a fox?
+
+00:06:46.000 --> 00:06:49.000
+But we're going to represent beliefs with probabilities.
+
+00:06:49.000 --> 00:06:51.000
+So we're going to represent a belief
+
+00:06:51.000 --> 00:06:53.000
+with a number between zero and one --
+
+00:06:53.000 --> 00:06:56.000
+zero meaning I don't believe it at all, one means I'm absolutely certain.
+
+00:06:56.000 --> 00:06:59.000
+And numbers in between give you the gray levels of uncertainty.
+
+00:06:59.000 --> 00:07:01.000
+And the key idea to Bayesian inference

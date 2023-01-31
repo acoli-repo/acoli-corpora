@@ -1,0 +1,31 @@
+WEBVTT
+
+00:09:57.778 --> 00:10:00.921
+Rakam ve harflerden oluşan bu uzun değişken
+
+00:10:00.921 --> 00:10:05.996
+merkezi bir koordinasyona gerek kalmadan
+
+00:10:05.996 --> 00:10:08.853
+her değişiklikle üretilen biricik belirteçlerden biri.
+
+00:10:08.853 --> 00:10:13.342
+Her Git sistemi bu numarayı aynı yöntemle üretiyor.
+
+00:10:13.342 --> 00:10:16.684
+Böylece yapılan değişiklikten bağımsız,
+
+00:10:16.684 --> 00:10:19.834
+karıştırılamayacak bir imza yaratılmış oluyor.
+
+00:10:19.834 --> 00:10:21.770
+Bu sayede ne elde ettiğimize bakalım
+
+00:10:21.770 --> 00:10:25.448
+Biri Edinburgh'da, diğeri Entebbe'de iki programcı
+
+00:10:25.448 --> 00:10:29.150
+birbirlerinden hiç haberleri yokken, aynı yazılımın
+
+00:10:29.150 --> 00:10:32.976
+bir bölümünün, kopyasını çıkarıp, üzerinde

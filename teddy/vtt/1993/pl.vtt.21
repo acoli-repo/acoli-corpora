@@ -1,0 +1,32 @@
+WEBVTT
+
+00:10:27.653 --> 00:10:30.288
+który odpowiada autentycznym sygnałom.
+
+00:10:30.288 --> 00:10:33.103
+Te trzy czerwone kropki oznaczają punkty śledzące,
+
+00:10:33.103 --> 00:10:35.982
+które utrzymują szczyt w środku.
+
+00:10:35.982 --> 00:10:39.047
+Jednak po wysłaniu sztucznego sygnału GPS,
+
+00:10:39.047 --> 00:10:43.513
+pojawia się kolejny punkt 
+i jeżeli te dwa są do siebie dopasowane
+
+00:10:43.513 --> 00:10:48.231
+to punkty śledzące nie widzą różnicy
+
+00:10:48.231 --> 00:10:51.542
+i zostają uprowadzone przez sztuczny szczyt,
+
+00:10:51.542 --> 00:10:55.502
+który jest silniejszy niż ten autentyczny.
+
+00:10:55.502 --> 00:10:57.669
+W tym momencie wygraliśmy.
+
+00:10:57.669 --> 00:11:01.406
+Sztuczny sygnał całkowicie kontroluje odbiornik.

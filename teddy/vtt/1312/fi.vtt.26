@@ -1,0 +1,44 @@
+WEBVTT
+
+00:12:58.000 --> 00:13:00.000
+ja selvittäisi itsenäisesti,
+
+00:13:00.000 --> 00:13:03.000
+mitä nämä visuaalisen tiedon
+tuottamat objektit ovat.
+
+00:13:03.000 --> 00:13:06.000
+Älkää välittäkö siitä, 
+mistä osista Dylan koostuu.
+
+00:13:06.000 --> 00:13:09.000
+Aion kertoa vain siitä,
+
+00:13:09.000 --> 00:13:11.000
+miten testaamme Dylania.
+
+00:13:11.000 --> 00:13:13.000
+Testaamme Dylania antamalla sille
+
+00:13:13.000 --> 00:13:16.000
+tietoa, joka on samanlaista, 
+kuin mitä vauva
+
+00:13:16.000 --> 00:13:19.000
+tai lapsi Projekti Prakashissa saisi.
+
+00:13:19.000 --> 00:13:22.000
+Pitkään aikaan emme keksineet,
+
+00:13:22.000 --> 00:13:25.000
+kuinka saisimme tämänkaltaista
+videoinformaatiota.
+
+00:13:26.000 --> 00:13:28.000
+Joten ajattelin,
+
+00:13:28.000 --> 00:13:30.000
+voisimmeko käyttää Dariusta
+
+00:13:30.000 --> 00:13:33.000
+vauvakameramme kantajana

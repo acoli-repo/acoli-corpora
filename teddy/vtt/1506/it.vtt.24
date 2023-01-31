@@ -1,0 +1,41 @@
+WEBVTT
+
+00:11:59.467 --> 00:12:01.635
+perché se si gioca troppo sinistra, ad esempio,
+
+00:12:01.635 --> 00:12:04.351
+posso approfittarne se sono il mismatcher giocando poi a destra.
+
+00:12:04.351 --> 00:12:07.115
+E come potete vedere, gli scimpanzé, 
+ogni scimpanzé è un triangolo,
+
+00:12:07.115 --> 00:12:10.962
+formano un cerchio, si aggirano intorno a quella previsione.
+
+00:12:10.962 --> 00:12:12.736
+Ora modifichiamo la ricompensa.
+
+00:12:12.736 --> 00:12:16.179
+In realtà renderemo la ricompensa di sinistra per il matcher un po' più alta.
+
+00:12:16.179 --> 00:12:17.699
+Ora ricevono tre cubetti di mela.
+
+00:12:17.699 --> 00:12:20.499
+Un gioco che teoricamente dovrebbe fare cambiare il comportamento del mismatcher,
+
+00:12:20.499 --> 00:12:22.089
+perché ciò che accade è che il mismatcher penserà:
+
+00:12:22.089 --> 00:12:23.899
+oh, questo tipo ha intenzione di provare a prendere la ricompensa più grande,
+
+00:12:23.899 --> 00:12:26.964
+e così io andrò a destra, assicurandomi di non farglielo intuire.
+
+00:12:26.964 --> 00:12:28.629
+E come si può vedere, il loro comportamento si sposta
+
+00:12:28.629 --> 00:12:32.077
+in direzione di questo cambiamento nell'equilibrio di Nash.

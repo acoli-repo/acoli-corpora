@@ -1,0 +1,40 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:01.000
+aucun des rayons lumineux n'atteindra la cible.
+
+00:05:01.000 --> 00:05:03.000
+On a donc essayé de trouver un moyen pour fabriquer un collecteur de lumière qui n'ait plus à suivre le soleil,
+
+00:05:03.000 --> 00:05:05.000
+un collecteur qui rassemblerait les rayons lumineux sur bien plus d'un degré,
+
+00:05:05.000 --> 00:05:07.000
+sans pièces mobiles.
+
+00:05:07.000 --> 00:05:09.000
+On a donc créé un algorithme génétique pour trouver une solution,
+
+00:05:09.000 --> 00:05:12.000
+on a fait un modèle XL d'un réflecteur multi-surface,
+
+00:05:12.000 --> 00:05:14.000
+et une chose fantastique a évolué, évolué au sens propre,
+
+00:05:14.000 --> 00:05:17.000
+sur plus d'un milliard de cycles, un milliard de tentatives différentes,
+
+00:05:17.000 --> 00:05:21.000
+avec une fonction d'ajustement qui définissait comment collecter le plus de lumière,
+
+00:05:21.000 --> 00:05:23.000
+avec les plus grands angles, sur une journée complète.
+
+00:05:23.000 --> 00:05:25.000
+Et voici la forme après évolution.
+
+00:05:25.000 --> 00:05:28.000
+C'est un collecteur non-suiveur, avec ses six cornes qui ressemblent à des tuyaux de tuba,
+
+00:05:28.000 --> 00:05:31.000
+et chacune d'entre elles collecte la lumière de la manière suivante :

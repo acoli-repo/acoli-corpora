@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:27.000 --> 00:07:30.000
+avoir les mêmes mouvements complexes que ceux réalisés par les danseurs.
+
+00:07:30.000 --> 00:07:32.000
+Nous avons également cherché parmi les nombreux films existants,
+
+00:07:32.000 --> 00:07:34.000
+ceux utilisant la capture de mouvements faciaux,
+
+00:07:34.000 --> 00:07:36.000
+ainsi nous avions pensé que placer des marqueurs sur le visage d'un humain
+
+00:07:36.000 --> 00:07:37.000
+en utilisant la même méthode fonctionnerait.
+
+00:07:37.000 --> 00:07:41.000
+Comme vous pouvez le remarquer, cela nous fournit un rendement plutôt merdique.
+
+00:07:41.000 --> 00:07:44.000
+Il est pour ainsi dire pas convaincant.
+
+00:07:44.000 --> 00:07:46.000
+Nous nous sommes rendus compte que
+
+00:07:46.000 --> 00:07:47.000
+ce dont nous avions besoin,
+
+00:07:47.000 --> 00:07:49.000
+c'étaient les informations situées entre les marqueurs.
+
+00:07:49.000 --> 00:07:52.000
+Nous devions être capable de saisir toutes les subtilités de la peau.
+
+00:07:52.000 --> 00:07:55.000
+Nous avions besoin de voir la peau se déplacer sur les muscles, se déplaçant eux-mêmes sur les os.
+
+00:07:55.000 --> 00:07:57.000
+Nous avions besoin de cernes, de capitons, de rides ainsi que de nombreuses autres caractéristiques physiques.
+
+00:07:57.000 --> 00:08:00.000
+Notre première révélation fut d'avoir à nous résigner à ne plus utiliser la technologie de l'époque,
+
+00:08:00.000 --> 00:08:03.000
+et à nous en éloigner le plus possible.

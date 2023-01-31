@@ -1,0 +1,31 @@
+WEBVTT
+
+00:12:29.714 --> 00:12:32.342
+s'intenta quedar quiet en un punt fix en l'espai.
+
+00:12:32.342 --> 00:12:36.179
+Si provo de moure'l del seu lloc, em contradiu,
+
+00:12:36.179 --> 00:12:40.334
+i es mou altre cop on vol ser.
+
+00:12:40.334 --> 00:12:43.373
+Podem canviar aquest comportament, però.
+
+00:12:43.373 --> 00:12:45.072
+Podem fer servir els models matemàtics
+
+00:12:45.072 --> 00:12:48.205
+per estimar la força que aplico sobre aquest quad.
+
+00:12:48.205 --> 00:12:51.443
+Un cop sabem aquesta força, podem canviar les lleis de la física,
+
+00:12:51.443 --> 00:12:55.942
+com a mínim pel que fa al quad.
+
+00:12:55.942 --> 00:12:58.205
+Aquí tenim el quad comportant-se com si fos
+
+00:12:58.205 --> 00:13:02.570
+dins d'un líquid viscós.

@@ -1,0 +1,28 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+conocido como 3D SLAM, por Localización Y Mapeo Simultáneo.
+
+00:09:01.000 --> 00:09:03.000
+DEPTHX es un ojo que todo lo ve.
+
+00:09:03.000 --> 00:09:07.000
+Sus haces sensores ven hacia adelante y atrás al mismo tiempo
+
+00:09:07.000 --> 00:09:10.000
+permitiéndole realizar nuevas exploraciones
+
+00:09:10.000 --> 00:09:12.000
+mientras aún está fijando una imagen con sensores geométricos
+
+00:09:12.000 --> 00:09:13.000
+de lo que ya ha pasado.
+
+00:09:13.000 --> 00:09:16.000
+Lo que les voy a mostrar a continuación
+
+00:09:16.000 --> 00:09:20.000
+es la primera exploración robótica subterránea totalmente autónoma
+
+00:09:20.000 --> 00:09:23.000
+que se haya hecho jamás.

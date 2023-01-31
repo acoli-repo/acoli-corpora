@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:58.728 --> 00:06:00.358
+Balancing a pole is hard.
+
+00:06:02.171 --> 00:06:06.442
+We've all heard stories of athletes
+performing feats while physically injured.
+
+00:06:06.466 --> 00:06:09.651
+Can a machine also perform
+with extreme physical damage?
+
+00:06:10.636 --> 00:06:12.121
+Conventional wisdom says
+
+00:06:12.145 --> 00:06:16.028
+that you need at least four fixed motor
+propeller pairs in order to fly,
+
+00:06:16.052 --> 00:06:18.576
+because there are four degrees
+of freedom to control:
+
+00:06:18.600 --> 00:06:20.565
+roll, pitch, yaw and acceleration.
+
+00:06:21.192 --> 00:06:24.413
+Hexacopters and octocopters,
+with six and eight propellers,
+
+00:06:24.437 --> 00:06:25.896
+can provide redundancy,
+
+00:06:25.920 --> 00:06:27.885
+but quadrocopters are much more popular
+
+00:06:27.909 --> 00:06:31.595
+because they have the minimum number
+of fixed motor propeller pairs: four.

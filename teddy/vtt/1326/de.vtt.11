@@ -1,0 +1,42 @@
+WEBVTT
+
+00:05:29.738 --> 00:05:33.017
+2 hoch eine Primzahl, minus 1.
+
+00:05:33.017 --> 00:05:35.434
+Ich werde die Gründe 
+nicht näher beleuchten,
+
+00:05:35.434 --> 00:05:38.185
+weil sonst die meisten von Ihnen 
+wohl aus den Augen bluten würden.
+
+00:05:38.185 --> 00:05:42.396
+Sagen wir einfach, 
+dass eine Zahl dieser Form
+
+00:05:42.396 --> 00:05:45.859
+sehr einfach darauf überprüft 
+werden kann, ob sie prim ist.
+
+00:05:45.859 --> 00:05:49.459
+Eine willkürliche ungerade Zahl 
+ist viel schwieriger zu überprüfen.
+
+00:05:49.459 --> 00:05:51.380
+Aber sobald wir die Jagd auf 
+gewaltige Primzahlen beginnen,
+
+00:05:51.380 --> 00:05:53.219
+erkennen wir, dass es nicht reicht,
+
+00:05:53.219 --> 00:05:55.960
+einfach irgendeine Primzahl 
+in die Potenz zu setzen.
+
+00:05:55.960 --> 00:05:58.557
+(2 ^ 11) - 1 = 2047,
+
+00:05:58.557 --> 00:06:01.925
+und ich muss Ihnen nicht sagen, 
+dass das 23 x 89 ist.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:59.000 --> 00:11:01.000
+i stedet for et skakbræt.
+
+00:11:01.000 --> 00:11:04.000
+Man kan læse de binære numre fem, seks og syv.
+
+00:11:04.000 --> 00:11:07.000
+Og for at starte denne slags beregninger rigtigt op,
+
+00:11:07.000 --> 00:11:09.000
+har man brug for en eller anden form for input, et slags kim.
+
+00:11:09.000 --> 00:11:11.000
+Man kan bruge DNA origami til det.
+
+00:11:11.000 --> 00:11:13.000
+Man kan kode tallet 32
+
+00:11:13.000 --> 00:11:15.000
+i den højre side af DNA origami,
+
+00:11:15.000 --> 00:11:17.000
+og når man tilføjer de fliser der tæller,
+
+00:11:17.000 --> 00:11:20.000
+begynder de at tælle -- de vil læse det 32
+
+00:11:20.000 --> 00:11:22.000
+og de stopper ved 32.
+
+00:11:22.000 --> 00:11:25.000
+Det vi har gjort er at vi har fundet på en måde
+
+00:11:25.000 --> 00:11:28.000
+til at have et molekylært program der ved hvornår det skal stoppe med at vokse.
+
+00:11:28.000 --> 00:11:30.000
+Det ved hvornår det skal stoppe med at vokse fordi det kan tælle.
+
+00:11:30.000 --> 00:11:32.000
+Det ved hvor stort det er.

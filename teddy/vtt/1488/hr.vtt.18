@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+Ok, znači računalo izabere određenu jedinicu podatka iz memorije,
+
+00:09:01.000 --> 00:09:04.000
+pošalje je u procesor ili ALU
+
+00:09:04.000 --> 00:09:06.000
+i onda vrati rezultat natrag u memoriju.
+
+00:09:06.000 --> 00:09:08.000
+To je crveno označeni put.
+
+00:09:08.000 --> 00:09:12.000
+Način na koji mozak radi, rekao sam vam, imate puno takvih neurona.
+
+00:09:12.000 --> 00:09:14.000
+I način na koji predstavljaju informacije je
+
+00:09:14.000 --> 00:09:16.000
+da podjele te podatke u male dijelove,
+
+00:09:16.000 --> 00:09:19.000
+koji su predstavljeni impulsima i drugim neuronima.
+
+00:09:19.000 --> 00:09:21.000
+I sada imate sve te dijelove podataka
+
+00:09:21.000 --> 00:09:23.000
+podijeljene kroz mrežu.
+
+00:09:23.000 --> 00:09:26.000
+I onda način na koji obrađujete te podatke kako biste dobili rezultate
+
+00:09:26.000 --> 00:09:30.000
+jest da prevedete taj uzorak aktivnosti u novi uzorak aktivnosti,
+
+00:09:30.000 --> 00:09:33.000
+prateći samo njegov tok kroz mrežu.

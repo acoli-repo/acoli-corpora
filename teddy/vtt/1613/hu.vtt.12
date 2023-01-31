@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:56.000 --> 00:06:01.000
+Ezzel a nem mozgó kialakítással napi 2,5 órán át tudunk energiát gyűjteni.
+
+00:06:01.000 --> 00:06:04.000
+Igaz, a napelemek 4,5 órán keresztül képesek napfényt gyűjteni.
+
+00:06:04.000 --> 00:06:06.000
+Egy átlagos napon egy a napelemen a teljesítmény,
+
+00:06:06.000 --> 00:06:08.000
+- mivel a nap vándorol az égbolton -
+
+00:06:08.000 --> 00:06:11.000
+szinusz függvény szerűen nő és csökken,
+
+00:06:11.000 --> 00:06:13.000
+a merőlegesen kívüli tartományban.
+
+00:06:13.000 --> 00:06:15.000
+Így körülbelül 4,5 órán át gyűjti a napfényt.
+
+00:06:15.000 --> 00:06:18.000
+Az eredményünk nem volt rossz így mozgó alkatrészek nélkül -
+
+00:06:18.000 --> 00:06:20.000
+magas hőmérsékletet tudtunk elérni így is, de ez még nem volt elegendő.
+
+00:06:20.000 --> 00:06:22.000
+Le kellett győznünk a napelemeket.
+
+00:06:22.000 --> 00:06:24.000
+Így egy másik ötletet vettünk elő.
+
+00:06:24.000 --> 00:06:27.000
+Megvizsgáltuk mi történik, ha a parabolát több, külön mozgó sziromra bontjuk szét.
+
+00:06:27.000 --> 00:06:30.000
+Itt láthatják a 12 különálló szirmot,
+
+00:06:30.000 --> 00:06:33.000
+melyeket külön-külön lehet irányítani egy-egy processzorral,

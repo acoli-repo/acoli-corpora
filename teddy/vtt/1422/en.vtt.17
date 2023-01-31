@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:28.000 --> 00:08:30.000
+which is the prior distribution,
+
+00:08:30.000 --> 00:08:32.000
+making it hard for you to return.
+
+00:08:32.000 --> 00:08:34.000
+Now both these sources of information carry important information.
+
+00:08:34.000 --> 00:08:36.000
+And what Bayes' rule says
+
+00:08:36.000 --> 00:08:39.000
+is that I should multiply the numbers on the red by the numbers on the green
+
+00:08:39.000 --> 00:08:42.000
+to get the numbers of the yellow, which have the ellipses,
+
+00:08:42.000 --> 00:08:44.000
+and that's my belief.
+
+00:08:44.000 --> 00:08:47.000
+So it's the optimal way of combining information.
+
+00:08:47.000 --> 00:08:49.000
+Now I wouldn't tell you all this if it wasn't that a few years ago,
+
+00:08:49.000 --> 00:08:51.000
+we showed this is exactly what people do
+
+00:08:51.000 --> 00:08:53.000
+when they learn new movement skills.
+
+00:08:53.000 --> 00:08:55.000
+And what it means
+
+00:08:55.000 --> 00:08:57.000
+is we really are Bayesian inference machines.
+
+00:08:57.000 --> 00:09:01.000
+As we go around, we learn about statistics of the world and lay that down,

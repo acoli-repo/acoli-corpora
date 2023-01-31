@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:27.000 --> 00:06:30.000
+Récemment c'est devenu un moyen unificateur
+
+00:06:30.000 --> 00:06:33.000
+de penser à la façon dont le cerveau gère l'incertitude.
+
+00:06:33.000 --> 00:06:36.000
+Et l'idée fondamentale est que vous voulez faire des inférences et agir.
+
+00:06:36.000 --> 00:06:38.000
+Donc pensons aux inférences.
+
+00:06:38.000 --> 00:06:40.000
+Vous voulez générer des croyances sur le monde.
+
+00:06:40.000 --> 00:06:42.000
+Que sont les croyances ?
+
+00:06:42.000 --> 00:06:44.000
+Les croyances pourraient concerner la place de mes bras dans l'espace.
+
+00:06:44.000 --> 00:06:46.000
+Si je regarde un chat ou un renard.
+
+00:06:46.000 --> 00:06:49.000
+Mais nous allons représenter les croyances par des probabilités.
+
+00:06:49.000 --> 00:06:51.000
+Donc on va représenter une croyance
+
+00:06:51.000 --> 00:06:53.000
+avec un nombre compris entre 0 et 1 —
+
+00:06:53.000 --> 00:06:56.000
+0 signifiant que je ne crois pas du tout, 1 signifiant que je suis absolument certain.
+
+00:06:56.000 --> 00:06:59.000
+Et les nombres entre deux vous donnent les niveaux gris d'incertitude.
+
+00:06:59.000 --> 00:07:01.000
+Et l'idée-clé de l'inférence bayésienne

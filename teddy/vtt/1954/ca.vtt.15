@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:28.540 --> 00:07:30.796
+arquitectures de màquines originals,
+
+00:07:30.796 --> 00:07:34.972
+o dissenyar algorismes intel·ligents que responen a les averies de forma eficient i elegant,
+
+00:07:34.972 --> 00:07:36.696
+tal i com els atletes humans fan,
+
+00:07:36.696 --> 00:07:40.519
+en lloc de necessitar redundància.
+
+00:07:40.519 --> 00:07:42.631
+No podem evitar la sorpresa quan veiem
+
+00:07:42.631 --> 00:07:45.068
+un saltador olímpic fent un mortal per entrar a l'aigua,
+
+00:07:45.068 --> 00:07:46.858
+o el moment en què un gimnasta olímpic gira en l'aire,
+
+00:07:46.858 --> 00:07:48.576
+amb el terra apropant-se a alta velocitat.
+
+00:07:48.576 --> 00:07:51.144
+Aconseguirà entrar netament i apropiada a la piscina?
+
+00:07:51.144 --> 00:07:53.144
+Aconseguirà el gimnasta prendre terra en la posició adequada?
+
+00:07:53.144 --> 00:07:54.812
+Suposeu que volem que aquest quad
+
+00:07:54.812 --> 00:07:57.263
+faci tres voltes consecutives en l'aire i finalitzi
+
+00:07:57.263 --> 00:07:59.532
+al mateix precís lloc on ha començat.
+
+00:07:59.532 --> 00:08:01.879
+Aquesta maniobra ha de passar tant ràpid

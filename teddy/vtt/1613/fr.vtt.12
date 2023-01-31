@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:56.000 --> 00:06:01.000
+Donc, pendant environ deux heures et demie dans une journée, on peut collecter l'énergie solaire avec un système statique.
+
+00:06:01.000 --> 00:06:04.000
+Mais les cellules photovoltaïques collectent la lumière pendant quatre heures et demie.
+
+00:06:04.000 --> 00:06:06.000
+En une journée, un panneau solaire...
+
+00:06:06.000 --> 00:06:08.000
+parce que le soleil se déplace dans le ciel,
+
+00:06:08.000 --> 00:06:11.000
+la performance du panneau solaire a la forme d'une fonction sinus et donc diminue
+
+00:06:11.000 --> 00:06:13.000
+pour la lumière très desaxée.
+
+00:06:13.000 --> 00:06:15.000
+Ils collectent le rayonnement du soleil pendant quatre heures et demie en moyenne.
+
+00:06:15.000 --> 00:06:18.000
+Donc, même ça, même si ça a un bon rendement sans partie mobile -
+
+00:06:18.000 --> 00:06:20.000
+et qu'on pouvait atteindre de hautes températures - ce n'était pas assez.
+
+00:06:20.000 --> 00:06:22.000
+On devait battre les panneaux solaires.
+
+00:06:22.000 --> 00:06:24.000
+Donc on s'est penché sur une autre idée.
+
+00:06:24.000 --> 00:06:27.000
+On a cherché comment on pourrait diviser une parabole en pétales qui suivraient le soleil indépendemment.
+
+00:06:27.000 --> 00:06:30.000
+Donc, ce que vous voyez là, c'est 12 pétales différents,
+
+00:06:30.000 --> 00:06:33.000
+chacun peut être contrôlé par un microprocesseur individuel

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:27.932 --> 00:07:30.112
+Portanto, podia escrever 
+esse conjunto de regras
+
+00:07:30.112 --> 00:07:33.507
+que traduzem essa representação 
+especial para o inglês,
+
+00:07:33.507 --> 00:07:35.338
+E desenvolvi uma coisa.
+
+00:07:35.338 --> 00:07:37.570
+Desenvolvi aquilo a que chamei 
+FreeSpeech Engine
+
+00:07:37.570 --> 00:07:40.131
+que agarra em qualquer frase 
+do FreeSpeech, como dados,
+
+00:07:40.131 --> 00:07:44.061
+e produz um texto inglês 
+perfeitamente gramatical.
+
+00:07:44.061 --> 00:07:45.666
+E, ao juntar estas duas peças,
+
+00:07:45.666 --> 00:07:47.547
+a representação e o motor,
+
+00:07:47.547 --> 00:07:51.343
+pude criar uma aplicação, 
+uma tecnologia para crianças autistas
+
+00:07:51.343 --> 00:07:53.842
+que não só lhes dá palavras,
+
+00:07:53.842 --> 00:07:57.783
+mas também lhes dá uma gramática.
+
+00:07:57.783 --> 00:08:00.143
+Então testei isto com crianças autistas,

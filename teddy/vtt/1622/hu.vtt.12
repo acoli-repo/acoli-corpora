@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:58.673 --> 00:06:01.644
+pontosan nyomon követik egymás helyzetét,
+
+00:06:01.644 --> 00:06:04.381
+és ki tudnak térni a másik elől.
+
+00:06:04.381 --> 00:06:07.607
+Ahogy egyre több robotot vontunk be a tesztbe,
+
+00:06:07.607 --> 00:06:09.078
+beleütköztünk néhány problémába.
+
+00:06:09.078 --> 00:06:11.437
+Az egyik probléma az, mikor túl sokat csevegnek,
+
+00:06:11.437 --> 00:06:15.165
+nehéz az összes adatot feldolgozni, így fontossági sorrendet
+
+00:06:15.165 --> 00:06:17.522
+kell felállítanunk. Itt segít a következtető modell.
+
+00:06:17.522 --> 00:06:21.894
+Ha robotautóink mind nyomon követik az előrejelzett pályagörbéket,
+
+00:06:21.894 --> 00:06:23.661
+akkor nem kell akkora figyelmet fordítanunk azokra az adatokra.
+
+00:06:23.661 --> 00:06:25.364
+Arra az egy pasasra fordítunk
+
+00:06:25.364 --> 00:06:26.697
+nagyobb figyelmet, aki látszólag letér az útról.
+
+00:06:26.697 --> 00:06:29.223
+Az a pasas probléma lehet.
+
+00:06:29.223 --> 00:06:32.225
+És előrejelezhetjük az új pályagörbét.

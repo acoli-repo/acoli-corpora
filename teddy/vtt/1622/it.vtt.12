@@ -1,0 +1,47 @@
+WEBVTT
+
+00:05:58.673 --> 00:06:01.644
+registrano l'esatta 
+posizione reciproca,
+
+00:06:01.644 --> 00:06:04.381
+così possono evitarsi.
+
+00:06:04.381 --> 00:06:07.607
+Stiamo aggiungendo 
+sempre più robot all'insieme
+
+00:06:07.607 --> 00:06:09.078
+e sono sorti alcuni problemi.
+
+00:06:09.078 --> 00:06:11.437
+Uno di questi è che quando
+ci sono troppe conversazioni,
+
+00:06:11.437 --> 00:06:15.165
+è difficile elaborare tutti i pacchetti, 
+quindi è necessario dare delle priorità,
+
+00:06:15.165 --> 00:06:17.522
+ed ecco che ci viene 
+in aiuto il modello predittivo.
+
+00:06:17.522 --> 00:06:21.894
+Se tutte le auto-robot stanno
+seguendo le traiettorie previste,
+
+00:06:21.894 --> 00:06:23.661
+non si dedica troppa
+attenzione a questi pacchetti.
+
+00:06:23.661 --> 00:06:25.364
+Si dà la priorità a chi
+
+00:06:25.364 --> 00:06:26.697
+mostra una piccola anomalia.
+
+00:06:26.697 --> 00:06:29.223
+Lui potrebbe costituire un problema.
+
+00:06:29.223 --> 00:06:32.225
+E si può prevedere la nuova traiettoria.

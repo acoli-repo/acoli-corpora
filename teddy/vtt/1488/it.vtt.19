@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:26.000 --> 00:09:30.000
+traducendo questo schema di attività in un nuovo schema di attività,
+
+00:09:30.000 --> 00:09:33.000
+facendolo scorrere nel network.
+
+00:09:33.000 --> 00:09:35.000
+Si generano così queste connessioni,
+
+00:09:35.000 --> 00:09:38.000
+tali per cui lo schema d'ingresso scorre
+
+00:09:38.000 --> 00:09:40.000
+e genera lo schema di uscita.
+
+00:09:40.000 --> 00:09:44.000
+Qui potete notare la presenza di queste connessioni ridondanti.
+
+00:09:44.000 --> 00:09:48.000
+Così se questo o quel pezzo di informazione viene distrutto,
+
+00:09:48.000 --> 00:09:53.000
+e qui non si vede, questi due pezzi possono attivare la parte mancante
+
+00:09:53.000 --> 00:09:55.000
+grazie a queste connessioni ridondanti.
+
+00:09:55.000 --> 00:09:57.000
+E così anche con questi strumenti modesti,
+
+00:09:57.000 --> 00:10:00.000
+che a volte danno zero quando desideri un uno,
+
+00:10:00.000 --> 00:10:02.000
+la ridondanza del network

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:01.000
+żaden z promieni nie trafi w punkt skupienia.
+
+00:05:01.000 --> 00:05:03.000
+Postanowiliśmy zrobić kolektor który nie musi śledzić,
+
+00:05:03.000 --> 00:05:05.000
+taki, który zbierałby światło z więcej niż jednego stopnia,
+
+00:05:05.000 --> 00:05:07.000
+bez ruchomych części.
+
+00:05:07.000 --> 00:05:09.000
+Stworzyliśmy algorytm genetyczny, żeby to wypróbował,
+
+00:05:09.000 --> 00:05:12.000
+zrobiliśmy w XL model wielopowierzchniowego zwierciadła,
+
+00:05:12.000 --> 00:05:14.000
+i niesamowite rzeczy dosłownie wyewoluowały,
+
+00:05:14.000 --> 00:05:17.000
+z biliona prób
+
+00:05:17.000 --> 00:05:21.000
+z funkcją przystosowawczą która określała jak można zebrać najwięcej światła,
+
+00:05:21.000 --> 00:05:23.000
+z jak największej ilości kątów, w ciągu dnia, ze słońca.
+
+00:05:23.000 --> 00:05:25.000
+A to jest kształt, który wyewoluował.
+
+00:05:25.000 --> 00:05:28.000
+To jest właśnie nieśledzący kolektor z tymi sześcioma trąbkami.
+
+00:05:28.000 --> 00:05:31.000
+Każda z nich zbiera światło w następujący sposób -

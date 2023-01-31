@@ -1,0 +1,44 @@
+WEBVTT
+
+00:12:57.821 --> 00:13:00.210
+Mã kia trông khá giống với tất cả những mã khác
+
+00:13:00.210 --> 00:13:02.448
+trong hệ thống.
+
+00:13:02.448 --> 00:13:04.849
+Vì thế mà tôi không thể nào tìm ra đâu là mã kiểm soát cục pin,
+
+00:13:04.849 --> 00:13:06.860
+nhưng có nhiều thứ cũng tương tự nhau như thế.
+
+00:13:06.860 --> 00:13:08.714
+Bạn có đoạn mã kiểm soát màn hình,
+
+00:13:08.714 --> 00:13:10.930
+kiểm soát những nút nhấn, kiểm soát micro,
+
+00:13:10.930 --> 00:13:12.858
+thậm chí nếu như tôi không thể tìm thấy mật mã cho cục pin,
+
+00:13:12.858 --> 00:13:15.103
+thì tôi vẫn tìm thấy được 
+một trong số chúng.
+
+00:13:15.103 --> 00:13:17.808
+Bước tiếp theo trong quá trình phân tích hệ nhị phân của tôi
+
+00:13:17.808 --> 00:13:19.039
+là tìm kiếm những mẩu thông tin
+
+00:13:19.039 --> 00:13:21.057
+tương tự nhau.
+
+00:13:21.057 --> 00:13:25.040
+Thực sự rất khó để làm ở cấp độ nhị phân,
+
+00:13:25.040 --> 00:13:28.683
+nhưng nếu chúng ta cắt nghĩa những điểm giống nhau này thành sự trừu tượng trong thị giác,
+
+00:13:28.683 --> 00:13:31.121
+thì tôi thậm chí không cần phải ngồi lọc từng dãy dữ liệu như thế này.

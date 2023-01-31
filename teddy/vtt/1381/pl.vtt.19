@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:30.000
+Postać stoi przed kamerami,
+
+00:09:30.000 --> 00:09:32.000
+które, klatka za klatką,
+
+00:09:32.000 --> 00:09:35.000
+rekonstruują ruchy obiektu w danym momencie.
+
+00:09:35.000 --> 00:09:40.000
+Dzięki temu otrzymujemy trójwymiarowe dane w czasie rzeczywistym.
+
+00:09:40.000 --> 00:09:43.000
+I jeśli spojrzymy na porównanie,
+
+00:09:43.000 --> 00:09:46.000
+po lewej stronie widzimy, co dają dane wolumetryczne
+
+00:09:46.000 --> 00:09:48.000
+a po prawej- co punkty.
+
+00:09:49.000 --> 00:09:51.000
+Ewidentnie, było to już coś lepszego.
+
+00:09:51.000 --> 00:09:53.000
+Niestety, były to dopiero początki tej technologii
+
+00:09:53.000 --> 00:09:55.000
+i nie była jeszcze do końca sprawdzona.
+
+00:09:55.000 --> 00:09:57.000
+Zmierzyliśmy złożoność i wierność danych
+
+00:09:57.000 --> 00:09:59.000
+pod kątem grafiki trójwymiarowej.
+
+00:09:59.000 --> 00:10:02.000
+Po lewej widać 100 000 wielokątów.

@@ -1,0 +1,38 @@
+WEBVTT
+
+00:10:27.653 --> 00:10:30.288
+der sich mit den echten Signalen deckt.
+
+00:10:30.288 --> 00:10:33.103
+Diese drei roten Punkte 
+stellen die Ortungspunkte dar,
+
+00:10:33.103 --> 00:10:35.982
+die versuchen, 
+auf dem Peak zentriert zu bleiben.
+
+00:10:35.982 --> 00:10:39.047
+Wenn man aber 
+ein gefälschtes GPS-Signal sendet,
+
+00:10:39.047 --> 00:10:43.513
+taucht ein weiterer Peak auf. Bringt man 
+diese beiden Peaks perfekt in Deckung,
+
+00:10:43.513 --> 00:10:48.231
+können die Ortungspunkte 
+den Unterschied nicht feststellen.
+
+00:10:48.231 --> 00:10:51.542
+Sie werden vom stärkeren, 
+gefälschten Signal fixiert,
+
+00:10:51.542 --> 00:10:55.502
+das den originalen Peak wegdrängt.
+
+00:10:55.502 --> 00:10:57.669
+An dieser Stelle ist das Spiel verloren.
+
+00:10:57.669 --> 00:11:01.406
+Jetzt kontrollieren die gefälschten 
+Signale den GPS-Empfänger.

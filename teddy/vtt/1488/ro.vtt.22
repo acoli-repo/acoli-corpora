@@ -1,0 +1,37 @@
+WEBVTT
+
+00:10:56.000 --> 00:11:00.000
+o efectuează când emit fișiere video pe Internet.
+
+00:11:00.000 --> 00:11:01.000
+Ele vor să comprime informația --
+
+00:11:01.000 --> 00:11:05.000
+ele vor să trimită doar schimbările, ce e nou într-o imagine, ș.a.m.d. --
+
+00:11:05.000 --> 00:11:08.000
+și așa globul dvs. ocular
+
+00:11:08.000 --> 00:11:11.000
+este capabil să comprime atât de multă informație de-a lungul nervului optic
+
+00:11:11.000 --> 00:11:13.000
+pentru a trimite spre restul creierului.
+
+00:11:13.000 --> 00:11:16.000
+În loc de a realiza asta prin software, sau prin diferiți algoritmi,
+
+00:11:16.000 --> 00:11:19.000
+am fost și am discutat cu neurobiologi
+
+00:11:19.000 --> 00:11:23.000
+care au realizat efectiv o inginerie inversă a acelei porțiuni din creier numită retină.
+
+00:11:23.000 --> 00:11:25.000
+Și au putut diferenția toate tipurile de celule,
+
+00:11:25.000 --> 00:11:28.000
+și au evidențiat rețeaua, iar noi am luat pur și simplu acea rețea
+
+00:11:28.000 --> 00:11:32.000
+și am folosit-o ca tipar pentru design-ul unui cip din silicon.

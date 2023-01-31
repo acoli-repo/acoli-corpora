@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:26.000 --> 00:09:30.000
+komt erop neer dat je dit patroon van activiteit vertaalt naar een nieuw patroon van activiteit
+
+00:09:30.000 --> 00:09:33.000
+door het door het netwerk te laten stromen.
+
+00:09:33.000 --> 00:09:35.000
+Je stelt deze verbindingen
+
+00:09:35.000 --> 00:09:38.000
+zodanig in dat het inputpatroon vanzelf
+
+00:09:38.000 --> 00:09:40.000
+door het stromen het outputpatroon genereert.
+
+00:09:40.000 --> 00:09:44.000
+Je ziet hier deze redundante verbindingen.
+
+00:09:44.000 --> 00:09:48.000
+Als het een of andere stuk gegevens er de brui aan geeft
+
+00:09:48.000 --> 00:09:53.000
+en hier niet komt opdagen, kunnen deze twee stukken het ontbrekende deel activeren
+
+00:09:53.000 --> 00:09:55.000
+met deze redundante verbindingen.
+
+00:09:55.000 --> 00:09:57.000
+Dus zelfs wanneer je met gebrekkige apparaten zit
+
+00:09:57.000 --> 00:10:00.000
+waar je soms een één wil en een nul krijgt,
+
+00:10:00.000 --> 00:10:02.000
+kan redundantie in het netwerk

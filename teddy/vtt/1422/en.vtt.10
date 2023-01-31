@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:01.000
+these signals are not the beautiful signals you want them to be.
+
+00:05:01.000 --> 00:05:03.000
+So one thing that makes controlling movement difficult
+
+00:05:03.000 --> 00:05:06.000
+is, for example, sensory feedback is extremely noisy.
+
+00:05:06.000 --> 00:05:09.000
+Now by noise, I do not mean sound.
+
+00:05:09.000 --> 00:05:11.000
+We use it in the engineering and neuroscience sense
+
+00:05:11.000 --> 00:05:13.000
+meaning a random noise corrupting a signal.
+
+00:05:13.000 --> 00:05:16.000
+So the old days before digital radio when you were tuning in your radio
+
+00:05:16.000 --> 00:05:18.000
+and you heard "crrcckkk" on the station you wanted to hear,
+
+00:05:18.000 --> 00:05:20.000
+that was the noise.
+
+00:05:20.000 --> 00:05:23.000
+But more generally, this noise is something that corrupts the signal.
+
+00:05:23.000 --> 00:05:25.000
+So for example, if you put your hand under a table
+
+00:05:25.000 --> 00:05:27.000
+and try to localize it with your other hand,
+
+00:05:27.000 --> 00:05:29.000
+you can be off by several centimeters
+
+00:05:29.000 --> 00:05:31.000
+due to the noise in sensory feedback.

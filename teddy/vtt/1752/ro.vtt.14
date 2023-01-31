@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:59.705 --> 00:07:02.640
+și mă joc cu ea de multe luni.
+
+00:07:02.640 --> 00:07:05.366
+Am încercat multe combinații pentru asta.
+
+00:07:05.366 --> 00:07:07.655
+După care am realizat ceva interesant.
+
+00:07:07.655 --> 00:07:10.898
+Încercam să înlocuiesc limbajul,
+
+00:07:10.898 --> 00:07:13.282
+propozițiile din engleză cu propozițiile din FreeSpeech
+
+00:07:13.282 --> 00:07:15.034
+și vice-versa.
+
+00:07:15.034 --> 00:07:17.289
+Mi-am dat seama că această configurație în particular,
+
+00:07:17.289 --> 00:07:19.315
+acest mod de a reprezenta limba,
+
+00:07:19.315 --> 00:07:23.710
+mi-a permis să creez reguli foarte concise
+
+00:07:23.710 --> 00:07:26.444
+între FreeSpeech
+
+00:07:26.444 --> 00:07:27.932
+și limba engleză.
+
+00:07:27.932 --> 00:07:30.112
+Puteam scrie un set de reguli

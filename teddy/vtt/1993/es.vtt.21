@@ -1,0 +1,35 @@
+WEBVTT
+
+00:10:27.653 --> 00:10:30.288
+que se corresponde
+con las señales auténticas.
+
+00:10:30.288 --> 00:10:33.103
+Estos puntos rojos representan
+los puntos de búsqueda
+
+00:10:33.103 --> 00:10:35.982
+que intentan centrarse en ese punto.
+
+00:10:35.982 --> 00:10:39.047
+Pero si envían una señal GPS falsa,
+
+00:10:39.047 --> 00:10:43.513
+surge otro pico y se pueden alinear
+
+00:10:43.513 --> 00:10:48.231
+ambos puntos perfectamente,
+el rastreador no nota la diferencia
+
+00:10:48.231 --> 00:10:51.542
+y es anulado por la falsa señal más potente
+
+00:10:51.542 --> 00:10:55.502
+que oculta la señal verdadera.
+
+00:10:55.502 --> 00:10:57.669
+En ese momento acaba el juego.
+
+00:10:57.669 --> 00:11:01.406
+Las señales falsas toman
+el control del receptor GPS.

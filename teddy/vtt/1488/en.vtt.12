@@ -1,0 +1,25 @@
+WEBVTT
+
+00:05:59.000 --> 00:06:03.000
+you get an increase in the amount of current, and you get a steady flow of current.
+
+00:06:03.000 --> 00:06:07.000
+And when you turn off the gate, there's no current flowing through the device.
+
+00:06:07.000 --> 00:06:12.000
+Your computer uses this presence of current to represent a one,
+
+00:06:12.000 --> 00:06:16.000
+and the absence of current to represent a zero.
+
+00:06:16.000 --> 00:06:22.000
+Now, what's happening is that as transistors are getting smaller and smaller and smaller,
+
+00:06:22.000 --> 00:06:24.000
+they no longer behave like this.
+
+00:06:24.000 --> 00:06:29.000
+In fact, they are starting to behave like the device that neurons use to compute,
+
+00:06:29.000 --> 00:06:31.000
+which is called an ion channel.

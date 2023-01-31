@@ -1,0 +1,25 @@
+WEBVTT
+
+00:05:59.000 --> 00:06:03.000
+prąd wzrasta i mamy stały jego przepływ.
+
+00:06:03.000 --> 00:06:07.000
+A gdy wyłączymy bramkę, przez urządzenie nie płynie prąd.
+
+00:06:07.000 --> 00:06:12.000
+Komputery używają obecności prądu jako reprezentacji jedynki
+
+00:06:12.000 --> 00:06:16.000
+a braku prądu jako reprezentacji zera.
+
+00:06:16.000 --> 00:06:22.000
+Teraz, gdy tranzystory stają się coraz mniejsze i mniejsze,
+
+00:06:22.000 --> 00:06:24.000
+przestają się tak zachowywać.
+
+00:06:24.000 --> 00:06:29.000
+Zaczynają zachowywać się jak mechanizm wykorzystywany do obliczeń w neuronach,
+
+00:06:29.000 --> 00:06:31.000
+nazywany kanałem jonowym.

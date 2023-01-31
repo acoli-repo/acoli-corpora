@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:24.875 --> 00:09:30.327
+is resources, finding and collecting them.
+
+00:09:30.327 --> 00:09:32.000
+And to do this, ants solve the problem
+
+00:09:32.000 --> 00:09:33.258
+of collective search,
+
+00:09:33.258 --> 00:09:34.834
+and this is a problem that's of great interest
+
+00:09:34.834 --> 00:09:36.318
+right now in robotics,
+
+00:09:36.318 --> 00:09:38.050
+because we've understood that,
+
+00:09:38.050 --> 00:09:39.664
+rather than sending a single,
+
+00:09:39.664 --> 00:09:43.159
+sophisticated, expensive robot out
+
+00:09:43.159 --> 00:09:44.576
+to explore another planet
+
+00:09:44.576 --> 00:09:47.143
+or to search a burning building,
+
+00:09:47.143 --> 00:09:49.743
+that instead, it may be more effective
+
+00:09:49.743 --> 00:09:54.120
+to get a group of cheaper robots
+
+00:09:54.120 --> 00:09:56.665
+exchanging only minimal information,
+
+00:09:56.665 --> 00:09:59.464
+and that's the way that ants do it.
+
+00:09:59.464 --> 00:10:01.229
+So the invasive Argentine ant

@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:28.000 --> 00:07:30.000
+Felírtam ide a képletet.
+
+00:07:30.000 --> 00:07:32.000
+Nem fogom elmagyarázni, mi ez a képlet, de nagyon szép.
+
+00:07:32.000 --> 00:07:35.000
+Valódi szépség és valódi magyarázat rejlik benne.
+
+00:07:35.000 --> 00:07:37.000
+És ami a lényege, s amit meg is tippelhetünk,
+
+00:07:37.000 --> 00:07:39.000
+az az érzéki észlelésünk következtében
+
+00:07:39.000 --> 00:07:41.000
+keletkező különböző hiedelmek valószínűsége.
+
+00:07:41.000 --> 00:07:43.000
+Hadd hozzak fel egy intuitív példát.
+
+00:07:43.000 --> 00:07:46.000
+Képzeljük el, hogy teniszezni tanulunk,
+
+00:07:46.000 --> 00:07:48.000
+és azt szeretnénk kiszámítani, hogy a labda hol fog lepattanni,
+
+00:07:48.000 --> 00:07:50.000
+amint közeledik felénk a háló felett.
+
+00:07:50.000 --> 00:07:52.000
+Két információforrásunk van ehhez,
+
+00:07:52.000 --> 00:07:54.000
+a Bayes-féle törvény szerint.
+
+00:07:54.000 --> 00:07:57.000
+Van az érzékszervi észlelés -- használhatjuk a vizuális és a hallott információkat
+
+00:07:57.000 --> 00:08:00.000
+és ezek szerint arra juthatunk, hogy azon a piros folton fog földet érni.
+
+00:08:00.000 --> 00:08:03.000
+Tudjuk azonban, hogy az érzékszerveink nem tökéletesek,

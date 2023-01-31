@@ -1,0 +1,35 @@
+WEBVTT
+
+00:09:29.208 --> 00:09:31.929
+als bei herkömmlichen 
+Versionskontrollsystemen.
+
+00:09:31.929 --> 00:09:36.238
+Aber das ist auch das, 
+was das Chaos zurück bringt,
+
+00:09:36.238 --> 00:09:39.288
+und das ist die zweite große Innovation von Git.
+
+00:09:39.288 --> 00:09:43.284
+Dies ist ein Screenshot von GitHub, 
+dem wichtigsten Git-Hosting-Dienst,
+
+00:09:43.284 --> 00:09:46.634
+und jedes Mal, wenn ein Programmierer Git benutzt,
+
+00:09:46.634 --> 00:09:49.795
+um überhaupt irgendeine
+wichtige Änderung vorzunehmen,
+
+00:09:49.795 --> 00:09:53.104
+eine neue Datei anzulegen 
+oder eine bestehende zu ändern
+
+00:09:53.104 --> 00:09:57.778
+oder zwei Dateien zusammenzuführen, 
+erstellt Git diese Art von Signatur.
+
+00:09:57.778 --> 00:10:00.921
+Diese lange Zeichenfolge 
+aus Zahlen und Buchstaben hier

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:57.072 --> 00:12:00.281
+Uma das formas que colocamos em prática
+no meu laboratório e estúdio
+
+00:12:00.281 --> 00:12:03.000
+consiste em traduzirmos a luz em som
+
+00:12:03.000 --> 00:12:06.281
+e possibilitarmos às pessoas
+ouvirem o seu mundo visual.
+
+00:12:07.327 --> 00:12:10.154
+Elas podem navegar pelo mundo
+usando os seus ouvidos.
+
+00:12:10.154 --> 00:12:13.081
+Este é o David, à direita.
+Está a segurar uma câmara.
+
+00:12:13.445 --> 00:12:15.445
+À esquerda está o que a câmara dele vê.
+
+00:12:15.445 --> 00:12:18.381
+Vemos que há uma linha ténue
+que separa a imagem.
+
+00:12:18.381 --> 00:12:21.136
+Essa linha está dividida em 32 quadrados.
+
+00:12:21.136 --> 00:12:23.381
+Para cada quadrado,
+calculamos a cor média.
+
+00:12:23.381 --> 00:12:25.490
+Depois traduzimos essa informação em som.
+
+00:12:25.881 --> 00:12:27.836
+Agora ele vai
+
+00:12:28.345 --> 00:12:30.763
+virar-se, fechar os olhos,

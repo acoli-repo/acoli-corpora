@@ -1,0 +1,47 @@
+WEBVTT
+
+00:11:59.427 --> 00:12:01.854
+because if you play left
+too much, for example,
+
+00:12:01.878 --> 00:12:04.844
+I can exploit that if I'm the mismatcher
+by then playing right.
+
+00:12:04.868 --> 00:12:07.840
+And as you can see, the chimps --
+each chimp is one triangle --
+
+00:12:07.864 --> 00:12:10.523
+are circled around,
+hovering around that prediction.
+
+00:12:11.205 --> 00:12:12.911
+Now we move the payoffs.
+
+00:12:12.935 --> 00:12:16.422
+We're going to make the left-left payoff
+for the matcher a little higher.
+
+00:12:16.446 --> 00:12:17.941
+Now they get three apple cubes.
+
+00:12:17.965 --> 00:12:21.240
+Game theoretically, that should
+make the mismatcher's behavior shift:
+
+00:12:21.264 --> 00:12:24.771
+the mismatcher will think, "Oh, this guy's
+going to go for the big reward,
+
+00:12:24.795 --> 00:12:27.323
+so I'll go to the right,
+make sure he doesn't get it."
+
+00:12:27.347 --> 00:12:29.375
+And as you can see,
+their behavior moves up
+
+00:12:29.399 --> 00:12:32.097
+in the direction of this change
+in the Nash equilibrium.

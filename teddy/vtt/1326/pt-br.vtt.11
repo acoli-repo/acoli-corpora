@@ -1,0 +1,39 @@
+WEBVTT
+
+00:05:29.738 --> 00:05:33.017
+2 elevado a um número primo, menos 1.
+
+00:05:33.017 --> 00:05:35.434
+Não vou entrar 
+em muitos detalhes do porquê,
+
+00:05:35.434 --> 00:05:38.185
+pois os olhos da maioria de vocês 
+vai saltar das órbitas se eu o fizer,
+
+00:05:38.185 --> 00:05:42.396
+mas basta dizer que é fácil verificar
+
+00:05:42.396 --> 00:05:45.859
+se um número com esse formato é primo.
+
+00:05:45.859 --> 00:05:49.459
+Um número ímpar aleatório 
+é bem mais difícil de verificar.
+
+00:05:49.459 --> 00:05:51.380
+Mas, logo que começamos 
+a busca por números primos,
+
+00:05:51.380 --> 00:05:53.219
+percebemos que não basta
+
+00:05:53.219 --> 00:05:55.960
+simplesmente colocar 
+qualquer número primo na potência.
+
+00:05:55.960 --> 00:05:58.557
+(2 ^ 11) - 1 = 2.047,
+
+00:05:58.557 --> 00:06:01.925
+e não preciso dizer que isso é 23 x 89.

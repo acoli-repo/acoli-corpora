@@ -1,0 +1,45 @@
+WEBVTT
+
+00:10:57.669 --> 00:11:01.406
+De valse signalen besturen dan de gps-ontvanger.
+
+00:11:01.406 --> 00:11:02.901
+Is dit echt mogelijk?
+
+00:11:02.901 --> 00:11:04.624
+Kan iemand werkelijk de timing
+
+00:11:04.624 --> 00:11:06.606
+en positionering van een gps-ontvanger manipuleren,
+
+00:11:06.606 --> 00:11:09.485
+zomaar, met een spoofer?
+
+00:11:09.485 --> 00:11:11.500
+Het korte antwoord is: ja.
+
+00:11:11.500 --> 00:11:14.304
+De sleutel is dat civiele gps-signalen
+
+00:11:14.304 --> 00:11:15.406
+volledig open zijn.
+
+00:11:15.406 --> 00:11:19.397
+Er is geen encryptie. 
+Ze hebben geen authenticatie.
+
+00:11:19.397 --> 00:11:22.892
+Ze zijn volledig open 
+en kwetsbaar voor een spoofingaanval.
+
+00:11:22.892 --> 00:11:25.467
+Tot zeer kort geleden
+
+00:11:25.467 --> 00:11:27.859
+maakte niemand zich zorgen om gps-spoofers.
+
+00:11:27.859 --> 00:11:29.837
+Men dacht dat dit voor een hacker te ingewikkeld
+
+00:11:29.837 --> 00:11:32.652
+of te duur zou zijn om te bouwen.

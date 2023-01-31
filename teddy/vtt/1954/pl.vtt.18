@@ -1,0 +1,26 @@
+WEBVTT
+
+00:09:10.496 --> 00:09:13.628
+Ten kwadrokopter ma rakietę
+przymocowaną na wierzchu
+
+00:09:13.628 --> 00:09:17.246
+z punktem odbicia wielkości jabłka,
+więc niedużym.
+
+00:09:17.246 --> 00:09:21.572
+Obliczenia są robione co 20 ms,
+czyli 50 razy na sekundę.
+
+00:09:21.582 --> 00:09:24.691
+Najpierw określamy, gdzie leci piłka.
+
+00:09:24.691 --> 00:09:27.500
+Potem obliczamy,
+jak robot powinien uderzyć,
+
+00:09:27.500 --> 00:09:29.918
+by piłka wróciła do punktu wyjścia.
+
+00:09:29.918 --> 00:09:32.496
+Po trzecie, ustalana jest trajektoria,

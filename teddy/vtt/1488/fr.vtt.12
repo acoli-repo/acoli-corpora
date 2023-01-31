@@ -1,0 +1,25 @@
+WEBVTT
+
+00:05:59.000 --> 00:06:03.000
+on obtient une augmentation de la quantité de courant, il y a un flux constant de courant.
+
+00:06:03.000 --> 00:06:07.000
+Et quand on désactive le pont, le courant ne passe plus.
+
+00:06:07.000 --> 00:06:12.000
+Votre ordinateur utilise la présence de courant pour réprésenter un un,
+
+00:06:12.000 --> 00:06:16.000
+et l'absence de courant pour représenter un zéro.
+
+00:06:16.000 --> 00:06:22.000
+Mais maintenant, ce qui se passe, c'est que les transistors sont vraiment de plus en plus petits.
+
+00:06:22.000 --> 00:06:24.000
+Ils ne se comportent plus comme ça.
+
+00:06:24.000 --> 00:06:29.000
+En fait, Ils commencent à se comporter comme ce que les neurones utilisent pour calculer,
+
+00:06:29.000 --> 00:06:31.000
+ce qu'on appelle les canaux ioniques.

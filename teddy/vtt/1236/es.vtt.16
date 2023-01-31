@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:01.000
+estos símbolos parecidos a peces y algunos otros signos,
+
+00:08:01.000 --> 00:08:03.000
+pero nunca estos otros signos de abajo.
+
+00:08:03.000 --> 00:08:05.000
+Y además, hay algunos signos
+
+00:08:05.000 --> 00:08:07.000
+que realmente prefieren el final de los textos,
+
+00:08:07.000 --> 00:08:09.000
+como este con forma de jarra.
+
+00:08:09.000 --> 00:08:11.000
+Y este signo, de hecho, resulta ser
+
+00:08:11.000 --> 00:08:13.000
+el signo que aparece con más frecuencia en la escritura.
+
+00:08:13.000 --> 00:08:16.000
+Ahora, dados tales patrones, aquí va nuestra idea.
+
+00:08:16.000 --> 00:08:18.000
+La idea era usar un ordenador
+
+00:08:18.000 --> 00:08:20.000
+para aprender estos patrones.
+
+00:08:20.000 --> 00:08:23.000
+Así que le dimos al ordenador los textos existentes,
+
+00:08:23.000 --> 00:08:25.000
+y el ordenador aprendió un modelo estadístico
+
+00:08:25.000 --> 00:08:27.000
+de qué símbolos tendían a aparecer juntos
+
+00:08:27.000 --> 00:08:29.000
+que qué símbolos tendían a seguirse unos a otros.
+
+00:08:29.000 --> 00:08:31.000
+Ahora, dado el modelo por ordenador,

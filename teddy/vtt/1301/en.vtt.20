@@ -1,0 +1,31 @@
+WEBVTT
+
+00:09:57.778 --> 00:10:00.921
+This long string of numbers and letters here
+
+00:10:00.921 --> 00:10:05.996
+is a unique identifier tied to every single change,
+
+00:10:05.996 --> 00:10:08.853
+but without any central coordination.
+
+00:10:08.853 --> 00:10:13.342
+Every Git system generates this number the same way,
+
+00:10:13.342 --> 00:10:16.684
+which means this is a signature tied directly
+
+00:10:16.684 --> 00:10:19.834
+and unforgeably to a particular change.
+
+00:10:19.834 --> 00:10:21.770
+This has the following effect:
+
+00:10:21.770 --> 00:10:25.448
+A programmer in Edinburgh and a programmer in Entebbe
+
+00:10:25.448 --> 00:10:29.150
+can both get the same -- a copy of the same piece of software.
+
+00:10:29.150 --> 00:10:32.976
+Each of them can make changes and they can merge them

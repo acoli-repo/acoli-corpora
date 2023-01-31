@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:59.642 --> 00:06:03.323
+kam můžeme vložit komentáře pro tuto stránku.
+
+00:06:03.323 --> 00:06:06.330
+Hodně z vás už něco takového dříve použilo.
+
+00:06:06.330 --> 00:06:08.277
+Bohužel při vytváření této sekce
+
+00:06:08.277 --> 00:06:10.702
+byl vývojář trochu opilý
+
+00:06:10.702 --> 00:06:11.944
+a podařilo se mu zapomenout
+
+00:06:11.944 --> 00:06:14.933
+všechny praktiky bezpečnostního kódování, které se naučil.
+
+00:06:14.933 --> 00:06:17.999
+Takže si pojďme představit, že náš útočník,
+
+00:06:17.999 --> 00:06:21.447
+nazvaný Ďábelský Hacker ryze pro komediální hodnotu,
+
+00:06:21.447 --> 00:06:23.470
+vložil něco trochu ošklivého.
+
+00:06:23.470 --> 00:06:25.169
+Je to skript.
+
+00:06:25.169 --> 00:06:29.246
+Je to kód, který bude vyložen na webové stránce.
+
+00:06:29.246 --> 00:06:31.571
+Takže tento post zveřejním

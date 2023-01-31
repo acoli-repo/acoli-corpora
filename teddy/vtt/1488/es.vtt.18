@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+Ok, entonces un ordenador lee un dato de la memoria,
+
+00:09:01.000 --> 00:09:04.000
+lo envía al procesador o a la UAL,
+
+00:09:04.000 --> 00:09:06.000
+y luego pone el resultado en memoria.
+
+00:09:06.000 --> 00:09:08.000
+Ese es el camino rojo marcado.
+
+00:09:08.000 --> 00:09:12.000
+En la forma en la que trabaja el cerebro, tienes todas esas neuronas.
+
+00:09:12.000 --> 00:09:14.000
+Y la forma en la que representan información consiste en
+
+00:09:14.000 --> 00:09:16.000
+romper los datos en pequeños trozos
+
+00:09:16.000 --> 00:09:19.000
+que son representados por los pulsos y las diferentes neuronas.
+
+00:09:19.000 --> 00:09:21.000
+Así que tienes todos los trozos de datos
+
+00:09:21.000 --> 00:09:23.000
+distribuidos por la red.
+
+00:09:23.000 --> 00:09:26.000
+Y luego, la manera en la que se procesan los datos para conseguir el resultado
+
+00:09:26.000 --> 00:09:30.000
+es que se traduce ese patrón de actividad en un nuevo patrón de actividad,
+
+00:09:30.000 --> 00:09:33.000
+sencillamente haciéndolo fluir por la red.

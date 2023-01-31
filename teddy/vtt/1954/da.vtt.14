@@ -1,0 +1,30 @@
+WEBVTT
+
+00:06:54.252 --> 00:07:01.008
+opdager vi at der er en ukonventionel 
+måde at flyve den på.
+
+00:07:07.980 --> 00:07:09.686
+Vi slipper kontrollen over yaw,
+
+00:07:09.686 --> 00:07:12.756
+men rul, pitch og acceleration 
+kan stadig kontrolleres
+
+00:07:12.756 --> 00:07:18.208
+med algoritmer der udnytter 
+denne nye konfiguration.
+
+00:07:21.668 --> 00:07:24.100
+Matematiske modeller 
+fortæller os præcis hvornår
+
+00:07:24.100 --> 00:07:26.172
+og hvorfor dette er muligt.
+
+00:07:26.172 --> 00:07:28.540
+I dette tilfælde, denne viden 
+tillader os at designe
+
+00:07:28.540 --> 00:07:30.796
+nye maskinarkitekturer

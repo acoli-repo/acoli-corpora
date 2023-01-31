@@ -1,0 +1,34 @@
+WEBVTT
+
+00:08:58.000 --> 00:09:01.000
+que é direcionado a uma questão corriqueira.
+
+00:09:01.000 --> 00:09:04.000
+A vida é uma seqüência de escolhas
+
+00:09:04.000 --> 00:09:07.000
+que cria uma constante pressão para se decidir o que fazer a seguir.
+
+00:09:08.000 --> 00:09:11.000
+Nós lidamos com estas pressões, tendo cérebros
+
+00:09:11.000 --> 00:09:14.000
+e, dentro de nossos cérebros, através dos centros de tomada-de-decisão
+
+00:09:14.000 --> 00:09:17.000
+que, aqui, eu chamei de Ator.
+
+00:09:18.000 --> 00:09:21.000
+O Ator implementa uma política que leva em consideração
+
+00:09:21.000 --> 00:09:23.000
+o estado do ambiente
+
+00:09:23.000 --> 00:09:26.000
+e o contexto no qual operamos.
+
+00:09:26.000 --> 00:09:29.000
+Nossas ações modificam o ambiente, ou o contexto,
+
+00:09:29.000 --> 00:09:32.000
+e estas mudanças, por sua vez, retroalimentam a alça de decisão.

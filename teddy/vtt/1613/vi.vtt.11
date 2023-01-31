@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:28.000 --> 00:05:31.000
+mỗi chiếc thu thập ánh sáng theo cách sau-
+
+00:05:31.000 --> 00:05:33.000
+nếu ánh sáng đi tới đây
+
+00:05:33.000 --> 00:05:35.000
+nó sẽ trực tiếp phản xạ tới điểm trung tâm
+
+00:05:35.000 --> 00:05:38.000
+nhưng nếu mặt trời nằm ngoài trục và đến từ phía lề
+
+00:05:38.000 --> 00:05:41.000
+nó sẽ đi tới 2 nơi và tạo 2 phản xạ
+
+00:05:41.000 --> 00:05:43.000
+Vậy đối với ánh sánh trực tiếp, nó chỉ tạo 1 phản xạ
+
+00:05:43.000 --> 00:05:46.000
+với tia ngoài trục , nó sẽ tạo 2 phản xạ
+
+00:05:46.000 --> 00:05:48.000
+và với ngoại trục cực, nó sẽ tạo 3
+
+00:05:48.000 --> 00:05:50.000
+Hiệu suất giảm xuống khi phản xạ tăng
+
+00:05:50.000 --> 00:05:52.000
+vì mỗi phản xạ làm mất 10%
+
+00:05:52.000 --> 00:05:56.000
+nhưng điều này cho phép chúng tôi thu thập ánh sáng từ 1 góc âm hay dương 25 độ
+
+00:05:56.000 --> 00:06:01.000
+Vậy, trong khoảng 2,5 tiếng ban ngày chúng tôi có thể thu với hợp phần tĩnh

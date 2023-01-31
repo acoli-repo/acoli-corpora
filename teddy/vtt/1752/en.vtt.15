@@ -1,0 +1,40 @@
+WEBVTT
+
+00:07:27.932 --> 00:07:30.112
+So I could actually write this set of rules
+
+00:07:30.112 --> 00:07:33.507
+that translates from this particular
+representation into English.
+
+00:07:33.507 --> 00:07:35.338
+And so I developed this thing.
+
+00:07:35.338 --> 00:07:37.570
+I developed this thing called 
+the FreeSpeech Engine
+
+00:07:37.570 --> 00:07:40.131
+which takes any FreeSpeech sentence as the input
+
+00:07:40.131 --> 00:07:44.061
+and gives out perfectly grammatical English text.
+
+00:07:44.061 --> 00:07:45.666
+And by putting these two pieces together,
+
+00:07:45.666 --> 00:07:47.547
+the representation and the engine,
+
+00:07:47.547 --> 00:07:51.343
+I was able to create an app, a
+technology for children with autism,
+
+00:07:51.343 --> 00:07:53.842
+that not only gives them words
+
+00:07:53.842 --> 00:07:57.783
+but also gives them grammar.
+
+00:07:57.783 --> 00:08:00.143
+So I tried this out with kids with autism,

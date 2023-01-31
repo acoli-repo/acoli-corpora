@@ -1,0 +1,46 @@
+WEBVTT
+
+00:06:59.000 --> 00:07:01.000
+And the key idea to Bayesian inference
+
+00:07:01.000 --> 00:07:03.000
+is you have two sources of information
+
+00:07:03.000 --> 00:07:05.000
+from which to make your inference.
+
+00:07:05.000 --> 00:07:07.000
+You have data,
+
+00:07:07.000 --> 00:07:09.000
+and data in neuroscience is sensory input.
+
+00:07:09.000 --> 00:07:12.000
+So I have sensory input, which I can take in to make beliefs.
+
+00:07:12.000 --> 00:07:15.000
+But there's another source of information, and that's effectively prior knowledge.
+
+00:07:15.000 --> 00:07:18.000
+You accumulate knowledge throughout your life in memories.
+
+00:07:18.000 --> 00:07:20.000
+And the point about Bayesian decision theory
+
+00:07:20.000 --> 00:07:22.000
+is it gives you the mathematics
+
+00:07:22.000 --> 00:07:24.000
+of the optimal way to combine
+
+00:07:24.000 --> 00:07:26.000
+your prior knowledge with your sensory evidence
+
+00:07:26.000 --> 00:07:28.000
+to generate new beliefs.
+
+00:07:28.000 --> 00:07:30.000
+And I've put the formula up there.
+
+00:07:30.000 --> 00:07:32.000
+I'm not going to explain what that formula is, but it's very beautiful.

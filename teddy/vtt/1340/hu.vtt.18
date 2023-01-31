@@ -1,0 +1,28 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+amit 3D SLAM-nak neveznek, vagyis szimultán lokalizáció és térképezés.
+
+00:09:01.000 --> 00:09:03.000
+A DEPTHX egy mindent látó szemgolyó.
+
+00:09:03.000 --> 00:09:07.000
+A szenzorainak sugarai egyszerre néznek előre és hátra
+
+00:09:07.000 --> 00:09:10.000
+lehetővé téve, hogy új dolgokat fedezzen fel
+
+00:09:10.000 --> 00:09:12.000
+miközben képes meghatározni a saját pozícióját,
+
+00:09:12.000 --> 00:09:13.000
+azon helyekhez képest, amit már ismer.
+
+00:09:13.000 --> 00:09:16.000
+A következő dolog amit bemutatok
+
+00:09:16.000 --> 00:09:20.000
+az első teljesen önálló földalatti robotikus felfedezőút,
+
+00:09:20.000 --> 00:09:23.000
+amelyet valaha is végeztek.

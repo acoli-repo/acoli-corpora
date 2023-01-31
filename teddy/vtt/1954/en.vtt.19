@@ -1,0 +1,27 @@
+WEBVTT
+
+00:09:29.950 --> 00:09:34.382
+Third, a trajectory is planned
+that carries the quad
+
+00:09:34.406 --> 00:09:37.406
+from its current state
+to the impact point with the ball.
+
+00:09:37.430 --> 00:09:41.009
+Fourth, we only execute 20 milliseconds'
+worth of that strategy.
+
+00:09:41.366 --> 00:09:44.159
+Twenty milliseconds later,
+the whole process is repeated
+
+00:09:44.183 --> 00:09:45.950
+until the quad strikes the ball.
+
+00:09:55.290 --> 00:09:57.694
+(Applause)
+
+00:09:58.131 --> 00:10:01.554
+Machines can not only perform
+dynamic maneuvers on their own,

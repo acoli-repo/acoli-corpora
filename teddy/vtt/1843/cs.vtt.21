@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:27.127 --> 00:10:30.890
+Je to počítačový program,
+který běží v našem mozku,
+
+00:10:30.890 --> 00:10:33.395
+takže abychom vytvořili vědomí,
+
+00:10:33.395 --> 00:10:34.891
+musíme vytvořit správný program.
+
+00:10:34.891 --> 00:10:37.130
+Zapomeňte na hardware.
+Jakýkoli hardware bude stačit,
+
+00:10:37.130 --> 00:10:40.090
+pokud bude dostatečně velký a stabilní,
+aby tento program udržel."
+
+00:10:40.090 --> 00:10:43.164
+Teď už víme, že tohle je špatně.
+
+00:10:43.164 --> 00:10:46.173
+Každý, kdo o počítačích něco ví,
+
+00:10:46.173 --> 00:10:48.637
+může vidět, že je to špatně,
+protože výpočet
+
+00:10:48.637 --> 00:10:51.052
+je definován jako manipulace se symboly,
+
+00:10:51.052 --> 00:10:53.936
+obvykle pomocí jedniček a nul,
+ale může to být cokoli.
+
+00:10:53.936 --> 00:10:57.103
+Můžete naprogramovat algoritmus
+
+00:10:57.103 --> 00:11:00.210
+ve dvojkové soustavě,
+což je definující stopa

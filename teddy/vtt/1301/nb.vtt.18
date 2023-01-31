@@ -1,0 +1,34 @@
+WEBVTT
+
+00:08:59.314 --> 00:09:02.338
+Det har to store forskjeller
+
+00:09:02.338 --> 00:09:04.401
+sammenliknet med tradisjonelle versjonskontrollsystemer.
+
+00:09:04.401 --> 00:09:07.548
+Først og fremst lever det opp til det filosofiske løftet bak
+
+00:09:07.548 --> 00:09:10.834
+åpen kildekode. Alle som arbeider på et prosjekt
+
+00:09:10.834 --> 00:09:14.505
+har tilgang til all kildekoden hele tiden.
+
+00:09:14.505 --> 00:09:17.179
+Og når mennesker tegner diagrammer av Git arbeidsflyt,
+
+00:09:17.179 --> 00:09:20.116
+bruker de tegninger som ser ut som dette.
+
+00:09:20.116 --> 00:09:22.434
+Og du trenger ikke å forstå hva sirkler
+
+00:09:22.434 --> 00:09:26.113
+og bokser og piler betyr for å se at dette er en langt mer
+
+00:09:26.113 --> 00:09:29.208
+komplisert måte å arbeide på enn det et
+
+00:09:29.208 --> 00:09:31.929
+vanlig versjonskontrollsystem støtter.

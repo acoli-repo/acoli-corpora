@@ -1,0 +1,25 @@
+WEBVTT
+
+00:06:54.252 --> 00:07:01.008
+kita menemukan cara yang tidak biasa untuk terbang.
+
+00:07:07.980 --> 00:07:09.686
+Kita melepaskan kendali yaw,
+
+00:07:09.686 --> 00:07:12.756
+Tapi roll, pitch dan percepatan masih dapat dikontrol
+
+00:07:12.756 --> 00:07:18.208
+dengan algoritma yang mengeksploitasi konfigurasi baru ini.
+
+00:07:21.668 --> 00:07:24.100
+Model-model matematik memberitahu kami persis kapan
+
+00:07:24.100 --> 00:07:26.172
+dan mengapa ini dapat dilakukan.
+
+00:07:26.172 --> 00:07:28.540
+Dalam contoh ini, pengetahuan ini memungkinkan kita untuk desain
+
+00:07:28.540 --> 00:07:30.796
+arsitektur mesin baru

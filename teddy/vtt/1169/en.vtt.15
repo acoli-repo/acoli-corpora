@@ -1,0 +1,49 @@
+WEBVTT
+
+00:07:29.000 --> 00:07:32.000
+the image? It was a baby's face.
+
+00:07:32.000 --> 00:07:34.000
+So what about with our approach,
+
+00:07:34.000 --> 00:07:36.000
+adding the code? And you can see
+
+00:07:36.000 --> 00:07:38.000
+that it's much better. Not only can you
+
+00:07:38.000 --> 00:07:40.000
+tell that it's a baby's face, but you can
+
+00:07:40.000 --> 00:07:42.000
+tell that it's this baby's face, which is a
+
+00:07:42.000 --> 00:07:44.000
+really challenging task.
+
+00:07:44.000 --> 00:07:46.000
+So on the left is the encoder
+
+00:07:46.000 --> 00:07:48.000
+alone, and on the right is from an actual
+
+00:07:48.000 --> 00:07:50.000
+blind retina, so the encoder and the transducer.
+
+00:07:50.000 --> 00:07:52.000
+But the key one really is the encoder alone,
+
+00:07:52.000 --> 00:07:54.000
+because we can team up the encoder with
+
+00:07:54.000 --> 00:07:56.000
+the different transducer.
+
+00:07:56.000 --> 00:07:58.000
+This is just actually the first one that we tried.
+
+00:07:58.000 --> 00:08:00.000
+I just wanted to say something about the standard method.
+
+00:08:00.000 --> 00:08:02.000
+When this first came out, it was just a really

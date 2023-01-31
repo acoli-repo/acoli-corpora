@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:27.000 --> 00:06:30.000
+Itt láthatják a 12 különálló szirmot,
+
+00:06:30.000 --> 00:06:33.000
+melyeket külön-külön lehet irányítani egy-egy processzorral,
+
+00:06:33.000 --> 00:06:35.000
+aminek darabja csak $1.
+
+00:06:35.000 --> 00:06:38.000
+Egy 2 MHz -es mikroprocesszort már $1 -ért megkaphatunk.
+
+00:06:38.000 --> 00:06:41.000
+És másik $1 -ért kapunk olyan léptetőmotorokat, amik lényegében
+
+00:06:41.000 --> 00:06:44.000
+sohasem romlanak el, mert nincs bennük szénkefe.
+
+00:06:44.000 --> 00:06:48.000
+Így kevesebb mint $50 -ból tudjuk vezérelni mind a 12 szirmot,
+
+00:06:48.000 --> 00:06:51.000
+ez pedig lehetővéteszi, hogy a fókuszpontot ne kelljen többé mozgatnunk,
+
+00:06:51.000 --> 00:06:53.000
+elég csak a szirmokat.
+
+00:06:53.000 --> 00:06:55.000
+Az egész eleve sokkal laposabb,
+
+00:06:55.000 --> 00:06:58.000
+és képes napi 6,5 - 7 órán át gyűjteni a napfényt.
+
+00:06:58.000 --> 00:07:00.000
+Most, hogy egy pontba koncentráltuk a napfényt,
+
+00:07:00.000 --> 00:07:03.000
+mit tegyünk középre, ami a napfényt elektromosságá alakítja?

@@ -1,0 +1,25 @@
+WEBVTT
+
+00:05:59.000 --> 00:06:03.000
+aumenta, con un conseguente flusso uniforme della stessa.
+
+00:06:03.000 --> 00:06:07.000
+Quando si chiude, nel dispositivo non passa corrente.
+
+00:06:07.000 --> 00:06:12.000
+I vostri computer usano la presenza di questa corrente per rappresentare un 1
+
+00:06:12.000 --> 00:06:16.000
+e l'assenza di corrente per rappresentare uno 0.
+
+00:06:16.000 --> 00:06:22.000
+Man mano che i transistor si rimpiccioliscono,
+
+00:06:22.000 --> 00:06:24.000
+adottano però un comportamento diverso.
+
+00:06:24.000 --> 00:06:29.000
+Stanno infatti iniziando a comportarsi come lo strumento di calcolo neuronale,
+
+00:06:29.000 --> 00:06:31.000
+chiamato canale ionico.

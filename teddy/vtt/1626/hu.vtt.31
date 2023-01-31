@@ -1,0 +1,46 @@
+WEBVTT
+
+00:15:28.000 --> 00:15:31.000
+Majd megkeresem azt a programot, amelynek eredménye legközelebb áll a rendezett számsorhoz.
+
+00:15:31.000 --> 00:15:34.000
+Természetesen véletlenszerű utasítássorozatok
+
+00:15:34.000 --> 00:15:36.000
+nagyon valószínűtlen, hogy helyes sorrendet eredményeznének,
+
+00:15:36.000 --> 00:15:38.000
+valójában egyike sem produkál helyes eredményt,
+
+00:15:38.000 --> 00:15:40.000
+de talán az egyik véletlenül
+
+00:15:40.000 --> 00:15:42.000
+két számot a helyes sorrendbe állíthat.
+
+00:15:42.000 --> 00:15:44.000
+És én azt mondom, kedves gép
+
+00:15:44.000 --> 00:15:47.000
+kivennéd a 10 százalékát azoknak a
+
+00:15:47.000 --> 00:15:49.000
+véletlenszerű utasítássorozatoknak, amelyek a legjobbnak bizonyultak?
+
+00:15:49.000 --> 00:15:51.000
+Hagyd meg azokat, a többit szelektáld ki.
+
+00:15:51.000 --> 00:15:53.000
+Aztán reprodukáljuk azokat,
+
+00:15:53.000 --> 00:15:55.000
+amelyek a legjobban rendezték a számokat.
+
+00:15:55.000 --> 00:15:58.000
+Reprodukáljuk azokat azzal a kombinációs folyamattal
+
+00:15:58.000 --> 00:16:00.000
+amely hasonló az emberi reprodukcióhoz.
+
+00:16:00.000 --> 00:16:03.000
+Vegyünk két programot, és legyenek nekik gyerekeik úgy,

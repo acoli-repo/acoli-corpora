@@ -1,0 +1,43 @@
+WEBVTT
+
+00:16:58.000 --> 00:17:00.000
+in one of my muscles as a function of time.
+
+00:17:00.000 --> 00:17:02.000
+But there's noise added to this.
+
+00:17:02.000 --> 00:17:05.000
+So what I actually get, based on this lovely, smooth, desired force,
+
+00:17:05.000 --> 00:17:07.000
+is a very noisy version.
+
+00:17:07.000 --> 00:17:10.000
+So if I pick the same command through many times,
+
+00:17:10.000 --> 00:17:13.000
+I will get a different noisy version each time, because noise changes each time.
+
+00:17:13.000 --> 00:17:15.000
+So what I can show you here
+
+00:17:15.000 --> 00:17:17.000
+is how the variability of the movement will evolve
+
+00:17:17.000 --> 00:17:19.000
+if I choose that way.
+
+00:17:19.000 --> 00:17:22.000
+If I choose a different way of moving -- on the right for example --
+
+00:17:22.000 --> 00:17:24.000
+then I'll have a different command, different noise,
+
+00:17:24.000 --> 00:17:27.000
+playing through a noisy system, very complicated.
+
+00:17:27.000 --> 00:17:30.000
+All we can be sure of is the variability will be different.
+
+00:17:30.000 --> 00:17:32.000
+If I move in this particular way,

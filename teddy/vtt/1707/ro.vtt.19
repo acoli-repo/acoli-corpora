@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:27.000 --> 00:09:32.000
+toate aceste tronsoane preiau încărcături pe diagonală.
+
+00:09:32.000 --> 00:09:35.000
+Deci, fiecare are o formă puțin diferită
+
+00:09:35.000 --> 00:09:37.000
+pe măsură ce glisezi pe lungimea clădirii.
+
+00:09:37.000 --> 00:09:39.000
+Lucrând cu
+
+00:09:39.000 --> 00:09:42.000
+Bentley și MicroStation,
+
+00:09:42.000 --> 00:09:44.000
+am scris un program software special
+
+00:09:44.000 --> 00:09:47.000
+care îmbină toate componentele împreună
+
+00:09:47.000 --> 00:09:50.000
+în aceste eșantioane de informație,
+
+00:09:50.000 --> 00:09:52.000
+așa încât dacă schimbăm orice element
+
+00:09:52.000 --> 00:09:54.000
+de-a lungul clădirii,
+
+00:09:54.000 --> 00:09:57.000
+această schimbare nu se distribuie doar
+
+00:09:57.000 --> 00:09:59.000
+la fiecare din tronsoane,
+
+00:09:59.000 --> 00:10:02.000
+dar fiecare tronson distribuie apoi informația

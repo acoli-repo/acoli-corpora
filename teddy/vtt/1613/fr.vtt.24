@@ -1,0 +1,37 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:01.000
+contrairement à ce que j'avais pensé lorsque j'avais fait la version simple au lycée -
+
+00:12:01.000 --> 00:12:03.000
+et même un système qui a du potentiel,
+
+00:12:03.000 --> 00:12:07.000
+une fois que l'efficacité est meilleure, si vous pouvez le concevoir de façon à ce qu'il ne coûte pas cher.
+
+00:12:07.000 --> 00:12:11.000
+On s'est donc engagés dans une démarche de réduction maximale du coût.
+
+00:12:11.000 --> 00:12:13.000
+Nous avons construit un super modèle mathématique représentant le moteur Stirling.
+
+00:12:13.000 --> 00:12:15.000
+Nous y avons appliqué l'algorithme génétique.
+
+00:12:15.000 --> 00:12:18.000
+Nous en avons tiré les résultats pour le moteur optimal.
+
+00:12:18.000 --> 00:12:21.000
+Nous avons construit des moteurs - 100 moteurs différents au cours des deux dernières années.
+
+00:12:21.000 --> 00:12:24.000
+Nous avons pris des mesures, ajusté les modèles en fonction,
+
+00:12:24.000 --> 00:12:26.000
+et cela nous a mené au prototype actuel.
+
+00:12:26.000 --> 00:12:29.000
+Ça nous a mené à un moteur très compact, et peu cher,
+
+00:12:29.000 --> 00:12:31.000
+et qui ressemble à ceci.

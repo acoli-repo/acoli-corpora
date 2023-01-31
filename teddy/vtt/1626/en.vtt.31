@@ -1,0 +1,46 @@
+WEBVTT
+
+00:15:28.000 --> 00:15:31.000
+So find the programs that come closest to sorting numbers.
+
+00:15:31.000 --> 00:15:34.000
+So of course, random sequences of instructions
+
+00:15:34.000 --> 00:15:36.000
+are very unlikely to sort numbers,
+
+00:15:36.000 --> 00:15:38.000
+so none of them will really do it.
+
+00:15:38.000 --> 00:15:40.000
+But one of them, by luck,
+
+00:15:40.000 --> 00:15:42.000
+may put two numbers in the right order.
+
+00:15:42.000 --> 00:15:44.000
+And I say, "Computer,
+
+00:15:44.000 --> 00:15:47.000
+would you please now take the 10 percent
+
+00:15:47.000 --> 00:15:49.000
+of those random sequences that did the best job.
+
+00:15:49.000 --> 00:15:51.000
+Save those. Kill off the rest.
+
+00:15:51.000 --> 00:15:53.000
+And now let's reproduce
+
+00:15:53.000 --> 00:15:55.000
+the ones that sorted numbers the best.
+
+00:15:55.000 --> 00:15:58.000
+And let's reproduce them by a process of recombination
+
+00:15:58.000 --> 00:16:00.000
+analogous to sex."
+
+00:16:00.000 --> 00:16:03.000
+Take two programs and they produce children

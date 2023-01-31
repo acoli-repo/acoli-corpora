@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+Ok, deci un computer alege un item specific de informație din memorie,
+
+00:09:01.000 --> 00:09:04.000
+îl trimite procesorului sau către ALU,
+
+00:09:04.000 --> 00:09:06.000
+și apoi scrie rezultatul înapoi în memorie.
+
+00:09:06.000 --> 00:09:08.000
+Ăsta este calea roșie care este subliniată.
+
+00:09:08.000 --> 00:09:12.000
+Modul cum creierul funcționează, avem toti acești neuroni.
+
+00:09:12.000 --> 00:09:14.000
+Și modalitatea prin care ei reprezintă informația este
+
+00:09:14.000 --> 00:09:16.000
+de a descompune informația în bucăți mici
+
+00:09:16.000 --> 00:09:19.000
+care sunt reprezentate de către pulsuri și diferiți neuroni.
+
+00:09:19.000 --> 00:09:21.000
+Așadar avem toate aceste bucăți de informație
+
+00:09:21.000 --> 00:09:23.000
+distribuite prin toată rețeaua.
+
+00:09:23.000 --> 00:09:26.000
+Și pe urmă modul prin care se procesează informația pentru a obține un rezultat
+
+00:09:26.000 --> 00:09:30.000
+este că se traduce acest tipar de activitate într-un nou tipar de activitate,
+
+00:09:30.000 --> 00:09:33.000
+doar parcurgând această rețea.

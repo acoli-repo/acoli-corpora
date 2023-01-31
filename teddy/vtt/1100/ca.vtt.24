@@ -1,0 +1,37 @@
+WEBVTT
+
+00:11:57.000 --> 00:12:00.000
+Bé doncs, un dels camins que seguim al meu laboratori i estudi
+
+00:12:00.000 --> 00:12:03.000
+es traduint la llum en so
+
+00:12:03.000 --> 00:12:07.000
+permetent a la gent sentir el seu món visual.
+
+00:12:07.000 --> 00:12:10.000
+Poden guiar-se pel món utilitzant les orelles.
+
+00:12:10.000 --> 00:12:13.000
+Aquest és en David, a la dreta. I està sostenint una càmera.
+
+00:12:13.000 --> 00:12:15.000
+A l'esquerra és el que la càmera veu.
+
+00:12:15.000 --> 00:12:18.000
+Veureu que hi ha una línia, una línia tènue creuant la imatge.
+
+00:12:18.000 --> 00:12:21.000
+La línia està partida en 32 quadrats.
+
+00:12:21.000 --> 00:12:23.000
+A cada quadrat calculem la mitjana del color.
+
+00:12:23.000 --> 00:12:25.000
+I llavors simplement ho traduïm a so.
+
+00:12:25.000 --> 00:12:28.000
+Ara està a punt de
+
+00:12:28.000 --> 00:12:32.000
+donar-se la volta, tancar els ulls,

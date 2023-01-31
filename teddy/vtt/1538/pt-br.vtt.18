@@ -1,0 +1,50 @@
+WEBVTT
+
+00:08:59.977 --> 00:09:01.675
+E a maneira para descobrir isso
+
+00:09:01.675 --> 00:09:05.598
+é olhar para pedaços sequenciais 
+de informação binária,
+
+00:09:05.598 --> 00:09:08.690
+e olhar para o relacionamento
+entre esses pedaços.
+
+00:09:08.690 --> 00:09:10.462
+Quando junto sequencias suficientes,
+
+00:09:10.462 --> 00:09:12.466
+começo a ter uma ideia do que exatamente
+
+00:09:12.466 --> 00:09:14.540
+essa informação deve ser.
+
+00:09:14.540 --> 00:09:16.284
+Então vamos voltar àquela situação
+
+00:09:16.284 --> 00:09:18.374
+de explodir o telefone do terrorista.
+
+00:09:18.374 --> 00:09:20.577
+É assim que texto em inglês se parece
+
+00:09:20.577 --> 00:09:21.890
+em nível binário.
+
+00:09:21.890 --> 00:09:24.216
+É assim que sua lista
+de contatos se parece
+
+00:09:24.216 --> 00:09:25.776
+se estivesse examinando-a.
+
+00:09:25.776 --> 00:09:27.900
+É muito difícil analisar nesse nível,
+
+00:09:27.900 --> 00:09:29.804
+mas se pegarmos 
+esses pedaços binários
+
+00:09:29.804 --> 00:09:31.296
+que venho tentando encontrar,

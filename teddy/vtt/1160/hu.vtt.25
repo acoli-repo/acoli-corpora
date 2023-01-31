@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:29.000 --> 00:12:31.000
+Vedd át Eric!
+
+00:12:31.000 --> 00:12:33.000
+Eric Johanson: Ami itt látható,
+
+00:12:33.000 --> 00:12:35.000
+az egy tartály a színpad másik oldalán.
+
+00:12:35.000 --> 00:12:37.000
+És van egy, ezen a számítógép képernyőn
+
+00:12:37.000 --> 00:12:39.000
+láthatóak a szúnyogok, ahogy repdesnek.
+
+00:12:39.000 --> 00:12:42.000
+És Pablos, ha felzavarja egy kicsit a szúnyogokat,
+
+00:12:42.000 --> 00:12:44.000
+láthatjuk, ahogy repdesnek.
+
+00:12:44.000 --> 00:12:46.000
+Nos, ez egy meglehetősen egyszerű képfeldolgozó rutin.
+
+00:12:46.000 --> 00:12:48.000
+És hadd mutassam meg, hogyan működik.
+
+00:12:48.000 --> 00:12:50.000
+Itt látható, hogy a rovart beazonosítottuk
+
+00:12:50.000 --> 00:12:52.000
+ahogy körbe repdes,
+
+00:12:52.000 --> 00:12:55.000
+ami elég szórakoztató.
+
+00:12:55.000 --> 00:12:57.000
+Aztán valójában képesek vagyunk megvilágítani őket egy lézerrel.
+
+00:12:57.000 --> 00:12:59.000
+Ez egy alacsony feszültségű lézer,
+
+00:12:59.000 --> 00:13:01.000
+és igazából egy szárnycsapás frekvenciájú.

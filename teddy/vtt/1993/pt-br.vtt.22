@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:57.669 --> 00:11:01.406
+Os sinais falsos agora controlam completamente este receptor GPS.
+
+00:11:01.406 --> 00:11:02.901
+Então isso é realmente possível?
+
+00:11:02.901 --> 00:11:04.624
+É possível de fato manipular
+
+00:11:04.624 --> 00:11:06.606
+o tempo e a posição de um receptor GPS
+
+00:11:06.606 --> 00:11:09.485
+desse jeito, com um falsificador?
+
+00:11:09.485 --> 00:11:11.500
+Bem, a resposta curta é sim.
+
+00:11:11.500 --> 00:11:14.304
+O segredo é que sinais de GPS civis
+
+00:11:14.304 --> 00:11:15.406
+são completamente abertos.
+
+00:11:15.406 --> 00:11:19.397
+Não são encriptados. Não têm qualquer autenticação.
+
+00:11:19.397 --> 00:11:22.892
+São totalmente abertos, vulneráveis a um tipo de ataque de falsificação.
+
+00:11:22.892 --> 00:11:25.467
+Mesmo assim, até bem recentemente,
+
+00:11:25.467 --> 00:11:27.859
+ninguém se preocupava com falsificadores GPS.
+
+00:11:27.859 --> 00:11:29.837
+As pessoas imaginavam que seria muito complexo
+
+00:11:29.837 --> 00:11:32.652
+ou muito caro para um hacker construir um.

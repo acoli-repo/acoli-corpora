@@ -1,0 +1,38 @@
+WEBVTT
+
+00:11:29.545 --> 00:11:31.720
+davanja rezultata, sve ove stvari,
+
+00:11:31.720 --> 00:11:34.795
+da je sve to jednostavnije i efikasnije,
+
+00:11:34.795 --> 00:11:39.212
+jer ne mora da se obradi
+struktura podataka govora.
+
+00:11:39.212 --> 00:11:45.188
+Umesto toga se obrađuje
+struktura podataka misli.
+
+00:11:45.188 --> 00:11:47.996
+Struktura podataka misli.
+
+00:11:47.996 --> 00:11:50.072
+To je provokativna zamisao.
+
+00:11:50.072 --> 00:11:52.214
+Ali hajde da detaljnije pogledamo ovo.
+
+00:11:52.214 --> 00:11:54.580
+Ovo je ekosistem FreeSpeech-a.
+
+00:11:54.580 --> 00:11:57.464
+Sa jedne strane imamo
+prikaz FreeSpeech-a,
+
+00:11:57.464 --> 00:11:59.982
+i imamo mehanizam FreeSpeech-a,
+koji stvara engleski.
+
+00:11:59.982 --> 00:12:01.419
+Ako razmislite o tome,

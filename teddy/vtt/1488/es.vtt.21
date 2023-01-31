@@ -1,0 +1,31 @@
+WEBVTT
+
+00:10:29.000 --> 00:10:33.000
+Es algo en lo que hemos estado trabajando el últimopar de años.
+
+00:10:33.000 --> 00:10:36.000
+Y voy a mostrarles el sistema que hemos diseñado
+
+00:10:36.000 --> 00:10:39.000
+para modelar la retina,
+
+00:10:39.000 --> 00:10:44.000
+que es la parte del cerebro dentro del globo ocular.
+
+00:10:44.000 --> 00:10:50.000
+No lo hemos hecho escribiendo código, como se haría en un computador.
+
+00:10:50.000 --> 00:10:53.000
+De hecho, el proceso que ocurre
+
+00:10:53.000 --> 00:10:55.000
+en esa pequeña parte del cerebro es muy similar
+
+00:10:55.000 --> 00:10:56.000
+al tipo de procesamiento que los computadores
+
+00:10:56.000 --> 00:11:00.000
+realizan cuando envían vídeo por Internet.
+
+00:11:00.000 --> 00:11:01.000
+Se quiere comprimir la información --

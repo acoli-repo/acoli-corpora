@@ -1,0 +1,38 @@
+WEBVTT
+
+00:11:59.694 --> 00:12:01.419
+Now if you think about it,
+
+00:12:01.419 --> 00:12:03.963
+FreeSpeech, I told you, is completely 
+language-independent.
+
+00:12:03.963 --> 00:12:06.050
+It doesn't have any specific information in it
+
+00:12:06.050 --> 00:12:07.278
+which is about English.
+
+00:12:07.278 --> 00:12:10.078
+So everything that this system knows about English
+
+00:12:10.078 --> 00:12:14.698
+is actually encoded into the engine.
+
+00:12:14.698 --> 00:12:16.935
+That's a pretty interesting concept in itself.
+
+00:12:16.935 --> 00:12:20.539
+You've encoded an entire human language
+
+00:12:20.539 --> 00:12:23.184
+into a software program.
+
+00:12:23.184 --> 00:12:25.715
+But if you look at what's inside the engine,
+
+00:12:25.715 --> 00:12:28.073
+it's actually not very complicated.
+
+00:12:28.073 --> 00:12:30.178
+It's not very complicated code.

@@ -1,0 +1,37 @@
+WEBVTT
+
+00:10:56.000 --> 00:11:00.000
+utilisent quand ils font du streaming vidéo sur internet.
+
+00:11:00.000 --> 00:11:01.000
+Ils veulent compresser l'information --
+
+00:11:01.000 --> 00:11:05.000
+Ils veulent envoyer uniquement les changements, ce qui est nouveau dans l'image et le son--
+
+00:11:05.000 --> 00:11:08.000
+et c'est la façon dont votre œil
+
+00:11:08.000 --> 00:11:11.000
+peut faire passer toute cette information dans le nerf optique,
+
+00:11:11.000 --> 00:11:13.000
+pour l'envoyer au reste du cerveau.
+
+00:11:13.000 --> 00:11:16.000
+Au lieu de faire ça par le logiciel, ou avec ces types d'algorithmes,
+
+00:11:16.000 --> 00:11:19.000
+nous sommes allés parler aux neurobiologistes
+
+00:11:19.000 --> 00:11:23.000
+qui ont étudié le fonctionnement de cette partie du cerveau, la rétine.
+
+00:11:23.000 --> 00:11:25.000
+Et ils ont compris le rôle de chaque cellule,
+
+00:11:25.000 --> 00:11:28.000
+et ils ont compris le réseau, et nous avons juste pris ce réseau
+
+00:11:28.000 --> 00:11:32.000
+et nous l'avons pris comme modèle pour le design d'une puce en silicone.

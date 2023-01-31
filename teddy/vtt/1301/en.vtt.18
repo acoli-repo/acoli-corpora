@@ -1,0 +1,34 @@
+WEBVTT
+
+00:08:59.314 --> 00:09:02.338
+It has two big differences
+
+00:09:02.338 --> 00:09:04.401
+with traditional version control systems.
+
+00:09:04.401 --> 00:09:07.548
+The first is that it lives up to the philosophical promise
+
+00:09:07.548 --> 00:09:10.834
+of open-source. Everybody who works on a project
+
+00:09:10.834 --> 00:09:14.505
+has access to all of the source code all of the time.
+
+00:09:14.505 --> 00:09:17.179
+And when people draw diagrams of Git workflow,
+
+00:09:17.179 --> 00:09:20.116
+they use drawings that look like this.
+
+00:09:20.116 --> 00:09:22.434
+And you don't have to understand what the circles
+
+00:09:22.434 --> 00:09:26.113
+and boxes and arrows mean to see that this is a far more
+
+00:09:26.113 --> 00:09:29.208
+complicated way of working than is supported
+
+00:09:29.208 --> 00:09:31.929
+by ordinary version control systems.

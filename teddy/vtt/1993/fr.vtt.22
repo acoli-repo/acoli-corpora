@@ -1,0 +1,47 @@
+WEBVTT
+
+00:10:57.669 --> 00:11:01.406
+Le faux signal contrôle
+désormais complètement le GPS.
+
+00:11:01.406 --> 00:11:02.901
+Est ce que ceci est vraiment possible ?
+
+00:11:02.901 --> 00:11:04.624
+Est ce que quelqu'un peu vraiment manipuler
+
+00:11:04.624 --> 00:11:06.606
+l'horloge et la localisation d'un GPS
+
+00:11:06.606 --> 00:11:09.485
+juste comme ça, avec un usurpateur ?
+
+00:11:09.485 --> 00:11:11.500
+En un mot, oui.
+
+00:11:11.500 --> 00:11:14.304
+Le point clé est que les signaux GPS civils
+
+00:11:14.304 --> 00:11:15.406
+sont complètement exposés.
+
+00:11:15.406 --> 00:11:19.397
+Ils ne sont pas encodés. I
+ls n'ont pas de certification.
+
+00:11:19.397 --> 00:11:22.892
+Ils sont grands ouverts, 
+vulnérables aux attaques d'usurpateurs.
+
+00:11:22.892 --> 00:11:25.467
+Néanmoins, jusqu'à il y a très peu de temps,
+
+00:11:25.467 --> 00:11:27.859
+personne ne s'inquiétait des usurpateurs GPS.
+
+00:11:27.859 --> 00:11:29.837
+Les gens s'imaginaient 
+que cela aurait été trop compliqué
+
+00:11:29.837 --> 00:11:32.652
+ou trop cher pour les pirates d'en fabriquer un.

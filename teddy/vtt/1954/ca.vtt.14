@@ -1,0 +1,25 @@
+WEBVTT
+
+00:06:54.252 --> 00:07:01.008
+descobrim que encara existeix una manera poc convencional, però funcional, de fer-la volar.
+
+00:07:07.980 --> 00:07:09.686
+Prescindim de controlar el gir sobre l'eix central,
+
+00:07:09.686 --> 00:07:12.756
+però controlem encara les inclinacions frontal i lateral, i l'acceleració,
+
+00:07:12.756 --> 00:07:18.208
+amb algorismes que aprofiten el coneixement d'aquesta nova configuració.
+
+00:07:21.668 --> 00:07:24.100
+Els models matemàtics ens revelen exactament quan,
+
+00:07:24.100 --> 00:07:26.172
+i perquè això és possible.
+
+00:07:26.172 --> 00:07:28.540
+En aquest cas, aquest coneixement ens permet dissenyar
+
+00:07:28.540 --> 00:07:30.796
+arquitectures de màquines originals,

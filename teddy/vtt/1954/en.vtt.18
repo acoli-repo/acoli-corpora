@@ -1,0 +1,38 @@
+WEBVTT
+
+00:09:04.143 --> 00:09:06.000
+(Applause)
+
+00:09:08.500 --> 00:09:09.798
+(Applause ends)
+
+00:09:10.542 --> 00:09:13.168
+This quad has a racket
+strapped onto its head
+
+00:09:13.192 --> 00:09:16.655
+with a sweet spot roughly the size
+of an apple, so not too large.
+
+00:09:17.017 --> 00:09:19.822
+The following calculations
+are made every 20 milliseconds,
+
+00:09:19.846 --> 00:09:21.163
+or 50 times per second.
+
+00:09:21.602 --> 00:09:23.877
+We first figure out where
+the ball is going.
+
+00:09:24.414 --> 00:09:27.035
+We then next calculate
+how the quad should hit the ball
+
+00:09:27.059 --> 00:09:29.544
+so that it flies
+to where it was thrown from.
+
+00:09:29.950 --> 00:09:34.382
+Third, a trajectory is planned
+that carries the quad

@@ -1,0 +1,45 @@
+WEBVTT
+
+00:09:59.254 --> 00:10:02.921
+There are two different ways you can spot
+whether some data has gone missing.
+
+00:10:02.945 --> 00:10:05.144
+You can use statistics
+or you can use stories.
+
+00:10:05.168 --> 00:10:07.557
+I prefer statistics,
+so that's what I'll do first.
+
+00:10:07.581 --> 00:10:08.903
+This is a funnel plot.
+
+00:10:08.927 --> 00:10:11.118
+A funnel plot is a very clever
+way of spotting
+
+00:10:11.142 --> 00:10:14.507
+if small negative trials have disappeared,
+have gone missing in action.
+
+00:10:14.531 --> 00:10:18.009
+This is a graph of all of the trials done
+on a particular treatment.
+
+00:10:18.033 --> 00:10:20.288
+As you go up towards the top of the graph,
+
+00:10:20.312 --> 00:10:22.241
+what you see is each dot is a trial.
+
+00:10:22.265 --> 00:10:25.391
+As you go up, those are bigger trials,
+so they've got less error;
+
+00:10:25.415 --> 00:10:28.561
+they're less likely to be randomly false
+positives or negatives.
+
+00:10:28.585 --> 00:10:29.977
+So they all cluster together.

@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:29.738 --> 00:05:33.017
+dva umocněno prvočíslem, odečti jedničku.
+
+00:05:33.017 --> 00:05:35.434
+Nepůjdu do hloubky, proč tomu tak je,
+
+00:05:35.434 --> 00:05:38.185
+protože byste z toho asi zešedivěli,
+
+00:05:38.185 --> 00:05:42.396
+ale snad postačí, že takové číslo
+
+00:05:42.396 --> 00:05:45.859
+se docela snadno testuje, zda je prvočíslem.
+
+00:05:45.859 --> 00:05:49.459
+Otestovat jakékoli náhodné liché číslo
+je mnohem těžší.
+
+00:05:49.459 --> 00:05:51.380
+Ale jakmile se vydáme
+na lov velkých prvočísel,
+
+00:05:51.380 --> 00:05:53.219
+uvidíme, že nestačí
+
+00:05:53.219 --> 00:05:55.960
+umocňovat jakýmkoli prvočíslem.
+
+00:05:55.960 --> 00:05:58.557
+(2 ^ 11) - 1 = 2 047,
+
+00:05:58.557 --> 00:06:01.925
+a ani mi nemusíte říkat,
+že je to 23 x 89.

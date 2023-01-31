@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+Un computer seleziona uno specifico dato dalla memoria,
+
+00:09:01.000 --> 00:09:04.000
+lo manda al processore o all'ALU,
+
+00:09:04.000 --> 00:09:06.000
+e poi rimanda il risultato alla memoria.
+
+00:09:06.000 --> 00:09:08.000
+Questo è il percorso, evidenziato in rosso.
+
+00:09:08.000 --> 00:09:12.000
+Nel cervello ci sono [invece] tutti questi neuroni.
+
+00:09:12.000 --> 00:09:14.000
+Rappresentano l'informazione
+
+00:09:14.000 --> 00:09:16.000
+frantumando i dati in piccoli pezzi
+
+00:09:16.000 --> 00:09:19.000
+che vengono rappresentati da impulsi e da diversi neuroni.
+
+00:09:19.000 --> 00:09:21.000
+Così tutti questi pezzi di dati
+
+00:09:21.000 --> 00:09:23.000
+si distribuiscono lungo il network.
+
+00:09:23.000 --> 00:09:26.000
+Per ottenere un risultato, quindi, si processano quei dati
+
+00:09:26.000 --> 00:09:30.000
+traducendo questo schema di attività in un nuovo schema di attività,
+
+00:09:30.000 --> 00:09:33.000
+facendolo scorrere nel network.

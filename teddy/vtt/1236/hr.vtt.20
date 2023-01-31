@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:58.000 --> 00:10:01.000
+Jezik, s druge strane, ima srednju razinu entropije,
+
+00:10:01.000 --> 00:10:03.000
+nije ni previše striktna
+
+00:10:03.000 --> 00:10:05.000
+ni previše slučajna.
+
+00:10:05.000 --> 00:10:07.000
+Što je s indskim pismom?
+
+00:10:07.000 --> 00:10:11.000
+Ovo je grafikon koji prikazuje entropije cijelog niza slijedova.
+
+00:10:11.000 --> 00:10:13.000
+Na samom vrhu nalazimo ravnomjerno slučajan slijed,
+
+00:10:13.000 --> 00:10:15.000
+koji je slučajna mješavina slova --
+
+00:10:15.000 --> 00:10:17.000
+i, zanimljivo, također nalazimo
+
+00:10:17.000 --> 00:10:20.000
+slijed DNK iz ljudskog genoma i instrumentalnu glazbu.
+
+00:10:20.000 --> 00:10:22.000
+Oba ova slijeda su jako fleksibilna,
+
+00:10:22.000 --> 00:10:24.000
+zato ih nalazimo u vrlo visokom rasponu.
+
+00:10:24.000 --> 00:10:26.000
+Na donjem kraju ljestvice
+
+00:10:26.000 --> 00:10:28.000
+nalazimo striktni slijed, slijed koji čini niz slova A
+
+00:10:28.000 --> 00:10:30.000
+te također nalazimo računalni program,
+
+00:10:30.000 --> 00:10:32.000
+u ovom slučaju jezika Fortran,

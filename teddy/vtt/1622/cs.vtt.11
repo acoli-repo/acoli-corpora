@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:27.323 --> 00:05:30.061
+udělali počítačové simulace toho, co se stane,
+
+00:05:30.061 --> 00:05:33.492
+když se nejasné odhady spojí, dokonce i v provozu za světla,
+
+00:05:33.492 --> 00:05:36.116
+kdy auta sdílí GPS údaje,
+
+00:05:36.116 --> 00:05:38.629
+a my jsme tento výzkum posunuli z počítačové simulace
+
+00:05:38.629 --> 00:05:41.656
+do robotových testbed, které mají skutečné snímače,
+
+00:05:41.656 --> 00:05:44.789
+které jsou nyní v autech na těchto robotech:
+
+00:05:44.789 --> 00:05:46.627
+stereo kamery, GPS,
+
+00:05:46.627 --> 00:05:48.501
+a dvourozměrné laserové dálkoměry,
+
+00:05:48.501 --> 00:05:50.741
+které jsou běžné v zálohovacích systémech.
+
+00:05:50.741 --> 00:05:55.225
+Přikládáme také diskrétní komunikační rádio krátkého dosahu
+
+00:05:55.225 --> 00:05:57.134
+a roboti spolu hovoří.
+
+00:05:57.134 --> 00:05:58.673
+Když na sebe roboti přijdou,
+
+00:05:58.673 --> 00:06:01.644
+přesně sledují vzájemnou polohu

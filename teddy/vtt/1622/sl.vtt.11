@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:27.323 --> 00:05:30.061
+so naredili računalniško simulacijo kaj se zgodi,
+
+00:05:30.061 --> 00:05:33.492
+ko se približna predvidenja združi, celo pri malo prometa,
+
+00:05:33.492 --> 00:05:36.116
+kjer si avti le delijo GPS podatke.
+
+00:05:36.116 --> 00:05:38.629
+In to raziskavo smo premaknili iz računalniške simulacije
+
+00:05:38.629 --> 00:05:41.656
+v robotske testne neprave s senzorji,
+
+00:05:41.656 --> 00:05:44.789
+ki so v avtih, zdaj na te robote:
+
+00:05:44.789 --> 00:05:46.627
+stereo kamere, GPS
+
+00:05:46.627 --> 00:05:48.501
+in dvodimenzionalne laserske pregledovalce območja,
+
+00:05:48.501 --> 00:05:50.741
+ki so navadno v vzvratnih sistemih.
+
+00:05:50.741 --> 00:05:55.225
+Dodali smo tudi diskreten radio za komunikacijo na kratke razdalje,
+
+00:05:55.225 --> 00:05:57.134
+in roboti se med sabo pogovarjajo.
+
+00:05:57.134 --> 00:05:58.673
+Ko se ti roboti približajo eden drugemu,
+
+00:05:58.673 --> 00:06:01.644
+si izmenjajo natančne podatke o položaju

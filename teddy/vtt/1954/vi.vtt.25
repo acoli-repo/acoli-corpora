@@ -1,0 +1,31 @@
+WEBVTT
+
+00:12:29.714 --> 00:12:32.342
+Nó đang cố gắng đứng yên ở một điểm cố định trong không gian.
+
+00:12:32.342 --> 00:12:36.179
+Nếu tôi cố gắng di chuyển nó đi chỗ khác, nó sẽ kháng cự lại,
+
+00:12:36.179 --> 00:12:40.334
+và sau đó lại trở về vị trí mà nó muốn.
+
+00:12:40.334 --> 00:12:43.373
+Tuy nhiên, chúng ta có thể thay đổi hành vi này.
+
+00:12:43.373 --> 00:12:45.072
+Chúng ta có thể sử dụng các mô hình toán học
+
+00:12:45.072 --> 00:12:48.205
+để tính toán lực tác động lên quad.
+
+00:12:48.205 --> 00:12:51.443
+Khi mà chúng ta biết được lực này, chúng ta có thể thay đổi các quy luật vật lý,
+
+00:12:51.443 --> 00:12:55.942
+tất nhiên là phải phù hợp với quad
+
+00:12:55.942 --> 00:12:58.205
+Và đây, máy bay quad đang chuyển động như thể nó đang
+
+00:12:58.205 --> 00:13:02.570
+ở trong một dung dịch lỏng.

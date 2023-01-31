@@ -1,0 +1,46 @@
+WEBVTT
+
+00:10:28.140 --> 00:10:30.907
+biopsias de cáncer,
+
+00:10:30.907 --> 00:10:33.222
+y han usado la computadora 
+para identificar,
+
+00:10:33.222 --> 00:10:35.693
+mirando los datos y 
+las tasas de supervivencia,
+
+00:10:35.693 --> 00:10:40.360
+si las células son en realidad
+
+00:10:40.360 --> 00:10:42.904
+cancerosas o no,
+
+00:10:42.904 --> 00:10:44.682
+y claro, al trasferir 
+los datos
+
+00:10:44.682 --> 00:10:46.729
+por un algoritmo 
+de aprendizaje automático,
+
+00:10:46.729 --> 00:10:48.606
+la máquina fue capaz de identificar
+
+00:10:48.606 --> 00:10:50.968
+los 12 signos reveladores 
+que mejor predicen
+
+00:10:50.968 --> 00:10:54.167
+si en esta biopsia de 
+células de cáncer de mama,
+
+00:10:54.167 --> 00:10:57.385
+hay, en efecto, cáncer.
+
+00:10:57.385 --> 00:10:59.883
+El problema: la literatura médica
+
+00:10:59.883 --> 00:11:02.672
+solo sabía nueve de ellos.

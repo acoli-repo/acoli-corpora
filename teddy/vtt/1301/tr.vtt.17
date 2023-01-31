@@ -1,0 +1,28 @@
+WEBVTT
+
+00:08:28.535 --> 00:08:31.200
+Buna rağmen, Torvalds bu süreci yıllarca
+
+00:08:31.200 --> 00:08:35.104
+e-postadan başka bir şeye ihtiyaç duymadan yönetti.
+
+00:08:35.104 --> 00:08:37.577
+İnsanlar yaptıkları değişiklikeri ona e-posta ile gönderiyor,
+
+00:08:37.577 --> 00:08:41.696
+o da kabul ettiklerini elle asıl koda ekliyordu.
+
+00:08:41.696 --> 00:08:46.442
+Böyle geçen 15 yılın ardından Linux ve topluluğun
+
+00:08:46.442 --> 00:08:49.252
+işleyişine dair "Galiba nasıl bir sürüm kontrol
+
+00:08:49.252 --> 00:08:53.419
+sistemine ihtiyacımız olduğunu anlamaya başladım." dedi.
+
+00:08:53.419 --> 00:08:59.314
+Düşündüğü şeye "Git" adını verdi. Git, dağıtık bir sürüm kontrol sistemi.
+
+00:08:59.314 --> 00:09:02.338
+Geleneksel sürüm kontrol sistemlerinden

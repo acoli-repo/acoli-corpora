@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:31.000
+Zwykle wydajność jest sprawą kluczową,
+
+00:09:31.000 --> 00:09:35.000
+ponieważ koszty paliwa są o wiele większe niż koszt silnika w ciągu całego jego życia.
+
+00:09:35.000 --> 00:09:37.000
+Ale jeśli twoje paliwo jest za darmo,
+
+00:09:37.000 --> 00:09:40.000
+jedyną rzeczą która się liczy jest sam koszt stworzenia silnika.
+
+00:09:40.000 --> 00:09:42.000
+Dlatego nie chcesz optymalizować dla wydajności,
+
+00:09:42.000 --> 00:09:44.000
+chcesz optymalizować dla mocy na każdy dolar.
+
+00:09:44.000 --> 00:09:46.000
+Używając tego nowego kryterium,
+
+00:09:46.000 --> 00:09:48.000
+stwierdziliśmy że moglibyśmy ponownie przyjrzeć się silnikowi Stirlinga
+
+00:09:48.000 --> 00:09:50.000
+i zastosować też algorytmy genetyczne.
+
+00:09:50.000 --> 00:09:54.000
+Robert Stirling nie miał niestety przed sobą Gordona Moore'a
+
+00:09:54.000 --> 00:09:56.000
+który dał nam trzy gigaherce mocy procesora.
+
+00:09:56.000 --> 00:09:58.000
+Więc użyliśmy tego samego algorytmu genetycznego co wcześniej
+
+00:09:58.000 --> 00:10:00.000
+do zrobienia koncentratora, który dla nas nie zadziałał,
+
+00:10:00.000 --> 00:10:03.000
+żeby zoptymalizować silnik Stirlinga.

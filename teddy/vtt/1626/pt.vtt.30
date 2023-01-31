@@ -1,0 +1,47 @@
+WEBVTT
+
+00:14:57.355 --> 00:15:00.430
+que decorre numa escala temporal 
+de microssegundos.
+
+00:15:00.313 --> 00:15:03.358
+Por exemplo, nos casos mais extremos,
+
+00:15:03.402 --> 00:15:06.125
+podemos desenvolver um programa
+
+00:15:06.125 --> 00:15:09.101
+começando com uma série
+aleatória de instruções.
+
+00:15:09.102 --> 00:15:11.461
+Dizemos; "Computador, por favor,
+
+00:15:11.461 --> 00:15:14.306
+"faça cem milhões de sequências 
+aleatórias de instruções.
+
+00:15:14.319 --> 00:15:17.719
+"E agora, por favor, corra essas sequências
+aleatórias de instruções,
+
+00:15:17.719 --> 00:15:19.452
+corra esses programas todos,
+
+00:15:19.452 --> 00:15:22.252
+"e escolha os que mais se aproximam
+daquilo que eu quero."
+
+00:15:23.247 --> 00:15:25.441
+Por outras palavras, 
+eu defino o que quero.
+
+00:15:25.441 --> 00:15:27.319
+Imaginem que eu queria ordenar números,
+
+00:15:27.319 --> 00:15:29.180
+como fiz num pequeno exemplo.
+
+00:15:29.180 --> 00:15:32.390
+Encontre os programas que mais se aproximam
+dos que ordenam números.

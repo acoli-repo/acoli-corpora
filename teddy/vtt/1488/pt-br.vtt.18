@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+OK, então o computador pega um item específico de dado da memória,
+
+00:09:01.000 --> 00:09:04.000
+e envia para o processador ou a ALU,
+
+00:09:04.000 --> 00:09:06.000
+e então coloca o resultado de volta na memória.
+
+00:09:06.000 --> 00:09:08.000
+Isto é o caminho vermelho que está destacado.
+
+00:09:08.000 --> 00:09:12.000
+A maneira como os cérebros funcionam, você necessita todos estes neurônios.
+
+00:09:12.000 --> 00:09:14.000
+E a maneira como eles representam informação é
+
+00:09:14.000 --> 00:09:16.000
+que eles quebram os dados em pequenos pedaços
+
+00:09:16.000 --> 00:09:19.000
+que são representados por pulsos e diferentes neurônios.
+
+00:09:19.000 --> 00:09:21.000
+Então você tem todos estes pedaços de dados
+
+00:09:21.000 --> 00:09:23.000
+distribuídos através da rede.
+
+00:09:23.000 --> 00:09:26.000
+E então a maneira que você processa os dados para obter o resultado
+
+00:09:26.000 --> 00:09:30.000
+é que você traduz este padrão de atividade e um novo padrão de atividade,
+
+00:09:30.000 --> 00:09:33.000
+apenas navegando através da rede.

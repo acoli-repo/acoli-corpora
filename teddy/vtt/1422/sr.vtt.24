@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+U slučaju da nema kašnjenja,
+
+00:12:01.000 --> 00:12:03.000
+svetlosni snop će golicati vaš dlan,
+
+00:12:03.000 --> 00:12:07.000
+ili će postojati kašnjenje od dve ili tri desetinke.
+
+00:12:07.000 --> 00:12:09.000
+Ono što je važno u ovome
+
+00:12:09.000 --> 00:12:12.000
+je da desna ruka uvek radi istu stvar -- sinusoidalni pokret.
+
+00:12:12.000 --> 00:12:15.000
+Leva ruka je uvek ista i pravi sinusoidalno golicanje.
+
+00:12:15.000 --> 00:12:17.000
+Mi se samo igramo sa uzročnom vezom u odnosu na tempo pokreta.
+
+00:12:17.000 --> 00:12:19.000
+Kako napredujemo od nule ka 0.1 sekundi,
+
+00:12:19.000 --> 00:12:21.000
+postaje sve golicljivije.
+
+00:12:21.000 --> 00:12:23.000
+Kako idemo od 0.1 ka 0.2,
+
+00:12:23.000 --> 00:12:25.000
+postaje još golicljivije na kraju.
+
+00:12:25.000 --> 00:12:27.000
+I na 0.2 sekunde
+
+00:12:27.000 --> 00:12:29.000
+podjednako je golicljivo,
+
+00:12:29.000 --> 00:12:31.000
+kao robot koji vas je upravo zagolicao, a da vi niste ništa radili.

@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:58.000 --> 00:10:00.000
+Der findes to forskellige metoder til at opdage
+
+00:10:00.000 --> 00:10:02.000
+om data er blevet skjult.
+
+00:10:02.000 --> 00:10:05.000
+Man kan bruge statistik eller man bruge beretninger.
+
+00:10:05.000 --> 00:10:07.000
+Jeg foretrækker personligt statistisk, så det vil jeg starte med her.
+
+00:10:07.000 --> 00:10:09.000
+Det her er noget som jeg kalder et funnel plot.
+
+00:10:09.000 --> 00:10:11.000
+Og et funnel plot er en smart metode til at opdage
+
+00:10:11.000 --> 00:10:14.000
+hvis små negative forsøg har forsvundet, altså blevet skjult.
+
+00:10:14.000 --> 00:10:16.000
+Her er et plot af alle forsøg
+
+00:10:16.000 --> 00:10:18.000
+som har gjorts for et specifikt lægemiddel.
+
+00:10:18.000 --> 00:10:20.000
+Når man ser mod toppen af hvert plot,
+
+00:10:20.000 --> 00:10:22.000
+bemærk at hver prik er et forsøg,
+
+00:10:22.000 --> 00:10:25.000
+når man ser mod toppen, findes de større forsøg, som har mindre fejlmargin.
+
+00:10:25.000 --> 00:10:28.000
+Så de har mindre sandsynlig for at give falsk positive eller falsk negative resultater.
+
+00:10:28.000 --> 00:10:30.000
+Derfor grupperer de sig sammen.
+
+00:10:30.000 --> 00:10:32.000
+De større forsøg er nærmere et sandt svar.

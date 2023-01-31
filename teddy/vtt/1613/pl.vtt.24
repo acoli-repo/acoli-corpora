@@ -1,0 +1,37 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:01.000
+jak się przekonałem robiąc prostą wersję w liceum -
+
+00:12:01.000 --> 00:12:03.000
+w całkiem praktyczny,
+
+00:12:03.000 --> 00:12:07.000
+gdy masz wyższą wydajność, jeśli twój projekt jest odpowiednio tani.
+
+00:12:07.000 --> 00:12:11.000
+Postanowiliśmy spróbować zrobić jak najtańszy.
+
+00:12:11.000 --> 00:12:13.000
+Zrobiliśmy olbrzymi matematyczny model działania silnika Stirlinga.
+
+00:12:13.000 --> 00:12:15.000
+Zastosowaliśmy algorytm genetyczny.
+
+00:12:15.000 --> 00:12:18.000
+Dostaliśmy wyniki dla najbardziej optymalnego silnika.
+
+00:12:18.000 --> 00:12:21.000
+Zbudowaliśmy te silniki - 100 różnych silników w ciągu ostatnich dwóch lat.
+
+00:12:21.000 --> 00:12:24.000
+Sprawdzaliśmy każdy z nich i dostosowywaliśmy model do tego co zmierzyliśmy,
+
+00:12:24.000 --> 00:12:26.000
+i doszliśmy w końcu do obecnego prototypu.
+
+00:12:26.000 --> 00:12:29.000
+Doprowadziło to do bardzo małego, taniego silnika.
+
+00:12:29.000 --> 00:12:31.000
+Tak wygląda ten silnik.

@@ -1,0 +1,49 @@
+WEBVTT
+
+00:06:57.000 --> 00:07:00.000
+Então nos focamos na captura de movimentos.
+
+00:07:00.000 --> 00:07:02.000
+Tenho certeza que muitos de vocês já viram a captura de movimentos.
+
+00:07:02.000 --> 00:07:04.000
+O mais moderno àquela época
+
+00:07:04.000 --> 00:07:06.000
+era algo chamado captura de movimento baseada em marcadores
+
+00:07:06.000 --> 00:07:07.000
+Vou dar um exemplo aqui.
+
+00:07:07.000 --> 00:07:09.000
+É basicamente a idéia de, você vestir um collant
+
+00:07:09.000 --> 00:07:11.000
+e eles colocam alguns marcadores reflexivos no seu corpo.
+
+00:07:11.000 --> 00:07:13.000
+e ao invés de utilizar câmeras,
+
+00:07:13.000 --> 00:07:15.000
+existem sensores infra-vermelhos ao redor do volume,
+
+00:07:15.000 --> 00:07:17.000
+e esse sensores infra-vermelhos rastreiam a posição tridimensional
+
+00:07:17.000 --> 00:07:19.000
+desses marcadores em tempo real.
+
+00:07:19.000 --> 00:07:22.000
+A seguir, animadores podem utilizar os dados do movimento desses marcadores
+
+00:07:22.000 --> 00:07:24.000
+e aplicá-los a um personagem gerado por computador.
+
+00:07:24.000 --> 00:07:27.000
+Vocês podem ver que os personagens computadorizados à direita
+
+00:07:27.000 --> 00:07:30.000
+têm o mesmo movimento complexo dos dançarinos.
+
+00:07:30.000 --> 00:07:32.000
+Mas nós também olhamos numerosos outros filmes na época

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:10:57.000 --> 00:11:00.000
+Ma è in ogni caso qualcosa che fa delle cose molto ben definite.
+
+00:11:00.000 --> 00:11:03.000
+è una definizione precisa con un preciso linguaggio formale
+
+00:11:03.000 --> 00:11:06.000
+che fa si che Mathematica sappia cosa fare in questi casi.
+
+00:11:06.000 --> 00:11:09.000
+Ebbene, dall'altra parte abbiamo Wolfram Alpha,
+
+00:11:09.000 --> 00:11:11.000
+con ogni tipo di confusione al mondo
+
+00:11:11.000 --> 00:11:13.000
+e che integra cose come il linguaggio umano.
+
+00:11:13.000 --> 00:11:16.000
+E cosa accade quando si mettono insieme queste cose?
+
+00:11:16.000 --> 00:11:18.000
+Penso sia in effetti piuttosto meraviglioso.
+
+00:11:18.000 --> 00:11:20.000
+Con Wolfram Alpha integrato all'interno di Mathematica,
+
+00:11:20.000 --> 00:11:22.000
+è possibile, per esempio, fare un programma preciso
+
+00:11:22.000 --> 00:11:24.000
+che fa riferimento a dati dal mondo reale.
+
+00:11:24.000 --> 00:11:26.000
+Ecco un esempio molto semplice.
+
+00:11:29.000 --> 00:11:32.000
+Si può anche provare a dare un input generico

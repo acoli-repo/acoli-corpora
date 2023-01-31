@@ -1,0 +1,28 @@
+WEBVTT
+
+00:05:58.819 --> 00:06:03.066
+Triknya adalah dengan menguraikan konstruksi komputer
+
+00:06:03.066 --> 00:06:06.020
+menjadi modul-modul independen dalam jumlah yang sangat banyak,
+
+00:06:06.020 --> 00:06:09.920
+tiap-tiap modul tersebut dapat dispesifikasikan,
+
+00:06:09.920 --> 00:06:15.155
+dibuat dan dites dalam isolasi, terpisah dari proyek yang ada.
+
+00:06:15.155 --> 00:06:18.144
+Dari sejak hari pertama, Noam dan saya memutuskan untuk
+
+00:06:18.144 --> 00:06:21.680
+menyediakan semua langkah-langkah ini untuk umum
+
+00:06:21.680 --> 00:06:23.160
+melalui open source di internet.
+
+00:06:23.160 --> 00:06:27.631
+Maka spesifikasi setiap chip, API, deskripsi proyek,
+
+00:06:27.631 --> 00:06:31.535
+perangkat lunak, simulator hardware, emulator CPU,

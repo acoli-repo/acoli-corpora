@@ -1,0 +1,33 @@
+WEBVTT
+
+00:05:58.819 --> 00:06:03.066
+Der Trick dabei war, 
+den Aufbau des Computers
+
+00:06:03.066 --> 00:06:06.020
+in mehrere Einzelschritte zu gliedern.
+
+00:06:06.020 --> 00:06:09.920
+Jeder konnte einzeln beschrieben,
+
+00:06:09.920 --> 00:06:15.155
+gebaut und getestet werden, 
+unabhängig vom restlichen Projekt.
+
+00:06:15.155 --> 00:06:18.144
+Noam und ich entschieden uns
+von Anfang an,
+
+00:06:18.144 --> 00:06:21.680
+alle Bausteine im Internet
+
+00:06:21.680 --> 00:06:23.160
+frei zur Verfügung zu stellen.
+
+00:06:23.160 --> 00:06:27.631
+Chipspezifikationen, APIs, 
+Entwurfbeschreibungen,
+
+00:06:27.631 --> 00:06:31.535
+Software, Hardwaresimulatoren, 
+CPU-Emulatoren

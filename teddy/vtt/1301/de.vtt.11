@@ -1,0 +1,38 @@
+WEBVTT
+
+00:05:28.439 --> 00:05:33.141
+sind solch berühmt unflexible 
+Interpretierer von Anweisungen,
+
+00:05:33.141 --> 00:05:37.164
+dass es außerordentlich 
+schwierig ist, einen Satz
+
+00:05:37.164 --> 00:05:40.202
+von Anweisungen zu schreiben, 
+die der Computer ausführen kann,
+
+00:05:40.202 --> 00:05:42.068
+auch wenn nur eine einzelne Person sie schreibt.
+
+00:05:42.068 --> 00:05:44.167
+Sobald mehr als eine Person daran schreibt,
+
+00:05:44.167 --> 00:05:47.251
+ist es sehr einfach für beliebige zwei Programmierer, gegenseitig die Arbeit
+
+00:05:47.251 --> 00:05:49.912
+des anderen zu überschreiben, 
+wenn sie an derselben Datei arbeiten,
+
+00:05:49.912 --> 00:05:52.094
+oder inkompatible Anweisungen zu senden,
+
+00:05:52.094 --> 00:05:54.535
+an denen sich der Computer verschluckt,
+
+00:05:54.535 --> 00:05:57.494
+und dieses Problem wächst
+
+00:05:57.494 --> 00:06:00.263
+je mehr Programmierer beteiligt sind.

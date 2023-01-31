@@ -1,0 +1,25 @@
+WEBVTT
+
+00:06:54.252 --> 00:07:01.008
+kiderül, hogy rendhagyó módon is lehet működtetni.
+
+00:07:07.980 --> 00:07:09.686
+Le kell mondanunk ugyan az elfordulás szabályozásáról,
+
+00:07:09.686 --> 00:07:12.756
+de a billenés, dőlés és gyorsulás szabályozható marad,
+
+00:07:12.756 --> 00:07:18.208
+csak az új konfigurációhoz való algoritmust kell használni.
+
+00:07:21.668 --> 00:07:24.100
+A matematikai modell elárulja, hogy pontosan mikor
+
+00:07:24.100 --> 00:07:26.172
+és mért lehetséges ez.
+
+00:07:26.172 --> 00:07:28.540
+Ennek ismeretében képesek vagyunk
+
+00:07:28.540 --> 00:07:30.796
+újszerű géparchitektúrák kialakítására,

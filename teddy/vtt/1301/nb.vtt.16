@@ -1,0 +1,31 @@
+WEBVTT
+
+00:07:59.979 --> 00:08:03.115
+og han ville ikke ta i bruk noe som ikke fungerte
+
+00:08:03.115 --> 00:08:05.424
+slik Linux-fellesskapet arbeidet.
+
+00:08:05.424 --> 00:08:07.956
+Og for å gi deg en følelse av hvor enormt komplisert
+
+00:08:07.956 --> 00:08:11.624
+en beslutning som dette var, er her et kart
+
+00:08:11.624 --> 00:08:15.113
+av de interne avhengighetene i Linux,
+
+00:08:15.113 --> 00:08:17.720
+i Linux-operativsystemet, hvilke under-deler
+
+00:08:17.720 --> 00:08:22.165
+av programmet som må stole på hvilke andre deler for å virke.
+
+00:08:22.165 --> 00:08:25.743
+Dette er en veldig komplisert prosess.
+
+00:08:25.743 --> 00:08:28.535
+Dette er et enormt komplisert program,
+
+00:08:28.535 --> 00:08:31.200
+og likevel, i årevis, vedlikeholdt Torvalds dette

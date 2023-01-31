@@ -1,0 +1,40 @@
+WEBVTT
+
+00:11:27.000 --> 00:11:31.000
+Und so können wir die Kommunikation zwischen den Neuronen beschreiben.
+
+00:11:31.000 --> 00:11:34.000
+Es gibt buchstäblich nur eine Handvoll
+
+00:11:34.000 --> 00:11:36.000
+Gleichungen die benötigt werden,
+
+00:11:36.000 --> 00:11:38.000
+um die Aktivität des Neocortex zu simulieren.
+
+00:11:38.000 --> 00:11:41.000
+Aber was man braucht, ist ein sehr grosser Computer.
+
+00:11:41.000 --> 00:11:43.000
+In der Tat braucht man einen Laptop,
+
+00:11:43.000 --> 00:11:46.000
+der alle Berechnungen für nur ein Neuron durchführt.
+
+00:11:46.000 --> 00:11:48.000
+Entsprechend braucht man 10,000 Laptops.
+
+00:11:48.000 --> 00:11:50.000
+Wohin geht man dann? Man geht zu IBM,
+
+00:11:50.000 --> 00:11:52.000
+und man bekommt einen Super-Computer, weil sie wissen wie man
+
+00:11:52.000 --> 00:11:56.000
+10,000 Laptops in die Grösse eines Kühlschranks verwandeln kann.
+
+00:11:56.000 --> 00:11:59.000
+Nun haben wir diesen "Blue Gene" Super-Computer.
+
+00:11:59.000 --> 00:12:01.000
+Wir können all diese Neuronen hochladen,

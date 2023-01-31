@@ -1,0 +1,34 @@
+WEBVTT
+
+00:06:28.000 --> 00:06:31.000
+Yani, anlatmaya çalıştığım, mühendis bakış açısınından bakın:
+
+00:06:31.000 --> 00:06:34.000
+İnorganik maddelerde aynı şeyleri yapacak mekanik sistemler
+
+00:06:34.000 --> 00:06:35.000
+kurabilir miyiz?
+
+00:06:35.000 --> 00:06:40.000
+Size gösterdiğim şey, bir dizi birleşenlerin, birleştirilmesiyle,
+
+00:06:40.000 --> 00:06:44.000
+aşırı basit kurallar izleyen
+
+00:06:44.000 --> 00:06:46.000
+iki boyutlu şeyler --B-- yapabiliriz.
+
+00:06:46.000 --> 00:06:49.000
+Ve burada çok basit kurallarla çalışmanın ve
+
+00:06:49.000 --> 00:06:52.000
+önceki tasarımda çok basit bir sonlu otomat kullanılmasındaki
+
+00:06:52.000 --> 00:06:55.000
+asıl amaç, aslında hesaplama yapmak için dijital mantığa ihtiyaç duyulmamasıdır.
+
+00:06:55.000 --> 00:06:59.000
+Ve bu yolla, maddeleri mikroçiplerden çok daha küçük oranlara ölçeklendirebilirsiniz.
+
+00:06:59.000 --> 00:07:03.000
+Yani teorik olarak,birleşme işleminde bu şeyleri küçük birleşenler olarak kullanabiliriz.

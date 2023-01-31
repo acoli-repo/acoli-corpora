@@ -1,0 +1,37 @@
+WEBVTT
+
+00:12:57.000 --> 00:13:02.000
+Hvis vi ville lave en firkant i størrelsen 10, 100 eller 1.000,
+
+00:13:02.000 --> 00:13:04.000
+hvis vi udelukkende brugte DNA origami,
+
+00:13:04.000 --> 00:13:07.000
+skulle vi bruge et antal DNA strenge der er kvadratet
+
+00:13:07.000 --> 00:13:09.000
+af størrelsen af den firkant;
+
+00:13:09.000 --> 00:13:11.000
+så vi skulle bruge 100, 10.000 eller en million DNA strenge.
+
+00:13:11.000 --> 00:13:13.000
+Det har vi ikke råd til.
+
+00:13:13.000 --> 00:13:15.000
+Men hvis vi bruger en lille smule beregning --
+
+00:13:15.000 --> 00:13:19.000
+vi bruger origami, plus nogle fliser der tæller --
+
+00:13:19.000 --> 00:13:22.000
+så kan vi komme afsted med at bruge 100, 200 eller 300 DNA strenge.
+
+00:13:22.000 --> 00:13:27.000
+Så vi kan reducere antallet af DNA strenge vi bruger eksponentielt,
+
+00:13:27.000 --> 00:13:30.000
+hvis vi bruger tælling, hvis vi bruger en lille smule beregning.
+
+00:13:30.000 --> 00:13:33.000
+Så beregning er en meget kraftfuld måde

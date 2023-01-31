@@ -1,0 +1,41 @@
+WEBVTT
+
+00:10:28.140 --> 00:10:30.907
+kræft-biopsier,
+
+00:10:30.907 --> 00:10:33.222
+og de har bedt en computer 
+om at identificere
+
+00:10:33.222 --> 00:10:35.693
+ved at kigge på data og overlevelsesrater
+
+00:10:35.693 --> 00:10:40.360
+for at afgøre, om celler rent faktisk er
+
+00:10:40.360 --> 00:10:42.904
+kræft eller ej,
+
+00:10:42.904 --> 00:10:44.682
+og ganske rigtigt, når man smider data efter det,
+
+00:10:44.682 --> 00:10:46.729
+gennem en maskinlært algoritme,
+
+00:10:46.729 --> 00:10:48.606
+var maskinen i stand til at identificere
+
+00:10:48.606 --> 00:10:50.868
+de 12 indikatorer, der bedst kan forudsige
+
+00:10:50.868 --> 00:10:54.167
+om denne biopsi af brystkræftceller
+
+00:10:54.167 --> 00:10:57.385
+rent faktisk er kræft
+
+00:10:57.385 --> 00:10:59.883
+Problemet: Den medicinske litteratur
+
+00:10:59.883 --> 00:11:02.672
+kendte kun ni af dem.

@@ -1,0 +1,34 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:31.000
+(Nevetés)
+
+00:09:31.000 --> 00:09:34.000
+Szóval van egy határ, amit nem kéne átlépni. Mi tehát a legjobb megoldás?
+
+00:09:34.000 --> 00:09:39.000
+Hogy tudunk minden funkciót egyszerűen és okosan beletenni egy programba?
+
+00:09:39.000 --> 00:09:41.000
+Hiszem, hogy a konzisztenciára kell törekedni, ha az lehetséges,
+
+00:09:41.000 --> 00:09:46.000
+való életből vett példák, kuka, mappa, ilyesmik jelölnek általában programfunkciókat.
+
+00:09:46.000 --> 00:09:49.000
+De én arra kérem a tervezőket, hogy szegjék meg
+
+00:09:49.000 --> 00:09:52.000
+ezeket a szabályokat, ha megsértik a legnagyobb szabályt,
+
+00:09:52.000 --> 00:09:54.000
+ami az intelligencia. Hogy mit értek ezalatt?
+
+00:09:54.000 --> 00:09:57.000
+Mutatok néhány példát, ahol az intelligencia számára valami nem konzisztens,
+
+00:09:57.000 --> 00:09:59.000
+és mégis jobb.
+
+00:09:59.000 --> 00:10:03.000
+Ha valamit veszünk a neten, akkor meg kell adnunk a címünket,

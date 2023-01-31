@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+Buď s nulovou prodlevou,
+
+00:12:01.000 --> 00:12:03.000
+v kterémžto případě pravá ruka lechtá dlaň přímo,
+
+00:12:03.000 --> 00:12:07.000
+nebo s prodlevou 1/10, 2/10 nebo 3/10 vteřiny.
+
+00:12:07.000 --> 00:12:09.000
+Zde je důležité připomenout,
+
+00:12:09.000 --> 00:12:12.000
+že pravá ruka vykonává pořád totéž - sinusoidní pohyb.
+
+00:12:12.000 --> 00:12:15.000
+Levá ruka také pořád dělá totéž a vyvolává sinusoidní lechtivost.
+
+00:12:15.000 --> 00:12:17.000
+Hrajeme si pouze a jenom s časovou kauzalitou.
+
+00:12:17.000 --> 00:12:19.000
+A jak prodlevu zvyšujeme z nuly na 0,1 vteřiny,
+
+00:12:19.000 --> 00:12:21.000
+lechtivost roste.
+
+00:12:21.000 --> 00:12:23.000
+A když pak prodlevu zvyšujeme z 0,1 na 0,2 vteřiny,
+
+00:12:23.000 --> 00:12:25.000
+lechtivost stále roste.
+
+00:12:25.000 --> 00:12:27.000
+A než prodleva dosáhne 0,2 vteřiny,
+
+00:12:27.000 --> 00:12:29.000
+lechtivost je stejná,
+
+00:12:29.000 --> 00:12:31.000
+jako když vás robot lechtá sám, aniž vy byste cokoliv dělal.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:59.000 --> 00:11:01.000
+in plaats van een dambord.
+
+00:11:01.000 --> 00:11:04.000
+Daar heb je de binaire getallen 5, 6 en 7.
+
+00:11:04.000 --> 00:11:07.000
+Om deze berekeningen goed te laten beginnen,
+
+00:11:07.000 --> 00:11:09.000
+heb je een soort input nodig, een soort zaadje.
+
+00:11:09.000 --> 00:11:11.000
+Daar kun je DNA-origami voor gebruiken.
+
+00:11:11.000 --> 00:11:13.000
+Je kunt het getal 32 coderen
+
+00:11:13.000 --> 00:11:15.000
+aan de rechterkant van een DNA-origami
+
+00:11:15.000 --> 00:11:17.000
+en wanneer je de rekenende tegels toevoegt
+
+00:11:17.000 --> 00:11:20.000
+zullen ze beginnen met tellen, ze zullen die 32 lezen
+
+00:11:20.000 --> 00:11:22.000
+en stoppen bij 32.
+
+00:11:22.000 --> 00:11:25.000
+We hebben een manier gevonden
+
+00:11:25.000 --> 00:11:28.000
+om een moleculair programma te laten weten wanneer het moet stoppen.
+
+00:11:28.000 --> 00:11:30.000
+Het weet wanneer het moet stoppen met groeien omdat het kan tellen.
+
+00:11:30.000 --> 00:11:32.000
+Het weet hoe groot het is.

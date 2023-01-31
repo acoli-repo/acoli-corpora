@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:58.673 --> 00:06:01.644
+localizam a posição do outro de modo preciso,
+
+00:06:01.644 --> 00:06:04.381
+e podem evitar-se uns aos outros.
+
+00:06:04.381 --> 00:06:07.607
+Estamos a juntar cada vez mais 
+robôs à mistura,
+
+00:06:07.607 --> 00:06:09.078
+e encontrámos alguns problemas.
+
+00:06:09.078 --> 00:06:11.437
+Um dos problemas, devido ao excesso de dados,
+
+00:06:11.437 --> 00:06:15.165
+é difícil processar todos os pacotes, 
+por isso é preciso ter prioridades,
+
+00:06:15.165 --> 00:06:17.522
+e é aí que o modelo preditivo vos ajuda.
+
+00:06:17.522 --> 00:06:21.894
+Se todos os vossos carros-robô estiverem 
+a localizar as trajetórias previstas
+
+00:06:21.894 --> 00:06:23.661
+não darão tanta atenção a esses pacotes.
+
+00:06:23.661 --> 00:06:25.364
+A prioridade será aquele
+
+00:06:25.364 --> 00:06:26.697
+que parece um pouco fora de rota.
+
+00:06:26.697 --> 00:06:29.223
+Aquele tipo pode ser um problema.
+
+00:06:29.223 --> 00:06:32.225
+E será possível prever a nova trajetória.

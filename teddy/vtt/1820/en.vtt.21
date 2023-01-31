@@ -1,0 +1,37 @@
+WEBVTT
+
+00:10:30.000 --> 00:10:32.000
+And if you look at their sticky ends, these little DNA bits,
+
+00:10:32.000 --> 00:10:35.000
+you can see that they actually form a checkerboard pattern.
+
+00:10:35.000 --> 00:10:38.000
+So, these tiles would make a complicated, self-assembling checkerboard.
+
+00:10:38.000 --> 00:10:40.000
+And the point of this, if you didn't catch that,
+
+00:10:40.000 --> 00:10:43.000
+is that tiles are a kind of molecular program
+
+00:10:43.000 --> 00:10:46.000
+and they can output patterns.
+
+00:10:46.000 --> 00:10:48.000
+And a really amazing part of this is
+
+00:10:48.000 --> 00:10:50.000
+that any computer program can be translated
+
+00:10:50.000 --> 00:10:53.000
+into one of these tile programs -- specifically, counting.
+
+00:10:53.000 --> 00:10:56.000
+So, you can come up with a set of tiles
+
+00:10:56.000 --> 00:10:59.000
+that when they come together, form a little binary counter
+
+00:10:59.000 --> 00:11:01.000
+rather than a checkerboard.

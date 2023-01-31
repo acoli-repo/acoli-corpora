@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:59.184 --> 00:05:01.068
+and you add a new capability,
+
+00:05:01.068 --> 00:05:02.934
+which is transformation,
+
+00:05:02.934 --> 00:05:04.251
+that right off the bed,
+
+00:05:04.251 --> 00:05:08.578
+the parts can transform from one shape to another shape directly on their own.
+
+00:05:08.578 --> 00:05:12.078
+And this is like robotics without wires or motors.
+
+00:05:12.078 --> 00:05:13.729
+So you completely print this part,
+
+00:05:13.729 --> 00:05:16.533
+and it can transform into something else.
+
+00:05:16.533 --> 00:05:21.494
+We also worked with Autodesk on a software they're developing called Project Cyborg.
+
+00:05:21.494 --> 00:05:24.617
+And this allows us to simulate this self-assembly behavior
+
+00:05:24.617 --> 00:05:27.819
+and try to optimize which parts are folding when.
+
+00:05:27.819 --> 00:05:30.549
+But most importantly, we can use this same software

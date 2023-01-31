@@ -1,0 +1,28 @@
+WEBVTT
+
+00:10:28.042 --> 00:10:31.553
+Notez que, lorsqu'ils tendent le filet, ces quads sont verticaux.
+
+00:10:36.486 --> 00:10:38.258
+(Applaudissements)
+
+00:10:38.258 --> 00:10:40.545
+En fait, lorsqu'ils étendent complètement le filet,
+
+00:10:40.545 --> 00:10:43.230
+cela revient à multiplier par cinq ce que ressent une personne
+
+00:10:43.230 --> 00:10:47.818
+à la fin d'un saut en bungee.
+
+00:10:51.009 --> 00:10:53.686
+Les algorithmes utilisés ici sont vraiment similaires
+
+00:10:53.686 --> 00:10:57.070
+à ceux utilisés précédemment pour que le quad me renvoie la balle.
+
+00:10:57.070 --> 00:10:59.934
+Les modèles mathématiques sont utilisés afin de recalculer continuellement
+
+00:10:59.934 --> 00:11:04.449
+une stratégie de coopération 50 fois par seconde.

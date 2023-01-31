@@ -1,0 +1,32 @@
+WEBVTT
+
+00:07:59.979 --> 00:08:03.115
+Nie miał zamiaru przyjąć czegoś, co nie działałoby
+
+00:08:03.115 --> 00:08:05.424
+jak społeczność linuksowa.
+
+00:08:05.424 --> 00:08:07.956
+Aby pokazać jak ogromna była waga
+
+00:08:07.956 --> 00:08:11.624
+tej decyzji, spójrzcie na mapę
+
+00:08:11.624 --> 00:08:15.113
+wewnętrznych zależności w Linuksie,
+
+00:08:15.113 --> 00:08:17.720
+w ramach systemu Linux, gdzie części składowe
+
+00:08:17.720 --> 00:08:22.165
+programu zależą od innych,
+które muszą działać, by działał system.
+
+00:08:22.165 --> 00:08:25.743
+To niezwykle skomplikowany proces.
+
+00:08:25.743 --> 00:08:28.535
+I niezwykle skomplikowany program.
+
+00:08:28.535 --> 00:08:31.200
+Dodatkowo Torvalds przez długie lata

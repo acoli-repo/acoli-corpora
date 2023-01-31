@@ -1,0 +1,28 @@
+WEBVTT
+
+00:09:29.208 --> 00:09:31.929
+a hagyományos verziókezelő rendszerek támogatnak.
+
+00:09:31.929 --> 00:09:36.238
+De ez egyben az, ami visszahozza a káoszt,
+
+00:09:36.238 --> 00:09:39.288
+és ebben rejlik Git második nagy újítása.
+
+00:09:39.288 --> 00:09:43.284
+Ez egy képernyőfotó a GitHub-ról, ahol elsődlegesen hosztolják a Git alapú projekteket
+
+00:09:43.284 --> 00:09:46.634
+és ahányszor Git-et használ egy programozó
+
+00:09:46.634 --> 00:09:49.795
+hogy bármilyen fontos változtatást csináljon,
+
+00:09:49.795 --> 00:09:53.104
+létrehozva egy új fájt, módosítva egy létezőt,
+
+00:09:53.104 --> 00:09:57.778
+két fájlt egyesítve, a Git egy ilyen aláírást hoz létre.
+
+00:09:57.778 --> 00:10:00.921
+Ez a számokból és betűkből álló hosszú lánc

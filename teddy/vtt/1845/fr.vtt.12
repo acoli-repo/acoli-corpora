@@ -1,0 +1,29 @@
+WEBVTT
+
+00:05:58.819 --> 00:06:03.066
+L'astuce était de scinder la construction de l'ordinateur
+
+00:06:03.066 --> 00:06:06.020
+en plusieurs modules autonomes,
+
+00:06:06.020 --> 00:06:09.920
+dont chacun pourrait être spécifié individuellement,
+
+00:06:09.920 --> 00:06:15.155
+construit et testé seul, isolé du reste du projet.
+
+00:06:15.155 --> 00:06:18.144
+Et dès le premier jour, Noam et moi avons décidé de placer
+
+00:06:18.144 --> 00:06:21.680
+tous ces documents d'aide à la construction gratuitement
+
+00:06:21.680 --> 00:06:23.160
+en open source sur Internet.
+
+00:06:23.160 --> 00:06:27.631
+Les spécifications des puces, les API, 
+les descriptions de projet,
+
+00:06:27.631 --> 00:06:31.535
+les outils informatiques, les simulateurs hardware, les émulateurs d'unité centrale,

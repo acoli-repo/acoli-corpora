@@ -1,0 +1,36 @@
+WEBVTT
+
+00:09:57.778 --> 00:10:00.921
+Acest șir lung de numere și litere
+
+00:10:00.921 --> 00:10:05.996
+reprezintă un identificator unic
+legat de fiecare schimbare,
+
+00:10:05.996 --> 00:10:08.853
+dar care nu are nicio coordonare centrală.
+
+00:10:08.853 --> 00:10:13.342
+Fiecare sistem Git generează
+acest număr în același fel,
+
+00:10:13.342 --> 00:10:16.684
+ceea ce înseamnă că semnătura e legată
+
+00:10:16.684 --> 00:10:19.834
+de o singură schimbare
+
+00:10:19.834 --> 00:10:21.770
+și are următorul rezultat:
+
+00:10:21.770 --> 00:10:25.448
+un programator din Edinburgh
+și unul din Entebbe
+
+00:10:25.448 --> 00:10:29.150
+pot avea aceeași copie
+a aceleiași părți de software.
+
+00:10:29.150 --> 00:10:32.976
+Fiecare poate face schimbări
+și le poate combina

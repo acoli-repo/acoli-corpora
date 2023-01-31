@@ -1,0 +1,40 @@
+WEBVTT
+
+00:10:28.140 --> 00:10:30.907
+cancerous biopsies,
+
+00:10:30.907 --> 00:10:33.222
+and they've asked the computer to identify
+
+00:10:33.222 --> 00:10:35.693
+by looking at the data and survival rates
+
+00:10:35.693 --> 00:10:40.360
+to determine whether cells are actually
+
+00:10:40.360 --> 00:10:42.904
+cancerous or not,
+
+00:10:42.904 --> 00:10:44.682
+and sure enough, when you throw the data at it,
+
+00:10:44.682 --> 00:10:46.729
+through a machine-learning algorithm,
+
+00:10:46.729 --> 00:10:48.606
+the machine was able to identify
+
+00:10:48.606 --> 00:10:50.868
+the 12 telltale signs that best predict
+
+00:10:50.868 --> 00:10:54.167
+that this biopsy of the breast cancer cells
+
+00:10:54.167 --> 00:10:57.385
+are indeed cancerous.
+
+00:10:57.385 --> 00:10:59.883
+The problem: The medical literature
+
+00:10:59.883 --> 00:11:02.672
+only knew nine of them.

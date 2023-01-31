@@ -1,0 +1,50 @@
+WEBVTT
+
+00:06:27.830 --> 00:06:30.320
+Nedávno sa stala zjednocujúcim 
+vysvetlením toho,
+
+00:06:30.320 --> 00:06:33.000
+ako sa mozog vysporadúva s neurčitosťou.
+
+00:06:33.000 --> 00:06:36.690
+Jej podstata tkvie v tom, že robíme 
+dedukcie a potom jednáme.
+
+00:06:36.690 --> 00:06:38.000
+Zoberme si dedukcie.
+
+00:06:38.000 --> 00:06:41.450
+Cieľom je vytvárať si
+predstavy o skutočnosti.
+
+00:06:41.450 --> 00:06:42.470
+Aké predstavy?
+
+00:06:42.470 --> 00:06:44.680
+Príklad: kde v priestore sú moje ruky?
+
+00:06:44.680 --> 00:06:46.520
+Dívam sa na mačku či na líšku?
+
+00:06:46.520 --> 00:06:49.400
+Ale my budeme predstavy 
+vyjadrovať pravdepodobnosťami.
+
+00:06:49.400 --> 00:06:51.320
+Predstavy teda vyjadríme
+
+00:06:51.320 --> 00:06:53.000
+číslom medzi nulou a jednotkou –
+
+00:06:53.000 --> 00:06:56.000
+0 znamená „vôbec tomu neverím“, 
+1 „som si úplne istý“.
+
+00:06:56.000 --> 00:06:59.000
+A čísla medzi tým vyjadrujú 
+sivé medzistupne neistoty.
+
+00:06:59.000 --> 00:07:01.810
+Kľúčovým konceptom 
+v bayesovskej dedukcii je,

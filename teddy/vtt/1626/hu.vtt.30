@@ -1,0 +1,40 @@
+WEBVTT
+
+00:14:59.000 --> 00:15:01.000
+Így például
+
+00:15:01.000 --> 00:15:03.000
+a legkülönlegesebb esetekben,
+
+00:15:03.000 --> 00:15:05.000
+úgy tudjuk a programot fejleszteni,
+
+00:15:05.000 --> 00:15:09.000
+hogy kezdetben véletlenszerű utasításokat adunk,
+
+00:15:09.000 --> 00:15:11.000
+megkérjük a számítógépet, hogy legyen kedves
+
+00:15:11.000 --> 00:15:14.000
+hozzon létre százmillió véletlenszerű utasítás szekvenciát.
+
+00:15:14.000 --> 00:15:17.000
+És aztán futtassa le az összes ilyen a véletlen utasítás szekvenciát,
+
+00:15:17.000 --> 00:15:19.000
+illetve programokat,
+
+00:15:19.000 --> 00:15:22.000
+és válassza ki azokat, amely az elérni kívánt célhoz legközelebb visznek.
+
+00:15:22.000 --> 00:15:24.000
+Más szóval azt határozom meg, hogy mit szeretnék elérni.
+
+00:15:24.000 --> 00:15:26.000
+Például számokat sorrendbe szeretnék rendezni,
+
+00:15:26.000 --> 00:15:28.000
+egy egyszerű példa, amit már megcsináltam.
+
+00:15:28.000 --> 00:15:31.000
+Majd megkeresem azt a programot, amelynek eredménye legközelebb áll a rendezett számsorhoz.

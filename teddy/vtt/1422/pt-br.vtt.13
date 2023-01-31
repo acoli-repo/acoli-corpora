@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:27.000 --> 00:06:30.000
+E mais recentemente uma forma unificadora
+
+00:06:30.000 --> 00:06:33.000
+de pensar sobre como o cérebro lida com a incerteza.
+
+00:06:33.000 --> 00:06:36.000
+E a ideia fundamental é fazer inferências e depois executar ações.
+
+00:06:36.000 --> 00:06:38.000
+Então vamos pensar sobre a inferência.
+
+00:06:38.000 --> 00:06:40.000
+Queremos gerar crenças sobre o mundo.
+
+00:06:40.000 --> 00:06:42.000
+Então quais são as crenças?
+
+00:06:42.000 --> 00:06:44.000
+As crenças podem ser: onde estão meus braços no espaço?
+
+00:06:44.000 --> 00:06:46.000
+Estou procurando um gato ou uma raposa?
+
+00:06:46.000 --> 00:06:49.000
+Mas vamos representar crenças com probabilidades.
+
+00:06:49.000 --> 00:06:51.000
+Então vamos representar uma crença
+
+00:06:51.000 --> 00:06:53.000
+com um número entre zero e um --
+
+00:06:53.000 --> 00:06:56.000
+zero significa que não acredito nisso, um significa que tenho certeza disso.
+
+00:06:56.000 --> 00:06:59.000
+E os números entre eles dão os níveis cinza de incerteza.
+
+00:06:59.000 --> 00:07:01.000
+E a ideia central da inferência bayesiana

@@ -1,0 +1,45 @@
+WEBVTT
+
+00:08:28.535 --> 00:08:30.724
+pourtant, pendant des années,
+
+00:08:30.724 --> 00:08:32.913
+Torvalds l'a fait tourner
+
+00:08:32.913 --> 00:08:34.467
+non pas avec des outils automatisés,
+
+00:08:34.467 --> 00:08:36.021
+mais depuis sa boite e-mail.
+
+00:08:36.021 --> 00:08:37.577
+Les gens lui envoyaient
+littéralement par mail
+
+00:08:37.577 --> 00:08:40.532
+les changements sur lesquels 
+ils se mettaient d'accord,
+
+00:08:40.532 --> 00:08:43.487
+et il les fusionnait à la main.
+
+00:08:43.487 --> 00:08:46.442
+Et puis, 15 ans après avoir 
+observé Linux et trouvé
+
+00:08:46.442 --> 00:08:49.252
+comment la communauté fonctionnait,
+
+00:08:49.252 --> 00:08:52.606
+il a dit, « Je pense que je sais
+comment écrire
+
+00:08:52.606 --> 00:08:55.960
+un système de contrôle 
+de version pour les gens libres. »
+
+00:08:55.960 --> 00:08:58.086
+Il l'a appelé « Git ».
+
+00:08:58.086 --> 00:09:00.212
+Git est un contrôle de version distribué.

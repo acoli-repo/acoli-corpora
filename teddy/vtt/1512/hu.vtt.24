@@ -1,0 +1,41 @@
+WEBVTT
+
+00:11:58.177 --> 00:12:00.517
+Ez volt az első eset, 
+hogy nem papíron dolgoztam,
+
+00:12:00.517 --> 00:12:04.477
+hanem rögtön a képernyőn, 
+pixelből kiindulva.
+
+00:12:04.477 --> 00:12:08.330
+Akkoriban a képernyő bináris volt.
+
+00:12:08.330 --> 00:12:11.370
+A pixel vagy ki volt világítva,
+vagy sötét volt.
+
+00:12:11.370 --> 00:12:14.225
+Itt látják egy betű körvonalait,
+
+00:12:14.225 --> 00:12:15.692
+a nagy H-t,
+
+00:12:15.692 --> 00:12:18.493
+a kontúr a kövér fekete vonal,
+
+00:12:18.493 --> 00:12:21.369
+ahogyan a memóriában tárolva van,
+
+00:12:21.369 --> 00:12:23.039
+rátéve a bitmap-re.
+
+00:12:23.039 --> 00:12:25.187
+ami a szürke terület,
+
+00:12:25.187 --> 00:12:27.024
+az, ahogyan a képernyőn megjelenik,.
+
+00:12:27.024 --> 00:12:30.170
+A bitmap-et a körvonalak alapján 
+alakítottuk ki.

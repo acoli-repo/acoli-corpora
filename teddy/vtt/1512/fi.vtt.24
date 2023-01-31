@@ -1,0 +1,37 @@
+WEBVTT
+
+00:11:58.162 --> 00:12:00.496
+Työskentelin ensimmäistä kertaa
+
+00:12:00.496 --> 00:12:04.454
+suoraan näytöllä pikselilähtöisesti,
+
+00:12:04.454 --> 00:12:08.329
+Siihen aikaan näytöt olivat binäärisiä.
+
+00:12:08.329 --> 00:12:11.371
+Pikseli oli joko päällä tai pois päältä.
+
+00:12:11.371 --> 00:12:14.204
+Tässä näette kirjaimen ääriviivat,
+
+00:12:14.204 --> 00:12:15.704
+iso H,
+
+00:12:15.704 --> 00:12:18.496
+sen ääriviiva on musta ohut viiva,
+
+00:12:18.496 --> 00:12:21.371
+ja niin se tallentuu muistiin
+
+00:12:21.371 --> 00:12:23.037
+bittikarttaan yhdistettynä,
+
+00:12:23.037 --> 00:12:25.162
+joka on harmaa alue ja
+
+00:12:25.162 --> 00:12:27.037
+näin se esitetään ruudulla.
+
+00:12:27.037 --> 00:12:30.162
+Bittikartta rasteroidaan ääriviivasta.

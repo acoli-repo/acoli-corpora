@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:59.000 --> 00:11:01.000
+rather than a checkerboard.
+
+00:11:01.000 --> 00:11:04.000
+So you can read off binary numbers five, six and seven.
+
+00:11:04.000 --> 00:11:07.000
+And in order to get these kinds of computations started right,
+
+00:11:07.000 --> 00:11:09.000
+you need some kind of input, a kind of seed.
+
+00:11:09.000 --> 00:11:11.000
+You can use DNA origami for that.
+
+00:11:11.000 --> 00:11:13.000
+You can encode the number 32
+
+00:11:13.000 --> 00:11:15.000
+in the right-hand side of a DNA origami,
+
+00:11:15.000 --> 00:11:17.000
+and when you add those tiles that count,
+
+00:11:17.000 --> 00:11:20.000
+they will start to count -- they will read that 32
+
+00:11:20.000 --> 00:11:22.000
+and they'll stop at 32.
+
+00:11:22.000 --> 00:11:25.000
+So, what we've done is we've figured out a way
+
+00:11:25.000 --> 00:11:28.000
+to have a molecular program know when to stop going.
+
+00:11:28.000 --> 00:11:30.000
+It knows when to stop growing because it can count.
+
+00:11:30.000 --> 00:11:32.000
+It knows how big it is.

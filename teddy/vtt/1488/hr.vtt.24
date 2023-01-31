@@ -1,0 +1,37 @@
+WEBVTT
+
+00:11:57.000 --> 00:12:02.000
+Mrežnični čip koji smo dizajnirali se nalazi ovdje iza leće.
+
+00:12:02.000 --> 00:12:04.000
+I čip -- pokazati ću vam video
+
+00:12:04.000 --> 00:12:07.000
+koji silikonska mrežnica šalje kroz izlaznu jedinicu
+
+00:12:07.000 --> 00:12:10.000
+kada gleda Kareema Zaghloula,
+
+00:12:10.000 --> 00:12:12.000
+studenta koji je dizajnirao ovaj čip.
+
+00:12:12.000 --> 00:12:14.000
+Dopustite mi da objasnim što će te vidjeti, OK,
+
+00:12:14.000 --> 00:12:17.000
+zato što to pokazuje različite vrste informacija,
+
+00:12:17.000 --> 00:12:19.000
+nije posve neposredno kao kamera.
+
+00:12:19.000 --> 00:12:22.000
+Mrežnični čip izvlači četiri različite vrste informacija.
+
+00:12:22.000 --> 00:12:25.000
+Izvlači regije s tamnim kontrastom
+
+00:12:25.000 --> 00:12:28.000
+koje će se prikazati u ovom videu kao crvene.
+
+00:12:28.000 --> 00:12:32.000
+I izvlači regije s bijelim ili svijetlim kontrastom

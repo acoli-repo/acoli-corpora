@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+OK, so a computer picks a specific item of data from memory,
+
+00:09:01.000 --> 00:09:04.000
+it sends it into the processor or the ALU,
+
+00:09:04.000 --> 00:09:06.000
+and then it puts the result back into memory.
+
+00:09:06.000 --> 00:09:08.000
+That's the red path that's highlighted.
+
+00:09:08.000 --> 00:09:12.000
+The way brains work, I told you all, you have got all these neurons.
+
+00:09:12.000 --> 00:09:14.000
+And the way they represent information is
+
+00:09:14.000 --> 00:09:16.000
+they break up that data into little pieces
+
+00:09:16.000 --> 00:09:19.000
+that are represented by pulses and different neurons.
+
+00:09:19.000 --> 00:09:21.000
+So you have all these pieces of data
+
+00:09:21.000 --> 00:09:23.000
+distributed throughout the network.
+
+00:09:23.000 --> 00:09:26.000
+And then the way that you process that data to get a result
+
+00:09:26.000 --> 00:09:30.000
+is that you translate this pattern of activity into a new pattern of activity,
+
+00:09:30.000 --> 00:09:33.000
+just by it flowing through the network.

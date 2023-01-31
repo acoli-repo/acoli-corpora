@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:59.000 --> 00:09:01.000
+In the rest of the cases,
+
+00:09:01.000 --> 00:09:04.000
+typically the second best guess or third best guess was the right answer.
+
+00:09:04.000 --> 00:09:06.000
+There's also practical use
+
+00:09:06.000 --> 00:09:08.000
+for this particular procedure.
+
+00:09:08.000 --> 00:09:10.000
+There's a lot of these texts that are damaged.
+
+00:09:10.000 --> 00:09:12.000
+Here's an example of one such text.
+
+00:09:12.000 --> 00:09:15.000
+And we can use the computer model now to try to complete this text
+
+00:09:15.000 --> 00:09:17.000
+and make a best guess prediction.
+
+00:09:17.000 --> 00:09:20.000
+Here's an example of a symbol that was predicted.
+
+00:09:20.000 --> 00:09:22.000
+And this could be really useful as we try to decipher the script
+
+00:09:22.000 --> 00:09:25.000
+by generating more data that we can analyze.
+
+00:09:25.000 --> 00:09:28.000
+Now here's one other thing you can do with the computer model.
+
+00:09:28.000 --> 00:09:30.000
+So imagine a monkey
+
+00:09:30.000 --> 00:09:32.000
+sitting at a keyboard.

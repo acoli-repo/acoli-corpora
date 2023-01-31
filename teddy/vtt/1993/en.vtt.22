@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:57.669 --> 00:11:01.406
+The fake signals now completely control this GPS receiver.
+
+00:11:01.406 --> 00:11:02.901
+So is this really possible?
+
+00:11:02.901 --> 00:11:04.624
+Can someone really manipulate
+
+00:11:04.624 --> 00:11:06.606
+the timing and positioning of a GPS receiver
+
+00:11:06.606 --> 00:11:09.485
+just like that, with a spoofer?
+
+00:11:09.485 --> 00:11:11.500
+Well, the short answer is yes.
+
+00:11:11.500 --> 00:11:14.304
+The key is that civil GPS signals
+
+00:11:14.304 --> 00:11:15.406
+are completely open.
+
+00:11:15.406 --> 00:11:19.397
+They have no encryption. They have no authentication.
+
+00:11:19.397 --> 00:11:22.892
+They're wide open, vulnerable to a kind of spoofing attack.
+
+00:11:22.892 --> 00:11:25.467
+Even so, up until very recently,
+
+00:11:25.467 --> 00:11:27.859
+nobody worried about GPS spoofers.
+
+00:11:27.859 --> 00:11:29.837
+People figured that it would be too complex
+
+00:11:29.837 --> 00:11:32.652
+or too expensive for some hacker to build one.

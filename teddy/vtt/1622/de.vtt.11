@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:27.323 --> 00:05:30.061
+haben simuliert, was passiert,
+
+00:05:30.061 --> 00:05:33.492
+wenn selbst in schwachem Verkehr
+
+00:05:33.492 --> 00:05:36.116
+Autos nur ihre GPS-Positionen austauschen.
+
+00:05:36.116 --> 00:05:38.629
+Wir haben aus der Simulation heraus
+
+00:05:38.629 --> 00:05:41.656
+Robotertests gemacht, bei denen 
+die Roboter die gleichen Sensoren haben,
+
+00:05:41.656 --> 00:05:44.789
+wie sie auch jetzt an den Robotern 
+in Autos zu finden sind:
+
+00:05:44.789 --> 00:05:46.627
+Stereokameras, GPS-System
+
+00:05:46.627 --> 00:05:48.501
+und die Laser-Entfernungsmesser
+
+00:05:48.501 --> 00:05:50.741
+aus den Einparkhilfen.
+
+00:05:50.741 --> 00:05:55.225
+Die Roboter haben Fahrzeug-Fahrzeug-
+Kommunikation bekommen
+
+00:05:55.225 --> 00:05:57.134
+und sprechen jetzt miteinander.
+
+00:05:57.134 --> 00:05:58.673
+Wenn die Roboter sich annähern,
+
+00:05:58.673 --> 00:06:01.644
+wissen sie genau, wo sie alle sind,

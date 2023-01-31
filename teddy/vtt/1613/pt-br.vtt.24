@@ -1,0 +1,37 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:01.000
+como eu pensava quando eu fiz a versão simples no colégio -
+
+00:12:01.000 --> 00:12:03.000
+para algo com grande potencial.
+
+00:12:03.000 --> 00:12:07.000
+quando você aumenta a eficiência, você pode melhorar o design para que ele seja de baixo custo.
+
+00:12:07.000 --> 00:12:11.000
+Então nós definimos um caminho para tentar fazer isto com o menor custo possível.
+
+00:12:11.000 --> 00:12:13.000
+Nós construímos um modelo matemático gigante de como uma Stirling funciona.
+
+00:12:13.000 --> 00:12:15.000
+Aplicamos o algorítmo genético.
+
+00:12:15.000 --> 00:12:18.000
+E obtivemos os resultados para aquele mecanismo otimizado.
+
+00:12:18.000 --> 00:12:21.000
+Nós construímos cem diferentes mecanismos nos últimos dois anos.
+
+00:12:21.000 --> 00:12:24.000
+Medimos cada um deles, reajustamos o modelo para aquilo que medimos,
+
+00:12:24.000 --> 00:12:26.000
+e então conseguimos o protótipo atual.
+
+00:12:26.000 --> 00:12:29.000
+Um mecanismo muito compacto e barato.
+
+00:12:29.000 --> 00:12:31.000
+E então é assim que este mecanismo é.

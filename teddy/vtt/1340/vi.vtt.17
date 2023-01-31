@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:28.000 --> 00:08:30.000
+mà ở đó xác suất có sự sống cao.
+
+00:08:30.000 --> 00:08:32.000
+Chúng tôi di chuyển dọc theo bức tường, trong một quá trình được gọi là hoạt động gần,
+
+00:08:32.000 --> 00:08:34.000
+để tìm kiếm những thay đổi về màu sắc.
+
+00:08:34.000 --> 00:08:37.000
+Nếu chúng tôi thấy thứ gì đó có vẻ thú vị, chúng tôi sẽ kéo nó vào trong chiếc kính hiển vi.
+
+00:08:37.000 --> 00:08:41.000
+Nếu nó đạt yêu cầu qua bài kiểm tra hiển vị, chúng tôi sẽ tiến hành thu thập.
+
+00:08:41.000 --> 00:08:43.000
+Hoặc chúng tôi sẽ thu thập mẫu dạng lỏng,
+
+00:08:43.000 --> 00:08:46.000
+hoặc chúng tôi có thể lấy một lõi rắn từ bức tường.
+
+00:08:46.000 --> 00:08:47.000
+Không có ai phải điều khiển quá trình này.
+
+00:08:47.000 --> 00:08:49.000
+Đó hoàn toàn là hành vi tự động
+
+00:08:49.000 --> 00:08:51.000
+được thực hiện bởi chính robot.
+
+00:08:52.000 --> 00:08:54.000
+Hattrick thực sự của robot này, mặc dù,
+
+00:08:54.000 --> 00:08:57.000
+là hệ thống điều hướng phân rã mà chúng tôi phát triển,
+
+00:08:57.000 --> 00:09:01.000
+gọi là 3D SLAM, dùng cho công việc đồng thời định vị và lập bản đồ.

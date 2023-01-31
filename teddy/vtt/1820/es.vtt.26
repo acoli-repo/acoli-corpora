@@ -1,0 +1,37 @@
+WEBVTT
+
+00:12:57.000 --> 00:13:02.000
+Si quisiéramos hacer un cuadro de tamaño 10, 100 o 1000,
+
+00:13:02.000 --> 00:13:04.000
+si sólo usáramos origami de ADN,
+
+00:13:04.000 --> 00:13:07.000
+necesitaríamos el número de hebras que sea el cuadrado
+
+00:13:07.000 --> 00:13:09.000
+del tamaño de ese cuadro,
+
+00:13:09.000 --> 00:13:11.000
+entonces necesitaríamos 100, 10,000 o un millón de hebras de ADN.
+
+00:13:11.000 --> 00:13:13.000
+Eso no está al alcance.
+
+00:13:13.000 --> 00:13:15.000
+Pero si usamos un poco de computación --
+
+00:13:15.000 --> 00:13:19.000
+usamos origami, más algunos mosaicos que cuentan--
+
+00:13:19.000 --> 00:13:22.000
+entonces podemos lograrlo usando 100, 200 o 300 hebras de ADN.
+
+00:13:22.000 --> 00:13:27.000
+Y así podemos reducir exponencialmente el número de hebras de ADN que usamos
+
+00:13:27.000 --> 00:13:30.000
+si usamos el conteo, si usamos un poco de computación.
+
+00:13:30.000 --> 00:13:33.000
+Y entonces la computación es una forma poderosa

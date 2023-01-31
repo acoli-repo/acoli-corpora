@@ -1,0 +1,51 @@
+WEBVTT
+
+00:12:57.821 --> 00:13:00.210
+Quel codice sembra uguale all'altro
+
+00:13:00.210 --> 00:13:02.448
+su quel sistema.
+
+00:13:02.448 --> 00:13:04.849
+Potrei non essere in grado di trovare 
+il codice che controlla la batteria,
+
+00:13:04.849 --> 00:13:06.860
+ma ci sono molte cose simili a questa.
+
+00:13:06.860 --> 00:13:08.714
+C'è il codice che controlla lo schermo,
+
+00:13:08.714 --> 00:13:10.930
+che controlla i tasti, 
+che controlla i microfoni,
+
+00:13:10.930 --> 00:13:12.858
+quindi anche se non trovo 
+il codice della batteria,
+
+00:13:12.858 --> 00:13:15.103
+scommetto che riesco a trovare 
+una di queste cose.
+
+00:13:15.103 --> 00:13:17.808
+Quindi il passo successivo 
+nel mio processo di analisi binaria
+
+00:13:17.808 --> 00:13:19.039
+è osservare le informazioni
+
+00:13:19.039 --> 00:13:21.057
+simili le une alle altre.
+
+00:13:21.057 --> 00:13:25.040
+È veramente difficile 
+farlo a livello binario,
+
+00:13:25.040 --> 00:13:28.683
+ma se traduciamo 
+queste somiglianze in astrazioni visive,
+
+00:13:28.683 --> 00:13:31.121
+non devo neanche 
+passare al setaccio i dati grezzi.

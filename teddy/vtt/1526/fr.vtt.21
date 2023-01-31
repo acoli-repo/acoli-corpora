@@ -1,0 +1,44 @@
+WEBVTT
+
+00:10:28.281 --> 00:10:30.944
+des biopsies de cellules cancéreuses.
+
+00:10:30.944 --> 00:10:33.341
+Ils ont demandé à des ordinateurs
+
+00:10:33.341 --> 00:10:35.835
+d'analyser les données
+et le taux de survie
+
+00:10:35.835 --> 00:10:42.660
+pour déterminer quelles cellules
+sont réellement cancéreuses.
+
+00:10:42.660 --> 00:10:44.890
+Sans surprise, 
+en fournissant assez de données
+
+00:10:44.890 --> 00:10:46.933
+à l'algorithme 
+d'apprentissage automatique,
+
+00:10:46.933 --> 00:10:48.786
+l'ordinateur était capable d'identifier
+
+00:10:48.786 --> 00:10:51.354
+les 12 signes caractéristiques 
+qui prédisent au mieux
+
+00:10:51.354 --> 00:10:54.601
+que cette biopsie 
+de cellules tumorales mammaires
+
+00:10:54.601 --> 00:10:57.325
+sont en effet cancéreuses.
+
+00:10:57.325 --> 00:10:59.255
+Le truc,
+
+00:10:59.255 --> 00:11:02.959
+c'est que les médecins
+n'en connaissaient que 9.

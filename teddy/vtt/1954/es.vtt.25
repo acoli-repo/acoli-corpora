@@ -1,0 +1,36 @@
+WEBVTT
+
+00:12:29.714 --> 00:12:32.342
+Trata de permanecer en
+un punto fijo en el espacio.
+
+00:12:32.342 --> 00:12:36.179
+Si trato de moverlo, lucha
+
+00:12:36.179 --> 00:12:40.334
+y se regresa a donde quiere estar.
+
+00:12:40.334 --> 00:12:43.373
+Sin embargo, podemos 
+cambiar este comportamiento.
+
+00:12:43.373 --> 00:12:45.072
+Podemos utilizar modelos matemáticos
+
+00:12:45.072 --> 00:12:48.205
+para estimar la fuerza que 
+estoy aplicando al quad.
+
+00:12:48.205 --> 00:12:51.443
+Una vez que sabemos esta fuerza,
+también podemos cambiar las leyes de la física,
+
+00:12:51.443 --> 00:12:55.942
+en cuanto al quad, por supuesto.
+
+00:12:55.942 --> 00:12:58.205
+Aquí el quad se comporta 
+como si estuviera
+
+00:12:58.205 --> 00:13:02.570
+en un fluido viscoso.

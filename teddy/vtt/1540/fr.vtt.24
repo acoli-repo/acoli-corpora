@@ -1,0 +1,34 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:00.000
+Maintenant, supposez qu'on teste tout le monde.
+
+00:12:00.000 --> 00:12:02.000
+Que se passe-t-il ?
+
+00:12:02.000 --> 00:12:04.000
+Et bien, sur les 100 qui ont la maladie,
+
+00:12:04.000 --> 00:12:09.000
+le test aura la bonne réponse 99 fois sur cent, et 99 seront testés positifs.
+
+00:12:09.000 --> 00:12:11.000
+Sur tous les autres, qui sont en bonne santé,
+
+00:12:11.000 --> 00:12:14.000
+le test répondra juste à 99 pour cent.
+
+00:12:14.000 --> 00:12:16.000
+Il sera faux seulement une fois sur cent.
+
+00:12:16.000 --> 00:12:20.000
+Mais il y a tellement de gens qu'il y aura un grand nombre de faux positifs.
+
+00:12:20.000 --> 00:12:22.000
+Dit autrement --
+
+00:12:22.000 --> 00:12:27.000
+sur tous ceux qui sont testés positifs -- voici les individus concernés --
+
+00:12:27.000 --> 00:12:32.000
+moins d'un sur 100 a vraiment la maladie.

@@ -1,0 +1,38 @@
+WEBVTT
+
+00:11:27.856 --> 00:11:30.427
+akkor találnánk egy algoritmust 
+a kereséshez,
+
+00:11:30.427 --> 00:11:33.025
+a visszakereséshez, és hasonló 
+műveletekhez,
+
+00:11:33.025 --> 00:11:35.490
+ami egyszerűbb és hatékonyabb,
+
+00:11:35.490 --> 00:11:38.825
+mivel nem a beszéd szerkezetét használja,
+
+00:11:38.825 --> 00:11:45.382
+hanem a gondolatok szerkezetét.
+
+00:11:45.382 --> 00:11:48.258
+A gondolatok adatszerkezetét.
+
+00:11:48.278 --> 00:11:50.236
+Ez igen merész gondolat.
+
+00:11:50.236 --> 00:11:52.282
+Nézzük meg kissé részletesebben.
+
+00:11:52.282 --> 00:11:54.394
+Ez a FreeSpeech.
+
+00:11:54.394 --> 00:11:57.010
+Az egyik oldalon ott áll a FreeSpeech 
+reprezentáció,
+
+00:11:57.010 --> 00:12:00.122
+és elkészült a FreeSpeech Engine, 
+ami angol mondatokat készít.

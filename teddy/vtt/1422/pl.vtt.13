@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:27.000 --> 00:06:30.000
+Od niedawna stosuje się ją do analizy tego,
+
+00:06:30.000 --> 00:06:33.000
+jak mózg radzi sobie z niepewnością.
+
+00:06:33.000 --> 00:06:36.000
+Z zasady wolimy najpierw wnioskować, a potem działać.
+
+00:06:36.000 --> 00:06:38.000
+Pomyślmy więc o wnioskowaniu.
+
+00:06:38.000 --> 00:06:40.000
+Chcecie tworzyć poglądy o świecie.
+
+00:06:40.000 --> 00:06:42.000
+Czym są te przekonania?
+
+00:06:42.000 --> 00:06:44.000
+Np. gdzie w przestrzeni są moje ręce?
+
+00:06:44.000 --> 00:06:46.000
+Czy patrzę na kota czy lisa?
+
+00:06:46.000 --> 00:06:49.000
+Chcemy pokazać przekonania za pomocą prawdopodobieństw.
+
+00:06:49.000 --> 00:06:51.000
+Przedstawimy przekonanie
+
+00:06:51.000 --> 00:06:53.000
+jako liczbę między 0 a 1:
+
+00:06:53.000 --> 00:06:56.000
+0 znaczy "nie wierzę", a 1 - "jestem pewien".
+
+00:06:56.000 --> 00:06:59.000
+Liczby pośrednie dają szary obszar niepewności.
+
+00:06:59.000 --> 00:07:01.000
+Wnioskowanie Bayesa polega na tym,

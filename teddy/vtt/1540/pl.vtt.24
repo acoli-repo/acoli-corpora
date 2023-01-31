@@ -1,0 +1,34 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:00.000
+Przypuśćmy, że wszystkich poddamy testowi.
+
+00:12:00.000 --> 00:12:02.000
+Co się okazuje?
+
+00:12:02.000 --> 00:12:04.000
+Pomiędzy 100 chorymi osobami
+
+00:12:04.000 --> 00:12:09.000
+99 otrzyma pozytywny wynik - 99%.
+
+00:12:09.000 --> 00:12:11.000
+Pomiędzy tymi wszystkimi, którzy nie są chorzy,
+
+00:12:11.000 --> 00:12:14.000
+test poda prawidłową diagnozę w 99% przypadków,
+
+00:12:14.000 --> 00:12:16.000
+zaś błędną przy zaledwie 1%.
+
+00:12:16.000 --> 00:12:20.000
+Jednak badana grupa jest tak duża, że liczba błędnych wyników będzie znaczna.
+
+00:12:20.000 --> 00:12:22.000
+Jednak badana grupa jest tak duża, że liczba błędnych wyników będzie znaczna.
+
+00:12:22.000 --> 00:12:27.000
+Ze wszystkich, którzy otrzymają pozytywny wynik
+
+00:12:27.000 --> 00:12:32.000
+mniej niż jeden na 100 będzie naprawdę chory.

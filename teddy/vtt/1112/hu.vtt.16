@@ -1,0 +1,40 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:01.000
+Nagy gonddal választják ki azt, akivel összekapcsolódnak.
+
+00:08:01.000 --> 00:08:04.000
+Azért is több ez, mint rendszerezés,
+
+00:08:04.000 --> 00:08:06.000
+mert egy három dimenziós
+
+00:08:06.000 --> 00:08:08.000
+digitális modellt kell belőle építenünk.
+
+00:08:08.000 --> 00:08:10.000
+És ezt meg is tettük több tízezer neuronnal,
+
+00:08:10.000 --> 00:08:13.000
+digitálisan modelleztük a különböző
+
+00:08:13.000 --> 00:08:15.000
+idegeket, amikkel találkoztunk.
+
+00:08:15.000 --> 00:08:17.000
+És amint ez meglett, elkezdhettük
+
+00:08:17.000 --> 00:08:21.000
+építeni az agykérgi oszlopot.
+
+00:08:21.000 --> 00:08:24.000
+És itt összetekerjük.
+
+00:08:24.000 --> 00:08:27.000
+De miközben ezt tesszük, azt vesszük észre,
+
+00:08:27.000 --> 00:08:29.000
+hogy az ágak keresztezik egymást
+
+00:08:29.000 --> 00:08:32.000
+valójában több millió helyen,

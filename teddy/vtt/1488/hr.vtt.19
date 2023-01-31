@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:26.000 --> 00:09:30.000
+jest da prevedete taj uzorak aktivnosti u novi uzorak aktivnosti,
+
+00:09:30.000 --> 00:09:33.000
+prateći samo njegov tok kroz mrežu.
+
+00:09:33.000 --> 00:09:35.000
+Dakle spojite te veze tako
+
+00:09:35.000 --> 00:09:38.000
+da kao ulazni uzorak samo teče
+
+00:09:38.000 --> 00:09:40.000
+i stvara izlazni uzorak.
+
+00:09:40.000 --> 00:09:44.000
+Ono što vidite ovdje su ove redundantne veze.
+
+00:09:44.000 --> 00:09:48.000
+Dakle, ako ovaj ili onaj dio podatka postane izmiješan do neprepoznatljivosti
+
+00:09:48.000 --> 00:09:53.000
+onda se ne pojavljuje ovdje, i ova dva dijela mogu aktivirati dio koji nedostaje
+
+00:09:53.000 --> 00:09:55.000
+preko ovih redundantnih veza.
+
+00:09:55.000 --> 00:09:57.000
+Čak i ako kroz ove loše naprave
+
+00:09:57.000 --> 00:10:00.000
+gdje ponekad želite dobiti jedan, a dobijete nulu i to se ne pokaže,
+
+00:10:00.000 --> 00:10:02.000
+postoji redundancija u mreži

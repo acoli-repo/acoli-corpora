@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:58.673 --> 00:06:01.644
+přesně sledují vzájemnou polohu
+
+00:06:01.644 --> 00:06:04.381
+a mohou se sobě navzájem vyhnout.
+
+00:06:04.381 --> 00:06:07.607
+Nyní do této kombinace přidáváme více a více robotů
+
+00:06:07.607 --> 00:06:09.078
+a narazili jsme na určité problémy.
+
+00:06:09.078 --> 00:06:11.437
+Jeden z těch problémů je, když je kolem příliš mnoho štěbetání,
+
+00:06:11.437 --> 00:06:15.165
+je obtížné zpracovat všechny balíčky, takže musíte něco upřednostnit,
+
+00:06:15.165 --> 00:06:17.522
+a zde vám pomohou prediktivní modely.
+
+00:06:17.522 --> 00:06:21.894
+Pokud vaše auta-roboty všechny sledují předpovězené trajektorie,
+
+00:06:21.894 --> 00:06:23.661
+nemusíte věnovat tolik pozornosti těm balíčkům.
+
+00:06:23.661 --> 00:06:25.364
+Upřednostníte jednoho člověka,
+
+00:06:25.364 --> 00:06:26.697
+který se zdá být trochu mimo kurz.
+
+00:06:26.697 --> 00:06:29.223
+Ten by mohl být problémem.
+
+00:06:29.223 --> 00:06:32.225
+A vy můžete předpovědět novou trajektorii.

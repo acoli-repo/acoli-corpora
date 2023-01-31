@@ -1,0 +1,37 @@
+WEBVTT
+
+00:08:29.419 --> 00:08:32.188
+et tout ce qu'il faisait, 
+c'est qu'après chacun des coups,
+
+00:08:32.188 --> 00:08:35.388
+il comptait les probabilités
+de chacune des configurations du damier
+
+00:08:35.388 --> 00:08:39.799
+de mener à la victoire ou à la défaite.
+
+00:08:39.799 --> 00:08:43.014
+Il joue contre l'ordinateur. Il gagne.
+
+00:08:43.014 --> 00:08:45.505
+Il joue contre l'ordinateur. Il gagne.
+
+00:08:45.505 --> 00:08:49.150
+Il joue contre l'ordinateur. Il gagne.
+
+00:08:49.150 --> 00:08:53.962
+Puis Arthur Samuel a laissé l'ordinateur 
+jouer contre lui-même.
+
+00:08:53.962 --> 00:08:56.961
+Plus il joue contre lui-même, 
+plus il collecte de données.
+
+00:08:56.961 --> 00:08:58.312
+Plus il collecte de données,
+
+
+00:08:58.312 --> 00:09:01.471
+plus il augmente 
+la précision de ses prédictions.

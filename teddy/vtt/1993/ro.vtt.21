@@ -1,0 +1,31 @@
+WEBVTT
+
+00:10:27.653 --> 00:10:30.288
+care corespunde semnalelor autentice.
+
+00:10:30.288 --> 00:10:33.103
+Cele trei puncte roşii reprezintă punctele de urmărire
+
+00:10:33.103 --> 00:10:35.982
+care încearcă să se păstreze centrate pe acel vârf.
+
+00:10:35.982 --> 00:10:39.047
+Însă dacă trimiteţi un semnal GPS fals,
+
+00:10:39.047 --> 00:10:43.513
+apare un alt vârf şi dacă puteţi păstra aceste două vârfuri
+
+00:10:43.513 --> 00:10:48.231
+perfect aliniate, punctele de urmărire nu pot face diferenţa,
+
+00:10:48.231 --> 00:10:51.542
+şi sunt deturnate de cel mai puternic semnal contrafăcut,
+
+00:10:51.542 --> 00:10:55.502
+cu vârful autentic ignorat în mod forţat.
+
+00:10:55.502 --> 00:10:57.669
+În acest moment, jocul e câștigat.
+
+00:10:57.669 --> 00:11:01.406
+Semnalele false controlează complet acest receptor GPS.

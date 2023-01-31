@@ -1,0 +1,28 @@
+WEBVTT
+
+00:10:28.042 --> 00:10:31.553
+Các bạn chú ý nhé, khi duỗi hết ra, những máy bay quad này sẽ ở vị trí thẳng đứng
+
+00:10:36.486 --> 00:10:38.258
+(Vỗ tay)
+
+00:10:38.258 --> 00:10:40.545
+Thực tế, khi mở rộng hết cỡ
+
+00:10:40.545 --> 00:10:43.230
+nó sẽ lớn hơn gấp 5 lần so với những gì mà một vận động viên nhẩy mạo hiểm có thể cảm nhận
+
+00:10:43.230 --> 00:10:47.818
+khi kết thúc cú lăng người
+
+00:10:51.009 --> 00:10:53.686
+Các thuật toán để thực hiện được động tác này thì tương tự như
+
+00:10:53.686 --> 00:10:57.070
+khi một chiếc quad đánh bóng lại phía tôi.
+
+00:10:57.070 --> 00:10:59.934
+Các mô hình toán được sử dụng nhằm không ngừng lặp lại
+
+00:10:59.934 --> 00:11:04.449
+quy trình phối hợp 50 lần mỗi giây.

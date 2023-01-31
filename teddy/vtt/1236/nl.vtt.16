@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:01.000
+door deze visachtige symbolen en wat andere tekens,
+
+00:08:01.000 --> 00:08:03.000
+maar nooit door die tekens onderaan.
+
+00:08:03.000 --> 00:08:05.000
+Daarnaast zijn er wat tekens
+
+00:08:05.000 --> 00:08:07.000
+die bij voorkeur aan het eind van teksten staan,
+
+00:08:07.000 --> 00:08:09.000
+zoals dit komvormige teken.
+
+00:08:09.000 --> 00:08:11.000
+Dit teken is trouwens
+
+00:08:11.000 --> 00:08:13.000
+het meest voorkomende teken in het schrift.
+
+00:08:13.000 --> 00:08:16.000
+Door deze patronen kregen we een idee.
+
+00:08:16.000 --> 00:08:18.000
+Het idee was om een computer te gebruiken
+
+00:08:18.000 --> 00:08:20.000
+om die patronen te leren.
+
+00:08:20.000 --> 00:08:23.000
+We gaven de computer de bestaande teksten.
+
+00:08:23.000 --> 00:08:25.000
+En de computer leerde een statistisch model
+
+00:08:25.000 --> 00:08:27.000
+van welke symbolen meestal samen voorkomen
+
+00:08:27.000 --> 00:08:29.000
+en welke symbolen meestal op elkaar volgen.
+
+00:08:29.000 --> 00:08:31.000
+Als we het computermodel hebben,

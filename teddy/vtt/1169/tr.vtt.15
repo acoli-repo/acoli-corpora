@@ -1,0 +1,49 @@
+WEBVTT
+
+00:07:29.000 --> 00:07:32.000
+resim neydi ? Bir bebeğin yüzüydü.
+
+00:07:32.000 --> 00:07:34.000
+Peki bizim yaklaşımımızda ne oldu,
+
+00:07:34.000 --> 00:07:36.000
+yani kod kısmını eklediğimizde ?
+
+00:07:36.000 --> 00:07:38.000
+Gördüğünüz gibi çok daha iyi .
+
+00:07:38.000 --> 00:07:40.000
+Bir bebeğin yüzü olduğunu söyleyebilmenin ötesinde
+
+00:07:40.000 --> 00:07:42.000
+bu bebeğin yüzü olduğunu da söyleyebilirsiniz,
+
+00:07:42.000 --> 00:07:44.000
+ki bu gerçekten zor bir iş.
+
+00:07:44.000 --> 00:07:46.000
+Solda sadece kodlayıcının
+
+00:07:46.000 --> 00:07:48.000
+olması durumu gösteriliyor, sağda ise
+
+00:07:48.000 --> 00:07:50.000
+kör bir retina ve kodlayıcı-dönüştürücü olması durumu.
+
+00:07:50.000 --> 00:07:52.000
+Fakat burada gerçekten önemli olan kodlayıcı,
+
+00:07:52.000 --> 00:07:54.000
+çünkü kodlayıcıyı farklı dönüştürücülerle
+
+00:07:54.000 --> 00:07:56.000
+birleştirebiliriz.
+
+00:07:56.000 --> 00:07:58.000
+Bu gerçekten ilk denediğimizdi.
+
+00:07:58.000 --> 00:08:00.000
+Standart metot hakkında bir şey söylemek istiyorum.
+
+00:08:00.000 --> 00:08:02.000
+Kör bir retinayı yanıt verebilir

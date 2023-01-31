@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:59.058 --> 00:05:02.442
+nous voyons comment aplanir les facteurs de confusion,
+
+00:05:02.442 --> 00:05:04.603
+et recherchons les marqueurs réels de la maladie.
+
+00:05:04.603 --> 00:05:07.100
+TR : Donc, vous êtes précis à 86 % maintenant ?
+
+00:05:07.100 --> 00:05:08.294
+ML : C'est beaucoup mieux que ça.
+
+00:05:08.294 --> 00:05:10.014
+En fait, mon étudiant Thanasis, je dois vous parler de lui,
+
+00:05:10.014 --> 00:05:11.884
+parce qu'il a fait un travail fantastique,
+
+00:05:11.884 --> 00:05:15.654
+et maintenant il a prouvé que ça fonctionne aussi sur le réseau de téléphonie mobile
+
+00:05:15.654 --> 00:05:19.044
+ce qui permet ce projet, et nous obtenons une précision de 99 %.
+
+00:05:19.044 --> 00:05:20.620
+TR : 99 %. Eh bien, c'est ce qu'on peut appeler une amélioration.
+
+00:05:20.620 --> 00:05:22.821
+Donc cela signifie que les gens seront capables de ...
+
+00:05:22.821 --> 00:05:24.673
+ML : (Rires)
+
+00:05:24.673 --> 00:05:26.579
+TR : Les gens seront en mesure d'appeler depuis leurs téléphones portables
+
+00:05:26.579 --> 00:05:29.651
+pour faire ce test et les personnes atteintes de la maladie de Parkinson pourraient appeler,
+
+00:05:29.651 --> 00:05:32.521
+enregistrer leur voix, et puis leur médecin peut vérifier

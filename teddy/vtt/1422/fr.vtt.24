@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+Soit pas de délai,
+
+00:12:01.000 --> 00:12:03.000
+auquel cas la lumière chatouillerait votre paume,
+
+00:12:03.000 --> 00:12:07.000
+soit avec un délai de deux ou trois dixièmes de seconde.
+
+00:12:07.000 --> 00:12:09.000
+ce qui est important ici
+
+00:12:09.000 --> 00:12:12.000
+est que la main droite fait toujours la même chose, un mouvement sinusoïdal.
+
+00:12:12.000 --> 00:12:15.000
+La main gauche fait toujours pareille et donne des chatouillements sinusoïdaux.
+
+00:12:15.000 --> 00:12:17.000
+La seule chose que nous manipulons est la causalité rythmique.
+
+00:12:17.000 --> 00:12:19.000
+Et en passant de 0 à 0.1 seconde,
+
+00:12:19.000 --> 00:12:21.000
+ça chatouille plus.
+
+00:12:21.000 --> 00:12:23.000
+En passant de 0.1 à 0.2 secondes,
+
+00:12:23.000 --> 00:12:25.000
+ça chatouille plus à la fin.
+
+00:12:25.000 --> 00:12:27.000
+Et une fois à 0.2 seconde,
+
+00:12:27.000 --> 00:12:29.000
+ça chatouille autant
+
+00:12:29.000 --> 00:12:31.000
+le robot qui vient de vous chatouiller, sans que vous n'ayez rien fait.

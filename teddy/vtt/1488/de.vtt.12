@@ -1,0 +1,25 @@
+WEBVTT
+
+00:05:59.000 --> 00:06:03.000
+kann Strom das Gate passieren und es entsteht ein stetiger Stromfluss.
+
+00:06:03.000 --> 00:06:07.000
+Wenn man das Gate ausschaltet, fließt kein Strom mehr durch das Teil.
+
+00:06:07.000 --> 00:06:12.000
+Ihr Computer interpretiert einen vorhandenen Stromfluss als eine Eins
+
+00:06:12.000 --> 00:06:16.000
+und die Abwesenheit eines Stromflusses als Null.
+
+00:06:16.000 --> 00:06:22.000
+Weil Transistoren jedoch kleiner und kleiner und kleiner werden, sehen wir zunehmend,
+
+00:06:22.000 --> 00:06:24.000
+dass sie sich nicht mehr so verhalten.
+
+00:06:24.000 --> 00:06:29.000
+Tatsächlich beginnen sie, sich mehr wie das Bauteil in Neuronen zu verhalten,
+
+00:06:29.000 --> 00:06:31.000
+das Ionenkanal genannt wird.

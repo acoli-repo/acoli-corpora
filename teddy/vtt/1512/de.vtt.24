@@ -1,0 +1,42 @@
+WEBVTT
+
+00:11:58.177 --> 00:12:00.517
+Zum ersten Mal arbeitete 
+ich nicht auf Papier,
+
+00:12:00.517 --> 00:12:04.477
+sondern direkt am Bildschirm,
+Pixel für Pixel.
+
+00:12:04.477 --> 00:12:08.330
+Zu der Zeit waren Bildschirme binär.
+
+00:12:08.330 --> 00:12:11.370
+Das Pixel war entweder an oder aus.
+
+00:12:11.370 --> 00:12:14.225
+Hier sehen Sie die Kontur
+eines Buchstaben,
+
+00:12:14.225 --> 00:12:15.692
+ein großes "H",
+
+00:12:15.692 --> 00:12:18.493
+die dünne schwarze Linie 
+um den Buchstaben.
+
+00:12:18.493 --> 00:12:21.369
+So wird der Buchstabe gespeichert,
+
+00:12:21.369 --> 00:12:23.309
+eingeblendet über eine Bitmap-Grafik,
+
+00:12:23.309 --> 00:12:25.187
+die graue Fläche, die zeigt,
+
+00:12:25.187 --> 00:12:27.024
+wie es auf dem Bildschirm erscheint.
+
+00:12:27.024 --> 00:12:30.170
+Die Bitmap wird auf Grundlage
+der Kontur gerastert.

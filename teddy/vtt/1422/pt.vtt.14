@@ -1,0 +1,46 @@
+WEBVTT
+
+00:06:59.410 --> 00:07:01.860
+A ideia-chave da inferência de Bayes.
+
+00:07:01.860 --> 00:07:03.880
+é que temos duas fontes de informação
+
+00:07:03.880 --> 00:07:06.250
+a partir das quais
+fazemos a nossa inferência.
+
+00:07:06.250 --> 00:07:08.280
+Temos dados que, em neurociência,
+
+00:07:08.280 --> 00:07:09.880
+são as entradas sensoriais.
+
+00:07:09.890 --> 00:07:12.510
+Tenho uma entrada sensorial,
+para produzir crenças.
+
+00:07:12.510 --> 00:07:15.860
+Mas há uma outra fonte de informação,
+que é o conhecimento anterior.
+
+00:07:15.860 --> 00:07:18.800
+Acumulamos conhecimento ao longo da vida
+através de memórias.
+
+00:07:18.800 --> 00:07:21.210
+A vantagem da Teoria de Decisão de Bayes.
+
+00:07:21.210 --> 00:07:24.160
+é que nos fornece a parte matemática
+da forma de otimizar
+
+00:07:24.220 --> 00:07:26.950
+o nosso conhecimento anterior
+com as evidências sensoriais
+
+00:07:26.950 --> 00:07:28.790
+para a formação de novas crenças.
+
+00:07:28.790 --> 00:07:30.290
+Coloquei a fórmula ali em cima.

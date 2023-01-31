@@ -1,0 +1,37 @@
+WEBVTT
+
+00:10:27.653 --> 00:10:30.288
+koja odgovara pravim signalima.
+
+00:10:30.288 --> 00:10:33.103
+Ove tri crvene tačke
+predstavljaju tačke praćenja
+
+00:10:33.103 --> 00:10:35.982
+koje pokušavaju da ostanu centrirane
+na toj krivi.
+
+00:10:35.982 --> 00:10:39.047
+Ali ako pošaljete lažan GPS signal,
+
+00:10:39.047 --> 00:10:43.513
+pojaviće se još jedna kriva,
+a ako uspete da te dve krive
+
+00:10:43.513 --> 00:10:48.231
+savršeno preklopite, tačke praćenja
+neće pronaći razliku
+
+00:10:48.231 --> 00:10:51.542
+i biće prevarene
+snažnijim, falsifikovanim signalom,
+
+00:10:51.542 --> 00:10:55.502
+dok će stvarna kriva biti potisnuta.
+
+00:10:55.502 --> 00:10:57.669
+U ovom trenutku je sve gotovo.
+
+00:10:57.669 --> 00:11:01.406
+Lažni signali sada potpuno kontrolišu
+ovaj GPS prijemnik.

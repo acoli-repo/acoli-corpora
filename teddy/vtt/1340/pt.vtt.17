@@ -1,0 +1,45 @@
+WEBVTT
+
+00:08:28.270 --> 00:08:30.060
+onde haja alta probabilidade de vida.
+
+00:08:30.060 --> 00:08:33.080
+Movimentamo-lo ao longo da parede,
+numa operação de proximidade,
+
+00:08:33.080 --> 00:08:34.790
+procurando alterações de cor.
+
+00:08:34.810 --> 00:08:37.790
+Se virmos alguma coisa interessante
+colocamo-la no microscópio.
+
+00:08:37.800 --> 00:08:41.300
+Se passar o teste do microscópio,
+fazemos uma recolha.
+
+00:08:41.340 --> 00:08:43.250
+Podemos recolher uma amostra líquida
+
+00:08:43.270 --> 00:08:46.000
+ou tiramos um pedaço sólido da parede.
+
+00:08:46.000 --> 00:08:47.770
+Tudo isto sem usarmos as mãos.
+
+00:08:47.800 --> 00:08:49.530
+Aqui é tudo comportamento autónomo
+
+00:08:49.540 --> 00:08:51.900
+que é realizado pelo robô, por si mesmo.
+
+00:08:52.110 --> 00:08:54.390
+Mas o truque de magia deste veículo
+
+00:08:54.410 --> 00:08:57.170
+é um sistema de navegação
+revolucionário que desenvolvemos,
+
+00:08:57.210 --> 00:09:00.900
+conhecido por SLAM 3D, para localização
+e mapeamento simultâneo.

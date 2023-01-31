@@ -1,0 +1,52 @@
+WEBVTT
+
+00:04:58.308 --> 00:05:00.558
+převést například negaci,
+
+00:05:00.558 --> 00:05:02.294
+jako: "Já nechci polévku.",
+
+00:05:02.294 --> 00:05:04.514
+pomocí otázek by to nešlo.
+
+00:05:04.514 --> 00:05:06.799
+K tomu je nutné změnit slovo "chtít".
+
+00:05:06.799 --> 00:05:08.436
+Také chceme-li říct:
+
+00:05:08.436 --> 00:05:10.416
+"Včera jsem chtěl polévku.",
+
+00:05:10.416 --> 00:05:13.153
+je nutné změnit slovo "chci" na "chtěl".
+
+00:05:13.153 --> 00:05:14.819
+Je to minulý čas.
+
+00:05:14.819 --> 00:05:16.922
+A toto jsem tak musel zahrnout do systému,
+
+00:05:16.922 --> 00:05:18.498
+aby byl zcela kompletní.
+
+00:05:18.498 --> 00:05:20.475
+Toto je mapa, která slova spojuje
+
+00:05:20.475 --> 00:05:22.131
+jako otázky a odpovědi
+
+00:05:22.131 --> 00:05:24.395
+a na ně aplikuje tyto filtry,
+
+00:05:24.395 --> 00:05:26.212
+díky nim je pak může použít
+
+00:05:26.212 --> 00:05:27.921
+k vyjádření určitých nuancí.
+
+00:05:27.921 --> 00:05:29.872
+To Vám ukážu na jiném příkladu.
+
+00:05:29.872 --> 00:05:31.126
+Například tato věta:

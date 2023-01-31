@@ -1,0 +1,47 @@
+WEBVTT
+
+00:04:59.920 --> 00:05:02.056
+none of the sunlight rays
+will hit the focus.
+
+00:05:02.080 --> 00:05:04.536
+So we tried to come up
+with a non-tracking collector
+
+00:05:04.560 --> 00:05:08.096
+that would gather much more than
+one degree of light, with no moving parts.
+
+00:05:08.120 --> 00:05:10.496
+So we created a genetic algorithm
+to try this out,
+
+00:05:10.520 --> 00:05:13.096
+we made a model in Excel
+of a multisurface reflector,
+
+00:05:13.120 --> 00:05:15.176
+and an amazing thing evolved, literally,
+
+00:05:15.200 --> 00:05:18.016
+from trying a billion cycles,
+a billion different attempts,
+
+00:05:18.040 --> 00:05:21.456
+with a fitness function that defined
+how can you collect the most light,
+
+00:05:21.480 --> 00:05:23.696
+from the most angles,
+over a day, from the sun.
+
+00:05:23.720 --> 00:05:25.416
+And this is the shape that evolved.
+
+00:05:25.440 --> 00:05:29.096
+It's this non-tracking collector
+with these six tuba-like horns,
+
+00:05:29.120 --> 00:05:31.656
+and each of them collect light
+in the following way --

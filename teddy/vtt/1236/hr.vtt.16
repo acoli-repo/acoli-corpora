@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:01.000
+ovi znaci nalik ribama i neki drugi znaci,
+
+00:08:01.000 --> 00:08:03.000
+no nikad ovi drugi znakovi na dnu.
+
+00:08:03.000 --> 00:08:05.000
+Štoviše, postoje neki znakovi
+
+00:08:05.000 --> 00:08:07.000
+koje uglavnom nalazimo na kraju tekstova,
+
+00:08:07.000 --> 00:08:09.000
+poput ovog znaka nalik ćupu.
+
+00:08:09.000 --> 00:08:11.000
+Ovaj se znak, zapravo,
+
+00:08:11.000 --> 00:08:13.000
+najčešće pojavljuje u pismu.
+
+00:08:13.000 --> 00:08:16.000
+Uzevši u obzir takve uzorke, naša je ideja bila ovakva.
+
+00:08:16.000 --> 00:08:18.000
+Ideja je bila koristiti računalo
+
+00:08:18.000 --> 00:08:20.000
+kako bismo ga naučili ove uzorke
+
+00:08:20.000 --> 00:08:23.000
+pa smo unijeli u računalo postojeće tekstove.
+
+00:08:23.000 --> 00:08:25.000
+Računalo je naučilo statistički model
+
+00:08:25.000 --> 00:08:27.000
+koji se znakovi imaju tendenciju pojavljivati zajedno
+
+00:08:27.000 --> 00:08:29.000
+i koji znakovi obično slijede jedni druge.
+
+00:08:29.000 --> 00:08:31.000
+Uzevši računalni model

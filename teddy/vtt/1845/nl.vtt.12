@@ -1,0 +1,30 @@
+WEBVTT
+
+00:05:58.819 --> 00:06:03.066
+De kneep bestond erin om de computer te ontleden
+
+00:06:03.066 --> 00:06:06.020
+in talloze zelfstandige modules,
+
+00:06:06.020 --> 00:06:09.920
+die elk afzonderlijk konden worden gespecificeerd,
+
+00:06:09.920 --> 00:06:15.155
+gebouwd en als eenheid getest,
+los van de rest van het project.
+
+00:06:15.155 --> 00:06:18.144
+Vanaf dag één besloten Noam en ik
+
+00:06:18.144 --> 00:06:21.680
+al deze bouwstenen gratis als
+open source beschikbaar te maken
+
+00:06:21.680 --> 00:06:23.160
+op het web.
+
+00:06:23.160 --> 00:06:27.631
+Alle chipspecificaties, API's, projectbeschrijvingen,
+
+00:06:27.631 --> 00:06:31.535
+softwaretools, hardware simulatoren, CPU-emulators,

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:12:28.000 --> 00:12:32.000
+And it extracts regions with white or light contrast,
+
+00:12:32.000 --> 00:12:34.000
+which will show up on the video as green.
+
+00:12:34.000 --> 00:12:36.000
+This is Kareem's dark eyes
+
+00:12:36.000 --> 00:12:39.000
+and that's the white background that you see here.
+
+00:12:39.000 --> 00:12:41.000
+And then it also extracts movement.
+
+00:12:41.000 --> 00:12:43.000
+When Kareem moves his head to the right,
+
+00:12:43.000 --> 00:12:45.000
+you will see this blue activity there;
+
+00:12:45.000 --> 00:12:48.000
+it represents regions where the contrast is increasing in the image,
+
+00:12:48.000 --> 00:12:51.000
+that's where it's going from dark to light.
+
+00:12:51.000 --> 00:12:53.000
+And you also see this yellow activity,
+
+00:12:53.000 --> 00:12:57.000
+which represents regions where contrast is decreasing;
+
+00:12:57.000 --> 00:12:59.000
+it's going from light to dark.
+
+00:12:59.000 --> 00:13:02.000
+And these four types of information --

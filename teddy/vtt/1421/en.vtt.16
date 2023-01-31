@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:01.000
+and human domain experts for doing this.
+
+00:08:01.000 --> 00:08:03.000
+But that's just the beginning.
+
+00:08:03.000 --> 00:08:05.000
+Given raw facts or data
+
+00:08:05.000 --> 00:08:07.000
+to actually answer questions,
+
+00:08:07.000 --> 00:08:09.000
+one has to compute:
+
+00:08:09.000 --> 00:08:11.000
+one has to implement all those methods and models
+
+00:08:11.000 --> 00:08:13.000
+and algorithms and so on
+
+00:08:13.000 --> 00:08:16.000
+that science and other areas have built up over the centuries.
+
+00:08:16.000 --> 00:08:19.000
+Well, even starting from Mathematica,
+
+00:08:19.000 --> 00:08:21.000
+this is still a huge amount of work.
+
+00:08:21.000 --> 00:08:23.000
+So far, there are about 8 million lines
+
+00:08:23.000 --> 00:08:25.000
+of Mathematica code in Wolfram Alpha
+
+00:08:25.000 --> 00:08:28.000
+built by experts from many, many different fields.
+
+00:08:28.000 --> 00:08:31.000
+Well, a crucial idea of Wolfram Alpha

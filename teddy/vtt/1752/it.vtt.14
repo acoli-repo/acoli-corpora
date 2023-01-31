@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:59.705 --> 00:07:02.640
+e ci ho giocato per molti mesi.
+
+00:07:02.640 --> 00:07:05.366
+Ho provato tante
+diverse combinazioni.
+
+00:07:05.366 --> 00:07:07.655
+E poi ho notato nel FreeSpeech 
+una cosa davvero interessante.
+
+
+00:07:07.655 --> 00:07:10.898
+Cercavo di convertire la lingua,
+
+00:07:10.898 --> 00:07:13.282
+di convertire le frasi in inglese 
+in frasi in FreeSpeech,
+
+00:07:13.282 --> 00:07:15.034
+e viceversa, e avanti e indietro.
+
+00:07:15.034 --> 00:07:17.289
+E mi sono reso conto 
+che questa particolare configurazione,
+
+00:07:17.289 --> 00:07:19.315
+questo modo particolare di rappresentare la lingua,
+
+00:07:19.315 --> 00:07:23.710
+mi permetteva di creare regole molto concise
+
+00:07:23.710 --> 00:07:26.444
+che va da FreeSpeech da un lato
+
+00:07:26.444 --> 00:07:27.932
+e inglese dall'altro.
+
+00:07:27.932 --> 00:07:30.112
+Quindi potevo scrivere questa serie di regole

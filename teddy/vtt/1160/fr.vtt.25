@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:29.000 --> 00:12:31.000
+A toi Éric.
+
+00:12:31.000 --> 00:12:33.000
+Eric Johanson : Ici, nous avons
+
+00:12:33.000 --> 00:12:35.000
+un réservoir, à l'autre extrémité de la scène.
+
+00:12:35.000 --> 00:12:37.000
+Et là, sur cet écran d'ordinateur,
+
+00:12:37.000 --> 00:12:39.000
+on peut voir voler les moustiques.
+
+00:12:39.000 --> 00:12:42.000
+Et si Pablos excite un peu les moustiques,
+
+00:12:42.000 --> 00:12:44.000
+on les verra voler.
+
+00:12:44.000 --> 00:12:46.000
+Maintenant, c'est une routine assez classique de traitement de l'image.
+
+00:12:46.000 --> 00:12:48.000
+Laissez-moi vous montrer comment ça marche.
+
+00:12:48.000 --> 00:12:50.000
+Ici vous pouvez voir que les insectes sont suivis
+
+00:12:50.000 --> 00:12:52.000
+pendant leur vol,
+
+00:12:52.000 --> 00:12:55.000
+ce qui est assez amusant.
+
+00:12:55.000 --> 00:12:57.000
+Ensuite, nous pouvons les éclairer avec un laser.
+
+00:12:57.000 --> 00:12:59.000
+Il s'agit d'un laser de faible puissance,
+
+00:12:59.000 --> 00:13:01.000
+mais nous pouvons effectivement détecter la fréquence des battements d'ailes.

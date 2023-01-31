@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:57.669 --> 00:11:01.406
+A GPS-vevő végképp a hamis jel hatása alá kerül.
+
+00:11:01.406 --> 00:11:02.901
+Tehát valóban lehetséges ez?
+
+00:11:02.901 --> 00:11:04.624
+Valóban manipulálhatja valaki így
+
+00:11:04.624 --> 00:11:06.606
+egy GPS-vevő időmérését és pozícionálását
+
+00:11:06.606 --> 00:11:09.485
+egy spooferrel?
+
+00:11:09.485 --> 00:11:11.500
+A rövid válasz, hogy igen.
+
+00:11:11.500 --> 00:11:14.304
+A civil GPS jelek
+
+00:11:14.304 --> 00:11:15.406
+nyilvános kulcsúak.
+
+00:11:15.406 --> 00:11:19.397
+Nincsenek titkosítva. Nincsenek hitelesítve.
+
+00:11:19.397 --> 00:11:22.892
+Teljesen nyitottak, kiszolgáltatottak az ilyen támadásoknak.
+
+00:11:22.892 --> 00:11:25.467
+Ennek dacára, egészen mostanáig,
+
+00:11:25.467 --> 00:11:27.859
+senki nem tartott a GPS spooferektől.
+
+00:11:27.859 --> 00:11:29.837
+Azt gondolták, hogy egy hackernek
+
+00:11:29.837 --> 00:11:32.652
+túl bonyolult vagy túl drága lenne megépíteni egyet.

@@ -1,0 +1,46 @@
+WEBVTT
+
+00:15:28.000 --> 00:15:31.000
+Donc, trouver les programmes qui se rapprochent du tri de chiffres.
+
+00:15:31.000 --> 00:15:34.000
+Alors bien sûr, des séquences aléatoires d'instructions
+
+00:15:34.000 --> 00:15:36.000
+ne vont vraisemblablement pas trier des chiffres,
+
+00:15:36.000 --> 00:15:38.000
+et aucune d'entre elles ne le fera vraiment.
+
+00:15:38.000 --> 00:15:40.000
+Mais l'une d'elle, par chance,
+
+00:15:40.000 --> 00:15:42.000
+peut mettre deux chiffres dans le bon ordre.
+
+00:15:42.000 --> 00:15:44.000
+Et je dis, « Ordinateur,
+
+00:15:44.000 --> 00:15:47.000
+veux-tu s'il te plait prendre maintenant les 10 %
+
+00:15:47.000 --> 00:15:49.000
+de ces séquences aléatoires qui ont fait le meilleur travail.
+
+00:15:49.000 --> 00:15:51.000
+Enregistre-les. Élimine le reste.
+
+00:15:51.000 --> 00:15:53.000
+Et maintenant, reproduisons
+
+00:15:53.000 --> 00:15:55.000
+celles qui ont le mieux trié les chiffres.
+
+00:15:55.000 --> 00:15:58.000
+Et reproduisons-les par un processus de recombinaison
+
+00:15:58.000 --> 00:16:00.000
+analogue aux rapports sexuels. »
+
+00:16:00.000 --> 00:16:03.000
+Prenez deux programmes, et ils produisent des enfants

@@ -1,0 +1,31 @@
+WEBVTT
+
+00:09:26.992 --> 00:09:30.050
+para que ela voe para o local
+de onde foi lançada.
+
+00:09:30.375 --> 00:09:34.497
+Terceiro, é planeada uma trajetória
+que leva o "quad"
+
+00:09:34.497 --> 00:09:37.513
+do seu estado atual ao ponto
+de impacto com a bola.
+
+00:09:37.513 --> 00:09:41.397
+Quarto, só executamos 20 milissegundos
+dessa estratégia.
+
+00:09:41.397 --> 00:09:44.096
+Vinte milissegundos depois,
+todo o processo é repetido
+
+00:09:44.096 --> 00:09:46.422
+até que o "quad" atinja a bola.
+
+00:09:55.560 --> 00:09:57.914
+(Aplausos)
+
+00:09:58.206 --> 00:10:01.936
+As máquinas não executam apenas 
+manobras dinâmicas sozinhas,

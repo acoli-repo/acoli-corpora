@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:58.000 --> 00:10:00.000
+E ci sono due modi diverse di identificare
+
+00:10:00.000 --> 00:10:02.000
+se dei dati sono stati persi per strada.
+
+00:10:02.000 --> 00:10:05.000
+Si può usare la statistica, o si può usare la storia.
+
+00:10:05.000 --> 00:10:07.000
+Personalmente preferisco le statistiche, quindi è quello che farò per primo.
+
+00:10:07.000 --> 00:10:09.000
+Questo si chiama "funnel plot".
+
+00:10:09.000 --> 00:10:11.000
+Il funnel plot è un sistema molto intelligente di identificare
+
+00:10:11.000 --> 00:10:14.000
+se piccoli esperimenti negativi sono scomparsi, persi per strada.
+
+00:10:14.000 --> 00:10:16.000
+Questo è un grafico di tutte le sperimentazioni
+
+00:10:16.000 --> 00:10:18.000
+che sono state fatte di un trattamento particolare.
+
+00:10:18.000 --> 00:10:20.000
+E spostandovi verso la parte alta del grafico,
+
+00:10:20.000 --> 00:10:22.000
+vedete che ogni puntino è un esperimento.
+
+00:10:22.000 --> 00:10:25.000
+E salendo, questi sono gli esperimenti più grossi, quindi contengono meno errori.
+
+00:10:25.000 --> 00:10:28.000
+Quindi è meno probabile che ci siano dei falsi positivi casuali, falsi negativi casuali.
+
+00:10:28.000 --> 00:10:30.000
+Si raggruppano tutti insieme.
+
+00:10:30.000 --> 00:10:32.000
+I grossi esperimenti sono più vicini alla realtà.

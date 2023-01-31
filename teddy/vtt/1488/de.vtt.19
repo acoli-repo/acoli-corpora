@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:26.000 --> 00:09:30.000
+wird das Aktivitätsmuster der Neuronen in ein neues Muster übersetzt,
+
+00:09:30.000 --> 00:09:33.000
+einfach indem es durch das Netzwerk fließt.
+
+00:09:33.000 --> 00:09:35.000
+Verbindungen werden so hergestellt,
+
+00:09:35.000 --> 00:09:38.000
+dass das Eingangsmuster abläuft
+
+00:09:38.000 --> 00:09:40.000
+und dabei das Ausgabemuster erzeugt wird.
+
+00:09:40.000 --> 00:09:44.000
+Hier sieht man, dass es redundante Verbindungen gibt.
+
+00:09:44.000 --> 00:09:48.000
+Wenn dieses Datenfragment oder dieses da zu Bruch geht,
+
+00:09:48.000 --> 00:09:53.000
+und keine Ausgabe erzeugt, können diese zwei Teile das fehlende Stück aktivieren
+
+00:09:53.000 --> 00:09:55.000
+durch diese mehrfachen Verbindungen.
+
+00:09:55.000 --> 00:09:57.000
+Trotz dieser fehleranfälligen Bauteile,
+
+00:09:57.000 --> 00:10:00.000
+die manchmal statt einer Eins eine Null erzeugen,
+
+00:10:00.000 --> 00:10:02.000
+gibt es Mehrfachverbindungen im Netzwerk,

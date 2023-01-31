@@ -1,0 +1,43 @@
+WEBVTT
+
+00:12:29.000 --> 00:12:32.000
+putem oare să folosim această descoperire
+
+00:12:32.000 --> 00:12:35.000
+pentru a construi sisteme vizuale automate
+
+00:12:35.000 --> 00:12:38.000
+care să învețe singure, să nu aibă nevoie să fie programate
+
+00:12:38.000 --> 00:12:40.000
+de un programator?
+
+00:12:40.000 --> 00:12:42.000
+Și tocmai asta încercăm să facem.
+
+00:12:42.000 --> 00:12:45.000
+Mă aflu la MIT unde trebuie să aplici
+
+00:12:45.000 --> 00:12:47.000
+orice cunoștințe de bază pe care le aduni.
+
+00:12:47.000 --> 00:12:49.000
+Aici îl construim pe Dylan,
+
+00:12:49.000 --> 00:12:51.000
+un sistem de calcul
+
+00:12:51.000 --> 00:12:53.000
+care are un scop ambițios -
+
+00:12:53.000 --> 00:12:55.000
+acela de a înregistra stimulii vizuali
+
+00:12:55.000 --> 00:12:58.000
+tot așa cum i-ar primi un copil
+
+00:12:58.000 --> 00:13:00.000
+și de a descoperi independent
+
+00:13:00.000 --> 00:13:03.000
+ce obiecte reprezintă acești stimuli vizuali.

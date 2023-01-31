@@ -1,0 +1,40 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:01.000
+nenhum raio solar vai atingir o foco.
+
+00:05:01.000 --> 00:05:03.000
+Então nós tentamos pensar em uma maneira de fazer um coletor sem um sistema de rastreamento
+
+00:05:03.000 --> 00:05:05.000
+um coletor que conseguiria coletar bem mais do que 1 grau de luz,
+
+00:05:05.000 --> 00:05:07.000
+sem partes móveis.
+
+00:05:07.000 --> 00:05:09.000
+Então, nós criamos este algorítmo genético para fazer esta tentativa,
+
+00:05:09.000 --> 00:05:12.000
+Nós fizemos um modelo grande de um refletor multi-faces
+
+00:05:12.000 --> 00:05:14.000
+e uma coisa fantástica evoluiu, literalmente evoluiu,
+
+00:05:14.000 --> 00:05:17.000
+de tentar um bilhão de ciclos, um bilhão de tentativas diferentes
+
+00:05:17.000 --> 00:05:21.000
+com um função de ajuste que definia como você pode coletar a maior quantidade de luz do sol
+
+00:05:21.000 --> 00:05:23.000
+da maior quantidade de ângulos, durante o dia
+
+00:05:23.000 --> 00:05:25.000
+E este é o formato que não evoluiu
+
+00:05:25.000 --> 00:05:28.000
+Isto é um coletor sem rastreamento com seis dispositivos em formato de tuba
+
+00:05:28.000 --> 00:05:31.000
+e cada um deles coletando luz solar da seguinte maneira

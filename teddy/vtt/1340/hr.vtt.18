@@ -1,0 +1,28 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:01.000
+poznat kao 3D SLAM, skraćeno za "simultano lociranje i mapiranje".
+
+00:09:01.000 --> 00:09:03.000
+DEPTHX je oko koje vidi u svim smjerovima.
+
+00:09:03.000 --> 00:09:07.000
+Senzori gledaju i naprijed i nazad istovremeno,
+
+00:09:07.000 --> 00:09:10.000
+omogućavajući mu nova istraživanja
+
+00:09:10.000 --> 00:09:12.000
+dok radi geometrijsko pozicioniranje
+
+00:09:12.000 --> 00:09:13.000
+u prostoru koji je već prošao.
+
+00:09:13.000 --> 00:09:16.000
+Slijedeće što ću vam pokazati
+
+00:09:16.000 --> 00:09:20.000
+jest prvo podzemno potpuno autonomno robotsko istraživanje
+
+00:09:20.000 --> 00:09:23.000
+koje je ikada napravljeno.

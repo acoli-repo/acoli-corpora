@@ -1,0 +1,38 @@
+WEBVTT
+
+00:08:29.880 --> 00:08:31.697
+var at udregne sandsynligheden for,
+
+00:08:31.697 --> 00:08:34.260
+at en given stilling på 
+pladen formentlig ville føre
+
+00:08:34.260 --> 00:08:37.170
+til et vindende spil i forhold
+til et tabende spil
+
+00:08:37.170 --> 00:08:39.678
+for hvert træk.
+
+00:08:39.678 --> 00:08:42.828
+Han spiller mod computeren. Han vinder.
+
+00:08:42.828 --> 00:08:45.336
+Han spiller mod computeren. Han vinder.
+
+00:08:45.336 --> 00:08:49.067
+Han spiller mod computeren. Han vinder.
+
+00:08:49.067 --> 00:08:51.344
+Og så lader Arthur Samuel computeren
+
+00:08:51.344 --> 00:08:53.571
+spille mod sig selv.
+
+00:08:53.571 --> 00:08:57.080
+Den spiller mod sig selv. 
+Den indsamler mere data.
+
+00:08:57.080 --> 00:09:01.389
+Den indsamler mere data. 
+Den øger nøjagtigheden af sine forudsigelser.

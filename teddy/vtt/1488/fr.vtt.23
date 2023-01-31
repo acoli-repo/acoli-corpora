@@ -1,0 +1,25 @@
+WEBVTT
+
+00:11:28.000 --> 00:11:32.000
+et nous l'avons pris comme modèle pour le design d'une puce en silicone.
+
+00:11:32.000 --> 00:11:38.000
+Et donc les neurones sont représentés par des petits noeud ou des circuits sur la puce,
+
+00:11:38.000 --> 00:11:43.000
+et les connections entre les neurones sont pour l'instant modelées par des transistors.
+
+00:11:43.000 --> 00:11:45.000
+Et ces transistors se comportent exactement
+
+00:11:45.000 --> 00:11:48.000
+comme les canaux ioniques dans le cerveau.
+
+00:11:48.000 --> 00:11:53.000
+Et ça va donner le même type d'architecture que j'ai décris.
+
+00:11:53.000 --> 00:11:57.000
+Voici à quoi ressemble notre oeil artificiel.
+
+00:11:57.000 --> 00:12:02.000
+La puce de rétine que l'on a conçue est derrière la lentille, ici.

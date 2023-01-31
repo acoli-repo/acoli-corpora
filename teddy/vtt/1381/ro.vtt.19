@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:28.000 --> 00:09:30.000
+Subiectul stă în faţa unei reţele de camere computerizate,
+
+00:09:30.000 --> 00:09:32.000
+iar aceste camere pot, cadru cu cadru,
+
+00:09:32.000 --> 00:09:35.000
+să reconstruiască geometria a ceea ce face subiectul la momentul respectiv.
+
+00:09:35.000 --> 00:09:40.000
+Astfel, efectiv, se obţine o imagine 3D în timp real a subiectului.
+
+00:09:40.000 --> 00:09:43.000
+Dacă se face o comparaţie,
+
+00:09:43.000 --> 00:09:46.000
+în stânga, vedem o imagine volumetrică
+
+00:09:46.000 --> 00:09:48.000
+iar în dreapta vedem o imagine construită pe bază de repere.
+
+00:09:49.000 --> 00:09:51.000
+În mod evident, ne aflam într-o poziţie mai favorabilă.
+
+00:09:51.000 --> 00:09:53.000
+Dar acestea erau primele zile ale acestei tehnologii,
+
+00:09:53.000 --> 00:09:55.000
+şi nu era încă validată.
+
+00:09:55.000 --> 00:09:57.000
+Dar măsurăm complexitatea şi fidelitatea datelor
+
+00:09:57.000 --> 00:09:59.000
+în funcţie de de numărul de poligoane.
+
+00:09:59.000 --> 00:10:02.000
+Astfel, în dreapta, vedem 100.000 de poligoane.

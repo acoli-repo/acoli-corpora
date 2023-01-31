@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:58.049 --> 00:08:01.099
+bir yıldır takibinde olduğumuz bir hacker grubunu
+
+00:08:01.099 --> 00:08:03.106
+nihayetinde bulduk --
+
+00:08:03.106 --> 00:08:05.683
+inanın bu bizim işimizde nadir bir zevktir.
+
+00:08:05.683 --> 00:08:08.166
+Bu kesişen endüstrilerin işbirliğiyle oldu.
+
+00:08:08.166 --> 00:08:10.555
+Facebook çalışanları, bağımsız araştırmacılar,
+
+00:08:10.555 --> 00:08:12.636
+Sophos'taki dostlar. (güvenlik yazılımı)
+
+00:08:12.636 --> 00:08:15.291
+Nihayetinde elimize birtakım belgeler geçti
+
+00:08:15.291 --> 00:08:18.117
+bizim sibersuçluların Dropbox veya Skydrive tarzı
+
+00:08:18.117 --> 00:08:22.494
+hepimizin bildiği ve kullandığı bulut servislere
+
+00:08:22.494 --> 00:08:24.703
+kendi elleriyle yükledikleri.
+
+00:08:24.703 --> 00:08:28.095
+Üstte kaynak kodun bir bölümünü göreceksiniz.
+
+00:08:28.095 --> 00:08:31.063
+Bunun işlevi her gün kısa mesaj olarak

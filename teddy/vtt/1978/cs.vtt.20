@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:58.000 --> 00:10:00.000
+A existují 2 různé způsoby, jak můžete zjistit,
+
+00:10:00.000 --> 00:10:02.000
+zda se nějaká data ztrácí během procesu.
+
+00:10:02.000 --> 00:10:05.000
+Můžete použít statistiku, nebo příběhy.
+
+00:10:05.000 --> 00:10:07.000
+Osobně preferuji statistiku, takže se podívejme nejprve na ni.
+
+00:10:07.000 --> 00:10:09.000
+Toto je něco, co nazýváme trychtýřovitý graf.
+
+00:10:09.000 --> 00:10:11.000
+Jedná se o velice chytrý způsob, jak poznat,
+
+00:10:11.000 --> 00:10:14.000
+jestli se malé množství negativních zkoušek ztrácí.
+
+00:10:14.000 --> 00:10:16.000
+Toto je graf všech zkoušek,
+
+00:10:16.000 --> 00:10:18.000
+které byli vykonány na konkrétní léčbě.
+
+00:10:18.000 --> 00:10:20.000
+Jak jdete směrem k vrcholu grafu,
+
+00:10:20.000 --> 00:10:22.000
+pak každá tečka značí zkoušku.
+
+00:10:22.000 --> 00:10:25.000
+A jak jdete nahoru, jsou tyto zkoušky lepší, takže je v nich méně chyb.
+
+00:10:25.000 --> 00:10:28.000
+Takže mohou být klamně positivní nebo negativní s menší pravděpodobností.
+
+00:10:28.000 --> 00:10:30.000
+Všechny se shlukují k sobě.
+
+00:10:30.000 --> 00:10:32.000
+Velké zkoušky jsou blíže ke správné odpovědi.

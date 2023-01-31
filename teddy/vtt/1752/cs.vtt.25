@@ -1,0 +1,38 @@
+WEBVTT
+
+00:12:28.073 --> 00:12:30.178
+Nejde o složitý kód.
+
+00:12:30.178 --> 00:12:32.850
+Zajímavější je fakt, že
+
+00:12:32.850 --> 00:12:35.053
+převážná většina kódu uvnitř motoru
+
+00:12:35.053 --> 00:12:37.465
+není specifická pro angličtinu.
+
+00:12:37.465 --> 00:12:39.360
+A díky tomu mě napadla zajímavá věc.
+
+00:12:39.360 --> 00:12:41.398
+Mohlo by být pro nás velmi snadné
+
+00:12:41.398 --> 00:12:45.224
+tyto motory vytvořit v mnoha různých jazycích,
+
+00:12:45.224 --> 00:12:51.578
+v hindu, francouzštině, němčině, svahilštině.
+
+00:12:51.578 --> 00:12:54.377
+A s tím souvisí další zajímavá myšlenka.
+
+00:12:54.377 --> 00:12:57.031
+Například, kdybych byl novinář
+
+00:12:57.031 --> 00:12:59.153
+a psal pro noviny nebo časopis,
+
+00:12:59.153 --> 00:13:04.164
+mohl bych napsat článek 
+v jediném jazyce - FreeSpeech,

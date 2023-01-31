@@ -1,0 +1,46 @@
+WEBVTT
+
+00:15:29.180 --> 00:15:32.390
+Encontre os programas que mais se aproximam
+dos que ordenam números.
+
+00:15:32.421 --> 00:15:34.787
+Claro que sequências 
+aleatórias de instruções
+
+00:15:34.795 --> 00:15:37.118
+provavelmente não ordenarão números,
+
+00:15:37.176 --> 00:15:38.931
+portanto nenhuma fará isso.
+
+00:15:38.980 --> 00:15:40.447
+Mas uma dessas, por acaso,
+
+00:15:40.447 --> 00:15:42.691
+poderá colocar dois números 
+na ordem correta.
+
+00:15:42.759 --> 00:15:45.808
+E eu digo,: "Computador, por favor,
+
+00:15:45.808 --> 00:15:49.286
+"selecione os 10% das sequências 
+que fizeram o melhor trabalho.
+
+00:15:49.368 --> 00:15:51.935
+"Guarde essas. Elimine as restantes.
+
+00:15:51.935 --> 00:15:53.769
+"Agora vamos reproduzir
+
+00:15:53.769 --> 00:15:56.247
+"as que ordenaram os números 
+da forma mais correta.
+
+00:15:56.247 --> 00:15:59.180
+"E vamos reproduzi-las através 
+de um processo de recombinação
+
+00:15:59.180 --> 00:16:00.590
+"semelhante ao sexo."

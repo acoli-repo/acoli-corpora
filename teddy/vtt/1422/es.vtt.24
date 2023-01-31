@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+Y sin retraso,
+
+00:12:01.000 --> 00:12:03.000
+una luz haría cosquillas en la mano,
+
+00:12:03.000 --> 00:12:07.000
+o con una demora de dos a tres décimas de segundo.
+
+00:12:07.000 --> 00:12:09.000
+El punto importante aquí
+
+00:12:09.000 --> 00:12:12.000
+es que la mano derecha siempre hace el mismo movimiento sinusoidal.
+
+00:12:12.000 --> 00:12:15.000
+La mano izquierda, lo mismo, hace cosquillas sinusoidales.
+
+00:12:15.000 --> 00:12:17.000
+Lo que hacemos es jugar con una causalidad de tiempo.
+
+00:12:17.000 --> 00:12:19.000
+Y a medida que van de 0 a 0,1 segundos,
+
+00:12:19.000 --> 00:12:21.000
+se vuelve mas cosquilloso.
+
+00:12:21.000 --> 00:12:23.000
+A medida que va de 0,1 a 0,2,
+
+00:12:23.000 --> 00:12:25.000
+se vuelve mas cosquilloso al final.
+
+00:12:25.000 --> 00:12:27.000
+Y a 0,2 de segundos,
+
+00:12:27.000 --> 00:12:29.000
+es igualmente cosquilloso
+
+00:12:29.000 --> 00:12:31.000
+que el robot que le hizo cosquillas sin que Ud. hiciera nada.

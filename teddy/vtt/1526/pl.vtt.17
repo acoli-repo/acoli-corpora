@@ -1,0 +1,31 @@
+WEBVTT
+
+00:08:29.880 --> 00:08:32.197
+po każdym ruchu obliczyć
+prawdopodobieństwo tego,
+
+00:08:32.197 --> 00:08:38.847
+czy dany układ figur będzie prowadzić
+do wygranej czy przegranej.
+
+00:08:39.678 --> 00:08:42.828
+Grał z komputerem. Wygrywał.
+
+00:08:42.828 --> 00:08:45.336
+Grał z komputerem. Wygrywał.
+
+00:08:45.336 --> 00:08:49.067
+Grał z komputerem. Wygrywał.
+
+00:08:49.067 --> 00:08:51.344
+Wtedy Arthur Samuel zostawił komputer,
+
+00:08:51.344 --> 00:08:53.571
+żeby grał sam ze sobą.
+
+00:08:53.571 --> 00:08:57.080
+Grał sam ze sobą, zbierał więcej danych.
+
+00:08:57.080 --> 00:09:01.389
+Zbierał jeszcze więcej danych,
+zwiększał dokładność przewidywań.

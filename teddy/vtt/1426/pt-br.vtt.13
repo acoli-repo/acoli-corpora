@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:29.000 --> 00:06:32.000
+Mas o objetivo real aqui era, dentro de cerca de um minuto eu queria que alguém replicasse
+
+00:06:32.000 --> 00:06:36.000
+o que tipicamente leva semanas para um artista criar.
+
+00:06:36.000 --> 00:06:38.000
+Ok, agora vou colocar algumas mãos nele.
+
+00:06:38.000 --> 00:06:40.000
+Então, basicamente, criei uma pequena criatura aqui.
+
+00:06:40.000 --> 00:06:45.000
+Deixem-me dar-lhe uma arma na cauda, para que possa lutar.
+
+00:06:45.000 --> 00:06:48.000
+Ok, este é o modelo completo. Agora vamos para a fase de pintura.
+
+00:06:48.000 --> 00:06:51.000
+Nesta fase o programa tem algum entendimento sobre
+
+00:06:51.000 --> 00:06:53.000
+a topologia desta criatura. Ele sabe onde é a coluna,
+
+00:06:53.000 --> 00:06:55.000
+onde estão os membros.
+
+00:06:55.000 --> 00:06:57.000
+Ele já sabe como listras devem ser aplicadas, como sombrear,
+
+00:06:57.000 --> 00:06:59.000
+então, estamos criando proceduralmente o mapa de textura --
+
+00:06:59.000 --> 00:07:02.000
+e isso é algo que um artista de texturas leva muitos, muitos dias para fazer.

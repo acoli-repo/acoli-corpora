@@ -1,0 +1,42 @@
+WEBVTT
+
+00:07:28.393 --> 00:07:30.431
+Akkoriban még gond volt a
+
+00:07:30.431 --> 00:07:32.287
+a fontok mérete,
+
+00:07:32.287 --> 00:07:35.171
+az az adatmennyiség, ami szükséges
+a fontok tárolásához
+
+00:07:35.171 --> 00:07:39.171
+a számítógép memóriájában.
+
+00:07:39.171 --> 00:07:41.690
+Ez korlátozta a betűszedő rendszerben
+
+00:07:41.709 --> 00:07:44.789
+az egyszerre használható fontok számát.
+
+00:07:44.789 --> 00:07:48.938
+Kiértékeltem az adatokat,
+
+00:07:48.938 --> 00:07:51.462
+és azt találtam, hogy egy
+tipikus serif betűtesthez,
+
+00:07:51.462 --> 00:07:52.921
+amilyet a bal oldalon látnak,
+
+00:07:52.921 --> 00:07:54.937
+nagyjából kétszer annyi adat szükséges,
+
+00:07:54.937 --> 00:07:57.473
+mint egy sans serifhez, itt, középen,
+
+00:07:57.473 --> 00:07:59.535
+a talpak meghatározásához
+
+00:07:59.535 --> 00:08:04.043
+szükséges sok pont miatt.

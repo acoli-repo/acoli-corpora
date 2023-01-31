@@ -1,0 +1,31 @@
+WEBVTT
+
+00:10:29.000 --> 00:10:33.000
+This is something that we've been working on for the last couple of years.
+
+00:10:33.000 --> 00:10:36.000
+And I'm going to show you a system that we designed
+
+00:10:36.000 --> 00:10:39.000
+to model the retina,
+
+00:10:39.000 --> 00:10:44.000
+which is a piece of brain that lines the inside of your eyeball.
+
+00:10:44.000 --> 00:10:50.000
+We didn't do this by actually writing code, like you do in a computer.
+
+00:10:50.000 --> 00:10:53.000
+In fact, the processing that happens
+
+00:10:53.000 --> 00:10:55.000
+in that little piece of brain is very similar
+
+00:10:55.000 --> 00:10:56.000
+to the kind of processing that computers
+
+00:10:56.000 --> 00:11:00.000
+do when they stream video over the Internet.
+
+00:11:00.000 --> 00:11:01.000
+They want to compress the information --

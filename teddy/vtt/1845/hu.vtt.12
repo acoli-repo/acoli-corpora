@@ -1,0 +1,33 @@
+WEBVTT
+
+00:05:58.819 --> 00:06:03.066
+Az volt a trükk, hogy a gép felépítését
+felbontottuk
+
+00:06:03.066 --> 00:06:06.020
+számos önálló modulra:
+
+00:06:06.020 --> 00:06:09.920
+mindegyiket külön lehetett specifikálni,
+
+00:06:09.920 --> 00:06:15.155
+megépíteni, tesztelni,
+elválasztva a projekt többi részétől.
+
+00:06:15.155 --> 00:06:18.144
+Noammal az első nap elhatároztuk, hogy
+
+00:06:18.144 --> 00:06:21.680
+az összes építőmodult
+nyílt forrásként tesszük elérhetővé
+
+00:06:21.680 --> 00:06:23.160
+a neten.
+
+00:06:23.160 --> 00:06:27.631
+Így a csipspecifikációkat,
+az API-kat, a projektleírásokat,
+
+00:06:27.631 --> 00:06:31.535
+a szoftvereszközöket, a hardverszimulációkat,
+a CPU-emulátorokat,

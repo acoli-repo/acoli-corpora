@@ -1,0 +1,36 @@
+WEBVTT
+
+00:10:27.653 --> 00:10:30.288
+bir tepe vardır.
+
+00:10:30.288 --> 00:10:33.103
+Hedef takibini gösteren
+bu üç kırmızı nokta,
+
+00:10:33.103 --> 00:10:35.982
+kendini tepenin merkezinde
+tutmaya çalışıyor.
+
+00:10:35.982 --> 00:10:39.047
+Ama sahte bir sinyal gönderirseniz,
+
+00:10:39.047 --> 00:10:43.513
+diğer tepe ortaya çıkar ve
+bu iki tepeyi mükemmel
+
+00:10:43.513 --> 00:10:48.231
+şekilde hizalayabilirseniz,
+takip noktaları farkı söyleyemez,
+
+00:10:48.231 --> 00:10:51.542
+gerçek tepe zorla atılarak güçlü sahte
+
+00:10:51.542 --> 00:10:55.502
+sinyal tarafından kaçırılır.
+
+00:10:55.502 --> 00:10:57.669
+Bu noktada oyun biter.
+
+00:10:57.669 --> 00:11:01.406
+Sahte sinyaller GPS alıcısını 
+tamamen kontrol eder.

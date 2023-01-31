@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:58.819 --> 00:06:03.066
+Trucul a fost de a descompune calculatorul
+
+00:06:03.066 --> 00:06:06.020
+în numeroase module independente,
+de sine stătătoare.
+
+00:06:06.020 --> 00:06:09.920
+fiecare putând fi specificat individual,
+
+00:06:09.920 --> 00:06:15.155
+construit și testat unitar,
+separat de restul proiectului.
+
+00:06:15.155 --> 00:06:18.144
+Din prima zi, Noam și cu mine 
+am decis să oferim
+
+00:06:18.144 --> 00:06:21.680
+toate aceste componente primare 
+disponibile în open source
+
+00:06:21.680 --> 00:06:23.160
+pe Internet.
+
+00:06:23.160 --> 00:06:27.631
+Deci, specificațiile pentru cipuri, 
+API-uri, descrierile de proiecte,
+
+00:06:27.631 --> 00:06:31.535
+metodologia software, simulatoare hardware, 
+modele CPU,

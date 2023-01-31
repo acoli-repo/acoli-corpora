@@ -1,0 +1,58 @@
+WEBVTT
+
+00:09:27.000 --> 00:09:32.000
+all of these trusses are picking up diagonal loads. 
+
+
+
+00:09:32.000 --> 00:09:35.000
+So, every one of them is a little bit different-shaped 
+
+
+00:09:35.000 --> 00:09:37.000
+as you move down the length of the building. 
+
+
+
+00:09:37.000 --> 00:09:39.000
+So, working with 
+
+
+00:09:39.000 --> 00:09:42.000
+Bentley and MicroStation, 
+
+
+00:09:42.000 --> 00:09:44.000
+we've written a custom piece of software 
+
+
+
+00:09:44.000 --> 00:09:47.000
+that networks all of the components together 
+
+
+
+00:09:47.000 --> 00:09:50.000
+into these chunks of information, 
+
+
+
+00:09:50.000 --> 00:09:52.000
+so that if we change any element 
+
+
+
+00:09:52.000 --> 00:09:54.000
+along the length of the building,
+
+00:09:54.000 --> 00:09:57.000
+not only does that change distribute 
+
+
+
+00:09:57.000 --> 00:09:59.000
+through each one of the trusses,
+
+00:09:59.000 --> 00:10:02.000
+but each one of the trusses then distributes that information 
+

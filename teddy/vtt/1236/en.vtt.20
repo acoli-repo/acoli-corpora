@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:58.000 --> 00:10:01.000
+Language, on the other hand, has an intermediate level of entropy;
+
+00:10:01.000 --> 00:10:03.000
+it's neither too rigid,
+
+00:10:03.000 --> 00:10:05.000
+nor is it too random.
+
+00:10:05.000 --> 00:10:07.000
+What about the Indus script?
+
+00:10:07.000 --> 00:10:11.000
+Here's a graph that plots the entropies of a whole bunch of sequences.
+
+00:10:11.000 --> 00:10:13.000
+At the very top you find the uniformly random sequence,
+
+00:10:13.000 --> 00:10:15.000
+which is a random jumble of letters --
+
+00:10:15.000 --> 00:10:17.000
+and interestingly, we also find
+
+00:10:17.000 --> 00:10:20.000
+the DNA sequence from the human genome and instrumental music.
+
+00:10:20.000 --> 00:10:22.000
+And both of these are very, very flexible,
+
+00:10:22.000 --> 00:10:24.000
+which is why you find them in the very high range.
+
+00:10:24.000 --> 00:10:26.000
+At the lower end of the scale,
+
+00:10:26.000 --> 00:10:28.000
+you find a rigid sequence, a sequence of all A's,
+
+00:10:28.000 --> 00:10:30.000
+and you also find a computer program,
+
+00:10:30.000 --> 00:10:32.000
+in this case in the language Fortran,

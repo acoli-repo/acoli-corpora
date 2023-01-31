@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:58.673 --> 00:06:01.644
+ata lokalizojnë me saktësi vendndodhjen e njëri tjetrit,
+
+00:06:01.644 --> 00:06:04.381
+dhe si rrjedhojë mund ta shmangin njëri tjetrin.
+
+00:06:04.381 --> 00:06:07.607
+Ne po shtojmë një numër më të madh robotësh
+
+00:06:07.607 --> 00:06:09.078
+dhe në këtë pikë po përballemi me disa probleme.
+
+00:06:09.078 --> 00:06:11.437
+Një prej problemeve, është se kur merr shumë më tepër informacion,
+
+00:06:11.437 --> 00:06:15.165
+është i vështirë përpunimi i tij, prandaj duhet që të jepni përparësi disa informacioneve specifike
+
+00:06:15.165 --> 00:06:17.522
+dhe pikërisht në këtë pikë ju vjen në ndihmë modeli parashikues.
+
+00:06:17.522 --> 00:06:21.894
+Nëse makinat tuaja robotike lokalizojnë të gjitha trajektoret e parashikuara,
+
+00:06:21.894 --> 00:06:23.661
+ju nuk keni pse ti kushtoni vëmendje të gjithë informacionit të marrë.
+
+00:06:23.661 --> 00:06:25.364
+Ju i jepni prioritet automjetit
+
+00:06:25.364 --> 00:06:26.697
+që duket se është më afër jush.
+
+00:06:26.697 --> 00:06:29.223
+Pikërisht aty gjendet problemi.
+
+00:06:29.223 --> 00:06:32.225
+Në këtët mënyrë ju mund të parashikoni trajektoren e tij të ardhshme.

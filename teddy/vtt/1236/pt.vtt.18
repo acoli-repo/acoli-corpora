@@ -1,0 +1,54 @@
+WEBVTT
+
+00:08:58.470 --> 00:09:00.010
+na predição do símbolo correto.
+
+00:09:00.010 --> 00:09:01.410
+No resto dos casos,
+
+00:09:01.410 --> 00:09:03.300
+tipicamente, a segunda melhor resposta
+
+00:09:03.300 --> 00:09:05.820
+ou terceira melhor resposta
+era a resposta certa.
+
+00:09:05.820 --> 00:09:07.280
+Há também uso prático
+
+00:09:07.280 --> 00:09:08.970
+para este procedimento particular.
+
+00:09:08.970 --> 00:09:11.320
+Há muitos destes textos
+que estão danificados.
+
+00:09:11.320 --> 00:09:13.250
+Aqui está um exemplo
+de um desses textos.
+
+00:09:13.250 --> 00:09:16.470
+Podemos usar o modelo computacional
+para tentar completar este texto
+
+00:09:16.470 --> 00:09:18.390
+e fazer a melhor predição de resposta.
+
+00:09:18.390 --> 00:09:20.860
+Aqui está um exemplo
+de um símbolo que foi predito.
+
+00:09:20.860 --> 00:09:24.070
+E isto podia ser realmente útil
+conforme tentamos decifrar a escrita
+
+00:09:24.070 --> 00:09:26.250
+ao gerar mais dados
+que consigamos analisar.
+
+00:09:26.250 --> 00:09:29.980
+Agora, aqui está uma outra coisa que
+podem fazer com o modelo computacional.
+
+00:09:29.980 --> 00:09:31.290
+Imaginem um macaco

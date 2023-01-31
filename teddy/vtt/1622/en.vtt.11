@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:27.323 --> 00:05:30.061
+have done computer simulations of what happens
+
+00:05:30.061 --> 00:05:33.492
+when fuzzy estimates combine, even in light traffic,
+
+00:05:33.492 --> 00:05:36.116
+when cars just share GPS data,
+
+00:05:36.116 --> 00:05:38.629
+and we've moved this research out of the computer simulation
+
+00:05:38.629 --> 00:05:41.656
+and into robot test beds that have the actual sensors
+
+00:05:41.656 --> 00:05:44.789
+that are in cars now on these robots:
+
+00:05:44.789 --> 00:05:46.627
+stereo cameras, GPS,
+
+00:05:46.627 --> 00:05:48.501
+and the two-dimensional laser range finders
+
+00:05:48.501 --> 00:05:50.741
+that are common in backup systems.
+
+00:05:50.741 --> 00:05:55.225
+We also attach a discrete short-range communication radio,
+
+00:05:55.225 --> 00:05:57.134
+and the robots talk to each other.
+
+00:05:57.134 --> 00:05:58.673
+When these robots come at each other,
+
+00:05:58.673 --> 00:06:01.644
+they track each other's position precisely,

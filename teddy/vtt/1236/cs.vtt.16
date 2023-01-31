@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:01.000
+těmito symboly připomínajícími rybu a některými dalšími znaky,
+
+00:08:01.000 --> 00:08:03.000
+ale nikdy žádným z těch ostatních znaků, které vidíme dole.
+
+00:08:03.000 --> 00:08:05.000
+Navíc existují znaky,
+
+00:08:05.000 --> 00:08:07.000
+které se skutečně často vyskytují na konci nápisů,
+
+00:08:07.000 --> 00:08:09.000
+jako třeba tenhle znak ve tvaru džbánu.
+
+00:08:09.000 --> 00:08:11.000
+Tento znak je vlastně
+
+00:08:11.000 --> 00:08:13.000
+znakem, který se v celém písmu vyskytuje nejčastěji.
+
+00:08:13.000 --> 00:08:16.000
+Vzhledem k existenci podobných vzorců jsme dostali následující nápad.
+
+00:08:16.000 --> 00:08:18.000
+Napadlo nás využít počítač k tomu,
+
+00:08:18.000 --> 00:08:20.000
+abychom odhalili tyto vzorce,
+
+00:08:20.000 --> 00:08:23.000
+a proto jsme do počítače zadali dostupné texty.
+
+00:08:23.000 --> 00:08:25.000
+Počítač vytvořil statistický model ukazující,
+
+00:08:25.000 --> 00:08:27.000
+které symboly se obvykle objevují společně
+
+00:08:27.000 --> 00:08:29.000
+a které symboly zpravidla následují za sebou.
+
+00:08:29.000 --> 00:08:31.000
+Když máme k dispozici počítačový model,

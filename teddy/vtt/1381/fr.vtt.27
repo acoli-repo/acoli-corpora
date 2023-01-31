@@ -1,0 +1,40 @@
+WEBVTT
+
+00:13:29.000 --> 00:13:32.000
+Vous pouvez ici voir la prise qui a été choisie
+
+00:13:32.000 --> 00:13:35.000
+Actuellement, on peut observer la transposition des données sur le Ben 87.
+
+00:13:35.000 --> 00:13:38.000
+Ainsi, ce qui est intéressant avec cette transposition
+
+00:13:38.000 --> 00:13:40.000
+est le fait qu'on a utilisé quelque chose appelé analyse d'images
+
+00:13:40.000 --> 00:13:43.000
+qui récupère les mouvements de différentes parties du visage de Benjamin.
+
+00:13:43.000 --> 00:13:46.000
+Si nous avions choisi, disons, son sourcil gauche.
+
+00:13:46.000 --> 00:13:48.000
+Le logiciel nous aurait dit,
+
+00:13:48.000 --> 00:13:50.000
+que dans l'image 14 ce sourcil se met à bouger d'ici à ici,
+
+00:13:50.000 --> 00:13:52.000
+pour terminer son mouvement à l'image 32.
+
+00:13:52.000 --> 00:13:54.000
+Nous étions ainsi capable de choisir un certain nombre de parties du visage
+
+00:13:54.000 --> 00:13:56.000
+afin d' obtenir des données du même genre.
+
+00:13:56.000 --> 00:13:58.000
+Dès lors, la sauce que j'ai évoqué en même temps que le mix technologique,
+
+00:13:58.000 --> 00:14:01.000
+cette sauce secrète était, en effet, un logiciel nous permettant de

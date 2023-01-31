@@ -1,0 +1,28 @@
+WEBVTT
+
+00:05:58.819 --> 00:06:03.066
+The trick was to decompose the computer's construction
+
+00:06:03.066 --> 00:06:06.020
+into numerous stand-alone modules,
+
+00:06:06.020 --> 00:06:09.920
+each of which could be individually specified,
+
+00:06:09.920 --> 00:06:15.155
+built and unit-tested in isolation from the rest of the project.
+
+00:06:15.155 --> 00:06:18.144
+And from day one, Noam and I decided to put
+
+00:06:18.144 --> 00:06:21.680
+all these building blocks freely available in open source
+
+00:06:21.680 --> 00:06:23.160
+on the Web.
+
+00:06:23.160 --> 00:06:27.631
+So chip specifications, APIs, project descriptions,
+
+00:06:27.631 --> 00:06:31.535
+software tools, hardware simulators, CPU emulators,

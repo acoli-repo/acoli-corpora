@@ -1,0 +1,33 @@
+WEBVTT
+
+00:09:04.143 --> 00:09:06.000
+(aplavz)
+
+00:09:08.500 --> 00:09:09.798
+(konec aplavza)
+
+00:09:10.542 --> 00:09:13.168
+Ta kvad ima lopar na glavi
+
+00:09:13.192 --> 00:09:16.655
+z optimalno točko v velikosti jabolka,
+torej ne preveliko.
+
+00:09:17.017 --> 00:09:19.822
+Naslednji izračuni
+so narejeni vsakih 20 milisekund
+
+00:09:19.846 --> 00:09:21.163
+ali 50-krat na sekundo.
+
+00:09:21.602 --> 00:09:23.877
+Najprej ugotovimo, kam gre žoga.
+
+00:09:24.414 --> 00:09:27.035
+Nato izračunamo, kako naj kvad udari žogo,
+
+00:09:27.059 --> 00:09:29.544
+da leti tja, od koder je bila vržena.
+
+00:09:29.950 --> 00:09:34.382
+tretjič načrtujemo tirnico, ki ponese kvad

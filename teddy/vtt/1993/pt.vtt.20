@@ -1,0 +1,35 @@
+WEBVTT
+
+00:09:57.379 --> 00:10:00.868
+às custas da fiabilidade do GPS,
+
+00:10:00.868 --> 00:10:03.028
+existe algo ainda mais potente
+
+00:10:03.028 --> 00:10:06.820
+e mais subversivo do que o &lt;i&gt;Wave Bubble&lt;/i&gt;,
+
+00:10:06.820 --> 00:10:10.209
+que é um imitador de GPS.
+
+00:10:10.209 --> 00:10:13.034
+A ideia por trás do imitador do GPS é simples.
+
+00:10:13.034 --> 00:10:17.011
+Em vez de se bloquearem os sinais GPS, simulam-se.
+
+00:10:17.011 --> 00:10:20.129
+Imitam-se os sinais e, se o fizerem bem, o dispositivo
+
+00:10:20.129 --> 00:10:23.296
+que estamos a atacar nem sabe que 
+está a ser imitado.
+
+00:10:23.296 --> 00:10:24.928
+Deixem-me mostrar-lhes como funciona.
+
+00:10:24.928 --> 00:10:27.653
+Em qualquer aparelho GPS, há um pico
+
+00:10:27.653 --> 00:10:30.288
+que corresponde aos sinais autênticos.

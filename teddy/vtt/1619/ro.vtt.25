@@ -1,0 +1,44 @@
+WEBVTT
+
+00:12:28.411 --> 00:12:31.904
+Protei-ul controlat de la un metru distanţă pe care îl poţi îmbunătăţi ulterior--
+
+00:12:31.904 --> 00:12:34.890
+astfel poţi înlocui piesele de control la distanţă cu dispozitive Android,
+
+00:12:34.890 --> 00:12:38.669
+deci telefonul mobil, şi un microcontroler Arduino,
+
+00:12:38.669 --> 00:12:39.892
+şi ai putea controla aceasta
+
+00:12:39.892 --> 00:12:41.380
+din telefonul tău mobil sau tableta ta.
+
+00:12:41.380 --> 00:12:44.946
+Apoi ceea ce am vrea să facem este să construim versiuni de șase metri
+
+00:12:44.946 --> 00:12:47.274
+pentru a putea testa performanţa maximă a acestor maşini,
+
+00:12:47.274 --> 00:12:48.838
+pentru a putea merge la viteze foarte, foarte mari.
+
+00:12:48.838 --> 00:12:50.101
+Deci imaginează-te.
+
+00:12:50.101 --> 00:12:53.286
+Stai întins într-o torpilă flexibilă,
+
+00:12:53.286 --> 00:12:54.780
+navigând la viteze mari,
+
+00:12:54.780 --> 00:12:56.625
+controlând forma cadrului cu picioarele tale
+
+00:12:56.625 --> 00:12:59.287
+şi controlând vela cu mâinile tale.
+
+00:12:59.287 --> 00:13:03.612
+Deci asta este ceea ce dorim să dezvoltăm.
+(Aplauze)

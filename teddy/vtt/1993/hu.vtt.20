@@ -1,0 +1,34 @@
+WEBVTT
+
+00:09:57.379 --> 00:10:00.868
+a magánélet védelmében,
+
+00:10:00.868 --> 00:10:03.028
+van valami, ami még hatékonyabb,
+
+00:10:03.028 --> 00:10:06.820
+és még rombolóbb, mint a Wave Bubble,
+
+00:10:06.820 --> 00:10:10.209
+és ez a GPS spoofer.
+
+00:10:10.209 --> 00:10:13.034
+Az alapötlete egyszerű:
+
+00:10:13.034 --> 00:10:17.011
+ahelyett, hogy zavarnánk a GPS jeleket, hamisítsuk őket.
+
+00:10:17.011 --> 00:10:20.129
+Utánozzuk őket, és ha ügyesen csináljuk, akkor a
+
+00:10:20.129 --> 00:10:23.296
+megtámadott berendezés észre sem veszi, hogy átejtették.
+
+00:10:23.296 --> 00:10:24.928
+Hadd mutassam meg, hogyan működik.
+
+00:10:24.928 --> 00:10:27.653
+Minden GPS vevőben van belül egy csúcs,
+
+00:10:27.653 --> 00:10:30.288
+ami a hiteles jeleknek felel meg.

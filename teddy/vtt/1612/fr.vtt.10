@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:59.000 --> 00:05:05.000
+sur comment faire un système qui s'auto-réplique de façon autonome.
+
+00:05:05.000 --> 00:05:07.000
+Et cela est une sorte de vengeance de Babbage.
+
+00:05:07.000 --> 00:05:08.000
+Là vous avez de petits ordinateurs mécaniques.
+
+00:05:08.000 --> 00:05:11.000
+Ce sont des machines à cinq états.
+
+00:05:11.000 --> 00:05:14.000
+Donc, ce sont trois interrupteurs alignés.
+
+00:05:14.000 --> 00:05:16.000
+Dans un état neutre, ils ne se lient pas du tout.
+
+00:05:16.000 --> 00:05:20.000
+Maintenant, si j'en fais une chaîne, une chaîne de bits,
+
+00:05:20.000 --> 00:05:22.000
+ils seront en mesure de reproduire.
+
+00:05:22.000 --> 00:05:23.000
+Nous commençons donc avec blanc, bleu, bleu, blanc.
+
+00:05:23.000 --> 00:05:29.000
+Ce code, qui va maintenant se copier. De un vient deux,
+
+00:05:29.000 --> 00:05:31.000
+puis de deux vient trois.

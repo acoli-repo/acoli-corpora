@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:29.618 --> 00:09:33.609
+So I built a model, a model of simulated meerkats
+
+00:09:33.609 --> 00:09:35.522
+crossing a simulated road.
+
+00:09:35.522 --> 00:09:37.394
+It's a simplistic model.
+
+00:09:37.394 --> 00:09:40.234
+Moving meerkats are like random particles
+
+00:09:40.234 --> 00:09:42.456
+whose unique rule is one of alignment.
+
+00:09:42.456 --> 00:09:44.862
+They simply move together.
+
+00:09:44.862 --> 00:09:48.046
+When these particles get to the road,
+
+00:09:48.046 --> 00:09:49.988
+they sense some kind of obstacle,
+
+00:09:49.988 --> 00:09:52.072
+and they bounce against it.
+
+00:09:52.072 --> 00:09:53.228
+The only difference
+
+00:09:53.228 --> 00:09:55.270
+between the dominant female, here in red,
+
+00:09:55.270 --> 00:09:56.755
+and the other individuals,
+
+00:09:56.755 --> 00:09:59.309
+is that for her, the height of the obstacle,
+
+00:09:59.309 --> 00:10:01.814
+which is in fact the risk perceived from the road,

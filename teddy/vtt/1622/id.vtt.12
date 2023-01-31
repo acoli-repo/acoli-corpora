@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:58.673 --> 00:06:01.644
+mereka melacak posisi robot lainnya dengan tepat
+
+00:06:01.644 --> 00:06:04.381
+dan dapat saling menghindar.
+
+00:06:04.381 --> 00:06:07.607
+Kini kami menambahkan jumlah robotnya
+
+00:06:07.607 --> 00:06:09.078
+dan kami menemukan beberapa masalah.
+
+00:06:09.078 --> 00:06:11.437
+Salah satu masalahnya, jika ada terlalu banyak percakapan,
+
+00:06:11.437 --> 00:06:15.165
+sulit untuk mengolah semua data itu, sehingga Anda harus membuat prioritas,
+
+00:06:15.165 --> 00:06:17.522
+dan itulah guna dari model prediktif.
+
+00:06:17.522 --> 00:06:21.894
+Jika mobil robot Anda memperkirakan semua jalur dari mobil yang ada,
+
+00:06:21.894 --> 00:06:23.661
+Anda tidak perlu terlalu memperhatikan semua jalur itu.
+
+00:06:23.661 --> 00:06:25.364
+Anda memprioritaskan satu orang
+
+00:06:25.364 --> 00:06:26.697
+yang tampak melenceng.
+
+00:06:26.697 --> 00:06:29.223
+Orang itu dapat menjadi masalah.
+
+00:06:29.223 --> 00:06:32.225
+Dan Anda dapat memperkirakan jalur yang baru.

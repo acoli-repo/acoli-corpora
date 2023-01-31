@@ -1,0 +1,32 @@
+WEBVTT
+
+00:09:03.943 --> 00:09:10.542
+(Bifald)
+
+00:09:10.542 --> 00:09:13.192
+Denne quad har en ketcher bundet til sit hoved
+
+00:09:13.192 --> 00:09:16.679
+med et sweet spot der groft set er på størrelse
+med et æble, så ikke for stort.
+
+00:09:16.679 --> 00:09:19.846
+De følgende beregninger bliver 
+udført hvert 20. millisekund,
+
+00:09:19.846 --> 00:09:21.602
+eller 50 gange per sekund.
+
+00:09:21.602 --> 00:09:24.414
+Først regner vi ud hvor bolden er på vej hen.
+
+00:09:24.414 --> 00:09:26.851
+Derefter regner vi ud hvordan 
+quaden skal ramme bolden
+
+00:09:26.851 --> 00:09:29.950
+så den flyver tilbage til der hvor den blev kastet fra.
+
+00:09:29.950 --> 00:09:34.406
+For det tredje, bliver der planlagt 
+en bane der får quaden

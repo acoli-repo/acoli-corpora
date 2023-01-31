@@ -1,0 +1,35 @@
+WEBVTT
+
+00:11:29.825 --> 00:11:32.030
+comme l'extraction, toutes ces choses,
+
+00:11:32.030 --> 00:11:34.795
+seraient plus simples et aussi plus efficaces,
+
+00:11:34.795 --> 00:11:39.212
+parce qu'ils ne traitent pas 
+la structure des données de la parole.
+
+00:11:39.212 --> 00:11:45.188
+En revanche, ils traitent
+la structure des données de la pensée.
+
+00:11:45.188 --> 00:11:47.996
+La structure des données de la pensée.
+
+00:11:47.996 --> 00:11:50.072
+C'est une idée provocante.
+
+00:11:50.072 --> 00:11:52.214
+Mais regardons-la plus en détails.
+
+00:11:52.214 --> 00:11:54.580
+Ceci est l'écosystème « FreeSpeech ».
+
+00:11:54.580 --> 00:11:57.464
+On a la représentation 
+de « FreeSpeech » d'une part,
+
+00:11:57.464 --> 00:12:00.012
+et la machine « FreeSpeech », 
+qui génère l'anglais.

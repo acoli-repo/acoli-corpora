@@ -1,0 +1,35 @@
+WEBVTT
+
+00:08:29.880 --> 00:08:31.697
+was score the probability
+
+00:08:31.697 --> 00:08:34.260
+that a given board configuration would likely lead
+
+00:08:34.260 --> 00:08:37.170
+to a winning board versus a losing board
+
+00:08:37.170 --> 00:08:39.678
+after every move.
+
+00:08:39.678 --> 00:08:42.828
+He plays the computer. He wins.
+
+00:08:42.828 --> 00:08:45.336
+He plays the computer. He wins.
+
+00:08:45.336 --> 00:08:49.067
+He plays the computer. He wins.
+
+00:08:49.067 --> 00:08:51.344
+And then Arthur Samuel leaves the computer
+
+00:08:51.344 --> 00:08:53.571
+to play itself.
+
+00:08:53.571 --> 00:08:57.080
+It plays itself. It collects more data.
+
+00:08:57.080 --> 00:09:01.389
+It collects more data. It increases
+the accuracy of its prediction.

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:27.000 --> 00:09:32.000
+wszystkie te kratownice przenoszą siły po przekątnej.
+
+00:09:32.000 --> 00:09:35.000
+Każda z nich ma trochę inny kształt,
+
+00:09:35.000 --> 00:09:37.000
+który zmienia się z długością budynku.
+
+00:09:37.000 --> 00:09:39.000
+Pracując z Bentley
+
+00:09:39.000 --> 00:09:42.000
+i MicroStation,
+
+00:09:42.000 --> 00:09:44.000
+napisaliśmy własny program,
+
+00:09:44.000 --> 00:09:47.000
+który łączy wszystkie komponenty
+
+00:09:47.000 --> 00:09:50.000
+w pakiety danych,
+
+00:09:50.000 --> 00:09:52.000
+tak, że jeśli zmienimy jakiś element
+
+00:09:52.000 --> 00:09:54.000
+w którymś miejscu w budynku,
+
+00:09:54.000 --> 00:09:57.000
+ta zmiana nie tylko przeniesie się
+
+00:09:57.000 --> 00:09:59.000
+na każdą kratownicę,
+
+00:09:59.000 --> 00:10:02.000
+ale każda kratownica przeniesie tę informację

@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:01.000
+dengan simbol seperti ikan ini dan beberapa tanda lainnya,
+
+00:08:01.000 --> 00:08:03.000
+namun tidak pernah diikuti dengan tanda di bagian bawah ini.
+
+00:08:03.000 --> 00:08:05.000
+Dan terlebih lagi, ada beberapa simbol
+
+00:08:05.000 --> 00:08:07.000
+yang benar-benar cenderung ada pada akhir teks,
+
+00:08:07.000 --> 00:08:09.000
+seperti tanda yang mirip guci ini.
+
+00:08:09.000 --> 00:08:11.000
+Dan tanda ini, sebenarnya, merupakan
+
+00:08:11.000 --> 00:08:13.000
+tanda yang paling sering muncul pada naskah ini.
+
+00:08:13.000 --> 00:08:16.000
+Mengingat pola-pola itu, inilah gagasan kami.
+
+00:08:16.000 --> 00:08:18.000
+Gagasan itu adalah menggunakan komputer
+
+00:08:18.000 --> 00:08:20.000
+untuk mempelajari pola-pola ini,
+
+00:08:20.000 --> 00:08:23.000
+sehingga kita memasukkan teks yang ada ke dalam komputer.
+
+00:08:23.000 --> 00:08:25.000
+Dan komputer ini membuat model statistik
+
+00:08:25.000 --> 00:08:27.000
+di mana simbol-simbol ini cenderung muncul bersama
+
+00:08:27.000 --> 00:08:29.000
+dan simbol mana yang cenderung untuk saling mengikuti.
+
+00:08:29.000 --> 00:08:31.000
+Dengan model komputer ini,
