@@ -1,0 +1,39 @@
+WEBVTT
+
+00:07:27.628 --> 00:07:30.568
+Tentaram coisas como escolher
+algo aleatoriamente
+
+00:07:31.148 --> 00:07:34.098
+ou aplicar o "princípio do primeiro
+a entrar, primeiro a sair",
+
+00:07:34.118 --> 00:07:37.507
+que significa remover o item
+que está na memória há mais tempo.
+
+00:07:38.091 --> 00:07:40.254
+Mas a estratégia mais eficaz
+
+00:07:40.768 --> 00:07:44.287
+concentra-se nos itens
+menos utilizados recentemente.
+
+00:07:44.992 --> 00:07:47.887
+Ela diz que, se decidirmos
+remover algo da memória,
+
+00:07:47.887 --> 00:07:52.655
+devemos tirar o que foi acessado
+pela última vez há mais tempo no passado.
+
+00:07:53.179 --> 00:07:55.338
+Há um certo tipo de lógica nisso.
+
+00:07:55.362 --> 00:07:58.924
+Se já faz muito tempo desde a última vez
+que acessamos essa informação,
+
+00:07:58.944 --> 00:08:02.376
+provavelmente irá demorar muito
+até que precisemos acessá-la novamente.

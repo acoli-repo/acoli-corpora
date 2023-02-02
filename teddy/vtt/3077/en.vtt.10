@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:59.696 --> 00:05:02.296
+If our predictions match our observations,
+
+00:05:02.320 --> 00:05:05.347
+great! -- we got it right,
+so we can make further predictions
+
+00:05:05.371 --> 00:05:07.931
+by changing this or that
+aspect of the model.
+
+00:05:08.733 --> 00:05:12.433
+If, however, our predictions
+do not match our observations,
+
+00:05:12.457 --> 00:05:15.042
+that means that some
+of our assumptions are wrong,
+
+00:05:15.066 --> 00:05:17.499
+and so our understanding
+of the key mechanisms
+
+00:05:17.523 --> 00:05:18.962
+of underlying biology
+
+00:05:18.986 --> 00:05:20.256
+is still incomplete.
+
+00:05:20.829 --> 00:05:23.191
+Luckily, since this is a model,
+
+00:05:23.215 --> 00:05:25.104
+we control all the assumptions.
+
+00:05:25.128 --> 00:05:27.268
+So we can go through them, one by one,
+
+00:05:27.292 --> 00:05:31.121
+identifying which one or ones
+are causing the discrepancy.

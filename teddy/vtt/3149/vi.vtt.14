@@ -1,0 +1,48 @@
+WEBVTT
+
+00:06:57.111 --> 00:07:00.371
+và bộ nhớ chậm - to hơn rất nhiều
+
+00:07:01.239 --> 00:07:04.239
+Để cho máy tính hoạt động hiệu quả
+nhất có thể,
+
+00:07:04.263 --> 00:07:05.414
+bạn phải đảm bảo rằng
+
+00:07:05.438 --> 00:07:07.790
+những thông tin mà bạn muốn truy cập
+
+00:07:07.814 --> 00:07:09.291
+phải ở trong bộ nhớ nhanh
+
+00:07:09.315 --> 00:07:11.069
+để bạn có thể có chúng nhanh.
+
+00:07:11.093 --> 00:07:13.154
+Mỗi lần bạn truy cập một mẩu thông tin,
+
+00:07:13.178 --> 00:07:14.703
+nó được tải vào bộ nhớ nhanh
+
+00:07:14.727 --> 00:07:18.604
+và máy tính phải quyết định mục nào phải
+xóa khỏi bộ nhớ
+
+00:07:18.628 --> 00:07:20.369
+vì sức chứa có hạn.
+
+00:07:21.794 --> 00:07:22.945
+Qua năm tháng,
+
+00:07:22.969 --> 00:07:25.708
+nhà khoa học máy tính đã thử một vài
+chiến lược khác nhau
+
+00:07:25.732 --> 00:07:28.024
+để quyết định mục gì nên xóa khỏi
+bộ nhớ nhanh
+
+00:07:28.048 --> 00:07:31.224
+Họ đã thử như chọn ngẫu nhiên 
+một vài cái

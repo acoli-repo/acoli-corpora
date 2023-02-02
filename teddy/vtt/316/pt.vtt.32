@@ -1,0 +1,43 @@
+WEBVTT
+
+00:15:58.976 --> 00:16:01.448
+Neste ponto, podemos começar rapidamente
+
+00:16:01.448 --> 00:16:03.125
+a trabalhar grandes secções,
+
+00:16:03.125 --> 00:16:05.664
+e a verificar se não há erros.
+
+00:16:05.664 --> 00:16:09.616
+Se houver erros, podemos fazer
+com que o computador o saiba.
+
+00:16:09.616 --> 00:16:12.661
+Usando este processo, para cada
+um dos diferentes grupos,
+
+00:16:12.661 --> 00:16:15.148
+temos agora uma taxa
+de sucesso de 80%,
+
+00:16:15.148 --> 00:16:18.483
+na classificação de 1,5 milhões
+de imagens.
+
+00:16:18.483 --> 00:16:20.601
+Neste ponto, trata-se de descobrir
+
+00:16:20.601 --> 00:16:23.220
+as poucas que não estão
+classificadas corretamente,
+
+00:16:23.220 --> 00:16:26.108
+e tentar perceber porquê.
+
+00:16:26.108 --> 00:16:27.851
+Utilizando esta abordagem
+
+00:16:27.851 --> 00:16:31.972
+conseguimos uma taxa de classificação
+de 97% em 15 minutos.

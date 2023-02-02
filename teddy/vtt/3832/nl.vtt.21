@@ -1,0 +1,39 @@
+WEBVTT
+
+00:10:26.357 --> 00:10:31.420
+In een neuraal netwerk dat we gebruiken
+om voorwerpherkenning te trainen,
+
+00:10:31.420 --> 00:10:34.601
+zitten 24 miljoen knooppunten,
+
+00:10:34.601 --> 00:10:37.228
+140 miljoen parameters,
+
+00:10:37.228 --> 00:10:40.371
+en 15 miljard verbindingen.
+
+00:10:40.371 --> 00:10:43.076
+Dat is een gigantisch model.
+
+00:10:43.076 --> 00:10:46.977
+Mogelijk gemaakt door de enorme
+hoeveelheid gegevens van IMageNet
+
+00:10:46.977 --> 00:10:51.860
+en moderne processoren
+om zo'n gigantisch model te trainen,
+
+00:10:51.860 --> 00:10:54.849
+kwam het convolutioneel
+neuraal netwerk tot bloei,
+
+00:10:54.849 --> 00:10:58.035
+op een manier die niemand had verwacht.
+
+00:10:58.035 --> 00:10:59.883
+Het werd de architectuur
+
+00:10:59.883 --> 00:11:04.093
+die de meeste opwindende 
+nieuwe resultaten leverde

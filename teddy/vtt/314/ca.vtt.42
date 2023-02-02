@@ -1,0 +1,37 @@
+WEBVTT
+
+00:20:59.000 --> 00:21:04.000
+Com va dir Plató, com l'espai és a la mida, el temps és al valor.
+
+00:21:04.000 --> 00:21:09.000
+€Aquests són els resultats del problema difícil que us he plantejat:
+
+00:21:09.000 --> 00:21:11.000
+60 ara o 50 d'aquí un mes?
+
+00:21:11.000 --> 00:21:12.000
+I aquests són els valors subjectius,
+
+00:21:12.000 --> 00:21:14.000
+i el que podeu observar és que les dues regles es conserven.
+
+00:21:14.000 --> 00:21:16.000
+La gent sempre pensa que més és millor que menys:
+
+00:21:16.000 --> 00:21:18.000
+60 sempre és millor que 50;
+
+00:21:18.000 --> 00:21:20.000
+i sempre pensa que ara és millor que més tard:
+
+00:21:20.000 --> 00:21:23.000
+les barres d'aquesta banda són més altes que les d'aquesta banda.
+
+00:21:23.000 --> 00:21:26.000
+Fixeu-vos en què passa quan n'eliminem algunes.
+
+00:21:26.000 --> 00:21:29.000
+De cop i volta tenim la inconsistència dinàmica que ens ha fet trencar el cap.
+
+00:21:29.000 --> 00:21:33.000
+Tenim la tendència per part de la gent de preferir els 50 dòlars ara

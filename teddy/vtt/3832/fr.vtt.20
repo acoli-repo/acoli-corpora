@@ -1,0 +1,31 @@
+WEBVTT
+
+00:09:58.983 --> 00:10:04.602
+Tout comme le cerveau est composé 
+de milliards de neurones connectés,
+
+00:10:04.602 --> 00:10:08.456
+l'unité de base d'un réseau neuronal
+
+00:10:08.456 --> 00:10:10.871
+est le nœud de type neurone.
+
+00:10:10.871 --> 00:10:13.425
+Il reçoit des informations d'autres nœuds
+
+00:10:13.425 --> 00:10:16.143
+et en envoie à d'autres.
+
+00:10:16.143 --> 00:10:20.856
+De plus, ces centaines de milliers
+voire millions de nœuds
+
+00:10:20.856 --> 00:10:24.083
+sont organisés en couches hiérarchiques,
+
+00:10:24.083 --> 00:10:26.637
+similaires au cerveau.
+
+00:10:26.637 --> 00:10:31.420
+Dans le réseau neuronal classique
+que nous utilisons,

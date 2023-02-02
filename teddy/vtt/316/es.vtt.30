@@ -1,0 +1,52 @@
+WEBVTT
+
+00:15:00.034 --> 00:15:02.105
+En este caso, incluso
+después de que dejamos
+
+00:15:02.105 --> 00:15:04.516
+al computador que intente girar
+esto por un momento,
+
+00:15:04.516 --> 00:15:06.377
+seguimos encontrando 
+que la parte izquierda
+
+00:15:06.377 --> 00:15:08.595
+y derecha de las imágenes
+están mezcladas.
+
+00:15:08.595 --> 00:15:11.115
+Así que podemos dar, de nuevo,
+al computador algunas pistas,
+
+00:15:11.115 --> 00:15:14.091
+y decimos, bien, intenta encontrar
+una proyección que separe
+
+00:15:14.091 --> 00:15:16.698
+los lados izquierdos de los derechos
+de la manera más precisa
+
+00:15:16.698 --> 00:15:18.820
+usando este algoritmo
+de aprendizaje profundo.
+
+00:15:18.820 --> 00:15:21.762
+Y dándole esta pista...
+ah, bien, ha tenido éxito.
+
+00:15:21.762 --> 00:15:24.644
+Consiguió encontrar la manera
+de pensar estos objetos
+
+00:15:24.644 --> 00:15:27.024
+que está separando
+estos que están juntos.
+
+00:15:27.024 --> 00:15:29.462
+Así se entiende la idea aquí.
+
+00:15:29.462 --> 00:15:35.641
+Este es un caso en el que la persona
+no es reemplazada por un computador,

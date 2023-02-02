@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:28.160 --> 00:06:31.360
+Şimdi, belirli çözümlerin 
+ayrıntılarına girmeden önce,
+
+00:06:31.360 --> 00:06:34.310
+bu hesaplamalara nasıl geldiğimizi 
+merak ediyorsunuzdur.
+
+00:06:35.040 --> 00:06:38.030
+Öncelikle, çok fazla veri topladık 
+
+
+00:06:38.030 --> 00:06:41.470
+ve veri dizileri oluşturmak için 
+istatistiksel analizler kullandık,
+
+00:06:41.470 --> 00:06:44.480
+bu da bizim modellemeler boyunca 
+yapılan her yüklemede
+
+00:06:44.480 --> 00:06:46.880
+makul seçenekleri
+tercih edebilmemizi sağladı.
+
+00:06:48.160 --> 00:06:52.160
+Bütün projenin temelinde 
+ölçülü bir yaklaşımı tercih ettik.
+
+00:06:53.120 --> 00:06:55.360
+Bütün bu verilerin modele girişi yapılarak
+
+00:06:55.360 --> 00:06:58.160
+azimle ama makul biçimde
+geleceğe yansıtıldı
+
+00:06:58.160 --> 00:07:00.797
+ve yapmak zorunda olduğumuz
+şeyle karşılaştırıldı.

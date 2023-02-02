@@ -1,0 +1,42 @@
+WEBVTT
+
+00:07:27.901 --> 00:07:32.616
+a ukazuje se, že Alice je jediný člověk,
+který skutečně má tento klíč.
+
+00:07:32.616 --> 00:07:35.284
+Takže jsme dosáhli cíle,
+
+00:07:35.284 --> 00:07:37.451
+který byl dostat zprávu od 
+Boba k Alici,
+
+00:07:37.451 --> 00:07:40.143
+aniž by server byl schopný 
+přečíst, co se děje.
+
+00:07:40.143 --> 00:07:43.100
+To, co jsem vám zde předvedl,
+je hodně zjednodušený obrázek.
+
+00:07:43.100 --> 00:07:45.105
+Realita je mnohem komplexnější
+
+00:07:45.105 --> 00:07:48.819
+a vyžaduje mnoho software,
+který vypadá trochu jako toto.
+
+00:07:48.819 --> 00:07:51.259
+A to je ta opravdová designová výzva:
+
+00:07:51.259 --> 00:07:54.780
+Jak uchopíme veškerou tuto komplexnost,
+všechen tento software,
+
+00:07:54.780 --> 00:07:58.898
+a implementujeme jej způsobem,
+který uživatel neuvidí.
+
+00:07:58.898 --> 00:08:02.496
+Myslím, že s Protonovou poštou jsme se 
+dostali celkem blízko.

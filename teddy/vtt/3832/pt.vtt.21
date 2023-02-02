@@ -1,0 +1,33 @@
+WEBVTT
+
+00:10:28.877 --> 00:10:31.715
+para treinar o modelo
+de reconhecimento de objetos
+
+00:10:31.715 --> 00:10:34.601
+existem 24 milhões de nodos,
+
+00:10:34.601 --> 00:10:37.498
+140 milhões de parâmetros
+
+00:10:37.498 --> 00:10:40.137
+e 15 mil milhões de ligações.
+
+00:10:40.661 --> 00:10:42.590
+É um modelo enorme.
+
+00:10:43.076 --> 00:10:46.977
+Abastecido pelos imensos dados do ImageNet
+
+00:10:46.977 --> 00:10:52.410
+dos CPUs e GPUs modernos para treinar
+um modelo tão pesado quanto este,
+
+00:10:52.410 --> 00:10:54.779
+a rede neural convoluta
+
+00:10:54.779 --> 00:10:57.900
+floresceu de um modo que ninguém esperava.
+
+00:10:58.215 --> 00:11:01.940
+Tornou-se na arquitetura vencedora

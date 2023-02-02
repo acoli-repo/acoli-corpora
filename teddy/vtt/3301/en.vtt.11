@@ -1,0 +1,33 @@
+WEBVTT
+
+00:05:28.315 --> 00:05:30.982
+We had to do a lot of capture with this.
+
+00:05:31.752 --> 00:05:34.643
+Once we had this enormous amount of data,
+
+00:05:34.667 --> 00:05:38.442
+we built and trained deep neural networks.
+
+00:05:39.117 --> 00:05:40.863
+And when we were finished with that,
+
+00:05:40.887 --> 00:05:43.331
+in 16 milliseconds,
+
+00:05:43.355 --> 00:05:46.467
+the neural network can look at my image
+
+00:05:46.491 --> 00:05:49.419
+and figure out everything about my face.
+
+00:05:50.458 --> 00:05:55.934
+It can compute my expression,
+my wrinkles, my blood flow --
+
+00:05:55.958 --> 00:05:58.275
+even how my eyelashes move.
+
+00:05:58.925 --> 00:06:01.760
+This is then rendered
+and displayed up there

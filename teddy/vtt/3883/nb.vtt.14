@@ -1,0 +1,34 @@
+WEBVTT
+
+00:06:57.232 --> 00:07:00.794
+Utfordringen er å få Bob sin melding
+
+00:07:00.794 --> 00:07:05.103
+til Alice uten at tjeneren kan
+lese meldingen.
+
+00:07:05.103 --> 00:07:07.516
+Derfor må vi kryptere den
+
+00:07:07.516 --> 00:07:09.640
+allerede før den forlater Bobs datamaskin
+
+00:07:09.640 --> 00:07:14.141
+og ett triks er at vi gjør dette med Alice
+sin offentlige nøkkel.
+
+00:07:14.141 --> 00:07:19.333
+Nå blir disse krypterte dataene sendt
+gjennom tjeneren til Alice,
+
+00:07:19.333 --> 00:07:23.613
+og fordi meldingen ble kryptert med Alice
+sin offentlige nøkkel,
+
+00:07:23.613 --> 00:07:27.901
+er det også kun hennes private nøkkel
+som kan dekryptere den,
+
+00:07:27.901 --> 00:07:32.616
+og det er også kun henne som faktisk har
+denne nøkkelen.

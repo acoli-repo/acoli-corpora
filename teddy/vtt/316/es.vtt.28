@@ -1,0 +1,48 @@
+WEBVTT
+
+00:13:58.019 --> 00:14:03.045
+o un radiólogo indicando nódulos
+potencialmente problemáticos.
+
+00:14:03.045 --> 00:14:05.174
+A veces puede ser difícil
+para el algoritmo.
+
+00:14:05.174 --> 00:14:06.768
+En este caso, queda algo confuso.
+
+00:14:06.768 --> 00:14:09.948
+Las partes delanteras y traseras
+de los autos están todas mezcladas.
+
+00:14:09.948 --> 00:14:12.000
+Así que tenemos que ser
+un poco más cuidadosos,
+
+00:14:12.000 --> 00:14:14.192
+seleccionando manualmente 
+las partes delanteras
+
+00:14:14.192 --> 00:14:18.014
+en contraposición a las traseras,
+
+00:14:18.014 --> 00:14:20.638
+para luego decir al computador
+que este es una especie de grupo
+
+00:14:20.638 --> 00:14:22.086
+es en el que estamos interesados.
+
+00:14:22.086 --> 00:14:24.153
+Hacemos esto por un tiempo,
+nos saltamos un poco,
+
+00:14:24.153 --> 00:14:26.499
+y luego probamos el algoritmo
+de aprendizaje automático
+
+00:14:26.499 --> 00:14:29.173
+basado en un par de cientos de cosas,
+
+00:14:29.173 --> 00:14:30.668
+y esperamos que haya mejorado mucho.

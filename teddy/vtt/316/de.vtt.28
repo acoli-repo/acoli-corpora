@@ -1,0 +1,43 @@
+WEBVTT
+
+00:13:57.266 --> 00:14:02.292
+oder dem Radiologen bei 
+potentiell gefährlichen Knoten.
+
+00:14:02.292 --> 00:14:04.851
+Manchmal wird es 
+schwer für den Algorithmus.
+
+00:14:04.851 --> 00:14:06.815
+In diesem Fall war er etwas verwirrt.
+
+00:14:06.815 --> 00:14:09.365
+Die Vorder- und Rückseiten 
+der Autos sind vermischt.
+
+00:14:09.365 --> 00:14:11.437
+Wir müssen hier also sorgfältiger sein,
+
+00:14:11.437 --> 00:14:14.669
+und die Vorderseiten manuell 
+von den Rückseiten trennen,
+
+00:14:14.669 --> 00:14:20.175
+um dann dem Computer zu sagen, 
+dass das Teil einer Gruppe ist,
+
+00:14:20.175 --> 00:14:21.523
+die uns interessiert.
+
+00:14:21.523 --> 00:14:24.420
+Das machen wir für eine Weile,
+wir springen ein wenig weiter,
+
+00:14:24.420 --> 00:14:26.446
+und dann trainieren wir den Algorithmus,
+
+00:14:26.446 --> 00:14:28.420
+basierend auf diesen paar hundert Sachen,
+
+00:14:28.420 --> 00:14:30.445
+und hoffen, dass er besser geworden ist.

@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:57.232 --> 00:07:00.794
+Problema principală e 
+cum să luăm mesajul lui Bob
+
+00:07:00.794 --> 00:07:05.103
+și să i-l transmitem lui Alice 
+fără ca serverul să îl poată citi.
+
+00:07:05.423 --> 00:07:07.516
+Așa că trebuie să criptăm mesajul
+
+00:07:07.516 --> 00:07:09.600
+înainte de a părăsi
+calculatorul lui Bob,
+
+00:07:09.600 --> 00:07:14.141
+una din șmecherii fiind criptarea 
+folosind cheia publică a lui Alice.
+
+00:07:14.561 --> 00:07:18.803
+Acum, datele criptate sunt trimise
+prin server, lui Alice
+
+00:07:19.333 --> 00:07:23.613
+și, întrucât mesajul a fost criptat
+folosind cheia ei publică,
+
+00:07:23.613 --> 00:07:27.901
+singura cheie care poate să-l decripteze 
+e o cheie privată a lui Alice
+
+00:07:28.501 --> 00:07:32.312
+și se pare că Alice este singura
+care deține această cheie.

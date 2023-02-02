@@ -1,0 +1,40 @@
+WEBVTT
+
+00:10:28.344 --> 00:10:31.061
+there's a slight time delay
+between each row,
+
+00:10:31.061 --> 00:10:34.218
+and this causes slight artifacts
+
+00:10:34.218 --> 00:10:37.701
+that get coded into each frame of a video.
+
+00:10:37.701 --> 00:10:41.507
+And so what we found
+is that by analyzing these artifacts,
+
+00:10:41.507 --> 00:10:46.122
+we can actually recover sound
+using a modified version of our algorithm.
+
+00:10:46.122 --> 00:10:48.034
+So here's an experiment we did
+
+00:10:48.034 --> 00:10:49.729
+where we filmed a bag of candy
+
+00:10:49.729 --> 00:10:51.470
+while a nearby loudspeaker played
+
+00:10:51.470 --> 00:10:54.442
+the same "Mary Had a Little Lamb"
+music from before,
+
+00:10:54.442 --> 00:10:58.645
+but this time, we used just a regular
+store-bought camera,
+
+00:10:58.645 --> 00:11:01.819
+and so in a second, I'll play for you
+the sound that we recovered,

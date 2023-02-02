@@ -1,0 +1,35 @@
+WEBVTT
+
+00:10:26.637 --> 00:10:31.420
+U tipičnoj neuralnoj mreži koju koristimo
+u učenju prepoznavanja modela,
+
+00:10:31.420 --> 00:10:34.601
+ima 24 milijuna čvorova,
+
+00:10:34.601 --> 00:10:37.898
+140 milijuna parametara,
+
+00:10:37.898 --> 00:10:40.661
+i 15 milijardi veza.
+
+00:10:40.661 --> 00:10:43.076
+To je ogroman model.
+
+00:10:43.076 --> 00:10:46.977
+Upogonjen je s 
+mnoštvom podataka s ImageNet-a
+
+00:10:46.977 --> 00:10:52.410
+te modernih CPJ-a i GPJ-a 
+kako bi istrenirao ove ogrome modele,
+
+00:10:52.410 --> 00:10:54.779
+skupna neuronska mreža
+
+00:10:54.779 --> 00:10:57.565
+je procvala na način 
+koji nitko nije očekivao.
+
+00:10:58.215 --> 00:11:00.723
+Postala je ključna struktura

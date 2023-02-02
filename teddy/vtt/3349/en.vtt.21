@@ -1,0 +1,41 @@
+WEBVTT
+
+00:10:28.983 --> 00:10:30.662
+and I'll walk you through it.
+
+00:10:30.686 --> 00:10:32.882
+First, data integrity check.
+
+00:10:34.132 --> 00:10:36.789
+For the recidivism risk
+algorithm I talked about,
+
+00:10:37.582 --> 00:10:41.155
+a data integrity check would mean
+we'd have to come to terms with the fact
+
+00:10:41.179 --> 00:10:44.705
+that in the US, whites and blacks
+smoke pot at the same rate
+
+00:10:44.729 --> 00:10:47.214
+but blacks are far more likely
+to be arrested --
+
+00:10:47.238 --> 00:10:50.422
+four or five times more likely,
+depending on the area.
+
+00:10:51.317 --> 00:10:54.143
+What is that bias looking like
+in other crime categories,
+
+00:10:54.167 --> 00:10:55.618
+and how do we account for it?
+
+00:10:56.162 --> 00:10:59.201
+Second, we should think about
+the definition of success,
+
+00:10:59.225 --> 00:11:00.606
+audit that.

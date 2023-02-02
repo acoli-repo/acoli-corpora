@@ -1,0 +1,40 @@
+WEBVTT
+
+00:10:28.344 --> 00:10:31.061
+hay una leve demora entre cada fotosito,
+
+00:10:31.061 --> 00:10:34.218
+y esto hace que objetos sencillos
+
+00:10:34.218 --> 00:10:37.701
+sean codificados en 
+cada fotograma de un video.
+
+00:10:37.701 --> 00:10:41.507
+Hallamos que mediante 
+el análisis de estos objetos,
+
+00:10:41.507 --> 00:10:46.122
+se puede recuperar el sonido usando una 
+versión modificada de nuestro algoritmo.
+
+00:10:46.122 --> 00:10:48.034
+Aquí un experimento que hicimos
+
+00:10:48.034 --> 00:10:49.729
+donde filmamos una bolsa de dulces
+
+00:10:49.729 --> 00:10:51.470
+mientras que un altavoz reproducía
+
+00:10:51.470 --> 00:10:54.442
+el mismo "María tenía un corderito",
+la música de antes,
+
+00:10:54.442 --> 00:10:58.645
+pero esta vez, usamos una cámara 
+comprada en la tienda normal,
+
+00:10:58.645 --> 00:11:01.819
+y en un segundo, les reproduciré 
+el sonido que hemos recuperado,

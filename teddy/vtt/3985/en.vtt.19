@@ -1,0 +1,39 @@
+WEBVTT
+
+00:09:27.386 --> 00:09:30.051
+so you can justify it,
+perhaps, in some way.
+
+00:09:30.837 --> 00:09:32.759
+Moving on swiftly from here,
+
+00:09:32.783 --> 00:09:35.718
+is something a little bit
+more technical and more interesting.
+
+00:09:35.742 --> 00:09:40.679
+All that we've shown you so far
+uses metadata to make the connections.
+
+00:09:40.703 --> 00:09:42.813
+But obviously we have
+something cool nowadays
+
+00:09:42.837 --> 00:09:45.749
+that everyone likes to talk about,
+which is machine learning.
+
+00:09:45.773 --> 00:09:48.847
+So what we thought is,
+let's strip out all the metadata,
+
+00:09:48.871 --> 00:09:52.483
+let's look at what machine learning can do
+
+00:09:52.507 --> 00:09:56.830
+based purely on visual recognition
+of this entire collection.
+
+00:09:56.854 --> 00:10:01.047
+What we ended up with
+is this very interesting map,

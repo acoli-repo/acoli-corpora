@@ -1,0 +1,39 @@
+WEBVTT
+
+00:06:30.450 --> 00:06:32.315
+In de eerste plaats: de sleutels.
+
+00:06:33.006 --> 00:06:34.260
+Willekeurige getallen zijn
+
+00:06:34.260 --> 00:06:37.260
+de fundamentele bouwstenen 
+van encryptiesleutels.
+
+00:06:37.260 --> 00:06:39.839
+Maar vandaag de dag zijn ze 
+niet echt willekeurig.
+
+00:06:40.641 --> 00:06:43.379
+Op dit moment maken we encryptiesleutels
+
+00:06:43.403 --> 00:06:47.212
+van reeksen van willekeurige getallen 
+gegenereerd door software,
+
+00:06:47.236 --> 00:06:49.799
+zogenaamde pseudo-willekeurige getallen.
+
+00:06:50.712 --> 00:06:52.259
+Getallen die worden gegenereerd
+
+00:06:52.259 --> 00:06:54.669
+door een programma 
+of een wiskundig voorschrift
+
+00:06:54.669 --> 00:06:57.814
+vertonen altijd een, misschien 
+wel subtiel, patroon.
+
+00:06:58.784 --> 00:07:00.776
+Hoe minder willekeurig de getallen zijn,

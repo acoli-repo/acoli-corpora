@@ -1,0 +1,33 @@
+WEBVTT
+
+00:10:26.637 --> 00:10:31.420
+In a typical neural network we use
+to train our object recognition model,
+
+00:10:31.420 --> 00:10:34.601
+it has 24 million nodes,
+
+00:10:34.601 --> 00:10:37.898
+140 million parameters,
+
+00:10:37.898 --> 00:10:40.661
+and 15 billion connections.
+
+00:10:40.661 --> 00:10:43.076
+That's an enormous model.
+
+00:10:43.076 --> 00:10:46.977
+Powered by the massive data from ImageNet
+
+00:10:46.977 --> 00:10:52.410
+and the modern CPUs and GPUs
+to train such a humongous model,
+
+00:10:52.410 --> 00:10:54.779
+the convolutional neural network
+
+00:10:54.779 --> 00:10:58.215
+blossomed in a way that no one expected.
+
+00:10:58.215 --> 00:11:00.723
+It became the winning architecture

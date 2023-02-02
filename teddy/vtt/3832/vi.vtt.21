@@ -1,0 +1,34 @@
+WEBVTT
+
+00:10:26.544 --> 00:10:31.402
+Trong mạng lưới điển hình chúng tôi dùng
+để huấn luyện những mẫu nhận diện vật thể
+
+00:10:31.402 --> 00:10:34.620
+có 24 triệu nút,
+
+00:10:34.620 --> 00:10:37.791
+140 triệu thông số,
+
+00:10:37.791 --> 00:10:40.538
+và 15 tỉ liên kết.
+
+00:10:40.538 --> 00:10:43.221
+Đó là một mẫu cực kỳ lớn.
+
+00:10:43.221 --> 00:10:46.776
+Hỗ trợ bởi dữ liệu khổng lồ từ ImageNet
+
+00:10:46.776 --> 00:10:52.437
+và những CPUs và GPUs hiện đại
+để huấn luyện cho một mẫu cực lớn.
+
+00:10:52.437 --> 00:10:54.420
+mạng lưới những nơ ron đan chéo
+
+00:10:54.420 --> 00:10:58.139
+phát triển đến mức
+không ai có thể dự đoán được.
+
+00:10:58.139 --> 00:11:00.645
+Nó trở thành kiến trúc được dùng để

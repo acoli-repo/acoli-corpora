@@ -1,0 +1,35 @@
+WEBVTT
+
+00:06:30.018 --> 00:06:34.210
+Provavelmente, seria boa ideia 
+não pôr as chaves no servidor.
+
+00:06:34.210 --> 00:06:38.108
+Portanto, gerámos as chaves de encriptação
+nos nossos computadores
+
+00:06:38.108 --> 00:06:41.696
+e não gerámos uma só chave, 
+mas duas chaves.
+
+00:06:41.696 --> 00:06:45.563
+Há uma chave RSA privada 
+e uma chave RSA pública.
+
+00:06:45.563 --> 00:06:48.191
+Estas chaves estão ligadas 
+matematicamente.
+
+00:06:48.191 --> 00:06:50.253
+Vamos ver como é que isto funciona
+
+00:06:50.253 --> 00:06:52.820
+quando várias pessoas comunicam.
+
+00:06:52.787 --> 00:06:57.298
+Temos aqui Bob e Alice, 
+que querem comunicar em privado.
+
+00:06:57.298 --> 00:07:00.889
+O principal problema 
+é agarrar na mensagem de Bob

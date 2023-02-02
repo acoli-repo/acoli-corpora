@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+eso es muy obvio, todos lo sabemos.
+
+00:12:01.000 --> 00:12:03.000
+Pero hay otros aspectos
+
+00:12:03.000 --> 00:12:05.000
+de la estructura de las redes sociales que no son tan obvios.
+
+00:12:05.000 --> 00:12:08.000
+Comparen el nodo B del extremo izquierdo con el nodo A de la parte inferior izquierda.
+
+00:12:08.000 --> 00:12:11.000
+Ahora, estas dos personas tienen ambos 4 amigos
+
+00:12:11.000 --> 00:12:13.000
+pero los amigos de A se conocen entre sí
+
+00:12:13.000 --> 00:12:15.000
+y los amigos de B no.
+
+00:12:15.000 --> 00:12:17.000
+Así que los amigos de los amigos de A
+
+00:12:17.000 --> 00:12:19.000
+también son amigos de A
+
+00:12:19.000 --> 00:12:21.000
+mientras que un amigo de un amigo de B no es amigo de B
+
+00:12:21.000 --> 00:12:23.000
+está más lejos en la red.
+
+00:12:23.000 --> 00:12:26.000
+Esto se conoce como transitividad en las redes.
+
+00:12:26.000 --> 00:12:28.000
+Y, finalmente, comparen los nodos C y D.
+
+00:12:28.000 --> 00:12:31.000
+C y D ambos tienen 6 amigos.

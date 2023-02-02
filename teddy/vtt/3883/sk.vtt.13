@@ -1,0 +1,33 @@
+WEBVTT
+
+00:06:30.018 --> 00:06:34.172
+No, dobrý nápad by pravdepodobne bol,
+že by sme na server nedali kľúč.
+
+00:06:34.172 --> 00:06:38.070
+Takže vytvoríme šifrovacie kľúče
+vo vašom počítači
+
+00:06:38.070 --> 00:06:41.038
+a nevytvoríme iba jeden kľúč,
+ale vlastne dvojicu kľúčov,
+
+00:06:41.858 --> 00:06:45.563
+takže je tu súkromný kľúč RSA
+a verejný kľúč RSA
+
+00:06:45.563 --> 00:06:48.191
+a tieto kľúče sú matematicky prepojené.
+
+00:06:48.191 --> 00:06:50.396
+Pozrime sa na to, ako to funguje,
+
+00:06:50.396 --> 00:06:51.737
+keď komunikuje viac ľudí.
+
+00:06:52.787 --> 00:06:57.232
+Tu máme Boba a Alicu,
+ktorí chcú komunikovať súkromne.
+
+00:06:57.232 --> 00:07:00.794
+Kľúčovou výzvou je vziať Bobovu správu

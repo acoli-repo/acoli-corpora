@@ -1,0 +1,41 @@
+WEBVTT
+
+00:07:27.901 --> 00:07:32.616
+y resulta que Alice es la única persona
+que tiene esta llave.
+
+00:07:32.616 --> 00:07:35.284
+Logramos el objetivo,
+
+00:07:35.284 --> 00:07:37.451
+que es enviar el mensaje de Bob a Alice
+
+00:07:37.451 --> 00:07:40.143
+sin que el servidor pueda
+leer el contenido.
+
+00:07:40.143 --> 00:07:43.100
+En realidad, les he mostrado
+un esquema muy simplificado.
+
+00:07:43.100 --> 00:07:45.105
+La realidad es mucho más compleja
+
+00:07:45.105 --> 00:07:48.819
+y requiere mucho software
+que tiene este aspecto.
+
+00:07:48.819 --> 00:07:51.259
+Y este es el principal desafío de diseńo:
+
+00:07:51.259 --> 00:07:54.780
+¿Cómo manejar esta complejidad,
+todo este software,
+
+00:07:54.780 --> 00:07:58.898
+e implementarlo de modo
+que el usuario no lo vea?
+
+00:07:58.898 --> 00:08:02.496
+Creo que con ProtonMail,
+casi lo hemos logrado.

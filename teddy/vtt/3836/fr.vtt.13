@@ -1,0 +1,45 @@
+WEBVTT
+
+00:06:28.858 --> 00:06:31.088
+On veut que les joueurs
+fassent de bons tirs.
+
+00:06:31.088 --> 00:06:32.699
+Donc si je suis près du panier
+
+00:06:32.699 --> 00:06:34.984
+et qu'il n'y a personne autour,
+c'est un bon tir.
+
+00:06:34.984 --> 00:06:38.961
+Si je suis loin du panier entouré de 
+défenseurs, c'est un mauvais tir.
+
+00:06:38.961 --> 00:06:43.819
+Mais avant, on ne savait pas
+quantifier le bon et le mauvais
+
+00:06:43.819 --> 00:06:45.346
+jusqu'à maintenant.
+
+00:06:45.346 --> 00:06:48.716
+Donc, ce qu'on peut faire, c'est utiliser
+les traits spatio-temporels,
+
+00:06:48.716 --> 00:06:50.247
+on a étudié tous les tirs.
+
+00:06:50.251 --> 00:06:53.250
+On peut voir : Où est le tir ?
+Quel est l'angle avec le panier ?
+
+00:06:53.250 --> 00:06:56.092
+Où se tiennent les défenseurs ?
+A quelle distance ?
+
+00:06:56.092 --> 00:06:57.253
+Quels sont leurs angles ?
+
+00:06:57.253 --> 00:07:01.238
+Quand il y a plusieurs défenseurs, on peut
+regarder comment les joueurs se déplacent

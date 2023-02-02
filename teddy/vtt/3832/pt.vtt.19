@@ -1,0 +1,30 @@
+WEBVTT
+
+00:09:29.416 --> 00:09:33.954
+Agora que já temos os dados para alimentar
+o cérebro do nosso computador,
+
+00:09:33.954 --> 00:09:37.138
+estamos prontos para voltar
+a trabalhar nos algoritmos.
+
+00:09:37.691 --> 00:09:42.869
+Como se veio a perceber, a riqueza
+de informações fornecidas pelo ImageNet
+
+00:09:42.869 --> 00:09:47.675
+era perfeita para uma classe particular
+de algoritmos de aprendizagem automática
+
+00:09:47.675 --> 00:09:50.128
+designada por "rede neural convoluta",
+
+00:09:50.128 --> 00:09:55.499
+lançada por Kunihiko Fukushima,
+Geoff Hinton e Yann LeCun,
+
+00:09:55.499 --> 00:09:58.144
+nos anos 70 e 80.
+
+00:09:58.983 --> 00:10:00.859
+À semelhança do cérebro,

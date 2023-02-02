@@ -1,0 +1,34 @@
+WEBVTT
+
+00:06:57.232 --> 00:07:00.794
+Utmaningen är att ta Bobs meddelande
+
+00:07:00.794 --> 00:07:05.103
+och få iväg det till Alice på ett sätt
+som gör att servern inte kan läsa det.
+
+00:07:05.103 --> 00:07:07.266
+Det vi måste göra är
+att kryptera meddelandet
+
+00:07:07.266 --> 00:07:09.290
+innan det ens lämnar Bobs dator,
+
+00:07:09.290 --> 00:07:14.141
+och ett av knepen är att vi krypterar det 
+med hjälp av Alices offentliga nyckel.
+
+00:07:14.141 --> 00:07:18.983
+Nu skickas krypterad data 
+via servern till Alice,
+
+00:07:18.983 --> 00:07:23.393
+och eftersom meddelandet krypterades
+med Alices offentliga nyckel,
+
+00:07:23.393 --> 00:07:27.901
+är det bara Alices hemliga nyckel
+som kan dekryptera det,
+
+00:07:27.901 --> 00:07:32.616
+och det är bara Alice som har den nyckeln.

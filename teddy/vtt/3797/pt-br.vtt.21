@@ -1,0 +1,40 @@
+WEBVTT
+
+00:10:28.144 --> 00:10:31.061
+há um pequeno atraso entre cada rolo,
+
+00:10:31.061 --> 00:10:34.218
+e isso causa pequenos artefatos
+
+00:10:34.218 --> 00:10:37.701
+que são codificados
+entre cada quadro de um vídeo.
+
+00:10:37.701 --> 00:10:41.507
+Então descobrimos
+que, analisando esses artefatos,
+
+00:10:41.507 --> 00:10:46.122
+podemos recuperar o som usando
+uma versão modificada do nosso algoritmo.
+
+00:10:46.122 --> 00:10:48.034
+Aqui está uma experiência que fizemos
+
+00:10:48.034 --> 00:10:49.729
+em que filmamos um pacote de doces
+
+00:10:49.729 --> 00:10:51.470
+enquanto um alto-falante tocava
+
+00:10:51.470 --> 00:10:54.442
+a mesma música de antes,
+"Mary Had a Little Lamb",
+
+00:10:54.442 --> 00:10:58.645
+mas dessa vez, usamos apenas
+uma câmera comum de loja,
+
+00:10:58.645 --> 00:11:01.719
+e em um segundo, vou tocar pra vocês
+o som que recuperamos,

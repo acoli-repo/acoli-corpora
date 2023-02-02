@@ -1,0 +1,45 @@
+WEBVTT
+
+00:08:58.485 --> 00:09:01.979
+Il y a des piétons qui traversent devant,
+des voitures qui traversent,
+
+00:09:01.979 --> 00:09:03.790
+et vont dans toutes les directions,
+
+00:09:03.790 --> 00:09:05.587
+les feux, les passages piétons.
+
+00:09:05.587 --> 00:09:08.114
+C'est extrêmement compliqué.
+
+00:09:08.114 --> 00:09:10.217
+Dès qu'on a résolu ce problème,
+
+00:09:10.217 --> 00:09:12.729
+le véhicule doit gérer les chantiers.
+
+00:09:12.749 --> 00:09:15.889
+Voici les cônes à gauche,
+qui obligent à rouler à droite.
+
+00:09:15.889 --> 00:09:18.282
+Ce n'est évidemment pas un chantier isolé.
+
+00:09:18.282 --> 00:09:19.992
+On doit gérer les autres véhicules
+
+00:09:19.992 --> 00:09:22.005
+qui négocient le même passage.
+
+00:09:22.005 --> 00:09:25.268
+Si quelqu'un enfreint une règle,
+la police veille.
+
+00:09:25.268 --> 00:09:28.810
+Et donc, notre voiture doit comprendre
+que ce gyroscope sur cette auto
+
+00:09:28.810 --> 00:09:31.250
+signifie qu'il s'agit 
+d'une voiture de police

@@ -1,0 +1,39 @@
+WEBVTT
+
+00:10:28.344 --> 00:10:31.101
+há um pequeno compasso de atraso
+entre cada imagem,
+
+00:10:31.101 --> 00:10:34.288
+o que causa pequenas distorções
+
+00:10:34.288 --> 00:10:37.271
+que ficam registadas 
+em cada imagem do vídeo.
+
+00:10:37.701 --> 00:10:41.707
+Descobrimos que, 
+analisando essas distorções,
+
+00:10:41.707 --> 00:10:46.182
+podemos recuperar o som, usando 
+uma versão modificada do nosso algoritmo.
+
+00:10:46.182 --> 00:10:48.104
+Esta foi uma experiência que fizemos
+
+00:10:48.104 --> 00:10:49.919
+em que filmámos um pacote de rebuçados
+
+00:10:49.919 --> 00:10:51.740
+junto dum altifalante que tocava
+
+00:10:51.740 --> 00:10:54.532
+a mesma "Maria tinha um carneirinho"
+
+00:10:54.532 --> 00:10:58.645
+mas, desta vez, usámos uma câmara vulgar 
+comprada no supermercado.
+
+00:10:58.645 --> 00:11:01.819
+Vou passar já o som que recuperámos.

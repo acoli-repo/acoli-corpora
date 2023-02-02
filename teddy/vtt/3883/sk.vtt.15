@@ -1,0 +1,41 @@
+WEBVTT
+
+00:07:28.431 --> 00:07:32.126
+A vyzerá to tak, že Alica
+je jediný človek, ktorý tento kľúč má.
+
+00:07:32.616 --> 00:07:35.284
+Takto sme slpnili úlohu,
+
+00:07:35.284 --> 00:07:37.451
+ktorou bolo dostať správu od Boba k Alici
+
+00:07:37.451 --> 00:07:40.143
+bez toho, aby bol server
+schopný prečítať, čo sa deje.
+
+00:07:40.143 --> 00:07:43.100
+Teraz som vám tu ukázal vlastne 
+veľmi zjednodušený príklad.
+
+00:07:43.100 --> 00:07:45.105
+Realita je oveľa komplexnejšia
+
+00:07:45.105 --> 00:07:48.149
+a vyžaduje množstvo softvérov
+a vyzerá to asi takto.
+
+00:07:48.819 --> 00:07:51.259
+A to je vlastne hlavná výzva dizajnu.
+
+00:07:51.259 --> 00:07:54.780
+Ako môžeme zobrať všetku tú komplexnosť,
+všetok ten softvér,
+
+00:07:54.780 --> 00:07:58.128
+a aplikovať ho tak,
+aby to používateľ nevidel?
+
+00:07:58.898 --> 00:08:02.496
+Myslím, že s ProtonMailom sme sa k tomu
+dostali celkom blízko.

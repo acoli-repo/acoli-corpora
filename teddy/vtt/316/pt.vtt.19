@@ -1,0 +1,38 @@
+WEBVTT
+
+00:09:28.389 --> 00:09:33.172
+Aqui está um texto que gerei ontem
+com um algoritmo de aprendizagem profunda.
+
+00:09:34.112 --> 00:09:37.096
+E aqui está um texto gerado
+por um algoritmo de Stanford.
+
+00:09:37.096 --> 00:09:38.860
+Cada uma destas frases foi gerada
+
+00:09:38.860 --> 00:09:43.109
+por um algoritmo de aprendizagem profunda
+para descrever cada uma destas imagens.
+
+00:09:43.109 --> 00:09:47.581
+Este algoritmo nunca tinha visto antes um
+homem de T-shirt preta a tocar guitarra.
+
+00:09:47.581 --> 00:09:49.801
+Já tinha visto um homem e a cor preta.
+
+00:09:49.801 --> 00:09:51.400
+Já tinha visto uma guitarra.
+
+00:09:51.400 --> 00:09:55.694
+Mas gerou de forma independente
+esta nova descrição da imagem.
+
+00:09:56.294 --> 00:09:59.246
+Ainda não estamos bem ao nível do
+desempenho humano, mas perto.
+
+00:09:59.246 --> 00:10:03.264
+Em testes, os humanos preferem 
+a descrição gerada pelo computador,

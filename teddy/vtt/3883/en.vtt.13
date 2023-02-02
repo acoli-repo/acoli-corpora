@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:30.018 --> 00:06:34.172
+Well, it's probably a good idea
+not to put the keys on the server.
+
+00:06:34.172 --> 00:06:38.070
+So what we do is we generate
+encryption keys on your computer,
+
+00:06:38.070 --> 00:06:41.858
+and we don't generate a single key,
+but actually a pair of keys,
+
+00:06:41.858 --> 00:06:45.563
+so there's an RSA private key
+and an RSA public key,
+
+00:06:45.563 --> 00:06:48.191
+and these keys
+are mathematically connected.
+
+00:06:48.191 --> 00:06:50.396
+So let's have a look
+and see how this works
+
+00:06:50.396 --> 00:06:52.787
+when multiple people communicate.
+
+00:06:52.787 --> 00:06:57.232
+So here we have Bob and Alice,
+who want to communicate privately.
+
+00:06:57.232 --> 00:07:00.794
+So the key challenge
+is to take Bob's message

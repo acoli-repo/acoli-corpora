@@ -1,0 +1,45 @@
+WEBVTT
+
+00:06:28.691 --> 00:06:31.248
+Los entrenadores quieren que
+los jugadores disparen bien.
+
+00:06:31.272 --> 00:06:32.923
+Si estoy cerca de la cesta
+
+00:06:32.947 --> 00:06:35.113
+y no hay nadie cerca,
+es un buen tiro.
+
+00:06:35.137 --> 00:06:39.077
+Si estoy lejos, rodeado por defensores, 
+generalmente es un mal tiro.
+
+00:06:39.101 --> 00:06:43.977
+Pero no sabíamos cuán bueno o malo era 
+lo "bueno" o lo "malo" cuantitativamente.
+
+00:06:44.209 --> 00:06:45.359
+Hasta ahora.
+
+00:06:45.771 --> 00:06:48.829
+Entonces, de nuevo, con las 
+características espacio-temporales,
+
+00:06:48.853 --> 00:06:50.227
+analizamos cada tiro.
+
+00:06:50.251 --> 00:06:53.256
+Podemos ver dónde está el tiro,
+cuál es el ángulo a la cesta,
+
+00:06:53.280 --> 00:06:56.042
+dónde están los defensores,
+cuáles son sus distancias,
+
+00:06:56.066 --> 00:06:57.397
+cuáles son los ángulos.
+
+00:06:57.421 --> 00:07:00.398
+Para múltiples defensores,
+podemos ver cómo se mueve el jugador

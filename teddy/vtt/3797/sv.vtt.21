@@ -1,0 +1,31 @@
+WEBVTT
+
+00:10:28.344 --> 00:10:31.061
+gör den lilla fördröjningen
+mellan varje rad
+
+00:10:31.061 --> 00:10:37.188
+att det blir små artefakter
+som syns i varje bild i filmen.
+
+00:10:37.701 --> 00:10:41.507
+Vi upptäckte att genom att
+analysera dessa artefakter,
+
+00:10:41.507 --> 00:10:46.122
+kan vi återskapa ljud med en
+ändrad version av vår algoritm.
+
+00:10:46.122 --> 00:10:51.224
+Här är ett experiment där vi filmade
+en godispåse medan en högtalare spelade
+
+00:10:51.470 --> 00:10:54.442
+samma <i>"Mary had a little lamb"</i> som innan
+
+00:10:54.442 --> 00:10:58.645
+men nu med en helt vanlig kamera.
+
+00:10:58.645 --> 00:11:01.089
+Nu ska jag spela upp 
+ljudet vi återskapade,

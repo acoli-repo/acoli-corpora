@@ -1,0 +1,34 @@
+WEBVTT
+
+00:10:26.637 --> 00:10:31.420
+Në një rrjet tipik neuronesh për të 
+trajnuar modelin për njohjen e objekteve,
+
+00:10:31.420 --> 00:10:34.601
+ndodhen 24 milion nyje,
+
+00:10:34.601 --> 00:10:37.898
+140 milion parametra,
+
+00:10:37.898 --> 00:10:40.661
+dhe 15 miliardë lidhje.
+
+00:10:40.661 --> 00:10:43.076
+Ky është një model gjigand.
+
+00:10:43.076 --> 00:10:46.977
+Falë të dhënave masive ofruar nga ImageNet
+
+00:10:46.977 --> 00:10:52.410
+dhe CPU-të dhe GPU-të moderne
+për trajnimin e nje modeli kaq të madh,
+
+00:10:52.410 --> 00:10:54.779
+rrjeti konvolucional i neuroneve
+(convolutional neural network)
+
+00:10:54.779 --> 00:10:58.215
+lulëzoi në një mënyrë që askush se priste.
+
+00:10:58.215 --> 00:11:00.723
+U kthye në një arkitekturë fitimtare

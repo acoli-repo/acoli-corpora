@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+dat is heel duidelijk, dat kennen we allemaal.
+
+00:12:01.000 --> 00:12:03.000
+Maar bepaalde andere aspecten
+
+00:12:03.000 --> 00:12:05.000
+van een sociale netwerkstructuur zijn niet zo duidelijk.
+
+00:12:05.000 --> 00:12:08.000
+Vergelijk knooppunt B, bovenaan links met knooppunt A, onderaan links.
+
+00:12:08.000 --> 00:12:11.000
+Deze mensen hebben nu beiden vier vrienden,
+
+00:12:11.000 --> 00:12:13.000
+Maar de vrienden van A kennen elkaar,
+
+00:12:13.000 --> 00:12:15.000
+de vrienden van B niet.
+
+00:12:15.000 --> 00:12:17.000
+De vriend van een vriend van A
+
+00:12:17.000 --> 00:12:19.000
+is op zijn beurt een vriend van A,
+
+00:12:19.000 --> 00:12:21.000
+terwijl een vriend van een vriend van B geen vriend is van B,
+
+00:12:21.000 --> 00:12:23.000
+maar verder weg staat in het netwerk.
+
+00:12:23.000 --> 00:12:26.000
+Dit staat bekend als transitiviteit in netwerken.
+
+00:12:26.000 --> 00:12:28.000
+Vergelijk tenslotte knooppunten C en D.
+
+00:12:28.000 --> 00:12:31.000
+C en D hebben beiden 6 vrienden.

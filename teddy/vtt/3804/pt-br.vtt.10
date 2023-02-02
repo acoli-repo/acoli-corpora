@@ -1,0 +1,44 @@
+WEBVTT
+
+00:04:58.614 --> 00:05:00.558
+Estamos trabalhando em um projeto
+
+00:05:00.558 --> 00:05:03.020
+chamado "O Projeto Resilience:
+
+00:05:03.020 --> 00:05:04.420
+Uma Busca por Heróis Inesperados"
+
+00:05:04.420 --> 00:05:06.910
+porque o que nos interessa é dizer:
+
+00:05:06.910 --> 00:05:09.558
+podemos achar aquelas pessoas raras
+
+00:05:09.558 --> 00:05:13.883
+que talvez tenham 
+esses fatores de proteção escondidos?
+
+00:05:13.883 --> 00:05:16.863
+E, de certa forma, pensem nisso 
+como um anel decodificador,
+
+00:05:16.863 --> 00:05:18.789
+um tipo de anel decodificador resiliente
+
+00:05:18.789 --> 00:05:20.421
+que vamos tentar construir.
+
+00:05:20.421 --> 00:05:24.270
+Entendemos que poderíamos fazer isso 
+de forma sistemática.
+
+00:05:24.270 --> 00:05:26.897
+Então dissemos: "Vamos 
+pegar cada doença hereditária
+
+00:05:26.897 --> 00:05:28.140
+manifestada na infância.
+
+00:05:28.140 --> 00:05:30.874
+Vamos categorizar todas as doenças

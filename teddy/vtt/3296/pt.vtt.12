@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:59.400 --> 00:06:00.746
+Demorou um tempo,
+
+00:06:00.770 --> 00:06:05.226
+mas agarrei nos vídeos das apresentações
+e das sessões de perguntas e respostas
+
+00:06:05.260 --> 00:06:08.290
+da TechCrunch, 
+e pedi para transcrevê-los.
+
+00:06:08.520 --> 00:06:10.486
+Primeiro analisei as transcrições
+
+00:06:10.520 --> 00:06:14.136
+através do carregamento de um dicionário 
+de termos regulamentares
+
+00:06:14.160 --> 00:06:18.216
+no "software" Linguistic Inquiry 
+and Word Count, chamado LIWC.
+
+00:06:18.290 --> 00:06:20.856
+Este "software" LIWC gera as frequências
+
+00:06:20.910 --> 00:06:24.466
+das palavras de promoção e prevenção
+no texto transcrito.
+
+00:06:24.920 --> 00:06:26.436
+Como segundo método,
+
+00:06:26.464 --> 00:06:30.400
+eu tinha cada pergunta
+e resposta codificadas manualmente

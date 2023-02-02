@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:27.000 --> 00:11:30.000
+müssen wir die Netzwerkstruktur zuerst ein klein wenig zerlegen.
+
+00:11:30.000 --> 00:11:32.000
+Und beachten Sie, dass jede Person in diesem Netzwerk
+
+00:11:32.000 --> 00:11:35.000
+die exakt gleiche strukturelle Position wie jede andere Person hat.
+
+00:11:35.000 --> 00:11:38.000
+Aber das ist nicht bei realen Netzwerken der Fall.
+
+00:11:38.000 --> 00:11:40.000
+Also hier ist zum Beispiel ein reales Netzwerk von Studenten
+
+00:11:40.000 --> 00:11:43.000
+an einer Elite-Universität im Nord-Osten.
+
+00:11:43.000 --> 00:11:45.000
+Und nun hebe ich einige Punkte hervor,
+
+00:11:45.000 --> 00:11:47.000
+und wenn Sie hier auf die Punkte schauen,
+
+00:11:47.000 --> 00:11:49.000
+vergleichen Sie Knoten B, links oben,
+
+00:11:49.000 --> 00:11:51.000
+mit Knoten D, ganz rechts.
+
+00:11:51.000 --> 00:11:53.000
+Und von B gehen vier Freunde aus.
+
+00:11:53.000 --> 00:11:56.000
+Und von D gehen sechs Freunde aus.
+
+00:11:56.000 --> 00:11:59.000
+Also, diese zwei Individuen haben verschieden viele Freunde.
+
+00:11:59.000 --> 00:12:01.000
+Das ist sehr einleuchtend, wir alle wissen das.

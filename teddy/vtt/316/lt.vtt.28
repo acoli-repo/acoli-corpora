@@ -1,0 +1,44 @@
+WEBVTT
+
+00:13:57.266 --> 00:14:02.292
+arba radiologas, nustatantis
+potencialiai pavojingus mazgelius.
+
+00:14:02.292 --> 00:14:04.851
+Ir kartais tai gali būti
+sudėtinga algoritmui.
+
+00:14:04.851 --> 00:14:06.815
+Šiuo atveju jis šiek tiek pasimetė.
+
+00:14:06.815 --> 00:14:09.365
+Mašinų priekiai ir galai
+yra sumaišyti.
+
+00:14:09.365 --> 00:14:11.437
+Taigi turime būti dėmesingesni,
+
+00:14:11.437 --> 00:14:14.669
+rankiniu būdu atrinkdami šiuos priekius,
+kaip galų priešingybes
+
+00:14:14.669 --> 00:14:20.175
+tada nurodyti kompiuteriui,
+kad šio tipo grupė
+
+00:14:20.175 --> 00:14:21.523
+mus domina.
+
+00:14:21.523 --> 00:14:24.200
+Taigi mes tai darome kurį laiką,
+šiek tiek praleidžiame,
+
+00:14:24.200 --> 00:14:26.446
+ir tada treniruojame
+mašinos mokymosi algoritmą,
+
+00:14:26.446 --> 00:14:28.420
+paremtą keliais šimtais dalykų,
+
+00:14:28.420 --> 00:14:30.445
+ir mes tikimės, kad jis patobulės.

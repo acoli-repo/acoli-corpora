@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:26.530 --> 00:06:30.444
+bunlardan ikisini tehlikeye atmaktadır.
+
+00:06:30.444 --> 00:06:33.001
+İlk olarak, bu anahtarlar.
+
+00:06:33.001 --> 00:06:37.256
+Rastgele rakamlar kripto anahtarlarının
+temel yapı bloklarıdır.
+
+00:06:37.256 --> 00:06:40.626
+Fakat bugün, gerçekten
+rastgele değillerdir.
+
+00:06:40.626 --> 00:06:43.411
+Hâlen, software'den üretilen 
+rastgele sayı dizesinden
+
+00:06:43.411 --> 00:06:47.239
+kripto anahtarları oluşturuyoruz,
+
+00:06:47.239 --> 00:06:50.719
+pseudo (sözde) rastgele sayılardan.
+
+00:06:50.719 --> 00:06:54.052
+Program veya matematik tarifiyle
+üretilen sayıların
+
+00:06:54.052 --> 00:06:58.559
+bazı, belki çözülmesi zor, 
+kalıpları olacaktır.
+
+00:06:58.559 --> 00:07:00.424
+Daha az rastgele sayı olduğu taktirde

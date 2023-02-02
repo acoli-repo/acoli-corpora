@@ -1,0 +1,45 @@
+WEBVTT
+
+00:14:59.511 --> 00:15:03.395
+In this case, even after we let the
+computer try to rotate this for a while,
+
+00:15:03.399 --> 00:15:06.744
+we still find that the left sides
+and the right sides pictures
+
+00:15:06.744 --> 00:15:08.222
+are all mixed up together.
+
+00:15:08.222 --> 00:15:10.362
+So we can again give
+the computer some hints,
+
+00:15:10.362 --> 00:15:13.338
+and we say, okay, try and find
+a projection that separates out
+
+00:15:13.338 --> 00:15:15.945
+the left sides and the right sides
+as much as possible
+
+00:15:15.945 --> 00:15:18.067
+using this deep learning algorithm.
+
+00:15:18.067 --> 00:15:21.009
+And giving it that hint --
+ah, okay, it's been successful.
+
+00:15:21.009 --> 00:15:23.891
+It's managed to find a way
+of thinking about these objects
+
+00:15:23.891 --> 00:15:26.271
+that's separated out these together.
+
+00:15:26.271 --> 00:15:28.709
+So you get the idea here.
+
+00:15:28.709 --> 00:15:36.906
+This is a case not where the human
+is being replaced by a computer,

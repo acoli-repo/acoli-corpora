@@ -1,0 +1,32 @@
+WEBVTT
+
+00:10:26.637 --> 00:10:31.420
+W sieci neuronowej, której użyliśmy
+
+00:10:31.420 --> 00:10:34.601
+były 24 miliony węzłów,
+
+00:10:34.601 --> 00:10:37.898
+140 milionów parametrów,
+
+00:10:37.898 --> 00:10:40.661
+i 15 miliardów połączeń.
+
+00:10:40.661 --> 00:10:43.076
+To jest olbrzymi model.
+
+00:10:43.076 --> 00:10:46.977
+Zasilona wielką ilością danych z ImageNet,
+
+00:10:46.977 --> 00:10:52.410
+działająca dzięki nowoczesnym 
+procesorom CPU i GPU
+
+00:10:52.410 --> 00:10:55.369
+sieć neuronowa rozwinęła się w sposób,
+
+00:10:55.369 --> 00:10:58.215
+którego nikt się nie spodziewał.
+
+00:10:58.215 --> 00:11:00.723
+Stała się najlepszą architekturą

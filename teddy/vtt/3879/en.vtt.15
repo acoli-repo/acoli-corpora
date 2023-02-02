@@ -1,0 +1,47 @@
+WEBVTT
+
+00:07:27.524 --> 00:07:31.226
+So it can be much safer than
+a driver assistance system can ever be.
+
+00:07:31.226 --> 00:07:33.956
+So that's enough about
+the differences between the two.
+
+00:07:33.956 --> 00:07:37.440
+Let's spend some time talking about
+how the car sees the world.
+
+00:07:37.440 --> 00:07:38.692
+So this is our vehicle.
+
+00:07:38.692 --> 00:07:41.130
+It starts by understanding
+where it is in the world,
+
+00:07:41.130 --> 00:07:43.917
+by taking a map and its sensor data
+and aligning the two,
+
+00:07:43.917 --> 00:07:46.865
+and then we layer on top of that
+what it sees in the moment.
+
+00:07:46.865 --> 00:07:50.520
+So here, all the purple boxes you can see
+are other vehicles on the road,
+
+00:07:50.520 --> 00:07:53.048
+and the red thing on the side
+over there is a cyclist,
+
+00:07:53.048 --> 00:07:55.450
+and up in the distance,
+if you look really closely,
+
+00:07:55.450 --> 00:07:57.244
+you can see some cones.
+
+00:07:57.244 --> 00:08:00.017
+Then we know where the car
+is in the moment,

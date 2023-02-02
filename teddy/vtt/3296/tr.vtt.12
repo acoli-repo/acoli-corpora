@@ -1,0 +1,35 @@
+WEBVTT
+
+00:05:59.400 --> 00:06:00.656
+Biraz zaman alsa da
+
+00:06:00.680 --> 00:06:05.216
+TechCrunch'taki kısa sunum ve soru-cevap
+oturumlarına ait görüntülere ulaştım.
+
+00:06:05.240 --> 00:06:08.000
+Görüntülerdeki konuşmaları 
+yazılı metin haline getirttim.
+
+00:06:08.520 --> 00:06:12.196
+Bu metni LIWC adlı Dilsel Sorgulama
+ve Sözcük Sayım yazılımına
+
+00:06:12.196 --> 00:06:17.486
+düzenleyici odaklı terimler sözlüğü
+yükleyerek analiz ettim.
+
+00:06:18.240 --> 00:06:20.856
+LIWC yazılımı, yazılı metin
+içerisinde geçen
+
+00:06:20.880 --> 00:06:24.896
+yönelimci ve kaçınmacı kelimelerin
+ne kadar sıklıkla kullanıldığı gösteriyor.
+
+00:06:24.920 --> 00:06:26.416
+İkinci bir yöntem olarak ise
+
+00:06:26.440 --> 00:06:30.376
+Columbia Üniversitesi'ndeki
+Tory Higgins Araştırma Laboratuvarında

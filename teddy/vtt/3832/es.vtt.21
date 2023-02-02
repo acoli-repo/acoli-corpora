@@ -1,0 +1,34 @@
+WEBVTT
+
+00:10:29.291 --> 00:10:31.945
+nuestro modelo de 
+reconocimiento de objetos
+
+00:10:31.945 --> 00:10:34.601
+hay 24 millones de nodos,
+
+00:10:34.601 --> 00:10:37.898
+140 millones de parámetros
+
+00:10:37.898 --> 00:10:40.661
+y 15 000 millones de conexiones.
+
+00:10:40.661 --> 00:10:43.076
+Es un modelo enorme.
+
+00:10:43.076 --> 00:10:46.977
+Alimentado por la información 
+masiva de ImageNet
+
+00:10:46.977 --> 00:10:52.410
+y las CPUs y GPUs modernas que 
+entrenan este inmenso modelo,
+
+00:10:52.410 --> 00:10:54.779
+la red neuronal convolucional
+
+00:10:54.779 --> 00:10:58.215
+tuvo un éxito inesperado.
+
+00:10:58.215 --> 00:11:00.723
+Se volvió la ingeniería ganadora

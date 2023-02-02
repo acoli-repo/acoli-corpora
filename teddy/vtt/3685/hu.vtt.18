@@ -1,0 +1,38 @@
+WEBVTT
+
+00:08:56.640 --> 00:09:01.170
+hogy a rendszer 90%-os 
+megbízhatósággal működjön.
+
+00:09:01.320 --> 00:09:02.776
+90% elég jól hangzik, nem?
+
+00:09:02.800 --> 00:09:04.056
+Hát nem.
+
+00:09:04.080 --> 00:09:06.376
+Tulajdonképpen borzalmas.
+A számok ezt mutatják.
+
+00:09:06.400 --> 00:09:11.136
+Az esélye annak, hogy a 130
+esemény rendre bekövetkezzen annyi mint
+
+00:09:11.160 --> 00:09:14.416
+0.9 jelenti a 90%-ot a 130- on.
+
+00:09:14.440 --> 00:09:16.336
+Ami a valós számok halmazán...
+
+00:09:16.360 --> 00:09:17.896
+(ding)
+
+00:09:17.920 --> 00:09:23.496
+0.000001,
+
+00:09:23.520 --> 00:09:25.976
+ami az 1% tízezred része.
+
+00:09:26.000 --> 00:09:30.086
+Az esély arra, hogy minden klappoljon,
+szó szerint egy a millióhoz.

@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:27.714 --> 00:12:30.437
+y convertirlo todo lo posible
+en análisis de datos,
+
+00:12:30.437 --> 00:12:33.032
+dejando a los médicos
+en lo que son mejores.
+
+00:12:33.842 --> 00:12:35.284
+Quiero dar un ejemplo.
+
+00:12:35.284 --> 00:12:40.728
+Nos lleva unos 15 minutos crear
+una nueva prueba de diagnóstico médico
+
+00:12:40.728 --> 00:12:42.532
+y ahora lo demostraré
+en tiempo real,
+
+00:12:42.532 --> 00:12:44.304
+pero lo he comprimido a 3 minutos
+
+00:12:44.304 --> 00:12:45.826
+cortando algunas partes.
+
+00:12:45.826 --> 00:12:49.062
+En vez de mostrar cómo crear
+una prueba de diagnóstico médico,
+
+00:12:49.062 --> 00:12:52.599
+mostraré una prueba de diagnóstico
+de imágenes de autos,
+
+00:12:52.599 --> 00:12:54.821
+porque es algo que
+todos podemos entender.
+
+00:12:54.821 --> 00:12:57.612
+Así que, empezamos con un millón
+y medio de imágenes de autos,
+
+00:12:57.612 --> 00:13:01.228
+y quiero crear algo que
+pueda dividirlas en el ángulo

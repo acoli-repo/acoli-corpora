@@ -1,0 +1,41 @@
+WEBVTT
+
+00:06:27.320 --> 00:06:32.102
+Hoy vamos a escuchar el estreno mundial 
+del pulso sonoro perfecto.
+
+00:06:32.126 --> 00:06:36.103
+Esta es una matriz de Costas 
+de tamaño 88 por 88,
+
+00:06:36.127 --> 00:06:37.616
+adaptada a las notas del piano,
+
+00:06:37.636 --> 00:06:41.133
+que se toca usando una estructura 
+llamada regla de Golomb para el ritmo,
+
+00:06:41.153 --> 00:06:43.648
+lo que significa que el tiempo 
+de inicio de cada par de notas
+
+00:06:43.648 --> 00:06:45.119
+es distinto, también.
+
+00:06:45.119 --> 00:06:47.862
+Esto es matemáticamente casi imposible.
+
+00:06:47.892 --> 00:06:51.083
+De hecho, desde el punto de vista
+computacional, imposible de crear.
+
+00:06:51.093 --> 00:06:54.388
+Gracias a las matemáticas que 
+se desarrollaron hace 200 años
+
+00:06:54.412 --> 00:06:56.934
+--recientemente gracias a otro
+matemático y un ingeniero--
+
+00:06:56.934 --> 00:07:00.008
+hoy podemos componer o construir esto,

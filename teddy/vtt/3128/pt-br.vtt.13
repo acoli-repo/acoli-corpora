@@ -1,0 +1,34 @@
+WEBVTT
+
+00:06:30.450 --> 00:06:32.315
+Antes de qualquer coisa, as chaves.
+
+00:06:33.006 --> 00:06:37.236
+Os números aleatórios são as peças
+fundamentais das chaves de criptografia.
+
+00:06:37.260 --> 00:06:39.839
+Mas hoje, eles não são
+verdadeiramente aleatórios.
+
+00:06:40.641 --> 00:06:43.379
+Atualmente, construímos
+chaves de criptografia
+
+00:06:43.403 --> 00:06:47.212
+a partir de sequências de números
+aleatórios gerados por software,
+
+00:06:47.236 --> 00:06:49.799
+os chamados números pseudo-aleatórios.
+
+00:06:50.712 --> 00:06:54.029
+Números gerados por programas
+ou fórmulas matemáticas
+
+00:06:54.053 --> 00:06:57.814
+terão algum tipo de padrão, talvez sutil.
+
+00:06:58.784 --> 00:07:03.696
+Quanto menos aleatórios os números,
+ou em termos científicos, menos entropia,

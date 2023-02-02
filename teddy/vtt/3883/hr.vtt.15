@@ -1,0 +1,40 @@
+WEBVTT
+
+00:07:27.901 --> 00:07:32.616
+a Alice je jedina osoba s tim ključem.
+
+00:07:32.616 --> 00:07:35.284
+Postigli smo cilj,
+
+00:07:35.284 --> 00:07:37.451
+proslijedili smo poruku
+između Boba i Alice,
+
+00:07:37.451 --> 00:07:40.143
+a da je server ne može pročitati.
+
+00:07:40.143 --> 00:07:43.100
+Ovdje je to pojednostavljeno prikazano.
+
+00:07:43.100 --> 00:07:45.105
+Stvarnost je puno kompleksnija
+
+00:07:45.105 --> 00:07:48.819
+i zahtjeva puno softvera
+koji izgledaju ovako nekako.
+
+00:07:48.819 --> 00:07:51.259
+To je zapravo ključni
+dizajnerski izazov:
+
+00:07:51.259 --> 00:07:54.780
+kako svu tu kompleksnost
+i sav taj softver,
+
+00:07:54.780 --> 00:07:58.898
+implementirati na način da krajnji
+korisnik to ne primijeti.
+
+00:07:58.898 --> 00:08:02.496
+Mislim da smo se s ProtonMailom
+poprilično približili tome.

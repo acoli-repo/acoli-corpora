@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:57.232 --> 00:07:00.794
+So the key challenge
+is to take Bob's message
+
+00:07:00.794 --> 00:07:05.103
+and to get it to Alice in such a way
+that the server cannot read that message.
+
+00:07:05.103 --> 00:07:07.516
+So what we have to do
+is we have to encrypt it
+
+00:07:07.516 --> 00:07:09.640
+before it even leaves Bob's computer,
+
+00:07:09.640 --> 00:07:14.141
+and one of the tricks is, we encrypt it
+using the public key from Alice.
+
+00:07:14.141 --> 00:07:19.333
+Now this encrypted data is sent
+through the server to Alice,
+
+00:07:19.333 --> 00:07:23.613
+and because the message was encrypted
+using Alice's public key,
+
+00:07:23.613 --> 00:07:27.901
+the only key that can now decrypt it
+is a private key that belongs to Alice,
+
+00:07:27.901 --> 00:07:32.616
+and it turns out Alice is the only person
+that actually has this key.

@@ -1,0 +1,34 @@
+WEBVTT
+
+00:06:30.018 --> 00:06:34.172
+Păi, ar fi o idee bună 
+să nu punem chei pe server.
+
+00:06:34.172 --> 00:06:37.790
+În schimb, generăm chei de criptare
+în calculatorul propriu
+
+00:06:38.070 --> 00:06:41.558
+și nu doar o singură cheie,
+ci o pereche:
+
+00:06:42.288 --> 00:06:45.563
+o cheie RSA privată și una publică,
+
+00:06:45.563 --> 00:06:48.191
+iar cheile acestea 
+sunt conectate matematic.
+
+00:06:48.191 --> 00:06:50.396
+Așa că hai să vedem cum funcționează
+
+00:06:50.396 --> 00:06:52.587
+când comunică mai mulți oameni.
+
+00:06:52.587 --> 00:06:56.902
+Iată-i pe Bob si Alice,
+care vor să comunice confidențial.
+
+00:06:57.232 --> 00:07:00.794
+Problema principală e 
+cum să luăm mesajul lui Bob

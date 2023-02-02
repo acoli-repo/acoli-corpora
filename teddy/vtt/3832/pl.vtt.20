@@ -1,0 +1,30 @@
+WEBVTT
+
+00:09:58.983 --> 00:10:04.602
+Podobnie jak mózg składa się z miliardów 
+połączonych ze sobą komórek nerwowych,
+
+00:10:04.602 --> 00:10:08.456
+podstawową jednostką operacyjną
+w sieci neuronowej
+
+00:10:08.456 --> 00:10:10.871
+jest węzeł przypominający taki neuron.
+
+00:10:10.871 --> 00:10:13.425
+Pobiera on dane wejściowe z innych węzłów
+
+00:10:13.425 --> 00:10:16.143
+i przekazuje innym dane wyjściowe.
+
+00:10:16.143 --> 00:10:20.856
+Co więcej te miliony węzłów
+
+00:10:20.856 --> 00:10:24.083
+są zorganizowane w hierarchiczne warstwy,
+
+00:10:24.083 --> 00:10:26.637
+podobnie jak mózg.
+
+00:10:26.637 --> 00:10:31.420
+W sieci neuronowej, której użyliśmy

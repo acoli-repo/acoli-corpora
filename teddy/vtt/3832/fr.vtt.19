@@ -1,0 +1,30 @@
+WEBVTT
+
+00:09:29.416 --> 00:09:33.954
+Maintenant que nous avons les données
+pour nourrir notre cerveau informatique,
+
+00:09:33.954 --> 00:09:37.691
+nous pouvons revenir sur les algorithmes.
+
+00:09:37.691 --> 00:09:42.869
+Il se trouve que la manne d'informations
+désormais dans ImageNet
+
+00:09:42.869 --> 00:09:47.675
+allait parfaitement avec 
+un certain type d'algorithmes,
+
+00:09:47.675 --> 00:09:50.090
+le réseau de neurones à convolution,
+
+00:09:50.090 --> 00:09:55.338
+développé par Kunihiko Fukushima,
+Geoff Hinton et Yann LeCun
+
+00:09:55.338 --> 00:09:58.983
+dans les années 1970 et 80.
+
+00:09:58.983 --> 00:10:04.602
+Tout comme le cerveau est composé 
+de milliards de neurones connectés,

@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:27.330 --> 00:06:32.097
+Hôm nay, lần đầu tiên ta được nghe
+ping hoàn hảo nhất thế giới.
+
+00:06:32.130 --> 00:06:36.097
+Đây là mảng Costas
+có kích thước 88 x 88,
+
+00:06:36.130 --> 00:06:37.563
+khớp với nốt của piano,
+
+00:06:37.563 --> 00:06:41.463
+sử dụng cấu trúc 
+thước Golomb cho nhịp điệu,
+
+00:06:41.463 --> 00:06:43.763
+có nghĩa là thời gian bắt đầu mỗi cặp nốt
+
+00:06:43.797 --> 00:06:45.363
+cũng khác nhau.
+
+00:06:45.397 --> 00:06:48.097
+Về mặt toán học,
+điều này gần như không thể thực hiện.
+
+00:06:48.130 --> 00:06:50.930
+Thực tế, trên lý thuyết,
+sẽ không thể tạo ra.
+
+00:06:50.963 --> 00:06:54.397
+Nhờ các lý thuyết
+được tạo ra cách đây 200 năm,
+
+00:06:54.397 --> 00:06:57.063
+một nhà toán học khác đương thời
+và một kỹ sư,
+
+00:06:57.063 --> 00:07:00.197
+chúng tôi có thể sáng tác,
+hay xây dựng bản nhạc này,

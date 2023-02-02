@@ -1,0 +1,34 @@
+WEBVTT
+
+00:06:57.232 --> 00:07:00.794
+Więc trzeba wiadomość Boba
+dostarczyć do Alice
+
+00:07:00.794 --> 00:07:05.103
+w taki sposób, 
+by serwer nie mógł jej odczytać.
+
+00:07:05.103 --> 00:07:07.516
+Musimy ją zaszyfrować,
+
+00:07:07.516 --> 00:07:09.640
+zanim opuści komputer Boba.
+
+00:07:09.640 --> 00:07:14.141
+Robimy to przy pomocy 
+klucza publicznego od Alice.
+
+00:07:14.141 --> 00:07:19.333
+Zaszyfrowane dane są wysyłane
+przez serwer do Alice.
+
+00:07:19.333 --> 00:07:23.613
+Zatem wiadomość jest szyfrowana
+publicznym RSA Alice,
+
+00:07:23.613 --> 00:07:27.901
+jedyny klucz do odszyfrowania
+należy do Alice,
+
+00:07:27.901 --> 00:07:32.616
+i tylko ona ma ten klucz.

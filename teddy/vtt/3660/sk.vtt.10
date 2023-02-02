@@ -1,0 +1,24 @@
+WEBVTT
+
+00:04:58.666 --> 00:05:03.745
+ale trochu chytrejšie
+pri odpovedaní áno/nie otázok,
+
+00:05:04.560 --> 00:05:10.223
+ako napr. „Karol Veľký zahnal Maďarov. 
+Je táto veta správna, alebo nesprávna?“
+
+00:05:11.181 --> 00:05:14.988
+Náš robot začne produkovať 
+faktoidnú otázku,
+
+00:05:14.988 --> 00:05:20.177
+napr. „Karol Veľký zahnal 
+[tento typ ľudí]“ sám od seba.
+
+00:05:20.995 --> 00:05:25.727
+Následne „Avari“, ale nie „Maďari“
+sú vyššie zaradení.
+
+00:05:26.357 --> 00:05:29.406
+Táto veta bude pravdepodobne nesprávna.

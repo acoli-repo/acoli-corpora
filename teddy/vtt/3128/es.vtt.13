@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:30.450 --> 00:06:32.315
+Primero de todo, las claves.
+
+00:06:33.006 --> 00:06:37.236
+Los números aleatorios son los elementos
+básicos de las claves de encriptación.
+
+00:06:37.260 --> 00:06:39.839
+Pero hoy, no son realmente aleatorios.
+
+00:06:40.641 --> 00:06:43.379
+Actualmente, generamos
+claves de encriptación
+
+00:06:43.403 --> 00:06:45.523
+con base en secuencias 
+de números aleatorios
+
+00:06:45.523 --> 00:06:47.236
+generados por sistemas informáticos.
+
+00:06:47.236 --> 00:06:49.799
+Son números pseudoaleatorios.
+
+00:06:50.712 --> 00:06:54.029
+Los números generados por un programa
+o una receta matemática
+
+00:06:54.053 --> 00:06:57.814
+tendrán algún patrón,
+aunque no sea obvio.
+
+00:06:58.784 --> 00:07:00.516
+Cuanto menos aleatorios los números,

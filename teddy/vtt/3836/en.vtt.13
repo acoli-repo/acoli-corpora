@@ -1,0 +1,45 @@
+WEBVTT
+
+00:06:28.691 --> 00:06:31.248
+The coaches want players
+to take good shots.
+
+00:06:31.272 --> 00:06:32.923
+So if I'm standing near the basket
+
+00:06:32.947 --> 00:06:35.113
+and there's nobody near me,
+it's a good shot.
+
+00:06:35.137 --> 00:06:39.077
+If I'm standing far away surrounded
+by defenders, that's generally a bad shot.
+
+00:06:39.101 --> 00:06:43.977
+But we never knew how good "good" was,
+or how bad "bad" was quantitatively.
+
+00:06:44.209 --> 00:06:45.359
+Until now.
+
+00:06:45.771 --> 00:06:48.829
+So what we can do, again,
+using spatiotemporal features,
+
+00:06:48.853 --> 00:06:50.227
+we looked at every shot.
+
+00:06:50.251 --> 00:06:53.256
+We can see: Where is the shot?
+What's the angle to the basket?
+
+00:06:53.280 --> 00:06:56.042
+Where are the defenders standing?
+What are their distances?
+
+00:06:56.066 --> 00:06:57.397
+What are their angles?
+
+00:06:57.421 --> 00:07:00.398
+For multiple defenders, we can look
+at how the player's moving

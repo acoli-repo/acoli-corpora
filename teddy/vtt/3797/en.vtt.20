@@ -1,0 +1,39 @@
+WEBVTT
+
+00:09:59.135 --> 00:10:01.596
+Because the experiments
+I've shown you so far
+
+00:10:01.596 --> 00:10:03.918
+were done with a camera,
+a high-speed camera,
+
+00:10:03.918 --> 00:10:06.797
+that can record video
+about a 100 times faster
+
+00:10:06.797 --> 00:10:08.724
+than most cell phones,
+
+00:10:08.724 --> 00:10:11.533
+but we've also found a way
+to use this technique
+
+00:10:11.533 --> 00:10:13.763
+with more regular cameras,
+
+00:10:13.763 --> 00:10:17.832
+and we do that by taking advantage
+of what's called a rolling shutter.
+
+00:10:17.832 --> 00:10:22.630
+You see, most cameras
+record images one row at a time,
+
+00:10:22.630 --> 00:10:28.332
+and so if an object moves
+during the recording of a single image,
+
+00:10:28.344 --> 00:10:31.061
+there's a slight time delay
+between each row,

@@ -1,0 +1,41 @@
+WEBVTT
+
+00:06:27.320 --> 00:06:32.102
+Today, we're going to hear the world
+premiere of the perfect ping.
+
+00:06:32.126 --> 00:06:36.103
+This is an 88-by-88-sized Costas array,
+
+00:06:36.127 --> 00:06:37.722
+mapped to notes on the piano,
+
+00:06:37.746 --> 00:06:41.219
+played using a structure called
+a Golomb ruler for the rhythm,
+
+00:06:41.243 --> 00:06:43.768
+which means the starting
+time of each pair of notes
+
+00:06:43.792 --> 00:06:45.365
+is distinct as well.
+
+00:06:45.389 --> 00:06:48.098
+This is mathematically almost impossible.
+
+00:06:48.122 --> 00:06:50.933
+Actually, computationally,
+it would be impossible to create.
+
+00:06:50.957 --> 00:06:54.388
+Because of the mathematics
+that was developed 200 years ago,
+
+00:06:54.412 --> 00:06:57.074
+through another mathematician
+recently and an engineer,
+
+00:06:57.098 --> 00:07:00.008
+we were able to actually compose
+this, or construct this,

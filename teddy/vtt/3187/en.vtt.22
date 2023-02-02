@@ -1,0 +1,50 @@
+WEBVTT
+
+00:10:56.603 --> 00:11:00.332
+I mean, just consider
+these two examples of messages
+
+00:11:00.356 --> 00:11:02.580
+that could have been sent to me last week.
+
+00:11:03.517 --> 00:11:05.396
+"Break a leg at TED!"
+
+00:11:05.420 --> 00:11:06.584
+... and
+
+00:11:06.608 --> 00:11:08.734
+"I'll break your legs at TED."
+
+00:11:08.758 --> 00:11:10.004
+(Laughter)
+
+00:11:10.028 --> 00:11:11.541
+You are human,
+
+00:11:11.565 --> 00:11:13.775
+that's why that's an obvious
+difference to you,
+
+00:11:13.799 --> 00:11:16.023
+even though the words
+are pretty much the same.
+
+00:11:16.047 --> 00:11:19.126
+But for AI, it takes some training
+to teach the models
+
+00:11:19.150 --> 00:11:20.721
+to recognize that difference.
+
+00:11:20.745 --> 00:11:23.990
+The beauty of building AI
+that can tell the difference
+
+00:11:24.014 --> 00:11:29.064
+is that AI can then scale to the size
+of the online toxicity phenomenon,
+
+00:11:29.088 --> 00:11:32.375
+and that was our goal in building
+our technology called Perspective.

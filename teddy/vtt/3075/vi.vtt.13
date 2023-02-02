@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:27.600 --> 00:06:30.896
+nhóm các nhà nghiên cứu ở Stanford
+tuyên bố họ đã phát triển hệ thống
+
+00:06:30.920 --> 00:06:33.976
+có thể cho bạn biết vết tàn nhang
+có phải là ung thư hay không
+
+00:06:34.000 --> 00:06:36.680
+chính xác như các bác sĩ da liễu hàng đầu.
+
+00:06:37.280 --> 00:06:38.536
+Nó hoạt động như thế nào?
+
+00:06:38.560 --> 00:06:43.856
+Nó không cố gắng để sao chép óc phán đoán 
+hoặc trực giác của một bác sĩ.
+
+00:06:43.880 --> 00:06:47.016
+Nó không có bất kỳ nhận thức
+hay hiểu biết gì về y học cả.
+
+00:06:47.040 --> 00:06:49.616
+Thay vào đó, nó đang chạy
+một thuật toán nhận dạng mẫu
+
+00:06:49.640 --> 00:06:54.296
+trên 129.450 trường hợp trong quá khứ,
+
+00:06:54.320 --> 00:06:57.416
+tìm kiếm sự tương đồng giữa các trường hợp
+
+00:06:57.440 --> 00:06:59.520
+và thương tổn cụ thể trong câu hỏi.

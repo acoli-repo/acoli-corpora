@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:58.983 --> 00:10:04.602
+Como el cerebro que tiene miles de 
+millones de neuronas muy bien conectadas,
+
+00:10:04.602 --> 00:10:08.456
+la unidad operativa fundamental
+en una red neuronal
+
+00:10:08.456 --> 00:10:10.871
+es un nodo con forma de neurona.
+
+00:10:10.871 --> 00:10:13.425
+Toma datos de otros nodos
+
+00:10:13.425 --> 00:10:16.143
+los procesa y los manda
+a otros nodos.
+
+00:10:16.143 --> 00:10:20.856
+Además, estos cientos de miles
+o incluso millones de nodos
+
+00:10:20.856 --> 00:10:24.083
+se organizan en capas jerárquicas,
+
+00:10:24.083 --> 00:10:26.637
+algo parecido al cerebro.
+
+00:10:26.637 --> 00:10:29.291
+En una red neuronal típica 
+que usamos para entrenar
+
+00:10:29.291 --> 00:10:31.945
+nuestro modelo de 
+reconocimiento de objetos

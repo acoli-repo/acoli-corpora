@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:59.852 --> 00:07:03.581
+And then finally, there's how
+the system can handle uncertainty.
+
+00:07:03.581 --> 00:07:06.904
+So this pedestrian here might be
+stepping into the road, might not be.
+
+00:07:06.904 --> 00:07:10.299
+I can't tell,
+nor can any of our algorithms,
+
+00:07:10.310 --> 00:07:12.594
+but in the case of
+a driver assistance system,
+
+00:07:12.594 --> 00:07:15.400
+that means it can't take action,
+because again,
+
+00:07:15.400 --> 00:07:18.739
+if it presses the brakes unexpectedly,
+that's completely unacceptable.
+
+00:07:18.739 --> 00:07:21.872
+Whereas a self-driving system
+can look at that pedestrian and say,
+
+00:07:21.872 --> 00:07:23.762
+I don't know what they're about to do,
+
+00:07:23.762 --> 00:07:27.524
+slow down, take a better look,
+and then react appropriately after that.
+
+00:07:27.524 --> 00:07:31.226
+So it can be much safer than
+a driver assistance system can ever be.

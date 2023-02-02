@@ -1,0 +1,47 @@
+WEBVTT
+
+00:14:59.511 --> 00:15:02.182
+I det här fallet,
+trots att vi har låtit datorn
+
+00:15:02.182 --> 00:15:03.983
+försöka rotera det här en stund,
+
+00:15:03.983 --> 00:15:06.744
+så ser vi att bilder
+av vänster och höger sida
+
+00:15:06.744 --> 00:15:08.222
+har blandats ihop.
+
+00:15:08.222 --> 00:15:10.362
+Så vi kan ge datorn några tips,
+
+00:15:10.362 --> 00:15:12.978
+som "Okej, försök hitta
+en projektion som skiljer ut
+
+00:15:12.978 --> 00:15:14.621
+vänstersidorna och högersidorna
+
+00:15:14.621 --> 00:15:15.884
+så gott det går
+
+00:15:15.884 --> 00:15:18.067
+med hjälp av en djupinlärningsalgoritm."
+
+00:15:18.067 --> 00:15:21.009
+Och med det tipset - ah, så lyckas den.
+
+00:15:21.009 --> 00:15:23.891
+Den har hittat ett sätt
+att tänka kring de här objekten
+
+00:15:23.891 --> 00:15:26.271
+som har skiljt ut dessa tillsammans.
+
+00:15:26.271 --> 00:15:28.709
+Så ni förstår tanken här.
+
+00:15:28.709 --> 00:15:31.591
+Det här är ett fall som inte handlar om

@@ -1,0 +1,36 @@
+WEBVTT
+
+00:09:58.900 --> 00:10:04.328
+De ha múltbéli gyakorlaton
+alapuló adatokban bízva
+
+00:10:04.663 --> 00:10:06.506
+határozzuk meg a sikert,
+
+00:10:06.756 --> 00:10:10.111
+hogyan remélhetjük, hogy megbízhatók
+lesznek az algoritmusok?
+
+00:10:10.763 --> 00:10:13.119
+Sehogy. Ellenőriznünk kell őket!
+
+00:10:14.165 --> 00:10:15.874
+Ellenőrizni, hogy pártatlanok-e.
+
+00:10:15.898 --> 00:10:18.060
+A jó hír, hogy lehet ezt ellenőrizni.
+
+00:10:18.633 --> 00:10:21.985
+Az algoritmusok vizsgálhatók.
+
+00:10:22.009 --> 00:10:23.847
+Mindig megmondják az igazat.
+
+00:10:24.067 --> 00:10:25.906
+Javíthatunk rajtuk.
+
+00:10:26.584 --> 00:10:28.519
+Ezt hívom algoritmus-auditálásnak,
+
+00:10:28.983 --> 00:10:30.617
+s megmutatom lépésenként, hogyan.

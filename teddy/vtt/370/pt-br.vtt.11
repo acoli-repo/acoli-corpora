@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:28.000 --> 00:05:31.000
+que pudessemos digeri-los com enzimas.
+
+00:05:32.000 --> 00:05:35.000
+Há enzimas que fazes reparos e os ligam.
+
+00:05:35.000 --> 00:05:37.000
+E começamos fazendo os pedaços,
+
+00:05:37.000 --> 00:05:41.000
+inicialmente com pedaços de 5 a 7.000 letras
+
+00:05:41.000 --> 00:05:45.000
+juntando-os para fazer pedaços de 24.000 letras,
+
+00:05:45.000 --> 00:05:49.000
+e então unir conjuntos desses até pedaços de 72.000 letras.
+
+00:05:49.000 --> 00:05:51.000
+Em cada estágio, aumentamos abundantemente esses pedaços
+
+00:05:51.000 --> 00:05:53.000
+de forma que pudéssemos sequenciá-los
+
+00:05:53.000 --> 00:05:56.000
+porque estamos tentando criar um processo que é extremamente robusto --
+
+00:05:56.000 --> 00:05:59.000
+que vocês poderão ver em um minuto.
+
+00:05:59.000 --> 00:06:02.000
+Estamos tentando chegar ao ponto de automação.

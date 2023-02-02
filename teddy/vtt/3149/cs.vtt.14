@@ -1,0 +1,45 @@
+WEBVTT
+
+00:06:57.111 --> 00:07:00.371
+a pomalou,
+která je mnohem větší.
+
+00:07:01.239 --> 00:07:04.239
+Aby počítač pracoval tak efektivně,
+jak je jen možné,
+
+00:07:04.263 --> 00:07:07.394
+chcete zajistit, aby v rychlé paměti
+byly informace,
+
+00:07:07.424 --> 00:07:09.291
+ke kterým potřebujete přístup,
+
+00:07:09.315 --> 00:07:11.069
+a bylo tak možné je získat rychle.
+
+00:07:11.093 --> 00:07:13.154
+Pokaždé, když přistoupíte 
+k nějakým datům,
+
+00:07:13.178 --> 00:07:14.703
+jsou nahrány do rychlé paměti,
+
+00:07:14.727 --> 00:07:18.604
+a počítač musí rozhodnout, 
+která data z této paměti odstraní,
+
+00:07:18.628 --> 00:07:20.369
+protože kapacita je omezená.
+
+00:07:21.794 --> 00:07:23.585
+Během let informatici vyzkoušeli
+
+00:07:23.615 --> 00:07:25.708
+různé postupy na určování,
+
+00:07:25.732 --> 00:07:28.024
+co z paměti odstranit.
+
+00:07:28.048 --> 00:07:31.224
+Zkusili třeba vybírat náhodně,

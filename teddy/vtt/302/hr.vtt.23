@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:27.000 --> 00:11:30.000
+moramo prvo malo razložiti strukturu mreže.
+
+00:11:30.000 --> 00:11:32.000
+Obratite pažnju da svaka osoba u mreži
+
+00:11:32.000 --> 00:11:35.000
+ima istu strukturnu poziciju kao i svaka druga osoba.
+
+00:11:35.000 --> 00:11:38.000
+Ali to nije slučaj sa pravim mrežama.
+
+00:11:38.000 --> 00:11:40.000
+Ovo je primjer stvarne mreže studenata s fakulteta
+
+00:11:40.000 --> 00:11:43.000
+jednog od elitnih sveučilišta na sjeveroistoku.
+
+00:11:43.000 --> 00:11:45.000
+I sada ću obilježiti par točaka.
+
+00:11:45.000 --> 00:11:47.000
+I ako pogledate ove točke ovdje
+
+00:11:47.000 --> 00:11:49.000
+uporedite čvor B na gornjoj lijevoj strani
+
+00:11:49.000 --> 00:11:51.000
+s čvorom D na donjoj desnoj.
+
+00:11:51.000 --> 00:11:53.000
+B je povezan s četiri prijatelja.
+
+00:11:53.000 --> 00:11:56.000
+D je povezan sa šest prijatelja.
+
+00:11:56.000 --> 00:11:59.000
+Tako da ove dvije osobe imaju različit broj prijatelja --
+
+00:11:59.000 --> 00:12:01.000
+ovo je očigledno, to svi znamo.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:12:27.471 --> 00:12:30.364
+and turn that into data analysis
+as much as possible,
+
+00:12:30.364 --> 00:12:33.429
+leaving doctors to do
+what they're best at.
+
+00:12:33.429 --> 00:12:35.031
+I want to give you an example.
+
+00:12:35.031 --> 00:12:39.975
+It now takes us about 15 minutes
+to generate a new medical diagnostic test
+
+00:12:39.975 --> 00:12:41.929
+and I'll show you that in real time now,
+
+00:12:41.929 --> 00:12:45.416
+but I've compressed it down to 
+three minutes by cutting some pieces out.
+
+00:12:45.416 --> 00:12:48.477
+Rather than showing you
+creating a medical diagnostic test,
+
+00:12:48.477 --> 00:12:51.846
+I'm going to show you 
+a diagnostic test of car images,
+
+00:12:51.846 --> 00:12:54.068
+because that's something
+we can all understand.
+
+00:12:54.068 --> 00:12:57.269
+So here we're starting with 
+about 1.5 million car images,
+
+00:12:57.269 --> 00:13:00.475
+and I want to create something
+that can split them into the angle

@@ -1,0 +1,35 @@
+WEBVTT
+
+00:06:57.232 --> 00:07:00.794
+O halde asıl zorluk Bob’un mesajını
+
+00:07:00.794 --> 00:07:05.103
+sunucunun okuyamayacağı bir şekilde
+Alice'e ulaştırmak.
+
+00:07:05.103 --> 00:07:07.516
+Yani yapmamız gereken mesajı
+Bob'un bilgisayarından
+
+00:07:07.516 --> 00:07:09.640
+çıkmadan şifrelemek.
+
+00:07:09.640 --> 00:07:14.141
+Püf nokta şu: Mesajı Alice’in açık şifre-
+leme anahtarını kullanarak şifreledik.
+
+00:07:14.141 --> 00:07:19.333
+Şimdi, bu şifrelenmiş veri,
+sunucu üzerinden Alice'e gönderiliyor.
+
+00:07:19.333 --> 00:07:23.613
+Veri, Alice'in açık şifre anahtarı ile 
+şifrendiği için,
+
+00:07:23.613 --> 00:07:27.901
+mesajı deşifre edecek tek anahtar,
+Alice'e ait özel anahtar.
+
+00:07:27.901 --> 00:07:32.616
+Ve bu anahtara gerçekten sahip
+tek kişi Alice.

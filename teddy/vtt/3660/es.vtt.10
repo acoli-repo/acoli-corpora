@@ -1,0 +1,28 @@
+WEBVTT
+
+00:04:56.433 --> 00:05:00.482
+El Robot Todai trabaja de manera similar,
+pero es un poco más listo
+
+00:05:00.506 --> 00:05:03.745
+respondiendo preguntas 
+"sí o no" de historia como,
+
+00:05:04.560 --> 00:05:10.223
+" 'Carlomagno ahuyentó a los Magiares'. 
+¿Esto es verdadero o falso?".
+
+00:05:11.181 --> 00:05:15.254
+Nuestro robot 
+produce una pregunta factoide,
+
+00:05:15.278 --> 00:05:20.177
+como, "Carlomagno ahuyentó
+[este tipo de persona]" por sí mismo.
+
+00:05:20.995 --> 00:05:25.727
+Entonces, aparece primero "Ávaros"
+pero no "Magiares".
+
+00:05:26.357 --> 00:05:29.406
+Es probable que el enunciado sea falso.

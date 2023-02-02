@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+That's very obvious, we all know that.
+
+00:12:01.000 --> 00:12:03.000
+But certain other aspects
+
+00:12:03.000 --> 00:12:05.000
+of social network structure are not so obvious.
+
+00:12:05.000 --> 00:12:08.000
+Compare node B in the upper left to node A in the lower left.
+
+00:12:08.000 --> 00:12:11.000
+Now, those people both have four friends,
+
+00:12:11.000 --> 00:12:13.000
+but A's friends all know each other,
+
+00:12:13.000 --> 00:12:15.000
+and B's friends do not.
+
+00:12:15.000 --> 00:12:17.000
+So the friend of a friend of A's
+
+00:12:17.000 --> 00:12:19.000
+is, back again, a friend of A's,
+
+00:12:19.000 --> 00:12:21.000
+whereas the friend of a friend of B's is not a friend of B's,
+
+00:12:21.000 --> 00:12:23.000
+but is farther away in the network.
+
+00:12:23.000 --> 00:12:26.000
+This is known as transitivity in networks.
+
+00:12:26.000 --> 00:12:28.000
+And, finally, compare nodes C and D:
+
+00:12:28.000 --> 00:12:31.000
+C and D both have six friends.

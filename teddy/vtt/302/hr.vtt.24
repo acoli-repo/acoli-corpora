@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+ovo je očigledno, to svi znamo.
+
+00:12:01.000 --> 00:12:03.000
+Ali neki drugi aspekti
+
+00:12:03.000 --> 00:12:05.000
+struktura društvene mreže nisu tako očiti.
+
+00:12:05.000 --> 00:12:08.000
+Uporedite B gore lijevo, sa čvorom A dolje lijevo.
+
+00:12:08.000 --> 00:12:11.000
+Obadvoje imaju po četiri prijatelja
+
+00:12:11.000 --> 00:12:13.000
+Ali prijatelji od A se međusobno poznaju,
+
+00:12:13.000 --> 00:12:15.000
+a prijatelji od B ne.
+
+00:12:15.000 --> 00:12:17.000
+Znači prijatelj prijatelja osobe A
+
+00:12:17.000 --> 00:12:19.000
+je opet prijatelj sa A.
+
+00:12:19.000 --> 00:12:21.000
+Dok prijatelj prijatelja od B, nije prijatelj sa B.
+
+00:12:21.000 --> 00:12:23.000
+i udaljeniji je u mreži.
+
+00:12:23.000 --> 00:12:26.000
+Ovo nazivamo tranzitivnošću u mrežama.
+
+00:12:26.000 --> 00:12:28.000
+I na kraju usporedite čvorove C i D.
+
+00:12:28.000 --> 00:12:31.000
+C i D oboje imaju po šest prijatelja.

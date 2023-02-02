@@ -1,0 +1,49 @@
+WEBVTT
+
+00:08:29.720 --> 00:08:32.056
+laughing about it --
+his volume was way too high.
+
+00:08:32.080 --> 00:08:34.216
+And this guy here
+in the image is telling me,
+
+00:08:34.240 --> 00:08:36.336
+"We need a robot mute button."
+
+00:08:36.360 --> 00:08:39.856
+And by that what he really meant
+was we don't want it to be so disruptive.
+
+00:08:39.880 --> 00:08:41.496
+So as a robotics company,
+
+00:08:41.520 --> 00:08:43.976
+we added some obstacle
+avoidance to the system.
+
+00:08:44.000 --> 00:08:47.056
+It got a little laser range finder
+that could see the obstacles,
+
+00:08:47.080 --> 00:08:50.216
+and if I as a robot operator
+try to say, run into a chair,
+
+00:08:50.240 --> 00:08:52.736
+it wouldn't let me,
+it would just plan a path around,
+
+00:08:52.760 --> 00:08:54.616
+which seems like a good idea.
+
+00:08:54.640 --> 00:08:57.816
+People did hit fewer obstacles
+using that system, obviously,
+
+00:08:57.840 --> 00:08:59.936
+but actually, for some of the people,
+
+00:08:59.960 --> 00:09:02.816
+it took them a lot longer
+to get through our obstacle course,

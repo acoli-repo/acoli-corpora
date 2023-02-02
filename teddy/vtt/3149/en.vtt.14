@@ -1,0 +1,51 @@
+WEBVTT
+
+00:06:57.111 --> 00:07:00.371
+and a slow memory system,
+which is much larger.
+
+00:07:01.239 --> 00:07:04.239
+In order for the computer to operate
+as efficiently as possible,
+
+00:07:04.263 --> 00:07:05.414
+you want to make sure
+
+00:07:05.438 --> 00:07:07.790
+that the pieces of information
+you want to access
+
+00:07:07.814 --> 00:07:09.291
+are in the fast memory system,
+
+00:07:09.315 --> 00:07:11.069
+so that you can get to them quickly.
+
+00:07:11.093 --> 00:07:13.154
+Each time you access
+a piece of information,
+
+00:07:13.178 --> 00:07:14.703
+it's loaded into the fast memory
+
+00:07:14.727 --> 00:07:18.604
+and the computer has to decide which item
+it has to remove from that memory,
+
+00:07:18.628 --> 00:07:20.369
+because it has limited capacity.
+
+00:07:21.794 --> 00:07:22.945
+Over the years,
+
+00:07:22.969 --> 00:07:25.708
+computer scientists have tried
+a few different strategies
+
+00:07:25.732 --> 00:07:28.024
+for deciding what to remove
+from the fast memory.
+
+00:07:28.048 --> 00:07:31.224
+They've tried things like choosing
+something at random

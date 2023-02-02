@@ -1,0 +1,44 @@
+WEBVTT
+
+00:06:57.253 --> 00:07:01.238
+Quand il y a plusieurs défenseurs, on peut
+regarder comment les joueurs se déplacent
+
+00:07:01.238 --> 00:07:02.487
+et prédire le type de tir.
+
+00:07:02.487 --> 00:07:05.907
+On peut étudier leur vélocité
+et construire un modèle qui prédit
+
+00:07:05.907 --> 00:07:10.029
+les chances que ce tir réussisse
+dans ces circonstances.
+
+00:07:10.188 --> 00:07:11.943
+Alors, pourquoi c'est important ?
+
+00:07:12.102 --> 00:07:14.955
+On peut prendre le tir,
+
+00:07:14.955 --> 00:07:17.649
+qui était une seule chose
+et qui en devient deux :
+
+00:07:17.649 --> 00:07:20.284
+la qualité du tir
+et la qualité du tireur.
+
+00:07:21.680 --> 00:07:24.992
+Voici un graphique à bulles,
+indispensable dans une conférence TED.
+
+00:07:24.992 --> 00:07:25.954
+(Rires)
+
+00:07:25.954 --> 00:07:27.365
+Voici des joueurs du NBA.
+
+00:07:27.365 --> 00:07:30.509
+Cette taille est la taille du joueur
+et la couleur, sa position.

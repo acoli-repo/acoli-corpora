@@ -1,0 +1,39 @@
+WEBVTT
+
+00:10:28.344 --> 00:10:31.061
+sẽ có chênh lệch
+thời gian giữa các hàng,
+
+00:10:31.061 --> 00:10:34.218
+gây ra lỗi giật hình (artifact)
+
+00:10:34.218 --> 00:10:37.701
+bị mã hóa vào mỗi khung hình của video.
+
+00:10:37.701 --> 00:10:41.507
+Và rồi chúng tôi tìm ra rằng
+bằng cách phân tích lỗi này,
+
+00:10:41.507 --> 00:10:46.122
+có thể phục hồi âm thanh qua
+thuật toán đã được thay đổi của chúng tôi.
+
+00:10:46.122 --> 00:10:48.034
+Đây là thí nghiệm chúng tôi tiến hành
+
+00:10:48.034 --> 00:10:49.729
+ghi hình lại một bịch kẹo
+
+00:10:49.729 --> 00:10:51.470
+lúc cái loa bên cạnh
+
+00:10:51.470 --> 00:10:54.442
+phát cùng bài "Mary có một con cừu nhỏ" như trước,
+
+00:10:54.442 --> 00:10:58.645
+nhưng lần này, chúng tôi
+dùng máy quay thông thường,
+
+00:10:58.645 --> 00:11:01.819
+và sau đây, tôi sẽ bật âm thanh
+chúng tôi phục hồi lại được,

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:56.000 --> 00:07:01.000
+sin dormir ni ir al baño -- y vieran pérdida tras pérdida tras pérdida,
+
+00:07:01.000 --> 00:07:03.000
+y luego al final 30 segundos de "Y yo gané",
+
+00:07:03.000 --> 00:07:06.000
+la probabilidad de que jugaran lotería sería muy pequeña.
+
+00:07:06.000 --> 00:07:09.000
+Miren, puedo probárselos: aquí hay una pequeña lotería.
+
+00:07:09.000 --> 00:07:11.000
+Hay diez billetes en esta lotería.
+
+00:07:11.000 --> 00:07:14.000
+Nueve de ellos han sido vendidos a estos individuos.
+
+00:07:14.000 --> 00:07:17.000
+Cada billete cuesta 1 dólar y, si ganas,
+
+00:07:17.000 --> 00:07:19.000
+recibes 20 dólares. ¿Es una buena apuesta?
+
+00:07:19.000 --> 00:07:20.000
+Bueno, Bernoulli nos dice que sí:
+
+00:07:20.000 --> 00:07:23.000
+el valor esperado de esta lotería es de dos dólares;
+
+00:07:23.000 --> 00:07:26.000
+así que es una lotería en la que deberías invertir tu dinero.
+
+00:07:26.000 --> 00:07:28.000
+Y la mayoría de la gente dice "Está bien, jugaré".
+
+00:07:28.000 --> 00:07:31.000
+Ahora, una versión ligeramente diferente de esta lotería:

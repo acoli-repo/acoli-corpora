@@ -1,0 +1,34 @@
+WEBVTT
+
+00:10:26.387 --> 00:10:30.520
+In una tipica rete neurale usata per
+addestrare il modello di riconoscimento
+
+00:10:30.520 --> 00:10:34.601
+ci sono 24 milioni di nodi,
+
+00:10:34.601 --> 00:10:37.328
+140 milioni di parametri
+
+00:10:37.328 --> 00:10:40.271
+e 15 miliardi di connessioni.
+
+00:10:40.271 --> 00:10:43.076
+È un modello enorme.
+
+00:10:43.076 --> 00:10:46.937
+Alimentata dai dati di ImageNet
+
+00:10:46.937 --> 00:10:52.170
+e dalle moderne CPU e GPU 
+per addestrare un modello così immenso,
+
+00:10:52.170 --> 00:10:54.199
+la rete neurale convoluzionale
+
+00:10:54.199 --> 00:10:58.075
+è sbocciata in un modo 
+che nessuno si aspettava.
+
+00:10:58.075 --> 00:11:01.013
+È diventata l'architettura vincente

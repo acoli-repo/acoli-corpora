@@ -1,0 +1,45 @@
+WEBVTT
+
+00:13:27.857 --> 00:13:30.433
+o 16 tysiącach wymiarów.
+
+00:13:30.433 --> 00:13:33.009
+Widać, jak komputer obraca obiekty,
+
+00:13:33.009 --> 00:13:35.001
+próbując znaleźć nowe obszary struktur.
+
+00:13:35.001 --> 00:13:36.782
+Kiedy mu się to uda,
+
+00:13:36.782 --> 00:13:40.786
+operator może wskazać 
+interesujące obszary.
+
+00:13:40.786 --> 00:13:43.208
+W tym przypadku komputer
+znalazł pewne obszary,
+
+00:13:43.208 --> 00:13:45.770
+na przykład kąt zdjęcia.
+
+00:13:45.770 --> 00:13:47.376
+Z biegiem tego procesu
+
+00:13:47.376 --> 00:13:49.716
+stopniowo mówimy komputerowi coraz więcej
+
+00:13:49.716 --> 00:13:51.774
+na temat rodzaju szukanych struktur.
+
+00:13:51.774 --> 00:13:54.566
+Można sobie wyobrazić,
+że w przypadku testu diagnostycznego
+
+00:13:54.566 --> 00:13:57.266
+patolog identyfikowałby
+obszary patologiczne,
+
+00:13:57.266 --> 00:14:02.292
+a radiolog wskazywałby 
+na potencjalnie uciążliwe guzki.

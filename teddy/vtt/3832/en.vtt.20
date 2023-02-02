@@ -1,0 +1,31 @@
+WEBVTT
+
+00:09:58.983 --> 00:10:04.602
+Just like the brain consists
+of billions of highly connected neurons,
+
+00:10:04.602 --> 00:10:08.456
+a basic operating unit in a neural network
+
+00:10:08.456 --> 00:10:10.871
+is a neuron-like node.
+
+00:10:10.871 --> 00:10:13.425
+It takes input from other nodes
+
+00:10:13.425 --> 00:10:16.143
+and sends output to others.
+
+00:10:16.143 --> 00:10:20.856
+Moreover, these hundreds of thousands
+or even millions of nodes
+
+00:10:20.856 --> 00:10:24.083
+are organized in hierarchical layers,
+
+00:10:24.083 --> 00:10:26.637
+also similar to the brain.
+
+00:10:26.637 --> 00:10:31.420
+In a typical neural network we use
+to train our object recognition model,

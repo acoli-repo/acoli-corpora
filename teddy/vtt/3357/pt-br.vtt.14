@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:57.759 --> 00:07:01.396
+No primeiríssimo estágio, ela pega
+os dados visuais e extrai bordas,
+
+00:07:01.420 --> 00:07:04.032
+ângulos e pintas.
+
+00:07:04.056 --> 00:07:07.093
+E a seguir as bordas mais complicadas
+
+00:07:07.117 --> 00:07:10.308
+e figuras como meias-luas.
+
+00:07:10.332 --> 00:07:14.775
+E acaba sendo capaz de construir
+conceitos realmente complicados.
+
+00:07:14.799 --> 00:07:16.847
+Andrew Ng foi capaz de mostrar
+
+00:07:16.871 --> 00:07:20.351
+que é capaz de encontrar
+caras de gatos e de cachorros
+
+00:07:20.375 --> 00:07:22.036
+em vastas quantidades de imagens.
+
+00:07:22.060 --> 00:07:24.784
+Minha equipe de alunos
+em Stanford mostrou que,
+
+00:07:24.808 --> 00:07:30.421
+se a treinarmos em 129 mil imagens
+de condições da pele,

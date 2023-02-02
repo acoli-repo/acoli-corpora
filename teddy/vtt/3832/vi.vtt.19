@@ -1,0 +1,31 @@
+WEBVTT
+
+00:09:29.366 --> 00:09:33.856
+Bây giờ chúng ta đã có dữ liệu 
+để nuôi sống não bộ máy tính của chúng ta,
+
+00:09:33.856 --> 00:09:37.554
+chúng ta đã sẵn sàng quay trở lại 
+với những thuật toán .
+
+00:09:37.554 --> 00:09:42.651
+Vì hóa ra là, sự dồi dào 
+của những nguồn thông tin bởi ImageNet
+
+00:09:42.651 --> 00:09:47.499
+là một sự kết hợp hoàn hảo
+cho việc học những thuật toán của máy tính
+
+00:09:47.499 --> 00:09:50.135
+gọi là mạng lưới nơ ron đan chéo,
+
+00:09:50.135 --> 00:09:55.380
+tiên phong bởi Kunihiko Fukushima,
+Geoff Hinton, và Yann LeCun
+
+00:09:55.380 --> 00:09:58.968
+từ những năm 1970 và 1980
+
+00:09:58.968 --> 00:10:04.573
+Giống như não bộ, nó bao gồm hàng triệu
+những nơ ron kết nối chặt chẽ với nhau,

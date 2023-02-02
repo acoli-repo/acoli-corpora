@@ -1,0 +1,33 @@
+WEBVTT
+
+00:06:30.018 --> 00:06:34.172
+Pa, vjerojatno je dobra ideja
+ne staviti ključeve na server.
+
+00:06:34.172 --> 00:06:38.070
+Ono što radimo je - generiramo
+enkripcijske ključeve na vašem računalu,
+
+00:06:38.070 --> 00:06:41.858
+pritom ne generiramo jedan
+ključ, nego par ključeva,
+
+00:06:41.858 --> 00:06:45.563
+tako da postoji privatni RSA ključ
+i javni RSA ključ,
+
+00:06:45.563 --> 00:06:48.191
+a ti ključevi su matematički povezani.
+
+00:06:48.191 --> 00:06:50.396
+Pogledajmo kako to funkcionira
+
+00:06:50.396 --> 00:06:52.787
+kada komunicira više ljudi.
+
+00:06:52.787 --> 00:06:57.232
+Tu imamo Boba i Alice,
+koji žele komunicirati privatno.
+
+00:06:57.232 --> 00:07:00.794
+Ključni izazov je Bobovu poruku

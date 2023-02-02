@@ -1,0 +1,38 @@
+WEBVTT
+
+00:07:27.901 --> 00:07:32.616
+S persze egyedül 
+Alice-nek van ilyen kulcsa.
+
+00:07:32.616 --> 00:07:35.284
+Elértük tehát a célunkat.
+
+00:07:35.284 --> 00:07:37.451
+Bob üzenete úgy jutott el Alice-hez,
+
+00:07:37.451 --> 00:07:40.143
+hogy a szerver közben nem tudta elolvasni.
+
+00:07:40.143 --> 00:07:43.100
+Persze ez egy leegyszerűsített példa.
+
+00:07:43.100 --> 00:07:45.105
+Az eljárás valójában sokkal bonyolultabb,
+
+00:07:45.105 --> 00:07:48.819
+és sok ilyesféle szoftverre van szüksége.
+
+00:07:48.819 --> 00:07:51.259
+S ez egyben a tervezés fő feladata,
+
+00:07:51.259 --> 00:07:54.780
+vagyis hogy hogyan lehetne ezt az
+igencsak bonyolult, terjedelmes szoftvert
+
+00:07:54.780 --> 00:07:58.898
+valahogy úgy alkalmazni, hogy 
+a felhasználó ne bajlódjon vele.
+
+00:07:58.898 --> 00:08:02.496
+A ProtonMaillel sikerült
+ezt is megvalósítanunk.

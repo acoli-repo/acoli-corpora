@@ -1,0 +1,33 @@
+WEBVTT
+
+00:14:59.629 --> 00:15:04.002
+Aici chiar după ce am lăsat o vreme
+calculatorul să încerce rotațiile,
+
+00:15:04.002 --> 00:15:08.412
+vedem că pozele făcute din stânga
+și cele din dreapta sunt amestecate.
+
+00:15:08.412 --> 00:15:10.615
+Putem da calculatorului sugestii:
+
+00:15:10.615 --> 00:15:15.877
+caută o proiecție care separă
+cât mai bine părțile stângă și dreaptă
+
+00:15:15.877 --> 00:15:18.111
+folosind algoritmul de învățare profundă.
+
+00:15:18.111 --> 00:15:21.021
+Apoi uite, sugestia a dus la succes.
+
+00:15:21.021 --> 00:15:25.619
+A reușit să găsească un mod
+de a analiza obiectele încât să le separe.
+
+00:15:26.999 --> 00:15:29.926
+Ați prins ideea:
+
+00:15:29.926 --> 00:15:37.346
+e o situație în care omul
+nu e înlocuit de calculator,

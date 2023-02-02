@@ -1,0 +1,31 @@
+WEBVTT
+
+00:09:58.983 --> 00:10:04.602
+Beyinde meydana gelen milyarlarca
+yüksek bağlantılı sinirler gibi,
+
+00:10:04.602 --> 00:10:08.456
+sinir ağının basit bir çalışma birimine
+
+00:10:08.456 --> 00:10:10.871
+"nöron benzeri" düğümü deniyor.
+
+00:10:10.871 --> 00:10:13.425
+Başka düğümlerden girdi alıyorlar
+
+00:10:13.425 --> 00:10:16.143
+ve diğer düğümlere gönderiyorlar.
+
+00:10:16.143 --> 00:10:20.856
+Dahası, bu yüzbinlerce hatta milyonlarca
+düğüm
+
+00:10:20.856 --> 00:10:24.083
+hiyerarşik tabakalarla düzenleniyorlar
+
+00:10:24.083 --> 00:10:26.637
+tıpkı beyin gibi.
+
+00:10:26.637 --> 00:10:31.420
+Normal bir sinir ağında nesne tanıma
+modelimizi eğitmek için,

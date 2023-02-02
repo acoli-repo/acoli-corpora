@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:57.232 --> 00:07:00.794
+Hovedudfordringen er
+at tage Bobs besked
+
+00:07:00.794 --> 00:07:05.103
+og få den til Alice på en måde,
+så serveren ikke kan læse beskeden.
+
+00:07:05.103 --> 00:07:07.516
+Så vil bliver nødt til at kryptere den,
+
+00:07:07.516 --> 00:07:09.640
+før den overhovedet
+forlader Bobs computer,
+
+00:07:09.640 --> 00:07:14.141
+og en af tricksene er, at vi krypterer den
+ved at bruge Alices offentlige nøgle.
+
+00:07:14.141 --> 00:07:19.333
+Nu bliver den krypterede data 
+sendt gennem serveren til Alice,
+
+00:07:19.333 --> 00:07:23.613
+og fordi beskeden blev krypteret
+ved hjælp af Alices offentlige nøgle,
+
+00:07:23.613 --> 00:07:27.901
+er den eneste nøgle, der kan
+dekryptere den, Alices private nøgle,
+
+00:07:27.901 --> 00:07:32.616
+og det viser sig, at Alice er den eneste
+person, der rent faktisk har den nøgle.

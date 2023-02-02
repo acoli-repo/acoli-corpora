@@ -1,0 +1,33 @@
+WEBVTT
+
+00:10:26.637 --> 00:10:31.420
+I et typisk neuralt netværk vi bruger
+til at træne vor objekt-genkendelsesmodel,
+
+00:10:31.420 --> 00:10:34.601
+er der 24 millioner knuder,
+
+00:10:34.601 --> 00:10:37.898
+140 millioner parametre,
+
+00:10:37.898 --> 00:10:40.661
+og 15 milliarder tilslutninger.
+
+00:10:40.661 --> 00:10:43.076
+Det er en enorm model.
+
+00:10:43.076 --> 00:10:46.977
+Drevet af de massive data fra ImageNet,
+
+00:10:46.977 --> 00:10:52.410
+og de moderne CPU´er og GPU´er brugt til
+at træne en så stor model,
+
+00:10:52.410 --> 00:10:54.779
+begyndte det sammenfoldede neurale netværk
+
+00:10:54.779 --> 00:10:58.215
+at blomstre på en måde ingen forventede.
+
+00:10:58.215 --> 00:11:00.723
+Det blev den førende arkitektur

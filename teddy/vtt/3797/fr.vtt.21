@@ -1,0 +1,40 @@
+WEBVTT
+
+00:10:28.344 --> 00:10:31.061
+il y a un léger délai
+entre chaque ligne d'enregistrement.
+
+00:10:31.061 --> 00:10:34.218
+Ça provoque d'imperceptibles artéfacts
+
+00:10:34.218 --> 00:10:37.701
+qui sont encodés 
+dans chaque plan de la vidéo.
+
+00:10:37.701 --> 00:10:41.507
+En analysant ces artéfacts,
+
+00:10:41.507 --> 00:10:46.122
+on peut récupérer le son en utilisant
+une version modifiée de notre algorithme.
+
+00:10:46.122 --> 00:10:48.034
+Voici une autre expérience.
+
+00:10:48.034 --> 00:10:49.939
+Nous avons filmé un sachet de bonbons,
+
+00:10:49.939 --> 00:10:52.000
+à côté d'un ampli
+qui joue la même chanson :
+
+00:10:52.000 --> 00:10:54.442
+« Mary Had a Little Lamb »
+
+00:10:54.442 --> 00:10:58.645
+Mais cette fois-ci, nous avons utilisé
+une caméra ordinaire.
+
+00:10:58.645 --> 00:11:01.819
+Je vais vous laisser écouter le son
+que nous avons récupéré.

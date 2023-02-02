@@ -1,0 +1,44 @@
+WEBVTT
+
+00:06:57.421 --> 00:07:00.398
+For multiple defenders, we can look
+at how the player's moving
+
+00:07:00.422 --> 00:07:01.855
+and predict the shot type.
+
+00:07:01.879 --> 00:07:05.953
+We can look at all their velocities
+and we can build a model that predicts
+
+00:07:05.977 --> 00:07:10.029
+what is the likelihood that this shot
+would go in under these circumstances?
+
+00:07:10.188 --> 00:07:11.688
+So why is this important?
+
+00:07:12.102 --> 00:07:14.905
+We can take something that was shooting,
+
+00:07:14.929 --> 00:07:17.609
+which was one thing before,
+and turn it into two things:
+
+00:07:17.633 --> 00:07:20.284
+the quality of the shot
+and the quality of the shooter.
+
+00:07:21.680 --> 00:07:24.942
+So here's a bubble chart,
+because what's TED without a bubble chart?
+
+00:07:24.966 --> 00:07:25.980
+(Laughter)
+
+00:07:26.004 --> 00:07:27.315
+Those are NBA players.
+
+00:07:27.339 --> 00:07:30.459
+The size is the size of the player
+and the color is the position.

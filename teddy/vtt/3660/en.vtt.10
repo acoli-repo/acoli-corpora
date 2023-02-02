@@ -1,0 +1,27 @@
+WEBVTT
+
+00:04:56.433 --> 00:05:00.482
+Our Todai Robot works similarly,
+but a bit smarter
+
+00:05:00.506 --> 00:05:03.745
+in answering history yes-no questions,
+
+00:05:04.560 --> 00:05:10.223
+like, "'Charlemagne repelled the Magyars.'
+Is this sentence true or false?"
+
+00:05:11.181 --> 00:05:15.254
+Our robot starts producing
+a factoid question,
+
+00:05:15.278 --> 00:05:20.177
+like: "Charlemagne repelled
+[this person type]" by itself.
+
+00:05:20.995 --> 00:05:25.727
+Then, "Avars" but not
+"Magyars" is ranked top.
+
+00:05:26.357 --> 00:05:29.406
+This sentence is likely to be false.

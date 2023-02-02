@@ -1,0 +1,31 @@
+WEBVTT
+
+00:06:59.324 --> 00:07:05.103
+om Bobs bericht bij Alice te krijgen
+zonder dat de server het kan lezen.
+
+00:07:05.103 --> 00:07:07.386
+We moeten het dan versleutelen,
+
+00:07:07.386 --> 00:07:09.420
+voordat het Bobs pc verlaat.
+
+00:07:09.420 --> 00:07:14.141
+De truc is dat we het versleutelen
+met de openbare sleutel van Alice.
+
+00:07:14.141 --> 00:07:19.333
+Dan worden de versleutelde gegevens
+via de server naar Alice gestuurd.
+
+00:07:19.333 --> 00:07:23.533
+Omdat het bericht versleuteld is
+met de openbare sleutel van Alice,
+
+00:07:23.533 --> 00:07:28.161
+kan het alleen ontsleuteld worden
+met de private sleutel van Alice.
+
+00:07:28.161 --> 00:07:32.616
+Het blijkt dat Alice
+de enige is met die sleutel.

@@ -1,0 +1,45 @@
+WEBVTT
+
+00:08:29.821 --> 00:08:33.018
+turning the steering wheel left or right,
+pressing the brake or gas.
+
+00:08:33.018 --> 00:08:35.482
+It's really just two numbers
+at the end of the day.
+
+00:08:35.482 --> 00:08:37.723
+So how hard can it really be?
+
+00:08:38.433 --> 00:08:40.385
+Back when we started in 2009,
+
+00:08:40.385 --> 00:08:42.183
+this is what our system looked like.
+
+00:08:42.183 --> 00:08:45.574
+So you can see our car in the middle
+and the other boxes on the road,
+
+00:08:45.574 --> 00:08:46.845
+driving down the highway.
+
+00:08:46.845 --> 00:08:50.663
+The car needs to understand where it is
+and roughly where the other vehicles are.
+
+00:08:50.663 --> 00:08:53.092
+It's really a geometric
+understanding of the world.
+
+00:08:53.092 --> 00:08:56.040
+Once we started driving
+on neighborhood and city streets,
+
+00:08:56.040 --> 00:08:58.485
+the problem becomes a whole
+new level of difficulty.
+
+00:08:58.485 --> 00:09:01.979
+You see pedestrians crossing in front
+of us, cars crossing in front of us,

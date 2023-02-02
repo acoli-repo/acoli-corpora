@@ -1,0 +1,35 @@
+WEBVTT
+
+00:06:29.768 --> 00:06:34.172
+Nyilván célszerű lenne, ha nem 
+hagynánk a szerveren a kulcsokat.
+
+00:06:34.172 --> 00:06:38.070
+Ehelyett a felhasználó 
+gépén állítjuk elő őket.
+
+00:06:38.070 --> 00:06:41.858
+És nem is egy kulcsot, 
+hanem egy kulcspárt.
+
+00:06:41.858 --> 00:06:45.563
+Egy RSA magánkulcsot,
+meg egy RSA nyilvános kulcsot is.
+
+00:06:45.563 --> 00:06:48.191
+A két kulcsot matematikai 
+eljárással összekapcsoltuk.
+
+00:06:48.191 --> 00:06:50.396
+Nézzük csak meg, 
+hogyan működik a levelezés,
+
+00:06:50.396 --> 00:06:52.787
+mikor több felhasználó kommunikál.
+
+00:06:52.787 --> 00:06:57.232
+Tegyük fel, hogy Bob és Alice szeretne
+magánbeszélgetést folytatni.
+
+00:06:57.232 --> 00:07:00.794
+Feladatunk az, hogy Bob üzenete

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:27.901 --> 00:07:32.616
+og det viser sig, at Alice er den eneste
+person, der rent faktisk har den nøgle.
+
+00:07:32.616 --> 00:07:35.284
+Så nu har vi nået målet,
+
+00:07:35.284 --> 00:07:37.451
+hvilket er at få beskeden
+fra Bob til Alice
+
+00:07:37.451 --> 00:07:40.143
+uden at serveren er i stand til
+at forstå, hvad der sker.
+
+00:07:40.143 --> 00:07:43.100
+Det, jeg har vist her, er
+et højst simplificeret billede.
+
+00:07:43.100 --> 00:07:45.105
+Realiteten er langt mere kompleks
+
+00:07:45.105 --> 00:07:48.819
+og det kræver en enorm mængde software,
+der ser nogenlunde sådan her ud.
+
+00:07:48.819 --> 00:07:51.259
+Og det er faktisk hoved-
+udfordringen for designet.
+
+00:07:51.259 --> 00:07:54.780
+Hvordan tager vi al den her
+kompleksitet, den her software,
+
+00:07:54.780 --> 00:07:58.898
+og implementerer den på en måde,
+så brugeren ikke kan se det?
+
+00:07:58.898 --> 00:08:02.496
+Jeg synes, vi er kommet tæt på
+med ProtonMail.

@@ -1,0 +1,35 @@
+WEBVTT
+
+00:06:30.018 --> 00:06:34.172
+Tja, det er nok en god idé ikke
+at putte nøglerne på serveren.
+
+00:06:34.172 --> 00:06:38.070
+Så det, vi gør, er at generere
+krypteringsnøgler på din computer,
+
+00:06:38.070 --> 00:06:41.858
+og vi generer ikke bare
+én nøgle, men et par af nøgler,
+
+00:06:41.858 --> 00:06:45.563
+så der en RSA-privat nøgle
+og en RSA-offentlig nøgle,
+
+00:06:45.563 --> 00:06:48.191
+og disse nøgler er matematisk forbundne.
+
+00:06:48.191 --> 00:06:50.396
+Så lad os tage et kig på
+hvordan det virker,
+
+00:06:50.396 --> 00:06:52.787
+når flere personer kommunikerer.
+
+00:06:52.787 --> 00:06:57.232
+Her har vi Bob og Alice,
+der gerne vil kommunikere privat.
+
+00:06:57.232 --> 00:07:00.794
+Hovedudfordringen er
+at tage Bobs besked

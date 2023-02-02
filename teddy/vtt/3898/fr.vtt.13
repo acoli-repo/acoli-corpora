@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:28.160 --> 00:06:31.376
+Avant d'entrer dans les détails
+de solutions spécifiques,
+
+00:06:31.400 --> 00:06:34.570
+vous vous demandez peut-être
+comment nous avons fait ces calculs.
+
+00:06:35.040 --> 00:06:38.056
+Pour commencer, nous avons
+collecté beaucoup de données
+
+00:06:38.080 --> 00:06:41.496
+et avons utilisé une analyse statistique
+pour établir des échelles
+
+00:06:41.520 --> 00:06:44.496
+nous permettant de faire
+des choix raisonnables
+
+00:06:44.520 --> 00:06:46.880
+pour chaque donnée d'entrée des modèles.
+
+00:06:48.160 --> 00:06:50.400
+Nous avons choisi
+une approche conservative,
+
+00:06:50.400 --> 00:06:52.320
+qui sous-tend tout le projet.
+
+00:06:53.120 --> 00:06:55.326
+Toutes les données
+sont entrées dans le modèle,
+
+00:06:55.326 --> 00:06:58.296
+estimées pour l'avenir
+de façon ambitieuse mais plausible
+
+00:06:58.320 --> 00:07:00.797
+et comparées à ce que
+nous devrions quand même faire.

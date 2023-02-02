@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:28.163 --> 00:06:31.371
+Bây giờ, trước khi đi vào chi tiết 
+của các giải pháp cụ thể,
+
+00:06:31.413 --> 00:06:33.996
+bạn có thể tự hỏi 
+chúng tôi tính toán như thế nào.
+
+00:06:35.038 --> 00:06:38.038
+À thì, đầu tiên, 
+chúng tôi thu thập rất nhiều dữ liệu,
+
+00:06:38.079 --> 00:06:41.496
+và chúng tôi sử dụng phân tích thống kê
+để tạo ra các phạm vi
+
+00:06:41.496 --> 00:06:44.496
+cho phép chúng tôi đưa ra 
+các lựa chọn hợp lý
+
+00:06:44.496 --> 00:06:46.871
+cho mỗi đầu vào sử dụng 
+trong suốt các mô hình.
+
+00:06:48.163 --> 00:06:52.163
+Và chúng tôi chọn một cách tiếp cận
+thận trọng, làm nền tảng cho toàn dự án.
+
+00:06:53.121 --> 00:06:55.121
+Tất cả dữ liệu được nhập vào mô hình,
+
+00:06:55.163 --> 00:06:58.288
+được dự kiến cho tương lai
+một cách tham vọng nhưng chính đáng,
+
+00:06:58.329 --> 00:07:00.788
+và được so sánh với những gì
+chúng ta sẽ phải làm.

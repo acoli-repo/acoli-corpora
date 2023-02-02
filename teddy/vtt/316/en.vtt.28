@@ -1,0 +1,44 @@
+WEBVTT
+
+00:13:57.266 --> 00:14:02.292
+or a radiologist indicating
+potentially troublesome nodules.
+
+00:14:02.292 --> 00:14:04.851
+And sometimes it can be
+difficult for the algorithm.
+
+00:14:04.851 --> 00:14:06.815
+In this case, it got kind of confused.
+
+00:14:06.815 --> 00:14:09.365
+The fronts and the backs
+of the cars are all mixed up.
+
+00:14:09.365 --> 00:14:11.437
+So here we have to be a bit more careful,
+
+00:14:11.437 --> 00:14:14.669
+manually selecting these fronts
+as opposed to the backs,
+
+00:14:14.669 --> 00:14:20.175
+then telling the computer
+that this is a type of group
+
+00:14:20.175 --> 00:14:21.523
+that we're interested in.
+
+00:14:21.523 --> 00:14:24.200
+So we do that for a while,
+we skip over a little bit,
+
+00:14:24.200 --> 00:14:26.446
+and then we train the
+machine learning algorithm
+
+00:14:26.446 --> 00:14:28.420
+based on these couple of hundred things,
+
+00:14:28.420 --> 00:14:30.445
+and we hope that it's gotten a lot better.

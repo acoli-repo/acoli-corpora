@@ -1,0 +1,43 @@
+WEBVTT
+
+00:15:58.976 --> 00:16:01.448
+An dieser Stelle können 
+wir anfangen, sehr schnell
+
+00:16:01.448 --> 00:16:02.745
+große Bereiche zu erfassen,
+
+00:16:02.745 --> 00:16:05.664
+und sie auf Fehler zu überprüfen.
+
+00:16:05.664 --> 00:16:09.616
+Wenn es Fehler gibt, lassen wir 
+das den Computer wissen.
+
+00:16:09.616 --> 00:16:12.661
+Indem wir diesen Vorgang auf jede
+der einzelnen Gruppen anwenden,
+
+00:16:12.661 --> 00:16:15.148
+sind wir jetzt bei 
+einer 80%igen Erfolgsrate
+
+00:16:15.148 --> 00:16:17.563
+beim Klassifizieren der 1,5 Mio. Bilder.
+
+00:16:17.563 --> 00:16:19.641
+An diesem Punkt müssen wir nur noch
+
+00:16:19.641 --> 00:16:23.220
+die kleine Zahl der 
+falsch klassifizierten Bilder finden
+
+00:16:23.220 --> 00:16:26.108
+und versuchen, die Ursache zu verstehen.
+
+00:16:26.108 --> 00:16:27.851
+Wenden wir das an,
+
+00:16:27.851 --> 00:16:31.972
+sind wir nach 15 Minuten 
+bei einer Erfolgsquote von 97 %.

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:28.346 --> 00:06:31.907
+Leva-se mais de uma década
+para se formar um bom dermatologista.
+
+00:06:31.931 --> 00:06:35.127
+E vemos aqui a versão
+aprendizado de máquina disso.
+
+00:06:35.151 --> 00:06:36.992
+É a chamada rede neural.
+
+00:06:37.016 --> 00:06:40.758
+"Redes neurais" é o termo técnico dado
+a algoritmos de aprendizado de máquina.
+
+00:06:40.782 --> 00:06:42.571
+Elas estão aí desde a década de 1980.
+
+00:06:42.595 --> 00:06:47.235
+Esta foi inventado em 1988 por Yann LeCun,
+um pesquisador do Facebook,
+
+00:06:47.259 --> 00:06:50.817
+e ela processa dados em estágios
+
+00:06:50.841 --> 00:06:53.419
+como faz o cérebro humano.
+
+00:06:53.443 --> 00:06:56.269
+Não é exatamente a mesma coisa,
+mas simula a mesma coisa.
+
+00:06:56.273 --> 00:06:57.735
+Ela vai por etapas.
+
+00:06:57.759 --> 00:07:01.396
+No primeiríssimo estágio, ela pega
+os dados visuais e extrai bordas,

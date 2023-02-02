@@ -1,0 +1,32 @@
+WEBVTT
+
+00:09:58.993 --> 00:10:04.602
+Assim como o cérebro é composto de bilhões
+de neurônios altamente conectados,
+
+00:10:04.602 --> 00:10:08.456
+uma unidade operacional básica
+numa rede neural
+
+00:10:08.456 --> 00:10:10.871
+é como um nó neuronal.
+
+00:10:10.871 --> 00:10:13.425
+Ela obtém informações de outros nós
+
+00:10:13.425 --> 00:10:16.143
+e envia dados para outros.
+
+00:10:16.143 --> 00:10:20.856
+Além disso, essas centenas de milhares,
+ou mesmo milhões de nós,
+
+00:10:20.856 --> 00:10:24.083
+são organizadas em camadas hierárquicas,
+
+00:10:24.083 --> 00:10:26.587
+parecidas com o cérebro.
+
+00:10:26.587 --> 00:10:31.420
+Numa rede neural que usamos para treinar
+nosso modelo de reconhecimento de objetos

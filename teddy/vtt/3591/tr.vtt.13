@@ -1,0 +1,38 @@
+WEBVTT
+
+00:06:27.320 --> 00:06:32.102
+Bugün biz dünyadaki en iyi sonar sinyâli
+ilk defa dinleyeceğiz.
+
+00:06:32.126 --> 00:06:36.103
+Bu, 88x88 boyutlu Costas dizisi'dir,
+
+00:06:36.127 --> 00:06:37.722
+piano notaları üzerine kurulmuş,
+
+00:06:37.746 --> 00:06:41.219
+ritim için Golomb cetveli kullanılmıştır;
+
+00:06:41.243 --> 00:06:43.768
+yani her çift notun başlangıcı
+
+00:06:43.792 --> 00:06:45.365
+farklı ve belirgindir.
+
+00:06:45.389 --> 00:06:48.098
+Bu, matematiksel olarak, 
+neredeyse mümkünsüzdür.
+
+00:06:48.122 --> 00:06:50.933
+Aslında, hesaplama sonucu,
+bunu yaratmak mümkün değil.
+
+00:06:50.957 --> 00:06:54.388
+Bu fikir 200 yıl önce,
+
+00:06:54.412 --> 00:06:57.074
+başka bir matematikçi
+ve mühendis sayesinde
+
+00:06:57.098 --> 00:07:00.008
+3'e çarpma işlemini tekrarlayarak

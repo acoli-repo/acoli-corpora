@@ -1,0 +1,52 @@
+WEBVTT
+
+00:09:57.449 --> 00:10:01.210
+Now, the way we accomplish this
+is by sharing data between the vehicles.
+
+00:10:01.210 --> 00:10:02.906
+The first, most crude model of this
+
+00:10:02.906 --> 00:10:05.019
+is when one vehicle
+sees a construction zone,
+
+00:10:05.019 --> 00:10:08.081
+having another know about it
+so it can be in the correct lane
+
+00:10:08.081 --> 00:10:09.651
+to avoid some of the difficulty.
+
+00:10:09.651 --> 00:10:12.315
+But we actually have a much
+deeper understanding of this.
+
+00:10:12.315 --> 00:10:15.324
+We could take all of the data
+that the cars have seen over time,
+
+00:10:15.324 --> 00:10:17.700
+the hundreds of thousands
+of pedestrians, cyclists,
+
+00:10:17.700 --> 00:10:19.487
+and vehicles that have been out there
+
+00:10:19.487 --> 00:10:21.182
+and understand what they look like
+
+00:10:21.182 --> 00:10:24.013
+and use that to infer
+what other vehicles should look like
+
+00:10:24.013 --> 00:10:25.939
+and other pedestrians should look like.
+
+00:10:25.939 --> 00:10:28.960
+And then, even more importantly,
+we could take from that a model
+
+00:10:28.960 --> 00:10:31.290
+of how we expect them
+to move through the world.

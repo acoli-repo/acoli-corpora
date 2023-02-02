@@ -1,0 +1,41 @@
+WEBVTT
+
+00:07:27.901 --> 00:07:32.616
+dan ternyata hanya Alice saja
+yang punya kunci tersebut.
+
+00:07:32.616 --> 00:07:35.284
+Sekarang tugas sudah selesai,
+
+00:07:35.284 --> 00:07:37.451
+yaitu mengantarkan pesan 
+dari Bob ke Alice
+
+00:07:37.451 --> 00:07:40.143
+tanpa bisa dibaca oleh server.
+
+00:07:40.143 --> 00:07:43.100
+Sebenarnya ini adalah gambaran
+yang sangat disederhanakan.
+
+00:07:43.100 --> 00:07:45.105
+Kenyataannya jauh lebih kompleks
+
+00:07:45.105 --> 00:07:48.819
+dan memerlukan banyak perangkat lunak
+yang terlihat seperti ini.
+
+00:07:48.819 --> 00:07:51.259
+Itulah tantangan desain terbesarnya:
+
+00:07:51.259 --> 00:07:54.780
+Bagaimana kita mengatur kompleksitas ini,
+semua perangkat lunak ini,
+
+00:07:54.780 --> 00:07:58.898
+dan menjalankannya tanpa terlihat
+oleh pengguna.
+
+00:07:58.898 --> 00:08:02.496
+Menurut saya ProtonMail
+hampir berhasil melakukannya.

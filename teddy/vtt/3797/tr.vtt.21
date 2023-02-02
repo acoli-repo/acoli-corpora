@@ -1,0 +1,39 @@
+WEBVTT
+
+00:10:28.344 --> 00:10:31.061
+her satır arasında küçük bir gecikme olur
+
+00:10:31.061 --> 00:10:34.218
+ve bu durum, bir videonun her karesine
+
+00:10:34.218 --> 00:10:37.701
+işlenen küçük kusurlara neden olur.
+
+00:10:37.701 --> 00:10:41.507
+Ve bu kusurları çözümleyip
+algoritmamızın değiştirilmiş
+
+00:10:41.507 --> 00:10:46.122
+sürümünü kullanarak
+sesi kurtarabileceğimizi bulduk.
+
+00:10:46.122 --> 00:10:48.034
+Yaptığımız deney şöyle:
+
+00:10:48.034 --> 00:10:49.729
+bir şeker paketini
+
+00:10:49.729 --> 00:10:51.470
+yakınında bir hoparlörden
+
+00:10:51.470 --> 00:10:54.442
+daha önceki aynı "Mary Had a Little Lamb"
+müziğini çalarken kaydettik,
+
+00:10:54.442 --> 00:10:58.645
+ama bu sefer, mağazadan alınma
+sıradan bir kamera kullandık
+
+00:10:58.645 --> 00:11:01.819
+ve birazdan, kurtardığımız sesi
+size dinleteceğim

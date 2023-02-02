@@ -1,0 +1,32 @@
+WEBVTT
+
+00:09:58.983 --> 00:10:04.602
+So wie unser Gehirn aus Milliarden von
+stark vernetzten Neuronen besteht,
+
+00:10:04.602 --> 00:10:08.456
+ist die einfachste Betriebseinheit
+eines neuronalen Netzwerks
+
+00:10:08.456 --> 00:10:10.871
+ein neuronenähnlicher Knotenpunkt.
+
+00:10:10.871 --> 00:10:13.425
+Er erhält Input von anderen Knotenpunkten
+
+00:10:13.425 --> 00:10:16.143
+und sendet Output an andere.
+
+00:10:16.143 --> 00:10:20.856
+Zusätzlich sind diese hunderttausende
+oder sogar Millionen von Knotenpunkten
+
+00:10:20.856 --> 00:10:24.083
+in hierarchischen Schichten organisiert,
+
+00:10:24.083 --> 00:10:26.637
+auch das ähnlich wie im Gehirn.
+
+00:10:26.637 --> 00:10:31.420
+Ein typisches Neuronales Netz, das
+unser Objekterkennungsmodell trainiert,

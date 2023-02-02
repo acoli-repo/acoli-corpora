@@ -1,0 +1,41 @@
+WEBVTT
+
+00:08:27.496 --> 00:08:30.316
+Les mathématiques nous aident
+à en découvrir le plus grand.
+
+00:08:30.880 --> 00:08:33.416
+Retournons à la vidéo
+que nous avons regardée.
+
+00:08:33.440 --> 00:08:35.176
+La machine de Rube Goldberg.
+
+00:08:35.200 --> 00:08:37.496
+Elle comprend 130 interactions.
+
+00:08:37.520 --> 00:08:39.200
+Il y a 130 éléments
+
+00:08:40.200 --> 00:08:43.015
+que nous devions avoir
+pour que ça roule selon notre plan.
+
+00:08:43.039 --> 00:08:46.896
+Supposons que nous voulons
+créer une nouvelle vidéo,
+
+00:08:46.920 --> 00:08:49.960
+avec la même complexité,
+130 éléments mobiles.
+
+00:08:50.800 --> 00:08:53.336
+Si on planifie super bien le système,
+
+00:08:53.360 --> 00:08:56.616
+on pourrait croire que
+nous serons suffisamment bons
+
+00:08:56.640 --> 00:09:00.840
+pour obtenir un taux de fiabilité
+de 90% pour chaque composant.

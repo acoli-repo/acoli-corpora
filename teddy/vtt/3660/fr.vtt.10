@@ -1,0 +1,29 @@
+WEBVTT
+
+00:04:56.433 --> 00:05:00.482
+C'est aussi ce que fait notre Todai Robot
+mais un peu plus intelligemment
+
+00:05:00.506 --> 00:05:03.745
+quand il répond à des vrais ou faux
+sur des questions d'Histoire,
+
+00:05:04.560 --> 00:05:10.223
+comme : « Charlemagne a repoussé
+les Magyars. Vrai ou faux ? »
+
+00:05:11.181 --> 00:05:15.254
+Notre robot commence par 
+générer lui-même une question,
+
+00:05:15.278 --> 00:05:20.177
+comme : « Charlemagne a repoussé 
+[cet individu]. »
+
+00:05:20.995 --> 00:05:25.727
+Ensuite, « les Avars » mais pas 
+« les Magyars » obtient le meilleur score.
+
+00:05:26.357 --> 00:05:29.406
+La phrase est probablement fausse 
+dans ce cas.

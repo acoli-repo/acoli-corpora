@@ -1,0 +1,46 @@
+WEBVTT
+
+00:06:57.232 --> 00:07:00.651
+Die Herausforderung ist dabei,
+Bobs Nachricht zu nehmen
+
+00:07:00.676 --> 00:07:04.966
+und sie zu Alice zu bringen, ohne dass
+der Server die Nachricht lesen kann.
+
+00:07:04.991 --> 00:07:07.795
+Wir müssen also
+die Nachricht verschlüsseln,
+
+00:07:07.819 --> 00:07:09.919
+bevor sie überhaupt
+Bobs Computer verlässt.
+
+00:07:09.943 --> 00:07:14.394
+Der Trick ist: Wir verschlüsseln sie
+mit dem öffentlichen Schlüssel von Alice.
+
+00:07:14.419 --> 00:07:16.260
+Da die verschlüsselten Daten
+
+00:07:16.285 --> 00:07:19.101
+durch den Server
+zu Alice geschickt wurden,
+
+00:07:19.126 --> 00:07:20.578
+und weil die Nachricht
+
+00:07:20.603 --> 00:07:23.588
+durch Alices öffentlichen Schlüssel
+verschlüsselt wurde,
+
+00:07:23.613 --> 00:07:26.684
+ist der einzige Schlüssel,
+der die E-Mail entschlüsseln kann,
+
+00:07:26.709 --> 00:07:28.390
+Alices privater Schlüssel.
+
+00:07:28.415 --> 00:07:32.592
+Alice besitzt als einzige
+diesen Schlüssel.

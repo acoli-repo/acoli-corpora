@@ -1,0 +1,45 @@
+WEBVTT
+
+00:06:28.561 --> 00:06:31.468
+Gli allenatori vogliono che i giocatori
+facciamo dei bei tiri.
+
+00:06:31.468 --> 00:06:33.103
+Quindi, se sono vicino al canestro
+
+00:06:33.133 --> 00:06:35.133
+con nessuno vicino a me,
+è un buon tiro.
+
+00:06:35.137 --> 00:06:38.887
+Se sono lontano circondato da difensori,
+in genere è un tiro scadente.
+
+00:06:38.911 --> 00:06:44.139
+Ma quanto "buoni" o "scadenti"
+sono i tiri buoni o scadenti?
+
+00:06:44.209 --> 00:06:45.629
+Finora non potevi saperlo.
+
+00:06:45.771 --> 00:06:48.829
+Quindi cosa possiamo fare
+usando coordinate spaziotemporali?
+
+00:06:48.853 --> 00:06:50.227
+Abbiamo guardato ogni tiro.
+
+00:06:50.251 --> 00:06:53.256
+Possiamo vedere: dove è il tiro?
+Qual è l'angolo col canestro?
+
+00:06:53.280 --> 00:06:55.746
+Dove sono i difensori?
+Quali sono le loro distanze?
+
+00:06:55.746 --> 00:06:57.341
+Quali sono i loro angoli?
+
+00:06:57.341 --> 00:07:00.488
+Con più difensori, possiamo guardare
+a come si muove il giocatore

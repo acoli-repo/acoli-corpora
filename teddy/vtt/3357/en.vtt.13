@@ -1,0 +1,41 @@
+WEBVTT
+
+00:06:28.346 --> 00:06:31.907
+It takes more than a decade of training
+to be a good dermatologist.
+
+00:06:31.931 --> 00:06:35.127
+What you see here is
+the machine learning version of it.
+
+00:06:35.151 --> 00:06:36.992
+It's called a neural network.
+
+00:06:37.016 --> 00:06:40.758
+"Neural networks" is the technical term
+for these machine learning algorithms.
+
+00:06:40.782 --> 00:06:42.571
+They've been around since the 1980s.
+
+00:06:42.595 --> 00:06:47.235
+This one was invented in 1988
+by a Facebook Fellow called Yann LeCun,
+
+00:06:47.259 --> 00:06:50.817
+and it propagates data stages
+
+00:06:50.841 --> 00:06:53.419
+through what you could think of
+as the human brain.
+
+00:06:53.443 --> 00:06:56.409
+It's not quite the same thing,
+but it emulates the same thing.
+
+00:06:56.433 --> 00:06:57.735
+It goes stage after stage.
+
+00:06:57.759 --> 00:07:01.396
+In the very first stage, it takes
+the visual input and extracts edges

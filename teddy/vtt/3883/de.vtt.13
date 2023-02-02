@@ -1,0 +1,35 @@
+WEBVTT
+
+00:06:30.018 --> 00:06:34.148
+Es ist wahrscheinlich ein gute Idee,
+Schlüssel nicht auf den Server zu packen.
+
+00:06:34.172 --> 00:06:38.046
+Generieren wir also eigene Schlüssel
+auf unserem Computer.
+
+00:06:38.069 --> 00:06:40.371
+Dabei erzeugen wir
+nicht nur einen Schlüssel,
+
+00:06:40.396 --> 00:06:41.833
+sondern ein Schlüsselpaar.
+
+00:06:41.858 --> 00:06:45.539
+Damit gibt es einen privaten RSA-Key
+und einen öffentlichen.
+
+00:06:45.563 --> 00:06:48.167
+Diese sind mathematisch verknüpft.
+
+00:06:48.191 --> 00:06:52.347
+Schauen wir uns an, wie das funktioniert,
+wenn mehrere Leute kommunizieren.
+
+00:06:52.372 --> 00:06:57.208
+Hier haben wir Bob und Alice,
+die privat kommunizieren wollen.
+
+00:06:57.232 --> 00:07:00.651
+Die Herausforderung ist dabei,
+Bobs Nachricht zu nehmen

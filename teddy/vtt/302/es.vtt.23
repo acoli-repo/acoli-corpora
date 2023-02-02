@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:27.000 --> 00:11:30.000
+primero tenemos que diseccionar la estructura de la red un poquito.
+
+00:11:30.000 --> 00:11:32.000
+Y observen que cada persona de esta red
+
+00:11:32.000 --> 00:11:35.000
+tiene exactamente la misma ubicación en la estructura que cualquier otra.
+
+00:11:35.000 --> 00:11:38.000
+Pero ese no es el caso de las redes reales.
+
+00:11:38.000 --> 00:11:40.000
+Así, por ejemplo, aquí hay una red real de estudiantes universitarios
+
+00:11:40.000 --> 00:11:43.000
+en una universidad de la élite del noreste.
+
+00:11:43.000 --> 00:11:45.000
+Y ahora estoy resaltando unos pocos puntos
+
+00:11:45.000 --> 00:11:47.000
+y si miran aquí los puntos
+
+00:11:47.000 --> 00:11:49.000
+comparen el nodo B, en la parte superior izquierda,
+
+00:11:49.000 --> 00:11:51.000
+con el nodo D, en el extremo derecho.
+
+00:11:51.000 --> 00:11:53.000
+B tiene 4 amigos que salen de él.
+
+00:11:53.000 --> 00:11:56.000
+Y D tiene 6 amigos que salen de él.
+
+00:11:56.000 --> 00:11:59.000
+Entonces, estos dos individuos tiene distinta cantidad de amigos
+
+00:11:59.000 --> 00:12:01.000
+eso es muy obvio, todos lo sabemos.

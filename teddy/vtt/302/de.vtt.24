@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+Das ist sehr einleuchtend, wir alle wissen das.
+
+00:12:01.000 --> 00:12:03.000
+Aber bestimmte andere Aspekte
+
+00:12:03.000 --> 00:12:05.000
+der Struktur des sozialen Netzwerks sind nicht so offensichtlich.
+
+00:12:05.000 --> 00:12:08.000
+Vergleichen Sie Knoten B links oben mit Knoten A links unten.
+
+00:12:08.000 --> 00:12:11.000
+Diese zwei Menschen haben nun beide vier Freunde,
+
+00:12:11.000 --> 00:12:13.000
+aber As Freunde kennen sich alle untereinander,
+
+00:12:13.000 --> 00:12:15.000
+und Bs Freunde tun das nicht.
+
+00:12:15.000 --> 00:12:17.000
+Der Freund eines Freundes von A nun
+
+00:12:17.000 --> 00:12:19.000
+ist wiederum ein Freund von A,
+
+00:12:19.000 --> 00:12:21.000
+wohingegen ein Freund eines Freundes von B kein Freund von B ist,
+
+00:12:21.000 --> 00:12:23.000
+sondern im Netzwerk weiter weg ist.
+
+00:12:23.000 --> 00:12:26.000
+Das ist in Netzwerken als Transitivität bekannt.
+
+00:12:26.000 --> 00:12:28.000
+Und vergleichen Sie schließlich Knoten C und D.
+
+00:12:28.000 --> 00:12:31.000
+C und D haben beide sechs Freunde.

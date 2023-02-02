@@ -1,0 +1,44 @@
+WEBVTT
+
+00:06:27.508 --> 00:06:30.680
+about once every 100,000 miles in America.
+
+00:06:30.680 --> 00:06:33.847
+In contrast, a self-driving system
+is probably making decisions
+
+00:06:33.847 --> 00:06:37.510
+about 10 times per second,
+
+00:06:37.510 --> 00:06:38.932
+so order of magnitude,
+
+00:06:38.932 --> 00:06:41.764
+that's about 1,000 times per mile.
+
+00:06:41.764 --> 00:06:44.249
+So if you compare the distance
+between these two,
+
+00:06:44.249 --> 00:06:46.849
+it's about 10 to the eighth, right?
+
+00:06:46.849 --> 00:06:48.614
+Eight orders of magnitude.
+
+00:06:48.614 --> 00:06:51.423
+That's like comparing how fast I run
+
+00:06:51.423 --> 00:06:53.629
+to the speed of light.
+
+00:06:53.629 --> 00:06:57.414
+It doesn't matter how hard I train,
+I'm never actually going to get there.
+
+00:06:57.414 --> 00:06:59.852
+So there's a pretty big gap there.
+
+00:06:59.852 --> 00:07:03.581
+And then finally, there's how
+the system can handle uncertainty.

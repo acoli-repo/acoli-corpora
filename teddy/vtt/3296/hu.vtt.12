@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:59.400 --> 00:06:00.656
+Nem volt egyszerű,
+
+00:06:00.680 --> 00:06:05.216
+de megkaparintottam a felvételeket,
+melyek a beszélgetésekről készültek
+
+00:06:05.240 --> 00:06:07.840
+a TechChrunchon, és mindent
+szóról szóra leírattam.
+
+00:06:08.520 --> 00:06:10.456
+Először a szöveget analizáltam,
+
+00:06:10.480 --> 00:06:14.136
+és kiemeltem a fókuszelméletre
+igazoló kifejezéseket
+
+00:06:14.160 --> 00:06:18.216
+a Regresszív Képzeleti Szótárba,
+más néven a LIWC-be.
+
+00:06:18.240 --> 00:06:20.856
+Ez a LIWC szoftver lemérte
+
+00:06:20.880 --> 00:06:24.896
+az elősegítő és a megelőző szándékú
+szavak használatát a szövegben.
+
+00:06:24.920 --> 00:06:26.416
+Ezután
+
+00:06:26.440 --> 00:06:30.376
+Minden egyes kérdést és választ
+kézzel lekódoltattam

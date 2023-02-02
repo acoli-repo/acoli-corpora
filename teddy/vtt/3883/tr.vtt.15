@@ -1,0 +1,39 @@
+WEBVTT
+
+00:07:27.901 --> 00:07:32.616
+Ve bu anahtara gerçekten sahip
+tek kişi Alice.
+
+00:07:32.616 --> 00:07:35.284
+Sunucunun deşifre edemediği mesajı,
+
+00:07:35.284 --> 00:07:37.451
+Bob'tan Alice'e ileterek,
+
+00:07:37.451 --> 00:07:40.143
+görevimizi başardık.
+
+00:07:40.143 --> 00:07:43.100
+Aslında, burada oldukça basite
+indirgenmiş bir tablo çizdim.
+
+00:07:43.100 --> 00:07:45.105
+Gerçek çok daha karmaşık.
+
+00:07:45.105 --> 00:07:48.819
+Bir parça şuna benzeyen 
+pek çok yazılım gerektiriyor.
+
+00:07:48.819 --> 00:07:51.259
+Tasarım aslında en büyük zorluktu:
+
+00:07:51.259 --> 00:07:54.780
+Tüm bu karmaşayı ve yazılımı,
+
+00:07:54.780 --> 00:07:58.898
+kullanıcının göremeyeceği şekilde
+nasıl gerçekleştirecektik?
+
+00:07:58.898 --> 00:08:02.496
+Zannediyorum, ProtonMail ile bunu
+yapmaya çok yaklaştık.

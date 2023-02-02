@@ -1,0 +1,36 @@
+WEBVTT
+
+00:05:28.315 --> 00:05:31.402
+Tivemos que fazer muita captura com isso.
+
+00:05:31.752 --> 00:05:34.643
+Depois de obter essa quantidade
+enorme de dados,
+
+00:05:34.667 --> 00:05:38.442
+construímos e treinamos
+redes neurais profundas.
+
+00:05:39.117 --> 00:05:40.863
+Quando terminamos,
+
+00:05:40.887 --> 00:05:43.331
+em 16 milissegundos,
+
+00:05:43.355 --> 00:05:46.467
+a rede neural consegue
+analisar minha imagem
+
+00:05:46.491 --> 00:05:49.599
+e descobrir tudo sobre meu rosto.
+
+00:05:50.458 --> 00:05:55.934
+Consegue calcular minha expressão,
+minhas rugas, meu fluxo sanguíneo,
+
+00:05:55.958 --> 00:05:58.445
+até como meus cílios se movem.
+
+00:05:58.925 --> 00:06:01.980
+Isso é então renderizado
+e exibido lá em cima,

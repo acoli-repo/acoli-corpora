@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:57.421 --> 00:07:00.398
+Több védőnél megfigyelhetjük, 
+hogyan mozog a játékos,
+
+00:07:00.422 --> 00:07:01.855
+megtippelhetjük a dobásfajtát.
+
+00:07:01.879 --> 00:07:05.953
+Megfigyelhetjük a sebességeket, s olyan 
+modellt készíthetünk, amely megjósolja,
+
+00:07:05.977 --> 00:07:10.029
+hogy a dobás beleillik-e 
+ezekbe a feltételekbe.
+
+00:07:10.188 --> 00:07:11.688
+Miért fontos ez?
+
+00:07:12.102 --> 00:07:14.905
+A dobást, amely korábban egy dolog volt,
+
+00:07:14.929 --> 00:07:17.609
+két részre bonthatjuk:
+
+00:07:17.633 --> 00:07:21.034
+a dobás minősége és a dobó minősége.
+
+00:07:21.680 --> 00:07:24.942
+Ez egy buborékdiagram, mert a TED-en 
+egy tapodtat se diagram nélkül.
+
+00:07:24.966 --> 00:07:25.980
+(Nevetés)
+
+00:07:26.004 --> 00:07:27.315
+Ezek az NBA játékosai.
+
+00:07:27.339 --> 00:07:30.459
+A méret a játékos magassága,
+a szín a helyzete.

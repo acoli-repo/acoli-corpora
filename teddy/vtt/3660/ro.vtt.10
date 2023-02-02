@@ -1,0 +1,28 @@
+WEBVTT
+
+00:04:56.433 --> 00:05:00.482
+Robotul Todai funcționează aproape la fel,
+doar că un pic mai inteligent,
+
+00:05:00.506 --> 00:05:03.745
+răspunzând la întrebări istorice
+de tipul „da sau nu”,
+
+00:05:04.560 --> 00:05:10.223
+precum: „Carol cel Mare a combătut 
+maghiarii” este adevărat sau fals?
+
+00:05:11.181 --> 00:05:15.254
+Robotul nostru începe să construiască
+o întrebare de tipul celei reper,
+
+00:05:15.278 --> 00:05:20.177
+precum: „Carol cel Mare a combătut 
+[acest tip de persoană]” de unul singur.
+
+00:05:20.995 --> 00:05:25.727
+Apoi, „avarii”, și nu „maghiarii”
+apare ca prim rezultat.
+
+00:05:26.357 --> 00:05:29.406
+Deci propoziția pare a fi falsă.

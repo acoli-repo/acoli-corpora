@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:58.853 --> 00:10:00.384
+Net als in de hersenen,
+
+00:10:00.384 --> 00:10:04.235
+die bestaan uit miljarden 
+goedverbonden neuronen,
+
+00:10:04.235 --> 00:10:08.065
+is de basiseenheid 
+van een neuraal netwerk
+
+00:10:08.065 --> 00:10:10.495
+een neuronenachtig knooppunt.
+
+00:10:10.495 --> 00:10:13.115
+Het ontvangt input
+van andere knooppunten
+
+00:10:13.115 --> 00:10:15.993
+en stuurt output naar andere.
+
+00:10:15.993 --> 00:10:20.856
+Deze honderdduizenden, 
+of zelfs miljoenen knooppunten
+
+00:10:20.856 --> 00:10:23.923
+zijn bovendien
+in hiërarchische lagen georganiseerd.
+
+00:10:23.923 --> 00:10:26.357
+Ook weer net als in de hersenen.
+
+00:10:26.357 --> 00:10:31.420
+In een neuraal netwerk dat we gebruiken
+om voorwerpherkenning te trainen,

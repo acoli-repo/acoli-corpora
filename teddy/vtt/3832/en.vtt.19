@@ -1,0 +1,31 @@
+WEBVTT
+
+00:09:29.416 --> 00:09:33.954
+Now that we have the data
+to nourish our computer brain,
+
+00:09:33.954 --> 00:09:37.691
+we're ready to come back
+to the algorithms themselves.
+
+00:09:37.691 --> 00:09:42.869
+As it turned out, the wealth
+of information provided by ImageNet
+
+00:09:42.869 --> 00:09:47.675
+was a perfect match to a particular class
+of machine learning algorithms
+
+00:09:47.675 --> 00:09:50.090
+called convolutional neural network,
+
+00:09:50.090 --> 00:09:55.338
+pioneered by Kunihiko Fukushima,
+Geoff Hinton, and Yann LeCun
+
+00:09:55.338 --> 00:09:58.983
+back in the 1970s and '80s.
+
+00:09:58.983 --> 00:10:04.602
+Just like the brain consists
+of billions of highly connected neurons,

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:15:58.976 --> 00:16:01.448
+Và ở mức độ này, chúng tôi có thể
+bắt đầu với
+
+00:16:01.448 --> 00:16:02.745
+những nhóm lớn,
+
+00:16:02.745 --> 00:16:05.664
+kiểm tra chúng để bảo đảm không còn lỗi.
+
+00:16:05.664 --> 00:16:09.616
+Nơi nào có lỗi, chúng tôi sẽ cho
+máy tính biết.
+
+00:16:09.616 --> 00:16:12.661
+Và dùng dạng quá trình này cho từng nhóm
+khác nhau,
+
+00:16:12.661 --> 00:16:15.148
+bây giờ, chúng tôi đạt đến 80% tỉ lệ 
+thành công
+
+00:16:15.148 --> 00:16:17.563
+trong việc phân loại 1.5 triệu tấm ảnh.
+
+00:16:17.563 --> 00:16:19.641
+Lúc này, với trường hợp
+
+00:16:19.641 --> 00:16:23.220
+tìm thấy những tấm 
+không được phân loại đúng,
+
+00:16:23.220 --> 00:16:26.108
+chúng tôi cố gắng tìm hiểu lý do.
+
+00:16:26.108 --> 00:16:27.851
+Và sử dụng cách tiếp cận trên,
+
+00:16:27.851 --> 00:16:31.972
+với 15 phút chúng tôi đạt tỉ lệ phân loại
+97%.

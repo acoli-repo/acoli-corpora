@@ -1,0 +1,46 @@
+WEBVTT
+
+00:13:57.266 --> 00:14:02.292
+eller en radiolog som identifierar
+potentiellt farliga knutor.
+
+00:14:02.292 --> 00:14:04.701
+Och ibland kan det vara svårt
+för algoritmen.
+
+00:14:04.701 --> 00:14:06.965
+I det här fallet blev den något förvirrad.
+
+00:14:06.965 --> 00:14:09.485
+Fronten och bakänden på bilarna
+är helt ihopblandade.
+
+00:14:09.485 --> 00:14:11.497
+Så här behöver vi
+vara lite mer försiktiga,
+
+00:14:11.497 --> 00:14:14.669
+och manuellt välja ut fronterna
+men inte bakändarna,
+
+00:14:14.669 --> 00:14:19.955
+och sen berätta för datorn
+att detta är en sorts grupp
+
+00:14:19.955 --> 00:14:21.523
+som vi är intresserade av.
+
+00:14:21.523 --> 00:14:24.200
+Så vi gör det en stund,
+vi hoppar över en liten bit,
+
+00:14:24.200 --> 00:14:26.446
+och sen tränar vi
+maskininlärningsalgoritmen
+
+00:14:26.446 --> 00:14:28.160
+baserat på ett par hundra saker
+
+00:14:28.160 --> 00:14:30.495
+och så hoppas vi att den har
+blivit mycket bättre.

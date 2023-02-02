@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:29.698 --> 00:06:34.172
+Po ja, mundet që mosruajtja e kyçeve
+në server të jetë ide e mirë.
+
+00:06:34.172 --> 00:06:38.070
+Atëherë ajo që bëjmë është krijimi i 
+kyçeve të enkriptimit në kompjuterin tuaj,
+
+00:06:38.070 --> 00:06:41.858
+dhe nuk prodhojmë një kyç të vetëm, 
+por një çift kyçesh,
+
+00:06:41.858 --> 00:06:45.563
+pra kemi një kyç RSA privat
+dhe një kyç RSA publik,
+
+00:06:45.563 --> 00:06:48.191
+dhe këta kyçe janë të lidhur 
+matematikisht.
+
+00:06:48.191 --> 00:06:50.426
+Le të hedhim një sy për të parë
+se si funksionon
+
+00:06:50.426 --> 00:06:52.787
+kur komunikojnë shumë vetë njëherësh.
+
+00:06:52.787 --> 00:06:57.232
+Ja ku kemi Bobin dhe Lizën,
+që duan të komunikojnë privatisht.
+
+00:06:57.232 --> 00:07:00.794
+Sfida kryesore është
+të merret mesazhi i Bobit

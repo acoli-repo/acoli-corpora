@@ -1,0 +1,42 @@
+WEBVTT
+
+00:07:27.901 --> 00:07:32.616
+và điều đó biến Alice thành 
+người duy nhất thật sự có chìa khóa này.
+
+00:07:32.616 --> 00:07:35.284
+Bây giờ chúng ta đạt được mục tiêu,
+
+00:07:35.284 --> 00:07:37.451
+là lấy mẫu tin từ Bob đưa cho Alice
+
+00:07:37.451 --> 00:07:40.143
+mà máy chủ không thể đọc được 
+những gì đang xảy ra.
+
+00:07:40.143 --> 00:07:43.100
+Thật ra, điều tôi chỉ ra đây là 
+một bức tranh cực kỳ đơn giản.
+
+00:07:43.100 --> 00:07:45.105
+Thực tế thì phức tạp hơn nhiều
+
+00:07:45.105 --> 00:07:48.819
+và nó đòi hỏi nhiều phần mềm 
+giống như cái này
+
+00:07:48.819 --> 00:07:51.259
+Và đó thật sự là thử thách cho
+thiết kế mấu chốt:
+
+00:07:51.259 --> 00:07:54.780
+Làm cách nào đưa tất cả sự 
+phức tạp này, tất cả phần mềm này,
+
+00:07:54.780 --> 00:07:58.898
+và ứng dụng nó theo cách mà 
+người dùng không thể thấy được.
+
+00:07:58.898 --> 00:08:02.496
+Tôi nghĩ với ProtonMail, 
+chúng ta đã gần chạm đến điều này.

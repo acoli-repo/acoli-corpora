@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:27.901 --> 00:07:32.616
+il s'avère qu'Alice est la seule
+personne à détenir la clé.
+
+00:07:32.616 --> 00:07:35.284
+On a donc atteint notre objectif,
+
+00:07:35.284 --> 00:07:37.451
+qui consistait à livrer
+le message de Bob a Alice
+
+00:07:37.451 --> 00:07:40.143
+sans que le serveur ne puisse lire
+ce qu’il se passe.
+
+00:07:40.143 --> 00:07:43.100
+En fait, ce que je vous ai montré
+est la vision hautement simplifiée.
+
+00:07:43.100 --> 00:07:45.105
+La réalité est beaucoup plus complexe
+
+00:07:45.105 --> 00:07:48.819
+et exige davantage de logiciels
+comme ici dans cet exemple.
+
+00:07:48.819 --> 00:07:51.259
+C’est actuellement
+le principal défi de conception :
+
+00:07:51.259 --> 00:07:54.780
+comment y arriver avec toute
+cette complexité, et tous ces logiciels
+
+00:07:54.780 --> 00:07:58.898
+sans que l’utilisateur
+ne s’en aperçoive.
+
+00:07:58.898 --> 00:08:02.496
+Je pense qu’avec ProtonMail,
+nous y sommes presque arrivés.

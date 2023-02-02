@@ -1,0 +1,42 @@
+WEBVTT
+
+00:07:24.808 --> 00:07:30.881
+if you train it on 129,000 images
+of skin conditions,
+
+00:07:30.905 --> 00:07:33.470
+including melanoma and carcinomas,
+
+00:07:33.494 --> 00:07:36.795
+you can do as good a job
+
+00:07:36.819 --> 00:07:39.016
+as the best human dermatologists.
+
+00:07:39.040 --> 00:07:41.589
+And to convince ourselves
+that this is the case,
+
+00:07:41.613 --> 00:07:45.603
+we captured an independent dataset
+that we presented to our network
+
+00:07:45.627 --> 00:07:49.969
+and to 25 board-certified
+Stanford-level dermatologists,
+
+00:07:49.993 --> 00:07:51.665
+and compared those.
+
+00:07:51.689 --> 00:07:53.193
+And in most cases,
+
+00:07:53.217 --> 00:07:57.092
+they were either on par or above
+the performance classification accuracy
+
+00:07:57.116 --> 00:07:58.583
+of human dermatologists.
+
+00:07:58.607 --> 00:08:00.353
+CA: You were telling me an anecdote.

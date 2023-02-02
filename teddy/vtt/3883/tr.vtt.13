@@ -1,0 +1,32 @@
+WEBVTT
+
+00:06:30.018 --> 00:06:34.172
+Şifre anahtarlarını sunucuya koymamak
+akıllıca olacaktı.
+
+00:06:34.172 --> 00:06:38.070
+Dolayısıyla şifreleme anahtarlarını
+bilgisayarınızda oluşturduk.
+
+00:06:38.070 --> 00:06:41.858
+Tek bir anahtar yerine, bir çift anahtar
+oluşturduk.
+
+00:06:41.858 --> 00:06:45.563
+RSA gizli anahtarı ve RSA açık anahtarı...
+
+00:06:45.563 --> 00:06:48.191
+Bu anahtarlar matematiksel olarak bağlı.
+
+00:06:48.191 --> 00:06:50.396
+Şimdi insanlar iletişim kurarken
+
+00:06:50.396 --> 00:06:52.787
+nasıl çalıştığına bakalım.
+
+00:06:52.787 --> 00:06:57.232
+Burada özel olarak iletişim
+kurmak isteyen Bob ve Alice var.
+
+00:06:57.232 --> 00:07:00.794
+O halde asıl zorluk Bob’un mesajını

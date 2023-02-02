@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:28.000 --> 00:05:31.000
+pour qu'ils soient légèrement rognés par des enzymes.
+
+00:05:32.000 --> 00:05:35.000
+Il y a des enzymes qui les réparent et les assemblent.
+
+00:05:35.000 --> 00:05:37.000
+Nous avons donc commencé à construire des morceaux,
+
+00:05:37.000 --> 00:05:41.000
+en commençant par des morceaux de 5000 à 7000 lettres,
+
+00:05:41.000 --> 00:05:45.000
+qu'on assemble pour former des morceaux de 24 000 lettres
+
+00:05:45.000 --> 00:05:49.000
+eux-mêmes assemblés pour arriver à 72 000 lettres.
+
+00:05:49.000 --> 00:05:51.000
+A chaque étape, nous avons créé une grande quantité de ces morceaux
+
+00:05:51.000 --> 00:05:53.000
+de manière à pouvoir les séquencer
+
+00:05:53.000 --> 00:05:56.000
+car nous essayons de créer un processus extrêmement robuste --
+
+00:05:56.000 --> 00:05:59.000
+vous allez le constater dans une minute.
+
+00:05:59.000 --> 00:06:02.000
+Ce que nous recherchons c'est l'automatisation du processus.

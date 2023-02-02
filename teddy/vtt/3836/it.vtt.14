@@ -1,0 +1,44 @@
+WEBVTT
+
+00:06:57.341 --> 00:07:00.488
+Con più difensori, possiamo guardare
+a come si muove il giocatore
+
+00:07:00.488 --> 00:07:01.855
+e prevedere il tipo di tiro.
+
+00:07:01.879 --> 00:07:05.953
+Possiamo guardare alle loro velocità
+e costruire un modello che prevede
+
+00:07:05.977 --> 00:07:10.029
+la probabilità che questo tiro vada dentro,
+date queste circostanze?
+
+00:07:10.188 --> 00:07:11.688
+E perché questo è importante?
+
+00:07:12.102 --> 00:07:14.905
+Possiamo prendere ciò che era il tirare,
+
+00:07:14.929 --> 00:07:17.609
+che prima era una cosa sola,
+e separarla in due:
+
+00:07:17.633 --> 00:07:20.284
+la qualità del tiro
+e la qualità del tiratore.
+
+00:07:21.680 --> 00:07:24.942
+Ecco un grafico a bolle: che TED sarebbe,
+senza un grafico a bolle?
+
+00:07:24.966 --> 00:07:25.980
+(Risate)
+
+00:07:26.004 --> 00:07:27.315
+Questi sono giocatori NBA.
+
+00:07:27.339 --> 00:07:30.419
+La dimensione è quella del giocatore 
+e il colore è la posizione.

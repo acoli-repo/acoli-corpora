@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:57.759 --> 00:07:01.396
+In the very first stage, it takes
+the visual input and extracts edges
+
+00:07:01.420 --> 00:07:04.032
+and rods and dots.
+
+00:07:04.056 --> 00:07:07.093
+And the next one becomes
+more complicated edges
+
+00:07:07.117 --> 00:07:10.308
+and shapes like little half-moons.
+
+00:07:10.332 --> 00:07:14.775
+And eventually, it's able to build
+really complicated concepts.
+
+00:07:14.799 --> 00:07:16.847
+Andrew Ng has been able to show
+
+00:07:16.871 --> 00:07:20.351
+that it's able to find
+cat faces and dog faces
+
+00:07:20.375 --> 00:07:22.036
+in vast amounts of images.
+
+00:07:22.060 --> 00:07:24.784
+What my student team
+at Stanford has shown is that
+
+00:07:24.808 --> 00:07:30.881
+if you train it on 129,000 images
+of skin conditions,

@@ -1,0 +1,33 @@
+WEBVTT
+
+00:10:26.637 --> 00:10:31.420
+Dans le réseau neuronal classique
+que nous utilisons,
+
+00:10:31.420 --> 00:10:34.601
+il y a 24 millions de nœuds,
+
+00:10:34.601 --> 00:10:37.898
+140 millions de paramètres,
+
+00:10:37.898 --> 00:10:40.661
+et 15 milliards de connexions.
+
+00:10:40.661 --> 00:10:43.076
+C'est un modèle énorme.
+
+00:10:43.076 --> 00:10:46.977
+Avec la puissance des données d'ImageNet
+
+00:10:46.977 --> 00:10:52.410
+et les processeurs modernes
+pour traiter cet énorme modèle,
+
+00:10:52.410 --> 00:10:54.779
+le réseau de neurones à convolution
+
+00:10:54.779 --> 00:10:58.215
+s'est transformé de manière inattendue.
+
+00:10:58.215 --> 00:11:00.723
+Il est devenu l'architecture idéale

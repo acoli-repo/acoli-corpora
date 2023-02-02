@@ -1,0 +1,43 @@
+WEBVTT
+
+00:14:27.653 --> 00:14:31.183
+ako želimo kontroliranu detonaciju.
+
+00:14:31.183 --> 00:14:33.801
+Vrijednosti UI moraju odgovarati našima,
+
+00:14:33.801 --> 00:14:35.561
+ne samo u poznatim kontekstima
+
+00:14:35.561 --> 00:14:37.999
+u kojima lako provjerimo
+kako se UI ponaša,
+
+00:14:37.999 --> 00:14:41.233
+nego i u novim kontekstima s
+kojima bi se UI mogla susresti
+
+00:14:41.233 --> 00:14:42.790
+u neodređenoj budućnosti.
+
+00:14:42.790 --> 00:14:47.527
+Postoje i neka ezoterična pitanja
+koja bi se morala riješiti:
+
+00:14:47.527 --> 00:14:49.616
+točni detalji teorije odlučivanja,
+
+00:14:49.616 --> 00:14:52.480
+kako se nositi s logičkom
+nesigurnosti i tako dalje.
+
+00:14:53.330 --> 00:14:56.432
+Tehnički problemi koji se moraju
+riješiti kako bi ovo uspjelo
+
+00:14:56.432 --> 00:14:57.545
+poprilično su veliki --
+
+00:14:57.545 --> 00:15:00.925
+ne toliko veliki kao stvaranje
+superinteligentne UI,

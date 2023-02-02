@@ -1,0 +1,39 @@
+WEBVTT
+
+00:09:28.389 --> 00:09:33.172
+Here is some text that I generated
+using a deep learning algorithm yesterday.
+
+00:09:33.172 --> 00:09:37.096
+And here is some text that an algorithm
+out of Stanford generated.
+
+00:09:37.096 --> 00:09:38.860
+Each of these sentences was generated
+
+00:09:38.860 --> 00:09:43.109
+by a deep learning algorithm
+to describe each of those pictures.
+
+00:09:43.109 --> 00:09:47.581
+This algorithm before has never seen
+a man in a black shirt playing a guitar.
+
+00:09:47.581 --> 00:09:49.801
+It's seen a man before,
+it's seen black before,
+
+00:09:49.801 --> 00:09:51.400
+it's seen a guitar before,
+
+00:09:51.400 --> 00:09:55.694
+but it has independently generated
+this novel description of this picture.
+
+00:09:55.694 --> 00:09:59.196
+We're still not quite at human
+performance here, but we're close.
+
+00:09:59.196 --> 00:10:03.264
+In tests, humans prefer
+the computer-generated caption

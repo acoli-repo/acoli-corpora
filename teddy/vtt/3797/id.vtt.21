@@ -1,0 +1,41 @@
+WEBVTT
+
+00:10:28.344 --> 00:10:31.061
+ada penundaan waktu rekam
+antara setiap baris rekaman,
+
+00:10:31.061 --> 00:10:34.218
+yang akan menimbulkan
+sedikit kesalahan gambar
+
+00:10:34.218 --> 00:10:37.701
+yang akan terekam pada setiap frame video.
+
+00:10:37.701 --> 00:10:41.507
+Kami menemukan bahwa,
+dengan menganalisa kesalahan gambar ini,
+
+00:10:41.507 --> 00:10:46.122
+kami bisa mendapatkan kembali suaranya,
+dengan memodifikasi algoritmanya.
+
+00:10:46.122 --> 00:10:48.034
+Dan inilah percobaan yang kami lakukan.
+
+00:10:48.034 --> 00:10:49.729
+Kami merekam sekantung permen
+
+00:10:49.729 --> 00:10:51.470
+di samping sebuah speaker
+
+00:10:51.470 --> 00:10:54.442
+yang memainkan musik yang sama,
+"Mary had a Little Lamb."
+
+00:10:54.442 --> 00:10:58.645
+Tapi kali ini, kami memakai kamera biasa
+yang bisa dibeli di toko.
+
+00:10:58.645 --> 00:11:01.819
+Sebentar lagi saya akan memutar
+suara yang kami dapatkan,

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+c'est évident, nous le voyons bien--
+
+00:12:01.000 --> 00:12:03.000
+Mais certains autres aspects
+
+00:12:03.000 --> 00:12:05.000
+de la structure de réseau social ne sont pas si évidents.
+
+00:12:05.000 --> 00:12:08.000
+Comparez l'ensemble B en haut à gauche à l'ensemble A en bas à gauche.
+
+00:12:08.000 --> 00:12:11.000
+Là, ces deux personnes ont toutes deux quatre amis,
+
+00:12:11.000 --> 00:12:13.000
+mais les amis de A se connaissent les uns les autres,
+
+00:12:13.000 --> 00:12:15.000
+et pas les amis de B.
+
+00:12:15.000 --> 00:12:17.000
+Ainsi, l'ami d'un ami de A,
+
+00:12:17.000 --> 00:12:19.000
+est de nouveau un ami de A,
+
+00:12:19.000 --> 00:12:21.000
+alors que l'ami d'un ami de B n'est pas un ami de B,
+
+00:12:21.000 --> 00:12:23.000
+il est plus loin dans le réseau.
+
+00:12:23.000 --> 00:12:26.000
+Ceci est connu comme la transitivité dans les réseaux.
+
+00:12:26.000 --> 00:12:28.000
+Et, enfin, comparez les ensembles C et D.
+
+00:12:28.000 --> 00:12:31.000
+C et D ont tous deux 6 amis.

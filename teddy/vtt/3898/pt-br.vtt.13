@@ -1,0 +1,39 @@
+WEBVTT
+
+00:06:28.160 --> 00:06:31.376
+Antes de entrar em alguns detalhes
+de soluções específicas,
+
+00:06:31.400 --> 00:06:34.310
+talvez estejam se perguntando
+como chegamos a esses números.
+
+00:06:35.040 --> 00:06:38.056
+Bem, antes de mais nada,
+coletamos muitos dados
+
+00:06:38.080 --> 00:06:41.496
+e usamos análise estatística
+para criar variações
+
+00:06:41.520 --> 00:06:44.496
+que nos permitem fazer escolhas razoáveis
+
+00:06:44.520 --> 00:06:47.380
+para cada entrada de dados
+utilizada em todos os modelos.
+
+00:06:48.160 --> 00:06:52.340
+E escolhemos uma abordagem conservadora,
+utilizada em todo o projeto.
+
+00:06:53.120 --> 00:06:55.136
+Todos os dados são inseridos nos modelos,
+
+00:06:55.160 --> 00:06:58.296
+ambiciosa mas plausivelmente
+projetados para o futuro
+
+00:06:58.320 --> 00:07:01.247
+e comparados com o que teríamos
+de fazer de qualquer forma.

@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:59.695 --> 00:06:03.299
+You see, there are a lot of factors
+that affect when and how well
+
+00:06:03.299 --> 00:06:05.296
+this technique will work.
+
+00:06:05.296 --> 00:06:08.500
+There's the object and how far away it is;
+
+00:06:08.500 --> 00:06:10.894
+there's the camera
+and the lens that you use;
+
+00:06:10.894 --> 00:06:14.985
+how much light is shining on the object
+and how loud your sound is.
+
+00:06:15.945 --> 00:06:19.320
+And even with the right algorithm,
+
+00:06:19.320 --> 00:06:22.710
+we had to be very careful
+with our early experiments,
+
+00:06:22.710 --> 00:06:25.102
+because if we got
+any of these factors wrong,
+
+00:06:25.102 --> 00:06:27.470
+there was no way to tell
+what the problem was.
+
+00:06:27.470 --> 00:06:30.117
+We would just get noise back.

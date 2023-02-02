@@ -1,0 +1,34 @@
+WEBVTT
+
+00:06:57.759 --> 00:07:01.396
+İlk aşamada, görsel girdiyi alır
+ve kenarları,
+
+00:07:01.420 --> 00:07:04.032
+çizgi ve noktaları çıkarır.
+
+00:07:04.056 --> 00:07:07.093
+Ve bir sonraki küçük yarımay gibi
+
+00:07:07.117 --> 00:07:10.308
+daha karmaşık kenarlar ve şekillerdir.
+
+00:07:10.332 --> 00:07:14.775
+Ve sonuç olarak çok karmaşık
+kavramlar inşa edebilir.
+
+00:07:15.059 --> 00:07:16.847
+Andrew Ng bunun
+
+00:07:16.871 --> 00:07:20.351
+çok büyük miktardaki resimlerden
+kedi ve köpek yüzlerini
+
+00:07:20.375 --> 00:07:22.036
+bulabildiğini gösterebildi.
+
+00:07:22.060 --> 00:07:24.424
+Stanford'daki öğrenci takımım,
+
+00:07:24.458 --> 00:07:30.881
+tümör ve ur içeren 129 bin resimle

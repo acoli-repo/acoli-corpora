@@ -1,0 +1,44 @@
+WEBVTT
+
+00:15:58.976 --> 00:16:01.448
+And at this point, we
+can start to quite quickly
+
+00:16:01.448 --> 00:16:02.745
+grab whole big sections,
+
+00:16:02.745 --> 00:16:05.664
+check through them to make sure
+that there's no mistakes.
+
+00:16:05.664 --> 00:16:09.616
+Where there are mistakes, we can
+let the computer know about them.
+
+00:16:09.616 --> 00:16:12.661
+And using this kind of process
+for each of the different groups,
+
+00:16:12.661 --> 00:16:15.148
+we are now up to
+an 80 percent success rate
+
+00:16:15.148 --> 00:16:17.563
+in classifying the 1.5 million images.
+
+00:16:17.563 --> 00:16:19.641
+And at this point, it's just a case
+
+00:16:19.641 --> 00:16:23.220
+of finding the small number
+that aren't classified correctly,
+
+00:16:23.220 --> 00:16:26.108
+and trying to understand why.
+
+00:16:26.108 --> 00:16:27.851
+And using that approach,
+
+00:16:27.851 --> 00:16:31.972
+by 15 minutes we get
+to 97 percent classification rates.

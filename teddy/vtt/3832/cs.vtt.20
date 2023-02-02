@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:58.983 --> 00:10:04.602
+Stejně jako se mozek skládá z miliard
+vzájemně propojených neuronů,
+
+00:10:04.602 --> 00:10:08.456
+základní operační jednotkou 
+v neuronové síti
+
+00:10:08.456 --> 00:10:10.871
+je uzel podobný neuronu.
+
+00:10:10.871 --> 00:10:13.425
+Vstup si vezme od jiných uzlů
+
+00:10:13.425 --> 00:10:16.143
+a pošle výstup dalším.
+
+00:10:16.143 --> 00:10:20.856
+Navíc tyto stovky tisíc či dokonce
+miliony uzlů
+
+00:10:20.856 --> 00:10:24.083
+jsou organizovány v hierarchistických 
+vrstvách,
+
+00:10:24.083 --> 00:10:26.637
+podobně jako v mozku.
+
+00:10:26.637 --> 00:10:29.291
+V klasické neuronové síti, kterou
+používáme,
+
+00:10:29.291 --> 00:10:31.945
+abychom naučili náš model
+rozpoznávání objektů

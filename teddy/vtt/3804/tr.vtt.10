@@ -1,0 +1,41 @@
+WEBVTT
+
+00:04:58.614 --> 00:05:00.558
+Üzerinde çalıştığımız proje;
+
+00:05:00.558 --> 00:05:02.860
+"Dayanıklılık Projesi.
+
+00:05:02.860 --> 00:05:04.420
+Beklenmedik Kahramanlar Arayışı,
+
+00:05:04.420 --> 00:05:06.910
+çünkü yapmak istediğimiz şey şu,
+
+00:05:06.910 --> 00:05:09.558
+gizli koruyucu faktörlere sahip olabilecek
+
+00:05:09.558 --> 00:05:13.493
+nadir bireyleri bulabilir miyiz?
+
+00:05:13.493 --> 00:05:15.723
+Bazı açılardan
+bunu bir kod çözücü halkası,
+
+00:05:15.723 --> 00:05:18.789
+inşa etmeye çalışacağımız bir çeşit 
+esneklik kod çözücü halkası,
+
+00:05:18.789 --> 00:05:20.421
+olarak düşünün.
+
+00:05:20.421 --> 00:05:24.270
+Bunu sistematik bir şekilde
+yapmamız gerektiğini fark ettik.
+
+00:05:26.377 --> 00:05:28.610
+Her bir kalıtsal çocukluk 
+hastalığını alalım.
+
+00:05:28.610 --> 00:05:30.704
+Hepsini alalım ve şiddetli semptomları

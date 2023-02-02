@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:28.415 --> 00:07:32.592
+Alice besitzt als einzige
+diesen Schlüssel.
+
+00:07:32.616 --> 00:07:35.260
+Damit haben wir nun das Ziel erreicht,
+
+00:07:35.284 --> 00:07:37.299
+die Nachricht von Alice
+zu Bob zu schicken,
+
+00:07:37.324 --> 00:07:40.346
+ohne dass der Server in der Lage war
+zu erfahren, was drinsteht.
+
+00:07:40.371 --> 00:07:43.189
+Ich habe Ihnen ein stark
+vereinfachtes Bild gezeigt.
+
+00:07:43.214 --> 00:07:45.195
+Die Realität gestaltet sich komplexer
+
+00:07:45.220 --> 00:07:48.795
+und verlangt eine Menge Software,
+die in etwa so aussieht.
+
+00:07:48.819 --> 00:07:51.962
+Das ist eigentlich die wesentliche
+Herausforderung beim Design:
+
+00:07:51.986 --> 00:07:54.756
+Wie nehmen wir all die Komplexität,
+all diese Software,
+
+00:07:54.780 --> 00:07:58.874
+und implementieren sie auf eine Weise,
+dass der Nutzer das nicht mitbekommt.
+
+00:07:58.898 --> 00:08:02.472
+Ich glaube mit ProtonMail sind wir
+dem Ganzen recht nah gekommen.

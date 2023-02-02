@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:28.352 --> 00:06:31.891
+Convertirse en un buen dermatólogo
+toma más de una década de capacitación.
+
+00:06:31.891 --> 00:06:34.911
+Lo que ven aquí es la versión
+de aprendizaje de máquina.
+
+00:06:34.911 --> 00:06:36.476
+Se le llama una red neuronal.
+
+00:06:36.476 --> 00:06:38.426
+Redes neuronales es el término técnico
+
+00:06:38.426 --> 00:06:40.872
+para estos algoritmos 
+de aprendizaje de máquina.
+
+00:06:40.872 --> 00:06:42.545
+Han existido desde los años 80.
+
+00:06:42.545 --> 00:06:47.219
+Este fue inventado en 1988
+por Yann LeCun, un Facebook Fellow,
+
+00:06:47.219 --> 00:06:50.781
+y procesa los datos en etapas
+
+00:06:50.781 --> 00:06:53.419
+como lo hace el cerebro humano.
+
+00:06:53.419 --> 00:06:56.373
+No es exactamente lo mismo,
+pero lo emula.
+
+00:06:56.373 --> 00:06:57.719
+Va etapa por etapa.
+
+00:06:57.719 --> 00:07:01.380
+En la primera etapa toma la entrada 
+visual y extrae los bordes

@@ -1,0 +1,39 @@
+WEBVTT
+
+00:07:28.210 --> 00:07:31.224
+Ils sont passés du choix aléatoire,
+
+00:07:31.248 --> 00:07:34.154
+au principe du premier entré,
+premier sorti,
+
+00:07:34.154 --> 00:07:38.093
+qui signifie enlever les données
+les plus anciennes de la mémoire.
+
+00:07:38.093 --> 00:07:40.804
+Mais la stratégie
+qui s'avère la plus efficace
+
+00:07:40.828 --> 00:07:44.057
+se concentre sur les données
+qui ont été les moins utilisées.
+
+00:07:44.972 --> 00:07:48.323
+Donc, si vous devez choisir des données
+pour les effacer du processeur,
+
+00:07:48.323 --> 00:07:53.155
+vous devez supprimer celles qui
+n'ont plus été utilisées depuis longtemps.
+
+00:07:53.179 --> 00:07:55.338
+Il y a une logique sous-jacente.
+
+00:07:55.362 --> 00:07:58.960
+S'il y a longtemps que vous n'avez
+plus utilisé une information,
+
+00:07:58.984 --> 00:08:02.361
+il est probable que vous n'aurez pas
+besoin d'y accéder avant longtemps.

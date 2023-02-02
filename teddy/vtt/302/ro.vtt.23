@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:27.000 --> 00:11:30.000
+trebuie să disecăm structura reţelei puţin înainte.
+
+00:11:30.000 --> 00:11:32.000
+Observați că fiecare persoană în această rețea,
+
+00:11:32.000 --> 00:11:35.000
+are exact același loc structural ca orice altă persoană.
+
+00:11:35.000 --> 00:11:38.000
+Dar acesta nu este cazul cu rețele adevărate.
+
+00:11:38.000 --> 00:11:40.000
+Deci, spre exemplu, aici este o rețea de studenți
+
+00:11:40.000 --> 00:11:43.000
+ai unei universități de elită din nord-est.
+
+00:11:43.000 --> 00:11:45.000
+Și acum o să scot în evidență câteva puncte
+
+00:11:45.000 --> 00:11:47.000
+și dacă te uiți aici la puncte,
+
+00:11:47.000 --> 00:11:49.000
+compară nodul B din stânga sus
+
+00:11:49.000 --> 00:11:51.000
+cu nodul D din dreapta departe.
+
+00:11:51.000 --> 00:11:53.000
+B are patru prieteni conectaţi la el.
+
+00:11:53.000 --> 00:11:56.000
+Şi D are şase prieteni care sunt conectaţi la el.
+
+00:11:56.000 --> 00:11:59.000
+Şi asa, aceşti doi indivizi au un număr diferit de prieteni.
+
+00:11:59.000 --> 00:12:01.000
+Şi asta este foarte evident, cu toţii ştim asta.

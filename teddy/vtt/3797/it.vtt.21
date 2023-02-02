@@ -1,0 +1,42 @@
+WEBVTT
+
+00:10:28.344 --> 00:10:31.061
+c'è un leggero ritardo
+tra una riga e l'altra,
+
+00:10:31.061 --> 00:10:34.218
+questo fa sì che piccoli artefatti
+
+00:10:34.218 --> 00:10:37.701
+vengano codificati
+in ciascun frame di un video.
+
+00:10:37.701 --> 00:10:41.507
+Analizzando questi artefatti,
+riusciamo a recuperare suoni
+
+00:10:41.507 --> 00:10:46.122
+usando una versione modificata
+del nostro algoritmo.
+
+00:10:46.122 --> 00:10:48.034
+In questo esperimento
+
+00:10:48.034 --> 00:10:49.729
+abbiamo filmato
+un pacco di caramelle
+
+00:10:49.729 --> 00:10:51.470
+mentre da un altoparlante vicino
+
+00:10:51.470 --> 00:10:54.442
+arrivava la musica di prima
+"Mary aveva un agnellino",
+
+00:10:54.442 --> 00:10:58.645
+ma questa volta abbiamo usato
+una normale telecamera commerciale
+
+00:10:58.645 --> 00:11:01.819
+e in un attimo riprodurrò per voi
+il suono che abbiamo recuperato.

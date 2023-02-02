@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:26.848 --> 00:06:30.008
+Wat is de juiste manier om
+zoiets te doen?
+
+00:06:30.018 --> 00:06:34.172
+Waarschijnlijk moeten we dan niet
+de sleutels in de server bewaren.
+
+00:06:34.172 --> 00:06:38.070
+We genereren encryptie-sleutels
+op je computer,
+
+00:06:38.070 --> 00:06:41.858
+en we maken niet een enkele,
+maar twee sleutels.
+
+00:06:41.858 --> 00:06:45.563
+Je hebt een RSA-privésleutel
+en een openbare RSA-sleutel.
+
+00:06:45.563 --> 00:06:48.051
+Die twee zijn wiskundig
+aan elkaar verbonden.
+
+00:06:48.051 --> 00:06:50.156
+Laten we eens kijken hoe dat gaat,
+
+00:06:50.156 --> 00:06:52.787
+als meerdere mensen communiceren.
+
+00:06:52.787 --> 00:06:57.232
+Dit zijn Bob en Alice,
+die privé willen communiceren.
+
+00:06:57.232 --> 00:06:59.324
+De grootste uitdaging is
+
+00:06:59.324 --> 00:07:05.103
+om Bobs bericht bij Alice te krijgen
+zonder dat de server het kan lezen.

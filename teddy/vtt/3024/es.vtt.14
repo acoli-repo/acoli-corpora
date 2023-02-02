@@ -1,0 +1,33 @@
+WEBVTT
+
+00:06:57.840 --> 00:07:01.976
+después extiende una fina capa de regolito
+
+00:07:02.000 --> 00:07:05.416
+y luego el robot la compactará,
+
+00:07:05.440 --> 00:07:07.456
+capa por capa,
+
+00:07:07.480 --> 00:07:10.416
+hasta crear, en unos meses,
+
+00:07:10.440 --> 00:07:11.640
+la base completa.
+
+00:07:13.600 --> 00:07:15.176
+Puede que hayan notado
+
+00:07:15.200 --> 00:07:19.416
+que la estructura que estamos imprimiendo
+es bastante particular,
+
+00:07:19.440 --> 00:07:22.200
+y aquí tengo un pequeño ejemplo.
+
+00:07:23.280 --> 00:07:28.616
+La denominamos estructura 
+de espuma de celda cerrada.
+
+00:07:28.640 --> 00:07:30.816
+Parece bastante natural.

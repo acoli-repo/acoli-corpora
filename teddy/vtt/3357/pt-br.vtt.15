@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:24.808 --> 00:07:30.421
+se a treinarmos em 129 mil imagens
+de condições da pele,
+
+00:07:30.785 --> 00:07:33.470
+incluindo melanona e carcinomas,
+
+00:07:33.494 --> 00:07:36.795
+é possível fazer um trabalho tão bom
+
+00:07:36.819 --> 00:07:39.016
+quanto os melhores dermatologistas.
+
+00:07:39.040 --> 00:07:41.589
+E, para nos convencer disso,
+
+00:07:41.613 --> 00:07:44.457
+usamos um conjunto de dados independentes,
+
+00:07:44.457 --> 00:07:49.969
+que apresentamos à nossa rede e
+a 25 dermatologistas no nível de Stanford
+
+00:07:49.993 --> 00:07:51.665
+e comparamos.
+
+00:07:51.689 --> 00:07:53.193
+E, na maioria dos casos,
+
+00:07:53.217 --> 00:07:58.092
+sua precisão foi igual ou melhor
+do que a dos dermatologistas humanos.
+
+00:07:58.407 --> 00:08:00.353
+CA: Você estava me contando um caso

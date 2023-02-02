@@ -1,0 +1,40 @@
+WEBVTT
+
+00:14:59.511 --> 00:15:03.395
+Ici, même après avoir laissé l'ordinateur
+pivoter pendant un moment,
+
+00:15:03.399 --> 00:15:06.744
+les photos de voitures vues de droite
+et celles vues de gauche sont
+
+00:15:06.744 --> 00:15:08.220
+encore toutes mêlées.
+
+00:15:08.220 --> 00:15:10.362
+Nous lui donnons de nouveau
+des indications,
+
+00:15:10.362 --> 00:15:13.338
+puis lui disons de chercher
+une projection qui fait le tri
+
+00:15:13.338 --> 00:15:15.945
+entre les photos de droite et de gauche -
+
+00:15:15.945 --> 00:15:18.067
+avec l'algorithme d'apprentissage profond.
+
+00:15:18.067 --> 00:15:21.009
+Avec ces indications, nous avons réussi.
+
+00:15:21.009 --> 00:15:26.281
+Il a trouvé une manière de considérer
+ces objets qui en permet le tri.
+
+00:15:26.281 --> 00:15:28.709
+Vous avez saisi l'idée.
+
+00:15:28.709 --> 00:15:36.906
+Nous ne somme pas ici dans une
+substitution de l'homme par la machine,

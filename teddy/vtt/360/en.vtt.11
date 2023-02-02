@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:29.000 --> 00:05:32.000
+They contain a molecule know as a neurotransmitter.
+
+00:05:32.000 --> 00:05:34.000
+And so when the green neuron wants to communicate,
+
+00:05:34.000 --> 00:05:36.000
+it wants to send a message to the red neuron,
+
+00:05:36.000 --> 00:05:39.000
+it spits out neurotransmitter.
+
+00:05:39.000 --> 00:05:41.000
+At the synapse, the two neurons
+
+00:05:41.000 --> 00:05:43.000
+are said to be connected
+
+00:05:43.000 --> 00:05:46.000
+like two friends talking on the telephone.
+
+00:05:47.000 --> 00:05:49.000
+So you see how to find a synapse.
+
+00:05:49.000 --> 00:05:52.000
+How can we find an entire connectome?
+
+00:05:52.000 --> 00:05:55.000
+Well, we take this three-dimensional stack of images
+
+00:05:55.000 --> 00:05:58.000
+and treat it as a gigantic three-dimensional coloring book.
+
+00:05:58.000 --> 00:06:01.000
+We color every neuron in, in a different color,

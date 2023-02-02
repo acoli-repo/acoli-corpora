@@ -1,0 +1,32 @@
+WEBVTT
+
+00:06:30.018 --> 00:06:34.172
+Vâng, có lẽ ý kiến hay là 
+không để chìa khóa ở máy chủ.
+
+00:06:34.172 --> 00:06:38.070
+Bởi vậy chúng tôi tạo một chìa khóa mã hóa trên máy tính của bạn,
+
+00:06:38.070 --> 00:06:41.858
+chúng tôi không tạo ra một chìa khóa 
+duy nhất mà là một cặp
+
+00:06:41.858 --> 00:06:45.563
+vì thế có một chìa khóa RSA riêng 
+và một chìa RSA công cộng,
+
+00:06:45.563 --> 00:06:48.191
+và những chìa này kết nối với nhau 
+theo cách toán học.
+
+00:06:48.191 --> 00:06:50.396
+Hãy xem nó làm việc như thế nào
+
+00:06:50.396 --> 00:06:52.787
+khi nhiều người cùng trao đổi với nhau.
+
+00:06:52.787 --> 00:06:57.232
+Đây là Bob và Alice, họ muốn nói chuyện riêng với nhau.
+
+00:06:57.232 --> 00:07:00.794
+Khó khăn then chốt là lấy mẫu tin của Bob

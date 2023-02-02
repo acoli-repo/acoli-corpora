@@ -1,0 +1,33 @@
+WEBVTT
+
+00:13:28.337 --> 00:13:31.547
+Ez a fogas kérdés megkerülhetetlen.
+
+00:13:32.557 --> 00:13:36.391
+A kérdés megoldhatóságát illetően 
+eléggé optimista vagyok.
+
+00:13:36.391 --> 00:13:40.294
+Írhatnánk egy hosszú listát mindarról, 
+amit fontosnak tartunk,
+
+00:13:40.294 --> 00:13:43.937
+vagy ami még rosszabb: 
+valamilyen programnyelven írnánk meg,
+
+00:13:43.937 --> 00:13:45.391
+pl. C++-ban vagy Pythonban,
+
+00:13:45.391 --> 00:13:48.158
+ami reménytelen feladat lenne.
+
+00:13:48.158 --> 00:13:52.455
+Ehelyett egy olyan MI-t csinálhatnánk, 
+amely értelmét arra használja,
+
+00:13:52.455 --> 00:13:55.226
+hogy megtanulja, mik az értékeink,
+
+00:13:55.226 --> 00:14:00.506
+s az MI ösztönzőrendszerét
+a mi értékeink követésére,

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:07:27.901 --> 00:07:32.616
+och det är bara Alice som har den nyckeln.
+
+00:07:32.616 --> 00:07:34.924
+Nu har vi uppnått målet,
+
+00:07:34.924 --> 00:07:37.451
+vilket var att få 
+meddelandet från Bob till Alice
+
+00:07:37.451 --> 00:07:40.143
+utan att servern skulle kunna läsa det.
+
+00:07:40.143 --> 00:07:42.740
+Det jag har visat här är
+en högst förenklad bild.
+
+00:07:42.740 --> 00:07:44.945
+Verkligheten är mycket mer komplex
+
+00:07:44.945 --> 00:07:48.609
+och kräver en hel del mjukvara
+som ser ut lite så här.
+
+00:07:48.609 --> 00:07:51.119
+Och det är den största designutmaningen:
+
+00:07:51.119 --> 00:07:54.780
+Hur tar vi all denna komplexitet,
+all denna mjukvara,
+
+00:07:54.780 --> 00:07:58.898
+och implementerar den 
+så att användaren inte ser det.
+
+00:07:58.898 --> 00:08:02.226
+Med ProtonMail tror jag att
+vi har kommit rätt nära att lyckas.

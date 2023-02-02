@@ -1,0 +1,44 @@
+WEBVTT
+
+00:07:57.244 --> 00:08:00.017
+Quindi sappiamo dov'è l'auto al momento
+
+00:08:00.017 --> 00:08:03.660
+ma dobbiamo fare di meglio:
+dobbiamo predire cosa succederà.
+
+00:08:03.660 --> 00:08:07.338
+Qui, il furgoncino in alto a destra
+sta per cambiare corsia verso sinistra
+
+00:08:07.338 --> 00:08:09.441
+perché la strada di fronte è chiusa,
+
+00:08:09.441 --> 00:08:10.562
+quindi deve spostarsi.
+
+00:08:10.562 --> 00:08:12.615
+Sapere cosa fa il furgoncino è grandioso,
+
+00:08:12.615 --> 00:08:15.634
+ma dobbiamo prevedere anche 
+quello che tutti gli altri pensano.
+
+00:08:15.634 --> 00:08:17.931
+il che diventa abbastanza complicato.
+
+00:08:17.931 --> 00:08:22.890
+Ciò considerato, possiamo capire 
+come l'auto dovrebbe reagire sul momento,
+
+00:08:22.890 --> 00:08:26.756
+quale traiettoria dovrebbe seguire, 
+quanto velocemente rallentare o accelerare.
+
+00:08:26.756 --> 00:08:29.821
+e quindi, banalmente, 
+seguire un percorso:
+
+00:08:29.821 --> 00:08:33.018
+girare lo sterzo a sinistra o destra,
+frenare o accelerare.

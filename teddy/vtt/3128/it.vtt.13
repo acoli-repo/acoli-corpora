@@ -1,0 +1,33 @@
+WEBVTT
+
+00:06:30.450 --> 00:06:32.315
+Innanzi tutto, le chiavi.
+
+00:06:33.006 --> 00:06:37.236
+Numeri casuali sono la base dei blocchi
+di dati delle chiavi di crittografia.
+
+00:06:37.260 --> 00:06:39.839
+Ma oggi, non sono del tutto casuali.
+
+00:06:40.641 --> 00:06:43.379
+Attualmente ricaviamo
+chiavi di crittografia
+
+00:06:43.403 --> 00:06:47.212
+da sequenze di numeri casuali
+generate da software,
+
+00:06:47.236 --> 00:06:49.799
+cosiddetti numeri pseudo-casuali.
+
+00:06:50.712 --> 00:06:54.029
+Numeri generati da un programma
+o da una sequenza matematica
+
+00:06:54.053 --> 00:06:57.814
+avranno alcuni, forse sottostanti,
+campionamenti.
+
+00:06:58.784 --> 00:07:00.336
+Meno casuali sono i numeri,

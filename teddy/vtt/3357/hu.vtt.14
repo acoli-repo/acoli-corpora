@@ -1,0 +1,35 @@
+WEBVTT
+
+00:06:57.519 --> 00:07:01.136
+Az elsőben megkapja a képi bemenőjelet,
+és kiválasztja a kontúrokat,
+
+00:07:01.136 --> 00:07:03.580
+vonalakat és pontokat.
+
+00:07:04.030 --> 00:07:07.093
+A következőben a bonyolultabb kontúrokat
+
+00:07:07.117 --> 00:07:09.835
+és alakokat, pl. félholdakat.
+
+00:07:10.195 --> 00:07:14.775
+Végül képes egészen
+bonyolult fogalmakat alkotni.
+
+00:07:14.799 --> 00:07:16.847
+Andrew Ng ki tudta mutatni,
+
+00:07:16.871 --> 00:07:20.351
+hogy a rendszer rengeteg képből
+ki tudja választani
+
+00:07:20.375 --> 00:07:22.036
+macskák és kutyák pofáját.
+
+00:07:22.060 --> 00:07:24.648
+Stanfordi diákcsoportom kimutatta,
+
+00:07:24.678 --> 00:07:30.881
+hogy ha 129 000, bőrbetegséget
+ábrázoló fotón tanul,

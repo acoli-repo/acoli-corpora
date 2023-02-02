@@ -1,0 +1,29 @@
+WEBVTT
+
+00:10:26.637 --> 00:10:31.420
+Într-o rețea neuronală tipică folosită la
+antrenarea recunoașterii obiectelor
+
+00:10:31.420 --> 00:10:37.101
+sunt 24 de milioane de noduri,
+140 de milioane de parametri
+
+00:10:37.268 --> 00:10:40.321
+și 15 miliarde de conexiuni.
+
+00:10:40.371 --> 00:10:42.836
+E un model enorm.
+
+00:10:42.956 --> 00:10:46.977
+Alimentată de datele masive din ImageNet
+
+00:10:46.977 --> 00:10:52.410
+și de unitățile moderne de procesare 
+pentru a antrena un asemenea model imens,
+
+00:10:52.410 --> 00:10:57.409
+rețeaua neuronală convolutivă a înflorit
+într-un mod neașteptat.
+
+00:10:58.215 --> 00:11:00.723
+A devenit arhitectura câștigătoare

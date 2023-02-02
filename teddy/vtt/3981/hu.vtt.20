@@ -1,0 +1,38 @@
+WEBVTT
+
+00:09:58.829 --> 00:10:01.753
+hogy a szavak melyik 
+szemantikai csoportba tartoznak,
+
+00:10:01.774 --> 00:10:04.374
+hanem, hogy milyen gyorsan ugrottak
+
+00:10:04.398 --> 00:10:07.029
+az egyik szemantikai csoportról a másikra.
+
+00:10:07.067 --> 00:10:08.842
+Kitaláltunk egy mértékegységet,
+
+00:10:08.842 --> 00:10:11.881
+ezt szemantikai koherenciának neveztük el.
+
+00:10:11.881 --> 00:10:14.749
+Ez méri, hogy a beszéd 
+mennyire következetes,
+
+00:10:14.749 --> 00:10:18.332
+illetve mennyire ugrál 
+a témák és kategóriák között.
+
+00:10:19.294 --> 00:10:22.701
+Kiderült, hogy a 34 fős csoportnál
+
+00:10:23.265 --> 00:10:26.134
+a szemantikai koherencián
+alapuló algoritmus
+
+00:10:26.168 --> 00:10:28.938
+100%-os pontossággal meg tudta jósolni,
+
+00:10:29.572 --> 00:10:32.079
+kinél alakult ki elmebaj, és kinél nem.

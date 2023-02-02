@@ -1,0 +1,34 @@
+WEBVTT
+
+00:06:30.018 --> 00:06:34.172
+Tidak meletakkan kunci di server
+mungkin adalah ide yang baik.
+
+00:06:34.172 --> 00:06:38.070
+Yang kami lakukan adalah menaruh
+kunci enkripsi di komputer Anda,
+
+00:06:38.070 --> 00:06:41.858
+dan kami tidak buat satu kunci,
+tapi sepasang kunci,
+
+00:06:41.858 --> 00:06:45.563
+jadi ada kunci privasi RSA
+dan kunci publik RSA,
+
+00:06:45.563 --> 00:06:48.191
+dan kunci ini terhubung secara matematis.
+
+00:06:48.191 --> 00:06:50.396
+Mari lihat bagaimana cara kerjanya
+
+00:06:50.396 --> 00:06:52.787
+saat beberapa orang berkomunikasi.
+
+00:06:52.787 --> 00:06:57.232
+Ada Bob dan Alice yang ingin
+berkomunikasi secara rahasia.
+
+00:06:57.232 --> 00:07:00.794
+Jadi tantangan utama adalah
+mengambil pesan Bob

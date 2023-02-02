@@ -1,0 +1,41 @@
+WEBVTT
+
+00:13:57.266 --> 00:14:02.292
+ou un radiologue montrant
+des nodules potentiellement inquiétants.
+
+00:14:02.292 --> 00:14:04.851
+Parfois, cela devient difficile
+pour l'algorithme.
+
+00:14:04.851 --> 00:14:06.815
+Ici, il s'est un peu emmêlé les pinceaux.
+
+00:14:06.815 --> 00:14:09.365
+L'avant et l'arrière des voitures
+sont mêlés.
+
+00:14:09.365 --> 00:14:11.437
+Nous devons faire
+un peu plus attention,
+
+00:14:11.437 --> 00:14:14.669
+et dissocier manuellement les avants
+des arrières,
+
+00:14:14.669 --> 00:14:21.525
+puis dire à l'ordinateur que
+cette classification nous importe.
+
+00:14:21.525 --> 00:14:24.200
+Nous continuons comme ça,
+et, un peu plus tard,
+
+00:14:24.200 --> 00:14:26.446
+nous allons former l'algorithme
+
+00:14:26.446 --> 00:14:28.420
+sur la base de ces classifications,
+
+00:14:28.420 --> 00:14:30.445
+et espérer qu'il s'est amélioré.

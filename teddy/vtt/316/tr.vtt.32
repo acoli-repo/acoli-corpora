@@ -1,0 +1,42 @@
+WEBVTT
+
+00:15:58.718 --> 00:16:00.985
+Gelinen noktada, oldukça kolay bir şekilde
+
+00:16:00.985 --> 00:16:03.234
+büyük bölümleri alıp hata olmadığına
+
+00:16:03.234 --> 00:16:05.246
+emin olmak için kontrol edebiliriz.
+
+00:16:05.246 --> 00:16:08.121
+Hata olan yerlerde ise
+bilgisayara bildirebiliriz.
+
+00:16:08.741 --> 00:16:12.128
+Her farklı grup için bu tür
+bir süreç kullanarak
+
+00:16:12.128 --> 00:16:14.683
+1.5 milyon görüntüyü sınıflandırmada
+
+00:16:14.683 --> 00:16:16.861
+%80 başarı yüzdesine çıktık.
+
+00:16:17.611 --> 00:16:19.620
+Bu noktada konu sadece
+
+00:16:19.620 --> 00:16:21.250
+doğru sınıflandırılmamış olan
+
+00:16:21.250 --> 00:16:23.038
+küçük numarayı bulmak ve
+
+00:16:23.038 --> 00:16:25.691
+sebebini anlamaya çalışmak üzerine.
+
+00:16:25.811 --> 00:16:28.922
+Bu yaklaşımı kullanarak; 15 dakikada
+
+00:16:28.922 --> 00:16:31.928
+%97' lik sınıflandırma oranına ulaştık.

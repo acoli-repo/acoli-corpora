@@ -1,0 +1,41 @@
+WEBVTT
+
+00:10:28.344 --> 00:10:31.061
+van egy kis időeltolódás 
+minden sor között,
+
+00:10:31.061 --> 00:10:34.218
+ez apró kis torzulásokat okoz,
+
+00:10:34.218 --> 00:10:37.701
+amik a videó minden képkockáján
+kódolásra kerülnek.
+
+00:10:37.701 --> 00:10:41.507
+Arra jöttünk rá, hogy ezeket 
+a torzulásokat elemezve
+
+00:10:41.507 --> 00:10:46.122
+képesek vagyunk visszanyerni a hangot,
+az algoritmusunk módosított verziójával.
+
+00:10:46.122 --> 00:10:48.034
+Tehát, itt az egyik kísérletünk,
+
+00:10:48.034 --> 00:10:49.729
+ahol egy zacskó cukrot filmeztünk,
+
+00:10:49.729 --> 00:10:51.470
+miközben egy közeli hangszóró
+
+00:10:51.470 --> 00:10:54.442
+ugyanazt a "Mary Had a Little Lamb" 
+zenét játszotta korábbról,
+
+00:10:54.442 --> 00:10:58.645
+de ezúttal, csak egy általános,
+boltban kapható kamerát használtunk,
+
+00:10:58.645 --> 00:11:01.819
+és máris lejátszom önöknek
+a hangot, amit visszanyertünk,

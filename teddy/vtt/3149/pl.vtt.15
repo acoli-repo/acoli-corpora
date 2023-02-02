@@ -1,0 +1,39 @@
+WEBVTT
+
+00:07:28.048 --> 00:07:31.224
+Próbowali wybierać na chybił trafił
+
+00:07:31.248 --> 00:07:34.154
+lub stosować zasadę
+"pierwsze weszło, pierwsze wyszło",
+
+00:07:34.178 --> 00:07:35.577
+czyli wyrzucenie tego,
+
+00:07:35.601 --> 00:07:37.777
+co w pamięci jest najdłużej.
+
+00:07:38.091 --> 00:07:40.804
+Ale najskuteczniejsza metoda
+
+00:07:40.828 --> 00:07:44.057
+skupia się na tym,
+co było najdawniej modyfikowane.
+
+00:07:44.972 --> 00:07:48.163
+Jeśli trzeba zdecydować,
+co usunąć z pamięci,
+
+00:07:48.187 --> 00:07:53.155
+należy wybrać to, co było modyfikowane
+najdalej w przeszłości.
+
+00:07:53.179 --> 00:07:55.338
+Jest w tym pewna logika.
+
+00:07:55.362 --> 00:07:58.960
+Jeśli minęło dużo czasu
+od kiedy korzystano z tej informacji,
+
+00:07:58.984 --> 00:08:00.746
+pewnie upłynie sporo czasu,

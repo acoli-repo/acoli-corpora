@@ -1,0 +1,44 @@
+WEBVTT
+
+00:15:58.976 --> 00:16:01.448
+A ce stade, nous pouvons
+commencer à prendre
+
+00:16:01.448 --> 00:16:02.745
+des parties entières,
+
+00:16:02.745 --> 00:16:05.664
+et vérifier rapidement
+qu'il n'y a pas d'erreurs.
+
+00:16:05.664 --> 00:16:09.616
+Quand il y a des erreurs, nous en
+informons l'ordinateur,
+
+00:16:09.616 --> 00:16:12.661
+et, en utilisant cette méthode
+pour tous les groupes,
+
+00:16:12.661 --> 00:16:15.148
+nous en arrivons à un
+taux de réussite de 80%
+
+00:16:15.148 --> 00:16:17.563
+dans la classification de ces images.
+
+00:16:17.563 --> 00:16:19.641
+A partir de là, il s'agit juste
+
+00:16:19.641 --> 00:16:23.220
+de trouver le petit nombre d'images
+mal classées,
+
+00:16:23.220 --> 00:16:26.108
+et à essayer de comprendre pourquoi.
+
+00:16:26.108 --> 00:16:27.851
+Avec cette approche,
+
+00:16:27.851 --> 00:16:31.972
+en 15 minutes, nous parvenons à un 
+taux de classification de 97%.

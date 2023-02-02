@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:27.901 --> 00:07:32.616
+and it turns out Alice is the only person
+that actually has this key.
+
+00:07:32.616 --> 00:07:35.284
+So we've now accomplished the objective,
+
+00:07:35.284 --> 00:07:37.451
+which is to get the message
+from Bob to Alice
+
+00:07:37.451 --> 00:07:40.143
+without the server being able
+to read what's going on.
+
+00:07:40.143 --> 00:07:43.100
+Actually, what I've shown here
+is a highly simplified picture.
+
+00:07:43.100 --> 00:07:45.105
+The reality is much more complex
+
+00:07:45.105 --> 00:07:48.819
+and it requires a lot of software
+that looks a bit like this.
+
+00:07:48.819 --> 00:07:51.259
+And that's actually
+the key design challenge:
+
+00:07:51.259 --> 00:07:54.780
+How do we take all this complexity,
+all this software,
+
+00:07:54.780 --> 00:07:58.898
+and implement it in a way
+that the user cannot see it.
+
+00:07:58.898 --> 00:08:02.496
+I think with ProtonMail,
+we have gotten pretty close to doing this.

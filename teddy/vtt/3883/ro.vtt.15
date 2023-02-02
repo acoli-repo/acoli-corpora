@@ -1,0 +1,40 @@
+WEBVTT
+
+00:07:28.501 --> 00:07:32.312
+și se pare că Alice este singura
+care deține această cheie.
+
+00:07:32.933 --> 00:07:35.284
+Și așa ne-am atins țelul,
+
+00:07:35.284 --> 00:07:37.451
+am trimis un mesaj de la Bob la Alice,
+
+00:07:37.451 --> 00:07:40.143
+fără ca serverul să poată citi informația.
+
+00:07:40.143 --> 00:07:43.100
+De fapt, ce v-am arătat aici este
+o versiune mult simplificată.
+
+00:07:43.100 --> 00:07:45.105
+În realitate, este mult mai complex.
+
+00:07:45.105 --> 00:07:48.749
+Necesită un software care arată cam așa.
+
+00:07:48.749 --> 00:07:51.259
+De fapt, principala problemă 
+a proiectării este:
+
+00:07:51.259 --> 00:07:54.780
+Cum să implementăm
+acest softwear atât de complex
+
+00:07:54.780 --> 00:07:58.518
+astfel încât utilizatorul
+să nu îl poată vedea.
+
+00:07:58.898 --> 00:08:02.496
+Cred că ProtonMail este destul
+de aproape de a reuși asta.

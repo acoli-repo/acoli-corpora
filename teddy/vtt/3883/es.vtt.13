@@ -1,0 +1,35 @@
+WEBVTT
+
+00:06:30.018 --> 00:06:34.172
+Bueno, quizá sea buena idea
+no poner las llaves en el servidor.
+
+00:06:34.172 --> 00:06:38.070
+Por eso generamos llaves de
+encripción en tu computadora,
+
+00:06:38.070 --> 00:06:41.858
+y no generamos una llave simple,
+sino en realidad un par de llaves,
+
+00:06:41.858 --> 00:06:45.563
+de modo que hay una llave privada RSA
+y una llave pública RSA,
+
+00:06:45.563 --> 00:06:48.191
+y estas llaves están
+conectadas matemáticamente.
+
+00:06:48.191 --> 00:06:50.396
+Veamos cómo funcionan
+
+00:06:50.396 --> 00:06:52.787
+cuando se comunican varias personas.
+
+00:06:52.787 --> 00:06:57.232
+Aquí tenemos a Bob y a Alice,
+que quieren comunicarse en privado.
+
+00:06:57.232 --> 00:07:00.794
+el desafío principal es
+tomar el mensaje de Bob

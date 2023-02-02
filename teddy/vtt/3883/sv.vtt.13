@@ -1,0 +1,34 @@
+WEBVTT
+
+00:06:30.018 --> 00:06:34.172
+Det är troligen en bra idé
+att inte lägga nycklarna på servern.
+
+00:06:34.172 --> 00:06:37.910
+Så vi skapar krypteringsnycklar
+på din dator,
+
+00:06:37.910 --> 00:06:41.478
+och vi skapar inte bara en
+utan ett nyckelpar,
+
+00:06:41.478 --> 00:06:45.563
+så att det finns en hemlig RSA-nyckel
+och en offentlig RSA-nyckel,
+
+00:06:45.563 --> 00:06:47.851
+och dessa nycklar är 
+matematiskt sammankopplade.
+
+00:06:47.851 --> 00:06:49.876
+Vi tar en titt på hur det funkar
+
+00:06:49.876 --> 00:06:51.935
+när flera människor kommunicerar.
+
+00:06:52.407 --> 00:06:57.232
+Här är Bob och Alice,
+de vill kommunicera privat.
+
+00:06:57.232 --> 00:07:00.794
+Utmaningen är att ta Bobs meddelande

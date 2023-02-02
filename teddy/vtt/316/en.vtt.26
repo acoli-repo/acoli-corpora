@@ -1,0 +1,42 @@
+WEBVTT
+
+00:12:57.269 --> 00:13:00.475
+and I want to create something
+that can split them into the angle
+
+00:13:00.475 --> 00:13:02.698
+of the photo that's being taken.
+
+00:13:02.698 --> 00:13:06.586
+So these images are entirely unlabeled,
+so I have to start from scratch.
+
+00:13:06.586 --> 00:13:08.451
+With our deep learning algorithm,
+
+00:13:08.451 --> 00:13:12.158
+it can automatically identify
+areas of structure in these images.
+
+00:13:12.158 --> 00:13:15.778
+So the nice thing is that the human
+and the computer can now work together.
+
+00:13:15.778 --> 00:13:17.956
+So the human, as you can see here,
+
+00:13:17.956 --> 00:13:20.631
+is telling the computer
+about areas of interest
+
+00:13:20.631 --> 00:13:25.281
+which it wants the computer then
+to try and use to improve its algorithm.
+
+00:13:25.281 --> 00:13:29.577
+Now, these deep learning systems actually
+are in 16,000-dimensional space,
+
+00:13:29.577 --> 00:13:33.009
+so you can see here the computer
+rotating this through that space,

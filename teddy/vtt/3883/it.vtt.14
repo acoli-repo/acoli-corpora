@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:57.232 --> 00:07:00.794
+La sfida è portare 
+il messaggio di Bob
+
+00:07:00.794 --> 00:07:05.103
+ad Alice, in modo che il server 
+non possa leggere il messaggio.
+
+00:07:05.103 --> 00:07:07.516
+Per farlo dobbiamo criptarlo
+
+00:07:07.516 --> 00:07:09.640
+prima che parta 
+dal computer di Bob,
+
+00:07:09.640 --> 00:07:14.141
+e un trucco è criptarlo usando 
+la chiave pubblica di Alice.
+
+00:07:14.141 --> 00:07:19.333
+Ora i dati criptati sono mandati 
+ad Alice tramite il server,
+
+00:07:19.333 --> 00:07:23.613
+e siccome il messaggio è stato criptato 
+usando la chiave pubblica di Alice,
+
+00:07:23.613 --> 00:07:27.901
+l'unica chiave che può decriptarlo 
+è la chiave privata di Alice,
+
+00:07:27.901 --> 00:07:32.616
+e Alice è l'unica persona 
+ad avere questa chiave.

@@ -1,0 +1,45 @@
+WEBVTT
+
+00:07:57.244 --> 00:08:00.017
+Then we know where the car
+is in the moment,
+
+00:08:00.017 --> 00:08:03.850
+but we have to do better than that:
+we have to predict what's going to happen.
+
+00:08:03.850 --> 00:08:07.338
+So here the pickup truck in top right
+is about to make a left lane change
+
+00:08:07.338 --> 00:08:09.561
+because the road in front of it is closed,
+
+00:08:09.561 --> 00:08:11.292
+so it needs to get out of the way.
+
+00:08:11.292 --> 00:08:13.155
+Knowing that one pickup truck is great,
+
+00:08:13.155 --> 00:08:15.634
+but we really need to know
+what everybody's thinking,
+
+00:08:15.634 --> 00:08:18.141
+so it becomes quite a complicated problem.
+
+00:08:18.141 --> 00:08:22.890
+And then given that, we can figure out
+how the car should respond in the moment,
+
+00:08:22.890 --> 00:08:26.756
+so what trajectory it should follow, how
+quickly it should slow down or speed up.
+
+00:08:26.756 --> 00:08:29.821
+And then that all turns into
+just following a path:
+
+00:08:29.821 --> 00:08:33.018
+turning the steering wheel left or right,
+pressing the brake or gas.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:57.101 --> 00:07:00.398
+Bij meerdere verdedigers
+kijken we naar hoe de speler beweegt
+
+00:07:00.422 --> 00:07:01.855
+en voorspellen het type schot.
+
+00:07:01.879 --> 00:07:05.693
+We kijken naar alle snelheden
+en bouwen dan een model dat voorspelt:
+
+00:07:05.707 --> 00:07:09.869
+wat is de kans dat dit schot erin gaat
+onder deze omstandigheden?
+
+00:07:10.188 --> 00:07:11.688
+Waarom is dit belangrijk?
+
+00:07:12.102 --> 00:07:14.905
+We breken zoiets als 'schieten',
+
+00:07:14.929 --> 00:07:17.609
+van één ding, in twee dingen:
+
+00:07:17.633 --> 00:07:20.284
+de kwaliteit van het schot
+en die van de schutter.
+
+00:07:21.680 --> 00:07:24.942
+Hier is een bellendiagram,
+want wat is TED zonder een bellendiagram?
+
+00:07:24.966 --> 00:07:25.980
+(Gelach)
+
+00:07:26.004 --> 00:07:27.315
+Dat zijn NBA-spelers.
+
+00:07:27.339 --> 00:07:30.459
+De maat is de lengte van de speler
+en de kleur is hun positie.

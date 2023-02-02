@@ -1,0 +1,31 @@
+WEBVTT
+
+00:09:58.968 --> 00:10:04.573
+Giống như não bộ, nó bao gồm hàng triệu
+những nơ ron kết nối chặt chẽ với nhau,
+
+00:10:04.573 --> 00:10:08.402
+một đơn vị cơ bản trong mạng lưới neron
+
+00:10:08.402 --> 00:10:10.656
+là những nút giống như neron
+
+00:10:10.656 --> 00:10:13.411
+Cần phải có dữ liệu đầu vào từ nút này
+
+00:10:13.411 --> 00:10:16.245
+và gửi dữ liệu đầu ra cho nút khác.
+
+00:10:16.245 --> 00:10:20.673
+Hơn nữa, hàng trăm ngàn 
+hoặc thậm chí hàng triệu nút
+
+00:10:20.673 --> 00:10:24.106
+được sắp xếp trong những lớp trật tự,
+
+00:10:24.106 --> 00:10:26.544
+cũng gần giống như não bộ.
+
+00:10:26.544 --> 00:10:31.402
+Trong mạng lưới điển hình chúng tôi dùng
+để huấn luyện những mẫu nhận diện vật thể

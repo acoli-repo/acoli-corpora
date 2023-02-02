@@ -1,0 +1,47 @@
+WEBVTT
+
+00:04:58.000 --> 00:05:00.000
+và chúng ta cứ tiếp tục làm như vậy
+
+00:05:00.000 --> 00:05:03.000
+lát này tới lát khác
+
+00:05:03.000 --> 00:05:05.000
+Và nếu ta tiếp tục trong toàn bộ khối này,
+
+00:05:05.000 --> 00:05:08.000
+ta có thể dựng lại được thành 
+một hình không gian ba chiều.
+
+00:05:08.000 --> 00:05:10.550
+của một phần nhỏ của một nhánh nơ ron
+
+00:05:10.550 --> 00:05:13.260
+Ta có thể làm tương tự 
+lên một nơ ron khác với màu xanh
+
+00:05:13.260 --> 00:05:15.480
+và thấy rằng nơron xanh chạm nơron đỏ
+
+00:05:15.480 --> 00:05:17.000
+tại 2 vị trí
+
+00:05:17.000 --> 00:05:19.000
+Và đó là cái ta gọi là khớp nối (synapse)
+
+00:05:19.000 --> 00:05:21.000
+GIờ thì phóng đại vào một khớp thần kinh,
+
+00:05:21.000 --> 00:05:24.000
+và hãy để ý tới phần bên trong 
+của nơ ron màu xanh
+
+00:05:24.000 --> 00:05:26.000
+Bạn sẽ thấy những vòng tròn nhỏ
+
+00:05:26.000 --> 00:05:29.000
+Chúng được gọi là những khoang rỗng
+
+00:05:29.000 --> 00:05:32.000
+Chúng chứa 1 phân tử gọi là 
+chất dẫn truyền thần kinh

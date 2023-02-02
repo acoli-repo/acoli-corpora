@@ -1,0 +1,34 @@
+WEBVTT
+
+00:10:29.291 --> 00:10:31.945
+abychom naučili náš model
+rozpoznávání objektů
+
+00:10:31.945 --> 00:10:34.601
+je 24 milionů uzlů,
+
+00:10:34.601 --> 00:10:37.898
+140 milionů parametrů
+
+00:10:37.898 --> 00:10:40.661
+a 15 miliard spojení.
+
+00:10:40.661 --> 00:10:43.076
+To je obrovský model.
+
+00:10:43.076 --> 00:10:46.977
+Poháněný ohromným množstvím dat
+z ImageNet
+
+00:10:46.977 --> 00:10:52.410
+a moderními CPU a GPU k trénování
+takto velkého modelu,
+
+00:10:52.410 --> 00:10:54.779
+konvoluční neuronová síť
+
+00:10:54.779 --> 00:10:58.215
+kvete tak, jak by nikdo nečekal.
+
+00:10:58.215 --> 00:11:00.723
+Stala se vítěznou architekturou

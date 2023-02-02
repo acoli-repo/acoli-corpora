@@ -1,0 +1,40 @@
+WEBVTT
+
+00:07:28.544 --> 00:07:31.168
+Pokušali su nešto
+kao što je izbor nečeg slučajnog
+
+00:07:31.228 --> 00:07:34.034
+ili primenu principa koji se
+zove „prvi ušao, prvi izašao“,
+
+00:07:34.038 --> 00:07:35.577
+što znači uklanjanje stavke
+
+00:07:35.601 --> 00:07:37.267
+koja je najduže bila u memoriji.
+
+00:07:38.091 --> 00:07:40.694
+Ali, strategija koja je najdelotvornija
+
+00:07:40.694 --> 00:07:44.057
+usredsređuje se na stavke
+koje su najmanje nedavno korišćene.
+
+00:07:44.972 --> 00:07:47.953
+Ovo znači da, ako odlučujete
+da uklonite nešto iz memorije,
+
+00:07:47.977 --> 00:07:53.155
+treba da uklonite stvar kojoj je poslednji
+put pristupano najdalje u prošlosti.
+
+00:07:53.179 --> 00:07:55.338
+A postoji određena vrsta logike u ovome.
+
+00:07:55.362 --> 00:07:58.960
+Ako je dosta prošlo od kad ste
+poslednji put pristupili tom podatku,
+
+00:07:58.984 --> 00:08:00.616
+verovatno će dosta vremena proteći

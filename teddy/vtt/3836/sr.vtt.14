@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:57.421 --> 00:07:00.398
+Za više odbrambenih igrača, možemo videti
+kako se igrač kreće
+
+00:07:00.422 --> 00:07:01.855
+i predvideti vrstu šuta.
+
+00:07:01.879 --> 00:07:05.953
+Možemo videti svačiju brzinu
+i možemo napraviti model koji predviđa
+
+00:07:05.977 --> 00:07:10.029
+koja je verovatnoća da će ovaj šut
+ući pod ovim okolnostima?
+
+00:07:10.188 --> 00:07:11.688
+Zašto je ovo važno?
+
+00:07:12.102 --> 00:07:14.905
+Možemo uzeti neki šut,
+
+00:07:14.929 --> 00:07:17.609
+ranije gledan kao celina, 
+i podeliti ga na dve stvari:
+
+00:07:17.633 --> 00:07:20.284
+kvalitet šuta i kvalitet igrača.
+
+00:07:21.680 --> 00:07:24.942
+I ovde imamo grafikon sa mehurićima, 
+jer šta bi bio TED bez toga?
+
+00:07:24.966 --> 00:07:25.980
+(Smeh)
+
+00:07:26.004 --> 00:07:27.315
+Ovo su NBA igrači.
+
+00:07:27.339 --> 00:07:30.459
+Veličina je veličina igrača
+a boja je njegova pozicija.

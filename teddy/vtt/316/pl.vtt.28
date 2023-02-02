@@ -1,0 +1,38 @@
+WEBVTT
+
+00:13:57.266 --> 00:14:02.292
+a radiolog wskazywałby 
+na potencjalnie uciążliwe guzki.
+
+00:14:02.292 --> 00:14:04.851
+Czasami może być to trudne dla algorytmu.
+
+00:14:04.851 --> 00:14:06.815
+W tym przypadku, algorytm się zgubił.
+
+00:14:06.815 --> 00:14:09.365
+Przednie i tylne części samochodów
+są wymieszane.
+
+00:14:09.365 --> 00:14:11.437
+Musimy być trochę ostrożniejsi
+
+00:14:11.437 --> 00:14:14.669
+i ręcznie zaznaczyć przednie części,
+
+00:14:14.669 --> 00:14:20.175
+wskazując potem komputerowi, 
+że o taką grupę chodzi.
+
+00:14:21.523 --> 00:14:24.030
+Robimy to przez jakiś czas, 
+tu coś pominiemy,
+
+00:14:24.030 --> 00:14:26.446
+teraz uczymy algorytm uczenia maszynowego
+
+00:14:26.446 --> 00:14:28.420
+na podstawie tych kilkuset rzeczy
+
+00:14:28.420 --> 00:14:30.445
+mając nadzieję, że się udoskonali.

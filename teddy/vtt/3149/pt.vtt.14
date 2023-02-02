@@ -1,0 +1,51 @@
+WEBVTT
+
+00:06:57.111 --> 00:07:00.685
+e o sistema de memória lenta, 
+que é muito maior.
+
+00:07:01.179 --> 00:07:04.079
+Para o computador funcionar
+da forma mais eficiente possível,
+
+00:07:04.083 --> 00:07:05.414
+queremos assegurar
+
+00:07:05.438 --> 00:07:07.320
+que as informações
+a que queremos aceder
+
+00:07:07.320 --> 00:07:09.027
+estão na memória rápida do sistema,
+
+00:07:09.045 --> 00:07:11.149
+para podermos aceder-lhes rapidamente.
+
+00:07:11.149 --> 00:07:13.384
+Sempre que acedemos
+a um pedaço de informação,
+
+00:07:13.402 --> 00:07:15.107
+ele é carregado na memória rápida
+
+00:07:15.147 --> 00:07:18.604
+e o computador tem de decidir
+qual o item que tem de retirar da memória,
+
+00:07:18.628 --> 00:07:20.826
+porque tem uma capacidade limitada.
+
+00:07:21.794 --> 00:07:22.945
+Com o passar dos anos,
+
+00:07:22.969 --> 00:07:25.548
+os informáticos tentaram
+algumas estratégias diferentes
+
+00:07:25.562 --> 00:07:27.854
+para decidir o que remover
+da memória rápida.
+
+00:07:27.908 --> 00:07:30.924
+Tentaram coisas como
+escolher aleatoriamente

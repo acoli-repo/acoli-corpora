@@ -1,0 +1,52 @@
+WEBVTT
+
+00:09:57.449 --> 00:10:01.210
+Nuestra manera de lograr esto es 
+intercambiando datos entre vehículos.
+
+00:10:01.210 --> 00:10:02.906
+El primer modelo, y más crudo,
+
+00:10:02.906 --> 00:10:05.339
+es cuando un vehículo 
+ve una zona de construcción,
+
+00:10:05.339 --> 00:10:07.831
+y le avisa a otro para que
+esté en el carril correcto
+
+00:10:07.831 --> 00:10:09.651
+y así evitar en parte la dificultad.
+
+00:10:09.651 --> 00:10:12.315
+Pero en realidad entendemos
+mucho más que eso.
+
+00:10:12.315 --> 00:10:15.324
+Podríamos tomar los datos de 
+los autos vistos en el tiempo,
+
+00:10:15.324 --> 00:10:17.700
+los cientos de miles 
+de peatones, ciclistas,
+
+00:10:17.700 --> 00:10:19.487
+y vehículos que hemos visto,
+
+00:10:19.487 --> 00:10:21.182
+entender su aspecto,
+
+00:10:21.182 --> 00:10:24.013
+y usar eso para inferir el aspecto
+de los otros vehículos
+
+00:10:24.013 --> 00:10:25.939
+y el de los otros peatones.
+
+00:10:25.939 --> 00:10:28.960
+Y luego, incluso más importante,
+podríamos extraer un modelo
+
+00:10:28.960 --> 00:10:31.190
+de cómo esperamos que 
+se muevan por el mundo.

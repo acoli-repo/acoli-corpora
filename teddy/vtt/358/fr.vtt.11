@@ -1,0 +1,32 @@
+WEBVTT
+
+00:05:29.754 --> 00:05:35.700
+Par exemple : imaginez que j'ai ici
+un champ grand, énorme, infini.
+
+00:05:35.700 --> 00:05:39.598
+Je veux le couvrir avec des pièces égales,
+sans laisser des trous.
+
+00:05:39.598 --> 00:05:42.075
+Je pourrais utiliser des carrés,
+pas vrai ?
+
+00:05:42.075 --> 00:05:46.353
+Ou bien des triangles. Pas des cercles,
+qui laissent des petits trous.
+
+00:05:46.353 --> 00:05:48.861
+Quelle est la meilleure pièce à utiliser ?
+
+00:05:48.861 --> 00:05:53.331
+Celle qui pour couvrir une surface donnée,
+a le bord le plus petit.
+
+00:05:53.331 --> 00:05:58.124
+Pappus d'Alexandrie, dans l'année 300,
+dit que c'était l'hexagone,
+
+00:05:58.124 --> 00:06:01.167
+comme font les abeilles.
+Mais il ne l'a pas démontré !

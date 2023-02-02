@@ -1,0 +1,34 @@
+WEBVTT
+
+00:10:26.637 --> 00:10:31.420
+Ein typisches Neuronales Netz, das
+unser Objekterkennungsmodell trainiert,
+
+00:10:31.420 --> 00:10:34.601
+besitzt 24 Millionen Knotenpunkte,
+
+00:10:34.601 --> 00:10:37.668
+140 Millionen Parameter
+
+00:10:37.668 --> 00:10:40.371
+und 15 Milliarden Verbindungen.
+
+00:10:40.371 --> 00:10:43.076
+Das ist ein riesiges Modell.
+
+00:10:43.076 --> 00:10:46.977
+Dank der immensen Datenmenge von ImageNet
+
+00:10:46.977 --> 00:10:52.410
+und der modernen CPUs und GPUs, auf denen
+wir dieses gigantische Modell trainieren,
+
+00:10:52.410 --> 00:10:54.779
+blühte das faltende neuronale Netzwerk
+
+00:10:54.779 --> 00:10:58.215
+auf eine Weise auf,
+die niemand erwartet hatte.
+
+00:10:58.215 --> 00:11:00.723
+Es wurde die erfolgreichste Struktur,

@@ -1,0 +1,35 @@
+WEBVTT
+
+00:10:26.637 --> 00:10:31.420
+Normal bir sinir ağında nesne tanıma
+modelimizi eğitmek için,
+
+00:10:31.420 --> 00:10:34.601
+24 milyon düğüm,
+
+00:10:34.601 --> 00:10:37.898
+140 milyon değişken,
+
+00:10:37.898 --> 00:10:40.661
+ve 15 milyar bağlantı kullandık.
+
+00:10:40.661 --> 00:10:43.076
+Bu muazzam bir modeldi.
+
+00:10:43.076 --> 00:10:46.977
+ImageNet'den elde edilen büyük veri ile
+
+00:10:46.977 --> 00:10:52.410
+oldukça muazzam bir modeli eğitmek için
+kullanılan modern CPU ve GPU'lar sayesinde
+
+00:10:52.410 --> 00:10:54.779
+evrişimli sinirsel ağ
+
+00:10:54.779 --> 00:10:58.215
+hiçbirimizin hayal edemeyeceği bir şekilde
+gelişti.
+
+00:10:58.215 --> 00:11:01.493
+Nesne tanımlamada etkileyeci
+yeni sonuçlar üretmek için

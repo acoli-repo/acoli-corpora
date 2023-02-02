@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:28.160 --> 00:06:31.035
+Mielőtt belemerülnénk
+az egyes megoldások részleteibe,
+
+00:06:31.400 --> 00:06:34.122
+talán eltűnődtek azon,
+hogyan jutottunk e számításokhoz.
+
+00:06:35.040 --> 00:06:38.056
+Először is, rengeteg adatot gyűjtöttünk,
+
+00:06:38.080 --> 00:06:41.496
+és statisztikai elemzéssel
+rangsort állítottunk föl,
+
+00:06:41.520 --> 00:06:44.496
+mellyel megalapozottan válaszhatunk
+
+00:06:44.520 --> 00:06:46.880
+a modellek egyes bemenetei közül.
+
+00:06:48.160 --> 00:06:52.160
+Óvatos megközelítést választottunk,
+ami az egész projektet is jellemzi.
+
+00:06:53.120 --> 00:06:55.046
+Az adatokat bevittük a modellbe,
+
+00:06:55.160 --> 00:06:58.171
+és nagyratörően, de megalapozottan
+vetítettük ki őket a jövőbe,
+
+00:06:58.320 --> 00:07:01.017
+majd összevetettük azzal,
+amit egyébként is tennünk kéne.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.000 --> 00:12:01.000
+Questo è ovvio, lo sappiamo tutti.
+
+00:12:01.000 --> 00:12:03.000
+Ma certi altri aspetti,
+
+00:12:03.000 --> 00:12:05.000
+nella struttura delle reti sociali, non sono così ovvi.
+
+00:12:05.000 --> 00:12:08.000
+Confrontate B, in alto a sinistra, con A, in basso a sinistra.
+
+00:12:08.000 --> 00:12:11.000
+Entrambe queste persone hanno quattro amici,
+
+00:12:11.000 --> 00:12:13.000
+ma gli amici di A si conoscono tutti tra loro,
+
+00:12:13.000 --> 00:12:15.000
+e quelli di B no.
+
+00:12:15.000 --> 00:12:17.000
+Quindi l'amico di un amico di A
+
+00:12:17.000 --> 00:12:19.000
+è anche amico di A
+
+00:12:19.000 --> 00:12:21.000
+mentre l'amico di un amico di B non è amico di B,
+
+00:12:21.000 --> 00:12:23.000
+e occupa invece un punto più lontano, nella rete.
+
+00:12:23.000 --> 00:12:26.000
+Questa proprietà è nota come transitività nelle reti.
+
+00:12:26.000 --> 00:12:28.000
+Da ultimo, confrontiamo i nodi C e D.
+
+00:12:28.000 --> 00:12:31.000
+Sia C che D hanno sei amici.

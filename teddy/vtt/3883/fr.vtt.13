@@ -1,0 +1,41 @@
+WEBVTT
+
+00:06:30.018 --> 00:06:32.702
+Eh bien probablement,
+la bonne idée
+
+00:06:32.702 --> 00:06:35.286
+est de ne pas mettre les
+clés sur le serveur.
+
+00:06:35.286 --> 00:06:38.070
+Il faut alors générer les clés
+de cryptage sur votre ordinateur,
+
+00:06:38.070 --> 00:06:41.858
+non pas en générant une clé unique,
+mais avec une paire de clés.
+
+00:06:41.858 --> 00:06:45.563
+Il y aura donc une clé privée RSA,
+et une clé publique RSA,
+
+00:06:45.563 --> 00:06:48.191
+et ces clés seront connectées
+mathématiquement.
+
+00:06:48.191 --> 00:06:50.396
+Donc, jetons un œil pour voir
+comment ça fonctionne
+
+00:06:50.396 --> 00:06:52.787
+quand plusieurs
+personnes communiquent.
+
+00:06:52.787 --> 00:06:57.232
+On a donc Bob et Alice,
+qui souhaitent communiquer en privé.
+
+00:06:57.232 --> 00:07:00.794
+Le principal défi consiste à faire 
+parvenir le message de Bob à Alice

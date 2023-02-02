@@ -1,0 +1,34 @@
+WEBVTT
+
+00:06:30.018 --> 00:06:34.172
+Lepiej jest nie zostawiać
+kluczy na serwerze.
+
+00:06:34.172 --> 00:06:38.070
+Więc generujemy klucz szyfrujący
+na twoim komputerze,
+
+00:06:38.070 --> 00:06:41.858
+nie jeden klucz, ale dwa:
+
+00:06:41.858 --> 00:06:45.563
+prywatny klucz RSA 
+i publiczny klucz RSA,
+
+00:06:45.563 --> 00:06:48.191
+które są ze sobą 
+matematycznie powiązane.
+
+00:06:48.191 --> 00:06:50.396
+Sprawdźmy, jak to działa,
+
+00:06:50.396 --> 00:06:52.787
+kiedy komunikuje się kilka osób.
+
+00:06:52.787 --> 00:06:57.232
+Oto Bob i Alice, 
+którzy chcą prywatnej komunikacji.
+
+00:06:57.232 --> 00:07:00.794
+Więc trzeba wiadomość Boba
+dostarczyć do Alice

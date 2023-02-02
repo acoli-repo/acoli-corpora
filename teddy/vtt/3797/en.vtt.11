@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:29.841 --> 00:05:31.837
+but a single frame of video
+
+00:05:31.837 --> 00:05:35.094
+may have hundreds of thousands
+of pixels in it,
+
+00:05:35.094 --> 00:05:38.548
+and so if we combine all
+of the tiny motions that we see
+
+00:05:38.548 --> 00:05:40.846
+from across that entire image,
+
+00:05:40.846 --> 00:05:43.469
+then suddenly a thousandth of a pixel
+
+00:05:43.469 --> 00:05:46.244
+can start to add up
+to something pretty significant.
+
+00:05:46.870 --> 00:05:50.505
+On a personal note, we were pretty psyched
+when we figured this out.
+
+00:05:50.505 --> 00:05:52.825
+(Laughter)
+
+00:05:52.825 --> 00:05:56.078
+But even with the right algorithm,
+
+00:05:56.078 --> 00:05:59.695
+we were still missing
+a pretty important piece of the puzzle.
+
+00:05:59.695 --> 00:06:03.299
+You see, there are a lot of factors
+that affect when and how well

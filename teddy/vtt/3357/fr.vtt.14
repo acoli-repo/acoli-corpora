@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:57.759 --> 00:07:01.396
+Dans la première étape, il prend
+le visuel et extrait les contours
+
+00:07:01.420 --> 00:07:04.032
+et les barres et points.
+
+00:07:04.056 --> 00:07:07.093
+Les contours de l'image deviennent
+plus complexes,
+
+00:07:07.117 --> 00:07:10.308
+avec des formes comme des demi-lunes.
+
+00:07:10.332 --> 00:07:14.775
+Finalement, il est capable de
+construire des concepts très compliqués.
+
+00:07:14.799 --> 00:07:16.847
+Andrew Ng a été en mesure de montrer
+
+00:07:16.871 --> 00:07:20.351
+que l'on peut trouver
+des têtes de chat et de chien
+
+00:07:20.375 --> 00:07:22.036
+parmi de nombreuses images.
+
+00:07:22.060 --> 00:07:24.784
+Ce que mes étudiants de
+Stanford ont montré, est que
+
+00:07:24.808 --> 00:07:30.881
+si on l'entraîne sur 129 000 images
+de maladie de la peau,

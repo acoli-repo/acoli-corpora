@@ -1,0 +1,50 @@
+WEBVTT
+
+00:06:57.111 --> 00:07:00.371
+valamint egy lassú memória,
+ami jóval nagyobb.
+
+00:07:01.239 --> 00:07:04.239
+Ahhoz, hogy a számítógép a lehető
+leghatékonyabban működjön,
+
+00:07:04.263 --> 00:07:05.554
+biztosítanunk kell,
+
+00:07:05.554 --> 00:07:08.000
+hogy azok az információk, 
+amiket el akarunk érni.
+
+00:07:08.000 --> 00:07:09.481
+a gyors memóriában legyenek,
+
+00:07:09.481 --> 00:07:11.069
+így gyorsan hozzáférhetünk.
+
+00:07:11.093 --> 00:07:13.154
+Valahányszor hozzáférünk
+egy információhoz,
+
+00:07:13.178 --> 00:07:14.703
+az betöltődik a gyors memóriába,
+
+00:07:14.727 --> 00:07:18.604
+és a gépnek döntenie kell, melyik elemet
+törölje helyette a memóriájából,
+
+00:07:18.628 --> 00:07:20.369
+hiszen a kapacitása véges.
+
+00:07:21.464 --> 00:07:22.945
+Az évek során az informatikusok
+
+00:07:22.969 --> 00:07:25.708
+kipróbáltak pár különféle stratégiát
+
+00:07:25.732 --> 00:07:28.174
+annak eldöntésére, mi törlődjön
+a gyors memóriából.
+
+00:07:28.174 --> 00:07:31.224
+Próbálkoztak a véletlenszerű
+választással,

@@ -1,0 +1,38 @@
+WEBVTT
+
+00:06:27.600 --> 00:06:31.086
+une équipe de chercheurs à Stanford
+a annoncé avoir développé un système
+
+00:06:31.086 --> 00:06:33.976
+qui peut vous dire si une tache
+de rousseur est cancéreuse
+
+00:06:34.000 --> 00:06:36.680
+avec la même exactitude
+que les meilleurs dermatologues.
+
+00:06:37.280 --> 00:06:38.536
+Comment cela marche-t-il ?
+
+00:06:38.560 --> 00:06:43.856
+Il n’essaye pas de copier le jugement
+ou l’intuition d’un docteur.
+
+00:06:43.880 --> 00:06:47.016
+Il ne connaît ni ne comprend
+rien du tout à la médecine.
+
+00:06:47.040 --> 00:06:49.616
+Il exécute un algorithme
+de reconnaissance de formes,
+
+00:06:49.640 --> 00:06:54.296
+parcourant 129 450 cas déjà traités
+
+00:06:54.320 --> 00:06:57.416
+à la recherche de similarités
+entre ces cas-là
+
+00:06:57.440 --> 00:06:59.520
+et la lésion en question.

@@ -1,0 +1,39 @@
+WEBVTT
+
+00:10:28.344 --> 00:10:31.061
+postoji kratko kašnjenje
+između svakog reda
+
+00:10:31.061 --> 00:10:34.218
+i zbog ovoga ostaju blagi tragovi
+
+00:10:34.218 --> 00:10:37.701
+koji se kodiraju u svaki frejm snimka.
+
+00:10:37.701 --> 00:10:41.507
+Otkrili smo da analizom ovih tragova
+
+00:10:41.507 --> 00:10:46.122
+zapravo možemo povratiti zvuk koristeći
+izmenjenu verziju našeg algoritma.
+
+00:10:46.122 --> 00:10:48.034
+Evo eksperimenta koji smo uradili,
+
+00:10:48.034 --> 00:10:49.729
+gde smo snimili kesicu bombona
+
+00:10:49.729 --> 00:10:51.470
+dok se iz zvučnika u blizini čulo
+
+00:10:51.470 --> 00:10:54.442
+ista muzika od pre:
+"Meri je imala malo jagnje",
+
+00:10:54.442 --> 00:10:58.645
+ali ovog puta smo koristili
+običan fotoaparat iz prodavnice
+
+00:10:58.645 --> 00:11:01.819
+i sada ću vam pustiti
+zvuk koji smo povratili,

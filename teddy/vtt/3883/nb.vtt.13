@@ -1,0 +1,34 @@
+WEBVTT
+
+00:06:30.018 --> 00:06:34.172
+Det er altså en god idé å ikke legge
+nøklene igjen på tjeneren.
+
+00:06:34.172 --> 00:06:38.070
+Derfor lages krypteringsnøklene
+på datamaskinen din,
+
+00:06:38.070 --> 00:06:41.858
+og vi lager ikke en enkelt nøkkel,
+men faktisk flere par,
+
+00:06:41.858 --> 00:06:45.563
+slik at det finnes både en privat og
+offentlig RSA-nøkkel,
+
+00:06:45.563 --> 00:06:48.191
+og disse henger sammen, matematisk.
+
+00:06:48.191 --> 00:06:50.396
+Så la oss se hvordan dette
+faktisk fungerer
+
+00:06:50.396 --> 00:06:52.787
+når flere personer kommuniserer.
+
+00:06:52.787 --> 00:06:57.232
+Så her har vi Bob og Alice,
+som ønsker å kommunisere privat.
+
+00:06:57.232 --> 00:07:00.794
+Utfordringen er å få Bob sin melding

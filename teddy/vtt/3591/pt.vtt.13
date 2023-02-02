@@ -1,0 +1,47 @@
+WEBVTT
+
+00:06:27.280 --> 00:06:30.366
+Hoje, vamos ouvir a estreia mundial
+
+00:06:31.006 --> 00:06:32.456
+do "ping" perfeito.
+
+00:06:32.476 --> 00:06:35.997
+Trata-se de uma matriz de Costas
+com 88 por 88 de tamanho,
+
+00:06:35.997 --> 00:06:37.746
+mapeada para as notas no piano,
+
+00:06:37.746 --> 00:06:41.243
+tocada usando uma estrutura chamada
+régua de Golomb para o ritmo,
+
+00:06:41.243 --> 00:06:44.102
+o que significa que o tempo de início
+para cada par de notas
+
+00:06:44.112 --> 00:06:45.629
+também é distinto.
+
+00:06:45.629 --> 00:06:48.238
+Isto é matematicamente quase impossível.
+
+00:06:48.602 --> 00:06:51.153
+Na verdade, informaticamente,
+seria impossível criar.
+
+00:06:51.183 --> 00:06:54.412
+Graças à matemática
+que foi desenvolvida há 200 anos,
+
+00:06:54.462 --> 00:06:57.018
+a outro matemático, recentemente,
+e a um engenheiro,
+
+00:06:57.048 --> 00:06:59.938
+conseguimos compor isto 
+ou construir isso
+
+00:06:59.938 --> 00:07:02.510
+usando a multiplicação pelo número três.

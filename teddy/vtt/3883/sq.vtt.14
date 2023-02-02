@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:57.232 --> 00:07:00.794
+Sfida kryesore është
+të merret mesazhi i Bobit
+
+00:07:00.794 --> 00:07:05.103
+dhe t’i çohet Lizës pa mundur
+serveri ta lexojë atë mesazh.
+
+00:07:05.103 --> 00:07:07.516
+Ajo që na duhet të bëjmë
+është ta enkriptojmë
+
+00:07:07.516 --> 00:07:09.640
+para daljes nga kompjuteri i Bobit,
+
+00:07:09.640 --> 00:07:14.141
+një nga marifetet është të enkriptohet
+duke përdorur kyçin publik të Lizës.
+
+00:07:14.141 --> 00:07:19.333
+Tani, këto të dhëna të enkriptuara
+i dërgohen Lizës përmes serverit,
+
+00:07:19.333 --> 00:07:23.613
+dhe ngaqë mesazhi u enkriptua duke
+përdorur kyçin publik të Lizës,
+
+00:07:23.613 --> 00:07:27.901
+kyçi i vetëm që mund ta dekriptojë
+është kyçi privat që i përket Lizës,
+
+00:07:27.901 --> 00:07:32.616
+dhe na del se Liza është personi
+i vetëm që e zotëron këtë kyç.

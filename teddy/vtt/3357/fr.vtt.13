@@ -1,0 +1,41 @@
+WEBVTT
+
+00:06:28.346 --> 00:06:31.907
+Cela prend plus de 10 ans pour devenir
+un bon dermatologue.
+
+00:06:31.931 --> 00:06:35.127
+Ce que vous voyez ici en est la version
+« machine learning ».
+
+00:06:35.151 --> 00:06:36.992
+Cela s'appelle un réseau neuronal.
+
+00:06:37.016 --> 00:06:40.790
+« Réseau neuronal » est le terme technique
+pour ces algorithmes d'apprentissage.
+
+00:06:40.790 --> 00:06:42.571
+Ils sont là depuis les années 80.
+
+00:06:42.595 --> 00:06:47.235
+Celui-ci a été inventé en 1988 par un
+camarade de Facebook appelé Yann LeCun,
+
+00:06:47.259 --> 00:06:50.817
+et il propage les données par étape
+
+00:06:50.841 --> 00:06:53.419
+à travers ce qui s'apparente
+à un cerveau humain.
+
+00:06:53.443 --> 00:06:56.409
+Ce n'est pas la même chose,
+mais il simule la même chose.
+
+00:06:56.433 --> 00:06:57.735
+Il procède étape par étape.
+
+00:06:57.759 --> 00:07:01.396
+Dans la première étape, il prend
+le visuel et extrait les contours

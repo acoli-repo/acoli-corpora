@@ -1,0 +1,33 @@
+WEBVTT
+
+00:06:57.232 --> 00:07:00.794
+Khó khăn then chốt là lấy mẫu tin của Bob
+
+00:07:00.794 --> 00:07:05.103
+và đưa nó cho Alice theo cách mà máy chủ không thể đọc được mẫu tin đó.
+
+00:07:05.103 --> 00:07:07.516
+Điều chúng ta phải làm là chúng ta phải mã hóa nó
+
+00:07:07.516 --> 00:07:09.640
+trước khi nó rời máy tính của Bob,
+
+00:07:09.640 --> 00:07:14.151
+một trong những mẹo ở đây là chúng ta 
+mã hóa nó dùng chìa khóa công cộng từ Alice.
+
+00:07:14.151 --> 00:07:19.333
+bây giờ dữ liệu được mã hóa này 
+được gửi tới Alice thông qua máy chủ,
+
+00:07:19.333 --> 00:07:23.613
+và bởi vì mẫu tin đã được mã hóa 
+bằng chìa khóa công cộng của Alice,
+
+00:07:23.613 --> 00:07:27.901
+thì chỉ có chìa khóa mà có thể giải mã 
+nó là chìa riêng của Alice,
+
+00:07:27.901 --> 00:07:32.616
+và điều đó biến Alice thành 
+người duy nhất thật sự có chìa khóa này.

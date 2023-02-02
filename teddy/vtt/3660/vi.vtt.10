@@ -1,0 +1,28 @@
+WEBVTT
+
+00:04:56.433 --> 00:05:00.482
+Robot Todai cũng làm việc tương tự vậy, 
+nhưng thông minh hơn một chút
+
+00:05:00.506 --> 00:05:03.745
+trong việc trả lời các câu hỏi 
+về lịch sử dạng có- không,
+
+00:05:04.560 --> 00:05:10.223
+như: "Hoàng đế Charlemagne 
+đã chinh phục người Magyar. Đúng hay sai?"
+
+00:05:11.181 --> 00:05:15.254
+Robot liền bắt đầu tự 
+đưa ra câu hỏi factoid,
+
+00:05:15.278 --> 00:05:20.177
+như: "Hoàng đế Charlemagne 
+đã chinh phục [người này]."
+
+00:05:20.995 --> 00:05:25.727
+Sau đó, "người Avar" sẽ xuất hiện ở 
+top tìm kiếm thay vì "người Magya".
+
+00:05:26.357 --> 00:05:29.406
+Câu này có thể sai.

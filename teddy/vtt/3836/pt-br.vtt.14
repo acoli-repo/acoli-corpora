@@ -1,0 +1,46 @@
+WEBVTT
+
+00:06:57.151 --> 00:07:00.232
+Com vários defensores, analisamos
+como os jogadores se movimentam
+
+00:07:00.232 --> 00:07:01.855
+e prevemos o tipo de arremesso.
+
+00:07:01.879 --> 00:07:05.077
+Podemos analisar suas velocidades
+e construir um modelo
+
+00:07:05.077 --> 00:07:10.028
+que prevê a probabilidade de um arremesso
+ser convertido em tais circunstâncias?
+
+00:07:10.028 --> 00:07:12.128
+Por que é tão importante?
+
+00:07:12.128 --> 00:07:14.869
+Podemos transformar o que era arremessar
+
+00:07:14.869 --> 00:07:17.453
+em duas outras coisas:
+
+00:07:17.453 --> 00:07:20.664
+a qualidade do arremesso
+e a qualidade do arremessador.
+
+00:07:21.200 --> 00:07:22.710
+Eis um gráfico de bolas.
+
+00:07:22.710 --> 00:07:24.972
+O que seria do TED
+sem um gráfico de bolas?
+
+00:07:24.972 --> 00:07:25.970
+(Risos)
+
+00:07:25.970 --> 00:07:27.485
+Esses são jogadores da NBA.
+
+00:07:27.485 --> 00:07:30.303
+O tamanho da bola é o tamanho do jogador,
+a cor é a posição.

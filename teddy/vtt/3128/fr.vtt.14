@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:58.724 --> 00:07:00.346
+Moins ces nombres sont aléatoires,
+
+00:07:00.360 --> 00:07:03.704
+ou, en termes scientifiques,
+moins ils contiennent d'entropie,
+
+00:07:03.728 --> 00:07:05.795
+plus ils sont faciles à prédire.
+
+00:07:06.917 --> 00:07:10.839
+Récemment, plusieurs casinos ont été
+victimes d'attaques d'un nouveau genre.
+
+00:07:10.863 --> 00:07:15.212
+Les résultats de machines à sous ont été
+enregistrés sur une période de temps,
+
+00:07:15.236 --> 00:07:16.593
+puis analysés.
+
+00:07:16.982 --> 00:07:18.950
+Cela a permis à des cyber-criminels
+
+00:07:18.974 --> 00:07:22.641
+de recréer par rétro-ingénierie le
+générateur de nombres pseudo-aléatoires
+
+00:07:22.665 --> 00:07:24.664
+derrière ces machines à sous.
+
+00:07:24.688 --> 00:07:29.995
+Et cela leur a permis, avec beaucoup
+de précision, de prédire les résultats

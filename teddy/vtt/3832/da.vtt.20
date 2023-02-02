@@ -1,0 +1,32 @@
+WEBVTT
+
+00:09:58.983 --> 00:10:04.602
+Ligesom hjernen består af milliarder af
+sammenkædede neuroner,
+
+00:10:04.602 --> 00:10:08.456
+er et grundlæggende armatur i et 
+neuralt netværk
+
+00:10:08.456 --> 00:10:10.871
+som en neuron-lignende node.
+
+00:10:10.871 --> 00:10:13.425
+Det tager input fra andre noder
+
+00:10:13.425 --> 00:10:16.143
+og sender output til andre.
+
+00:10:16.143 --> 00:10:20.856
+Disse hundrede tusinder eller endda
+millioner af noder
+
+00:10:20.856 --> 00:10:24.083
+er organiseret i hierarkiske lag,
+
+00:10:24.083 --> 00:10:26.637
+ligesom i hjernen.
+
+00:10:26.637 --> 00:10:31.420
+I et typisk neuralt netværk vi bruger
+til at træne vor objekt-genkendelsesmodel,

@@ -1,0 +1,39 @@
+WEBVTT
+
+00:07:25.324 --> 00:07:30.705
+es que si la entrenas con 129 000
+imágenes de enfermedades de la piel,
+
+00:07:30.705 --> 00:07:33.464
+incluyendo melanomas y carcinomas,
+
+00:07:33.464 --> 00:07:36.779
+puedes haces un trabajo tan bueno
+
+00:07:36.779 --> 00:07:39.000
+como el del mejor dermatólogo humano.
+
+00:07:39.000 --> 00:07:41.553
+Y para convencernos de ello,
+
+00:07:41.553 --> 00:07:45.597
+capturamos un set de datos independientes
+que le presentamos a nuestra red
+
+00:07:45.597 --> 00:07:49.813
+y a 25 dermatólogos 
+acreditados, de Stanford,
+
+00:07:49.813 --> 00:07:51.579
+y los comparamos.
+
+00:07:51.579 --> 00:07:54.277
+Y en la mayoría de los casos,
+su precisión al clasificar
+
+00:07:54.277 --> 00:07:58.347
+fue igual o mejor 
+que la de los dermatólogos humanos.
+
+00:07:58.347 --> 00:08:00.317
+CA: Me contaste una anécdota,

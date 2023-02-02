@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:57.111 --> 00:07:00.371
+et une mémoire RAM, plus lente
+mais de plus grande capacité.
+
+00:07:01.239 --> 00:07:04.239
+Pour optimiser
+l'efficacité de l'ordinateur,
+
+00:07:04.263 --> 00:07:07.804
+on doit s'assurer que les informations
+auxquelles on veut avoir accès
+
+00:07:07.814 --> 00:07:11.101
+sont dans le processeur rapide,
+pour les récupérer rapidement.
+
+00:07:11.101 --> 00:07:14.841
+Chaque fois qu'on récupère une donnée,
+elle est chargée dans le processeur,
+
+00:07:14.841 --> 00:07:18.604
+et l'ordinateur doit décider
+ce qu'il va effacer
+
+00:07:18.628 --> 00:07:20.369
+pour lui laisser de la place.
+
+00:07:21.794 --> 00:07:22.945
+Depuis longtemps,
+
+00:07:22.969 --> 00:07:25.428
+les informaticiens ont essayé
+différentes stratégies
+
+00:07:25.428 --> 00:07:28.210
+de décision sur les données
+à enlever du processeur rapide.
+
+00:07:28.210 --> 00:07:31.224
+Ils sont passés du choix aléatoire,

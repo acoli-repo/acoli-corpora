@@ -1,0 +1,25 @@
+WEBVTT
+
+00:07:30.019 --> 00:07:33.486
+enabling them to make big financial gains.
+
+00:07:35.122 --> 00:07:38.280
+Similar risks apply to encryption keys.
+
+00:07:38.815 --> 00:07:43.975
+So having a true random number generator
+is essential for secure encryption.
+
+00:07:45.815 --> 00:07:51.069
+For years, researchers have been looking
+at building true random number generators.
+
+00:07:51.093 --> 00:07:54.466
+But most designs to date
+are either not random enough,
+
+00:07:54.490 --> 00:07:57.223
+fast enough or aren't easily repeatable.
+
+00:07:58.053 --> 00:08:01.204
+But the quantum world is truly random.

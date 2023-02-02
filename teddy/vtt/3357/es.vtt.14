@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:57.719 --> 00:07:01.380
+En la primera etapa toma la entrada 
+visual y extrae los bordes
+
+00:07:01.380 --> 00:07:04.016
+y las barras y los puntos.
+
+00:07:04.016 --> 00:07:07.143
+Y en la siguiente los 
+bordes más complicados
+
+00:07:07.143 --> 00:07:10.292
+y figuras como medias lunas.
+
+00:07:10.292 --> 00:07:14.769
+Y al final puede construir 
+conceptos complejos.
+
+00:07:14.769 --> 00:07:16.897
+Andrew Ng ha podido demostrar
+
+00:07:16.897 --> 00:07:20.325
+que es capaz de encontrar 
+caras de gatos y perros
+
+00:07:20.325 --> 00:07:22.186
+entre una gran cantidad de imágenes.
+
+00:07:22.186 --> 00:07:25.324
+Lo que mi equipo de estudiantes
+en Stanford ha logrado demostrar
+
+00:07:25.324 --> 00:07:30.705
+es que si la entrenas con 129 000
+imágenes de enfermedades de la piel,

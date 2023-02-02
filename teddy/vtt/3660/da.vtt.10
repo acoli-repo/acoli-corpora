@@ -1,0 +1,24 @@
+WEBVTT
+
+00:04:56.433 --> 00:05:00.482
+Vores Todai Robot fungerer på
+en lignende måde, men lidt bedre,
+
+00:05:00.506 --> 00:05:03.745
+når den svarer historiske ja-nej spørgsmål
+
+00:05:04.560 --> 00:05:10.223
+som "Charlemagne udstødte magyarerne".
+
+00:05:11.181 --> 00:05:15.254
+Robotten skaber selv et faktum spørgsmål:
+
+00:05:15.278 --> 00:05:20.177
+"Charlemagne udstødte [persontype]".
+
+00:05:20.995 --> 00:05:25.727
+Her er det "avarerne", ikke "magyarerne", 
+som rangerer øverst.
+
+00:05:26.357 --> 00:05:29.406
+Sætningen er sandsynligvis falsk.
