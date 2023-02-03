@@ -1,0 +1,35 @@
+WEBVTT
+
+00:10:28.292 --> 00:10:30.722
+where it adjusts the steps
+a little bit longer
+
+00:10:30.746 --> 00:10:32.022
+or a little bit shorter.
+
+00:10:33.396 --> 00:10:35.826
+Now we're going to change it
+into a different mode,
+
+00:10:35.850 --> 00:10:39.273
+where it's just going to treat
+the blocks like terrain
+
+00:10:39.297 --> 00:10:43.016
+and decide whether to step up or down
+
+00:10:43.040 --> 00:10:44.325
+as it goes.
+
+00:10:45.265 --> 00:10:48.234
+So this is using dynamic balance
+
+00:10:48.258 --> 00:10:50.116
+and mobile perception,
+
+00:10:50.140 --> 00:10:55.527
+because it has to coordinate what it sees
+along with how it's moving.
+
+00:10:57.168 --> 00:11:01.486
+The other thing Spot has is a robot arm.

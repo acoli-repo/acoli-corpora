@@ -1,0 +1,49 @@
+WEBVTT
+
+00:01:56.767 --> 00:02:00.108
+And so, by this algorithm's end, n is 2,
+
+00:02:00.108 --> 00:02:02.221
+which indeed matches the number of people in the room.
+
+00:02:02.221 --> 00:02:03.444
+So far, so good.
+
+00:02:03.444 --> 00:02:05.196
+How about a corner case, though?
+
+00:02:05.196 --> 00:02:07.160
+Suppose that there are zero people in the room,
+
+00:02:07.160 --> 00:02:09.507
+besides me, who's doing the counting.
+
+00:02:09.507 --> 00:02:12.517
+In line 1, we again initialize n to zero.
+
+00:02:12.517 --> 00:02:15.039
+This time, though, line 3 doesn't execute at all
+
+00:02:15.039 --> 00:02:16.919
+since there isn't a person in the room,
+
+00:02:16.919 --> 00:02:18.543
+and so, n remains zero,
+
+00:02:18.543 --> 00:02:20.902
+which indeed matches the number of people in the room.
+
+00:02:20.902 --> 00:02:21.808
+Pretty simple, right?
+
+00:02:21.808 --> 00:02:25.024
+But counting people one a time is pretty inefficient, too, no?
+
+00:02:25.024 --> 00:02:26.592
+Surely, we can do better!
+
+00:02:26.592 --> 00:02:28.458
+Why not count two people at a time?
+
+00:02:28.458 --> 00:02:33.557
+Instead of counting 1, 2, 3, 4, 5, 6, 7, 8, and so forth,

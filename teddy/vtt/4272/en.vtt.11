@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.103 --> 00:05:31.141
+One is short-range wireless, where you can actually
+
+00:05:31.141 --> 00:05:32.922
+communicate with the device from nearby,
+
+00:05:32.922 --> 00:05:35.059
+either through Bluetooth or wi-fi,
+
+00:05:35.059 --> 00:05:37.233
+and the other is long-range, where you can communicate
+
+00:05:37.233 --> 00:05:39.015
+with the car through the cellular network,
+
+00:05:39.015 --> 00:05:40.975
+or through one of the radio stations.
+
+00:05:40.975 --> 00:05:44.024
+Think about it. When a car receives a radio signal,
+
+00:05:44.024 --> 00:05:46.225
+it's processed by software.
+
+00:05:46.225 --> 00:05:49.286
+That software has to receive and decode the radio signal,
+
+00:05:49.286 --> 00:05:50.405
+and then figure out what to do with it,
+
+00:05:50.405 --> 00:05:53.429
+even if it's just music that it needs to play on the radio,
+
+00:05:53.429 --> 00:05:55.697
+and that software that does that decoding,
+
+00:05:55.697 --> 00:05:58.790
+if it has any bugs in it, could create a vulnerability
+
+00:05:58.790 --> 00:06:01.825
+for somebody to hack the car.

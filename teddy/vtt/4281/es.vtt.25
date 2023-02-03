@@ -1,0 +1,38 @@
+WEBVTT
+
+00:12:29.595 --> 00:12:32.618
+¿Y si pudiéramos conseguir que el robot
+las haga un poco más rápido?
+
+00:12:32.618 --> 00:12:35.052
+Bueno, es difícil programar un robot
+para hacer actividades delicadas
+
+00:12:35.052 --> 00:12:39.131
+como ésta, pero resulta que mi colega, Pieter Abbeel,
+
+00:12:39.131 --> 00:12:41.547
+que ha desarrollado aquí en Berkeley
+
+00:12:41.547 --> 00:12:47.170
+unas nuevas técnicas
+para enseñar a los robots con ejemplos.
+
+00:12:47.170 --> 00:12:49.937
+De esta forma, ha conseguido
+robots que vuelan helicópteros,
+
+00:12:49.937 --> 00:12:53.041
+que hacen acrobacias increíbles,
+interesantes y bellas
+
+00:12:53.041 --> 00:12:55.760
+con sólo observar cómo pilotean
+expertos humanos.
+
+00:12:55.760 --> 00:12:58.348
+Así, conseguimos uno de esos robots.
+
+00:12:58.348 --> 00:13:00.530
+Comenzamos a trabajar con
+Pieter y sus estudiantes

@@ -1,0 +1,39 @@
+WEBVTT
+
+00:13:27.208 --> 00:13:31.865
+como yo podría hacer pero 
+aún son erráticos e imprecisos.
+
+00:13:31.865 --> 00:13:33.937
+Así registramos todos estos
+ejemplos, los datos,
+
+00:13:33.937 --> 00:13:37.649
+y luego seguimos una secuencia de pasos.
+
+00:13:37.649 --> 00:13:41.281
+Primero, usamos un técnica llamada
+deformación temporal dinámica
+
+00:13:41.281 --> 00:13:43.463
+del reconocimiento de voz
+y esto nos permitió
+
+00:13:43.463 --> 00:13:46.303
+alinear temporalmente
+todos los ejemplos,
+
+00:13:46.303 --> 00:13:49.232
+y entonces aplicamos
+un filtro de Kalman,
+
+00:13:49.232 --> 00:13:52.215
+una técnica de teoría de control,
+que nos permite
+
+00:13:52.215 --> 00:13:54.887
+analizar estadísticamente
+todos los ruidos
+
+00:13:54.887 --> 00:14:01.070
+y extraer la trayectoria deseada subyacente.

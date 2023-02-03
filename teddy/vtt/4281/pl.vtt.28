@@ -1,0 +1,39 @@
+WEBVTT
+
+00:13:54.887 --> 00:14:01.070
+by wyodrębnić upragnioną trajektorię.
+
+00:14:01.070 --> 00:14:03.064
+Bierzemy te niedoskonałe
+
+00:14:03.064 --> 00:14:05.087
+twory człowieka
+
+00:14:05.087 --> 00:14:08.178
+i obliczamy trajektorię zadania
+
+00:14:08.178 --> 00:14:11.181
+i sekwencję sterującą dla robota.
+
+00:14:11.181 --> 00:14:13.365
+Następnie wykonujemy ją na robocie,
+
+00:14:13.365 --> 00:14:15.537
+i obserwujemy co się dzieje.
+
+00:14:15.537 --> 00:14:18.199
+Ustawiamy sterowniki
+używając szeregu technik
+
+00:14:18.199 --> 00:14:21.129
+zwanych uczeniem iteracyjnym.
+
+00:14:21.129 --> 00:14:25.106
+Następnie lekko podkręcamy szybkość.
+
+00:14:25.106 --> 00:14:28.669
+Obserwujemy rezultaty,
+dostrajamy sterowanie
+
+00:14:28.669 --> 00:14:31.191
+i patrzymy, co się dzieje.

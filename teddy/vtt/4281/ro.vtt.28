@@ -1,0 +1,37 @@
+WEBVTT
+
+00:13:54.887 --> 00:14:01.070
+și să extragem traiectoria dorită care le conectează.
+
+00:14:01.070 --> 00:14:03.064
+Luăm aceste demonstrații umane,
+
+00:14:03.064 --> 00:14:05.087
+toate sunt imperfecte,
+
+00:14:05.087 --> 00:14:08.178
+și extragem din ele o traiectorie dedusă de sarcini
+
+00:14:08.178 --> 00:14:11.181
+și secvență de control pentru robot.
+
+00:14:11.181 --> 00:14:13.365
+Executăm apoi asta pe robot,
+
+00:14:13.365 --> 00:14:15.537
+observăm ce se întâmplă,
+
+00:14:15.537 --> 00:14:18.199
+apoi ajustăm comenzile folosind o secvență de tehnici
+
+00:14:18.199 --> 00:14:21.129
+numite învățare iterativă.
+
+00:14:21.129 --> 00:14:25.106
+Apoi mărim puțin velocitatea.
+
+00:14:25.106 --> 00:14:28.669
+Observăm rezultatele, ajustăm comenzile iarăși,
+
+00:14:28.669 --> 00:14:31.191
+și observăm ce se întâmplă.

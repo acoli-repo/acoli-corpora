@@ -1,0 +1,44 @@
+WEBVTT
+
+00:07:28.632 --> 00:07:30.315
+Quindi questi sono i tre principi.
+
+00:07:30.339 --> 00:07:32.657
+Vediamo come si applicano
+alla seguente domanda:
+
+00:07:32.681 --> 00:07:35.470
+"Riuscite a spegnere la macchina?"
+come suggeriva Turing.
+
+00:07:37.073 --> 00:07:39.193
+Ecco un robot PR2.
+
+00:07:39.217 --> 00:07:41.038
+È uno che abbiamo in laboratorio,
+
+00:07:41.062 --> 00:07:43.965
+e ha un gran pulsante "off"
+sul dorso.
+
+00:07:44.541 --> 00:07:47.156
+La domanda è: ti permetterà
+di spegnerlo?
+
+00:07:47.180 --> 00:07:48.645
+Col metodo classico,
+
+00:07:48.669 --> 00:07:52.151
+gli diamo l'obiettivo,
+"Porta il caffè, devo portare il caffè,
+
+00:07:52.175 --> 00:07:54.755
+non posso portare il caffè se sono morto,"
+
+00:07:54.779 --> 00:07:58.120
+quindi ovviamente il PR2
+ha ascoltato il mio discorso,
+
+00:07:58.144 --> 00:08:01.897
+e quindi dice,
+"Devo disabilitare il pulsante 'off'",

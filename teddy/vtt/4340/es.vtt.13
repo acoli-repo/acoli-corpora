@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:29.880 --> 00:06:32.130
+digamos que un grupo tiene 
+estas respuestas:
+
+00:06:32.130 --> 00:06:36.332
+250 m, 200 m, 300 m, 400 m
+
+00:06:36.356 --> 00:06:40.140
+y una respuesta totalmente absurda
+de 300 millones de m.
+
+00:06:40.547 --> 00:06:44.544
+Un promedio simple de estos números
+sesgaría incorrectamente los resultados
+
+00:06:44.544 --> 00:06:48.034
+Pero el promedio robusto es uno
+donde el grupo ignora en gran medida
+
+00:06:48.058 --> 00:06:49.298
+esa respuesta absurda,
+
+00:06:49.322 --> 00:06:52.691
+dando mucho más peso
+al voto de las personas en el promedio.
+
+00:06:53.305 --> 00:06:55.181
+De vuelta al experimento en Vancouver,
+
+00:06:55.205 --> 00:06:56.972
+eso es exactamente lo que sucedió.
+
+00:06:57.407 --> 00:07:00.148
+Los grupos dieron mucho menos peso
+a los valores atípicos,

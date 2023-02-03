@@ -1,0 +1,39 @@
+WEBVTT
+
+00:08:31.840 --> 00:08:35.295
+Blok zincirini kullanarak, birbirine
+güvenmeyen işletmeler arasında
+
+00:08:35.295 --> 00:08:37.559
+paylaşımlı bir gerçeklik yaratabiliriz.
+
+00:08:38.640 --> 00:08:39.856
+Demek istediğim şey,
+
+00:08:39.880 --> 00:08:42.480
+ağdaki tüm bu düğümlerin
+birbirini tanıması
+
+00:08:42.480 --> 00:08:44.696
+veya birbirine güvenmesi gerekmiyor,
+
+00:08:44.720 --> 00:08:46.856
+çünkü her biri kendi zincirlerini
+
+00:08:46.880 --> 00:08:49.960
+izleme ve doğrulama kabiliyetine sahip.
+
+00:08:51.040 --> 00:08:52.776
+Wikipedia'yı tekrar düşünelim.
+
+00:08:52.800 --> 00:08:54.976
+Paylaşımlı bir veritabanı
+
+00:08:55.000 --> 00:08:57.816
+ve aynı anda çoklu okuyucusu
+
+00:08:57.840 --> 00:08:59.936
+ve yazarı olmasına rağmen
+
+00:08:59.960 --> 00:09:01.680
+tek bir doğrusu var.

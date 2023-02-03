@@ -1,0 +1,53 @@
+WEBVTT
+
+00:04:57.236 --> 00:05:00.213
+in real time, it calculates
+the force distribution:
+
+00:05:00.237 --> 00:05:02.760
+how much force it needs
+to exert to the surface
+
+00:05:02.784 --> 00:05:04.761
+so it doesn't tip and doesn't slip.
+
+00:05:04.785 --> 00:05:06.926
+Once it stabilizes that, it lifts a foot,
+
+00:05:06.950 --> 00:05:10.253
+and then with the winch,
+it can climb up these kinds of cliffs.
+
+00:05:10.785 --> 00:05:13.401
+Also for search and rescue
+applications as well.
+
+00:05:13.425 --> 00:05:15.844
+Five years ago,
+I actually worked at NASA JPL
+
+00:05:15.868 --> 00:05:17.718
+during the summer as a faculty fellow.
+
+00:05:17.742 --> 00:05:21.192
+And they already had
+a six-legged robot called LEMUR.
+
+00:05:21.216 --> 00:05:22.856
+So this is actually based on that.
+
+00:05:22.880 --> 00:05:24.171
+This robot is called MARS:
+
+00:05:24.195 --> 00:05:25.812
+Multi-Appendage Robotic System.
+
+00:05:25.836 --> 00:05:27.074
+It's a hexapod robot.
+
+00:05:27.098 --> 00:05:29.075
+We developed our adaptive gait planner.
+
+00:05:29.099 --> 00:05:31.624
+We actually have a very interesting
+payload on there.

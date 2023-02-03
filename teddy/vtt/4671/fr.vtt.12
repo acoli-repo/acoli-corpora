@@ -1,0 +1,66 @@
+WEBVTT
+
+00:05:58.154 --> 00:06:00.304
+Qui est égal à 94%.
+
+00:06:00.304 --> 00:06:03.194
+Ce 94% est
+votre taux d'appariement avec B.
+
+00:06:03.194 --> 00:06:04.561
+C'est l'expression mathématique
+
+00:06:04.561 --> 00:06:06.405
+de comment vous seriez heureux
+l'un avec l'autre
+
+00:06:06.405 --> 00:06:07.749
+fondé sur ce que nous savons.
+
+00:06:07.749 --> 00:06:10.131
+Maintenant, pourquoi est-ce que
+l'algorithme multiplie au lieu de
+
+00:06:10.131 --> 00:06:12.284
+faire la moyenne des deux 
+taux de correspondances ensemble
+
+00:06:12.284 --> 00:06:14.530
+puis prend la racine carrée ?
+
+00:06:14.530 --> 00:06:16.479
+En général, cette formule est appelée
+la moyenne géométrique,
+
+00:06:16.479 --> 00:06:17.881
+c'est une bonne façon
+de combiner des valeurs
+
+00:06:17.881 --> 00:06:19.076
+qui ont de grandes variations
+
+00:06:19.076 --> 00:06:20.861
+et présentent
+des propriétés très différentes.
+
+00:06:20.861 --> 00:06:23.164
+En d'autres mots, c'est parfait 
+pour un appariement sentimental.
+
+00:06:23.164 --> 00:06:24.248
+On a de grandes plages de valeurs
+
+00:06:24.248 --> 00:06:26.206
+et des quantités de valeurs différentes,
+
+00:06:26.206 --> 00:06:27.156
+comme je l'ai dit, au sujet des films,
+
+00:06:27.156 --> 00:06:28.006
+de la politique,
+
+00:06:28.006 --> 00:06:29.201
+de la religion,
+
+00:06:29.201 --> 00:06:30.395
+de tout.

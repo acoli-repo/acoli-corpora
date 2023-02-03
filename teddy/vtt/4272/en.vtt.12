@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:58.790 --> 00:06:01.825
+for somebody to hack the car.
+
+00:06:01.825 --> 00:06:04.777
+The way that the researchers did this work is,
+
+00:06:04.777 --> 00:06:09.000
+they read the software in the computer chips
+
+00:06:09.000 --> 00:06:12.193
+that were in the car, and then they used sophisticated
+
+00:06:12.193 --> 00:06:13.607
+reverse engineering tools
+
+00:06:13.607 --> 00:06:15.662
+to figure out what that software did,
+
+00:06:15.662 --> 00:06:18.703
+and then they found vulnerabilities in that software,
+
+00:06:18.703 --> 00:06:22.049
+and then they built exploits to exploit those.
+
+00:06:22.049 --> 00:06:24.431
+They actually carried out their attack in real life.
+
+00:06:24.431 --> 00:06:25.781
+They bought two cars, and I guess
+
+00:06:25.781 --> 00:06:28.699
+they have better budgets than I do.
+
+00:06:28.699 --> 00:06:31.289
+The first threat model was to see what someone could do

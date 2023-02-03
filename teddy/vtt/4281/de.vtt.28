@@ -1,0 +1,46 @@
+WEBVTT
+
+00:13:54.887 --> 00:14:01.070
+und die gewünschte Bewegungsbahn zu gewinnen,
+die ihnen zugrunde liegt.
+
+00:14:01.070 --> 00:14:03.064
+Wir nehmen
+
+00:14:03.064 --> 00:14:05.087
+diese menschlichen Demonstrationen,
+alle unruhig und mangelhaft,
+
+00:14:05.087 --> 00:14:08.178
+und wir gewinnen aus ihnen 
+eine abgeleitete Aufgabenbahn
+
+00:14:08.178 --> 00:14:11.181
+und Steuersequenz
+für den Roboter.
+
+00:14:11.181 --> 00:14:13.365
+Wenn wir diese dann 
+mit dem Roboter ausführen
+
+00:14:13.365 --> 00:14:15.537
+beobachten wir, 
+was passiert,
+
+00:14:15.537 --> 00:14:18.199
+dann passen wir die Steuerungen 
+durch eine Abfolge von Techniken
+
+00:14:18.199 --> 00:14:21.129
+namens "iteratives Lernen" an.
+
+00:14:21.129 --> 00:14:25.106
+Wir erhöhen die Geschwindigkeit
+ein wenig.
+
+00:14:25.106 --> 00:14:28.669
+Wir beobachten die Ergebnisse, 
+passen die Steuerung wieder an
+
+00:14:28.669 --> 00:14:31.191
+und beobachten, was passiert.

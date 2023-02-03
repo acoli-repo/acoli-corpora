@@ -1,0 +1,32 @@
+WEBVTT
+
+00:10:28.432 --> 00:10:30.672
+när den justerar sina steg lite längre
+
+00:10:30.672 --> 00:10:32.426
+eller lite kortare.
+
+00:10:33.230 --> 00:10:35.743
+Nu ska vi ändra till en annan inställning,
+
+00:10:35.743 --> 00:10:39.056
+där den ska behandla blocken som terräng
+
+00:10:39.056 --> 00:10:42.935
+och besluta om den ska gå upp eller ner
+
+00:10:42.935 --> 00:10:44.994
+längs vägen.
+
+00:10:45.478 --> 00:10:48.556
+Så den använder den dynamiska balansen
+
+00:10:48.556 --> 00:10:50.187
+och den mobila varseblivningen,
+
+00:10:50.187 --> 00:10:55.748
+eftersom den måste koordinera vad den ser
+samtidigt som den rör sig.
+
+00:10:56.987 --> 00:11:01.787
+Spot har också en robotarm.

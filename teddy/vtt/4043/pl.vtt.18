@@ -1,0 +1,39 @@
+WEBVTT
+
+00:08:58.704 --> 00:09:02.162
+Robot ma kilka rodzajów chodu.
+
+00:09:02.204 --> 00:09:04.329
+Ma półprzewodnikowy żyroskop,
+
+00:09:04.371 --> 00:09:05.704
+oraz mechanizm IMU
+
+00:09:05.746 --> 00:09:07.162
+na płycie głównej.
+
+00:09:07.621 --> 00:09:10.662
+Oczywiście, ma też baterię,
+i tym podobne elementy.
+
+00:09:11.537 --> 00:09:14.037
+Jedną z fajnych rzeczy w chodzącym robocie
+
+00:09:14.037 --> 00:09:15.496
+jest wielokierunkowość.
+
+00:09:15.537 --> 00:09:18.287
+Może poruszać się do przodu,
+jak i na boki.
+
+00:09:19.579 --> 00:09:21.037
+Może obracać się w miejscu.
+
+00:09:24.662 --> 00:09:26.912
+Ten robot lubi się popisywać.
+
+00:09:27.871 --> 00:09:29.829
+Uwielbia wykorzystywać dynamiczny chód,
+
+00:09:29.829 --> 00:09:30.996
+na przykład bieganie.

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:12:58.348 --> 00:13:00.530
+Začali jsme s Pieterem a jeho studenty pracovat,
+
+00:13:00.530 --> 00:13:03.193
+takže jsme požádali chirurga, aby prováděl
+
+00:13:03.193 --> 00:13:07.644
+jednotlivé úkony, a totéž jsme dělali s naším robotem,
+
+00:13:07.644 --> 00:13:09.707
+takže co dělal robot, bylo to,
+
+00:13:09.707 --> 00:13:10.985
+co dělal chirurg,
+
+00:13:10.985 --> 00:13:13.257
+a zároveň jsme nahrávali pohyby robota.
+
+00:13:13.257 --> 00:13:15.385
+Tady je příklad. Použiji tvar osmičky,
+
+00:13:15.385 --> 00:13:17.625
+robot bude sledovat tvar osmičky jako vzor.
+
+00:13:17.625 --> 00:13:21.255
+Takhle to vypadá, když robot,
+
+00:13:21.255 --> 00:13:23.572
+takhle vypadá dráha robota,
+
+00:13:23.572 --> 00:13:24.746
+tyto tři ukázky.
+
+00:13:24.746 --> 00:13:27.208
+Jsou mnohem lepší než jaké by provedl lidský začátečník,
+
+00:13:27.208 --> 00:13:31.865
+jako například já, přesto jsou stále roztřesené a nepřesné.

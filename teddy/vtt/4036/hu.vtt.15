@@ -1,0 +1,44 @@
+WEBVTT
+
+00:07:28.632 --> 00:07:30.329
+Ez a három alapelv.
+
+00:07:30.329 --> 00:07:32.727
+Nézzük, hogyan alkalmazhatóak
+a következő kérdésre:
+
+00:07:32.737 --> 00:07:35.470
+"Ki tudod kapcsolni a gépet?" -
+ahogy Turing javasolta.
+
+00:07:37.073 --> 00:07:39.193
+Tehát itt egy PR2-es robot.
+
+00:07:39.217 --> 00:07:41.038
+Ez van nálunk a laborban,
+
+00:07:41.062 --> 00:07:43.965
+és van egy nagy,
+piros "off" kapcsoló a hátán.
+
+00:07:44.541 --> 00:07:47.156
+A kérdés: 
+engedni fogja, hogy kikapcsoljuk?
+
+00:07:47.180 --> 00:07:48.645
+Ha hagyományosan csináljuk,
+
+00:07:48.669 --> 00:07:51.955
+azt a parancsot adjuk neki,
+hogy: "Hozd ide a kávét!",
+
+00:07:51.955 --> 00:07:54.755
+"Hoznom kell a kávét,
+nem tudom hozni, ha halott vagyok" -
+
+00:07:54.779 --> 00:07:58.120
+tehát a PR2 nyilván hallgat rám,
+
+00:07:58.144 --> 00:08:01.897
+ezért azt mondja:
+"Le kell tiltanom az 'off' gombom,

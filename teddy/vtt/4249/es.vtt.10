@@ -1,0 +1,40 @@
+WEBVTT
+
+00:04:57.000 --> 00:05:00.000
+calcula en tiempo real la distribución de fuerzas
+
+00:05:00.000 --> 00:05:03.000
+cuánta fuerza necesita ejercer sobre la superficie
+
+00:05:03.000 --> 00:05:05.000
+para no volcar ni resbalar.
+
+00:05:05.000 --> 00:05:07.000
+Cuando se ha estabilizado levanta una pata
+
+00:05:07.000 --> 00:05:11.000
+y con ayuda del cabrestante puede seguir escalando.
+
+00:05:11.000 --> 00:05:13.000
+También sirve para misiones de búsqueda y rescate.
+
+00:05:13.000 --> 00:05:15.000
+Hace cinco años estuve trabajando en el laboratorio de Propulsores de la NASA
+
+00:05:15.000 --> 00:05:17.000
+durante el verano como investigador contratado
+
+00:05:17.000 --> 00:05:21.000
+y ya tenían un robot de seis patas llamado LEMUR.
+
+00:05:21.000 --> 00:05:24.000
+Y en él se basa este otro. Este robot se llama MARS.
+
+00:05:24.000 --> 00:05:27.000
+"Sistema robótico con múltiples miembros". Es un robot hexápodo.
+
+00:05:27.000 --> 00:05:29.000
+Hemos desarrollado un planificador de movimientos adaptativo.
+
+00:05:29.000 --> 00:05:31.000
+Hemos conseguido una capacidad de carga interesante.

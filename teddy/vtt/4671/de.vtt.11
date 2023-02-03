@@ -1,0 +1,47 @@
+WEBVTT
+
+00:05:28.324 --> 00:05:30.617
+Bei der 2. Frage waren beide
+mit der Antwort zufrieden.
+
+00:05:30.617 --> 00:05:32.611
+deine 10 Punkte von 11
+
+00:05:32.611 --> 00:05:35.240
+liefern 91% Zufriedenheit bei B.
+
+00:05:35.240 --> 00:05:36.117
+Das ist nicht übel.
+
+00:05:36.117 --> 00:05:38.286
+Im letzten Schritt nehmen 
+wir diese beiden Prozentsätze
+
+00:05:38.286 --> 00:05:40.454
+und basteln daraus 
+eine Zahl für euch beide.
+
+00:05:40.454 --> 00:05:42.747
+Dazu multipliziert der 
+Algorithmus eure Punkte,
+
+00:05:42.747 --> 00:05:44.500
+zieht die n-te Wurzel daraus,
+
+00:05:44.500 --> 00:05:46.792
+n ist die Anzahl der Fragen.
+
+00:05:46.792 --> 00:05:49.401
+Denn "s" – die Anzahl der Fragen –
+
+00:05:49.401 --> 00:05:51.507
+hier ist nur 2,
+
+00:05:51.507 --> 00:05:54.093
+und unsere Trefferquote ist
+
+00:05:54.093 --> 00:05:58.154
+die Quadratwurzel aus 98% mal 91%.
+
+00:05:58.154 --> 00:06:00.304
+Das ergibt 94%.

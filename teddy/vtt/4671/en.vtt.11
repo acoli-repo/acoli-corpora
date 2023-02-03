@@ -1,0 +1,46 @@
+WEBVTT
+
+00:05:28.156 --> 00:05:30.751
+you guys satisfied each other
+on the second question.
+
+00:05:30.775 --> 00:05:35.017
+So your answers were 10 out of 11
+equals 91 percent satisfactory to B.
+
+00:05:35.041 --> 00:05:36.192
+That's not bad.
+
+00:05:36.216 --> 00:05:38.723
+The final step is to take
+these two match percentages
+
+00:05:38.747 --> 00:05:40.613
+and get one number for the both of you.
+
+00:05:40.637 --> 00:05:43.248
+To do this, the algorithm
+multiplies your scores,
+
+00:05:43.272 --> 00:05:44.937
+then takes the nth root,
+
+00:05:44.961 --> 00:05:47.144
+where "n" is the number of questions.
+
+00:05:47.168 --> 00:05:49.998
+Because s, which is the number
+of questions in this sample,
+
+00:05:50.022 --> 00:05:51.863
+is only 2,
+
+00:05:51.887 --> 00:05:55.552
+we have: match percentage
+equals the square root
+
+00:05:55.576 --> 00:05:58.472
+of 98 percent times 91 percent.
+
+00:05:58.496 --> 00:06:00.280
+That equals 94 percent.

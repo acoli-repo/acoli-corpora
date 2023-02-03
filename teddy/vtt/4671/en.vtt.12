@@ -1,0 +1,48 @@
+WEBVTT
+
+00:05:58.496 --> 00:06:00.280
+That equals 94 percent.
+
+00:06:00.304 --> 00:06:03.508
+That 94 percent is your match
+percentage with B.
+
+00:06:03.532 --> 00:06:06.775
+It's a mathematical expression
+of how happy you'd be with each other,
+
+00:06:06.799 --> 00:06:07.982
+based on what we know.
+
+00:06:08.006 --> 00:06:09.792
+Now, why does the algorithm multiply,
+
+00:06:09.816 --> 00:06:12.585
+as opposed to, say, average
+the two match scores together,
+
+00:06:12.609 --> 00:06:14.279
+and do the square-root business?
+
+00:06:14.303 --> 00:06:16.832
+In general, this formula
+is called the geometric mean.
+
+00:06:16.856 --> 00:06:19.483
+It's a great way to combine
+values that have wide ranges
+
+00:06:19.507 --> 00:06:21.422
+and represent very different properties.
+
+00:06:21.446 --> 00:06:23.859
+In other words, it's perfect
+for romantic matching.
+
+00:06:23.883 --> 00:06:27.130
+You've got wide ranges and you've got
+tons of different data points,
+
+00:06:27.154 --> 00:06:30.592
+like I said, about movies, politics,
+religion -- everything.

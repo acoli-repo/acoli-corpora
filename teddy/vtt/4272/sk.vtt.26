@@ -1,0 +1,43 @@
+WEBVTT
+
+00:12:58.353 --> 00:13:00.763
+Každý expert na bezpečnosť
+chce hacknúť smartfón,
+
+00:13:00.763 --> 00:13:05.155
+a preto sa zameriava
+na USB porty, fotoaparát,
+
+00:13:05.155 --> 00:13:08.363
+mikrofón či GPS, ale ešte nikto
+
+00:13:08.363 --> 00:13:09.943
+sa nezameral na akcelerometer.
+
+00:13:09.943 --> 00:13:11.590
+Akcelerometer je zariadenie,
+
+00:13:11.590 --> 00:13:15.084
+ktoré dokáže rozpoznať,
+ako je smartfón otočený.
+
+00:13:15.084 --> 00:13:16.501
+Urobili to celkom jednoducho.
+
+00:13:16.501 --> 00:13:19.259
+Položili smartfón vedľa klávesnice,
+
+00:13:19.259 --> 00:13:21.971
+na ktorej niekto písal.
+Ich cieľom bolo zistiť,
+
+00:13:21.971 --> 00:13:24.827
+čo osoba na klávesnici
+napísala pomocou vibrácií,
+
+00:13:24.827 --> 00:13:28.357
+ktoré vytvorilo klepanie do klávesnice.
+
+00:13:28.357 --> 00:13:32.243
+Acelerometer mal na základe
+vibrácií zistiť, čo tá osoba napísala.

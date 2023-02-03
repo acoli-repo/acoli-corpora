@@ -1,0 +1,39 @@
+WEBVTT
+
+00:11:58.240 --> 00:12:02.557
+Nous avons un score de toxicité,
+un modèle de toxicité, dans notre système
+
+00:12:02.581 --> 00:12:06.705
+qui peut mesurer si vous allez
+probablement vous retirer
+
+00:12:06.729 --> 00:12:09.042
+d’une conversation
+que vous avez sur Twitter
+
+00:12:09.066 --> 00:12:10.699
+car vous la trouvez toxique,
+
+00:12:10.723 --> 00:12:13.235
+dont l’exactitude est plutôt élevée.
+
+00:12:14.369 --> 00:12:16.568
+Nous travaillons à mesurer le reste
+
+00:12:16.592 --> 00:12:18.556
+et la prochaine étape est,
+
+00:12:18.580 --> 00:12:21.939
+alors que nous élaborons des solutions,
+
+00:12:21.963 --> 00:12:25.454
+d’observer la tendance
+de ces mesures au fil du temps
+
+00:12:25.478 --> 00:12:27.351
+et de continuer à expérimenter.
+
+00:12:27.375 --> 00:12:31.416
+Notre objectif est de nous assurer
+qu’ils soient équilibrés

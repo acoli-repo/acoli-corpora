@@ -1,0 +1,38 @@
+WEBVTT
+
+00:14:01.283 --> 00:14:03.833
+Now we take those human demonstrations --
+
+00:14:03.857 --> 00:14:05.532
+they're all noisy and imperfect --
+
+00:14:05.556 --> 00:14:08.154
+and we extract from them
+an inferred task trajectory
+
+00:14:08.178 --> 00:14:10.704
+and control sequence for the robot.
+
+00:14:11.181 --> 00:14:13.497
+We then execute that on the robot,
+
+00:14:13.521 --> 00:14:15.546
+we observe what happens,
+
+00:14:15.570 --> 00:14:16.927
+then we adjust the controls,
+
+00:14:16.951 --> 00:14:19.747
+using a sequence of techniques
+called iterative learning.
+
+00:14:21.129 --> 00:14:24.538
+Then what we do is we increase
+the velocity a little bit.
+
+00:14:25.244 --> 00:14:28.379
+We observe the results,
+adjust the controls again,
+
+00:14:29.340 --> 00:14:31.112
+and observe what happens.

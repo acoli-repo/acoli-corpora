@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:59.922 --> 00:07:01.364
+WPR: Fantastico, grazie.
+
+00:07:01.364 --> 00:07:05.613
+Parliamo ancora di questo sistema
+di tracciamento dei contatti
+
+00:07:05.613 --> 00:07:07.947
+e dell'app di notifica dell'esposizione.
+
+00:07:07.947 --> 00:07:09.995
+Abbiamo letto molto su questo.
+
+00:07:09.995 --> 00:07:12.676
+Potresti descriverceli,
+dirci un po' come funziona l'app,
+
+00:07:12.676 --> 00:07:15.091
+cosa vedono esattamente gli utenti,
+
+00:07:15.091 --> 00:07:17.705
+quali informazioni vengono raccolte.
+
+00:07:17.705 --> 00:07:21.465
+È sufficiente che ci dica a grandi linee
+cosa fa questa applicazione.
+
+00:07:22.089 --> 00:07:23.094
+KD: Certo.
+
+00:07:23.094 --> 00:07:25.539
+Permettetemi di iniziare spiegando cos’è.
+
+00:07:25.539 --> 00:07:28.584
+In realtà non è nemmeno un'app,
+
+00:07:28.584 --> 00:07:29.957
+è solo un'API.
+
+00:07:29.966 --> 00:07:35.484
+Si tratta di un sistema che consente

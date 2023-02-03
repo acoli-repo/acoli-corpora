@@ -1,0 +1,40 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:01.000
+các protein mới sẽ được tổng hợp
+
+00:12:01.000 --> 00:12:04.000
+với chức năng chưa được xác định.
+
+00:12:04.000 --> 00:12:07.000
+Do đó, loại mã mà Mike Montague và đội đã phát triển
+
+00:12:07.000 --> 00:12:09.000
+thực sự đã thêm vào những bộ ba kết thúc dịch mã.
+
+00:12:09.000 --> 00:12:12.000
+Đó là một bảng chữ cái khác,
+
+00:12:12.000 --> 00:12:14.000
+nhưng nó cho phép chúng ta sử dụng
+
+00:12:14.000 --> 00:12:17.000
+toàn bộ bảng chữ cái tiếng anh
+
+00:12:17.000 --> 00:12:19.000
+với các dấu câu và chữ số.
+
+00:12:19.000 --> 00:12:21.000
+Như vây, có 4 dấu ấn lớn
+
+00:12:21.000 --> 00:12:24.000
+đều có trên 1000 cặp base của mã di truyền.
+
+00:12:24.000 --> 00:12:27.000
+dấu ấn đầu tiên thực sự chứa trong nó
+
+00:12:27.000 --> 00:12:30.000
+mã để phiên dịch
+
+00:12:30.000 --> 00:12:32.000
+phần còn lại của đoạn mã di truyền.

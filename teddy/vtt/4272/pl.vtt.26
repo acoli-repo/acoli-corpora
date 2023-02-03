@@ -1,0 +1,37 @@
+WEBVTT
+
+00:12:58.353 --> 00:13:00.543
+każdy ekspert od bezpieczeństwa chciałby się włamać do smartfona.
+
+00:13:00.543 --> 00:13:05.155
+Wykorzystuje się port USB,
+
+00:13:05.155 --> 00:13:08.363
+GPS, kamerę, mikrofon.
+
+00:13:08.363 --> 00:13:09.943
+Jednak nikt nie pomyślał o akcelerometrze.
+
+00:13:09.943 --> 00:13:11.590
+To część smartfona
+
+00:13:11.590 --> 00:13:15.084
+odpowiedzialna za orientację pionową.
+
+00:13:15.084 --> 00:13:16.501
+Początek był prosty.
+
+00:13:16.501 --> 00:13:19.259
+Wystarczyło położyć telefon obok klawiatury
+
+00:13:19.259 --> 00:13:21.971
+i kazać ludziom coś na niej napisać.
+
+00:13:21.971 --> 00:13:24.827
+Naukowcy chcieli określić wciskane klawisze
+
+00:13:24.827 --> 00:13:29.067
+na podstawie wibracji przesyłanych
+
+00:13:29.067 --> 00:13:32.243
+z klawiatury do akcelerometru.

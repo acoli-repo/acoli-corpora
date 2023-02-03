@@ -1,0 +1,35 @@
+WEBVTT
+
+00:07:29.800 --> 00:07:33.396
+Takve tvrtke posluju u više od samo jedne zemlje,
+
+00:07:33.396 --> 00:07:36.004
+i pronašli smo ih 43.000.
+
+00:07:36.004 --> 00:07:39.956
+U sljedećem smo koraku izgradili
+mrežu oko tih tvrtki,
+
+00:07:39.956 --> 00:07:42.404
+i uzeli smo u obzir sve njihove dioničare,
+
+00:07:42.404 --> 00:07:44.496
+i dioničare njihovih dioničara, itd.
+
+00:07:44.496 --> 00:07:47.372
+odozdo prema gore, i odozgo prema dolje,
+
+00:07:47.372 --> 00:07:51.413
+i okončali s mrežom od 600.000 čvorova
+
+00:07:51.413 --> 00:07:52.842
+i milijun poveznica.
+
+00:07:52.842 --> 00:07:56.692
+Ovo je mreža TNC-ova, koju smo razmatrali.
+
+00:07:56.692 --> 00:07:59.220
+Ispostavilo se da je strukturirana na sljedeći način.
+
+00:07:59.220 --> 00:08:01.935
+Postoji periferija i centar

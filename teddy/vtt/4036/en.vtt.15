@@ -1,0 +1,44 @@
+WEBVTT
+
+00:07:28.632 --> 00:07:30.315
+So those are the three principles.
+
+00:07:30.339 --> 00:07:32.657
+Let's see how that applies
+to this question of:
+
+00:07:32.681 --> 00:07:35.470
+"Can you switch the machine off?"
+as Turing suggested.
+
+00:07:37.073 --> 00:07:39.193
+So here's a PR2 robot.
+
+00:07:39.217 --> 00:07:41.038
+This is one that we have in our lab,
+
+00:07:41.062 --> 00:07:43.965
+and it has a big red "off" switch
+right on the back.
+
+00:07:44.541 --> 00:07:47.156
+The question is: Is it
+going to let you switch it off?
+
+00:07:47.180 --> 00:07:48.645
+If we do it the classical way,
+
+00:07:48.669 --> 00:07:52.151
+we give it the objective of, "Fetch
+the coffee, I must fetch the coffee,
+
+00:07:52.175 --> 00:07:54.755
+I can't fetch the coffee if I'm dead,"
+
+00:07:54.779 --> 00:07:58.120
+so obviously the PR2
+has been listening to my talk,
+
+00:07:58.144 --> 00:08:01.897
+and so it says, therefore,
+"I must disable my 'off' switch,

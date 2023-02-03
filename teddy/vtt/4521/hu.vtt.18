@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:57.000 --> 00:09:00.000
+De kiderült, hogy végül mégsem lesz olyan egyszerű.
+
+00:09:00.000 --> 00:09:02.000
+Ez három hónappal visszavetett minket,
+
+00:09:02.000 --> 00:09:04.000
+mert a szekvencia több mint egymillió bázispárjában
+
+00:09:04.000 --> 00:09:07.000
+valahol volt egy hiba.
+
+00:09:07.000 --> 00:09:10.000
+Tehát a csapat új hibakereső szoftvert fejlesztett ki,
+
+00:09:10.000 --> 00:09:13.000
+ahol tesztelhettünk minden egyes szintetikus fragmentet,
+
+00:09:13.000 --> 00:09:15.000
+hogy lássuk, növekszik-e
+
+00:09:15.000 --> 00:09:18.000
+vad típusú DNS-háttérben.
+
+00:09:18.000 --> 00:09:21.000
+Azt találtuk, hogy a 11 százezer-bázispáros
+
+00:09:21.000 --> 00:09:24.000
+darabból, amiket szintetizáltunk,
+
+00:09:24.000 --> 00:09:26.000
+10 teljesen pontos
+
+00:09:26.000 --> 00:09:28.000
+és kompatibilis
+
+00:09:28.000 --> 00:09:31.000
+az életképző szekvenciával.

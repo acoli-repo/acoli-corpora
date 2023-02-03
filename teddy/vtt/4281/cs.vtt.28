@@ -1,0 +1,37 @@
+WEBVTT
+
+00:13:54.887 --> 00:14:01.070
+takže můžeme extrahovat požadovanou dráhu, která se nachází v pozadí.
+
+00:14:01.070 --> 00:14:03.064
+Následně vezmeme všechny
+
+00:14:03.064 --> 00:14:05.087
+příklady, které jsou zašumělé a nedokonalé,
+
+00:14:05.087 --> 00:14:08.178
+a extrahujeme z nich odvozenou dráhu
+
+00:14:08.178 --> 00:14:11.181
+a řídicí sekvenci pro robot.
+
+00:14:11.181 --> 00:14:13.365
+Posléze toto použijeme v činnosti robotu,
+
+00:14:13.365 --> 00:14:15.537
+pozorujeme, co se děje,
+
+00:14:15.537 --> 00:14:18.199
+upravíme řízení pomocí sekvence technik,
+
+00:14:18.199 --> 00:14:21.129
+kterým se říká opakované učení.
+
+00:14:21.129 --> 00:14:25.106
+Co uděláme poté, je, že nepatrně zvýšíme rychlost.
+
+00:14:25.106 --> 00:14:28.669
+Sledujeme výsledky a opět upravíme řízení
+
+00:14:28.669 --> 00:14:31.191
+a znovu sledujeme, co se stane.

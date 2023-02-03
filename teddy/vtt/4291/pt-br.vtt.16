@@ -1,0 +1,34 @@
+WEBVTT
+
+00:07:59.426 --> 00:08:02.665
+Descobrimos que se se lançarmos nessas moscas
+
+00:08:02.665 --> 00:08:05.513
+consecutivamente alguns sopros da sopradeira,
+
+00:08:05.513 --> 00:08:08.202
+elas ficavam um pouco hiperativas
+
+00:08:08.202 --> 00:08:12.637
+e continuavam a voar por um tempo até depois que os sopros paravam,
+
+00:08:12.637 --> 00:08:15.501
+e demoravam um pouco para se acalmar.
+
+00:08:15.501 --> 00:08:17.690
+Quantificamos esse comportamento
+
+00:08:17.690 --> 00:08:20.702
+usando um software personalizado de rastreamento de movimento,
+
+00:08:20.702 --> 00:08:23.502
+desenvolvido com o meu colaborador Pietro Perona,
+
+00:08:23.502 --> 00:08:27.114
+que é da divisão de engenharia eletrônica aqui da CalTech.
+
+00:08:27.114 --> 00:08:29.928
+Essa quantificação nos mostrou que,
+
+00:08:29.928 --> 00:08:33.152
+ao passar por uma sequência desses sopros de ar,

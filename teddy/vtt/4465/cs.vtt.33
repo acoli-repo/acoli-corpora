@@ -1,0 +1,43 @@
+WEBVTT
+
+00:16:26.954 --> 00:16:30.356
+Každá z opic dostává 
+dvě dimenze na obrazovce,
+
+00:16:30.356 --> 00:16:32.132
+a ty také řídí.
+
+00:16:32.132 --> 00:16:35.150
+Aby to bylo možné provést,
+
+00:16:35.150 --> 00:16:37.964
+potřebujete, aby nejméně dvě opice
+synchronizovaly své mozky.
+
+00:16:37.964 --> 00:16:39.735
+Ideálně tři.
+
+00:16:39.735 --> 00:16:43.351
+Zjistili jsme, že když jedna opice
+začne polevovat,
+
+00:16:43.351 --> 00:16:45.962
+ty dvě druhé zvýší výkon,
+
+00:16:45.962 --> 00:16:47.944
+aby se "paže" vrátila zpátky.
+
+00:16:47.944 --> 00:16:50.050
+Je tu tedy dynamické vyrovnávání,
+
+00:16:50.050 --> 00:16:54.399
+ale celková souhra zůstávás stejná.
+
+00:16:54.399 --> 00:16:57.023
+Když bez upozornění prohodíte
+
+00:16:57.023 --> 00:16:59.321
+dimenze, které každý mozek řídí,
+
+00:16:59.321 --> 00:17:01.620
+jako že ten, co řídil x a y

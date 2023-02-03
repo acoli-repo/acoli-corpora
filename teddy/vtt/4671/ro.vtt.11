@@ -1,0 +1,35 @@
+WEBVTT
+
+00:05:28.326 --> 00:05:30.617
+mulțumindu-vă reciproc 
+la a doua întrebare.
+
+00:05:30.617 --> 00:05:35.241
+Răspunsurile date au obținut 10 din 11, 
+adică 91% satisfacție pentru B.
+
+00:05:35.241 --> 00:05:36.117
+Nu e deloc rău.
+
+00:05:36.117 --> 00:05:40.456
+La urmă se obține un singur număr pentru 
+ambii parteneri din cele două procentaje.
+
+00:05:40.456 --> 00:05:42.747
+Pentru asta, algoritmul 
+vă înmulțește scorurile,
+
+00:05:42.747 --> 00:05:46.780
+apoi extrage un radical de ordin n, 
+unde n înseamnă numărul întrebărilor.
+
+00:05:46.792 --> 00:05:51.421
+Deoarece s, sau numărul întrebărilor, 
+din acest exemplu e doar 2,
+
+00:05:51.457 --> 00:05:58.083
+scorul final va însemna rădăcina pătrată 
+din 98% înmulțit cu 91%.
+
+00:05:58.083 --> 00:06:00.304
+Adică 94%.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:57.128 --> 00:07:01.339
+Mỗi pixel trong một ảnh trắng đen 
+đơn giản chỉ là 0 và 1.
+
+00:07:01.849 --> 00:07:06.673
+Và chúng ta có thể viết DNA như cách
+một máy in in chữ lên giấy.
+
+00:07:06.697 --> 00:07:10.521
+Và chúng ta chỉ cần chuyển đổi dữ liệu,
+những thứ bao gồm 0 và 1,
+
+00:07:10.545 --> 00:07:12.683
+về dạng A, T, C, và G,
+
+00:07:12.707 --> 00:07:14.965
+và đưa nó tới một
+công ti tổng hợp.
+
+00:07:14.989 --> 00:07:16.936
+Vậy chúng ta viết nó, 
+lưu trữ nó,
+
+00:07:16.960 --> 00:07:20.194
+và khi muốn phục hồi,
+chúng ta chỉ cần sắp xếp nó.
+
+00:07:20.218 --> 00:07:24.299
+Bây giờ, điều thú vị là
+quyết định lưu tệp nào.
+
+00:07:24.323 --> 00:07:27.700
+Chúng ta là những nhà khoa học,
+vì vậy chúng ta sẽ có những bản viết tay
+
+00:07:27.724 --> 00:07:29.467
+cho hậu thế.
+
+00:07:29.491 --> 00:07:32.324
+Chúng ta sẽ lưu trữ
+thẻ quà tặng Amazon 50 đô --

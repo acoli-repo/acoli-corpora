@@ -1,0 +1,34 @@
+WEBVTT
+
+00:13:29.063 --> 00:13:31.763
+nhưng chúng vẫn còn thiếu chính xác.
+
+00:13:31.797 --> 00:13:34.730
+Thế nên chúng tôi ghi lại những ví dụ,
+dữ liệu
+
+00:13:34.763 --> 00:13:37.630
+và đi qua một loạt bước.
+
+00:13:38.263 --> 00:13:41.397
+Đầu tiên, chúng tôi dùng kỹ thuật
+tên là biến dạng thời gian động
+
+00:13:41.430 --> 00:13:42.930
+từ nhận dạng giọng nói.
+
+00:13:42.930 --> 00:13:46.263
+Và nó cho phép chúng ta tạm thời
+điều chỉnh tất cả ví dụ.
+
+00:13:46.930 --> 00:13:52.130
+Rồi chúng ta áp dụng lọc Kalman,
+một kỹ thuật từ kiểm soát lý thuyết,
+
+00:13:52.130 --> 00:13:55.097
+cho phép chúng ta phân tích dữ liệu
+mọi âm thanh
+
+00:13:55.130 --> 00:13:59.263
+và lọc ra quỹ đạo ta muốn
+ẩn dưới chúng.

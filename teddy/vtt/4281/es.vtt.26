@@ -1,0 +1,44 @@
+WEBVTT
+
+00:12:58.348 --> 00:13:00.530
+Comenzamos a trabajar con
+Pieter y sus estudiantes
+
+00:13:00.530 --> 00:13:03.193
+y le pedimos a un cirujano que realice
+
+00:13:03.193 --> 00:13:07.644
+una tarea, y al robot
+
+00:13:07.644 --> 00:13:09.707
+le pedimos al robot...
+
+00:13:09.707 --> 00:13:10.985
+el cirujano realiza la tarea,
+
+00:13:10.985 --> 00:13:13.257
+y nosotros registramos los movimientos del robot.
+
+00:13:13.257 --> 00:13:15.385
+Aquí tenemos un ejemplo.
+Usaré un ocho como figura,
+
+00:13:15.385 --> 00:13:17.625
+rastrearemos la figura de ocho como ejemplo.
+
+00:13:17.625 --> 00:13:21.255
+Aquí está cómo se ve cuando el robot...
+
+00:13:21.255 --> 00:13:23.572
+así se ven las trayectorias del robot,
+
+00:13:23.572 --> 00:13:24.746
+esos tres ejemplos.
+
+00:13:24.746 --> 00:13:27.208
+Bueno, son mucho mejores
+que los que un novato
+
+00:13:27.208 --> 00:13:31.865
+como yo podría hacer pero 
+aún son erráticos e imprecisos.

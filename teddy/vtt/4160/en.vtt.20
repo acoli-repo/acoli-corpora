@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:58.601 --> 00:10:01.050
+they trigger something
+that notifies public health,
+
+00:10:01.074 --> 00:10:05.963
+and then to fill in some of those gaps
+in the prior exposure.
+
+00:10:05.987 --> 00:10:11.596
+What it does not do is it does not use
+GPS or location to track people.
+
+00:10:11.620 --> 00:10:14.306
+So the system actually uses
+something different
+
+00:10:14.330 --> 00:10:16.077
+called Bluetooth Low Energy,
+
+00:10:16.101 --> 00:10:18.302
+which is privacy-preserving,
+
+00:10:18.326 --> 00:10:20.295
+it doesn't drain the battery
+
+00:10:20.319 --> 00:10:23.288
+and it makes it more also interoperable
+
+00:10:23.312 --> 00:10:25.551
+between both Apple and the Android system
+
+00:10:25.575 --> 00:10:27.828
+so it's more useful,
+not only in the US context,
+
+00:10:27.852 --> 00:10:29.399
+but globally.
+
+00:10:29.423 --> 00:10:32.068
+So we built this system
+in response to some requests

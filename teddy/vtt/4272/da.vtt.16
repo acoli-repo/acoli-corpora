@@ -1,0 +1,36 @@
+WEBVTT
+
+00:07:58.274 --> 00:08:01.973
+De var istand til at overtage en håndfuld 
+kritiske computere
+
+00:08:01.973 --> 00:08:05.734
+inde i bilen: Bremsernes computer, 
+lysenes computer,
+
+00:08:05.734 --> 00:08:08.561
+motoren, instrumentbrættet, radioen, osv.,
+
+00:08:08.561 --> 00:08:10.854
+og de var istand til at gøre det med en rigtig bil
+
+00:08:10.854 --> 00:08:13.881
+som de overtog ved at bruge radioen.
+
+00:08:13.881 --> 00:08:16.884
+De var istand til at bryde ind i hver enkelt
+
+00:08:16.884 --> 00:08:19.350
+stykke software som kontrollerede hver enkelt
+
+00:08:19.350 --> 00:08:22.365
+af de trådløse muligheder i bilen.
+
+00:08:22.365 --> 00:08:24.878
+Alt dette var succesfuldt udført.
+
+00:08:24.878 --> 00:08:27.230
+Hvordan vil du stjæle en bil af denne model?
+
+00:08:27.230 --> 00:08:30.910
+Well, du angriber med en buffer overflow

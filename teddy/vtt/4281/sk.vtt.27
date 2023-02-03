@@ -1,0 +1,31 @@
+WEBVTT
+
+00:13:27.208 --> 00:13:31.865
+ako napríklad ja, ale stále je to trhavé a nepresné.
+
+00:13:31.865 --> 00:13:33.937
+Nahrali sme všetky príklady, údaje,
+
+00:13:33.937 --> 00:13:37.649
+a potom sme vykonali niekoľko krokov.
+
+00:13:37.649 --> 00:13:41.281
+Po prvé, použili sme techniku, ktorá sa volá dynamické zakrivenie času
+
+00:13:41.281 --> 00:13:43.463
+z rozpoznania reči, a to nám umožnilo dočasne
+
+00:13:43.463 --> 00:13:46.303
+usporiadať všetky príklady.
+
+00:13:46.303 --> 00:13:49.232
+Potom sme uplatnili Kalmanov filter,
+
+00:13:49.232 --> 00:13:52.215
+techniku z teórie riadenia, ktorá nám umožňuje
+
+00:13:52.215 --> 00:13:54.887
+analyzovať všetok hluk štatisticky
+
+00:13:54.887 --> 00:14:01.070
+a extrahovať požadovanú trajektóriu, ktorá je jeho podkladom.

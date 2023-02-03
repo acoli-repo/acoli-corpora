@@ -1,0 +1,53 @@
+WEBVTT
+
+00:12:59.014 --> 00:13:01.207
+Para criar algo assim e fazê-lo funcionar,
+
+00:13:01.208 --> 00:13:03.978
+eu vou só mencionar essas coisas,
+não vou dar detalhes,
+
+00:13:03.979 --> 00:13:06.415
+precisamos de um plano,
+no caso, de construir isso
+
+00:13:06.416 --> 00:13:08.540
+como uma infraestrutura
+que todos possam usar
+
+00:13:08.541 --> 00:13:10.282
+para resolver esses problemas todos.
+
+00:13:10.283 --> 00:13:12.330
+Vamos criar um método,
+
+00:13:12.331 --> 00:13:13.878
+que terá que ser universal,
+
+00:13:13.879 --> 00:13:15.471
+para ser usado em qualquer lugar.
+
+00:13:15.472 --> 00:13:17.962
+Eu vou mostrar um pouco da tecnologia
+conforme formos avançando.
+
+00:13:17.963 --> 00:13:20.149
+Esse é um caixa eletrônico japonês,
+
+00:13:20.150 --> 00:13:22.467
+o leitor de digitais
+fica dentro do celular
+
+00:13:22.468 --> 00:13:24.124
+e quando você quer tirar dinheiro,
+
+00:13:24.125 --> 00:13:26.281
+você coloca o celular no caixa
+e passa o dedo.
+
+00:13:26.282 --> 00:13:29.776
+O celular lê a impressão,
+diz que sim, é o Fulano,
+
+00:13:29.777 --> 00:13:32.183
+e o caixa entrega o dinheiro.

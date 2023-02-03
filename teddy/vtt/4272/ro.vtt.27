@@ -1,0 +1,36 @@
+WEBVTT
+
+00:13:24.827 --> 00:13:32.057
+ca să măsoare devierea accelerometrului
+pentru a determina ce tastase persoana.
+
+00:13:32.243 --> 00:13:34.819
+Au încercat asta cu un iPhone 3GS.
+
+00:13:34.819 --> 00:13:38.928
+Acesta e graficul perturbațiilor
+create de tastare
+
+00:13:38.928 --> 00:13:43.859
+și vedeți că e foarte dificil
+să se determine când sau ce se tastează.
+
+00:13:43.907 --> 00:13:47.267
+Dar iPhone 4 are un accelerometru
+mult îmbunătățit
+
+00:13:47.577 --> 00:13:51.927
+și aceeași măsurătoare
+a generat acest grafic.
+
+00:13:52.309 --> 00:13:55.695
+Ai aici multe informații
+în timp ce se tastează.
+
+00:13:55.695 --> 00:13:58.036
+Apoi au folosit tehnici
+de inteligență artificială
+
+00:13:58.036 --> 00:14:02.463
+numite „machine learning”
+pentru etapa de antrenare.

@@ -1,0 +1,41 @@
+WEBVTT
+
+00:12:58.082 --> 00:13:00.622
+We started working with Pieter
+and his students.
+
+00:13:00.646 --> 00:13:04.826
+And we asked a surgeon
+to perform a task --
+
+00:13:06.761 --> 00:13:07.912
+with the robot.
+
+00:13:07.936 --> 00:13:10.961
+So what we're doing is asking
+the surgeon to perform the task,
+
+00:13:10.985 --> 00:13:13.021
+and we record the motions of the robot.
+
+00:13:13.045 --> 00:13:14.471
+So here's an example.
+
+00:13:14.495 --> 00:13:17.616
+I'll use tracing out
+a figure eight as an example.
+
+00:13:18.170 --> 00:13:21.804
+So here's what it looks like
+when the robot --
+
+00:13:21.828 --> 00:13:24.896
+this is what the robot's path
+looks like, those three examples.
+
+00:13:24.920 --> 00:13:29.056
+Now, those are much better
+than what a novice like me could do,
+
+00:13:29.080 --> 00:13:31.774
+but they're still jerky and imprecise.

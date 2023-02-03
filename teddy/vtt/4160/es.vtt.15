@@ -1,0 +1,35 @@
+WEBVTT
+
+00:07:28.707 --> 00:07:30.318
+sino tan solo un API.
+
+00:07:30.342 --> 00:07:37.259
+Es un sistema que permite
+a una agencia de salud pública
+
+00:07:37.283 --> 00:07:39.726
+crear una app.
+
+00:07:39.750 --> 00:07:44.021
+Y únicamente el API, esta conexión
+con el sistema del teléfono,
+
+00:07:44.045 --> 00:07:45.898
+está disponible para la salud pública.
+
+00:07:45.898 --> 00:07:47.935
+De modo que su única finalidad
+
+00:07:47.959 --> 00:07:53.162
+es ayudar a la salud pública y a su labor
+de rastreo de contactos COVID-19.
+
+00:07:54.366 --> 00:07:57.666
+La segunda idea de este proyecto es que
+queríamos construir un sistema
+
+00:07:57.666 --> 00:07:59.160
+que respetase la privacidad,
+
+00:07:59.184 --> 00:08:01.049
+que pusiera al usuario en primer plano,

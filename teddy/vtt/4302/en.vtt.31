@@ -1,0 +1,52 @@
+WEBVTT
+
+00:15:28.655 --> 00:15:30.711
+the cryptography to do that
+not only exists,
+
+00:15:30.735 --> 00:15:32.889
+it's extremely well-known
+and well-understood.
+
+00:15:32.913 --> 00:15:35.840
+Digital signatures, the blinding
+of public key certificates --
+
+00:15:35.864 --> 00:15:38.118
+these technologies
+have been around for a while,
+
+00:15:38.142 --> 00:15:40.152
+we've just had no way
+of packaging them up.
+
+00:15:40.176 --> 00:15:41.760
+So the technology already exists.
+
+00:15:41.784 --> 00:15:45.084
+We know it works.
+
+00:15:45.108 --> 00:15:47.591
+There are a few examples
+of the technology being used
+
+00:15:47.615 --> 00:15:48.850
+in experimental places.
+
+00:15:48.874 --> 00:15:50.179
+That's London Fashion Week,
+
+00:15:50.203 --> 00:15:52.054
+where we built a system with O2.
+
+00:15:52.078 --> 00:15:54.694
+That's for the Wireless
+Festival in Hyde Park.
+
+00:15:54.718 --> 00:15:57.382
+You can see the person's
+walking in with their VIP band,
+
+00:15:57.406 --> 00:16:00.321
+it's being checked by the Nokia phone
+that's reading the band.

@@ -1,0 +1,38 @@
+WEBVTT
+
+00:14:01.070 --> 00:14:02.534
+Fogtuk tehát ezeket a
+
+00:14:02.534 --> 00:14:05.237
+meglehetősen zajos 
+és tökéletlen emberi mozgáspályákat,
+
+00:14:05.237 --> 00:14:08.178
+származtattunk belőlük 
+egy feltételezett pályát,
+
+00:14:08.178 --> 00:14:10.961
+és egy vezérlőszekvenciát a robot számára.
+
+00:14:11.181 --> 00:14:13.215
+Azután végrehajtottuk azt a roboton,
+
+00:14:13.365 --> 00:14:15.157
+és megfigyeltük, mi történik,
+
+00:14:15.247 --> 00:14:18.729
+majd a vezérlést az iteratív tanulásnak
+
+00:14:18.729 --> 00:14:20.989
+nevezett technikák segítségével 
+módosítottuk.
+
+00:14:21.129 --> 00:14:24.286
+Aztán egy kicsit növeltük a sebességet.
+
+00:14:25.106 --> 00:14:28.489
+Megfigyeltük az eredményeket, 
+és újra módosítottunk a vezérlésen,
+
+00:14:29.009 --> 00:14:31.121
+és megfigyeltük mi történik.

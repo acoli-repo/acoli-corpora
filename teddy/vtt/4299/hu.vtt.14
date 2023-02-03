@@ -1,0 +1,35 @@
+WEBVTT
+
+00:06:58.977 --> 00:07:02.602
+az hogyan jut el A személytől B személyig?
+
+00:07:03.358 --> 00:07:08.082
+Vagy A-tól, B, C és D személyig?
+
+00:07:08.106 --> 00:07:10.460
+A netes tartalommegosztásokat ismerjük,
+
+00:07:10.484 --> 00:07:12.842
+de azt nem, hogyan kerül át
+
+00:07:12.866 --> 00:07:14.507
+egyik személytől a másikig.
+
+00:07:14.571 --> 00:07:16.871
+Ennek kiderítésére terveztük meg
+
+00:07:16.891 --> 00:07:19.014
+a <i>Cascade</i>, azaz Kaszkád nevű eszközt.
+
+00:07:19.471 --> 00:07:22.066
+Ha megnézzük ezeket a rendszereket,
+
+00:07:22.090 --> 00:07:26.520
+miként vezet egyik történés a másikig,
+
+00:07:26.544 --> 00:07:28.782
+egyfajta kaszkád-szerkezetet látunk.
+
+00:07:28.806 --> 00:07:31.215
+Ezek a kaszkádok pedig
+időben bontakoznak ki,

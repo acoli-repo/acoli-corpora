@@ -1,0 +1,39 @@
+WEBVTT
+
+00:07:29.815 --> 00:07:32.657
+Vejamos como isso
+se aplica a esta questão:
+
+00:07:32.681 --> 00:07:35.470
+"Você pode desligar o computador?"
+como sugeriu Turing.
+
+00:07:37.073 --> 00:07:41.043
+Aqui está o robô PR2,
+que temos em nosso laboratório,
+
+00:07:41.062 --> 00:07:43.965
+com um grande botão
+liga e desliga vermelho nas costas.
+
+00:07:44.541 --> 00:07:47.156
+A questão é: ele deixará você desligá-lo?
+
+00:07:47.180 --> 00:07:49.425
+Pelo modo tradicional,
+damos a ele a missão
+
+00:07:49.425 --> 00:07:52.151
+"Traga o café, devo trazer o café,
+
+00:07:52.175 --> 00:07:54.755
+não posso trazer o café
+se eu estiver morto".
+
+00:07:54.779 --> 00:07:57.300
+É claro que o PR2 estava
+ouvindo minha conversa,
+
+00:07:58.144 --> 00:08:01.897
+e diz então: "Devo desabilitar
+meu botão liga e desliga,

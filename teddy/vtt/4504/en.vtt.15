@@ -1,0 +1,39 @@
+WEBVTT
+
+00:07:29.800 --> 00:07:33.372
+These are companies that operate
+in more than one country,
+
+00:07:33.396 --> 00:07:35.237
+and we found 43,000.
+
+00:07:37.148 --> 00:07:40.109
+In the next step, we built
+the network around these companies,
+
+00:07:40.133 --> 00:07:42.489
+so we took all the TNCs' shareholders,
+
+00:07:42.513 --> 00:07:44.472
+and the shareholders' shareholders, etc.,
+
+00:07:44.496 --> 00:07:47.348
+all the way upstream,
+and we did the same downstream,
+
+00:07:47.372 --> 00:07:51.500
+and ended up with a network
+containing 600,000 nodes
+
+00:07:51.524 --> 00:07:52.818
+and one million links.
+
+00:07:53.310 --> 00:07:55.801
+This is the TNC network which we analyzed.
+
+00:07:57.251 --> 00:07:59.360
+And it turns out to be
+structured as follows.
+
+00:07:59.384 --> 00:08:01.911
+So you have a periphery and a center

@@ -1,0 +1,37 @@
+WEBVTT
+
+00:17:27.053 --> 00:17:30.101
+and this thing has encyclopedic knowledge,
+
+00:17:30.125 --> 00:17:33.133
+and can actually engage
+in commonsense language.
+
+00:17:33.157 --> 00:17:35.324
+RK: But the strategy I just described,
+
+00:17:35.348 --> 00:17:39.918
+of simulating moves and countermoves
+in a simulated environment,
+
+00:17:39.942 --> 00:17:42.053
+doesn't really work in this case,
+
+00:17:42.077 --> 00:17:43.402
+because language --
+
+00:17:43.426 --> 00:17:46.656
+I mean, Turing's insight in basing
+the Turing test on language
+
+00:17:46.680 --> 00:17:49.927
+is that language embodies
+all of human intelligence,
+
+00:17:49.951 --> 00:17:54.288
+and there's no simple methods or tricks
+where you can have a shortcut.
+
+00:17:54.728 --> 00:18:00.125
+So we're painstakingly building up
+the ability to understand language,

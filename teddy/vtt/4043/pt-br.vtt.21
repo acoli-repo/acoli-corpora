@@ -1,0 +1,27 @@
+WEBVTT
+
+00:10:28.810 --> 00:10:32.220
+ajustando os passos para um pouco
+mais largos ou mais curtos.
+
+00:10:33.310 --> 00:10:38.253
+Vamos mudar para um outro modo,
+em que ele imagina os blocos
+
+00:10:38.282 --> 00:10:42.472
+como terreno e decide se vai dar
+um passo para cima ou para baixo
+
+00:10:43.022 --> 00:10:44.471
+enquanto caminha.
+
+00:10:45.468 --> 00:10:49.796
+Faz isso usando equilíbrio dinâmico,
+e percepção móvel dinâmica,
+
+00:10:49.798 --> 00:10:55.327
+pois precisa coordenar o que vê
+com a forma como se move.
+
+00:10:57.007 --> 00:11:02.047
+O Spot também tem um braço robótico.

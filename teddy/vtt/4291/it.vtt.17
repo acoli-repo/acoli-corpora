@@ -1,0 +1,34 @@
+WEBVTT
+
+00:08:29.928 --> 00:08:33.152
+sperimentando una sequenza di sbuffi d'aria,
+
+00:08:33.152 --> 00:08:37.466
+i moscerini sembrano entrare un una specie di stato di iperattività
+
+00:08:37.466 --> 00:08:40.064
+che è persistente, duraturo
+
+00:08:40.064 --> 00:08:42.568
+e sembra anche avere diversi livelli.
+
+00:08:42.568 --> 00:08:45.427
+Più sbuffi, o sbuffi più intensi,
+
+00:08:45.427 --> 00:08:49.340
+fanno sì che quello stato duri più a lungo.
+
+00:08:49.340 --> 00:08:51.376
+A quel punto volevamo cercare di capire
+
+00:08:51.376 --> 00:08:55.090
+cosa controlli la durata di questo stato.
+
+00:08:55.090 --> 00:08:57.941
+Decidemmo di usare il nostro tappeto-a-sbuffo
+
+00:08:57.941 --> 00:08:59.996
+e il nostro software di tracciatura automatica
+
+00:08:59.996 --> 00:09:03.778
+per analizzare centinaia di tracciati di moscerini mutanti

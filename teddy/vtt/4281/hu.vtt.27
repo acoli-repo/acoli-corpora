@@ -1,0 +1,38 @@
+WEBVTT
+
+00:13:27.628 --> 00:13:31.255
+mint én, készíthet, de 
+még szaggatottak és pontatlanok.
+
+00:13:31.605 --> 00:13:33.847
+Rögzítettük mindezeket a példákat, 
+az adatokat,
+
+00:13:33.847 --> 00:13:37.239
+majd ezután végigmentünk egy lépéssoron.
+
+00:13:37.909 --> 00:13:40.971
+Először egy dinamikus időelhajlás nevű 
+módszert vettünk kölcsön
+
+00:13:40.971 --> 00:13:43.463
+a beszédfelismerésből, 
+ami lehetővé tette számunkra,
+
+00:13:43.463 --> 00:13:46.303
+hogy időben összehangoljuk 
+ezeket a példákat.
+
+00:13:46.713 --> 00:13:49.152
+Ezután a Kálmán-szűrést alkalmaztuk,
+
+00:13:49.202 --> 00:13:52.285
+egy szabályozáselméleti technikát,
+
+00:13:52.285 --> 00:13:54.997
+amellyel statisztikailag elemezni 
+tudtuk az összes zajt,
+
+00:13:54.997 --> 00:13:59.590
+kiemelve a mögöttük rejlő, 
+kívánt görbéket.

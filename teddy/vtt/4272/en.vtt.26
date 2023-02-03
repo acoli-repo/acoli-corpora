@@ -1,0 +1,37 @@
+WEBVTT
+
+00:12:58.353 --> 00:13:00.543
+Every security expert wants to hack a smartphone,
+
+00:13:00.543 --> 00:13:05.155
+and we tend to look at the USB port, the GPS for tracking,
+
+00:13:05.155 --> 00:13:08.363
+the camera, the microphone, but no one up till this point
+
+00:13:08.363 --> 00:13:09.943
+had looked at the accelerometer.
+
+00:13:09.943 --> 00:13:11.590
+The accelerometer is the thing that determines
+
+00:13:11.590 --> 00:13:15.084
+the vertical orientation of the smartphone.
+
+00:13:15.084 --> 00:13:16.501
+And so they had a simple setup.
+
+00:13:16.501 --> 00:13:19.259
+They put a smartphone next to a keyboard,
+
+00:13:19.259 --> 00:13:21.971
+and they had people type, and then their goal was
+
+00:13:21.971 --> 00:13:24.827
+to use the vibrations that were created by typing
+
+00:13:24.827 --> 00:13:29.067
+to measure the change in the accelerometer reading
+
+00:13:29.067 --> 00:13:32.243
+to determine what the person had been typing.

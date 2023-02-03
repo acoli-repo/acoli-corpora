@@ -1,0 +1,44 @@
+WEBVTT
+
+00:08:27.230 --> 00:08:30.910
+Eh bien, vous exploitez une faille de &lt;i&gt;buffer overflow&lt;/i&gt;
+
+00:08:30.910 --> 00:08:33.437
+dans le logiciel, ou quelque chose du genre.
+
+00:08:33.437 --> 00:08:35.640
+Puis vous localisez la voiture à l'aide du GPS intégré.
+
+00:08:35.640 --> 00:08:37.835
+À distance, vous ouvrez
+les portières en accédant
+
+00:08:37.835 --> 00:08:40.973
+à l'ordinateur qui contrôle le verrouillage,
+vous démarrez le moteur, vous contournez l'antivol
+
+00:08:40.973 --> 00:08:42.641
+et vous avez votre voiture.
+
+00:08:42.641 --> 00:08:45.128
+Autre aspect très intéressant : la surveillance.
+
+00:08:45.128 --> 00:08:48.337
+Les auteurs de l'étude montrent dans une vidéo
+
+00:08:48.337 --> 00:08:50.886
+comment ils ont pris le contrôle d'une voiture,
+
+00:08:50.886 --> 00:08:53.647
+ont allumé le micro embarqué pour écouter,
+
+00:08:53.647 --> 00:08:56.998
+tandis que la voiture était pistée
+par GPS sur une carte,
+
+00:08:56.998 --> 00:08:58.711
+et tout cela de manière
+à ce que les personnes à bord
+
+00:08:58.711 --> 00:09:00.879
+ne se rendent compte de rien.

@@ -1,0 +1,31 @@
+WEBVTT
+
+00:05:25.000 --> 00:05:31.000
+Eh bien, passez à 4 lettres et vous avez une complexité encore plus grande,
+
+00:05:31.000 --> 00:05:35.000
+beaucoup de façons de décrire des mécanismes.
+
+00:05:35.000 --> 00:05:37.000
+Voyons un peu ce que cela veut dire.
+
+00:05:37.000 --> 00:05:39.000
+Si vous observez un génome humain,
+
+00:05:39.000 --> 00:05:45.000
+il est constitué de 3,2 milliards de paires de bases. C'est beaucoup.
+
+00:05:45.000 --> 00:05:47.000
+Ces paires de bases sont arrangées de différentes façons,
+
+00:05:47.000 --> 00:05:50.000
+qui font de vous un être humain.
+
+00:05:50.000 --> 00:05:55.000
+Convertissez ça en binaire, juste pour donner une idée de dimensionnement,
+
+00:05:55.000 --> 00:05:59.000
+c'est en fait plus petit que le logiciel Microsoft Office.
+
+00:05:59.000 --> 00:06:03.000
+Ça ne fait pas tant de données que cela.

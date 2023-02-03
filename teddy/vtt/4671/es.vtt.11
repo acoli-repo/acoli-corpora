@@ -1,0 +1,49 @@
+WEBVTT
+
+00:05:28.324 --> 00:05:30.617
+de la segunda pregunta ambos 
+están satisfechos entre sí.
+
+00:05:30.617 --> 00:05:32.611
+Entonces sus respuestas 
+fueron 10 de 11
+
+00:05:32.611 --> 00:05:35.240
+que equivale al 91% de 
+satisfacción para B.
+
+00:05:35.240 --> 00:05:36.117
+No está mal.
+
+00:05:36.117 --> 00:05:38.286
+El paso final es tomar estos 
+dos porcentajes de compatibilidad
+
+00:05:38.286 --> 00:05:40.454
+y obtener un número para ambos.
+
+00:05:40.454 --> 00:05:42.747
+Para hacer esto, el algoritmo 
+multiplica sus resultados,
+
+00:05:42.747 --> 00:05:44.500
+hace la raíz de n,
+
+00:05:44.500 --> 00:05:46.792
+donde n es el número de preguntas.
+
+00:05:46.792 --> 00:05:49.401
+Dado que s, es el número de preguntas,
+
+00:05:49.401 --> 00:05:51.507
+en este ejemplo, es solamente 2,
+
+00:05:51.507 --> 00:05:54.093
+tenemos porcentajes de 
+compatibilidad que equivalen
+
+00:05:54.093 --> 00:05:58.154
+a la raíz cuadrada de 98 % por 91 %,
+
+00:05:58.154 --> 00:06:00.304
+que equivale a 94 %.

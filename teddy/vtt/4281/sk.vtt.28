@@ -1,0 +1,37 @@
+WEBVTT
+
+00:13:54.887 --> 00:14:01.070
+a extrahovať požadovanú trajektóriu, ktorá je jeho podkladom.
+
+00:14:01.070 --> 00:14:03.064
+V podstate zoberieme demonštrácie ľudí,
+
+00:14:03.064 --> 00:14:05.087
+ktoré sú plné hluku a nedokonalostí,
+
+00:14:05.087 --> 00:14:08.178
+a z nich extrahujeme domyslenú trajektóriu úlohy
+
+00:14:08.178 --> 00:14:11.181
+a kontrolný úryvok pre robota.
+
+00:14:11.181 --> 00:14:13.365
+Použijeme ho na robotovi
+
+00:14:13.365 --> 00:14:15.537
+a sledujeme, čo sa stane.
+
+00:14:15.537 --> 00:14:18.199
+Potom upravíme ovládanie pomocou niekoľkých techník, ktoré sa volajú
+
+00:14:18.199 --> 00:14:21.129
+opakované učenie.
+
+00:14:21.129 --> 00:14:25.106
+Potom trochu zvýšime rýchlosť.
+
+00:14:25.106 --> 00:14:28.669
+Pozorujeme výsledky, znova upravujeme ovládanie
+
+00:14:28.669 --> 00:14:31.191
+a pozorujeme, čo sa stane.

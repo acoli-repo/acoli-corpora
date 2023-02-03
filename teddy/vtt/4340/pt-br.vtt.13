@@ -1,0 +1,30 @@
+WEBVTT
+
+00:06:27.743 --> 00:06:31.692
+No caso da altura da Torre Eiffel,
+se temos as seguintes respostas:
+
+00:06:31.692 --> 00:06:36.280
+250 metros, 200 metros, 300 metros, 400
+
+00:06:36.280 --> 00:06:40.532
+e uma resposta absurda
+de 300 milhões de metros.
+
+00:06:40.532 --> 00:06:45.000
+A média simples distorceria os resultados.
+
+00:06:45.000 --> 00:06:49.140
+Com a média robusta os grupos ignoram
+aquela resposta absurda,
+
+00:06:49.140 --> 00:06:53.028
+dando mais valor às opiniões
+das pessoas no meio.
+
+00:06:53.028 --> 00:06:57.201
+De volta ao experimento em Vancouver,
+foi exatamente isso que aconteceu.
+
+00:06:57.201 --> 00:07:00.332
+Deram menos importância aos absurdos,

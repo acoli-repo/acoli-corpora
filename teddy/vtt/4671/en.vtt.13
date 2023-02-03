@@ -1,0 +1,50 @@
+WEBVTT
+
+00:06:27.154 --> 00:06:30.592
+like I said, about movies, politics,
+religion -- everything.
+
+00:06:30.616 --> 00:06:32.454
+Intuitively, too, this makes sense.
+
+00:06:32.478 --> 00:06:35.253
+Two people satisfying
+each other 50 percent
+
+00:06:35.277 --> 00:06:39.229
+should be a better match
+than two others who satisfy 0 and 100,
+
+00:06:39.253 --> 00:06:41.067
+because affection needs to be mutual.
+
+00:06:41.091 --> 00:06:43.582
+After adding a little correction
+for margin of error,
+
+00:06:43.606 --> 00:06:46.177
+in the case where we have
+a small number of questions,
+
+00:06:46.201 --> 00:06:47.518
+like we do in this example,
+
+00:06:47.542 --> 00:06:48.714
+we're good to go.
+
+00:06:48.738 --> 00:06:50.650
+Any time OkCupid matches two people,
+
+00:06:50.674 --> 00:06:52.706
+it goes through the steps
+we just outlined.
+
+00:06:52.730 --> 00:06:54.999
+First it collects data about your answers,
+
+00:06:55.023 --> 00:06:58.008
+then it compares your choices
+and preferences to other people's
+
+00:06:58.032 --> 00:06:59.999
+in simple, mathematical ways.

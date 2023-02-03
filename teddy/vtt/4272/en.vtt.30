@@ -1,0 +1,40 @@
+WEBVTT
+
+00:14:58.559 --> 00:15:00.695
+A human's not going to think it's the Supreme might.
+
+00:15:00.695 --> 00:15:02.435
+It's the Supreme Court, right?
+
+00:15:02.435 --> 00:15:04.965
+And so, together we're able to reproduce typing
+
+00:15:04.965 --> 00:15:07.914
+simply by measuring the accelerometer.
+
+00:15:07.914 --> 00:15:11.416
+Why does this matter? Well, in the Android platform,
+
+00:15:11.416 --> 00:15:15.549
+for example, the developers have a manifest
+
+00:15:15.564 --> 00:15:18.148
+where every device on there, the microphone, etc.,
+
+00:15:18.148 --> 00:15:20.104
+has to register if you're going to use it
+
+00:15:20.104 --> 00:15:22.420
+so that hackers can't take over it,
+
+00:15:22.420 --> 00:15:25.528
+but nobody controls the accelerometer.
+
+00:15:25.528 --> 00:15:27.744
+So what's the point? You can leave your iPhone next to
+
+00:15:27.744 --> 00:15:29.850
+someone's keyboard, and just leave the room,
+
+00:15:29.850 --> 00:15:31.489
+and then later recover what they did,

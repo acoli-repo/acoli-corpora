@@ -1,0 +1,40 @@
+WEBVTT
+
+00:13:58.036 --> 00:14:01.043
+artificial intelligence techniques called machine learning
+
+00:14:01.043 --> 00:14:02.474
+to have a training phase,
+
+00:14:02.474 --> 00:14:04.710
+and so they got most likely grad students
+
+00:14:04.710 --> 00:14:08.499
+to type in a whole lot of things, and to learn,
+
+00:14:08.499 --> 00:14:11.267
+to have the system use the machine learning tools that
+
+00:14:11.267 --> 00:14:14.130
+were available to learn what it is that the people were typing
+
+00:14:14.130 --> 00:14:16.957
+and to match that up
+
+00:14:16.957 --> 00:14:19.434
+with the measurements in the accelerometer.
+
+00:14:19.434 --> 00:14:21.069
+And then there's the attack phase, where you get
+
+00:14:21.069 --> 00:14:23.880
+somebody to type something in, you don't know what it was,
+
+00:14:23.880 --> 00:14:25.177
+but you use your model that you created
+
+00:14:25.177 --> 00:14:28.619
+in the training phase to figure out what they were typing.
+
+00:14:28.619 --> 00:14:32.103
+They had pretty good success. This is an article from the USA Today.

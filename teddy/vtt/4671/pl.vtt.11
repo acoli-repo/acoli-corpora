@@ -1,0 +1,47 @@
+WEBVTT
+
+00:05:28.324 --> 00:05:30.617
+bo w drugim pytaniu
+podałaś pożądaną odpowiedź.
+
+00:05:30.617 --> 00:05:32.611
+Więc twoje odpowiedzi
+to 10 punktów na 11,
+
+00:05:32.611 --> 00:05:35.240
+co daje 91% zgodności.
+
+00:05:35.240 --> 00:05:36.117
+Też nieźle.
+
+00:05:36.117 --> 00:05:38.286
+Ostatni krok to porównanie
+tych dwóch procentów
+
+00:05:38.286 --> 00:05:40.454
+i ustalenie procentu ogólnego
+dla was obojga.
+
+00:05:40.454 --> 00:05:42.747
+Teraz algorytm mnoży wasze wyniki
+
+00:05:42.747 --> 00:05:44.500
+następnie wyciąga z nich n-ty pierwiastek,
+
+00:05:44.500 --> 00:05:46.792
+gdzie n to liczba pytań
+
+00:05:46.792 --> 00:05:49.401
+bo s, czyli suma pytań
+
+00:05:49.401 --> 00:05:51.507
+w naszym przykładzie wynosiła 2.
+
+00:05:51.507 --> 00:05:54.093
+Procent zgodności równa się
+
+00:05:54.093 --> 00:05:58.154
+pierwiastkowi kwadratowemu z 98% razy 91%
+
+00:05:58.154 --> 00:06:00.304
+czyli 94%.

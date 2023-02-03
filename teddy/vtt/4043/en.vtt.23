@@ -1,0 +1,47 @@
+WEBVTT
+
+00:11:28.733 --> 00:11:31.335
+There's a variation of this
+that's called "twerking" --
+
+00:11:31.359 --> 00:11:32.375
+(Laughter)
+
+00:11:32.399 --> 00:11:34.222
+but we're not going to use that today.
+
+00:11:34.246 --> 00:11:35.317
+(Laughter)
+
+00:11:35.341 --> 00:11:38.927
+So, Spot: I'm feeling a little thirsty.
+Could you get me a soda?
+
+00:11:39.473 --> 00:11:43.246
+For this demo,
+Seth is not doing any driving.
+
+00:11:43.270 --> 00:11:45.383
+We have a LIDAR on the back of the robot,
+
+00:11:45.407 --> 00:11:47.944
+and it's using these props
+we've put on the stage
+
+00:11:47.968 --> 00:11:49.361
+to localize itself.
+
+00:11:49.385 --> 00:11:51.666
+It's gone over to that location.
+
+00:11:51.690 --> 00:11:54.572
+Now it's using a camera that's in its hand
+
+00:11:54.596 --> 00:11:56.382
+to find the cup,
+
+00:11:57.033 --> 00:11:58.288
+picks it up --
+
+00:11:58.312 --> 00:12:00.263
+and again, Seth's not driving.

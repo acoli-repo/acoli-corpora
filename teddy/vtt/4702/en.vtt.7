@@ -1,0 +1,49 @@
+WEBVTT
+
+00:03:29.492 --> 00:03:30.321
+Let's see.
+
+00:03:30.321 --> 00:03:32.991
+In line 1, we initialize n to zero.
+
+00:03:32.991 --> 00:03:34.281
+For a pair of those people,
+
+00:03:34.281 --> 00:03:36.197
+we then increment n by 2,
+
+00:03:36.197 --> 00:03:37.189
+but then what?
+
+00:03:37.189 --> 00:03:39.451
+There isn't another full pair of people in the room,
+
+00:03:39.451 --> 00:03:41.661
+so line 2 no longer applies.
+
+00:03:41.661 --> 00:03:43.330
+And so, by this algorithm's end,
+
+00:03:43.330 --> 00:03:45.926
+n is still 2, which isn't correct.
+
+00:03:45.926 --> 00:03:48.258
+Indeed this algorithm is said to be buggy
+
+00:03:48.258 --> 00:03:49.406
+because it has a mistake.
+
+00:03:49.406 --> 00:03:51.302
+Let's redress with some new pseudocode.
+
+00:03:51.302 --> 00:03:53.095
+Let n equal zero.
+
+00:03:53.095 --> 00:03:55.218
+For each pair of people in room,
+
+00:03:55.218 --> 00:03:57.640
+set n = n + 2.
+
+00:03:57.640 --> 00:04:00.099
+If 1 person remains unpaired,

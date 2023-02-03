@@ -1,0 +1,46 @@
+WEBVTT
+
+00:04:59.223 --> 00:05:00.389
+about messiness,
+
+00:05:00.413 --> 00:05:01.763
+was very important to you.
+
+00:05:01.787 --> 00:05:04.017
+It's worth 50 points and B got that right.
+
+00:05:04.375 --> 00:05:06.112
+The second question is worth only 1,
+
+00:05:06.136 --> 00:05:08.414
+because you said
+it was only a little important.
+
+00:05:08.438 --> 00:05:09.635
+B got that wrong,
+
+00:05:09.659 --> 00:05:12.441
+so B's answers were 50
+out of 51 possible points.
+
+00:05:12.465 --> 00:05:15.073
+That's 98% satisfactory. Pretty good.
+
+00:05:15.097 --> 00:05:19.046
+The second question the algorithm
+looks at is: How much did you satisfy B?
+
+00:05:19.070 --> 00:05:22.329
+Well, B placed 1 point on your answer
+to the messiness question
+
+00:05:22.353 --> 00:05:24.306
+and 10 on your answer to the second.
+
+00:05:24.745 --> 00:05:28.132
+Of those 11, that's 1 plus 10,
+you earned 10 --
+
+00:05:28.156 --> 00:05:30.751
+you guys satisfied each other
+on the second question.

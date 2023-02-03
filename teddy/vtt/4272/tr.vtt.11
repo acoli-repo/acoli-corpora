@@ -1,0 +1,48 @@
+WEBVTT
+
+00:05:29.103 --> 00:05:31.141
+Birisi yakındaki cihazlardan ulaşılabilen
+
+00:05:31.141 --> 00:05:32.922
+bluetooth veya Wi-fi üzerinden
+
+00:05:32.922 --> 00:05:35.059
+kısa mesafe kablosuz haberleşme,
+
+00:05:35.059 --> 00:05:37.233
+diğeri ise hücresel ağ veya radyo
+
+00:05:37.233 --> 00:05:39.015
+istasyonları üzerinden olan
+
+00:05:39.015 --> 00:05:40.975
+uzun mesafe haberleşme
+
+00:05:40.975 --> 00:05:44.024
+Bir düşünün; araç radyo sinyali aldığında
+
+00:05:44.024 --> 00:05:46.225
+yazılım tarafından işlenir.
+
+00:05:46.225 --> 00:05:48.976
+Yazılım radyo sinyalini almalı, çözmeli ve
+
+00:05:48.976 --> 00:05:50.460
+ardından ne yapması 
+
+
+00:05:50.460 --> 00:05:51.944
+gerektiğine karar vermeli.
+
+00:05:51.944 --> 00:05:53.429
+Bu radyoda çalan müzik dahi olsa
+
+00:05:53.429 --> 00:05:55.697
+çözme işlemini yapan yazılımdaki
+
+00:05:55.697 --> 00:05:58.790
+herhangi bir hata arabayı 
+hacklemek(izinsiz erişmek)
+
+00:05:58.790 --> 00:06:01.825
+isteyen birisi için zafiyet yaratacaktır.

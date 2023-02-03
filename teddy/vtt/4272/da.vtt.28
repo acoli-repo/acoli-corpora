@@ -1,0 +1,41 @@
+WEBVTT
+
+00:13:58.036 --> 00:14:01.043
+kunstig intelligensteknik kaldet maskinlæring
+
+00:14:01.043 --> 00:14:02.474
+til at have en træningsfase,
+
+00:14:02.474 --> 00:14:04.710
+hvor de havde en masse studerende
+
+00:14:04.710 --> 00:14:08.499
+til at taste en masse ind, og de satte
+
+00:14:08.499 --> 00:14:11.267
+systemet til at bruge dette maskinlæringsværktøj
+
+00:14:11.267 --> 00:14:14.130
+som var istand til at lære hvad folkene tastede,
+
+00:14:14.130 --> 00:14:16.957
+og de sammenlignede dette med
+
+00:14:16.957 --> 00:14:19.434
+målingerne fra accelerometeret.
+
+00:14:19.434 --> 00:14:21.069
+Og der er en angrebsfase, hvor du får nogen
+
+00:14:21.069 --> 00:14:23.880
+til at taste noget ind, som du ikke ved hvad er,
+
+00:14:23.880 --> 00:14:25.177
+men du bruger den model du har skabt
+
+00:14:25.177 --> 00:14:28.619
+i træningsfasen til at regne ud hvad de taster.
+
+00:14:28.619 --> 00:14:32.103
+De havde temmelig god succes. 
+Dette er en artikel fra USA Today.

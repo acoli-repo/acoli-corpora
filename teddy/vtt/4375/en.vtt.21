@@ -1,0 +1,35 @@
+WEBVTT
+
+00:10:29.778 --> 00:10:31.849
+Every image that you are seeing in here
+
+00:10:31.873 --> 00:10:34.945
+represents unique moments
+from those talks.
+
+00:10:34.969 --> 00:10:36.842
+By using machine intelligence,
+
+00:10:36.866 --> 00:10:41.167
+we processed a total of 487,000 sentences
+
+00:10:41.191 --> 00:10:45.580
+into 330 unique clusters of topics
+like nature, global emissions,
+
+00:10:45.604 --> 00:10:48.890
+extinction, race issues, computation,
+
+00:10:48.914 --> 00:10:52.454
+trust, emotions, water and refugees.
+
+00:10:52.478 --> 00:10:55.327
+These clusters are then
+connected to each other
+
+00:10:55.351 --> 00:10:56.613
+by an algorithm,
+
+00:10:56.637 --> 00:11:00.479
+[that] generated 113 million
+line segments,

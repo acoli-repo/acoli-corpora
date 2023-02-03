@@ -1,0 +1,32 @@
+WEBVTT
+
+00:07:58.274 --> 00:08:03.343
+Au preluat controlul asupra mai multor
+componente vitale ale mașinii:
+
+00:08:03.343 --> 00:08:08.474
+frânele, iluminarea, motorul,
+bordul, radioul etc.,
+
+00:08:08.561 --> 00:08:13.684
+și au făcut asta unor mașini din comerţ,
+folosind reţeaua radio.
+
+00:08:13.881 --> 00:08:18.184
+Au reușit să compromită
+fiecare program de software
+
+00:08:18.184 --> 00:08:22.310
+ce controlează wireless
+fiecare abilitate a maşinii.
+
+00:08:22.365 --> 00:08:24.878
+Toate atacurile au avut succes.
+
+00:08:24.878 --> 00:08:27.230
+Cum ai fura o mașină
+după această schemă?
+
+00:08:27.230 --> 00:08:33.300
+Compromiți mașina printr-o vulnerabilitate
+tip buffer overflow sau ceva asemănător.

@@ -1,0 +1,34 @@
+WEBVTT
+
+00:24:28.252 --> 00:24:32.904
+that is, the average case
+infects 0.4 people,
+
+00:24:32.928 --> 00:24:36.213
+then look at what happens
+to that number as you go out.
+
+00:24:36.237 --> 00:24:37.820
+It drops to zero,
+
+00:24:37.844 --> 00:24:43.407
+and so things that are exponential
+are very, very dramatic.
+
+00:24:43.431 --> 00:24:47.518
+When they're above one,
+they are growing rapidly.
+
+00:24:47.542 --> 00:24:50.998
+When they're below one,
+they are shrinking rapidly.
+
+00:24:51.022 --> 00:24:54.077
+And so the isolation in China
+
+00:24:54.101 --> 00:24:58.529
+drove that reproductive number
+to well below zero.
+
+00:24:58.553 --> 00:25:00.094
+And so local infection rates --

@@ -1,0 +1,41 @@
+WEBVTT
+
+00:07:28.670 --> 00:07:31.725
+é apenas uma API — Interface
+de Programação de Aplicações.
+
+00:07:31.786 --> 00:07:37.132
+É um sistema que permite 
+que uma agência de saúde pública
+
+00:07:37.162 --> 00:07:39.555
+crie uma aplicação,
+
+00:07:39.595 --> 00:07:44.066
+e a API, essa porta
+para o sistema do telefone,
+
+00:07:44.106 --> 00:07:46.191
+está disponível na saúde pública.
+
+00:07:46.280 --> 00:07:48.575
+Não foi concebida com
+nenhum outro objetivo
+
+00:07:48.605 --> 00:07:51.215
+senão apoiar a saúde pública
+e o trabalho que realizam
+
+00:07:51.268 --> 00:07:54.028
+no rastreamento de contactos da Covid-19.
+
+00:07:54.484 --> 00:07:57.646
+A segunda parte é que
+queríamos construir um sistema
+
+00:07:57.646 --> 00:07:59.482
+que salvaguardasse a privacidade,
+
+00:07:59.491 --> 00:08:01.907
+que colocasse os utilizadores
+em primeiro lugar,

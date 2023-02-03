@@ -1,0 +1,38 @@
+WEBVTT
+
+00:07:28.707 --> 00:07:30.318
+it's just an API.
+
+00:07:30.342 --> 00:07:37.259
+It's a system that allows
+a public health agency
+
+00:07:37.283 --> 00:07:39.726
+to create an app,
+
+00:07:39.750 --> 00:07:44.021
+and only the API,
+this doorway to the phone system,
+
+00:07:44.045 --> 00:07:45.604
+is available to public health.
+
+00:07:45.628 --> 00:07:47.935
+So it's not designed for any other purpose
+
+00:07:47.959 --> 00:07:50.842
+than to support public health
+and the work that they're doing
+
+00:07:50.866 --> 00:07:54.342
+in COVID-19 in contact tracing.
+
+00:07:54.366 --> 00:07:57.552
+The second piece of this
+is that we wanted to build a system
+
+00:07:57.576 --> 00:07:59.160
+that was privacy-promoting,
+
+00:07:59.184 --> 00:08:00.995
+that really put the user first,

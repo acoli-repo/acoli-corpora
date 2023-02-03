@@ -1,0 +1,32 @@
+WEBVTT
+
+00:08:26.160 --> 00:08:30.141
+mené par Alexis Komor, un ancien
+chercheur postdoctoral du laboratoire,
+
+00:08:30.165 --> 00:08:33.347
+nous avons réussi à développer
+ce premier correcteur génomique,
+
+00:08:33.371 --> 00:08:37.037
+qui convertit les bases C en T
+et les bases G en A
+
+00:08:37.061 --> 00:08:39.220
+aux emplacements ciblés par nous.
+
+00:08:40.633 --> 00:08:45.863
+Parmi les plus de 35 000 mutations
+ponctuelles connues liées à une maladie,
+
+00:08:45.887 --> 00:08:49.672
+les deux types de mutations que ce
+premier correcteur génomique peut inverser
+
+00:08:49.696 --> 00:08:55.839
+représentent toutes deux 14% soit
+5 000 mutations ponctuelles pathogènes.
+
+00:08:56.593 --> 00:09:01.363
+Pour corriger la plupart des mutations
+ponctuelles causant des maladies,

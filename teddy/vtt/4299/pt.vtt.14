@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:58.977 --> 00:07:02.592
+como é que o conteúdo vai 
+da pessoa A para a pessoa B?
+
+00:07:03.358 --> 00:07:07.752
+Ou talvez, da pessoa A para B,
+para a pessoa C, para a pessoa D?
+
+00:07:07.796 --> 00:07:10.490
+Sabemos que as pessoas 
+partilham conteúdos na Internet,
+
+00:07:10.514 --> 00:07:13.002
+mas o que não sabemos
+é o que ocorre nesse intervalo
+
+00:07:13.006 --> 00:07:14.657
+de uma pessoa para a outra.
+
+00:07:14.681 --> 00:07:17.177
+Assim, decidimos construir 
+algo para explorar isso
+
+00:07:17.201 --> 00:07:19.390
+e esta ferramenta chama-se Cascata.
+
+00:07:19.471 --> 00:07:22.058
+Se olharmos para estes sistemas
+
+00:07:22.090 --> 00:07:26.520
+eles começam com um evento
+que leva a outros eventos.
+
+00:07:26.544 --> 00:07:28.782
+Chamamos "cascata" a esta estrutura.
+
+00:07:28.806 --> 00:07:31.215
+Estas cascatas ocorrem ao longo do tempo.

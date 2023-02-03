@@ -1,0 +1,53 @@
+WEBVTT
+
+00:05:28.324 --> 00:05:30.617
+vous correspondez l'un à l'autre
+pour la seconde question.
+
+00:05:30.617 --> 00:05:32.611
+Donc vos réponses
+donnent 10 sur 11
+
+00:05:32.611 --> 00:05:35.240
+ce qui vaut
+91% de satisfaction pour B.
+
+00:05:35.240 --> 00:05:36.117
+Ce n'est pas mal.
+
+00:05:36.117 --> 00:05:38.286
+L'étape finale est de prendre 
+les deux pourcentages de correspondances
+
+00:05:38.286 --> 00:05:40.454
+et d'obtenir un chiffre
+pour vous deux.
+
+00:05:40.454 --> 00:05:42.747
+Pour faire ça,
+l'algorithme multiplie vos résultats
+
+00:05:42.747 --> 00:05:44.500
+et prend la racine n-ième,
+
+00:05:44.500 --> 00:05:46.792
+où n est le nombre de questions.
+
+00:05:46.792 --> 00:05:49.401
+Parce que s,
+le nombre de questions,
+
+00:05:49.401 --> 00:05:51.507
+dans cet exemple,
+est seulement 2
+
+00:05:51.507 --> 00:05:54.093
+nous avons :
+le pourcentage d'appariement est égal
+
+00:05:54.093 --> 00:05:58.154
+à la racine carrée
+de 98% fois 91%.
+
+00:05:58.154 --> 00:06:00.304
+Qui est égal à 94%.

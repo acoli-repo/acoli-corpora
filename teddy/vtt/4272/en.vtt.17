@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:27.230 --> 00:08:30.910
+Well, you compromise the car by a buffer overflow
+
+00:08:30.910 --> 00:08:33.437
+of vulnerability in the software, something like that.
+
+00:08:33.437 --> 00:08:35.640
+You use the GPS in the car to locate it.
+
+00:08:35.640 --> 00:08:37.835
+You remotely unlock the doors through the computer
+
+00:08:37.835 --> 00:08:40.973
+that controls that, start the engine, bypass anti-theft,
+
+00:08:40.973 --> 00:08:42.641
+and you've got yourself a car.
+
+00:08:42.641 --> 00:08:45.128
+Surveillance was really interesting.
+
+00:08:45.128 --> 00:08:48.337
+The authors of the study have a video where they show
+
+00:08:48.337 --> 00:08:50.886
+themselves taking over a car and then turning on
+
+00:08:50.886 --> 00:08:53.647
+the microphone in the car, and listening in on the car
+
+00:08:53.647 --> 00:08:56.998
+while tracking it via GPS on a map,
+
+00:08:56.998 --> 00:08:58.711
+and so that's something that the drivers of the car
+
+00:08:58.711 --> 00:09:00.879
+would never know was happening.

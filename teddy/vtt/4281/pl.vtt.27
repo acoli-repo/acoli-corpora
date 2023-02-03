@@ -1,0 +1,36 @@
+WEBVTT
+
+00:13:27.208 --> 00:13:31.865
+takiego jak ja,
+lecz dalej są poszarpane i niedokładne.
+
+00:13:31.865 --> 00:13:33.937
+Nagraliśmy te wszystkie przykłady i dane,
+
+00:13:33.937 --> 00:13:37.649
+a następnie przeszliśmy
+przez kilka etapów.
+
+00:13:37.649 --> 00:13:41.281
+Najpierw zastosowaliśmy technikę
+zwaną Dynamicznym Zakrzywianiem Czasu,
+
+00:13:41.281 --> 00:13:43.463
+używaną w rozpoznawaniu mowy,
+co pozwoliło nam na
+
+00:13:43.463 --> 00:13:46.303
+czasowe ułożenie wszystkich przykładów.
+
+00:13:46.303 --> 00:13:49.232
+Później użyliśmy filtru Kalmana,
+
+00:13:49.232 --> 00:13:52.215
+technikę w teorii sterowania,
+która zezwala
+
+00:13:52.215 --> 00:13:54.887
+na statystyczną analizę szumów,
+
+00:13:54.887 --> 00:14:01.070
+by wyodrębnić upragnioną trajektorię.

@@ -1,0 +1,34 @@
+WEBVTT
+
+00:12:29.429 --> 00:12:32.268
+if we could get the robot
+to do them a little bit faster?
+
+00:12:32.958 --> 00:12:36.380
+Now, it's hard to program a robot
+to do delicate things like this.
+
+00:12:36.943 --> 00:12:41.149
+But it turns out my colleague
+Pieter Abbeel, who's here at Berkeley,
+
+00:12:41.173 --> 00:12:46.653
+has developed a new set of techniques
+for teaching robots from example.
+
+00:12:47.170 --> 00:12:49.913
+So he's gotten robots to fly helicopters,
+
+00:12:49.937 --> 00:12:53.191
+do incredibly interesting,
+beautiful acrobatics,
+
+00:12:53.215 --> 00:12:55.182
+by watching human experts fly them.
+
+00:12:56.152 --> 00:12:58.058
+So we got one of these robots.
+
+00:12:58.082 --> 00:13:00.622
+We started working with Pieter
+and his students.

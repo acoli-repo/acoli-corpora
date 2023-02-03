@@ -1,0 +1,38 @@
+WEBVTT
+
+00:10:29.423 --> 00:10:32.068
+So we built this system
+in response to some requests
+
+00:10:32.092 --> 00:10:34.542
+to help augment
+the contact-tracing systems.
+
+00:10:34.566 --> 00:10:37.160
+We wanted to do it in a way
+that was user-controlled
+
+00:10:37.184 --> 00:10:38.629
+and privacy-preserving
+
+00:10:38.653 --> 00:10:41.486
+and had technological features
+
+00:10:41.510 --> 00:10:46.626
+that would allow public health
+to augment the exposure log
+
+00:10:46.650 --> 00:10:50.337
+in a way that would accelerate
+the work that they needed to get done
+
+00:10:50.361 --> 00:10:53.583
+to interrupt transmission --
+keep the R naught less than one --
+
+00:10:53.607 --> 00:10:58.757
+and do that in a way that we would also
+be able to partner with public health
+
+00:10:58.781 --> 00:11:00.124
+to think about risk scoring.

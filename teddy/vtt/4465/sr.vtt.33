@@ -1,0 +1,45 @@
+WEBVTT
+
+00:16:26.954 --> 00:16:30.356
+Ali svaki majmun jedino dobija
+dve dimenzije na ekranu
+
+00:16:30.356 --> 00:16:32.132
+koje kontroliše.
+
+00:16:32.132 --> 00:16:35.150
+I kako biste uspeli,
+
+00:16:35.150 --> 00:16:37.864
+potrebno vam je da dva majmuna
+sinhronizuju svoje mozgove,
+
+00:16:37.864 --> 00:16:39.395
+ali idealno bi bilo tri.
+
+00:16:39.395 --> 00:16:43.351
+Otkrili smo da kada jedan majmun
+počne da otaljava,
+
+00:16:43.351 --> 00:16:45.962
+druga dva pojačaju svoj učinak
+
+00:16:45.962 --> 00:16:47.944
+kako bi se treći vratio,
+
+00:16:47.944 --> 00:16:50.050
+tako se ovo dinamično podešava,
+
+00:16:50.050 --> 00:16:54.399
+ali sinhronicitet u globalu ostaje isti.
+
+00:16:54.399 --> 00:16:57.023
+Sad, ako preokrenete,
+a da ne saopštite majmunu,
+
+00:16:57.023 --> 00:16:59.321
+dimenzije koje svaki mozak
+mora da kontroliše,
+
+00:16:59.321 --> 00:17:01.620
+na primer, ovaj momak kontroliše x i y,

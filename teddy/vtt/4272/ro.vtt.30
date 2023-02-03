@@ -1,0 +1,40 @@
+WEBVTT
+
+00:14:58.947 --> 00:15:02.409
+Un om nu va crede că e „Puterea Supremă”.
+E „Curtea Supremă”, nu?
+
+00:15:02.435 --> 00:15:07.685
+Aşa că se poate reproduce ce s-a tastat,
+doar prin măsurători cu accelerometrul.
+
+00:15:07.794 --> 00:15:09.136
+Ce importanță are asta?
+
+00:15:09.136 --> 00:15:15.549
+De exemplu, la platforma Android,
+producătorii au un manifest
+
+00:15:15.564 --> 00:15:18.148
+prin care fiecare componentă
+microfonul etc,,
+
+00:15:18.148 --> 00:15:20.424
+trebuie înregistrată
+dacă urmează s-o foloseşti,
+
+00:15:20.424 --> 00:15:22.420
+ca atacatorii să nu poată
+prelua controlul,
+
+00:15:22.420 --> 00:15:25.528
+dar nimeni
+nu controlează accelerometrul.
+
+00:15:25.528 --> 00:15:29.444
+Idea e că poți lăsa un iPhone
+lângă tastatura cuiva, pleci
+
+00:15:29.444 --> 00:15:33.040
+şi mai apoi afli ce au făcut,
+fără să foloseşti măcar un microfon.

@@ -1,0 +1,37 @@
+WEBVTT
+
+00:04:59.197 --> 00:05:02.898
+So there's Bluetooth, there's the FM and XM radio,
+
+00:05:02.898 --> 00:05:05.718
+there's actually wi-fi, there's sensors in the wheels
+
+00:05:05.718 --> 00:05:07.871
+that wirelessly communicate the tire pressure
+
+00:05:07.871 --> 00:05:09.677
+to a controller on board.
+
+00:05:09.677 --> 00:05:14.595
+The modern car is a sophisticated multi-computer device.
+
+00:05:14.595 --> 00:05:17.917
+And what happens if somebody wanted to attack this?
+
+00:05:17.917 --> 00:05:19.234
+Well, that's what the researchers
+
+00:05:19.234 --> 00:05:21.105
+that I'm going to talk about today did.
+
+00:05:21.105 --> 00:05:24.082
+They basically stuck an attacker on the wired network
+
+00:05:24.082 --> 00:05:26.404
+and on the wireless network.
+
+00:05:26.404 --> 00:05:29.103
+Now, they have two areas they can attack.
+
+00:05:29.103 --> 00:05:31.141
+One is short-range wireless, where you can actually

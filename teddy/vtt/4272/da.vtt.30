@@ -1,0 +1,44 @@
+WEBVTT
+
+00:14:58.559 --> 00:15:00.695
+Et menneske vil ikke tænke at det er 
+"Supreme might".
+
+00:15:00.695 --> 00:15:02.435
+Det er "Supreme Court", ikke sandt?
+
+00:15:02.435 --> 00:15:04.965
+og videre, vi er istand til at rekonstruere 
+hvad der blev tastet
+
+00:15:04.965 --> 00:15:07.914
+simpelthen ved at måle med accelerometeret.
+
+00:15:07.914 --> 00:15:11.416
+Hvorfor er dette vigtigt? Fordi, 
+på Android platformen,
+
+00:15:11.416 --> 00:15:15.549
+for eksempel, har udviklerne et manifest
+
+00:15:15.564 --> 00:15:18.148
+hvor hvert apparat der, mikrofonen, osv,
+
+00:15:18.148 --> 00:15:20.104
+skal vi at at du er i gang med at bruge det
+
+00:15:20.104 --> 00:15:22.420
+så hackere ikke kan overtage det,
+
+00:15:22.420 --> 00:15:25.528
+men ingen kontrollerer accelerometeret.
+
+00:15:25.528 --> 00:15:27.744
+Så hvad er pointen? 
+Du kan lægge din iPhone ved siden af
+
+00:15:27.744 --> 00:15:29.850
+en eller andens keyboard og forlade rummet
+
+00:15:29.850 --> 00:15:31.489
+og senere genskabe hvad de gjorde,

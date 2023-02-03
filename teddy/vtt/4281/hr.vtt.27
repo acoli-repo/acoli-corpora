@@ -1,0 +1,31 @@
+WEBVTT
+
+00:13:27.208 --> 00:13:31.865
+mogao napraviti, ali još uvijek je grčevito i neprecizno.
+
+00:13:31.865 --> 00:13:33.937
+Snimili smo sve te primjere, podatke,
+
+00:13:33.937 --> 00:13:37.649
+i prošli kroz slijed koraka.
+
+00:13:37.649 --> 00:13:41.281
+Prvo smo koristili tehniku dinamičkog savijanja vremena
+
+00:13:41.281 --> 00:13:43.463
+iz prepoznavanja govora, i to nam je omogućilo
+
+00:13:43.463 --> 00:13:46.303
+da privremeno poravnamo sve primjere.
+
+00:13:46.303 --> 00:13:49.232
+Zatim izvršimo Kalmanovo filtriranje,
+
+00:13:49.232 --> 00:13:52.215
+tehniku iz teorije kontrole, koja nam omogućava
+
+00:13:52.215 --> 00:13:54.887
+da statistički analiziramo buku
+
+00:13:54.887 --> 00:14:01.070
+i izlučimo željenu putanju koja joj je temelj.

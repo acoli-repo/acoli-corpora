@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:28.324 --> 00:05:30.617
+cả hai người đã trả lời đúng như mong muốn của người kia ở câu thứ hai
+
+00:05:30.617 --> 00:05:32.611
+vì thế câu trả lời của bạn đạt 10 trên tổng số 11 điểm
+
+00:05:32.611 --> 00:05:35.240
+có nghĩa là mức độ hài lòng của B với những câu trả lời của bạn là 91%.
+
+00:05:35.240 --> 00:05:36.117
+Cũng khá tốt.
+
+00:05:36.117 --> 00:05:38.286
+Việc cuối cùng cần làm là ghép hai phần trăm về mức độ hài lòng này lại
+
+00:05:38.286 --> 00:05:40.454
+và tìm ra một con số chung cho cả hai người.
+
+00:05:40.454 --> 00:05:42.747
+Để làm như vậy, thuật toán sẽ nhân hai số phần trăm đó lại
+
+00:05:42.747 --> 00:05:44.500
+sau đó lấy căn bậc n,
+
+00:05:44.500 --> 00:05:46.792
+với n là tổng số câu hỏi.
+
+00:05:46.792 --> 00:05:49.401
+Bởi vì s là tổng số câu hỏi
+
+00:05:49.401 --> 00:05:51.507
+trong ví dụ này chỉ là 2
+
+00:05:51.507 --> 00:05:54.093
+nên để tính phần trăm hài lòng của cả hai bạn về người kia
+
+00:05:54.093 --> 00:05:58.154
+ta sẽ lấy căn bậc hai của tích 98% và 91%
+
+00:05:58.154 --> 00:06:00.304
+và có kết quả là 94%.

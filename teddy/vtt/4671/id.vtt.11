@@ -1,0 +1,45 @@
+WEBVTT
+
+00:05:28.163 --> 00:05:30.746
+jawaban atas pertanyaan kedua
+memuaskan kedua pihak.
+
+00:05:30.788 --> 00:05:34.996
+10 dari 11 poin sama dengan
+tingkat kepuasan 91% bagi B.
+
+00:05:35.038 --> 00:05:36.204
+Lumayan.
+
+00:05:36.204 --> 00:05:38.704
+Langkah terakhir adalah
+menyatukan dua persentase ini
+
+00:05:38.704 --> 00:05:40.621
+dan menyajikan satu angka tunggal.
+
+00:05:40.621 --> 00:05:43.246
+Algoritma mengalikan skor kalian berdua,
+
+00:05:43.288 --> 00:05:44.913
+lalu mencari akar ke-n,
+
+00:05:44.954 --> 00:05:47.121
+di mana “n” adalah jumlah pertanyaan.
+
+00:05:47.163 --> 00:05:49.996
+Karena s, yaitu jumlah pertanyaan
+dalam sampel,
+
+00:05:50.038 --> 00:05:51.871
+hanya ada dua,
+
+00:05:51.871 --> 00:05:55.538
+kita punya: persentase kecocokan
+sama dengan akar kuadrat
+
+00:05:55.579 --> 00:05:58.454
+dari 98% dikalikan dengan 91%.
+
+00:05:58.496 --> 00:06:00.288
+Hasilnya 94%.

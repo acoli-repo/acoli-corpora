@@ -1,0 +1,37 @@
+WEBVTT
+
+00:13:54.887 --> 00:14:01.070
+ed estrarne la traiettoria desiderata che ne è alla base.
+
+00:14:01.070 --> 00:14:03.064
+Dopodiché prendiamo le dimostrazioni umane,
+
+00:14:03.064 --> 00:14:05.087
+tutte rumorose e imperfette,
+
+00:14:05.087 --> 00:14:08.178
+e ne estraiamo una traiettoria dedotta del compito
+
+00:14:08.178 --> 00:14:11.181
+e la sequenza di controllo del robot.
+
+00:14:11.181 --> 00:14:13.365
+Poi lo eseguiamo sul robot,
+
+00:14:13.365 --> 00:14:15.537
+osserviamo cosa succede,
+
+00:14:15.537 --> 00:14:18.199
+e sistemiamo i controlli usando una sequenza di tecniche
+
+00:14:18.199 --> 00:14:21.129
+chiamate apprendimento iterativo.
+
+00:14:21.129 --> 00:14:25.106
+Dopodiché aumentiamo un po' la velocità,
+
+00:14:25.106 --> 00:14:28.669
+osserviamo i risultati, sistemiamo di nuovo i controlli,
+
+00:14:28.669 --> 00:14:31.191
+e osserviamo cosa succede.

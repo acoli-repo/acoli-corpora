@@ -1,0 +1,40 @@
+WEBVTT
+
+00:07:59.940 --> 00:08:02.665
+Descobrimos que, se déssemos às moscas
+
+00:08:02.665 --> 00:08:05.513
+vários sopros de seguida
+no tapete de sopros,
+
+00:08:05.513 --> 00:08:08.202
+elas tornavam-se um tanto hiperativas
+
+00:08:08.202 --> 00:08:12.637
+e continuavam a andar às voltas
+depois de os sopros terem parado,
+
+00:08:12.637 --> 00:08:15.262
+levando algum tempo para se acalmar.
+
+00:08:15.501 --> 00:08:17.690
+Quantificámos este comportamento
+
+00:08:17.690 --> 00:08:21.140
+utilizando uma aplicação personalizada
+de seguimento da locomoção,
+
+00:08:21.140 --> 00:08:23.740
+desenvolvida por Pietro Perona,
+o meu colaborador,
+
+00:08:23.740 --> 00:08:27.114
+que trabalha na divisão
+de engenharia elétrica, aqui na CalTech.
+
+00:08:27.114 --> 00:08:29.928
+Esta quantificação mostrou-nos que,
+
+00:08:29.928 --> 00:08:33.199
+após sentirem uma sequência
+destes sopros de ar,

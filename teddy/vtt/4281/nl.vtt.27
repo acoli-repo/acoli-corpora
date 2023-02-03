@@ -1,0 +1,34 @@
+WEBVTT
+
+00:13:27.208 --> 00:13:31.865
+het zou doen, maar ze zijn nog steeds 
+krampachtig en niet precies.
+
+00:13:31.865 --> 00:13:33.937
+Dus we registreren al die voorbeelden, de data,
+
+00:13:33.937 --> 00:13:37.649
+en dan gaan we door een opeenvolging van stappen.
+
+00:13:37.649 --> 00:13:41.281
+Eerst gebruiken we een techniek 
+genaamd 'dynamic time warping'
+
+00:13:41.281 --> 00:13:43.463
+uit de spraakherkenning.
+Dit laat ons toe
+
+00:13:43.463 --> 00:13:46.303
+om alle voorbeelden te alignement,
+
+00:13:46.303 --> 00:13:49.232
+en dan passen we 'Kalmanfiltering' toe
+
+00:13:49.232 --> 00:13:52.215
+een techniek uit de controletheorie, die ons toelaat
+
+00:13:52.215 --> 00:13:54.887
+om al het ruis statistisch te analyseren
+
+00:13:54.887 --> 00:14:01.070
+en het onderliggende gewenste traject af te leiden.

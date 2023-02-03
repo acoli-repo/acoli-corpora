@@ -1,0 +1,34 @@
+WEBVTT
+
+00:10:28.287 --> 00:10:30.704
+dostosowując kroki,
+tak, żeby były odpowiednio
+
+00:10:30.746 --> 00:10:32.037
+długie lub krótkie.
+
+00:10:33.412 --> 00:10:35.829
+Włączymy teraz inny tryb,
+
+00:10:35.829 --> 00:10:39.287
+w którym bloki będą traktowane jako teren
+
+00:10:39.287 --> 00:10:42.996
+i podczas ich pokonywania,
+robot podejmie decyzję, czy będzie robił
+
+00:10:43.037 --> 00:10:44.329
+krok w górę czy w dół.
+
+00:10:45.246 --> 00:10:48.246
+Używa do tego dynamicznej równowagi
+
+00:10:48.246 --> 00:10:50.121
+oraz percepcji mobilnej,
+
+00:10:50.121 --> 00:10:55.537
+ponieważ musi skoordynować
+to co widzi z tym jak się porusza.
+
+00:10:57.162 --> 00:11:01.496
+Spot ma również robotyczną rękę.

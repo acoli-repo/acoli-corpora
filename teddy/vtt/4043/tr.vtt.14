@@ -1,0 +1,38 @@
+WEBVTT
+
+00:06:59.729 --> 00:07:03.431
+ve tüm bu bileşenler birbiriyle
+uyumlu olmak zorunda.
+
+00:07:03.455 --> 00:07:06.562
+Mükemmel tasarımı elde ettiğinizde
+etkileşime giren bu parçaların
+
+00:07:06.586 --> 00:07:09.465
+birbirleriyle uyumlu olduğunu görürsünüz.
+
+00:07:10.449 --> 00:07:12.709
+Yani konu yarı yazılımsal yarı donanımsal,
+
+00:07:12.733 --> 00:07:14.024
+artı davranış.
+
+00:07:14.878 --> 00:07:18.420
+Donanım konusunda son zamanlarda
+bazı çalışmalar yaptık --
+
+00:07:18.444 --> 00:07:20.921
+soldaki resim
+konvensiyonel bir tasarım,
+
+00:07:20.945 --> 00:07:23.845
+birbirine bağlı tüm parçalar bir arada,
+
+00:07:23.869 --> 00:07:26.609
+iletkenler, tüpler, bağlantılar.
+
+00:07:26.633 --> 00:07:28.682
+Sağda ise daha entegre bir şey var:
+
+00:07:28.706 --> 00:07:31.107
+Anatomi çizimine benzemesi gerekiyor.

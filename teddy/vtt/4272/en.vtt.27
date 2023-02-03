@@ -1,0 +1,34 @@
+WEBVTT
+
+00:13:29.067 --> 00:13:32.243
+to determine what the person had been typing.
+
+00:13:32.243 --> 00:13:34.819
+Now, when they tried this on an iPhone 3GS,
+
+00:13:34.819 --> 00:13:37.588
+this is a graph of the perturbations that were created
+
+00:13:37.588 --> 00:13:40.829
+by the typing, and you can see that it's very difficult
+
+00:13:40.829 --> 00:13:43.907
+to tell when somebody was typing or what they were typing,
+
+00:13:43.907 --> 00:13:46.997
+but the iPhone 4 greatly improved the accelerometer,
+
+00:13:46.997 --> 00:13:50.477
+and so the same measurement
+
+00:13:50.477 --> 00:13:52.309
+produced this graph.
+
+00:13:52.309 --> 00:13:54.795
+Now that gave you a lot of information while someone
+
+00:13:54.795 --> 00:13:58.036
+was typing, and what they did then is used advanced
+
+00:13:58.036 --> 00:14:01.043
+artificial intelligence techniques called machine learning

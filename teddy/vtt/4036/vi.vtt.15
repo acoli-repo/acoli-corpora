@@ -1,0 +1,44 @@
+WEBVTT
+
+00:07:29.889 --> 00:07:32.521
+Hãy xem ta áp dụng chúng vào 
+câu hỏi này như thế nào:
+
+00:07:32.521 --> 00:07:35.493
+"Bạn có thể tắt nguồn chiếc máy không?"
+như Turing đã đưa ra.
+
+00:07:36.223 --> 00:07:37.423
+[Vấn đề tắt nguồn]
+
+00:07:37.423 --> 00:07:39.087
+Đây là robot PR2.
+
+00:07:39.087 --> 00:07:41.038
+Một cái ở phòng nghiên cứu chúng tôi có,
+
+00:07:41.062 --> 00:07:43.965
+và nó có một nút "tắt" lớn đỏ ở sau lưng.
+
+00:07:44.541 --> 00:07:46.810
+Câu hỏi là: 
+Nó có để cho bạn tắt nó đi không?
+
+00:07:46.810 --> 00:07:48.585
+Giả sử ta làm theo cách truyền thống,
+
+00:07:48.585 --> 00:07:50.565
+đưa cho nó mục tiêu là "Đi lấy cà phê",
+
+00:07:50.565 --> 00:07:52.175
+"Tôi phải đi lấy cà phê",
+
+00:07:52.175 --> 00:07:54.755
+"Tôi không thể lấy cà phê nếu tôi chết",
+
+00:07:54.779 --> 00:07:58.120
+vậy rõ ràng PR2 đã nghe bài nói của tôi,
+
+00:07:58.144 --> 00:08:01.897
+và do đó nó nói: 
+"Tôi phải vô hiệu hóa nút "tắt" của mình,

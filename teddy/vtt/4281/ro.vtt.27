@@ -1,0 +1,31 @@
+WEBVTT
+
+00:13:27.208 --> 00:13:31.865
+un novice ca mine, dar încă sunt lacunare și imprecise.
+
+00:13:31.865 --> 00:13:33.937
+Așa că înregistrăm toate aceste exemple, datele,
+
+00:13:33.937 --> 00:13:37.649
+și apoi urmăm o serie de pași.
+
+00:13:37.649 --> 00:13:41.281
+Inițial folosim o tehnică numită dynamic time warping
+
+00:13:41.281 --> 00:13:43.463
+prin recunoașterea vocală, asta permițându-ne să
+
+00:13:43.463 --> 00:13:46.303
+aliniem temporar toate exemplele,
+
+00:13:46.303 --> 00:13:49.232
+și apoi aplicăm filtrul Kalman,
+
+00:13:49.232 --> 00:13:52.215
+o tehnică din teoria controlului, care ne permite
+
+00:13:52.215 --> 00:13:54.887
+să analizăm statistic tot zgomotul
+
+00:13:54.887 --> 00:14:01.070
+și să extragem traiectoria dorită care le conectează.

@@ -1,0 +1,25 @@
+WEBVTT
+
+00:05:29.070 --> 00:05:34.719
+So here the nodes are companies,
+people, governments, foundations, etc.
+
+00:05:36.124 --> 00:05:39.008
+And the links represent
+the shareholding relations,
+
+00:05:39.032 --> 00:05:44.196
+so shareholder A has x percent
+of the shares in company B.
+
+00:05:44.220 --> 00:05:48.395
+And we also assign a value to the company
+given by the operating revenue.
+
+00:05:49.778 --> 00:05:54.322
+So ownership networks reveal the patterns
+of shareholding relations.
+
+00:05:56.045 --> 00:06:00.170
+In this little example,
+you can see a few financial institutions

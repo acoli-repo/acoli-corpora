@@ -1,0 +1,39 @@
+WEBVTT
+
+00:08:28.758 --> 00:08:30.708
+Van néhány gyengesége.
+
+00:08:31.364 --> 00:08:34.795
+Visszanyerjük üzenetünket
+a DNS szekvenálásával,
+
+00:08:34.819 --> 00:08:36.832
+de minden ilyen alkalommal
+
+00:08:36.856 --> 00:08:38.642
+elveszítjük a DNS-t.
+
+00:08:38.666 --> 00:08:41.080
+Ez egyszerűen része
+a szekvenálási folyamatnak.
+
+00:08:41.104 --> 00:08:43.039
+Nem akarjuk, hogy elfogyjanak adataink,
+
+00:08:43.063 --> 00:08:46.159
+de szerencsére tudjuk másolni a DNS-t.
+
+00:08:46.183 --> 00:08:50.768
+ami még olcsóbb és könnyebb is,
+mint szintetizálni.
+
+00:08:51.275 --> 00:08:54.847
+Teszteltünk egy módszert,
+amellyel 200 billió másolatot
+
+00:08:54.847 --> 00:08:58.867
+készítettünk fájljainkról, és az adatokat
+hibátlanul helyre tudtuk állítani.
+
+00:08:59.556 --> 00:09:03.423
+A szekvenálás hibákat is visz a DNS-ünkbe,

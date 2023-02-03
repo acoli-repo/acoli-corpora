@@ -1,0 +1,41 @@
+WEBVTT
+
+00:06:58.977 --> 00:07:02.592
+¿cómo llega ese contenido de 
+la persona A a la persona B?
+
+00:07:03.358 --> 00:07:07.606
+O tal vez, ¿persona A a persona B 
+a persona C a persona D?
+
+00:07:07.606 --> 00:07:10.344
+Sabemos que las personas
+comparten contenidos en internet,
+
+00:07:10.344 --> 00:07:12.842
+Pero no sabemos 
+lo que sucede en esa brecha
+
+00:07:12.866 --> 00:07:14.491
+entre una persona a otra.
+
+00:07:14.491 --> 00:07:17.427
+Así que decidimos construir 
+la herramienta para explorar eso.
+
+00:07:17.427 --> 00:07:19.214
+Y esta herramienta se llama Cascade.
+
+00:07:19.471 --> 00:07:22.066
+Si nos fijamos en estos sistemas
+
+00:07:22.090 --> 00:07:26.520
+que comienzan con un evento 
+que lleva a otros eventos,
+
+00:07:26.544 --> 00:07:28.776
+a esa estructura la llamamos cascada.
+
+00:07:28.776 --> 00:07:31.385
+Y estas cascadas realmente
+ocurren a través del tiempo.

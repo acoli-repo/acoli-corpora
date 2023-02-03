@@ -1,0 +1,45 @@
+WEBVTT
+
+00:05:28.429 --> 00:05:30.785
+acertaram na segunda resposta um do outro.
+
+00:05:30.785 --> 00:05:33.420
+Portanto as respostas deram 10 em 11
+
+00:05:33.420 --> 00:05:35.503
+o que é 91% satisfatório para B.
+
+00:05:35.503 --> 00:05:36.843
+Não é nada mau.
+
+00:05:36.843 --> 00:05:39.822
+O passo final é pegar 
+nas duas percentagens de compatibilidade
+
+00:05:39.822 --> 00:05:41.611
+e obter um número para os dois.
+
+00:05:41.611 --> 00:05:43.894
+Para isso, o algoritmo
+multiplica as pontuações,
+
+00:05:43.894 --> 00:05:45.668
+depois calcula a raiz de n,
+
+00:05:45.668 --> 00:05:47.518
+em que n é o número de perguntas.
+
+00:05:47.518 --> 00:05:49.822
+Como s, que é o número de perguntas,
+
+00:05:49.822 --> 00:05:51.970
+neste exemplo, é apenas 2,
+
+00:05:51.970 --> 00:05:54.977
+temos uma percentagem de compatibilidade
+
+00:05:54.977 --> 00:05:58.554
+igual à raiz quadrada de 98% vezes 91%.
+
+00:05:58.554 --> 00:06:00.430
+Isto dá 94%.

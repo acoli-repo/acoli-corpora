@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:57.971 --> 00:10:01.111
+Para essa demonstração,
+o Seth o está controlando,
+
+00:10:01.137 --> 00:10:04.016
+mas é o robô que faz
+o planejamento de terreno.
+
+00:10:04.016 --> 00:10:07.550
+Esse é o mapa do terreno,
+no qual os dados da câmera
+
+00:10:07.567 --> 00:10:09.794
+são desenvolvidos em tempo real,
+
+00:10:10.124 --> 00:10:13.622
+mostrando os pontos em vermelho,
+onde ele não deve pisar
+
+00:10:13.628 --> 00:10:15.752
+e os pontos em verde, onde pode pisar.
+
+00:10:15.779 --> 00:10:18.427
+Aqui, ele imagina o terreno
+como um caminho de pedras.
+
+00:10:18.437 --> 00:10:22.587
+Ele tenta ficar nos blocos,
+ajustando seus passos;
+
+00:10:22.607 --> 00:10:26.173
+e tem muito planejamento
+envolvido num processo como esse;
+
+00:10:26.173 --> 00:10:28.810
+ele planeja tudo em tempo real,
+
+
+00:10:28.810 --> 00:10:32.220
+ajustando os passos para um pouco
+mais largos ou mais curtos.

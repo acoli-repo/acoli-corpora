@@ -1,0 +1,46 @@
+WEBVTT
+
+00:05:29.103 --> 00:05:31.141
+Et var det kortrækkende trådløse, 
+hvor du faktisk kan kommunikere
+
+00:05:31.141 --> 00:05:32.922
+med apparatet på tæt hold,
+
+00:05:32.922 --> 00:05:35.059
+enten gennem Bluetooth eller wi-fi,
+
+00:05:35.059 --> 00:05:37.233
+og det andet var langtrækkende hvor 
+du kan kommunikere
+
+00:05:37.233 --> 00:05:39.015
+med bilen vha. mobilnettet,
+
+00:05:39.015 --> 00:05:40.975
+eller gennem en af radiostationerne.
+
+00:05:40.975 --> 00:05:44.024
+Tænk på det. Når bilen modtager et radiosignal,
+
+00:05:44.024 --> 00:05:46.225
+bliver det behandlet af software.
+
+00:05:46.225 --> 00:05:49.286
+Denne software skal modtage og afkode radiosignalet,
+
+00:05:49.286 --> 00:05:50.405
+for derefter at beslutte hvad den skal gøre med det,
+
+00:05:50.405 --> 00:05:53.429
+selvom det bare er musik der skal spilles i radioen,
+
+00:05:53.429 --> 00:05:55.697
+og den software som udfører afkodningen,
+
+00:05:55.697 --> 00:05:58.790
+hvis der er en fejl i den, kan føre til 
+en sårbarhed der kan
+
+00:05:58.790 --> 00:06:01.825
+udnyttes af nogen til at hacke bilen.

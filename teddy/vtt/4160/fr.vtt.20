@@ -1,0 +1,44 @@
+WEBVTT
+
+00:09:58.613 --> 00:10:01.212
+cela déclenche quelque chose
+qui notifie les autorités,
+
+00:10:01.212 --> 00:10:05.855
+et ensuite cela comble des lacunes
+sur l'exposition préalable.
+
+00:10:05.855 --> 00:10:11.217
+En revanche le système n'utilise ni le GPS
+ni la localisation pour tracer les gens.
+
+00:10:11.217 --> 00:10:14.145
+Donc en fait, le système utilise
+quelque chose de différent,
+
+00:10:14.145 --> 00:10:16.723
+appelé Bluetooth Low Energy
+(Bluetooth à Basse Énergie)
+
+00:10:16.723 --> 00:10:18.373
+qui préserve les données privées,
+
+00:10:18.373 --> 00:10:20.122
+qui ne décharge pas la batterie
+
+00:10:20.122 --> 00:10:23.182
+et qui est également plus interopérable
+
+00:10:23.182 --> 00:10:25.489
+entre les systèmes Apple et Android
+
+00:10:25.489 --> 00:10:28.067
+donc c'est plus pratique,
+non seulement aux États-Unis,
+
+00:10:28.067 --> 00:10:29.357
+mais partout dans le monde.
+
+00:10:29.357 --> 00:10:32.361
+Donc nous avons conçu ce système
+en réponse à certaines demandes

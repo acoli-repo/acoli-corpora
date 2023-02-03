@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:28.699 --> 00:06:31.289
+The first threat model was to see what someone could do
+
+00:06:31.289 --> 00:06:33.433
+if an attacker actually got access
+
+00:06:33.433 --> 00:06:35.486
+to the internal network on the car.
+
+00:06:35.486 --> 00:06:38.089
+Okay, so think of that as, someone gets to go to your car,
+
+00:06:38.089 --> 00:06:40.993
+they get to mess around with it, and then they leave,
+
+00:06:40.993 --> 00:06:43.361
+and now, what kind of trouble are you in?
+
+00:06:43.361 --> 00:06:46.153
+The other threat model is that they contact you
+
+00:06:46.153 --> 00:06:48.610
+in real time over one of the wireless networks
+
+00:06:48.610 --> 00:06:50.665
+like the cellular, or something like that,
+
+00:06:50.665 --> 00:06:54.665
+never having actually gotten physical access to your car.
+
+00:06:54.665 --> 00:06:57.489
+This is what their setup looks like for the first model,
+
+00:06:57.489 --> 00:06:59.172
+where you get to have access to the car.
+
+00:06:59.172 --> 00:07:02.559
+They put a laptop, and they connected to the diagnostic unit

@@ -1,0 +1,44 @@
+WEBVTT
+
+00:05:28.324 --> 00:05:30.617
+Jūsu abu atbildes uz otro jautājumu 
+bija saderīgas.
+
+00:05:30.617 --> 00:05:32.611
+Tātad jūsu atbildes bija 10 no 11,
+
+00:05:32.611 --> 00:05:35.240
+kas ar B ir 91% atbilstība.
+
+00:05:35.240 --> 00:05:36.117
+Tas nav slikti.
+
+00:05:36.117 --> 00:05:38.286
+Visbeidzot no šīm divām procentuālajām vērtībām
+
+00:05:38.286 --> 00:05:40.454
+ir jāiegūst viens skaitlis jums abiem.
+
+00:05:40.454 --> 00:05:42.747
+Lai to izdarītu, algoritms sareizina jūsu punktus
+
+00:05:42.747 --> 00:05:44.500
+un izvelk n-tās pakāpes sakni,
+
+00:05:44.500 --> 00:05:46.792
+kur „n” atbilst jautājumu skaitam.
+
+00:05:46.792 --> 00:05:49.401
+Tā kā „s”, kas ir jautājumu skaits,
+
+00:05:49.401 --> 00:05:51.507
+šajā piemērā ir tikai 2,
+
+00:05:51.507 --> 00:05:54.093
+mūsu saderības procents ir vienāds
+
+00:05:54.093 --> 00:05:58.154
+ar kvadrātsakni no 98% reiz 91%.
+
+00:05:58.154 --> 00:06:00.304
+Tas ir vienāds ar 94%.

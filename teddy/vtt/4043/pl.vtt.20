@@ -1,0 +1,45 @@
+WEBVTT
+
+00:09:57.829 --> 00:10:01.162
+Podczas tej demonstracji
+Seth kieruje robotem,
+
+00:10:01.162 --> 00:10:03.662
+ale to robot wykonuje planowanie terenu.
+
+00:10:03.704 --> 00:10:05.204
+To mapa terenu,
+
+00:10:05.246 --> 00:10:10.412
+która powstaje w czasie rzeczywistym
+na podstawie danych z kamer.
+
+00:10:10.412 --> 00:10:13.662
+Zadaniem robota jest
+omijanie czerwonych miejsc,
+
+00:10:13.704 --> 00:10:15.662
+natomiast może chodzić po tych zielonych.
+
+00:10:15.704 --> 00:10:18.162
+Traktuje to jak chodzenie po kamieniach.
+
+00:10:18.162 --> 00:10:20.912
+Próbuje utrzymać się na blokach,
+
+00:10:20.954 --> 00:10:22.246
+dostosowując kroki.
+
+00:10:22.246 --> 00:10:23.704
+A do tego potrzebna jest
+
+00:10:23.746 --> 00:10:25.996
+duża ilość planowania,
+
+00:10:25.996 --> 00:10:28.246
+którą robot wykonuje
+w czasie rzeczywistym,
+
+00:10:28.287 --> 00:10:30.704
+dostosowując kroki,
+tak, żeby były odpowiednio

@@ -1,0 +1,39 @@
+WEBVTT
+
+00:04:59.197 --> 00:05:02.898
+par Bluetooth, par radio FM, par radio satellite,
+
+00:05:02.898 --> 00:05:05.718
+également par Wi-Fi. Des capteurs dans les roues
+
+00:05:05.718 --> 00:05:07.871
+transmettent en sans fil la pression des pneus
+
+00:05:07.871 --> 00:05:09.677
+à un contrôleur embarqué.
+
+00:05:09.677 --> 00:05:14.595
+La voiture moderne est
+un dispositif informatique complexe.
+
+00:05:14.595 --> 00:05:17.917
+Que se passerait-il si quelqu'un piratait ce système ?
+
+00:05:17.917 --> 00:05:19.234
+Eh bien, c'est ce qu'ont fait les chercheurs
+
+00:05:19.234 --> 00:05:21.105
+dont je vais vous parler.
+
+00:05:21.105 --> 00:05:24.082
+En gros, ils ont placé un programme pirate
+sur le réseau filaire
+
+00:05:24.082 --> 00:05:26.404
+et sur le réseau sans fil.
+
+00:05:26.404 --> 00:05:29.103
+Ainsi, ils ont deux angles d'attaque :
+
+00:05:29.103 --> 00:05:31.141
+le premier, à courte portée en sans fil, permettant

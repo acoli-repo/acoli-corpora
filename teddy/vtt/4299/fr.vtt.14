@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:58.977 --> 00:07:02.592
+comment ce contenu parvient-il
+de la personne A à la personne B ?
+
+00:07:03.358 --> 00:07:08.082
+Ou encore, de la personne A, à B,
+à la personne C et à la personne D ?
+
+00:07:08.082 --> 00:07:10.476
+C'est un fait que les gens
+partagent du contenu.
+
+00:07:10.484 --> 00:07:13.322
+Mais on ne sait pas ce qui
+se passe dans l'intervalle
+
+00:07:13.322 --> 00:07:14.657
+entre deux personnes.
+
+00:07:14.657 --> 00:07:17.303
+Nous avons décidé de développer
+un outil qui explore ça.
+
+00:07:17.303 --> 00:07:19.124
+Cet outil s'appelle : « Cascade ».
+
+00:07:19.471 --> 00:07:22.066
+Il s'agit de systèmes
+
+00:07:22.090 --> 00:07:26.520
+initiés par un événement
+qui conduisent à d'autres événements.
+
+00:07:26.544 --> 00:07:28.782
+Voici ce qu'on appelle
+une structure en cascade.
+
+00:07:28.806 --> 00:07:31.215
+De telles cascades
+se développent dans le temps.

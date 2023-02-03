@@ -1,0 +1,40 @@
+WEBVTT
+
+00:13:54.887 --> 00:14:01.070
+y extraer la trayectoria deseada subyacente.
+
+00:14:01.070 --> 00:14:03.064
+Lo que hicimos fue tomar estos
+
+00:14:03.064 --> 00:14:05.087
+ejemplos humanos, ruidosas e imperfectas;
+
+00:14:05.087 --> 00:14:08.178
+de ellas extrajimos
+una trayectoria inferida de la tarea;
+
+00:14:08.178 --> 00:14:11.181
+y la secuencia de control para el robot.
+
+00:14:11.181 --> 00:14:13.365
+Luego ejecutamos esto en el robot,
+
+00:14:13.365 --> 00:14:15.537
+observamos qué ocurre,
+
+00:14:15.537 --> 00:14:18.199
+ajustamos los controles usando
+una secuencia de técnicas
+
+00:14:18.199 --> 00:14:21.129
+llamada aprendizaje iterativo.
+
+00:14:21.129 --> 00:14:25.106
+Incrementamos la velocidad un poco.
+
+00:14:25.106 --> 00:14:28.669
+Observamos los resultados, 
+ajustamos los controles de nuevo,
+
+00:14:28.669 --> 00:14:31.191
+y observamos lo ocurrido.

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:08:28.758 --> 00:08:30.708
+It does have some weaknesses.
+
+00:08:31.364 --> 00:08:34.795
+We recover our message
+by sequencing the DNA,
+
+00:08:34.819 --> 00:08:36.832
+and every time data is retrieved,
+
+00:08:36.856 --> 00:08:38.642
+we lose the DNA.
+
+00:08:38.666 --> 00:08:41.080
+That's just part
+of the sequencing process.
+
+00:08:41.104 --> 00:08:43.039
+We don't want to run out of data,
+
+00:08:43.063 --> 00:08:46.159
+but luckily, there's a way to copy the DNA
+
+00:08:46.183 --> 00:08:50.768
+that's even cheaper and easier
+than synthesizing it.
+
+00:08:51.275 --> 00:08:56.133
+We actually tested a way to make
+200 trillion copies of our files,
+
+00:08:56.157 --> 00:08:58.889
+and we recovered
+all the data without error.
+
+00:08:59.556 --> 00:09:03.423
+So sequencing also introduces
+errors into our DNA,

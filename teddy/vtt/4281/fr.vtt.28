@@ -1,0 +1,37 @@
+WEBVTT
+
+00:13:54.887 --> 00:14:01.070
+et d'extraire la trajectoire désirée sous-jacente.
+
+00:14:01.070 --> 00:14:03.064
+Donc ce que l'on fait c'est qu'on prend
+
+00:14:03.064 --> 00:14:05.087
+ces démonstrations humaines, qui sont toutes bruitées et imparfaites,
+
+00:14:05.087 --> 00:14:08.178
+et nous en extrayons une trajectoire de tâche
+
+00:14:08.178 --> 00:14:11.181
+et une séquence de contrôle pour le robot.
+
+00:14:11.181 --> 00:14:13.365
+Ensuite on fait marcher le robot avec cette séquence,
+
+00:14:13.365 --> 00:14:15.537
+et on observe le résultat,
+
+00:14:15.537 --> 00:14:18.199
+puis on adjuste les contrôles avec une séquence de techniques
+
+00:14:18.199 --> 00:14:21.129
+appelée apprentissage itératif.
+
+00:14:21.129 --> 00:14:25.106
+Puis on augmente un peu la vitesse du robot.
+
+00:14:25.106 --> 00:14:28.669
+On observe les résultats et on ré-ajuste les contrôles de nouveau,
+
+00:14:28.669 --> 00:14:31.191
+et on regarde ce qui se passe.

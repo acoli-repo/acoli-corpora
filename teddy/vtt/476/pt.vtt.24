@@ -1,0 +1,38 @@
+WEBVTT
+
+00:11:58.564 --> 00:12:02.521
+Temos uma pontuação de toxicidade
+e um modelo de toxicidade, no sistema,
+
+00:12:02.581 --> 00:12:06.455
+que consegue medir se é provável
+que alguém se afaste
+
+00:12:06.499 --> 00:12:08.912
+de uma conversa que está a ter no Twitter
+
+00:12:08.936 --> 00:12:10.899
+porque sente que é tóxica,
+
+00:12:10.933 --> 00:12:13.355
+a um nível muito alto.
+
+00:12:14.369 --> 00:12:16.568
+Estamos a tentar medir o resto.
+
+00:12:17.422 --> 00:12:18.886
+O próximo passo é,
+
+00:12:18.920 --> 00:12:22.059
+enquanto construímos soluções,
+
+00:12:22.063 --> 00:12:25.454
+ver como estas medidas
+se comportam ao longo do tempo
+
+00:12:25.502 --> 00:12:27.535
+e continuar a experimentar.
+
+00:12:27.755 --> 00:12:31.586
+O nosso objetivo é assegurar
+que estão equilibradas

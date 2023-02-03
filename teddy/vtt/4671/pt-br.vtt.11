@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:28.324 --> 00:05:30.617
+vocês se satisfazem um ao outro na segunda questão.
+
+00:05:30.617 --> 00:05:32.611
+Então suas respostas foram 10 de 11
+
+00:05:32.611 --> 00:05:35.240
+igual a 91% satisfatório para B.
+
+00:05:35.240 --> 00:05:36.117
+Isso não é ruim.
+
+00:05:36.117 --> 00:05:38.286
+O passo final é pegar estas duas porcentagens combinantes
+
+00:05:38.286 --> 00:05:40.454
+e tirar um número para vocês.
+
+00:05:40.454 --> 00:05:42.747
+Para fazer isso, o algoritmo multiplica seus pontos,
+
+00:05:42.747 --> 00:05:44.500
+então tira a raiz de n,
+
+00:05:44.500 --> 00:05:46.792
+onde n é o número de questões.
+
+00:05:46.792 --> 00:05:49.401
+Porque s, que é o número de questões,
+
+00:05:49.401 --> 00:05:51.507
+nessa amostra, é apenas 2,
+
+00:05:51.507 --> 00:05:54.093
+nós combinamos a porcentagem igualmente
+
+00:05:54.093 --> 00:05:58.154
+a raiz quadrada de 98% vezes 91%.
+
+00:05:58.154 --> 00:06:00.304
+É igual a 94%.

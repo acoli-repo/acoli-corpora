@@ -1,0 +1,38 @@
+WEBVTT
+
+00:15:57.692 --> 00:16:04.048
+Stuart Russell: Yes, so we want
+it to learn more, as I said,
+
+00:16:04.072 --> 00:16:05.359
+about our objectives.
+
+00:16:05.383 --> 00:16:10.904
+It'll only become more certain
+as it becomes more correct,
+
+00:16:10.928 --> 00:16:12.873
+so the evidence is there
+
+00:16:12.897 --> 00:16:15.621
+and it's going to be designed
+to interpret it correctly.
+
+00:16:15.645 --> 00:16:19.601
+It will understand, for example,
+that books are very biased
+
+00:16:19.625 --> 00:16:21.108
+in the evidence they contain.
+
+00:16:21.132 --> 00:16:23.529
+They only talk about kings and princes
+
+00:16:23.553 --> 00:16:26.353
+and elite white male people doing stuff.
+
+00:16:26.377 --> 00:16:28.473
+So it's a complicated problem,
+
+00:16:28.497 --> 00:16:32.369
+but as it learns more about our objectives

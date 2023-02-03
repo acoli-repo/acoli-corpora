@@ -1,0 +1,37 @@
+WEBVTT
+
+00:14:29.340 --> 00:14:31.112
+and observe what happens.
+
+00:14:31.136 --> 00:14:33.303
+And we go through this several rounds.
+
+00:14:33.327 --> 00:14:34.508
+And here's the result.
+
+00:14:34.968 --> 00:14:36.706
+That's the inferred task trajectory,
+
+00:14:36.730 --> 00:14:39.951
+and here's the robot
+moving at the speed of the human.
+
+00:14:39.975 --> 00:14:42.080
+Here's four times the speed of the human.
+
+00:14:42.477 --> 00:14:43.961
+Here's seven times.
+
+00:14:45.004 --> 00:14:49.829
+And here's the robot operating
+at 10 times the speed of the human.
+
+00:14:50.762 --> 00:14:53.663
+So we're able to get a robot
+to perform a delicate task
+
+00:14:53.687 --> 00:14:56.573
+like a surgical subtask,
+
+00:14:57.081 --> 00:14:58.962
+at 10 times the speed of a human.

@@ -1,0 +1,37 @@
+WEBVTT
+
+00:13:54.887 --> 00:14:01.070
+i izlučimo željenu putanju koja joj je temelj.
+
+00:14:01.070 --> 00:14:03.064
+Zatim uzmemo te ljudske demonstracije,
+
+00:14:03.064 --> 00:14:05.087
+bučne i nesavršene,
+
+00:14:05.087 --> 00:14:08.178
+i izlučimo iz njih pretpostavljenu putanju zadatka
+
+00:14:08.178 --> 00:14:11.181
+i kontrolni slijed za robota.
+
+00:14:11.181 --> 00:14:13.365
+To primijenimo na robotu,
+
+00:14:13.365 --> 00:14:15.537
+gledamo što se događa,
+
+00:14:15.537 --> 00:14:18.199
+te prilagodimo kontrole koristeći slijed tehnika
+
+00:14:18.199 --> 00:14:21.129
+koji se zove iterativno učenje.
+
+00:14:21.129 --> 00:14:25.106
+Zatim malo povećamo brzinu.
+
+00:14:25.106 --> 00:14:28.669
+Promatramo rezultate, ponovno prilagodimo kontrole
+
+00:14:28.669 --> 00:14:31.191
+i promatramo što se događa.

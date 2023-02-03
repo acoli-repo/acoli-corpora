@@ -1,0 +1,35 @@
+WEBVTT
+
+00:08:59.556 --> 00:09:03.423
+Dizme aynı zamanda DNA'mızdaki
+A,T,C ve G'deki hataları
+
+00:09:03.447 --> 00:09:05.754
+gösterdi.
+
+00:09:05.825 --> 00:09:09.283
+Doğanın hücrelerimizde bunu halletmek 
+için bir yöntemi bulunmaktadır.
+
+00:09:09.283 --> 00:09:14.841
+Fakat bizim data tüp içerisinde 
+yer alan sentetik datada saklandı,
+
+00:09:14.841 --> 00:09:18.673
+bu nedenle bu problemin üstesinden gelmek
+için kendi yolumuzu bulmak zorundaydık.
+
+00:09:18.724 --> 00:09:22.967
+Video oynatırken kullandığımız algoritmayı
+kullanmaya karar verdik.
+
+00:09:23.452 --> 00:09:24.905
+Videoyu oynatırken
+
+00:09:24.929 --> 00:09:29.390
+aslından siz orijinal videoyu, orijinal 
+dosyayı elde etmeye çalışıyorsunuz.
+
+00:09:29.414 --> 00:09:32.323
+Orijinal dosyayı
+elde etmeye çalıştığınızda

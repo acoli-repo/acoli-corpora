@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.103 --> 00:05:31.141
+Uma delas é sem fio de curto alcance, onde você pode realmente
+
+00:05:31.141 --> 00:05:32.922
+comunicar com o dispositivo das proximidades,
+
+00:05:32.922 --> 00:05:35.059
+seja através de Bluetooth ou Wi-Fi,
+
+00:05:35.059 --> 00:05:37.233
+e a outra é de longo alcance, onde você pode se comunicar
+
+00:05:37.233 --> 00:05:39.015
+com o carro através da rede celular,
+
+00:05:39.015 --> 00:05:40.975
+ou através de uma das estações de rádio.
+
+00:05:40.975 --> 00:05:44.024
+Pense nisso. Quando um carro recebe um sinal de rádio,
+
+00:05:44.024 --> 00:05:46.225
+ele é processado por software.
+
+00:05:46.225 --> 00:05:49.286
+O software tem que receber e decodificar o sinal de rádio,
+
+00:05:49.286 --> 00:05:50.405
+e depois descobrir o que fazer com ele,
+
+00:05:50.405 --> 00:05:53.429
+mesmo que seja apenas música que precise tocar no rádio,
+
+00:05:53.429 --> 00:05:55.697
+e aquele software que faz essa decodificação,
+
+00:05:55.697 --> 00:05:58.790
+se há algum bug nele, poderia se criar uma vulnerabilidade
+
+00:05:58.790 --> 00:06:01.825
+para alguém atacar o carro.

@@ -1,0 +1,47 @@
+WEBVTT
+
+00:14:59.800 --> 00:15:02.058
+Tesztelni az embereket,
+mielőtt visszamennének –
+
+00:15:02.058 --> 00:15:03.779
+UA: Ez nem feltételezi a tesztelést.
+
+00:15:03.779 --> 00:15:05.861
+Ehhez az ötlethez nincs szükség tesztre,
+
+00:15:05.861 --> 00:15:08.871
+ezt lehet alkalmazni a régiókra anélkül,
+hogy sokat tesztelnénk.
+
+00:15:08.871 --> 00:15:11.927
+Ha viszont tesztelünk, segíthet
+a tesztek hatékony használatában,
+
+00:15:11.927 --> 00:15:15.043
+ha a tesztet a tíznapos vesztegzár
+végén használjuk,
+
+00:15:15.043 --> 00:15:17.373
+amikor az emberek
+készülnek vissza a munkába.
+
+00:15:17.373 --> 00:15:19.396
+Ettől minden teszt jelentősége nőhet
+
+00:15:19.420 --> 00:15:21.646
+a reprodukciós szám
+csökkentése szempontjából.
+
+00:15:21.670 --> 00:15:24.214
+CA: Valóban, ahelyett,
+hogy három- vagy négynaponként
+
+00:15:24.214 --> 00:15:25.883
+a teljes népességet tesztelnénk,
+
+00:15:25.883 --> 00:15:27.609
+csak kéthetente egyszer tesszük ezt.
+
+00:15:27.609 --> 00:15:30.283
+Ez sokkal reálisabb célkitűzés.

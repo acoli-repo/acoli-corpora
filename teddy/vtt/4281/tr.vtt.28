@@ -1,0 +1,37 @@
+WEBVTT
+
+00:13:54.887 --> 00:14:01.070
+altında yatan ve istenilen eğriyi çıkarmamızı sağlıyor.
+
+00:14:01.070 --> 00:14:03.064
+Şimdi de bu insan örneklerini alıyoruz ki
+
+00:14:03.064 --> 00:14:05.087
+bunların hepsi gürültülü ve kusurlu,
+
+00:14:05.087 --> 00:14:08.178
+ve bunlardan robot için anlamlı görev eğrisi
+
+00:14:08.178 --> 00:14:11.181
+ve kontrol dizisini çıkarıyoruz.
+
+00:14:11.181 --> 00:14:13.365
+Bunu robota uyguladığımızda,
+
+00:14:13.365 --> 00:14:15.537
+neler olduğunu gözlemleyip,
+
+00:14:15.537 --> 00:14:18.199
+tekrarlamalı öğrenme adı verilen bir teknikler dizisini
+
+00:14:18.199 --> 00:14:21.129
+kullanarak kontrolleri ayarlıyoruz.
+
+00:14:21.129 --> 00:14:25.106
+Sonra hızı birazcık arttırıyoruz.
+
+00:14:25.106 --> 00:14:28.669
+Sonuçları gözlemliyoruz, kontrolleri tekrar ayarlıyoruz,
+
+00:14:28.669 --> 00:14:31.191
+ve ne olduğunu gözlemliyoruz.

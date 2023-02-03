@@ -1,0 +1,60 @@
+WEBVTT
+
+00:06:29.201 --> 00:06:30.395
+de tout.
+
+00:06:30.395 --> 00:06:32.256
+Intuitivement, aussi,
+ça a du sens.
+
+00:06:32.256 --> 00:06:34.918
+Deux personnes qui se correspondent
+chacune à 50%
+
+00:06:34.918 --> 00:06:36.052
+devraient être une meilleure combinaison
+
+00:06:36.052 --> 00:06:39.180
+que deux autres
+qui se correspondent à 0 et 100,
+
+00:06:39.180 --> 00:06:40.847
+parce que l'affection doit être mutuelle.
+
+00:06:40.847 --> 00:06:43.147
+Après avoir ajouté une petite correction
+pour la marge d'erreur
+
+00:06:43.147 --> 00:06:45.770
+dans le cas où
+on a très peu de questions,
+
+00:06:45.770 --> 00:06:47.234
+comme dans l'exemple,
+
+00:06:47.234 --> 00:06:48.811
+on est prêt.
+
+00:06:48.811 --> 00:06:50.191
+À chaque fois qu'OK Cupid 
+associe deux personnes,
+
+00:06:50.191 --> 00:06:52.234
+on passe par les étapes
+qu'on vient de montrer.
+
+00:06:52.234 --> 00:06:54.484
+En premier on collecte
+les données liées aux questions,
+
+00:06:54.484 --> 00:06:56.619
+puis on compare
+les choix et les préférences
+
+00:06:56.619 --> 00:06:59.740
+pour les autres personnes 
+d'une façon mathématique, simple.
+
+00:06:59.740 --> 00:07:02.453
+Ça, cette capacité à prendre 
+des phénomènes réels

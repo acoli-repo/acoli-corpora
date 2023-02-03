@@ -1,0 +1,31 @@
+WEBVTT
+
+00:13:27.208 --> 00:13:31.865
+comme moi pourrait faire, mais c'est quand même saccadé et imprécis.
+
+00:13:31.865 --> 00:13:33.937
+Donc nous enregistrons tous ces exemples, comme données,
+
+00:13:33.937 --> 00:13:37.649
+et puis nous procédons par étapes.
+
+00:13:37.649 --> 00:13:41.281
+D'abord nous utilisons une technique appelée déformation dynamique du temps
+
+00:13:41.281 --> 00:13:43.463
+venant de la reconnaissance de discours, et cela nous permet
+
+00:13:43.463 --> 00:13:46.303
+d'aligner tous les exemples dans le même temps
+
+00:13:46.303 --> 00:13:49.232
+et ensuite nous appliquons un filtrage de Kalman
+
+00:13:49.232 --> 00:13:52.215
+une technique de la théorie de la régulation, qui nous permet
+
+00:13:52.215 --> 00:13:54.887
+d'analyser le bruit statistique
+
+00:13:54.887 --> 00:14:01.070
+et d'extraire la trajectoire désirée sous-jacente.

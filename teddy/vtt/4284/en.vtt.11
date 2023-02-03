@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:28.282 --> 00:05:30.525
+Or take another example: big data.
+
+00:05:30.525 --> 00:05:32.431
+Every interaction we have in the world is recorded
+
+00:05:32.431 --> 00:05:35.490
+by an ever growing array of sensors: your phone,
+
+00:05:35.490 --> 00:05:37.863
+your credit card, your computer. The result is big data,
+
+00:05:37.863 --> 00:05:39.605
+and it actually presents us with an opportunity
+
+00:05:39.605 --> 00:05:42.267
+to more deeply understand the human condition.
+
+00:05:42.267 --> 00:05:44.572
+The major emphasis of most approaches to big data
+
+00:05:44.572 --> 00:05:46.787
+focus on, "How do I store this data? How do I search
+
+00:05:46.787 --> 00:05:49.063
+this data? How do I process this data?"
+
+00:05:49.063 --> 00:05:51.267
+These are necessary but insufficient questions.
+
+00:05:51.267 --> 00:05:53.738
+The imperative is not to figure out how to compute,
+
+00:05:53.738 --> 00:05:55.922
+but what to compute. How do you impose human intuition
+
+00:05:55.922 --> 00:05:57.713
+on data at this scale?
+
+00:05:57.713 --> 00:06:01.212
+Again, we start by designing the human into the process.

@@ -1,0 +1,44 @@
+WEBVTT
+
+00:07:28.632 --> 00:07:30.315
+Estos son los tres principios.
+
+00:07:30.339 --> 00:07:32.657
+Veamos cómo se aplica a esta cuestión
+
+00:07:32.681 --> 00:07:35.470
+de "apagar la máquina", 
+como sugirió Turing.
+
+00:07:37.073 --> 00:07:38.837
+He aquí un robot PR2.
+
+00:07:38.837 --> 00:07:41.038
+Es uno que tenemos
+en nuestro laboratorio,
+
+00:07:41.062 --> 00:07:44.491
+y tiene un gran botón rojo de 'apagado'
+en la parte posterior.
+
+00:07:44.541 --> 00:07:46.940
+La pregunta es: ¿Va a
+dejar que lo apaguen?
+
+00:07:46.940 --> 00:07:48.645
+Si lo hacemos a la manera clásica,
+
+00:07:48.669 --> 00:07:52.151
+le damos el objetivo de traer
+el café. "Debo traer el café.
+
+00:07:52.175 --> 00:07:54.755
+No puedo traer el café 
+si estoy muerto".
+
+00:07:54.779 --> 00:07:58.120
+Obviamente el PR2 
+ha escuchado mi charla,
+
+00:07:58.144 --> 00:08:00.046
+y por tanto, decide

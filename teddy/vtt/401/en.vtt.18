@@ -1,0 +1,35 @@
+WEBVTT
+
+00:08:59.556 --> 00:09:03.423
+So sequencing also introduces
+errors into our DNA,
+
+00:09:03.447 --> 00:09:05.754
+into the A's, T's, C's and G's.
+
+00:09:06.135 --> 00:09:09.113
+Nature has a way
+to deal with this in our cells.
+
+00:09:09.137 --> 00:09:15.027
+But our data is stored
+in synthetic DNA in a tube,
+
+00:09:15.051 --> 00:09:18.303
+so we had to find our own way
+to overcome this problem.
+
+00:09:18.724 --> 00:09:22.967
+We decided to use an algorithm
+that was used to stream videos.
+
+00:09:23.452 --> 00:09:24.905
+When you're streaming a video,
+
+00:09:24.929 --> 00:09:29.390
+you're essentially trying to recover
+the original video, the original file.
+
+00:09:29.414 --> 00:09:32.323
+When we're trying to recover
+our original files,

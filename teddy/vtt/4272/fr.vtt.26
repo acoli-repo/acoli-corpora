@@ -1,0 +1,43 @@
+WEBVTT
+
+00:12:58.353 --> 00:13:00.543
+Tout expert en sécurité souhaite
+pirater un smartphone ;
+
+00:13:00.543 --> 00:13:05.155
+on s'est intéressé au port USB,
+au GPS pour pister le téléphone,
+
+00:13:05.155 --> 00:13:08.363
+à la caméra, au micro, mais personne jusque-là
+
+00:13:08.363 --> 00:13:09.943
+ne s'est intéressé à l'accéléromètre.
+
+00:13:09.943 --> 00:13:11.590
+L'accéléromètre est le composant qui détermine
+
+00:13:11.590 --> 00:13:15.084
+l'orientation verticale du smartphone.
+
+00:13:15.084 --> 00:13:16.501
+Ils ont donc mis au point une installation simple :
+
+00:13:16.501 --> 00:13:19.259
+après avoir placé un téléphone
+à proximité d'un clavier,
+
+00:13:19.259 --> 00:13:21.971
+ils ont demandé à des personnes
+de taper au clavier ; leur but était
+
+00:13:21.971 --> 00:13:24.827
+d'exploiter les vibrations
+créées par la frappe des touches,
+
+00:13:24.827 --> 00:13:29.067
+pour mesurer les changements de l'accéléromètre
+
+00:13:29.067 --> 00:13:32.243
+permettant ainsi de déterminer 
+ce que la personne écrit.

@@ -1,0 +1,41 @@
+WEBVTT
+
+00:13:27.208 --> 00:13:31.865
+wie ich es könnte, aber sie sind
+immer noch ruckartig und unpräzise.
+
+00:13:31.865 --> 00:13:33.937
+Also nehmen wir
+diese Beispiele, diese Daten,
+
+00:13:33.937 --> 00:13:37.649
+und wir gehen durch 
+eine Abfolge von Schritten.
+
+00:13:37.649 --> 00:13:41.281
+Als erstes haben wir "Dynamic Time Warping"
+(Dynamische Zeitkrümmungstechnik) benutzt,
+
+00:13:41.281 --> 00:13:43.463
+von der Spracherkennung, 
+und das hat uns erlaubt,
+
+00:13:43.463 --> 00:13:46.303
+all diese Beispiele 
+zeitlich auszurichten
+
+00:13:46.303 --> 00:13:49.232
+und dann verwenden wir
+einen "Kalman-Filter",
+
+00:13:49.232 --> 00:13:52.215
+eine Technik von der Kontrolltheorie,
+die es uns erlaubt,
+
+00:13:52.215 --> 00:13:54.887
+alle Geräusche statistisch
+zu analysieren
+
+00:13:54.887 --> 00:14:01.070
+und die gewünschte Bewegungsbahn zu gewinnen,
+die ihnen zugrunde liegt.

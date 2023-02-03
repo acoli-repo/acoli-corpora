@@ -1,0 +1,34 @@
+WEBVTT
+
+00:07:29.800 --> 00:07:33.396
+Sono aziende che operano in più di un paese,
+
+00:07:33.396 --> 00:07:36.004
+e ne abbiamo trovate 43 000.
+
+00:07:36.004 --> 00:07:39.956
+Nella fase successiva abbiamo costruito la rete intorno a queste aziende,
+
+00:07:39.956 --> 00:07:42.404
+quindi abbiamo preso tutti gli azionisti di queste TNC,
+
+00:07:42.404 --> 00:07:44.496
+e gli azionisti degli azionisti, e così via,
+
+00:07:44.496 --> 00:07:47.372
+risalendo verso l'alto, l'abbiamo fatto anche verso il basso
+
+00:07:47.372 --> 00:07:51.413
+e alla fine avevamo una rete contenente 600 000 nodi
+
+00:07:51.413 --> 00:07:52.842
+e un milione di collegamenti.
+
+00:07:52.842 --> 00:07:56.692
+Questa è la rete delle TNC che abbiamo analizzato.
+
+00:07:56.692 --> 00:07:59.220
+E risulta strutturata in questo modo.
+
+00:07:59.220 --> 00:08:01.935
+C'è una periferia e c'è un centro

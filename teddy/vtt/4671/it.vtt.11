@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:28.324 --> 00:05:30.617
+siete soddisfatti l'uno dell'altro sulla seconda risposta.
+
+00:05:30.617 --> 00:05:32.611
+Quindi le vostre risposte valgono 10 su 11
+
+00:05:32.611 --> 00:05:35.240
+pari al 91% di soddisfazione di B.
+
+00:05:35.240 --> 00:05:36.117
+Niente male.
+
+00:05:36.117 --> 00:05:38.286
+Il processo finale è prendere queste due percentuali
+
+00:05:38.286 --> 00:05:40.454
+e trovare un numero per entrambi.
+
+00:05:40.454 --> 00:05:42.747
+Per fare ciò, l'algoritmo moltiplica i vostri punti
+
+00:05:42.747 --> 00:05:44.500
+poi estrae la radice n-esima,
+
+00:05:44.500 --> 00:05:46.792
+dove n è il numero delle domande.
+
+00:05:46.792 --> 00:05:49.401
+Perché s, che è il numero delle domande
+
+00:05:49.401 --> 00:05:51.507
+in questo caso è solo 2,
+
+00:05:51.507 --> 00:05:54.093
+abbiamo percentuali di compatibilità pari
+
+00:05:54.093 --> 00:05:58.154
+alla radice quadrata di 98% x 91%
+
+00:05:58.154 --> 00:06:00.304
+Cioè 94%

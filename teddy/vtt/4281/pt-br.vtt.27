@@ -1,0 +1,31 @@
+WEBVTT
+
+00:13:27.208 --> 00:13:31.865
+como eu poderia fazer, mas ainda é impreciso.
+
+00:13:31.865 --> 00:13:33.937
+Então gravamos todos esses exemplos, a informação,
+
+00:13:33.937 --> 00:13:37.649
+e seguimos por uma sequência de passos.
+
+00:13:37.649 --> 00:13:41.281
+Primeiro, usamos uma técnica chamada distorção dinâmica de tempo,
+
+00:13:41.281 --> 00:13:43.463
+do reconhecimento de fala, e isso permite o
+
+00:13:43.463 --> 00:13:46.303
+alinhamento temporário de todos esses exemplos,
+
+00:13:46.303 --> 00:13:49.232
+e aí aplicamos a filtragem Kalman,
+
+00:13:49.232 --> 00:13:52.215
+uma técnica da regulação, que nos permite
+
+00:13:52.215 --> 00:13:54.887
+analisar estatisticamente todo o ruído
+
+00:13:54.887 --> 00:14:01.070
+e extrair a trajetória desejada, que está por trás do ruído.

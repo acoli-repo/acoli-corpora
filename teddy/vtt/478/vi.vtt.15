@@ -1,0 +1,30 @@
+WEBVTT
+
+00:07:27.196 --> 00:07:30.855
+hai sợi xoắn kép DNA
+phải tạo thành cặp cơ sở.
+
+00:07:32.125 --> 00:07:35.783
+Và vì C chỉ cặp với G,
+
+00:07:35.807 --> 00:07:38.809
+và T chỉ cặp với A,
+
+00:07:39.752 --> 00:07:44.598
+chỉ cần thay đổi C thành T trên
+một chuỗi DNA sẽ gây sự không phù hợp,
+
+00:07:44.622 --> 00:07:47.471
+sự bất đồng giữa hai chuỗi DNA
+
+00:07:47.495 --> 00:07:51.763
+tế bào phải giải quyết
+bằng cách quyết định thay thế sợi nào.
+
+00:07:53.149 --> 00:07:57.490
+Chúng tôi nhận ra rằng chúng tôi có thể 
+tiếp tục thiết kế ba phần protein này
+
+00:07:58.649 --> 00:08:02.515
+để gắn các chuỗi không có ký tự
+như một cái được thay thế

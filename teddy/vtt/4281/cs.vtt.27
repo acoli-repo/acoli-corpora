@@ -1,0 +1,31 @@
+WEBVTT
+
+00:13:27.208 --> 00:13:31.865
+jako například já, přesto jsou stále roztřesené a nepřesné.
+
+00:13:31.865 --> 00:13:33.937
+Takže jsme nahráli všechny tyto příklady, tato data,
+
+00:13:33.937 --> 00:13:37.649
+a pak jsme prošli skrze jednotlivé kroky.
+
+00:13:37.649 --> 00:13:41.281
+Zaprvé, použili jsme techniku nazvanou dynamické borcení časové osy,
+
+00:13:41.281 --> 00:13:43.463
+která se používá při rozpoznávání řeči, což nám dovolilo
+
+00:13:43.463 --> 00:13:46.303
+dočasně srovnat všechny příklady,
+
+00:13:46.303 --> 00:13:49.232
+abychom následně použili Kalmanův filtr,
+
+00:13:49.232 --> 00:13:52.215
+techniku z teorie řízení, která nám dovoluje
+
+00:13:52.215 --> 00:13:54.887
+statisticky analyzovat všechen šum,
+
+00:13:54.887 --> 00:14:01.070
+takže můžeme extrahovat požadovanou dráhu, která se nachází v pozadí.

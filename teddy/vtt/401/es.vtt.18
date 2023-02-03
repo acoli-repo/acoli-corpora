@@ -1,0 +1,35 @@
+WEBVTT
+
+00:08:59.556 --> 00:09:03.423
+La secuenciación también
+introduce errores en nuestro ADN,
+
+00:09:03.447 --> 00:09:05.754
+dentro de las A, las T, las C y las G.
+
+00:09:06.135 --> 00:09:08.753
+La naturaleza resuelve
+esto en nuestras células.
+
+00:09:09.137 --> 00:09:14.727
+Pero nuestros datos son almacenados
+en ADN sintético dentro de un tubo,
+
+00:09:14.971 --> 00:09:18.493
+por lo que tuvimos que encontrar
+nuestra forma de solucionar este problema.
+
+00:09:18.734 --> 00:09:22.677
+Decidimos usar un algoritmo
+que se usa para reproducir videos.
+
+00:09:23.452 --> 00:09:24.905
+Al reproducir un video,
+
+00:09:24.929 --> 00:09:29.270
+esencialmente lo que se hace es recuperar
+el video original, el archivo original.
+
+00:09:29.414 --> 00:09:32.253
+Cuando tratamos de recuperar
+nuestros archivos originales,

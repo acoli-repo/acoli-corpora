@@ -1,0 +1,31 @@
+WEBVTT
+
+00:13:27.208 --> 00:13:31.865
+çok daha iyi ama hala sarsak ve özensiz.
+
+00:13:31.865 --> 00:13:33.937
+Biz bu örneklerin, verilerin, hepsini kaydedip
+
+00:13:33.937 --> 00:13:37.649
+bir dizi basamakdan geçiyoruz.
+
+00:13:37.649 --> 00:13:41.281
+İlk olarak ses tanımadan, dinamik zaman bükmesi
+
+00:13:41.281 --> 00:13:43.463
+adı verilen bir teknik kullandık, ve bu bizim
+
+00:13:43.463 --> 00:13:46.303
+tüm örnekleri geçici olarak sıraya sokmamızı sağlıyor,
+
+00:13:46.303 --> 00:13:49.232
+sonra Kalman filtrelemesi uyguluyoruz,
+
+00:13:49.232 --> 00:13:52.215
+bu kontrol teorisinden bir teknik ve tüm
+
+00:13:52.215 --> 00:13:54.887
+gürültüyü istatistiksel olarak analiz edip
+
+00:13:54.887 --> 00:14:01.070
+altında yatan ve istenilen eğriyi çıkarmamızı sağlıyor.

@@ -1,0 +1,36 @@
+WEBVTT
+
+00:07:29.800 --> 00:07:33.396
+Ce sont des entreprises qui ont des activités 
+dans plus d’un pays,
+
+00:07:33.396 --> 00:07:36.004
+et nous en avons trouvé 43 000.
+
+00:07:36.004 --> 00:07:39.956
+Dans l’étape suivante, nous avons construit un réseau autour de ces entreprises,
+
+00:07:39.956 --> 00:07:42.404
+nous avons donc pris tous les actionnaires des CTN,
+
+00:07:42.404 --> 00:07:44.496
+et les actionnaires des actionnaires, etc.,
+
+00:07:44.496 --> 00:07:47.372
+en amont, et nous avons fait la même chose en aval,
+
+00:07:47.372 --> 00:07:51.413
+et nous avons fini avec un réseau contenant 
+600 000 nœuds
+
+00:07:51.413 --> 00:07:52.842
+et un million de liens.
+
+00:07:52.842 --> 00:07:56.692
+Voici le réseau CTN que nous avons analysé.
+
+00:07:56.692 --> 00:07:59.220
+Et il s’avère qu’il est structuré comme suit.
+
+00:07:59.220 --> 00:08:01.935
+Vous avez donc un périphérie et un centre

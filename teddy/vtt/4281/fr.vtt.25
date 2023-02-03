@@ -1,0 +1,31 @@
+WEBVTT
+
+00:12:29.595 --> 00:12:32.618
+si nous pouvions faire que le robot réalise ces tâches un peu plus vite?
+
+00:12:32.618 --> 00:12:35.052
+En fait, c'est très dur de programmer un robot pour des tâches de précision
+
+00:12:35.052 --> 00:12:39.131
+comme celles-ci, mais il se trouve que mon collègue, Pieter Abbeel,
+
+00:12:39.131 --> 00:12:41.547
+qui est à Berkeley, a developpé
+
+00:12:41.547 --> 00:12:47.170
+une série de nouvelles techniques pour apprendre aux robots à partir d'un exemple.
+
+00:12:47.170 --> 00:12:49.937
+Donc il a réussi à ce que des robots pilotent un hélicoptère,
+
+00:12:49.937 --> 00:12:53.041
+fassent des choses incroyablement intéressantes, de belles acrobaties,
+
+00:12:53.041 --> 00:12:55.760
+en leur montrant des experts humains les pilotant.
+
+00:12:55.760 --> 00:12:58.348
+Donc nous avons pris l'un de ses robots.
+
+00:12:58.348 --> 00:13:00.530
+Nous avons commencé à travailler avec Pieter et ses étudiants,

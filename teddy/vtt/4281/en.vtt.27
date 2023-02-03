@@ -1,0 +1,33 @@
+WEBVTT
+
+00:13:29.080 --> 00:13:31.774
+but they're still jerky and imprecise.
+
+00:13:31.798 --> 00:13:34.739
+So we record all these examples, the data,
+
+00:13:34.763 --> 00:13:37.624
+and then go through a sequence of steps.
+
+00:13:38.278 --> 00:13:41.404
+First, we use a technique
+called dynamic time warping
+
+00:13:41.428 --> 00:13:42.918
+from speech recognition.
+
+00:13:42.942 --> 00:13:46.279
+And this allows us to temporally
+align all of the examples.
+
+00:13:46.918 --> 00:13:52.120
+And then we apply Kalman filtering,
+a technique from control theory,
+
+00:13:52.144 --> 00:13:55.113
+that allows us to statistically
+analyze all the noise
+
+00:13:55.137 --> 00:13:59.259
+and extract the desired
+trajectory that underlies them.

@@ -1,0 +1,36 @@
+WEBVTT
+
+00:07:59.426 --> 00:08:02.665
+Et on a découvert que
+quand on envoie à ces mouches
+
+00:08:02.665 --> 00:08:05.513
+plusieurs bouffées en série
+dans cette machine à bouffées d'air,
+
+00:08:05.513 --> 00:08:08.202
+elles deviennent un peu hyperactives
+
+00:08:08.202 --> 00:08:12.637
+et elles continuent à voler en rond pendant un moment après qu'on arrête les bouffées d'air
+
+00:08:12.637 --> 00:08:15.501
+et il leur faut un certain temps avant de se calmer.
+
+00:08:15.501 --> 00:08:17.690
+On a alors quantifié ce comportement
+
+00:08:17.690 --> 00:08:20.702
+à l'aide d'un logiciel de suivi locomoteur personnalisé
+
+00:08:20.702 --> 00:08:23.502
+développé avec mon collaborateur Pietro Perona,
+
+00:08:23.502 --> 00:08:27.114
+qui fait partie de la division d'ingénierie électrique ici à CalTech.
+
+00:08:27.114 --> 00:08:29.928
+Cette quantification a montré que,
+
+00:08:29.928 --> 00:08:33.152
+sur la base d'une série d'expériences de ces bouffées d'air,

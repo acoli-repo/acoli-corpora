@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.103 --> 00:05:31.141
+Una è quella wireless a corto raggio, in cui si può
+
+00:05:31.141 --> 00:05:32.922
+comunicare con l'apparecchio da una distanza ravvicinata,
+
+00:05:32.922 --> 00:05:35.059
+tramite Bluetooth o wi-fi,
+
+00:05:35.059 --> 00:05:37.233
+e l'altro è a lungo raggio, in cui si può comunicare
+
+00:05:37.233 --> 00:05:39.015
+con l'auto attraverso la rete cellulare,
+
+00:05:39.015 --> 00:05:40.975
+o attraverso una stazione radio.
+
+00:05:40.975 --> 00:05:44.024
+Pensateci. Quando un'auto riceve un segnale radio,
+
+00:05:44.024 --> 00:05:46.225
+viene elaborato da un software.
+
+00:05:46.225 --> 00:05:49.286
+Quel software deve ricevere e decodificare il segnale radio,
+
+00:05:49.286 --> 00:05:50.405
+e capire cosa farne,
+
+00:05:50.405 --> 00:05:53.429
+anche se è solo musica che va trasmessa alla radio.
+
+00:05:53.429 --> 00:05:55.697
+E quel software che decodifica,
+
+00:05:55.697 --> 00:05:58.790
+se ha qualche falla, potrebbe creare una vulnerabilità
+
+00:05:58.790 --> 00:06:01.825
+e consentire a qualcuno di attaccare l'auto.

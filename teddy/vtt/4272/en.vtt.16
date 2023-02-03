@@ -1,0 +1,34 @@
+WEBVTT
+
+00:07:58.274 --> 00:08:01.973
+They were able to take over a bunch of critical computers
+
+00:08:01.973 --> 00:08:05.734
+inside the car: the brakes computer, the lighting computer,
+
+00:08:05.734 --> 00:08:08.561
+the engine, the dash, the radio, etc.,
+
+00:08:08.561 --> 00:08:10.854
+and they were able to perform these on real commercial
+
+00:08:10.854 --> 00:08:13.881
+cars that they purchased using the radio network.
+
+00:08:13.881 --> 00:08:16.884
+They were able to compromise every single one of the
+
+00:08:16.884 --> 00:08:19.350
+pieces of software that controlled every single one
+
+00:08:19.350 --> 00:08:22.365
+of the wireless capabilities of the car.
+
+00:08:22.365 --> 00:08:24.878
+All of these were implemented successfully.
+
+00:08:24.878 --> 00:08:27.230
+How would you steal a car in this model?
+
+00:08:27.230 --> 00:08:30.910
+Well, you compromise the car by a buffer overflow

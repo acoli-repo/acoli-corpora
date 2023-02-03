@@ -1,0 +1,42 @@
+WEBVTT
+
+00:07:28.706 --> 00:07:31.107
+it's supposed to look like
+an anatomy drawing.
+
+00:07:31.510 --> 00:07:34.020
+Using the miracle of 3-D printing,
+
+00:07:34.044 --> 00:07:36.681
+we're starting to build parts of robots
+
+00:07:36.705 --> 00:07:39.602
+that look a lot more
+like the anatomy of an animal.
+
+00:07:39.626 --> 00:07:42.970
+So that's an upper-leg part
+that has hydraulic pathways --
+
+00:07:42.994 --> 00:07:44.924
+actuators, filters --
+
+00:07:44.948 --> 00:07:47.328
+all embedded, all printed as one piece,
+
+00:07:47.352 --> 00:07:50.554
+and the whole structure is developed
+
+00:07:50.578 --> 00:07:53.614
+with a knowledge of what the loads
+and behavior are going to be,
+
+00:07:53.638 --> 00:07:56.541
+which is available from data
+recorded from robots
+
+00:07:56.565 --> 00:07:58.374
+and simulations and things like that.
+
+00:07:58.398 --> 00:08:01.335
+So it's a data-driven hardware design.

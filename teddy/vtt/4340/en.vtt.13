@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:29.880 --> 00:06:31.700
+let's say a group has these answers:
+
+00:06:31.724 --> 00:06:36.332
+250 meters, 200 meters, 300 meters, 400
+
+00:06:36.356 --> 00:06:40.140
+and one totally absurd answer
+of 300 million meters.
+
+00:06:40.547 --> 00:06:44.840
+A simple average of these numbers
+would inaccurately skew the results.
+
+00:06:44.864 --> 00:06:48.034
+But the robust average is one
+where the group largely ignores
+
+00:06:48.058 --> 00:06:49.298
+that absurd answer,
+
+00:06:49.322 --> 00:06:52.691
+by giving much more weight
+to the vote of the people in the middle.
+
+00:06:53.305 --> 00:06:55.181
+Back to the experiment in Vancouver,
+
+00:06:55.205 --> 00:06:56.972
+that's exactly what happened.
+
+00:06:57.407 --> 00:07:00.148
+Groups gave much less weight
+to the outliers,

@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:58.977 --> 00:07:02.782
+como o conteúdo chega
+da pessoa A à pessoa B?
+
+00:07:03.358 --> 00:07:08.082
+Ou talvez de pessoa A à B, à C à D?
+
+00:07:08.106 --> 00:07:10.460
+Sabemos que as pessoas
+compartilham conteúdo,
+
+00:07:10.484 --> 00:07:12.842
+mas o que não sabemos
+é o que acontece no espaço
+
+00:07:12.866 --> 00:07:14.657
+entre uma pessoa e outra.
+
+00:07:14.681 --> 00:07:19.427
+Decidimos criar uma ferramenta
+pra explorar isso, que se chama "Cascade".
+
+00:07:19.471 --> 00:07:22.066
+Se observarmos estes sistemas
+
+00:07:22.090 --> 00:07:26.520
+que começam com um evento
+que leva a outros,
+
+00:07:26.544 --> 00:07:28.782
+chamamos esta estrutura de cascata,
+
+00:07:28.806 --> 00:07:31.215
+e elas acontecem ao longo do tempo.

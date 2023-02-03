@@ -1,0 +1,50 @@
+WEBVTT
+
+00:04:58.285 --> 00:05:00.304
+à primeira pergunta sobre arrumação
+
+00:05:00.304 --> 00:05:01.995
+era muito importante,
+
+00:05:01.995 --> 00:05:04.525
+isso vale 50 pontos 
+e B acertou na resposta.
+
+00:05:04.525 --> 00:05:06.220
+A segunda pergunta só vale 1
+
+00:05:06.220 --> 00:05:08.168
+porque disseram 
+que era pouco importante,
+
+00:05:08.168 --> 00:05:09.657
+e B não acertou.
+
+00:05:09.657 --> 00:05:12.465
+Portanto as respostas de B
+valem 50 em 51 pontos possíveis.
+
+00:05:12.465 --> 00:05:14.801
+Isso é uma satisfação de 98%,
+É bastante bom.
+
+00:05:15.220 --> 00:05:17.126
+O segundo cálculo do algoritmo
+
+00:05:17.126 --> 00:05:19.181
+avalia se as vossas respostas 
+satisfazem B.
+
+00:05:19.181 --> 00:05:22.557
+B atribui 1 ponto à vossa resposta
+à pergunta da arrumação
+
+00:05:22.557 --> 00:05:25.920
+e 10 à vossa resposta à segunda.
+
+00:05:25.920 --> 00:05:28.429
+Desses 11, ou seja 1 mais 10,
+ganharam 10,
+
+00:05:28.429 --> 00:05:30.785
+acertaram na segunda resposta um do outro.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:15:59.500 --> 00:16:01.247
+What does this all mean?
+
+00:16:01.247 --> 00:16:04.894
+Well, I think that society tends to adopt technology
+
+00:16:04.894 --> 00:16:07.718
+really quickly. I love the next coolest gadget.
+
+00:16:07.718 --> 00:16:10.332
+But it's very important, and these researchers are showing,
+
+00:16:10.332 --> 00:16:11.692
+that the developers of these things
+
+00:16:11.692 --> 00:16:14.557
+need to take security into account from the very beginning,
+
+00:16:14.557 --> 00:16:17.342
+and need to realize that they may have a threat model,
+
+00:16:17.342 --> 00:16:19.804
+but the attackers may not be nice enough
+
+00:16:19.804 --> 00:16:21.581
+to limit themselves to that threat model,
+
+00:16:21.581 --> 00:16:24.118
+and so you need to think outside of the box.
+
+00:16:24.118 --> 00:16:25.696
+What we can do is be aware
+
+00:16:25.696 --> 00:16:28.175
+that devices can be compromised,
+
+00:16:28.175 --> 00:16:29.874
+and anything that has software in it
+
+00:16:29.874 --> 00:16:32.523
+is going to be vulnerable. It's going to have bugs.

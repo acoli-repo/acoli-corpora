@@ -1,0 +1,30 @@
+WEBVTT
+
+00:07:27.196 --> 00:07:30.855
+a DNS kettős csigavonalának két szálát
+bázispároknak kell összekötniük.
+
+00:07:32.125 --> 00:07:35.783
+Mivel a C-hez csak a G kapcsolódhat,
+
+00:07:35.807 --> 00:07:38.809
+és a T-hez pedig csak az A,
+
+00:07:39.752 --> 00:07:43.982
+ha a C-t csupán T-vé módosítjuk
+az egyik DNS-szálban,
+
+00:07:44.012 --> 00:07:47.471
+az zavart, összeférhetetlenséget
+okoz a két DNS-szál között,
+
+00:07:47.495 --> 00:07:51.763
+amelyet a sejtnek kéne megoldania,
+eldöntve: melyik szálat helyettesítse.
+
+00:07:53.149 --> 00:07:57.490
+Rájöttünk, hogy még tovább is
+javíthatjuk e háromrészes fehérjét,
+
+00:07:58.649 --> 00:08:02.515
+ha bevágással cserélendőnek jelöljük meg

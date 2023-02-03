@@ -1,0 +1,45 @@
+WEBVTT
+
+00:07:28.632 --> 00:07:30.299
+Ce sont donc les trois principes.
+
+00:07:30.299 --> 00:07:32.677
+Voyons comment cela s'applique
+à la question
+
+00:07:32.697 --> 00:07:35.600
+de Turing :
+« Pouvez-vous éteindre la machine ? »
+
+00:07:37.073 --> 00:07:39.193
+Voici un robot PR2.
+
+00:07:39.217 --> 00:07:41.189
+C'est celui que nous avons au laboratoire
+
+00:07:41.189 --> 00:07:44.092
+Il possède un gros interrupteur rouge
+directement sur le dos.
+
+00:07:44.521 --> 00:07:47.186
+La question est :
+« Va-t-il nous laisser l'éteindre ? »
+
+00:07:47.186 --> 00:07:48.645
+Selon la méthode classique,
+
+00:07:48.669 --> 00:07:51.271
+nous lui donnons pour objectif de
+« chercher du café,
+
+00:07:51.291 --> 00:07:54.755
+je dois aller chercher du café,
+je ne peux pas y aller si je suis mort. »
+
+00:07:54.779 --> 00:07:58.120
+Alors, évidemment, le PR2
+a écouté ma présentation
+
+00:07:58.144 --> 00:08:01.897
+et il se dit :
+« Je dois désactiver mon interrupteur

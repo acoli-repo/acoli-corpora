@@ -1,0 +1,41 @@
+WEBVTT
+
+00:10:29.262 --> 00:10:32.763
+Ta sẽ phải cung cấp và tạo nên
+một hệ sinh thái dịch vụ
+
+00:10:32.787 --> 00:10:34.921
+giống như đã làm với điện thoại di động,
+
+00:10:34.945 --> 00:10:37.421
+nơi bạn có các ứng dụng
+và dịch vụ, và mọi thứ khác,
+
+00:10:37.445 --> 00:10:39.762
+và đôi khi, bạn vẫn
+thực hiện một cuộc gọi.
+
+00:10:40.081 --> 00:10:44.437
+Để khiến hệ sinh thái này trở nên khả thi,
+ta cần tránh việc phân nhỏ nó ra.
+
+00:10:44.461 --> 00:10:48.293
+Không nên tạo các giao diện khác nhau
+cho người dùng và vật dụng khác nhau.
+
+00:10:48.293 --> 00:10:50.490
+Cần tạo ra trải nghiệm
+đồng nhất cho người dùng
+
+00:10:50.490 --> 00:10:54.832
+và do vậy, chúng tôi phải tạo ra
+một nền tảng điện toán duy nhất
+
+00:10:54.856 --> 00:10:56.777
+tạo điều kiện cho tất cả những thứ đó.
+
+00:10:56.801 --> 00:10:58.681
+Nền tảng ấy sẽ như thế nào?
+
+00:10:58.705 --> 00:11:00.417
+Tôi nghĩ câu trả lời khá rõ ràng:

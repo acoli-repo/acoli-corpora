@@ -1,0 +1,31 @@
+WEBVTT
+
+00:13:27.208 --> 00:13:31.865
+come me, ma sono comunque imprecisi e irregolari.
+
+00:13:31.865 --> 00:13:33.937
+Quindi registriamo tutti questi esempi, i dati,
+
+00:13:33.937 --> 00:13:37.649
+e poi eseguiamo una serie di fasi.
+
+00:13:37.649 --> 00:13:41.281
+In primis, usiamo una tecnica chiamata curvatura spazio-temporale dinamica
+
+00:13:41.281 --> 00:13:43.463
+proveniente dal riconoscimento vocale, così da
+
+00:13:43.463 --> 00:13:46.303
+allineare provvisoriamente tutti gli esempi,
+
+00:13:46.303 --> 00:13:49.232
+dopodiché applichiamo il filtro di Kalman,
+
+00:13:49.232 --> 00:13:52.215
+una tecnica che proviene dalla teoria dei controlli, che ci permette
+
+00:13:52.215 --> 00:13:54.887
+di analizzare statisticamente tutto il rumore
+
+00:13:54.887 --> 00:14:01.070
+ed estrarne la traiettoria desiderata che ne è alla base.

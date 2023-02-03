@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:58.274 --> 00:08:01.973
+Ils ont pu prendre le contrôle
+de plusieurs ordinateurs critiques
+
+00:08:01.973 --> 00:08:05.734
+de la voiture : le contrôleur des freins, de l'éclairage,
+
+00:08:05.734 --> 00:08:08.561
+du moteur, du tableau de bord, de la radio, etc.
+
+00:08:08.561 --> 00:08:10.854
+Et ils ont pu faire cela sur des voitures
+
+00:08:10.854 --> 00:08:13.881
+achetées dans le commerce,
+en les piratant par radio.
+
+00:08:13.881 --> 00:08:16.884
+Ils ont réussi à compromettre
+
+00:08:16.884 --> 00:08:19.350
+chacune des parties du logiciel qui contrôle
+
+00:08:19.350 --> 00:08:22.365
+toutes les fonctions sans fil de la voiture.
+
+00:08:22.365 --> 00:08:24.878
+Toutes ces attaques ont été couronnées de succès.
+
+00:08:24.878 --> 00:08:27.230
+Comment ferait-on pour voler une voiture
+avec cette méthode ?
+
+00:08:27.230 --> 00:08:30.910
+Eh bien, vous exploitez une faille de &lt;i&gt;buffer overflow&lt;/i&gt;

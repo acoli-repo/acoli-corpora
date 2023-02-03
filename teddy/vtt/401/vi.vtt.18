@@ -1,0 +1,33 @@
+WEBVTT
+
+00:08:59.556 --> 00:09:03.423
+Vì vậy sắp xếp có thể gây lỗi ở DNA,
+
+00:09:03.447 --> 00:09:05.754
+ở A, T, C và G.
+
+00:09:06.135 --> 00:09:09.113
+Tự nhiên có một cách để giải quyết
+vấn đề này.
+
+00:09:09.137 --> 00:09:15.027
+Nhưng dữ liệu của chúng ta 
+lưu trữ trong sợi tổng hợp DNA trong ống,
+
+00:09:15.051 --> 00:09:18.303
+vì vậy chúng ta phải tìm cách
+giải quyết vấn đề này.
+
+00:09:18.724 --> 00:09:22.967
+Chúng tôi quyết định sử dụng thuật toán
+dùng trong phát trực tiếp video.
+
+00:09:23.452 --> 00:09:24.905
+Khi bạn phát một video,
+
+00:09:24.929 --> 00:09:29.390
+bạn đang cố khôi phục
+video gốc, tập tin gốc.
+
+00:09:29.414 --> 00:09:32.323
+Khi chúng ta khôi phục tập tin gốc,

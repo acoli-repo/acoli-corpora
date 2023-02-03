@@ -1,0 +1,37 @@
+WEBVTT
+
+00:13:54.887 --> 00:14:01.070
+e extrair a trajetória desejada, que está por trás do ruído.
+
+00:14:01.070 --> 00:14:03.064
+Então, o que estamos fazendo é pegar essas
+
+00:14:03.064 --> 00:14:05.087
+demonstrações humanas, ruidosas e imperfeitas,
+
+00:14:05.087 --> 00:14:08.178
+e tiramos delas uma trajetória da tarefa deduzida
+
+00:14:08.178 --> 00:14:11.181
+e uma sequência de controles para o robô.
+
+00:14:11.181 --> 00:14:13.365
+Então executamos isso no robô,
+
+00:14:13.365 --> 00:14:15.537
+observamos o que acontece,
+
+00:14:15.537 --> 00:14:18.199
+e aí ajustamos os controles usando uma sequência de técnicas
+
+00:14:18.199 --> 00:14:21.129
+chamada aprendizado interativo.
+
+00:14:21.129 --> 00:14:25.106
+Então o que fazemos é aumentar um pouco a velocidade.
+
+00:14:25.106 --> 00:14:28.669
+Observamos os resultados, ajustamos os comandos de novo,
+
+00:14:28.669 --> 00:14:31.191
+e vemos o que acontece.

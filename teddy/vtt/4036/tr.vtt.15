@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:29.989 --> 00:07:31.791
+O zaman bu ilkelerin,
+
+00:07:31.791 --> 00:07:34.253
+Turing'in önerdiği
+''makineyi kapatabilir misin?''
+
+00:07:34.253 --> 00:07:36.933
+sorusuna nasıl
+uygulandığını inceleyelim.
+
+00:07:37.073 --> 00:07:39.193
+Burada gördüğünüz bir PR2 robotu.
+
+00:07:39.217 --> 00:07:41.178
+Bu gördüğünüz bizim
+laboratuvarımızdaki PR2.
+
+00:07:41.178 --> 00:07:44.615
+Gördüğünüz gibi arkasında kocaman 
+kırmızı bir ''kapat'' düğmesi var.
+
+00:07:44.615 --> 00:07:47.156
+Sorumuz şu:
+Onu kapatmanıza izin verecek mi?
+
+00:07:47.180 --> 00:07:48.805
+Bunu klasik şekilde
+yapacak olursak
+
+00:07:48.805 --> 00:07:51.315
+ve ona ''kahveyi getir, 
+kahveyi getirmeliyim,
+
+00:07:51.315 --> 00:07:54.339
+ölürsem kahveyi getiremem''
+amacını verirsek,
+
+00:07:54.339 --> 00:07:57.444
+tabi PR2 konuşmamı dinlemekteydi,
+
+00:07:57.444 --> 00:08:01.786
+dolayısıyla ''kapama düğmemi 
+işlev dışı bırakmalıyım

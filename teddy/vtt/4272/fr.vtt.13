@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:28.699 --> 00:06:31.289
+La première expérience devait permettre de voir
+
+00:06:31.289 --> 00:06:33.433
+ce qu'un hacker pouvait faire s'il accédait
+
+00:06:33.433 --> 00:06:35.486
+au réseau interne de la voiture.
+
+00:06:35.486 --> 00:06:38.089
+Imaginez : quelqu'un s'introduit dans votre voiture,
+
+00:06:38.089 --> 00:06:40.993
+y bidouille quelque chose, puis s'en va.
+
+00:06:40.993 --> 00:06:43.361
+Que risquez-vous désormais ?
+
+00:06:43.361 --> 00:06:46.153
+La seconde expérience consiste à pirater la voiture
+
+00:06:46.153 --> 00:06:48.610
+en temps réel par un réseau sans fil
+
+00:06:48.610 --> 00:06:50.665
+-- comme celui de téléphonie mobile ou un autre --
+
+00:06:50.665 --> 00:06:54.665
+sans jamais avoir besoin d'accéder
+physiquement à cette voiture.
+
+00:06:54.665 --> 00:06:57.489
+Voici à quoi ressemblait leur installation
+dans le premier cas,
+
+00:06:57.489 --> 00:06:59.172
+avec un accès à la voiture.
+
+00:06:59.172 --> 00:07:02.559
+Ils ont utilisé un ordinateur portable
+qu'ils ont connecté à l'unité de diagnostic

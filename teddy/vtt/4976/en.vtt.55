@@ -1,0 +1,38 @@
+WEBVTT
+
+00:27:28.228 --> 00:27:31.791
+engineers spent almost
+a third of their time solving issues
+
+00:27:31.815 --> 00:27:35.069
+that had already been solved
+elsewhere in their company.
+
+00:27:35.784 --> 00:27:37.831
+A good memory system can prevent that,
+
+00:27:37.855 --> 00:27:41.063
+by making it easy for people
+to access existing solutions.
+
+00:27:41.087 --> 00:27:44.961
+AH: But the challenge comes in
+when we need to distinguish
+
+00:27:44.985 --> 00:27:49.031
+between doing the same thing over and over
+
+00:27:49.055 --> 00:27:51.236
+and doing different things.
+
+00:27:51.260 --> 00:27:54.117
+And memory plays a key role
+in both of those.
+
+00:27:54.141 --> 00:27:56.720
+If we did something right
+and we want to keep doing it,
+
+00:27:56.744 --> 00:28:00.029
+we want to support that behavior,
+we want to encode it,

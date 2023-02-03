@@ -1,0 +1,42 @@
+WEBVTT
+
+00:10:58.705 --> 00:11:00.417
+Szerintem egyértelmű a válasz:
+
+00:11:00.441 --> 00:11:03.318
+felhő, felhőalapú számítástechnika.
+
+00:11:03.342 --> 00:11:06.442
+A tárgyak nyilvánvalóan nem kapcsolhatók
+közvetlenül a felhőbe.
+
+00:11:06.466 --> 00:11:11.320
+Vagyis egy kis eszközt kell fejlesztenünk,
+amit bedugunk a tárgyakba,
+
+00:11:11.320 --> 00:11:13.636
+így rákapcsoljuk őket a felhőre,
+
+00:11:13.660 --> 00:11:17.299
+hogy elérhetővé váljanak a bennük rejlő
+lehetőségek és új funkciók.
+
+00:11:17.323 --> 00:11:21.113
+Hadd mutassam meg, most először,
+a tényleges eszközt, amit építettünk.
+
+00:11:21.137 --> 00:11:23.692
+Most először mutatjuk be.
+
+00:11:23.716 --> 00:11:25.332
+Így néz ki,
+
+00:11:26.043 --> 00:11:27.463
+kis eszköz,
+
+00:11:27.483 --> 00:11:29.183
+tárgyakra csatlakoztatható,
+
+00:11:29.183 --> 00:11:32.601
+amelyeket okosabbá, interaktívvá
+akarunk tenni, és össze akarunk kötni.

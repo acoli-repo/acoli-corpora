@@ -1,0 +1,41 @@
+WEBVTT
+
+00:07:29.537 --> 00:07:31.370
+számos különböző adatformátumban,
+
+00:07:31.370 --> 00:07:34.933
+igen eltérő rendszerekből, annál kevésbé
+lesz hatékony az adatbányászat.
+
+00:07:35.419 --> 00:07:37.573
+Ehelyett emberek kell nézzék az adatokat,
+
+00:07:37.573 --> 00:07:41.029
+felismeréseket keresve,
+és ahogy Licklider rég megjósolta,
+
+00:07:41.029 --> 00:07:43.714
+az eredmény kulcsa itt
+a megfelelő típusú együttműködés,
+
+00:07:43.714 --> 00:07:45.238
+és ahogy Kaszparov rájött,
+
+00:07:45.238 --> 00:07:47.549
+minimalizálnunk kell
+a súrlódást az interfészen.
+
+00:07:48.629 --> 00:07:51.027
+E megközelítés lehetővé teszi
+
+00:07:51.027 --> 00:07:54.413
+pl. az igen különböző forrásokból 
+származó összes adat átfésülését,
+
+00:07:54.413 --> 00:07:57.205
+főbb kapcsolatok azonosítását
+és egybegyűjtését.
+
+00:07:57.205 --> 00:07:59.452
+Ezt korábban szinte
+lehetetlen volt megtenni.
