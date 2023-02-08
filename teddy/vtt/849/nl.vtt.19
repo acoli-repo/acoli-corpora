@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:31.000
+heb je een beetje meer informatica nodig.
+
+00:09:31.000 --> 00:09:33.000
+Daarom hebben we een systeem voor automatische diagnose ontworpen.
+
+00:09:33.000 --> 00:09:36.000
+Het idee is dat we gewoon uitgaan van virtuele patronen -
+
+00:09:36.000 --> 00:09:38.000
+omdat we nooit monsters van ieder virus zullen krijgen.
+
+00:09:38.000 --> 00:09:41.000
+Dat zou vrijwel onmogelijk zijn. Maar we kunnen wel virtuele patronen verkrijgen
+
+00:09:41.000 --> 00:09:43.000
+en vergelijken met ons waargenomen resultaat.
+
+00:09:43.000 --> 00:09:47.000
+Dat is een zeer complex mengsel. Daaruit kunnen we dan een soort score opstellen
+
+00:09:47.000 --> 00:09:50.000
+van hoe waarschijnlijk het is dat dit een rhinovirus of zoiets is.
+
+00:09:50.000 --> 00:09:52.000
+Zo ziet het eruit.
+
+00:09:52.000 --> 00:09:54.000
+Als je bijvoorbeeld gebruik maakt van een celkweek
+
+00:09:54.000 --> 00:09:56.000
+die chronisch geïnfecteerd is met papilloma,
+
+00:09:56.000 --> 00:09:58.000
+dan krijg je hier een kleine computeruitlezing,
+
+00:09:58.000 --> 00:10:02.000
+en ons algoritme zegt dat het waarschijnlijk papilloma type 18 is.

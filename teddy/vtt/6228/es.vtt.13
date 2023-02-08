@@ -1,0 +1,33 @@
+WEBVTT
+
+00:06:29.484 --> 00:06:30.804
+y mezclarlos.
+
+00:06:30.828 --> 00:06:34.417
+Y uno toma vértices, menos aristas, 
+más caras y uno siempre obtendrá dos.
+
+00:06:34.417 --> 00:06:36.022
+Aquí hay una forma diferente.
+
+00:06:36.480 --> 00:06:41.730
+Este es un toro o la superficie 
+de un donut: 16 vértices
+
+00:06:41.754 --> 00:06:45.998
+cubierto por estos rectángulos, 
+32 aristas, 16 caras.
+
+00:06:46.530 --> 00:06:49.214
+Los vértices menos aristas 
+son cero.
+
+00:06:49.238 --> 00:06:50.713
+Siempre se obtendrá cero.
+
+00:06:50.737 --> 00:06:55.047
+Cada vez que se cubre un toro 
+con cuadrados o triángulos
+
+00:06:55.071 --> 00:06:59.006
+o lo que sea, se obtiene cero.

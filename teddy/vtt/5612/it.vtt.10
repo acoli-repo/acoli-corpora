@@ -1,0 +1,37 @@
+WEBVTT
+
+00:04:58.954 --> 00:05:02.538
+Questo approccio è decisamente
+molto più veloce della soluzione Naif.
+
+00:05:02.663 --> 00:05:05.871
+Invece di un tempo fattoriale
+richiede un tempo lineare.
+
+00:05:06.079 --> 00:05:07.663
+Ossia il tempo necessario aumenta
+
+00:05:07.663 --> 00:05:10.121
+in modo proporzionale
+al numero di blocchi presenti.
+
+00:05:10.371 --> 00:05:14.371
+Ora scrivi un ciclo per Hedge
+affinché affronti i mucchi uno alla volta
+
+00:05:14.371 --> 00:05:18.038
+e si fermi una volta trovato
+quello adatto, e sarai pronto per partire.
+
+00:05:18.538 --> 00:05:19.704
+Ecco cosa succede:
+
+00:05:19.913 --> 00:05:21.079
+Hedge è veloce,
+
+00:05:21.079 --> 00:05:23.871
+ma ci sono così tanti mucchi
+che ci mette molto tempo.
+
+00:05:23.954 --> 00:05:25.329
+Troppo.

@@ -1,0 +1,31 @@
+WEBVTT
+
+00:04:59.014 --> 00:05:02.814
+Deze aanpak werkt veel sneller 
+dan de naïeve oplossing.
+
+00:05:02.814 --> 00:05:06.254
+In plaats van in factoriale tijd 
+wordt deze in lineaire tijd uitgevoerd.
+
+00:05:06.254 --> 00:05:10.384
+Dat is waar de tijd oploopt in verhouding 
+tot het aantal bestaande blokken.
+
+00:05:10.384 --> 00:05:14.494
+Noteer nu een loop voor Hedge 
+om de stapels een voor een te benaderen,
+
+00:05:14.494 --> 00:05:18.529
+stop wanneer hij een goede gevonden heeft
+en je bent klaar om te gaan.
+
+00:05:18.529 --> 00:05:19.918
+Dit is wat er gebeurt:
+
+00:05:19.918 --> 00:05:23.964
+Hedge is snel, maar er zijn veel stapels 
+waardoor het proces hem veel tijd kost.
+
+00:05:23.964 --> 00:05:25.320
+Teveel tijd.

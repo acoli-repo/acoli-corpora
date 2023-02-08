@@ -1,0 +1,41 @@
+WEBVTT
+
+00:05:28.699 --> 00:05:30.910
+mas é um circuito neural pequeno.
+
+00:05:31.160 --> 00:05:33.621
+Suficientemente pequeno
+para podermos identificá-lo
+
+00:05:33.662 --> 00:05:36.248
+e estudá-lo com os instrumentos
+de que dispomos hoje.
+
+00:05:37.041 --> 00:05:39.126
+É isso que eu estou a tentar fazer.
+
+00:05:39.668 --> 00:05:42.713
+Criei um modelo do que eu penso
+que é o circuito neural
+
+00:05:42.880 --> 00:05:45.424
+que calcula como
+a libelinha deve virar.
+
+00:05:45.966 --> 00:05:47.718
+E este é o resultado interessante.
+
+00:05:47.718 --> 00:05:49.345
+No modelo,
+
+00:05:49.387 --> 00:05:51.972
+as libelinhas fazem 
+transformações coordenadas
+
+00:05:52.014 --> 00:05:55.434
+num único passo computacional,
+uma camada de neurónios.
+
+00:05:56.394 --> 00:05:59.397
+Isto é uma coisa
+que podemos testar e compreender.

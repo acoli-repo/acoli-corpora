@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:58.964 --> 00:05:02.684
+Cette approche est bien plus rapide
+que la solution naïve.
+
+00:05:02.684 --> 00:05:06.104
+Au lieu d'une durée en factorielle,
+nous sommes en linéaire.
+
+00:05:06.104 --> 00:05:10.374
+C'est quand la durée augmente
+en proportion du nombre de blocs.
+
+00:05:10.384 --> 00:05:14.374
+Écrivez une boucle pour que Hedge
+approche les piles une à une
+
+00:05:14.374 --> 00:05:17.529
+et s'arrête quand
+il en trouve une adéquate
+
+00:05:17.529 --> 00:05:18.529
+et vous serez paré.
+
+00:05:18.529 --> 00:05:19.918
+Voici ce qu'il se passe :
+
+00:05:19.918 --> 00:05:23.964
+Hedge est rapide mais il y a tant de piles
+que cela lui prend longtemps.
+
+00:05:23.964 --> 00:05:25.320
+Trop longtemps.

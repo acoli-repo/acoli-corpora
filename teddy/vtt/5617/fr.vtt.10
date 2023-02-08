@@ -1,0 +1,37 @@
+WEBVTT
+
+00:04:56.848 --> 00:05:00.798
+Cela fonctionnera mais cela prendra
+du temps si le réservoir est grand.
+
+00:05:00.798 --> 00:05:05.328
+À chaque étape, Hedge répète cette action
+de regarder à gauche et à droite.
+
+00:05:05.328 --> 00:05:10.280
+S'il y a N piles, il regardera N fois
+toutes les piles.
+
+00:05:10.280 --> 00:05:12.260
+Y a-t-il un moyen d'aller plus vite ?
+
+00:05:12.260 --> 00:05:15.608
+Un gain de temps unique existe :
+avant de faire autre chose,
+
+00:05:15.608 --> 00:05:17.468
+Hedge peut commencer à gauche
+
+00:05:17.468 --> 00:05:21.338
+et vérifier quel est la plus grande pile.
+
+00:05:21.338 --> 00:05:25.098
+Ici, ce serait 2, 2 encore,
+comme la première est plus haute,
+
+00:05:25.098 --> 00:05:27.848
+ensuite 4, 4, 4.
+
+00:05:27.848 --> 00:05:30.628
+Il peut ensuite trouver les piles
+les plus hautes à droite

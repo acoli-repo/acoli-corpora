@@ -1,0 +1,41 @@
+WEBVTT
+
+00:07:56.263 --> 00:08:01.090
+tak si nejspíš řekla,
+že to asi bude dopravní značka
+
+00:08:01.114 --> 00:08:03.387
+a může bezpečně projet pod ní.
+
+00:08:04.114 --> 00:08:06.694
+Teď přešlap UI z jiné oblasti.
+
+00:08:06.718 --> 00:08:11.428
+V Amazonu museli nedávno vzdát
+vývoj algoritmu na třídění životopisů,
+
+00:08:11.446 --> 00:08:14.758
+když zjistili, že ten algoritmus
+se naučil diskriminovat ženy.
+
+00:08:14.858 --> 00:08:18.094
+Trénovali ho na příkladech
+životopisů lidí,
+
+00:08:18.118 --> 00:08:20.360
+které zaměstnali v minulosti.
+
+00:08:20.384 --> 00:08:24.407
+A z těchto příkladů se UI naučila
+vyhýbat se životopisům lidí,
+
+00:08:24.431 --> 00:08:26.457
+kteří chodili na ženské univerzity,
+
+00:08:26.481 --> 00:08:29.287
+nebo měli slovo ‚žena‘
+někde ve svém životopisu,
+
+00:08:29.311 --> 00:08:33.887
+jako třeba ‚ženský fotbalový tým‘,
+nebo ‚Společnost ženských inženýrů‘.

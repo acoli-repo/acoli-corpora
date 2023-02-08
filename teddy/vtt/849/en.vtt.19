@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:31.000
+you need a little bit more informatics,
+
+00:09:31.000 --> 00:09:33.000
+so we designed the system to do automatic diagnosis.
+
+00:09:33.000 --> 00:09:36.000
+And the idea is that we simply have virtual patterns,
+
+00:09:36.000 --> 00:09:38.000
+because we're never going to get samples of every virus --
+
+00:09:38.000 --> 00:09:41.000
+it would be virtually impossible. But we can get virtual patterns,
+
+00:09:41.000 --> 00:09:43.000
+and compare them to our observed result --
+
+00:09:43.000 --> 00:09:47.000
+which is a very complex mixture -- and come up with some sort of score
+
+00:09:47.000 --> 00:09:50.000
+of how likely it is this is a rhinovirus or something.
+
+00:09:50.000 --> 00:09:52.000
+And this is what this looks like.
+
+00:09:52.000 --> 00:09:54.000
+If, for example, you used a cell culture
+
+00:09:54.000 --> 00:09:56.000
+that's chronically infected with papilloma,
+
+00:09:56.000 --> 00:09:58.000
+you get a little computer readout here,
+
+00:09:58.000 --> 00:10:02.000
+and our algorithm says it's probably papilloma type 18.

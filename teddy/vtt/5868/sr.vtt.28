@@ -1,0 +1,43 @@
+WEBVTT
+
+00:13:57.463 --> 00:14:00.423
+i možemo to da testiramo
+premeštajući balegara
+
+00:14:00.423 --> 00:14:03.120
+na novu poziciju 
+kada je na mestu gde sakuplja hranu.
+
+00:14:03.120 --> 00:14:06.414
+Ako koristi orijentire, 
+naći će put do kuće.
+
+00:14:06.414 --> 00:14:09.829
+Ako koristi integraciju putanje,
+
+00:14:09.829 --> 00:14:13.613
+neće naći put do kuće. 
+Stići će na pogrešno mesto
+
+00:14:13.613 --> 00:14:16.037
+i ono što radi 
+ako koristi integraciju putanje
+
+00:14:16.037 --> 00:14:19.908
+ja da broji korake
+ili meri rastojanje u ovom pravcu.
+
+00:14:19.908 --> 00:14:23.605
+Zna pod kojim uglom mu se nalazi kuća,
+i zna da bi trebalo da bude u tom pravcu.
+
+00:14:23.605 --> 00:14:26.733
+Ako ga pomerite,
+završiće na pogrešnom mestu.
+
+00:14:26.733 --> 00:14:29.310
+Da vidimo šta se dešava
+kada testiramo ovog balegara
+
+00:14:29.310 --> 00:14:32.626
+sličnim eksperimentom.

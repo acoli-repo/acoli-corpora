@@ -1,0 +1,39 @@
+WEBVTT
+
+00:04:57.043 --> 00:05:00.546
+có nghĩa là khi chuồn chuồn
+thấy con mồi quay xe,
+
+00:05:00.588 --> 00:05:03.924
+thì chỉ có thời gian 
+cho 4 bước tính toán này
+
+00:05:03.966 --> 00:05:07.803
+hay 4 lớp nơ-ron hoạt động theo trình tự,
+cái này nối tiếp cái kia,
+
+00:05:07.845 --> 00:05:10.473
+để tính toán con chuồn chuồn 
+cần đổi hướng như thế nào.
+
+00:05:11.307 --> 00:05:13.392
+Nói theo cách khác, nếu như tôi muốn học
+
+00:05:13.392 --> 00:05:17.605
+cách loài chuồn chuồn 
+thực hiện biến đổi tọa độ,
+
+00:05:17.605 --> 00:05:20.358
+thì mạch thần kinh tôi cần hiểu,
+
+00:05:20.399 --> 00:05:22.651
+cần nghiên cứu,
+
+00:05:22.693 --> 00:05:25.363
+có thể có nhiều nhất 4 lớp nơ-ron.
+
+00:05:26.280 --> 00:05:28.657
+Mỗi lớp có thể có nhiều nơ-ron,
+
+00:05:28.699 --> 00:05:30.826
+nhưng đây là mạch thần kinh nhỏ.

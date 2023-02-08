@@ -1,0 +1,39 @@
+WEBVTT
+
+00:11:58.887 --> 00:12:02.609
+Mas eu tive de dormir com uma noz de cola 
+junto à minha cama, enterrada na areia,
+
+00:12:02.609 --> 00:12:05.220
+e dar sete moedas 
+a sete leprosos e por aí fora.
+
+00:12:05.220 --> 00:12:06.890
+(Risos)
+
+00:12:06.890 --> 00:12:09.823
+Por fim, ele revelou a verdade da questão.
+
+00:12:10.469 --> 00:12:14.881
+Afinal é um gerador pseudo-aleatório 
+de números que usa o caos determinístico.
+
+00:12:14.881 --> 00:12:20.000
+Quando temos um símbolo de quatro "bits", 
+põem-se juntos lado a lado.
+
+00:12:20.000 --> 00:12:22.379
+Portanto, par mais ímpar 
+dá ímpar.
+
+00:12:22.379 --> 00:12:24.354
+Ímpar mais par 
+dá ímpar.
+
+00:12:24.354 --> 00:12:27.735
+Par mais par, dá par. 
+Ímpar mais ímpar, dá par.
+
+00:12:27.735 --> 00:12:31.599
+É adição em módulo 2, como a verificação 
+de paridade dos "bits" no computador.

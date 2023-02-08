@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:00.000
+Jadi, data terkait.
+
+00:08:00.000 --> 00:08:02.000
+Popularitas ke arah sana.
+
+00:08:02.000 --> 00:08:06.000
+Dan, segera Chris Bizer di Universitas Freie di Berlin
+
+00:08:06.000 --> 00:08:08.000
+merupakan salah satu orang pertama yang menempatkan hal-hal menarik tersebut,
+
+00:08:08.000 --> 00:08:10.000
+ia melihat bahwa Wikipedia --
+
+00:08:10.000 --> 00:08:13.000
+Anda tahu Wikipedia, ensiklopedia daring
+
+00:08:13.000 --> 00:08:15.000
+dengan banyak dan banyak dokumen yang menarik di dalamnya.
+
+00:08:15.000 --> 00:08:19.000
+Nah, dalam dokumen-dokumen tersebut, ada persegi-persegi kecil, kotak-kotak kecil.
+
+00:08:19.000 --> 00:08:22.000
+Dan dalam kebanyakan kotak informasi, ada data.
+
+00:08:22.000 --> 00:08:26.000
+Jadi dia menulis sebuah program untuk mengambil data, mengekstraksi dari Wikipedia,
+
+00:08:26.000 --> 00:08:28.000
+dan memasukkannya ke dalam gumpalan data terkait
+
+00:08:28.000 --> 00:08:31.000
+di web, yang ia sebut DBpedia.

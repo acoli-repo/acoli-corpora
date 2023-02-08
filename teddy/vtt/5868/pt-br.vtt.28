@@ -1,0 +1,34 @@
+WEBVTT
+
+00:13:57.463 --> 00:14:00.423
+e podemos testar isso deslocando o besouro
+
+00:14:00.423 --> 00:14:03.120
+para uma nova posição quando ele está no local de provisão.
+
+00:14:03.120 --> 00:14:06.414
+Se ele estiver usando pontos de referência, achará sua casa.
+
+00:14:06.414 --> 00:14:09.829
+Se estiver usando algo chamado caminho de integração,
+
+00:14:09.829 --> 00:14:13.613
+não encontrará a casa. Chegará ao local errado,
+
+00:14:13.613 --> 00:14:16.037
+e o que está fazendo aqui, se estiver usando caminho de integração,
+
+00:14:16.037 --> 00:14:19.908
+é contar seus passos ou medir a distância nesta direção.
+
+00:14:19.908 --> 00:14:23.605
+Ele sabe o rumo de casa e sabe que deveria estar naquela direção.
+
+00:14:23.605 --> 00:14:26.733
+Se você o desloca, ele acaba no lugar errado.
+
+00:14:26.733 --> 00:14:29.310
+Então vejamos o que acontece quando colocamos este besouro
+
+00:14:29.310 --> 00:14:32.626
+em teste com um experimento semelhante.

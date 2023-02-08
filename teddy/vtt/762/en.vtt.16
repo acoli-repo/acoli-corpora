@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:00.000
+So, linked data.
+
+00:08:00.000 --> 00:08:02.000
+The meme went out there.
+
+00:08:02.000 --> 00:08:06.000
+And, pretty soon Chris Bizer at the Freie Universitat in Berlin
+
+00:08:06.000 --> 00:08:08.000
+who was one of the first people to put interesting things up,
+
+00:08:08.000 --> 00:08:10.000
+he noticed that Wikipedia --
+
+00:08:10.000 --> 00:08:13.000
+you know Wikipedia, the online encyclopedia
+
+00:08:13.000 --> 00:08:15.000
+with lots and lots of interesting documents in it.
+
+00:08:15.000 --> 00:08:19.000
+Well, in those documents, there are little squares, little boxes.
+
+00:08:19.000 --> 00:08:22.000
+And in most information boxes, there's data.
+
+00:08:22.000 --> 00:08:26.000
+So he wrote a program to take the data, extract it from Wikipedia,
+
+00:08:26.000 --> 00:08:28.000
+and put it into a blob of linked data
+
+00:08:28.000 --> 00:08:31.000
+on the web, which he called dbpedia.

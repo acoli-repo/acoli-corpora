@@ -1,0 +1,47 @@
+WEBVTT
+
+00:05:59.143 --> 00:06:02.207
+Bu seride, cümlelerin sonlarını
+kolaylıkla tespit edebilen bir
+
+00:06:02.207 --> 00:06:05.311
+bilgisayar desteği ile konuşuyor.
+
+00:06:05.311 --> 00:06:08.737
+Ben de bir yön algoritması yazdım.
+
+00:06:08.737 --> 00:06:10.697
+Dersi dinliyor, daha sonra her kelimenin
+
+00:06:10.697 --> 00:06:13.384
+titreşimini, x ekseninde
+bir noktaya varmak için
+
+00:06:13.384 --> 00:06:16.017
+kullanıyor ve y ekseninde,
+benzer bir noktayı hareket
+
+00:06:16.017 --> 00:06:18.171
+ettirmek için,
+cümlelerin sesini kullanıyor.
+
+00:06:18.171 --> 00:06:20.945
+Bunlar ise eğim çizgileri,
+görüyorsunuz, fizik kurallarında
+
+00:06:20.945 --> 00:06:22.815
+cevaptan çok soru vardır
+ve bir cümlenin
+
+00:06:22.815 --> 00:06:24.848
+sonuna ulaştığımızda, o noktaya
+
+00:06:24.848 --> 00:06:27.183
+bir yıldız yerleştiriyoruz.
+
+00:06:27.183 --> 00:06:29.983
+Birçok cümle ve birçok
+yıldız var ve hepsini sese
+
+00:06:29.983 --> 00:06:32.339
+çevirdiğimizde, ortaya bu çıkıyor.

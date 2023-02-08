@@ -1,0 +1,46 @@
+WEBVTT
+
+00:06:28.000 --> 00:06:31.000
+en la que observamos las celdas de cuadrícula en las ratas.
+
+00:06:31.000 --> 00:06:33.000
+Entonces volviendo a Homero.
+
+00:06:33.000 --> 00:06:35.000
+Él, probablemente, recuerda donde estaba su auto,
+
+00:06:35.000 --> 00:06:37.000
+en términos de direcciones y distancias
+
+00:06:37.000 --> 00:06:39.000
+con los edificios y límites
+
+00:06:39.000 --> 00:06:41.000
+del lugar donde estacionó.
+
+00:06:41.000 --> 00:06:43.000
+Y podría representarse mediante
+
+00:06:43.000 --> 00:06:45.000
+el disparo de las células detectoras de limites.
+
+00:06:45.000 --> 00:06:48.000
+Él también recuerda el camino que tomó para salir del estacionamiento,
+
+00:06:48.000 --> 00:06:51.000
+el que estaría representado en el disparo de las celdas de la cuadrícula.
+
+00:06:51.000 --> 00:06:53.000
+Ahora los dos tipos de células
+
+00:06:53.000 --> 00:06:55.000
+pueden hacer disparar a las células de lugar.
+
+00:06:55.000 --> 00:06:57.000
+Y él puede volver al lugar donde estacionó
+
+00:06:57.000 --> 00:07:00.000
+moviéndose hasta encontrarlo,
+
+00:07:00.000 --> 00:07:02.000
+hasta que el patrón de disparo

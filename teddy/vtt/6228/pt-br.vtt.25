@@ -1,0 +1,33 @@
+WEBVTT
+
+00:12:29.695 --> 00:12:31.522
+Acho que muitos vieram pelo dinheiro,
+
+00:12:31.522 --> 00:12:33.357
+mas também porque seria divertido.
+
+00:12:33.357 --> 00:12:36.825
+CA: E qual o papel do aprendizado
+de máquina nisso?
+
+00:12:36.825 --> 00:12:39.943
+JS: Em certo sentido, o que fizemos
+era aprendizado de máquina.
+
+00:12:40.879 --> 00:12:47.170
+Você olha para um monte de dados, e tenta
+simular diferentes modelos preditivos,
+
+00:12:47.194 --> 00:12:49.376
+até você ficar cada vez melhor no que faz.
+
+00:12:49.400 --> 00:12:53.167
+Da forma como fizemos, por si só,
+ele não dava um feedback,
+
+00:12:53.191 --> 00:12:55.500
+mas funcionava.
+
+00:12:56.150 --> 00:13:00.209
+CA: Então, esses modelos de previsão
+podem ser desordenados e inesperados.

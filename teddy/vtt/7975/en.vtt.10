@@ -1,0 +1,42 @@
+WEBVTT
+
+00:04:57.710 --> 00:05:00.588
+with a constant stream
+of electrical currents,
+
+00:05:00.588 --> 00:05:03.716
+we knew that if we control
+the interactions
+
+00:05:03.758 --> 00:05:06.135
+between the electricity
+input and molecules,
+
+00:05:06.177 --> 00:05:08.721
+we could achieve a higher performance.
+
+00:05:10.056 --> 00:05:14.393
+To do that, we decided to start exploring
+different electrical pulses
+
+00:05:14.393 --> 00:05:16.687
+in the search for the right pulse sequence
+
+00:05:16.687 --> 00:05:19.231
+that will deliver electrons
+at the same rate
+
+00:05:19.273 --> 00:05:21.067
+that molecules could react.
+
+00:05:21.901 --> 00:05:24.487
+Since there were so many pulses
+that we needed to test,
+
+00:05:24.528 --> 00:05:27.531
+we decided to then use
+a few number of results
+
+00:05:27.573 --> 00:05:31.160
+from different pulses to train
+machine-learning models

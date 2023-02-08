@@ -1,0 +1,35 @@
+WEBVTT
+
+00:04:57.335 --> 00:05:01.881
+But I must warn you that our first
+results were extremely blurry,
+
+00:05:01.922 --> 00:05:04.175
+and they looked
+like the blobs you see here.
+
+00:05:04.842 --> 00:05:06.677
+And this could be due to many reasons,
+
+00:05:06.677 --> 00:05:09.138
+but one of them being
+that there aren't really a lot
+
+00:05:09.138 --> 00:05:13.642
+of openly available
+data sets of 3D insects.
+
+00:05:13.684 --> 00:05:15.811
+And also we were repurposing
+
+00:05:15.853 --> 00:05:21.067
+a neural network that normally gets used
+to generate images to generate 3D.
+
+00:05:21.108 --> 00:05:25.488
+So believe it or not,
+these are very exciting blobs to us.
+
+00:05:26.280 --> 00:05:30.159
+But with time and some
+very hacky solutions

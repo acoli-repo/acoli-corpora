@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:58.000 --> 00:10:00.000
+arată în felul următor.
+
+00:10:00.000 --> 00:10:03.000
+Și vă spun, acest lucru este specific pentru textele englezesti.
+
+00:10:03.000 --> 00:10:05.000
+Și dacă mă uit la un text în franceză, arată puțin diferit,
+
+00:10:05.000 --> 00:10:07.000
+și la fel se întâmplă în italiană și germană.
+
+00:10:07.000 --> 00:10:10.000
+Toate au un tip propriu a distribuției de frecvențe,
+
+00:10:10.000 --> 00:10:12.000
+dar e unul robust.
+
+00:10:12.000 --> 00:10:15.000
+Nu contează dacă textul contine informații despre politică sau știință.
+
+00:10:15.000 --> 00:10:18.000
+Nu contează dacă este o poezie
+
+00:10:18.000 --> 00:10:21.000
+sau dacă este un text matematic.
+
+00:10:21.000 --> 00:10:23.000
+Avem o semnătură robustă,
+
+00:10:23.000 --> 00:10:25.000
+și care este foarte stabilă.
+
+00:10:25.000 --> 00:10:27.000
+Atâta vreme cât cărțile noastre sunt scrise în engleză --
+
+00:10:27.000 --> 00:10:30.000
+pentru că oamenii le rescriu și le recopiază --
+
+00:10:30.000 --> 00:10:32.000
+semnătura va continua să fie acolo.

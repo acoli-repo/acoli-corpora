@@ -1,0 +1,34 @@
+WEBVTT
+
+00:06:29.484 --> 00:06:30.804
+akár vegyesen.
+
+00:06:30.828 --> 00:06:34.107
+És ha vesszük a csúcsok - élek + lapok 
+számát, kettőt kapunk.
+
+00:06:34.131 --> 00:06:35.742
+Itt van egy másmilyen alakzat.
+
+00:06:36.480 --> 00:06:41.730
+Ez egy tórusz, vagy egy úszógumi 
+felszíne: 16 csúcs,
+
+00:06:41.754 --> 00:06:45.998
+ezekkel a téglalapokkal lefedve: 
+32 él, 16 lap.
+
+00:06:46.530 --> 00:06:49.214
+Csúcsok mínusz élek plusz lapok
+nullára jön ki.
+
+00:06:49.238 --> 00:06:50.713
+Mindig nulla jön ki.
+
+00:06:50.737 --> 00:06:55.047
+Ha egy tóruszt bárhogyan is 
+lefedünk téglalapokkal, háromszögekkel,
+
+00:06:55.071 --> 00:06:59.006
+vagy bármi hasonlóval, 
+akkor nullát fogunk kapni.

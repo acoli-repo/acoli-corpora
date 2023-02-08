@@ -1,0 +1,35 @@
+WEBVTT
+
+00:04:57.335 --> 00:05:01.881
+Pero advierto que los primeros resultados 
+fueron extremadamente imprecisos,
+
+00:05:01.922 --> 00:05:04.175
+y se veían como las manchas
+que pueden ver aquí.
+
+00:05:04.550 --> 00:05:06.427
+Y esto podría darse por varias razones,
+
+00:05:06.427 --> 00:05:09.472
+uno de ellos siendo que realmente 
+no se disponen de muchos
+
+00:05:09.472 --> 00:05:13.642
+conjuntos de datos de insectos 3D 
+abiertamente disponibles.
+
+00:05:13.684 --> 00:05:15.811
+Y también estuvimos reutilizando
+
+00:05:15.853 --> 00:05:21.067
+una red neuronal que normalmente se usa
+para generar imágenes 3D.
+
+00:05:21.108 --> 00:05:25.488
+Lo crean o no,
+para nosotros son manchas fascinantes.
+
+00:05:26.280 --> 00:05:30.159
+Pero con el tiempo y algunas
+soluciones flojas

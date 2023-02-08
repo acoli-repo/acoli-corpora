@@ -1,0 +1,33 @@
+WEBVTT
+
+00:05:56.795 --> 00:06:00.260
+ancak diğer seçme yöntemleri de işe yarar.
+
+00:06:00.860 --> 00:06:04.860
+Sonra Hedge o adımı
+yürütülen talimat listesine ekleyebilir,
+
+00:06:04.860 --> 00:06:07.310
+sütunun tamamını tablodan silebilir
+
+00:06:07.310 --> 00:06:10.340
+böylece ona bağlı olanları da siler
+
+00:06:10.340 --> 00:06:12.190
+ve başa döner.
+
+00:06:12.990 --> 00:06:16.290
+Grafikte döngüsel referanslar
+olmadığı için
+
+00:06:16.290 --> 00:06:21.594
+oraya geldiğimiz her seferde, en azından
+bir tane bağlantısız adımımız olacak.
+
+00:06:21.864 --> 00:06:26.556
+Hedge, alfabede önce geleni
+yürütülen talimat listesine ekleyebilir,
+
+00:06:26.556 --> 00:06:30.371
+tablodan kaldırabilir
+ve başlangıca dönebilir.

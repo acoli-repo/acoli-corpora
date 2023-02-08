@@ -1,0 +1,44 @@
+WEBVTT
+
+00:06:28.961 --> 00:06:31.786
+U ovom slučaju,
+proces je deterministički.
+
+00:06:31.786 --> 00:06:34.145
+Uopšte nije uključena slučajnost,
+
+00:06:34.145 --> 00:06:36.152
+ali nije sve u potpunosti predvidljivo.
+
+00:06:36.152 --> 00:06:37.728
+postoji previše površina,
+
+00:06:37.728 --> 00:06:41.338
+postoji previše detalja
+i ne može se videti završno stanje.
+
+00:06:41.338 --> 00:06:44.552
+Ovo dovodi arhitektu do nove uloge.
+
+00:06:44.552 --> 00:06:48.163
+Potrebna je nova metoda
+da bi se istražile sve mogućnosti
+
+00:06:48.163 --> 00:06:49.939
+koje postoje.
+
+00:06:49.939 --> 00:06:53.171
+Moguće je dizajnirati
+mnogo varijacija oblika,
+
+00:06:53.171 --> 00:06:55.385
+i paralelno,
+moguće ih je obrađivati.
+
+00:06:55.385 --> 00:06:57.633
+I da se vratimo na analogiju
+sa prirodom,
+
+00:06:57.633 --> 00:07:00.129
+moguće je početi razmišljati
+u smislu populacije,

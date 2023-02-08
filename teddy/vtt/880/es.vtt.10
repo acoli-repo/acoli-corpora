@@ -1,0 +1,31 @@
+WEBVTT
+
+00:04:56.000 --> 00:05:00.000
+Esto sucede en el macizo de Mandara, cerca de la frontera nigeriana con Camerún, en Mokoulek.
+
+00:05:00.000 --> 00:05:03.000
+Vi este diagrama dibujado por un arquitecto francés,
+
+00:05:03.000 --> 00:05:05.000
+y pensé: "¡Guau! ¡Qué fractal tan hermoso!"
+
+00:05:05.000 --> 00:05:11.000
+Así que traté de salir con una forma semilla, la cual, iterándola, se desplegaría en esta cosa.
+
+00:05:11.000 --> 00:05:13.000
+Llegué a esta estructura de acá.
+
+00:05:13.000 --> 00:05:17.000
+Veamos, primera iteración, segunda, tercera, cuarta.
+
+00:05:17.000 --> 00:05:19.000
+Ahora, después de que hice la simulación,
+
+00:05:19.000 --> 00:05:22.000
+me di cuenta que toda la aldea gira en espiral, justo así,
+
+00:05:22.000 --> 00:05:28.000
+y acá está esa línea de recurrencia -- una línea autorrecurrente que se desdobla en un fractal.
+
+00:05:28.000 --> 00:05:33.000
+Bueno, noté que esa línea está más o menos donde está el único edificio cuadrado de la aldea.

@@ -1,0 +1,41 @@
+WEBVTT
+
+00:14:58.831 --> 00:15:01.563
+Sest lihtahelaga on nii, et kui sellest
+
+00:15:01.563 --> 00:15:05.082
+püütakse eemaldada üht sisendit,
+
+00:15:05.590 --> 00:15:08.885
+ja on suur vahe, kas see on esimene sisend
+
+00:15:08.885 --> 00:15:11.231
+või on see sisend ahela keskel.
+
+00:15:11.359 --> 00:15:13.291
+Sest kui tegu on esimese sisendiga,
+
+00:15:13.291 --> 00:15:15.592
+tuleb muuta ära ka esimese sisendi viide.
+
+00:15:15.592 --> 00:15:17.086
+Kui see on aga keskel,
+
+00:15:17.086 --> 00:15:19.288
+tuleb muuta eelneva sisendi viidet.
+
+00:15:19.338 --> 00:15:21.381
+Need on kaks täiesti erinevat asja.
+
+00:15:21.967 --> 00:15:23.960
+Jah, see on parem.
+
+00:15:24.290 --> 00:15:25.821
+Siin ei ole "if" lausendit.
+
+00:15:26.109 --> 00:15:28.751
+Põhimõtteliselt siin vahet pole.
+
+00:15:28.751 --> 00:15:31.504
+Polegi oluline aru saada,
+miks siin 'if' lausendit pole,

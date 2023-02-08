@@ -1,0 +1,35 @@
+WEBVTT
+
+00:06:59.355 --> 00:07:03.287
+He pointed me to a book called
+"New York Times Obituaries Index."
+
+00:07:03.649 --> 00:07:06.141
+So we handed it to the New York
+Genealogical Society,
+
+00:07:06.165 --> 00:07:08.314
+and they digitized it for us.
+
+00:07:08.338 --> 00:07:11.767
+And then a programmer wrote up a program
+that scanned all those headlines
+
+00:07:11.791 --> 00:07:15.448
+for "Mr.," Mrs.," "Lady," "Sir,"
+all the sort of gender-defining terms.
+
+00:07:15.986 --> 00:07:20.430
+And what we found
+was that from 1851 to 2017,
+
+00:07:20.454 --> 00:07:23.922
+only about 15 to 20 percent
+of our obits were on women.
+
+00:07:25.653 --> 00:07:28.423
+So next, I worked with a programmer
+to build this tool,
+
+00:07:28.447 --> 00:07:30.296
+called the diversity analysis tool.

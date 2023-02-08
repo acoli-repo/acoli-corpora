@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:00.000
+Tehát összekapcsolt adat.
+
+00:08:00.000 --> 00:08:02.000
+Az ötlet elindult.
+
+00:08:02.000 --> 00:08:06.000
+És hamarosan Chris Bizer a berlini Freie Universitat-ról
+
+00:08:06.000 --> 00:08:08.000
+aki az egyik első volt azok közül akik érdekes dolgokat hoztak fel,
+
+00:08:08.000 --> 00:08:10.000
+felfedezte a Wikipediát -
+
+00:08:10.000 --> 00:08:13.000
+az ismert online enciklopédiát
+
+00:08:13.000 --> 00:08:15.000
+nagyon sok érdekes dokumentummal.
+
+00:08:15.000 --> 00:08:19.000
+Ezekben a dokumentumokban vannak kis dobozok.
+
+00:08:19.000 --> 00:08:22.000
+Ezekben az információs dobozokban pedig adatok.
+
+00:08:22.000 --> 00:08:26.000
+Írt egy programot, ami a Wikipediából kinyeri az adatokat
+
+00:08:26.000 --> 00:08:28.000
+és a összekapcsolt adatok egyik buborékjába tette őket
+
+00:08:28.000 --> 00:08:31.000
+a weben, amit dbpedia-nak nevezett el.

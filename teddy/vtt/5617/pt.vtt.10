@@ -1,0 +1,38 @@
+WEBVTT
+
+00:04:57.108 --> 00:05:00.998
+Isto poderá resultar, mas irá
+demorar se o reservatório for grande.
+
+00:05:01.038 --> 00:05:05.628
+A cada passo o Hedge repete a ação
+de olhar para a esquerda e para a direita.
+
+00:05:05.701 --> 00:05:10.480
+Se houver "n" colunas,
+olha "n" vezes para "n" colunas.
+
+00:05:10.510 --> 00:05:12.590
+Existirá uma forma mais rápida?
+
+00:05:12.650 --> 00:05:15.718
+Eis uma forma de poupar tempo:
+antes de qualquer coisa,
+
+00:05:15.748 --> 00:05:17.678
+ele pode começar pela esquerda.
+
+00:05:17.718 --> 00:05:21.378
+e manter uma contagem
+de qual é a coluna mais alta.
+
+00:05:21.438 --> 00:05:25.098
+Aqui seria dois, dois de novo,
+uma vez que a primeira era maior,
+
+00:05:25.098 --> 00:05:28.058
+depois quatro, quatro, quatro.
+
+00:05:28.158 --> 00:05:30.838
+Pode depois descobrir
+a mais alta à direita

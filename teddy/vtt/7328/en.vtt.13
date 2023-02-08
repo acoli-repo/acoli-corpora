@@ -1,0 +1,52 @@
+WEBVTT
+
+00:06:28.288 --> 00:06:30.371
+But despite all these successes,
+
+00:06:30.371 --> 00:06:32.579
+I think we're still doing
+many things wrong,
+
+00:06:32.621 --> 00:06:35.413
+and I'll tell you about three
+key things we're doing wrong,
+
+00:06:35.454 --> 00:06:36.621
+and how we'll fix them.
+
+00:06:36.663 --> 00:06:38.746
+The first is that most
+neural networks today
+
+00:06:38.746 --> 00:06:40.996
+are trained to do one thing,
+and one thing only.
+
+00:06:41.038 --> 00:06:44.246
+You train it for a particular task
+that you might care deeply about,
+
+00:06:44.288 --> 00:06:46.204
+but it's a pretty heavyweight activity.
+
+00:06:46.246 --> 00:06:47.913
+You need to curate a data set,
+
+00:06:47.913 --> 00:06:50.913
+you need to decide
+what network architecture you'll use
+
+00:06:50.954 --> 00:06:52.121
+for this problem,
+
+00:06:52.121 --> 00:06:54.829
+you need to initialize the weights
+with random values,
+
+00:06:54.871 --> 00:06:57.746
+apply lots of computation
+to make adjustments to the weights.
+
+00:06:57.746 --> 00:07:00.496
+And at the end, if you’re lucky,
+you end up with a model

@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:29.195 --> 00:07:32.406
+giúp chuyển từ việc yêu cầu
+phải viết rất nhiều đoạn mã
+
+00:07:32.448 --> 00:07:35.576
+thành yêu cầu tập trung cung cấp dữ liệu.
+
+00:07:35.618 --> 00:07:38.829
+Và điều này trở nên dễ dàng hơn
+với nhiều người.
+
+00:07:39.622 --> 00:07:44.168
+Ngày nay, có nhiều công ty
+làm việc trên các nền tảng như vậy.
+
+00:07:44.210 --> 00:07:48.464
+Để tôi làm rõ những khái niệm này bằng
+một dự án mà nhóm của tôi đang xây dựng.
+
+00:07:48.464 --> 00:07:50.966
+Hãy lấy ví dụ về một nhân viên kiểm tra
+
+00:07:50.966 --> 00:07:54.386
+muốn AI giúp phát hiện lỗi trên vải.
+
+00:07:54.762 --> 00:07:56.931
+Một nhân viên kiểm tra
+có thể chụp ảnh tấm vải
+
+00:07:56.931 --> 00:07:59.767
+và đưa nó lên một nền tảng như thế này,
+
+00:07:59.808 --> 00:08:03.729
+và họ có thể cho AI biết vết rách trên vải
+trông như thế nào

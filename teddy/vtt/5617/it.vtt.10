@@ -1,0 +1,37 @@
+WEBVTT
+
+00:04:58.121 --> 00:05:00.579
+ma per una vasca grande
+richiederà molto tempo.
+
+00:05:00.788 --> 00:05:05.163
+A ogni passaggio Hedge ripete l’azione
+guardando a sinistra e poi a destra.
+
+00:05:05.329 --> 00:05:10.163
+Se ci sono N pile, dovrà guardare
+tutte e N le pile per N volte.
+
+00:05:10.246 --> 00:05:11.621
+Esiste un modo più veloce?
+
+00:05:12.246 --> 00:05:13.996
+Ecco un modo per risparmiare tempo:
+
+00:05:13.996 --> 00:05:17.454
+come prima cosa,
+Hedge può partire da sinistra,
+
+00:05:17.454 --> 00:05:20.871
+e tenere il conto del numero di blocchi
+della colonna più alta.
+
+00:05:21.329 --> 00:05:25.079
+Qui avremmo 2 blocchi, e ancora 2,
+visto che quella precedente è più alta,
+
+00:05:25.079 --> 00:05:27.496
+poi 4, 4, 4.
+
+00:05:27.829 --> 00:05:30.621
+Può trovare le colonne più alte a destra

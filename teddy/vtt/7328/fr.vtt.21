@@ -1,0 +1,50 @@
+WEBVTT
+
+00:10:26.746 --> 00:10:30.204
+Et au lieu de modèles denses, on utilise
+des modèles plus épars,
+
+00:10:30.246 --> 00:10:33.454
+dans lesquels on mobilise les parties
+pertinentes dont on a besoin.
+
+00:10:33.454 --> 00:10:36.662
+On a produit un système
+qui combine ces approches,
+
+00:10:36.704 --> 00:10:39.246
+et on l’a appelé « Pathways ».
+
+00:10:39.287 --> 00:10:42.371
+L’idée derrière ce modèle,
+c’est d’être capable de faire
+
+00:10:42.412 --> 00:10:44.329
+des milliers ou des millions de tâches,
+
+00:10:44.329 --> 00:10:46.746
+et ensuite de pouvoir rajouter
+de nouvelles tâches,
+
+00:10:46.746 --> 00:10:49.162
+pouvoir traiter toutes
+les modalités en même temps,
+
+00:10:49.162 --> 00:10:51.954
+et apprendre de nouvelles tâches
+quand on en a besoin
+
+00:10:51.954 --> 00:10:54.037
+en faisant appelle aux parties du modèle
+
+00:10:54.037 --> 00:10:55.787
+les plus pertinentes selon la tâche.
+
+00:10:55.787 --> 00:10:57.537
+On est plutôt enthousiastes,
+
+00:10:57.537 --> 00:10:59.579
+on pense que ce sera un pas en avant,
+
+00:10:59.579 --> 00:11:01.371
+dans la conception des systèmes d’IA.

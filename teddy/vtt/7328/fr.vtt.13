@@ -1,0 +1,53 @@
+WEBVTT
+
+00:06:28.288 --> 00:06:30.371
+Mais malgré tous ces succès,
+
+00:06:30.371 --> 00:06:32.538
+je pense qu’il y a encore
+des progrès à faire,
+
+00:06:32.538 --> 00:06:35.538
+je vais vous parler de trois éléments-clés
+qu’on peut améliorer,
+
+00:06:35.538 --> 00:06:36.538
+et comment le faire.
+
+00:06:36.538 --> 00:06:38.746
+D’abord, la plupart
+des réseaux neuronaux
+
+00:06:38.746 --> 00:06:41.038
+ne sont entraînés
+que pour faire une seule chose.
+
+00:06:41.038 --> 00:06:44.246
+Vous pouvez les entraîner pour traiter
+une tâche en particulier,
+
+00:06:44.246 --> 00:06:46.038
+mais c’est une activité assez lourde.
+
+00:06:46.038 --> 00:06:48.496
+Vous avez besoin d’organiser
+un ensemble de données,
+
+00:06:48.496 --> 00:06:51.079
+décider de l’architecture de réseau
+que vous utiliserez
+
+00:06:51.079 --> 00:06:52.121
+pour ce problème,
+
+00:06:52.121 --> 00:06:54.829
+initialiser les valeurs de poids
+aléatoirement,
+
+00:06:54.871 --> 00:06:57.746
+ajuster ces valeurs
+avec tout un tas de calculs.
+
+00:06:57.746 --> 00:07:00.496
+Et à la fin, avec un peu de chance,
+vous aurez un modèle

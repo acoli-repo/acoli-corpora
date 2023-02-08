@@ -1,0 +1,42 @@
+WEBVTT
+
+00:09:59.253 --> 00:10:01.429
+in condizioni mai testate prima.
+
+00:10:01.453 --> 00:10:03.854
+Potremmo testare il programma in silico.
+
+00:10:04.645 --> 00:10:05.982
+In effetti, l'abbiamo fatto:
+
+00:10:06.006 --> 00:10:09.186
+abbiamo generato previsioni
+per poi testarle in laboratorio
+
+00:10:09.210 --> 00:10:12.242
+e abbiamo scoperto che questo programma
+è altamente predittivo.
+
+00:10:12.266 --> 00:10:14.891
+Ci ha mostrato come potevamo
+accelerare il ritorno
+
+00:10:14.915 --> 00:10:17.975
+allo stato ingenuo in modo
+veloce ed efficiente.
+
+00:10:17.999 --> 00:10:20.569
+Ci ha mostrato quali geni selezionare
+per farlo
+
+00:10:20.569 --> 00:10:23.241
+e quali potrebbero invece
+ostacolare il processo.
+
+00:10:23.241 --> 00:10:28.231
+Abbiamo visto che il programma indicava
+persino l'ordine di attivazione dei geni.
+
+00:10:28.980 --> 00:10:32.120
+Questo metodo ci permetteva quindi
+di far luce sulle dinamiche

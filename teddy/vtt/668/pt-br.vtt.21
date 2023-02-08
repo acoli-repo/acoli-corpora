@@ -1,0 +1,31 @@
+WEBVTT
+
+00:10:30.925 --> 00:10:33.798
+E quando ampliamos a escala
+para trabalhar com muitos qubits,
+
+00:10:33.828 --> 00:10:38.220
+podemos fazê-lo com um número exponencial
+de combinações ao mesmo tempo.
+
+00:10:39.440 --> 00:10:43.075
+E isso é apenas um indicativo
+do poder da computação quântica.
+
+00:10:44.964 --> 00:10:46.381
+Bem, na criptografia moderna,
+
+00:10:47.429 --> 00:10:51.337
+nossas senhas, assim como os dois fatores
+daquele número grande,
+
+00:10:51.357 --> 00:10:53.658
+são apenas longas sequências
+de "zeros" e "uns".
+
+00:10:54.429 --> 00:10:55.783
+Para descobri-las,
+
+00:10:55.803 --> 00:11:00.231
+um computador clássico deve passar
+por cada uma das combinações,

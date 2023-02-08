@@ -1,0 +1,36 @@
+WEBVTT
+
+00:07:58.769 --> 00:08:00.645
+So we just needed to figure out a way
+
+00:08:00.669 --> 00:08:03.852
+to encode this new type of specification.
+
+00:08:04.594 --> 00:08:08.248
+So let's say you've been busy in the lab
+and you've been measuring your genes
+
+00:08:08.272 --> 00:08:10.708
+and you've found that if Gene A is active,
+
+00:08:10.732 --> 00:08:14.120
+then Gene B or Gene C seems to be active.
+
+00:08:14.678 --> 00:08:18.260
+We can write that observation down
+as a mathematical expression
+
+00:08:18.284 --> 00:08:20.657
+if we can use the language of logic:
+
+00:08:21.125 --> 00:08:23.453
+If A, then B or C.
+
+00:08:24.242 --> 00:08:26.696
+Now, this is a very simple example, OK.
+
+00:08:26.720 --> 00:08:28.463
+It's just to illustrate the point.
+
+00:08:28.487 --> 00:08:31.411
+We can encode truly rich expressions

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:57.000 --> 00:05:00.000
+We specialize in high quality facial animation
+
+00:05:00.000 --> 00:05:03.000
+for video games and films.
+
+00:05:03.000 --> 00:05:05.000
+Paul Debevec: So, if we break that down into layers, here's that diffuse component
+
+00:05:05.000 --> 00:05:07.000
+we saw in the first slide.
+
+00:05:07.000 --> 00:05:09.000
+Here is the specular component animating.
+
+00:05:09.000 --> 00:05:11.000
+You can see all the wrinkles happening there.
+
+00:05:11.000 --> 00:05:16.000
+And there is the underlying wireframe mesh.
+
+00:05:16.000 --> 00:05:18.000
+And that is Emily herself.
+
+00:05:18.000 --> 00:05:20.000
+Now, where are we going with this here?
+
+00:05:20.000 --> 00:05:24.000
+We've gone a little bit beyond Light Stage 5. This is Light Stage 6,
+
+00:05:24.000 --> 00:05:26.000
+and we're looking at taking this technology
+
+00:05:26.000 --> 00:05:28.000
+and applying it to whole human bodies.
+
+00:05:28.000 --> 00:05:30.000
+This is Bruce Lawmen, one of our researchers in the group,
+
+00:05:30.000 --> 00:05:33.000
+who graciously agreed to get captured running in the Light Stage.

@@ -1,0 +1,32 @@
+WEBVTT
+
+00:06:00.871 --> 00:06:04.871
+Tiếp theo, Hedge có thể thêm bước
+vào danh sách thứ tự đang chạy,
+
+00:06:04.871 --> 00:06:07.288
+xóa cột trên bảng—
+
+00:06:07.288 --> 00:06:10.329
+vì việc loại bỏ luôn là một sự phụ thuộc––
+
+00:06:10.329 --> 00:06:11.996
+và quay trở về điểm bắt đầu.
+
+00:06:12.996 --> 00:06:16.288
+Bởi vì không có sự lặp lại trong sơ đồ,
+
+00:06:16.288 --> 00:06:17.913
+với mỗi lần tìm kiếm cột trống
+
+00:06:17.954 --> 00:06:21.871
+thì sẽ có ít nhất một bước
+không có sự phụ thuộc.
+
+00:06:21.871 --> 00:06:26.538
+Hedge có thể thêm vào
+danh sách thứ tự đang chạy của mình,
+
+00:06:26.538 --> 00:06:30.246
+và loại bỏ nó ra khỏi bảng,
+rồi lại quay lại điểm bắt đầu.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:57.000 --> 00:08:00.000
+gli amici di persone scelte a caso
+
+00:08:00.000 --> 00:08:02.000
+hanno un grado più alto, sono più centrali,
+
+00:08:02.000 --> 00:08:04.000
+delle stesse persone scelte a caso
+
+00:08:04.000 --> 00:08:06.000
+e si può intuire chiaramente
+
+00:08:06.000 --> 00:08:09.000
+se considerate gli individui che stanno ai margini della rete.
+
+00:08:09.000 --> 00:08:11.000
+Se scegliete questa persona,
+
+00:08:11.000 --> 00:08:14.000
+l'unica persona che può nominare è questa,
+
+00:08:14.000 --> 00:08:16.000
+che, per costruzione, deve avere almeno due amici,
+
+00:08:16.000 --> 00:08:18.000
+e in generale, di più.
+
+00:08:18.000 --> 00:08:20.000
+E questo avviene per ogni nodo periferico.
+
+00:08:20.000 --> 00:08:23.000
+E in fatti, questo avviene su tutta la rete, man mano che si procede verso l'interno,
+
+00:08:23.000 --> 00:08:25.000
+chiunque scegliate, quando nominano qualcuno a caso...
+
+00:08:25.000 --> 00:08:28.000
+quando una persona a caso nomina un suo amico,
+
+00:08:28.000 --> 00:08:31.000
+si riesce a penetrare all'interno della rete.

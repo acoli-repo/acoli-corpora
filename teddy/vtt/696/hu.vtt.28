@@ -1,0 +1,40 @@
+WEBVTT
+
+00:13:59.000 --> 00:14:02.000
+Itt tulajdonképpen ez az az élettelen környezet,
+
+00:14:02.000 --> 00:14:04.000
+ahol minden utasítás egyforma
+
+00:14:04.000 --> 00:14:06.000
+gyakorisággal fordul elő.
+
+00:14:06.000 --> 00:14:09.000
+És itt alul mutatom tulajdonképpen
+
+00:14:09.000 --> 00:14:12.000
+a környezet mutációs mértékét.
+
+00:14:12.000 --> 00:14:15.000
+És ezt egy olyan magas mutációs értékkel kezdem,
+
+00:14:15.000 --> 00:14:17.000
+amelynél ha beledobnánk
+
+00:14:17.000 --> 00:14:19.000
+egy reprodukálódó programot,
+
+00:14:19.000 --> 00:14:21.000
+amely egyébként boldogan felnőne,
+
+00:14:21.000 --> 00:14:23.000
+hogy betöltse az egész világot,
+
+00:14:23.000 --> 00:14:27.000
+ha ide bedobjuk, azonnal halálra mutálódik.
+
+00:14:27.000 --> 00:14:29.000
+Tehát az élet nem lehetséges
+
+00:14:29.000 --> 00:14:32.000
+ilyen mutálódási mérték mellett.

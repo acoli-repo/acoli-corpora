@@ -1,0 +1,36 @@
+WEBVTT
+
+00:04:56.848 --> 00:05:00.798
+Bu işe yarar fakat geniş bir
+havza için çok zaman alır.
+
+00:05:00.798 --> 00:05:05.328
+Her adımda Hedge sağa sola bakıyor.
+
+00:05:05.328 --> 00:05:10.280
+Eğer N tane yığın varsa,
+N tane yığına N zamanda bakacaktır.
+
+00:05:10.280 --> 00:05:12.260
+Daha hızlı bir yol var mı?
+
+00:05:12.260 --> 00:05:15.608
+Bir zaman kazandırıcı: 
+başka bir şey yapmadan önce
+
+00:05:15.608 --> 00:05:17.468
+Hedge soldan başlayabilir
+
+00:05:17.468 --> 00:05:21.338
+ve en uzun yığının hangisi
+olduğunun çetelesini tutabilir.
+
+00:05:21.338 --> 00:05:25.098
+Bu 2, ilki daha uzun olduğu için tekrar 2,
+
+00:05:25.098 --> 00:05:27.848
+sonra 4, 4, 4 şeklinde olacaktır.
+
+00:05:27.848 --> 00:05:30.628
+En sağdaki yığınlardan hangisinin
+en uzun olduğunu

@@ -1,0 +1,47 @@
+WEBVTT
+
+00:08:58.621 --> 00:09:00.371
+the concept of a leopard
+
+00:09:00.412 --> 00:09:02.662
+can deal with different
+kinds of input data,
+
+00:09:02.662 --> 00:09:05.662
+even nonhuman inputs,
+like genetic sequences,
+
+00:09:05.662 --> 00:09:08.871
+3D clouds of points,
+as well as images, text and video.
+
+00:09:08.912 --> 00:09:12.537
+The third problem
+is that today's models are dense.
+
+00:09:12.579 --> 00:09:13.996
+There's a single model,
+
+00:09:13.996 --> 00:09:16.371
+the model is fully activated
+for every task,
+
+00:09:16.412 --> 00:09:18.537
+for every example
+that we want to accomplish,
+
+00:09:18.537 --> 00:09:21.454
+whether that's a really simple
+or a really complicated thing.
+
+00:09:21.496 --> 00:09:24.162
+This, too, is unlike
+how our own brains work.
+
+00:09:24.204 --> 00:09:27.204
+Different parts of our brains
+are good at different things,
+
+00:09:27.246 --> 00:09:30.537
+and we're continuously calling
+upon the pieces of them

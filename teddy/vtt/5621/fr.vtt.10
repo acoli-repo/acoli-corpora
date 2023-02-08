@@ -1,0 +1,42 @@
+WEBVTT
+
+00:04:59.863 --> 00:05:01.843
+mais seulement à son parent.
+
+00:05:01.843 --> 00:05:05.723
+Donc, si Twig 1 ou 2
+attend à une intersection
+
+00:05:05.723 --> 00:05:07.713
+et entend quelque chose à la radio,
+
+00:05:07.713 --> 00:05:11.273
+c'est la bonne façon d'aller
+à l'artefact d'où il se trouve.
+
+00:05:11.273 --> 00:05:14.563
+Pour dire à Hedge la bonne
+réponse de son point de vue,
+
+00:05:14.563 --> 00:05:17.003
+la Twig devrait dire
+par où elle est passée,
+
+00:05:17.003 --> 00:05:20.603
+puis l'itinéraire qu'elle
+vient d'entendre à la radio.
+
+00:05:20.603 --> 00:05:22.510
+Ce même processus fonctionnera
+
+00:05:22.510 --> 00:05:25.393
+quel que soit le nombre
+d'embranchements du labyrinthe.
+
+00:05:25.393 --> 00:05:28.353
+Toute réponse qu'une copie
+entend à la radio
+
+00:05:28.353 --> 00:05:31.653
+doit être le chemin de la salle
+de contrôle depuis son emplacement,

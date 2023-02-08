@@ -1,0 +1,44 @@
+WEBVTT
+
+00:05:29.788 --> 00:05:33.538
+también nos entusiasmó el cómo
+construir un hardware mejor adaptado
+
+00:05:33.579 --> 00:05:36.371
+al tipo de cálculos que
+las redes neuronales querían hacer.
+
+00:05:36.371 --> 00:05:39.038
+Y estos cálculos tienen
+dos propiedades especiales.
+
+00:05:39.079 --> 00:05:41.704
+Primero, son muy tolerantes
+con la precisión reducida.
+
+00:05:41.746 --> 00:05:44.496
+Dos dígitos significativos,
+no se necesitan seis o siete.
+
+00:05:44.496 --> 00:05:47.954
+Y, en segundo, por lo general,
+todos los algoritmos se componen de
+
+00:05:47.996 --> 00:05:51.454
+distintos tipos de secuencias
+de operaciones matriciales y vectoriales.
+
+00:05:51.496 --> 00:05:53.246
+Si pueden construir
+una computadora
+
+00:05:53.246 --> 00:05:57.038
+que sea bastante buena 
+en operaciones matriciales y vectoriales
+
+00:05:57.079 --> 00:05:58.788
+pero que no pueda hacer más,
+
+00:05:58.829 --> 00:06:01.454
+eso va a ser grandioso
+para un cálculo de red neuronal,

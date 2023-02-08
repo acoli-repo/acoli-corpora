@@ -1,0 +1,33 @@
+WEBVTT
+
+00:05:27.848 --> 00:05:30.628
+He can then find 
+the highest right-most stacks
+
+00:05:30.628 --> 00:05:36.882
+by doing the same going right-to-left: 
+1, 3, 4, 4, 4.
+
+00:05:36.882 --> 00:05:40.722
+In the end he’ll have a table 
+like this in his memory.
+
+00:05:40.722 --> 00:05:45.961
+Now, Hedge can take one more pass 
+to calculate how much energy there will be
+
+00:05:45.961 --> 00:05:50.001
+above every stack 
+with the same equation from before:
+
+00:05:50.001 --> 00:05:53.638
+take the smaller of the stored left 
+and right values,
+
+00:05:53.638 --> 00:05:56.708
+and subtract the height 
+of the current tower.
+
+00:05:56.708 --> 00:06:02.293
+Instead of looking at N stacks N times, 
+he’ll look at N stacks just 3 times—

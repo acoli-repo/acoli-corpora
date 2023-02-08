@@ -1,0 +1,47 @@
+WEBVTT
+
+00:07:59.790 --> 00:08:01.951
+Ők mozgatják meg a robotot.
+
+00:08:01.975 --> 00:08:04.425
+Foghatjuk ezt a két darabot,
+összeilleszthetjük,
+
+00:08:04.449 --> 00:08:06.532
+és máris építhetjük icipici robotjainkat.
+
+00:08:06.556 --> 00:08:09.163
+Először valami igazán egyszerűt
+akartunk építeni.
+
+00:08:09.163 --> 00:08:11.560
+E robot mozgását felhasználó vezérli.
+
+00:08:11.584 --> 00:08:14.366
+A közepén van néhány napelem,
+és kicsit be van drótozva.
+
+00:08:14.366 --> 00:08:15.861
+Ez az OWIC.
+
+00:08:15.885 --> 00:08:18.811
+Egy pár lábhoz csatlakoznak,
+melyen van egy platinaréteg,
+
+00:08:18.835 --> 00:08:20.361
+és rátettünk pár merev panelt,
+
+00:08:20.361 --> 00:08:23.642
+ezek irányítják a láb behajlítását,
+és hogy milyen formát vegyen fel.
+
+00:08:23.642 --> 00:08:26.675
+Alapötletünk szerint lézerrel bombázzuk
+a különböző napelemeket,
+
+00:08:26.675 --> 00:08:29.142
+ez szabályozza, melyik lábat
+akarjuk mozdítani,
+
+00:08:29.142 --> 00:08:30.628
+ettől indul el a robot.

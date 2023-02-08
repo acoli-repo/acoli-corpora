@@ -1,0 +1,38 @@
+WEBVTT
+
+00:04:56.848 --> 00:05:00.798
+Isso funcionará, mas levará muito tempo
+para verificar um reservatório grande.
+
+00:05:00.798 --> 00:05:05.328
+A cada passo, Hedge repete a ação
+de olhar à esquerda e à direita.
+
+00:05:05.328 --> 00:05:10.280
+Se houver colunas N,
+ele deverá olhar para todas elas, N vezes.
+
+00:05:10.280 --> 00:05:12.260
+Há um modo mais rápido?
+
+00:05:12.260 --> 00:05:14.048
+Eis como economizar tempo:
+
+00:05:14.048 --> 00:05:17.468
+antes de fazer qualquer coisa,
+Hedge pode começar à esquerda
+
+00:05:17.468 --> 00:05:21.338
+e manter um registro
+de qual coluna é a mais alta.
+
+00:05:21.338 --> 00:05:25.098
+Aqui, seriam dois, novamente dois,
+já que a primeira coluna era mais alta,
+
+00:05:25.098 --> 00:05:27.848
+então quatro, quatro, quatro.
+
+00:05:27.848 --> 00:05:30.628
+Assim, ele pode encontrar
+as colunas mais altas à direita

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:27.000 --> 00:05:30.000
+de pegar uma coisa que está se espalhando e pegá-la mais rápido
+
+00:05:30.000 --> 00:05:33.000
+em função de sua localização estrutural na rede.
+
+00:05:33.000 --> 00:05:35.000
+A, de fato, é mais central,
+
+00:05:35.000 --> 00:05:38.000
+e isso pode ser formalizado matematicamente.
+
+00:05:38.000 --> 00:05:40.000
+Se nós quisermos monitorar alguma coisa
+
+00:05:40.000 --> 00:05:43.000
+que estivesse se espalhando através de uma rede,
+
+00:05:43.000 --> 00:05:45.000
+o que nós idealmente gostaríamos de fazer é configurar os sensores
+
+00:05:45.000 --> 00:05:47.000
+sobre os indivíduos centrais dentro da rede
+
+00:05:47.000 --> 00:05:49.000
+incluindo o nó A,
+
+00:05:49.000 --> 00:05:52.000
+monitorar aquelas pessoas que estão bem no meio da rede,
+
+00:05:52.000 --> 00:05:54.000
+e de alguma forma conseguir uma detecção precoce
+
+00:05:54.000 --> 00:05:57.000
+de tudo o que estiver se espalhando pela rede.
+
+00:05:57.000 --> 00:06:00.000
+Se vocês vissem eles contraírem um germe ou alguma informação,
+
+00:06:00.000 --> 00:06:02.000
+vocês saberiam que, breve o suficiente,

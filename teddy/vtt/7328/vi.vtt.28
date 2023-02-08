@@ -1,0 +1,46 @@
+WEBVTT
+
+00:13:58.121 --> 00:14:01.121
+và tạo thành, ví dụ như là một con báo.
+
+00:14:01.121 --> 00:14:04.037
+Vậy điều đó đưa chúng ta đến đâu?
+
+00:14:04.079 --> 00:14:06.829
+Hãy cho tôi một ví dụ khi công nghệ AI
+đó đi vào vận hành,
+
+00:14:06.829 --> 00:14:08.871
+anh nghĩ điều gì sẽ xảy ra trên thế giới
+
+00:14:08.912 --> 00:14:11.121
+trong năm hay 10 năm tới
+mà khiến anh hào hứng?
+
+00:14:11.537 --> 00:14:14.037
+Jeff Dean: tôi nghĩ thử thách lớn trong AI
+
+00:14:14.079 --> 00:14:16.454
+là làm sao để khái quát hóa
+từ chuỗi các tác vụ
+
+00:14:16.496 --> 00:14:17.912
+bạn đã biết làm
+
+00:14:17.954 --> 00:14:19.162
+thành những tác vụ mới,
+
+00:14:19.204 --> 00:14:21.746
+một cách dễ dàng và không mất sức nhất.
+
+00:14:21.746 --> 00:14:24.996
+Cách tiếp cận hiện tại là dạy
+các mô hình độc lập mọi thứ
+
+00:14:24.996 --> 00:14:28.162
+nghĩa là bạn cần rất nhiều dữ liệu
+về vấn đề cụ thể đó,
+
+00:14:28.162 --> 00:14:30.704
+bởi vì bạn cần học hỏi mọi thứ
+một cách hiệu quả

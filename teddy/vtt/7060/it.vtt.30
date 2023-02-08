@@ -1,0 +1,49 @@
+WEBVTT
+
+00:14:58.341 --> 00:15:01.217
+Perché quel che accade
+in una lista collegata semplice
+
+00:15:01.217 --> 00:15:04.890
+-- qui si sta cercando di rimuovere 
+un input esistente da un elenco --
+
+00:15:04.890 --> 00:15:08.759
+e c'è una differenza
+tra un inserimento in testa
+
+00:15:08.759 --> 00:15:10.779
+o un inserimento successivo.
+
+00:15:10.779 --> 00:15:12.411
+Perché se è in testa,
+
+00:15:12.411 --> 00:15:15.346
+devi cambiare il puntatore
+del primo inserimento.
+
+00:15:15.346 --> 00:15:16.514
+Se è nel mezzo,
+
+00:15:16.514 --> 00:15:19.200
+devi cambiare il puntatore
+di un inserimento precedente.
+
+00:15:19.200 --> 00:15:21.160
+Sono due casi completamente differenti.
+
+00:15:21.160 --> 00:15:22.427
+CA: E questo è migliore.
+
+00:15:22.427 --> 00:15:23.944
+LT: È migliore,
+
+00:15:23.944 --> 00:15:26.639
+perché non ha il blocco "If".
+
+00:15:26.639 --> 00:15:28.865
+E il punto non è --
+
+00:15:28.865 --> 00:15:32.104
+non voglio che capiate
+perché non ha il blocco "If":

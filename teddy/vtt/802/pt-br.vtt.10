@@ -1,0 +1,40 @@
+WEBVTT
+
+00:04:58.000 --> 00:05:00.000
+e são um pouquinho como as células de localização.
+
+00:05:00.000 --> 00:05:02.000
+Mas, agora, à medida que o rato explora as redondezas,
+
+00:05:02.000 --> 00:05:04.000
+cada célula individual acende
+
+00:05:04.000 --> 00:05:07.000
+numa matriz completa de diferentes locais
+
+00:05:07.000 --> 00:05:09.000
+que estão colocados pelo ambiente,
+
+00:05:09.000 --> 00:05:12.000
+em uma rede triangular espantosamente regular.
+
+00:05:14.000 --> 00:05:17.000
+E se você faz o registro de diferentes células-rede --
+
+00:05:17.000 --> 00:05:19.000
+mostradas aqui em cores diferentes --
+
+00:05:19.000 --> 00:05:22.000
+cada uma tem um padrão de acendimento semelhante à rede através do ambiente,
+
+00:05:22.000 --> 00:05:25.000
+e cada padrão de acendimento semelhante a rede é levemente deslocado
+
+00:05:25.000 --> 00:05:27.000
+relativamente às outras células.
+
+00:05:27.000 --> 00:05:29.000
+Assim, as vermelhas se acendem nesta rede
+
+00:05:29.000 --> 00:05:32.000
+e as verdes, nesta e as azuis, nesta outra.

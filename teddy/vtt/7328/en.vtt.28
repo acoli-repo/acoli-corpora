@@ -1,0 +1,47 @@
+WEBVTT
+
+00:13:58.121 --> 00:14:01.121
+that go to make up a leopard, for example.
+
+00:14:01.121 --> 00:14:04.037
+So what could that lead to?
+
+00:14:04.079 --> 00:14:06.829
+Give me an example
+of when that AI is working,
+
+00:14:06.829 --> 00:14:08.871
+what do you picture happening in the world
+
+00:14:08.912 --> 00:14:11.121
+in the next five or 10 years
+that excites you?
+
+00:14:11.537 --> 00:14:14.037
+Jeff Dean: I think
+the grand challenge in AI
+
+00:14:14.079 --> 00:14:16.454
+is how do you generalize
+from a set of tasks
+
+00:14:16.496 --> 00:14:17.912
+you already know how to do
+
+00:14:17.954 --> 00:14:19.162
+to new tasks,
+
+00:14:19.204 --> 00:14:21.746
+as easily and effortlessly as possible.
+
+00:14:21.746 --> 00:14:24.996
+And the current approach of training
+separate models for everything
+
+00:14:24.996 --> 00:14:28.162
+means you need lots of data
+about that particular problem,
+
+00:14:28.162 --> 00:14:30.704
+because you're effectively trying
+to learn everything

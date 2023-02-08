@@ -1,0 +1,35 @@
+WEBVTT
+
+00:13:29.680 --> 00:13:31.431
+Al menos no son etiquetados
+
+00:13:31.431 --> 00:13:33.684
+en diferentes momentos
+por diferentes personas
+
+00:13:33.684 --> 00:13:34.893
+de diferentes maneras.
+
+00:13:35.561 --> 00:13:37.980
+Es una especie de imagen envolvente.
+
+00:13:37.980 --> 00:13:41.400
+Luego, una parte muy importante
+es añadir la dimensión temporal.
+
+00:13:41.733 --> 00:13:45.320
+Estás mirando un video envolvente,
+
+00:13:45.320 --> 00:13:47.239
+y etiquetando ese video envolvente.
+
+00:13:47.865 --> 00:13:52.536
+Desde el punto de vista del software,
+es bastante difícil de hacer.
+
+00:13:52.911 --> 00:13:57.583
+Tuvimos que escribir nuestras propias
+herramientas de etiquetado
+
+00:13:57.624 --> 00:14:03.088
+y luego crear un etiquetado automático,

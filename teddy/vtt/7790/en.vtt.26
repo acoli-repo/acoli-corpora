@@ -1,0 +1,39 @@
+WEBVTT
+
+00:12:55.854 --> 00:13:00.067
+In the beginning, we were trying
+to do this with image recognition
+
+00:13:00.108 --> 00:13:03.028
+on individual images.
+
+00:13:03.070 --> 00:13:04.988
+But if you get one image out of a video,
+
+00:13:05.030 --> 00:13:09.868
+it's actually quite hard to see
+what's going on without ambiguity.
+
+00:13:09.910 --> 00:13:13.038
+But if you look at a video segment
+of a few seconds of video,
+
+00:13:13.080 --> 00:13:14.748
+that ambiguity resolves.
+
+00:13:15.791 --> 00:13:19.253
+So the first thing we had to do
+is tie all eight cameras together
+
+00:13:19.294 --> 00:13:20.462
+so they're synchronized,
+
+00:13:20.504 --> 00:13:23.674
+so that all the frames
+are looked at simultaneously
+
+00:13:23.715 --> 00:13:26.677
+and labeled simultaneously by one person,
+
+00:13:26.718 --> 00:13:28.595
+because we still need human labeling.

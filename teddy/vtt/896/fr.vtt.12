@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:59.143 --> 00:06:02.207
+Dans cette série il parle à l'aide d'un ordinateur,
+
+00:06:02.207 --> 00:06:05.311
+ce qui rend l'identification des fins de phrases
+
+00:06:05.311 --> 00:06:08.737
+vraiment facile. Alors j'ai écrit un algorithme de pilotage.
+
+00:06:08.737 --> 00:06:10.697
+Il écoute la conférence, et ensuite, il utilise
+
+00:06:10.697 --> 00:06:13.384
+l'amplitude de chaque mot pour déplacer un point sur l'axe des x,
+
+00:06:13.384 --> 00:06:16.017
+et il utilise l'inflexion des phrases
+
+00:06:16.017 --> 00:06:18.171
+pour déplacer un même point vers le haut et le bas sur l'axe des y.
+
+00:06:18.171 --> 00:06:20.945
+Et ces lignes de tendance, vous pouvez le voir, il y a plus de questions
+
+00:06:20.945 --> 00:06:22.815
+que de réponses dans les lois de la physique,
+
+00:06:22.815 --> 00:06:24.848
+et quand on arrive à la fin d'une phrase,
+
+00:06:24.848 --> 00:06:27.183
+on place une étoile à cet endroit.
+
+00:06:27.183 --> 00:06:29.983
+Donc il y a beaucoup de phrases, donc beaucoup d'étoiles,
+
+00:06:29.983 --> 00:06:32.339
+et après la restitution de tout l'audio, voici ce que nous obtenons.

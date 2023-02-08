@@ -1,0 +1,40 @@
+WEBVTT
+
+00:07:25.708 --> 00:07:31.040
+Když se počet lidí pracujících
+na projektu rozroste z 10 nebo 100
+
+00:07:31.064 --> 00:07:33.452
+na 10 000 lidí, kteří ‒
+
+00:07:33.476 --> 00:07:36.942
+chci říct, že jsme teď v situaci,
+kdy je jen do prací na kernelu
+
+00:07:36.966 --> 00:07:40.140
+zapojeno na 1 000 lidí
+při každém vydání nové verze,
+
+00:07:40.164 --> 00:07:43.750
+a ta vychází každé dva měsíce,
+zhruba každé dva až tři měsíce.
+
+00:07:44.336 --> 00:07:46.757
+Někteří z nich toho moc neudělají.
+
+00:07:46.781 --> 00:07:49.364
+Hodně lidí udělá jen malou změnu.
+
+00:07:49.388 --> 00:07:51.634
+Ale když to máte udržovat,
+
+00:07:51.658 --> 00:07:54.547
+s množstvím se mění i způsob,
+jakým to musíte dělat.
+
+00:07:54.571 --> 00:07:56.969
+Zažili jsme s tím spoustu problémů.
+
+00:07:58.713 --> 00:08:05.242
+A celá řada nástrojů dokáže
+udržovat jen zdrojový kód.

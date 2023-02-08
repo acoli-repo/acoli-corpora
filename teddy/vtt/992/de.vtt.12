@@ -1,0 +1,51 @@
+WEBVTT
+
+00:05:56.696 --> 00:06:00.263
+Sie haben vorhin 
+eine kurze Szene daraus gesehen.
+
+00:06:00.263 --> 00:06:01.692
+Und ich dachte mir:
+
+00:06:01.692 --> 00:06:04.599
+Wie können wir ein KI-Modell bauen,
+
+00:06:04.599 --> 00:06:06.460
+am Computer, im Rechenmodell,
+
+00:06:06.460 --> 00:06:08.784
+mit dem wir Ideen wie Improvisation
+modellieren können,
+
+00:06:08.784 --> 00:06:10.941
+Ideen wie Risiken eingehen, 
+Chancen ergreifen,
+
+00:06:10.941 --> 00:06:12.508
+ja sogar Fehler machen.
+
+00:06:12.508 --> 00:06:15.280
+Vielleicht verbessert das 
+die robotischen Teamkollegen.
+
+00:06:15.280 --> 00:06:17.908
+So arbeitete ich eine ganze Zeitlang
+an diesen Modellen
+
+00:06:17.908 --> 00:06:20.257
+und implementierte sie 
+auf etlichen Robotern.
+
+00:06:20.257 --> 00:06:22.272
+Hier sehen Sie ein sehr frühes Beispiel
+
+00:06:22.272 --> 00:06:25.984
+mit Robotern, wo versucht wird,
+die eingebettete KI so zu nutzen,
+
+00:06:25.984 --> 00:06:28.742
+dass sie meine Bewegungen
+so genau wie möglich imitieren,
+
+00:06:28.742 --> 00:06:30.229
+wie in einem Spiel.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:57.000 --> 00:11:00.000
+Et nous pouvons donc faire des mesures assez précises
+
+00:11:00.000 --> 00:11:03.000
+pour que nous puissions superposer les deux patients et voir les différences.
+
+00:11:03.000 --> 00:11:05.000
+Nous avons donc Alice ici en vert
+
+00:11:05.000 --> 00:11:07.000
+et Bob en rouge.
+
+00:11:07.000 --> 00:11:10.000
+Nous les superposons. Ce sont les vraies données.
+
+00:11:10.000 --> 00:11:13.000
+Et vous pouvez voir, il y a un chevauchement général et c'est en jaune,
+
+00:11:13.000 --> 00:11:15.000
+mais il y a des choses que seule Alice a
+
+00:11:15.000 --> 00:11:17.000
+et des choses que seul Bob a.
+
+00:11:17.000 --> 00:11:20.000
+Et si nous trouvons un modèle pour les choses
+
+00:11:20.000 --> 00:11:23.000
+qui réagissent au médicament,
+
+00:11:23.000 --> 00:11:25.000
+nous le voyons dans le sang,
+
+00:11:25.000 --> 00:11:27.000
+elles ont la condition
+
+00:11:27.000 --> 00:11:29.000
+qui leur permet de réagir à ce médicament.
+
+00:11:29.000 --> 00:11:31.000
+Nous ne pourrions même pas savoir ce qu'est cette protéine,

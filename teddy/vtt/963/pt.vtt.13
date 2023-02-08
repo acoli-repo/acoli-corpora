@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:29.754 --> 00:06:32.124
+Neste caso, o processo é determinista.
+
+00:06:32.183 --> 00:06:34.613
+Não há nenhuma aleatoriedade envolvida,
+
+00:06:34.635 --> 00:06:36.685
+mas não é totalmente previsível.
+
+00:06:36.719 --> 00:06:38.559
+Há demasiadas superfícies,
+
+00:06:38.610 --> 00:06:41.610
+há demasiados pormenores,
+é impossível ver o estado final.
+
+00:06:41.630 --> 00:06:44.340
+Isto leva-nos a um novo papel
+para os arquitetos.
+
+00:06:44.872 --> 00:06:48.532
+Precisamos de um novo método
+para explorar todas as possibilidades
+
+00:06:48.586 --> 00:06:50.296
+que se lhe oferecem.
+
+00:06:50.347 --> 00:06:53.597
+Por uma razão, podemos conceber
+muitas variantes duma forma,
+
+00:06:53.639 --> 00:06:55.829
+em paralelo, e podemos cultivá-las.
+
+00:06:55.883 --> 00:06:58.053
+E voltando à analogia com a natureza,
+
+00:06:58.073 --> 00:07:00.703
+podemos começar a pensar
+em termos de populações,

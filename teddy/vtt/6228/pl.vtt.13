@@ -1,0 +1,32 @@
+WEBVTT
+
+00:06:29.484 --> 00:06:30.804
+mieszając je.
+
+00:06:30.828 --> 00:06:34.107
+Wierzchołki minus krawędzie
+plus ścianki - wciąż daje dwa.
+
+00:06:34.131 --> 00:06:35.742
+Oto inny kształt.
+
+00:06:36.480 --> 00:06:41.730
+To torus, podobny do pączka
+z dziurką - szesnaście wierzchołków
+
+00:06:41.754 --> 00:06:45.998
+stworzonych z prostokątów,
+32 krawędzie i 16 ścianek.
+
+00:06:46.530 --> 00:06:49.214
+Ścianki minus krawędzie dają zero.
+
+00:06:49.238 --> 00:06:50.713
+Tutaj zawsze wyjdzie zero.
+
+00:06:50.737 --> 00:06:55.047
+Zawsze, gdy pokryjesz torus
+różnymi kwadratami, trójkątami
+
+00:06:55.071 --> 00:06:59.006
+lub czymkolwiek innym, wyjdzie zero.

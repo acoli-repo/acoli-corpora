@@ -1,0 +1,31 @@
+WEBVTT
+
+00:09:29.818 --> 00:09:33.278
+This animal gets rid of them because they take up too much space.
+
+00:09:33.278 --> 00:09:35.751
+So this is a session on frontiers in neuroscience.
+
+00:09:35.751 --> 00:09:41.111
+I would posit that one frontier in neuroscience is to figure out how the brain of that thing works.
+
+00:09:41.111 --> 00:09:46.744
+But let's think about this. How can you make a small number of neurons do a lot?
+
+00:09:46.744 --> 00:09:49.266
+And I think, from an engineering perspective,
+
+00:09:49.266 --> 00:09:50.995
+you think of multiplexing.
+
+00:09:50.995 --> 00:09:53.698
+You can take a hardware and have that hardware
+
+00:09:53.698 --> 00:09:55.311
+do different things at different times,
+
+00:09:55.311 --> 00:09:58.306
+or have different parts of the hardware doing different things.
+
+00:09:58.306 --> 00:10:01.577
+And these are the two concepts I'd like to explore.

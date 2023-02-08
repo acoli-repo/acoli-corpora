@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:00.000
+Vậy, dữ liệu liên kết.
+
+00:08:00.000 --> 00:08:02.000
+Sự lan truyền đã vươn ra ngoài.
+
+00:08:02.000 --> 00:08:06.000
+Và, cũng khá sớm Chris Bizer
+tại trường Đại học Freie ở Berlin
+
+00:08:06.000 --> 00:08:08.000
+trong số người đầu tiên
+đưa lên thứ thú vị,
+
+00:08:08.000 --> 00:08:10.000
+ông để ý rằng Wikipedia -
+
+00:08:10.000 --> 00:08:13.000
+các bạn biết Wikipedia,
+bách khoa trực tuyến duy nhất
+
+00:08:13.000 --> 00:08:15.000
+với rất rất nhiều tư liệu thú vị trong đó.
+
+00:08:17.000 --> 00:08:19.000
+Trong tư liệu, có hình vuông,
+hình hộp nhỏ.
+
+00:08:19.000 --> 00:08:22.000
+Và trong hầu hết các hộp thông tin,
+là dữ liệu.
+
+00:08:22.000 --> 00:08:26.000
+Nên ông ấy viết chương trình lấy dữ liệu,
+trích nó từ Wikipedia,
+
+00:08:26.000 --> 00:08:28.000
+và bỏ vào một phần nhỏ dữ liệu liên kết
+
+00:08:28.000 --> 00:08:31.000
+trên trang mạng, mà ông gọi là dbpedia.

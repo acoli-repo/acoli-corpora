@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:58.059 --> 00:07:01.565
+e per comprendere la computazione
+di un sistema vivente
+
+00:07:01.589 --> 00:07:05.842
+si inizia da una domanda
+incredibilmente semplice:
+
+00:07:05.866 --> 00:07:09.222
+Qual è, di fatto, il compito
+di quel sistema?
+
+00:07:09.838 --> 00:07:12.688
+La scienza informatica ha delle strategie
+
+00:07:12.712 --> 00:07:16.539
+per gestire ciò che software
+e hardware devono fare.
+
+00:07:16.563 --> 00:07:19.223
+Quando si scrive un programma,
+si codifica del software,
+
+00:07:19.247 --> 00:07:21.247
+si vuole che esso funzioni correttamente.
+
+00:07:21.247 --> 00:07:23.085
+Si cercano prestazioni e funzionalità.
+
+00:07:23.085 --> 00:07:24.326
+Si vogliono evitare i bug,
+
+00:07:24.326 --> 00:07:25.744
+perché possono costare caro.
+
+00:07:26.168 --> 00:07:28.010
+Così, il programmatore
+
+00:07:28.034 --> 00:07:30.304
+potrebbe elaborare
+una serie di specifiche

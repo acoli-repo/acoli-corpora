@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:58.769 --> 00:08:00.645
+On avait donc juste besoin de trouver
+
+00:08:00.669 --> 00:08:03.852
+comment coder
+ce nouveau type de spécifications.
+
+00:08:04.594 --> 00:08:07.608
+Imaginons que vous soyez là
+à observer les gènes,
+
+00:08:07.608 --> 00:08:10.708
+vous trouvez que si le gène A est actif,
+
+00:08:10.732 --> 00:08:14.120
+alors les gènes B ou C semblent actifs.
+
+00:08:14.678 --> 00:08:18.260
+Vous pouvez écrire cette observation
+sous forme d'expression mathématique
+
+00:08:18.284 --> 00:08:20.657
+en utilisant le langage de la logique :
+
+00:08:21.125 --> 00:08:23.453
+Si A, alors B ou C.
+
+00:08:24.242 --> 00:08:26.696
+Ok, c'est un exemple très simple,
+
+00:08:26.720 --> 00:08:28.463
+juste pour illustrer mon propos.
+
+00:08:28.487 --> 00:08:31.411
+On sait encoder des expressions complexes

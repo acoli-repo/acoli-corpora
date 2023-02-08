@@ -1,0 +1,46 @@
+WEBVTT
+
+00:12:55.854 --> 00:13:00.067
+Au début, on essayait de faire ça
+avec la reconnaissance d’image
+
+00:13:00.108 --> 00:13:03.028
+sur des images individuelles.
+
+00:13:03.070 --> 00:13:05.239
+mais quand on extrait une image
+d’une vidéo,
+
+00:13:05.239 --> 00:13:09.868
+c’est compliqué de voir ce qu’il se passe
+sans aucune ambiguïté.
+
+00:13:09.910 --> 00:13:13.038
+Mais si on prend un segment de vidéo
+de quelques secondes,
+
+00:13:13.080 --> 00:13:14.748
+l’ambiguïté disparaît.
+
+00:13:15.791 --> 00:13:19.253
+Donc, on a d’abord dû assembler
+les huit caméras ensemble
+
+00:13:19.294 --> 00:13:20.462
+pour les synchroniser
+
+00:13:20.504 --> 00:13:23.674
+et pour que tous les images
+soient observées simultanément
+
+00:13:23.715 --> 00:13:26.677
+et étiquetées simultanément
+par une personne
+
+00:13:26.718 --> 00:13:29.555
+car on a encore besoin d’un humain
+pour faire cette tâche.
+
+00:13:29.721 --> 00:13:32.724
+Ainsi, elles ne sont pas caractérisées
+à des moments différents

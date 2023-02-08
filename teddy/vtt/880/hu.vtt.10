@@ -1,0 +1,31 @@
+WEBVTT
+
+00:04:56.000 --> 00:05:00.000
+Ez itt a Mandara-hegység, közel a nigériai határhoz, Mokoulek, Kamerunban.
+
+00:05:00.000 --> 00:05:03.000
+Megláttam ezt az ábrát, amit egy francia építész rajzolt,
+
+00:05:03.000 --> 00:05:05.000
+és azt gondoltam, "Hinnye, de gyünyörű fraktál!"
+
+00:05:05.000 --> 00:05:11.000
+Próbáltam rájönni, hogy milyen csíra-alakzat hozza ezt létre az iteráció során, hogyan bontakozik ez ki.
+
+00:05:11.000 --> 00:05:13.000
+Erre a struktúrára jutottam itt.
+
+00:05:13.000 --> 00:05:17.000
+Nézzük az első iterációt, a másodikat, a harmadikat, a negyediket.
+
+00:05:17.000 --> 00:05:19.000
+Miután végrehajtottam a szimulációt,
+
+00:05:19.000 --> 00:05:22.000
+rájöttem, hogy az egész falu olyan, mint egy spirál, akárcsak ez,
+
+00:05:22.000 --> 00:05:28.000
+és ez itt az ismétlő vonal, egy önmagát ismétlő vonal, ami fraktállá bontakozik ki.
+
+00:05:28.000 --> 00:05:33.000
+Észrevettem, hogy ez a vonal a körül van, ahol a falu egyetlen kocka alakú háza áll.

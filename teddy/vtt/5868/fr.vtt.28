@@ -1,0 +1,39 @@
+WEBVTT
+
+00:13:57.463 --> 00:14:00.423
+et nous pouvons le tester en déplaçant le bousier
+
+00:14:00.423 --> 00:14:03.120
+sur un emplacement nouveau 
+quand il est sur le site où il trouve la nourriture.
+
+00:14:03.120 --> 00:14:06.414
+S'il utilise des repères, il retrouvera sa maison,
+
+00:14:06.414 --> 00:14:09.829
+S'il utilise quelque chose appelé intégration du trajet,
+
+00:14:09.829 --> 00:14:13.613
+il ne trouvera pas sa maison. Il arrivera au mauvais endroit,
+
+00:14:13.613 --> 00:14:16.037
+et s'il utilise l’intégration du trajet ici,
+
+00:14:16.037 --> 00:14:19.908
+il compte ses pas ou il mesure la distance 
+dans cette direction.
+
+00:14:19.908 --> 00:14:23.605
+Il connait la direction de sa maison, 
+et il sait qu'elle devrait être dans cette direction.
+
+00:14:23.605 --> 00:14:26.733
+Si vous le déplacez, 
+il se retrouve au mauvais endroit.
+
+00:14:26.733 --> 00:14:29.310
+Voyons donc ce qui se passe 
+si nous testons ce bousier
+
+00:14:29.310 --> 00:14:32.626
+avec une expérience similaire.

@@ -1,0 +1,48 @@
+WEBVTT
+
+00:09:27.246 --> 00:09:30.537
+et on est continuellement en train
+de faire appel aux parties
+
+00:09:30.579 --> 00:09:32.746
+qui sont pertinentes
+selon le besoin immédiat.
+
+00:09:32.787 --> 00:09:35.121
+Par exemple, si vous voyez
+un camion-poubelle
+
+00:09:35.121 --> 00:09:36.996
+reculer sur votre voiture,
+
+00:09:36.996 --> 00:09:39.954
+la partie de votre cerveau qui pense
+aux sonnets de Shakespeare
+
+00:09:39.996 --> 00:09:41.246
+est probablement inactive.
+
+00:09:41.246 --> 00:09:42.871
+(Rires)
+
+00:09:42.912 --> 00:09:44.412
+L’IA peut faire pareil.
+
+00:09:44.412 --> 00:09:45.829
+À la place d’un modèle dense,
+
+00:09:45.829 --> 00:09:48.662
+on peut en avoir un
+qui s’active plus faiblement.
+
+00:09:48.704 --> 00:09:52.496
+Pour différentes tâches, on fait appel
+à différentes parties du modèle.
+
+00:09:52.496 --> 00:09:56.871
+Le modèle peut aussi apprendre
+quelle partie est bonne à quelles choses,
+
+00:09:56.871 --> 00:10:00.662
+pour identifier en permanence
+quelles parties il souhaite mobiliser

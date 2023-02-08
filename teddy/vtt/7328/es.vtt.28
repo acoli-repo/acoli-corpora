@@ -1,0 +1,45 @@
+WEBVTT
+
+00:13:58.121 --> 00:14:01.121
+que componen un leopardo, por ejemplo.
+
+00:14:01.121 --> 00:14:04.037
+¿A qué puede llevar esto?
+
+00:14:04.079 --> 00:14:06.829
+Dame un ejemplo en donde esa IA funciona.
+
+00:14:06.829 --> 00:14:08.871
+¿Qué imaginas que sucede en el mundo
+
+00:14:08.912 --> 00:14:11.121
+en los próximos 5 o 10 años
+que te emociona?
+
+00:14:11.537 --> 00:14:14.037
+Jeff Dean: Creo que el gran reto en la IA
+
+00:14:14.079 --> 00:14:16.454
+es cómo generalizar un conjunto de tareas
+
+00:14:16.496 --> 00:14:17.912
+que ya sabes cómo hacer
+
+00:14:17.954 --> 00:14:19.162
+a nuevas tareas,
+
+00:14:19.204 --> 00:14:21.746
+de forma tan fácil y sin esfuerzo
+como sea posible.
+
+00:14:21.746 --> 00:14:24.996
+Y el enfoque actual de entrenar
+modelos separados para todo significa
+
+00:14:24.996 --> 00:14:28.162
+que se necesitan muchos datos
+acerca de ese problema particular,
+
+00:14:28.162 --> 00:14:30.704
+porque efectivamente se intenta
+aprender todo

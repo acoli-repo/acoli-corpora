@@ -1,0 +1,38 @@
+WEBVTT
+
+00:05:27.848 --> 00:05:30.628
+Assim, ele pode encontrar
+as colunas mais altas à direita
+
+00:05:30.628 --> 00:05:33.472
+fazendo o mesmo,
+movendo-se da direita à esquerda:
+
+00:05:33.472 --> 00:05:36.742
+um, três, quatro, quatro, quatro.
+
+00:05:36.882 --> 00:05:40.632
+Por fim, ele terá na memória
+uma tabela como esta.
+
+00:05:40.722 --> 00:05:45.961
+Agora, Hedge pode ir além
+para calcular quanta energia haverá
+
+00:05:45.961 --> 00:05:50.001
+acima de cada coluna,
+com a mesma equação de antes:
+
+00:05:50.001 --> 00:05:53.638
+utilize o menor dos valores
+armazenados à esquerda e à direita,
+
+00:05:53.638 --> 00:05:56.708
+e subtraia a altura da torre atual.
+
+00:05:56.708 --> 00:05:59.583
+Ao invés de olhar para N colunas N vezes,
+
+00:05:59.583 --> 00:06:02.293
+ele olhará para N colunas
+apenas três vezes,

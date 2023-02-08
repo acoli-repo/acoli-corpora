@@ -1,0 +1,42 @@
+WEBVTT
+
+00:05:27.726 --> 00:05:31.646
+et nous pouvons suivre
+ce motif en spirale jusqu'au centre
+
+00:05:31.646 --> 00:05:36.793
+avec une boucle et une variable suivant
+la distance que Hedge doit parcourir.
+
+00:05:36.793 --> 00:05:39.223
+Une de ces méthodes est-elle
+meilleure que l'autre ?
+
+00:05:39.223 --> 00:05:41.097
+Cela dépend de ce qui vous importe.
+
+00:05:41.097 --> 00:05:44.527
+La force de la spirale est la simplicité
+pour trouver un motif
+
+00:05:44.527 --> 00:05:47.567
+et réutiliser la même logique
+du début à la fin.
+
+00:05:47.567 --> 00:05:49.787
+L'avantage de l'approche
+de la machine à écrire
+
+00:05:49.787 --> 00:05:51.957
+est qu'elle est plus générale,
+
+00:05:51.957 --> 00:05:56.027
+elle peut être plus facilement adaptée
+à n'importe quel motif.
+
+00:05:56.027 --> 00:05:59.298
+Pour Éthique, les deux
+marcheront très bien.
+
+00:05:59.298 --> 00:06:01.128
+Voici ce qu'il se passe.

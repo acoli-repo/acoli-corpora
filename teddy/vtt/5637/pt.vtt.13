@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:26.496 --> 00:06:31.163
+— uma opção é partir ambas as secções
+que levam ao beco sem saída,
+
+00:06:31.163 --> 00:06:35.163
+e atar o fio à bobina  
+que servirá para voltar ao cristal.
+
+00:06:35.163 --> 00:06:38.954
+Os fios partidos dizem a todos 
+os que chegarem a esta intersecção:
+
+00:06:38.954 --> 00:06:40.496
+“Não vão por aí“.
+
+00:06:40.496 --> 00:06:44.704
+Garantem também que o caminho final
+levará diretamente ao cristal,
+
+00:06:44.704 --> 00:06:47.371
+em vez de andar a visitar
+becos sem saída.
+
+00:06:47.371 --> 00:06:50.663
+OK, vamos assumir que alguém
+está numa intersecção.
+
+00:06:50.663 --> 00:06:52.704
+Agora por onde devem ir?
+
+00:06:52.704 --> 00:06:56.538
+A primeira prioridade é que todos 
+cubram terreno inexplorado
+
+00:06:56.538 --> 00:06:58.413
+para minimizar a duplicação.
+
+00:06:58.413 --> 00:07:01.746
+Por isso, devem avançar numa direção
+em que não haja nenhum fio.

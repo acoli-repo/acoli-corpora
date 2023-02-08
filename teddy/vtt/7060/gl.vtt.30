@@ -1,0 +1,49 @@
+WEBVTT
+
+00:14:58.653 --> 00:15:01.193
+Porque o que ocorre nunha 
+lista ligada simple,
+
+00:15:01.217 --> 00:15:05.467
+isto é, ao eliminar un elemento
+existente dunha lista e...
+
+00:15:05.497 --> 00:15:08.733
+Hai unha diferenza dependendo
+de se é o primeiro elemento
+
+00:15:08.757 --> 00:15:10.756
+ou se é un elemento da metade.
+
+00:15:10.780 --> 00:15:12.385
+Porque se é o primeiro elemento,
+
+00:15:12.409 --> 00:15:15.425
+tes que cambiar o punteiro 
+para o primeiro elemento.
+
+00:15:15.449 --> 00:15:16.647
+Se está na metade,
+
+00:15:16.671 --> 00:15:19.092
+tes que cambiar o punteiro
+dun elemento anterior.
+
+00:15:19.116 --> 00:15:21.140
+Así que son casos totalmente diferentes.
+
+00:15:21.164 --> 00:15:22.316
+CA: E ese é mellor.
+
+00:15:22.340 --> 00:15:23.521
+LT: E este é mellor.
+
+00:15:23.940 --> 00:15:26.423
+Non ten a condición if.
+
+00:15:26.637 --> 00:15:28.850
+E, realmente, non importa.
+
+00:15:28.874 --> 00:15:32.075
+Eu non quero que entendas
+por que non ten a condición if,

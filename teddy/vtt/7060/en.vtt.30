@@ -1,0 +1,49 @@
+WEBVTT
+
+00:14:58.933 --> 00:15:01.193
+Because what happens
+in a singly-linked list --
+
+00:15:01.217 --> 00:15:04.867
+this is trying to remove
+an existing entry from a list --
+
+00:15:04.891 --> 00:15:08.733
+and there's a difference
+between if it's the first entry
+
+00:15:08.757 --> 00:15:10.756
+or whether it's an entry in the middle.
+
+00:15:10.780 --> 00:15:12.385
+Because if it's the first entry,
+
+00:15:12.409 --> 00:15:15.425
+you have to change
+the pointer to the first entry.
+
+00:15:15.449 --> 00:15:16.647
+If it's in the middle,
+
+00:15:16.671 --> 00:15:19.092
+you have to change the pointer
+of a previous entry.
+
+00:15:19.116 --> 00:15:21.140
+So they're two completely different cases.
+
+00:15:21.164 --> 00:15:22.316
+CA: And that's better.
+
+00:15:22.340 --> 00:15:23.521
+LT: And this is better.
+
+00:15:23.940 --> 00:15:26.263
+It does not have the if statement.
+
+00:15:26.637 --> 00:15:28.850
+And it doesn't really matter --
+
+00:15:28.874 --> 00:15:32.075
+I don't want you understand
+why it doesn't have the if statement,

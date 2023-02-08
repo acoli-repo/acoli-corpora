@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:57.000 --> 00:08:00.000
+Los amigos de las personas elegidas al azar
+
+00:08:00.000 --> 00:08:02.000
+tienen más alto grado y están más al centro
+
+00:08:02.000 --> 00:08:04.000
+que la propia gente elegida al azar.
+
+00:08:04.000 --> 00:08:06.000
+Y uno puede hacerse una idea intuitiva de esto
+
+00:08:06.000 --> 00:08:09.000
+si piensa en la gente del perímetro de la red.
+
+00:08:09.000 --> 00:08:11.000
+Si uno elige a esta persona
+
+00:08:11.000 --> 00:08:14.000
+el único amigo que tendrá para elegir es esta persona,
+
+00:08:14.000 --> 00:08:16.000
+quien, por construcción, debe tener al menos dos
+
+00:08:16.000 --> 00:08:18.000
+o, normalmente, más amigos.
+
+00:08:18.000 --> 00:08:20.000
+Y eso sucede en cada nodo periférico.
+
+00:08:20.000 --> 00:08:23.000
+De hecho, sucede en toda la red conforme uno se desplaza,
+
+00:08:23.000 --> 00:08:25.000
+cualquiera que elijamos, cuando nomine alguien al azar...
+
+00:08:25.000 --> 00:08:28.000
+cuando una persona al azar nomina a un amigo
+
+00:08:28.000 --> 00:08:31.000
+uno se mueve más cerca del centro de la red.

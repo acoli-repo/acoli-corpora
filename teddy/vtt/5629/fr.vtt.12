@@ -1,0 +1,39 @@
+WEBVTT
+
+00:05:56.795 --> 00:06:00.860
+mais d'autres méthodes de sélection
+fonctionnent tout aussi bien.
+
+00:06:00.860 --> 00:06:04.860
+Hedge peut ensuite ajouter cette étape
+à sa liste d'étapes à accomplir,
+
+00:06:04.860 --> 00:06:07.310
+supprimer la colonne
+tout entière du tableau,
+
+00:06:07.310 --> 00:06:10.340
+effaçant toutes les fois
+où c'était une étape en dépendait,
+
+00:06:10.340 --> 00:06:12.990
+et redémarrer du début.
+
+00:06:12.990 --> 00:06:16.290
+Puisqu'il n'y a pas de références
+circulaires dans le graphe,
+
+00:06:16.290 --> 00:06:21.864
+à chaque fois, il y aura au moins
+une étape ne dépendant de rien.
+
+00:06:21.864 --> 00:06:24.956
+Hedge peut ajouter la première étape
+dans l'ordre alphabétique
+
+00:06:24.956 --> 00:06:26.556
+à sa liste d'étapes à accomplir,
+
+00:06:26.556 --> 00:06:31.221
+l'ôter du tableau
+et recommencer depuis le début.

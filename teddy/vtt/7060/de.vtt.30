@@ -1,0 +1,49 @@
+WEBVTT
+
+00:14:58.813 --> 00:15:01.717
+In einer einfach verketteten Liste
+macht das Folgendes:
+
+00:15:01.717 --> 00:15:05.374
+es versucht, einen bestehenden Eintrag
+aus einer Liste zu entfernen --
+
+00:15:05.374 --> 00:15:08.733
+und es besteht ein Unterschied,
+ob es der erste Eintrag ist,
+
+00:15:08.757 --> 00:15:10.756
+oder ob er in der Mitte ist.
+
+00:15:10.780 --> 00:15:12.385
+Denn wenn es der erste ist,
+
+00:15:12.409 --> 00:15:15.425
+muss man den Zeiger
+auf dem ersten Eintrag ändern.
+
+00:15:15.449 --> 00:15:16.687
+Wenn er in der Mitte ist,
+
+00:15:16.687 --> 00:15:19.134
+muss man den Zeiger
+eines vorigen Eintrags ändern.
+
+00:15:19.134 --> 00:15:21.303
+Das sind zwei komplett verschiedene Fälle.
+
+00:15:21.303 --> 00:15:22.528
+CA: Und das ist besser.
+
+00:15:22.528 --> 00:15:23.753
+LT: Das ist besser.
+
+00:15:23.940 --> 00:15:26.263
+Es hat keine if-Anweisung.
+
+00:15:26.637 --> 00:15:28.850
+Und es macht keinen Unterschied.
+
+00:15:28.874 --> 00:15:32.075
+Man muss nicht verstehen,
+warum es keine if-Anweisung hat,

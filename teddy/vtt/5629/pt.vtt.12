@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:56.788 --> 00:06:00.579
+apesar de também funcionarem
+outros métodos de seleção.
+
+00:06:00.704 --> 00:06:04.871
+Depois, Hedge pode adicionar 
+esse passo à sua lista ordenada,
+
+00:06:04.871 --> 00:06:07.288
+eliminar toda a coluna da tabela
+
+00:06:07.288 --> 00:06:10.329
+— eliminando assim todas as vezes
+que foi uma dependência —
+
+00:06:10.329 --> 00:06:12.621
+e recomeçar do princípio.
+
+00:06:12.829 --> 00:06:16.288
+Como não há referências circulares 
+neste gráfico,
+
+00:06:16.288 --> 00:06:21.871
+sempre que chegamos aqui, haverá
+pelo menos um passo sem dependências.
+
+00:06:21.871 --> 00:06:26.538
+O Hedge pode adicionar a ordem alfabética
+à sua lista ordenada,
+
+00:06:26.538 --> 00:06:30.538
+removê-la da tabela, e começar de novo.

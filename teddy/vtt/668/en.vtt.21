@@ -1,0 +1,37 @@
+WEBVTT
+
+00:10:28.894 --> 00:10:30.073
+at the same time.
+
+00:10:31.005 --> 00:10:33.634
+And so when we scale up
+to work with many qubits,
+
+00:10:33.658 --> 00:10:37.280
+we can work with an exponential
+number of combinations
+
+00:10:37.304 --> 00:10:38.623
+at the same time.
+
+00:10:39.440 --> 00:10:43.075
+And this just hints at where the power
+of quantum computing is coming from.
+
+00:10:44.964 --> 00:10:46.291
+Now, in modern encryption,
+
+00:10:47.429 --> 00:10:51.357
+our secret keys, like the two factors
+of that larger number,
+
+00:10:51.381 --> 00:10:53.658
+they're just long sequences
+of zeroes and ones.
+
+00:10:54.539 --> 00:10:55.783
+To find them,
+
+00:10:55.807 --> 00:11:00.251
+a classical computer must go through
+every single combination,

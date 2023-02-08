@@ -1,0 +1,39 @@
+WEBVTT
+
+00:08:28.317 --> 00:08:31.411
+Podemos codificar expressões muito ricas
+
+00:08:31.435 --> 00:08:35.547
+que capturam o comportamento de múltiplos
+genes ou proteínas ao longo do tempo
+
+00:08:35.572 --> 00:08:38.238
+através de vários experimentos diferentes.
+
+00:08:38.471 --> 00:08:41.147
+Assim, ao traduzir nossas observações
+
+00:08:41.171 --> 00:08:43.164
+em expressão matemática dessa forma,
+
+00:08:43.188 --> 00:08:48.286
+é possível testar se essas observações
+podem ou não surgir
+
+00:08:48.310 --> 00:08:51.244
+de um programa de interações genéticas.
+
+00:08:52.003 --> 00:08:54.619
+Desenvolvemos uma ferramenta
+para fazer exatamente isso.
+
+00:08:54.643 --> 00:08:57.525
+Conseguimos utilizá-la
+para codificar observações
+
+00:08:57.549 --> 00:08:58.956
+como expressões matemáticas,
+
+00:08:58.980 --> 00:09:02.570
+e essa ferramenta nos permitia
+descobrir o programa genético

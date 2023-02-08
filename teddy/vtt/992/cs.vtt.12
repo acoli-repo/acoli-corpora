@@ -1,0 +1,49 @@
+WEBVTT
+
+00:05:56.696 --> 00:06:00.263
+Něco podobného, co už jste viděli,
+akorát společně s herci.
+
+00:06:00.263 --> 00:06:01.692
+A tehdy jsem si pomyslel:
+
+00:06:01.692 --> 00:06:04.599
+Jak se dá udělat model umělé inteligence --
+
+00:06:04.599 --> 00:06:06.460
+počítačový, výpočetní model --
+
+00:06:06.460 --> 00:06:08.784
+který by modeloval pojmy
+jako je improvizace,
+
+00:06:08.784 --> 00:06:10.941
+převzetí rizika, využití šance
+
+00:06:10.941 --> 00:06:12.508
+nebo dokonce zmýlení se.
+
+00:06:12.508 --> 00:06:15.280
+Možná by to vedlo k vytvoření
+lepších robotických spoluhráčů.
+
+00:06:15.280 --> 00:06:17.908
+Pracoval jsem na těchto modelech
+docela dlouhou dobu
+
+00:06:17.908 --> 00:06:20.257
+a implementoval jsem je mnoha robotům.
+
+00:06:20.257 --> 00:06:22.272
+Tady vidíte hodně raný vzorek,
+
+00:06:22.272 --> 00:06:25.984
+kdy se robot snaží použít
+nabytou umělou inteligenci,
+
+00:06:25.984 --> 00:06:28.742
+aby zopakoval moje pohyby
+tak přesně, jak jen to jde,
+
+00:06:28.742 --> 00:06:30.229
+tak trochu jako při hře.

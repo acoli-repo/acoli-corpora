@@ -1,0 +1,36 @@
+WEBVTT
+
+00:05:57.761 --> 00:06:01.591
+Kiedy obliczysz różnicę,
+wierzchołki minus krawędzie plus ścianki,
+
+00:06:01.615 --> 00:06:02.767
+otrzymujesz dwa.
+
+00:06:02.791 --> 00:06:05.010
+Dwa. To dobra cyfra.
+
+00:06:05.034 --> 00:06:09.282
+Jest też inny sposób,
+wykorzystujący trójkąty.
+
+00:06:09.306 --> 00:06:13.883
+Mamy 12 wierzchołków, 30 krawędzi
+
+00:06:13.907 --> 00:06:18.102
+oraz dwadzieścia ścianek, płytek.
+
+00:06:18.576 --> 00:06:23.167
+Wierzchołki minus krawędzie
+plus ścianki - wciąż wychodzi dwa.
+
+00:06:23.191 --> 00:06:26.038
+W rzeczywistości można tak
+zrobić w dowolny sposób,
+
+00:06:26.062 --> 00:06:29.460
+pokrywając to wszelkimi
+wielokątami i trójkątami,
+
+00:06:29.484 --> 00:06:30.804
+mieszając je.

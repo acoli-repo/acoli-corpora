@@ -1,0 +1,41 @@
+WEBVTT
+
+00:07:58.769 --> 00:08:01.015
+Así que solo necesitábamos 
+encontrar una manera
+
+00:08:01.039 --> 00:08:03.852
+para codificar este nuevo 
+tipo de especificación.
+
+00:08:04.594 --> 00:08:08.248
+Digamos que han estado ocupado 
+en el laboratorio midiendo sus genes
+
+00:08:08.272 --> 00:08:10.708
+y descubrieron que 
+si el Gene A está activo,
+
+00:08:10.732 --> 00:08:14.120
+entonces Gene B o Gene C 
+parece estar activo.
+
+00:08:14.678 --> 00:08:18.260
+Podemos escribir esa observación 
+como una expresión matemática
+
+00:08:18.284 --> 00:08:20.657
+si podemos usar el lenguaje de la lógica:
+
+00:08:21.125 --> 00:08:23.453
+Si A, entonces B o C.
+
+00:08:24.242 --> 00:08:26.696
+Ahora, este es un ejemplo muy simple,
+
+00:08:26.720 --> 00:08:28.463
+Es solo para ilustrar el punto.
+
+00:08:28.487 --> 00:08:31.411
+Podemos codificar expresiones 
+verdaderamente ricas

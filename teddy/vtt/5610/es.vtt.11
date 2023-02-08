@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:27.726 --> 00:05:31.646
+y podemos seguir este patrón en espiral
+todo el camino al centro
+
+00:05:31.646 --> 00:05:36.793
+con un bucle y una variable que
+rastrea qué tan lejos debe volar Hedge.
+
+00:05:36.793 --> 00:05:39.033
+¿Es uno de estos métodos
+mejor que el otro?
+
+00:05:39.033 --> 00:05:41.097
+Realmente depende de lo que valores.
+
+00:05:41.097 --> 00:05:44.527
+La fuerza de la espiral es 
+la simplicidad de encontrar un patrón
+
+00:05:44.527 --> 00:05:47.567
+y reutilizar la misma lógica
+de principio a fin.
+
+00:05:47.567 --> 00:05:49.667
+La ventaja del enfoque
+de máquina de escribir
+
+00:05:49.667 --> 00:05:52.597
+es que es una solución 
+más generalizada que significa que
+
+00:05:52.597 --> 00:05:56.027
+se puede adaptar más sencillamente
+para completar cualquier patrón.
+
+00:05:56.027 --> 00:05:59.298
+Por el bien de Ética,
+cualquiera lo hará bien.
+
+00:05:59.298 --> 00:06:01.128
+Así que, esto es lo que sucede.

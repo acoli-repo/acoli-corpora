@@ -1,0 +1,40 @@
+WEBVTT
+
+00:13:59.000 --> 00:14:02.000
+Ici, en fait, c'est un environnement sans vie
+
+00:14:02.000 --> 00:14:04.000
+où chaque instruction survient
+
+00:14:04.000 --> 00:14:06.000
+à la même fréquence.
+
+00:14:06.000 --> 00:14:09.000
+Et en-dessous, je montre, en fait,
+
+00:14:09.000 --> 00:14:12.000
+le taux de mutation dans l'environnement.
+
+00:14:12.000 --> 00:14:15.000
+Et je commence cela à un taux de mutation qui est si élevé
+
+00:14:15.000 --> 00:14:17.000
+que même si vous lâchiez
+
+00:14:17.000 --> 00:14:19.000
+un programme qui se réplique
+
+00:14:19.000 --> 00:14:21.000
+qui dans d'autres circonstances grandirait tranquillement
+
+00:14:21.000 --> 00:14:23.000
+pour remplir le monde entier,
+
+00:14:23.000 --> 00:14:27.000
+si vous le lâchiez dedans, il mutera jusqu'à la mort immédiatement.
+
+00:14:27.000 --> 00:14:29.000
+Donc il n'y a pas de vie possible
+
+00:14:29.000 --> 00:14:32.000
+à ce taux de mutation.

@@ -1,0 +1,31 @@
+WEBVTT
+
+00:04:56.000 --> 00:05:00.000
+Esta é nas montanhas de Madra, próximo à borda nigeriana com os Camarões, Mokoulek.
+
+00:05:00.000 --> 00:05:03.000
+Eu vi esse diagrama desenhado por um arquiteto francês,
+
+00:05:03.000 --> 00:05:05.000
+e pensei: "Puxa! Mas que fractal bonito!"
+
+00:05:05.000 --> 00:05:11.000
+Então eu tentei reproduzir essa forma-semente, a qual, sob iteração, iria se desdobrar nessa coisa.
+
+00:05:11.000 --> 00:05:13.000
+E terminei com essa estrutura aqui.
+
+00:05:13.000 --> 00:05:17.000
+Vamos ver, primeira iteração, segunda, terceira, quarta.
+
+00:05:17.000 --> 00:05:19.000
+Mas, depois que realizei a simulação,
+
+00:05:19.000 --> 00:05:22.000
+eu me dei conta que a vila toda se espirala ao redor, desse jeito aqui,
+
+00:05:22.000 --> 00:05:28.000
+e aqui essa linha se replica, uma linha auto-replicante que desdobra-se em fractal.
+
+00:05:28.000 --> 00:05:33.000
+Bem, notei que a linha era apenas onde o prédio quadrado na vila estava.

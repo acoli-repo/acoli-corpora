@@ -1,0 +1,28 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:02.000
+Dovevo dormire con una noce di Kola di fianco al mio letto, seppellito nella sabbia,
+
+00:12:02.000 --> 00:12:05.000
+e dare sette monete ai sette lebbrosi, e così via.
+
+00:12:05.000 --> 00:12:09.000
+E finalmente mi rivelò il segreto.
+
+00:12:10.000 --> 00:12:14.000
+Saltò fuori che era un generatore di numeri pseudo-casuale basato sul caos deterministico.
+
+00:12:14.000 --> 00:12:20.000
+Quando hai un simbolo di 4 bit, poi lo metti accanto a un altro,
+
+00:12:20.000 --> 00:12:22.000
+Ecco, pari più dispari dà dispari.
+
+00:12:22.000 --> 00:12:24.000
+Dispari più pari dà dispari.
+
+00:12:24.000 --> 00:12:27.000
+Pari più pari dà pari. Dispari più dispari dà pari.
+
+00:12:27.000 --> 00:12:31.000
+E' un'addizione modulo 2, proprio come nei controlli di parità sul vostro computer.

@@ -1,0 +1,51 @@
+WEBVTT
+
+00:10:26.746 --> 00:10:30.204
+Y, en vez de modelos densos,
+usar unos dispersos, de alta capacidad,
+
+00:10:30.246 --> 00:10:33.204
+los cuales recurran a los bits relevantes,
+según se necesite.
+
+00:10:33.246 --> 00:10:36.662
+Hemos estado desarrollando
+un sistema que permite estos enfoques,
+
+00:10:36.704 --> 00:10:39.246
+y lo hemos llamado “Pathways”.
+
+00:10:39.287 --> 00:10:42.371
+La idea es que,
+este modelo sea capaz de hacer
+
+00:10:42.412 --> 00:10:44.496
+miles de millones de diferentes tareas,
+
+00:10:44.537 --> 00:10:46.787
+y, paulatinamente,
+poder agregar nuevas tareas,
+
+00:10:46.787 --> 00:10:48.912
+y que maneje
+todas las modalidades a la vez,
+
+00:10:48.954 --> 00:10:51.912
+y que, paulatinamente, aprenda
+nuevas tareas según se necesite
+
+00:10:51.954 --> 00:10:54.037
+y recurra a los bits relevantes
+a ese modelo
+
+00:10:54.037 --> 00:10:55.746
+para diferentes ejemplos o tareas.
+
+00:10:55.787 --> 00:10:57.537
+Estamos muy emocionados por eso,
+
+00:10:57.537 --> 00:10:59.579
+creemos que este va a ser un paso adelante
+
+00:10:59.621 --> 00:11:00.954
+al crear sistemas de IA.

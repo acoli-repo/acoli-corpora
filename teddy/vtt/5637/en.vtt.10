@@ -1,0 +1,37 @@
+WEBVTT
+
+00:04:58.767 --> 00:05:01.877
+Instead, here we have a swarm 
+of individuals,
+
+00:05:01.877 --> 00:05:04.647
+each of whom can follow
+basic instructions.
+
+00:05:04.647 --> 00:05:08.377
+That’s unusual in programming, 
+but not unheard of;
+
+00:05:08.377 --> 00:05:12.945
+researchers are currently experimenting
+with swarms of small robots
+
+00:05:12.945 --> 00:05:16.065
+to do things like conduct search
+and rescue missions.
+
+00:05:16.065 --> 00:05:20.624
+The prisoners aren’t robots, but for
+Ethic’s purposes they’ll act like them.
+
+00:05:20.624 --> 00:05:25.654
+And by working together they can
+achieve their goal much more efficiently.
+
+00:05:25.654 --> 00:05:29.818
+Because you have a lot of prisoners, 
+you’ll want them to cover a lot of ground.
+
+00:05:29.818 --> 00:05:35.664
+This matches up well to a maze-mapping
+technique called a depth-first search.

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:28.699 --> 00:05:30.826
+mais on a alors un petit circuit neural.
+
+00:05:31.285 --> 00:05:33.371
+Suffisamment petit
+pour pouvoir l’identifier
+
+00:05:33.371 --> 00:05:36.040
+et l’étudier avec les outils
+à disposition aujourd’hui.
+
+00:05:37.166 --> 00:05:39.001
+C’est ce que je fais.
+
+00:05:39.794 --> 00:05:42.922
+J’ai développé le modèle de
+ce que je crois être le circuit neural
+
+00:05:42.922 --> 00:05:45.466
+du calcul de la trajectoire
+de la libellule.
+
+00:05:46.092 --> 00:05:47.676
+Et voilà le résultat.
+
+00:05:47.718 --> 00:05:49.345
+Dans ce modèle,
+
+00:05:49.387 --> 00:05:54.100
+la libellule fait des transformations
+de coordonnées en une seule étape,
+
+00:05:54.141 --> 00:05:55.768
+une couche de neurones.
+
+00:05:56.394 --> 00:05:59.563
+Voilà un système que nous pouvons
+mettre à l’épreuve et comprendre.

@@ -1,0 +1,26 @@
+WEBVTT
+
+00:04:58.294 --> 00:05:02.965
+Instead, our software rapidly simulates
+
+00:05:02.965 --> 00:05:06.761
+and optimizes a design for performance
+
+00:05:06.761 --> 00:05:08.554
+before we have to build it.
+
+00:05:11.140 --> 00:05:15.603
+Our approach creates
+a continuous design space
+
+00:05:15.644 --> 00:05:20.107
+that interpolates between existing
+fish designs to create new designs.
+
+00:05:21.525 --> 00:05:25.613
+Our optimization then explores
+this continuous design space
+
+00:05:25.654 --> 00:05:30.117
+to come up with new and faster creatures
+we have not seen before.

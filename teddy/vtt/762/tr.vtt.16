@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:00.000
+İşte, bağlı veri.
+
+00:08:00.000 --> 00:08:02.000
+Bu mem öylece yayıldı.
+
+00:08:02.000 --> 00:08:06.000
+Bir süre sonra Berlindeki Freie Üniversitesi'nden
+
+00:08:06.000 --> 00:08:08.000
+ilginç şeyleri dile getiren ilk kişilerden biri olan Chris Bizer,
+
+00:08:08.000 --> 00:08:10.000
+Vikipedi'yi fark etti --
+
+00:08:10.000 --> 00:08:13.000
+Vikipedi'yi bilirsiniz, çevrimiçi ansiklopedi
+
+00:08:13.000 --> 00:08:15.000
+onun içinde birçok ilginç dokümanlar var.
+
+00:08:15.000 --> 00:08:19.000
+Bu dokümanların içinde, ufak kareler var, ufak kutucuklar.
+
+00:08:19.000 --> 00:08:22.000
+Ve bilgi kutucuklarının çoğunda veriler var.
+
+00:08:22.000 --> 00:08:26.000
+Ve O Vikipedi'den bu verileri toplayan bir program yazdı
+
+00:08:26.000 --> 00:08:28.000
+ve onu internette dbpedia adını verdiği
+
+00:08:28.000 --> 00:08:31.000
+bir bağlı veri havuzuna koydu

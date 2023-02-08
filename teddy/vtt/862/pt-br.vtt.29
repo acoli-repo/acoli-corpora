@@ -1,0 +1,40 @@
+WEBVTT
+
+00:14:28.535 --> 00:14:31.417
+baseado no fato desse neurônio de um gafanhoto
+
+00:14:31.417 --> 00:14:33.376
+não ativa potenciais de ação.
+
+00:14:33.376 --> 00:14:35.124
+É uma célula "non-spiking".
+
+00:14:35.124 --> 00:14:37.904
+Então uma célula típica, como os neurônios em nosso cérebro,
+
+00:14:37.904 --> 00:14:40.656
+tem uma região chamada de dendritos que recebem "input",
+
+00:14:40.656 --> 00:14:43.245
+e esse "input" se soma
+
+00:14:43.245 --> 00:14:45.541
+e produz potenciais de ação
+
+00:14:45.541 --> 00:14:47.872
+que correm pelo axônio e então ativam
+
+00:14:47.872 --> 00:14:50.168
+todas as regiões de "output" dos neurônios
+
+00:14:50.168 --> 00:14:53.044
+Mas neurônios non-spiking são na verdade bem complicados
+
+00:14:53.044 --> 00:14:56.156
+porque eles podem ter sinapses "input" ou sinapses "output"
+
+00:14:56.156 --> 00:14:59.819
+todas interligadas, e não há um único potencial de ação
+
+00:14:59.819 --> 00:15:02.945
+que aciona todos os "outputs" ao mesmo tempo.

@@ -1,0 +1,39 @@
+WEBVTT
+
+00:07:59.844 --> 00:08:03.905
+où il n’y a pas de directeur, où nous 
+donnons une règle aux personnes.
+
+00:08:03.905 --> 00:08:05.819
+Nous leur disons : 
+« Nous allons faire exactement la même chose
+
+00:08:05.819 --> 00:08:08.656
+mais cette fois il n’y a pas de directeur. 
+À la place vous devrez
+
+00:08:08.656 --> 00:08:11.863
+ignorer les objets dans une case 
+avec un fond gris foncé. »
+
+00:08:11.863 --> 00:08:14.563
+Vous voyez que c’est exactement la même condition, 
+seulement
+
+00:08:14.563 --> 00:08:17.409
+dans le test sans-directeur ils doivent se rappeler
+
+00:08:17.409 --> 00:08:20.480
+d’appliquer une règle quelque peu arbitraire, alors
+
+00:08:20.480 --> 00:08:22.160
+que dans le test avec-directeur, ils doivent se rappeler
+
+00:08:22.160 --> 00:08:25.701
+de tenir compte du point de vue du directeur
+
+00:08:25.701 --> 00:08:29.998
+pour décider de leur comportement.
+
+00:08:29.998 --> 00:08:32.608
+Je vous montre les pourcentages d’erreurs

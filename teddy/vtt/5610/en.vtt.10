@@ -1,0 +1,32 @@
+WEBVTT
+
+00:04:59.614 --> 00:05:02.054
+If we call the length of the painting n,
+
+00:05:02.054 --> 00:05:04.804
+fly forward n minus 1 spaces.
+
+00:05:04.804 --> 00:05:07.304
+Paint another pixel, and turn right.
+
+00:05:07.304 --> 00:05:10.834
+Now do the whole thing again… and again.
+
+00:05:10.834 --> 00:05:16.029
+Now move forward one less space, 
+turn right, fly forward once,
+
+00:05:16.029 --> 00:05:19.199
+and Hedge will be 
+in the next concentric square
+
+00:05:19.199 --> 00:05:21.984
+and ready to repeat the whole process.
+
+00:05:21.984 --> 00:05:27.726
+Each square is n minus 2 pixels smaller 
+than the last in length and width,
+
+00:05:27.726 --> 00:05:31.646
+and we can follow this spiral pattern 
+all the way to the center

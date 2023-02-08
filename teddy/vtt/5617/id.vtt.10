@@ -1,0 +1,38 @@
+WEBVTT
+
+00:04:56.848 --> 00:05:00.798
+Cara itu bisa berhasil, tapi perlu waktu 
+lama untuk penghalang yang besar.
+
+00:05:00.798 --> 00:05:05.328
+Tiap kali Hedge mengulangi tindakannya
+melihat ke kiri dan melihat ke kanan.
+
+00:05:05.328 --> 00:05:10.280
+Jika ada tumpukan N,
+dia akan melihat semua tumpukannya N kali.
+
+00:05:10.280 --> 00:05:12.260
+Apakah ada cara yang lebih cepat?
+
+00:05:12.260 --> 00:05:15.608
+Ini caranya:
+sebelum melakukan hal lain,
+
+00:05:15.608 --> 00:05:17.468
+Hedge dapat mulai dari kiri,
+
+00:05:17.468 --> 00:05:21.338
+dan terus menghitung dari
+tumpukan tertinggi.
+
+00:05:21.338 --> 00:05:25.098
+Di sini akan menjadi 2, 2 lagi,
+Karena yang pertama lebih tinggi,
+
+00:05:25.098 --> 00:05:27.848
+lalu 4, 4, 4.
+
+00:05:27.848 --> 00:05:30.628
+Dia dapat menemukan
+tumpukan tertinggi paling kanan

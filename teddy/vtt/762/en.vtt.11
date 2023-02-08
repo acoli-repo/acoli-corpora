@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:28.000 --> 00:05:32.000
+that he was still saying, very forcibly, "It's really important to have a lot of data."
+
+00:05:32.000 --> 00:05:34.000
+So I want us now to think about
+
+00:05:34.000 --> 00:05:38.000
+not just two pieces of data being connected, or six like he did,
+
+00:05:38.000 --> 00:05:43.000
+but I want to think about a world where everybody has put data on the web
+
+00:05:43.000 --> 00:05:45.000
+and so virtually everything you can imagine is on the web
+
+00:05:45.000 --> 00:05:47.000
+and then calling that linked data.
+
+00:05:47.000 --> 00:05:49.000
+The technology is linked data, and it's extremely simple.
+
+00:05:49.000 --> 00:05:53.000
+If you want to put something on the web there are three rules:
+
+00:05:53.000 --> 00:05:56.000
+first thing is that those HTTP names --
+
+00:05:56.000 --> 00:05:58.000
+those things that start with "http:" --
+
+00:05:58.000 --> 00:06:02.000
+we're using them not just for documents now,

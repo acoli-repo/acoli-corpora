@@ -1,0 +1,45 @@
+WEBVTT
+
+00:07:59.808 --> 00:08:03.729
+et montrer à l’IA ce à quoi ressemble
+un défaut de fabrication
+
+00:08:03.771 --> 00:08:05.564
+en dessinant des rectangles.
+
+00:08:05.606 --> 00:08:08.025
+Il peut aussi montrer à l’IA
+
+00:08:08.067 --> 00:08:10.486
+ce à quoi ressemble
+une décoloration du tissu
+
+00:08:10.528 --> 00:08:12.029
+en dessinant des rectangles.
+
+00:08:12.530 --> 00:08:13.864
+Ces images,
+
+00:08:13.864 --> 00:08:16.408
+avec les rectangles verts et roses
+
+00:08:16.408 --> 00:08:17.785
+que l’inspecteur a dessinés,
+
+00:08:17.785 --> 00:08:20.371
+sont des données créées par l’inspecteur
+
+00:08:20.412 --> 00:08:23.999
+pour expliquer à l’IA comment trouver
+les défauts et la décoloration.
+
+00:08:24.833 --> 00:08:26.835
+Après que l’IA ait examiné ces données,
+
+00:08:26.835 --> 00:08:29.421
+on remarque qu’elle a vu
+assez d’images de défauts,
+
+00:08:29.421 --> 00:08:31.840
+mais pas assez d’images
+de décoloration.

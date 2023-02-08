@@ -1,0 +1,35 @@
+WEBVTT
+
+00:04:58.957 --> 00:05:00.909
+nó luôn luôn là một khối lập phương như lúc đầu
+
+00:05:00.909 --> 00:05:04.485
+và nó hoạt động rất đơn giản - tạo nếp gấp
+
+00:05:04.485 --> 00:05:08.437
+nếp này tới nếp khác.
+
+00:05:08.437 --> 00:05:10.717
+Vì thế, hãy mang quy trình này vào kiến trúc.
+
+00:05:10.717 --> 00:05:12.317
+Làm thế nào? Với quy mô nào?
+
+00:05:12.317 --> 00:05:14.045
+Tôi đã chọn để thiết kế một cột.
+
+00:05:14.045 --> 00:05:17.421
+Cột là kiến trúc khuôn mẫu.
+
+00:05:17.421 --> 00:05:20.488
+Trong suốt lịch sử, nó đã được sử dụng 
+để thể hiện lý tưởng
+
+00:05:20.488 --> 00:05:25.563
+về vẻ đẹp, về công nghệ.
+
+00:05:25.563 --> 00:05:27.485
+Một thách thức đối với tôi là làm thế nào thể hiện
+
+00:05:27.485 --> 00:05:30.781
+cái thứ tự thuật toán mới này vào trong một cột.

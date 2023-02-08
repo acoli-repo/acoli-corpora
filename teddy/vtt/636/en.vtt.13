@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:28.807 --> 00:06:32.233
+what part of the picture it was actually
+using to identify the fish,
+
+00:06:32.257 --> 00:06:33.615
+here's what it highlighted.
+
+00:06:35.203 --> 00:06:37.392
+Yes, those are human fingers.
+
+00:06:37.416 --> 00:06:39.475
+Why would it be looking for human fingers
+
+00:06:39.499 --> 00:06:41.420
+if it's trying to identify a fish?
+
+00:06:42.126 --> 00:06:45.290
+Well, it turns out that the tench
+is a trophy fish,
+
+00:06:45.314 --> 00:06:49.125
+and so in a lot of pictures
+that the AI had seen of this fish
+
+00:06:49.149 --> 00:06:50.300
+during training,
+
+00:06:50.324 --> 00:06:51.814
+the fish looked like this.
+
+00:06:51.838 --> 00:06:53.473
+(Laughter)
+
+00:06:53.497 --> 00:06:56.827
+And it didn't know that the fingers
+aren't part of the fish.
+
+00:06:58.808 --> 00:07:02.928
+So you see why it is so hard
+to design an AI

@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:27.829 --> 00:05:30.621
+Può trovare le colonne più alte a destra
+
+00:05:30.621 --> 00:05:36.538
+facendo lo stesso da destra a sinistra:
+1, 3, 4, 4, 4.
+
+00:05:36.871 --> 00:05:39.996
+Alla fine, nella sua memoria
+ci sarà una tabella come questa.
+
+00:05:40.704 --> 00:05:43.079
+Ora, Hedge può fare un altro passaggio
+
+00:05:43.079 --> 00:05:47.579
+per calcolare quanta energia
+ci può essere sopra ogni colonna
+
+00:05:47.579 --> 00:05:49.788
+con la stessa formula di prima:
+
+00:05:49.788 --> 00:05:53.788
+prendere il numero memorizzato più piccolo
+tra quelli contati da destra e da sinistra
+
+00:05:53.788 --> 00:05:56.413
+e ad esso sottrarre il valore
+della colonna in esame.
+
+00:05:56.704 --> 00:06:02.288
+Invece di guardare N colonne N volte,
+guarderà N colonne solo 3 volte,

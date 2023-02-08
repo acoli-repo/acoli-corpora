@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:59.000 --> 00:07:02.000
+l'élément lié est nommé
+
+00:07:02.000 --> 00:07:06.000
+avec un nom commençant par http.
+
+00:07:06.000 --> 00:07:08.000
+Et à partir de son nom HTTP je peux accéder à cette ressource.
+
+00:07:08.000 --> 00:07:11.000
+Je peux accéder à cette personne, ensuite je peux accéder à la ville ou elle est née,
+
+00:07:11.000 --> 00:07:14.000
+à sa région, à sa ville,
+
+00:07:14.000 --> 00:07:17.000
+à la population de sa ville,
+
+00:07:17.000 --> 00:07:19.000
+et ainsi de suite... Je peux parcourir toutes ces choses.
+
+00:07:19.000 --> 00:07:21.000
+Et voilà.
+
+00:07:21.000 --> 00:07:23.000
+C'est ça, "Linked Data".
+
+00:07:23.000 --> 00:07:26.000
+Il y a quelques années j'ai écrit un article intitulé Linked Data,
+
+00:07:26.000 --> 00:07:30.000
+et peu de temps après les choses ont commencé à bouger.
+
+00:07:30.000 --> 00:07:34.000
+Nous avons eu de plus en plus de ces boites

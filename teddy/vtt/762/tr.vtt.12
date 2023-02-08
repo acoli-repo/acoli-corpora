@@ -1,0 +1,31 @@
+WEBVTT
+
+00:05:58.000 --> 00:06:02.000
+artık onları sadece dokümanlar için değil,
+
+00:06:02.000 --> 00:06:04.000
+dokümanların ne hakkında olduğu için de kullanacağız.
+
+00:06:04.000 --> 00:06:06.000
+Onları insanlar için ve mekanlar için kullanacağız,
+
+00:06:06.000 --> 00:06:10.000
+ürünler için kullanacağız, etkinlikler için kullanacağız.
+
+00:06:10.000 --> 00:06:14.000
+Tüm kavramsal şeyler, onların artık HTTP ile başlayan isimleri olacak.
+
+00:06:14.000 --> 00:06:19.000
+İkinci kural, eğer ben bu HTTP isimlerinden birini alıp, arayıp
+
+00:06:19.000 --> 00:06:21.000
+ve onunla bağlama şeyini yapıp ve veriyi
+
+00:06:21.000 --> 00:06:23.000
+HTTP protokolünü kullanarak alırsam
+
+00:06:23.000 --> 00:06:26.000
+standart formatta bir veri elde edeceğim
+
+00:06:26.000 --> 00:06:31.000
+ve bu birilerinin bu şey, bu etkinlik hakkında bilmek isteyeceği

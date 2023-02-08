@@ -1,0 +1,38 @@
+WEBVTT
+
+00:04:56.848 --> 00:05:00.798
+Eso funcionará, pero llevará 
+mucho tiempo para una cuenca grande.
+
+00:05:00.798 --> 00:05:05.328
+A cada paso, Hedge repite la acción.
+de mirar a la izquierda y a la derecha.
+
+00:05:05.328 --> 00:05:10.280
+Si hay N pilas,
+mirará todas las N pilas N veces.
+
+00:05:10.280 --> 00:05:12.260
+¿Hay una manera mas rápida?
+
+00:05:12.260 --> 00:05:15.608
+Aquí hay un ahorro de tiempo:
+antes de hacer cualquier otra cosa,
+
+00:05:15.608 --> 00:05:17.468
+Hedge puede comenzar a la izquierda,
+
+00:05:17.468 --> 00:05:21.338
+y mantener una cuenta corriente
+de cuál es la pila más alta.
+
+00:05:21.338 --> 00:05:25.098
+Aquí eso sería 2, 2 otra vez,
+ya que el primero fue más alto,
+
+00:05:25.098 --> 00:05:27.848
+entonces 4, 4, 4.
+
+00:05:27.848 --> 00:05:30.628
+Luego puede encontrar
+las pilas más altas de la derecha

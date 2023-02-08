@@ -1,0 +1,42 @@
+WEBVTT
+
+00:09:57.849 --> 00:10:01.515
+A to znači da je kubit
+nekakva kombinacija i nule i jedinice
+
+00:10:01.539 --> 00:10:03.326
+istovremeno.
+
+00:10:03.350 --> 00:10:05.539
+Ovu pojavu nazivamo „superpozicijom”.
+
+00:10:06.569 --> 00:10:09.274
+A kada imamo dva kubita u superpoziciji,
+
+00:10:09.298 --> 00:10:11.680
+zapravo imamo posla
+sa sve četiri kombinacije
+
+00:10:11.704 --> 00:10:14.214
+nula-nula, nula-jedan,
+jedan-nula i jedan-jedan.
+
+00:10:14.940 --> 00:10:16.286
+Kod tri kubita,
+
+00:10:16.310 --> 00:10:19.551
+na delu imamo superpoziciju
+sa osam kobinacija
+
+00:10:19.575 --> 00:10:20.727
+i tako dalje.
+
+00:10:21.294 --> 00:10:25.244
+Svaki put kada dodamo samo jedan kubit,
+udvostručimo broj kombinacija
+
+00:10:25.268 --> 00:10:28.870
+koje deluju u superpoziciji
+
+00:10:28.894 --> 00:10:30.073
+istovremeno.

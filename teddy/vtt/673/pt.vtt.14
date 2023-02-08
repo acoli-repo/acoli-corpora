@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:58.329 --> 00:07:01.585
+e entender o processamento
+realizado por um sistema vivo,
+
+00:07:01.629 --> 00:07:05.842
+começando com uma pergunta
+extremamente simples:
+
+00:07:05.866 --> 00:07:09.222
+O que é que este sistema tem de fazer?
+
+00:07:10.448 --> 00:07:13.028
+A informática, atualmente,
+tem uma série de estratégias
+
+00:07:13.062 --> 00:07:16.369
+para lidar com o que o "software"
+e o "hardware" têm de fazer.
+
+00:07:16.383 --> 00:07:19.235
+Quando escrevemos um programa
+ou codificamos um "software",
+
+00:07:19.255 --> 00:07:21.491
+queremos que o "software"
+funcione corretamente.
+
+00:07:21.511 --> 00:07:23.221
+Queremos desempenho,
+funcionalidade.
+
+00:07:23.245 --> 00:07:26.078
+Queremos evitar defeitos
+que podem custar caro.
+
+00:07:26.098 --> 00:07:28.160
+Por isso, quando se escreve um programa,
+
+00:07:28.180 --> 00:07:30.523
+é preciso escrever
+um conjunto de especificações.

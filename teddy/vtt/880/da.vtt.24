@@ -1,0 +1,28 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:02.000
+Men jeg måtte sove med en kolanød ved siden af sengen, begravet i sand, -
+
+00:12:02.000 --> 00:12:05.000
+- og give 7 mønter til 7 spedalske og så videre.
+
+00:12:05.000 --> 00:12:09.000
+Og tilsidst afslørede han hvad det handlede om.
+
+00:12:10.000 --> 00:12:14.000
+Og det viser sig at det er en pseudo-tilfældig talgenerator som bruger deterministisk kaos.
+
+00:12:14.000 --> 00:12:20.000
+Du tager et firebit-tal og sætter det ved siden af et andet.
+
+00:12:20.000 --> 00:12:22.000
+Lige plus ulige giver ulige.
+
+00:12:22.000 --> 00:12:24.000
+Ulige plus lige giver ulige.
+
+00:12:24.000 --> 00:12:27.000
+Lige plus lige giver lige. Ulige plus ulige giver lige.
+
+00:12:27.000 --> 00:12:31.000
+Det er addition modulo 2, ligesom paritetskontrollen på din computer.

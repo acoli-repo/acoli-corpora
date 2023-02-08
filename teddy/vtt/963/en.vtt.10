@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:58.957 --> 00:05:00.909
+it's always a cube that I start with,
+
+00:05:00.909 --> 00:05:04.485
+and it's a very simple operation -- it's making a fold,
+
+00:05:04.485 --> 00:05:08.437
+and doing this over and over again.
+
+00:05:08.437 --> 00:05:10.717
+So let's bring this process to architecture.
+
+00:05:10.717 --> 00:05:12.317
+How? And at what scale?
+
+00:05:12.317 --> 00:05:14.045
+I chose to design a column.
+
+00:05:14.045 --> 00:05:17.421
+Columns are architectural archetypes.
+
+00:05:17.421 --> 00:05:20.488
+They've been used throughout history to express ideals
+
+00:05:20.488 --> 00:05:25.563
+about beauty, about technology.
+
+00:05:25.563 --> 00:05:27.485
+A challenge to me was how we could express
+
+00:05:27.485 --> 00:05:30.781
+this new algorithmic order in a column.

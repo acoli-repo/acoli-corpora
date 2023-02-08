@@ -1,0 +1,38 @@
+WEBVTT
+
+00:04:56.848 --> 00:05:00.798
+That will work, but it’ll take a long time
+for a large basin.
+
+00:05:00.798 --> 00:05:05.328
+At every step Hedge repeats the action 
+of looking left and looking right.
+
+00:05:05.328 --> 00:05:10.280
+If there are N stacks, 
+he’ll look at all N stacks N times.
+
+00:05:10.280 --> 00:05:12.260
+Is there a faster way?
+
+00:05:12.260 --> 00:05:15.608
+Here’s one time saver: 
+before doing anything else,
+
+00:05:15.608 --> 00:05:17.468
+Hedge can start on the left,
+
+00:05:17.468 --> 00:05:21.338
+and keep a running tally 
+of what the highest stack is.
+
+00:05:21.338 --> 00:05:25.098
+Here that would be 2, 2 again,
+since the first was higher,
+
+00:05:25.098 --> 00:05:27.848
+then 4, 4, 4.
+
+00:05:27.848 --> 00:05:30.628
+He can then find 
+the highest right-most stacks

@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:00.000
+Quindi, dati linkati.
+
+00:08:00.000 --> 00:08:02.000
+Il meme si è diffuso là fuori.
+
+00:08:02.000 --> 00:08:06.000
+E, abbastanza presto, Chris Bizer alla Freie Universitat di Berlino
+
+00:08:06.000 --> 00:08:08.000
+che è stato uno dei primi a mettere insieme qualcosa d'interessante,
+
+00:08:08.000 --> 00:08:10.000
+ha notato che Wikipedia --
+
+00:08:10.000 --> 00:08:13.000
+sapete, Wikipedia, l'enciclopedia online
+
+00:08:13.000 --> 00:08:15.000
+che contiene un sacco di documenti interessanti.
+
+00:08:15.000 --> 00:08:19.000
+Ebbene, in quei documenti, ci sono delle piccole scatole, dei piccoli riquadri.
+
+00:08:19.000 --> 00:08:22.000
+E nella maggior parte di quei riquadri informativi, ci sono dei dati.
+
+00:08:22.000 --> 00:08:26.000
+Così lui ha scritto un programma che estrapola quei dati da Wikipedia,
+
+00:08:26.000 --> 00:08:28.000
+E li mette in un insieme di dati linkati sul web,
+
+00:08:28.000 --> 00:08:31.000
+che ha chiamato Dbpedia.

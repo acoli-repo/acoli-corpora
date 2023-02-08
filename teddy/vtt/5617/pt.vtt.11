@@ -1,0 +1,39 @@
+WEBVTT
+
+00:05:28.158 --> 00:05:30.838
+Pode depois descobrir
+a mais alta à direita
+
+00:05:30.878 --> 00:05:33.702
+fazendo o mesmo
+da direita para a esquerda:
+
+00:05:33.732 --> 00:05:37.102
+Um, três, quatro, quatro quatro.
+
+00:05:37.132 --> 00:05:40.722
+No fim, terá uma tabela como esta
+na sua memória.
+
+00:05:40.902 --> 00:05:45.471
+Agora, o Hedge poderá dar mais um passo
+para calcular quanta energia
+
+00:05:45.511 --> 00:05:50.211
+será necessária
+usando a mesma equação anterior:
+
+00:05:50.291 --> 00:05:53.838
+verificar os valores das colunas
+mais baixas à esquerda e à direita,
+
+00:05:53.878 --> 00:05:56.818
+e subtrair a altura da coluna atual.
+
+00:05:56.888 --> 00:05:59.701
+Ao invés de verificar
+"n" colunas "n" vezes,
+
+00:05:59.761 --> 00:06:02.533
+irá verificar "n" colunas
+apenas três vezes,

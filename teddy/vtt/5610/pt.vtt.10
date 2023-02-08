@@ -1,0 +1,33 @@
+WEBVTT
+
+00:04:59.744 --> 00:05:02.114
+Se chamarmos n ao comprimento da pintura,
+
+00:05:02.154 --> 00:05:04.804
+avança n menos 1 espaço.
+
+00:05:04.874 --> 00:05:07.304
+Pinta outro pixel, e vira à direita.
+
+00:05:07.304 --> 00:05:10.834
+Agora, faz a mesma coisa
+outra vez... e outra vez.
+
+00:05:10.894 --> 00:05:16.109
+Agora avança um espaço a menos,
+vira à direita, avança um,
+
+00:05:16.169 --> 00:05:19.199
+e o Hedge estará
+no quadrado concêntrico seguinte,
+
+00:05:19.199 --> 00:05:21.984
+pronto a repetir todo o processo.
+
+00:05:22.034 --> 00:05:27.726
+Cada quadrado é mais pequeno 2 pixels
+do que o último, em comprimento e largura,
+
+00:05:27.726 --> 00:05:31.646
+e podemos seguir este padrão em espiral
+até ao centro,

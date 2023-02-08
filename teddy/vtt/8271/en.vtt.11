@@ -1,0 +1,44 @@
+WEBVTT
+
+00:05:29.916 --> 00:05:32.796
+so we could extract and sequence DNA,
+
+00:05:32.796 --> 00:05:35.236
+which allowed us to understand
+which microorganisms,
+
+00:05:35.276 --> 00:05:36.756
+and particularly fungi,
+
+00:05:36.756 --> 00:05:38.596
+live in each of these forests.
+
+00:05:38.636 --> 00:05:41.316
+And then finally, we used statistics
+and machine learning
+
+00:05:41.356 --> 00:05:44.036
+to relate which microorganisms
+live in a forest
+
+00:05:44.076 --> 00:05:46.796
+to a really important
+forest health metric:
+
+00:05:46.796 --> 00:05:48.116
+tree growth rate
+
+00:05:48.116 --> 00:05:50.516
+and carbon-capture rate aboveground.
+
+00:05:50.876 --> 00:05:54.356
+Now, once we controlled for the
+environmental drivers of tree growth --
+
+00:05:54.356 --> 00:05:56.796
+so how warm and wet
+each of these places is,
+
+00:05:56.836 --> 00:06:01.556
+as well as other variables we know
+control background site fertility --

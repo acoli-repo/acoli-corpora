@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:58.547 --> 00:06:00.827
+Have them each run Pathfinder.
+
+00:06:00.827 --> 00:06:02.867
+This is where recursion comes in,
+
+00:06:02.867 --> 00:06:07.961
+and this may happen many times before
+the last instruction triggers, which is:
+
+00:06:07.961 --> 00:06:12.948
+3. If you hear anything over the radio,
+you should radio to your parent
+
+00:06:12.948 --> 00:06:16.577
+whether you got to your spot 
+by going left or right,
+
+00:06:16.577 --> 00:06:19.427
+then repeat everything you just heard.
+
+00:06:19.427 --> 00:06:23.423
+Pathfinder is an example 
+of what programmers call functions,
+
+00:06:23.423 --> 00:06:26.113
+subroutines, or procedures.
+
+00:06:26.113 --> 00:06:29.503
+No matter the terminology, 
+the idea is the same—
+
+00:06:29.503 --> 00:06:34.297
+it’s a set of instructions given a label 
+so that it can be easily reused—

@@ -1,0 +1,47 @@
+WEBVTT
+
+00:07:59.536 --> 00:08:01.667
+Oni su ono što će pokretati robota.
+
+00:08:01.685 --> 00:08:03.965
+Sada možemo uzeti
+ova dva komada, spojiti ih
+
+00:08:03.989 --> 00:08:06.532
+i početi praviti naše sitne, sitne robote.
+
+00:08:06.556 --> 00:08:08.933
+Prvo smo htjeli napraviti
+nešto jako jednostavno.
+
+00:08:08.933 --> 00:08:11.560
+Ovaj robot hoda uokolo
+pod kontrolom korisnika.
+
+00:08:11.574 --> 00:08:14.686
+U sredini je nekoliko solarnih ćelija
+i nekoliko žica spojenih na njih.
+
+00:08:14.710 --> 00:08:15.861
+To je OWIC.
+
+00:08:15.885 --> 00:08:18.381
+Spojeni su na set nogu
+koji ima sloj platine
+
+00:08:18.405 --> 00:08:20.441
+i na ove tvrde ploče koje stavimo na vrh
+
+00:08:20.441 --> 00:08:23.262
+koje govore nogama kako se saviti,
+koji oblik trebaju uzeti.
+
+00:08:23.272 --> 00:08:26.179
+Zamisao je da ispaljivanjem lasera
+u različite solarne ćelije
+
+00:08:26.179 --> 00:08:27.908
+možete birati koju nogu želite pomaknuti
+
+00:08:27.908 --> 00:08:30.628
+i tako pokretati robota da hoda.

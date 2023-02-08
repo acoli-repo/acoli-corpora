@@ -1,0 +1,41 @@
+WEBVTT
+
+00:10:23.619 --> 00:10:30.180
+megduplázódik az egy időben
+többféleképp előforduló kombinációk száma.
+
+00:10:31.056 --> 00:10:33.432
+Tehát minél több qubittel dolgozunk,
+
+00:10:33.640 --> 00:10:35.399
+úgy nő exponenciálisan
+
+00:10:35.733 --> 00:10:38.410
+az egy időben előforduló
+kombinációk mennyisége.
+
+00:10:39.334 --> 00:10:40.918
+Így talán már érezhető,
+
+00:10:41.028 --> 00:10:43.140
+honnan fakad a kvantumszámítás ereje.
+
+00:10:44.965 --> 00:10:46.871
+A modern titkosításban a magánkulcsaink,
+
+00:10:47.402 --> 00:10:50.756
+mint például a már említett
+nagyobb szám két tényezője,
+
+00:10:51.365 --> 00:10:53.725
+csak nullák és egyesek hosszú sorozatai.
+
+00:10:54.497 --> 00:10:55.657
+Hogy megtaláljuk őket,
+
+00:10:55.914 --> 00:10:57.298
+egy klasszikus számítógépnek
+
+00:10:57.932 --> 00:11:01.396
+egymás után sorra kell vennie
+minden egyes kombinációt,

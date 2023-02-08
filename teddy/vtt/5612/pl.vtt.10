@@ -1,0 +1,33 @@
+WEBVTT
+
+00:04:58.964 --> 00:05:02.684
+To podejście jest znacznie szybsze,
+niż rozwiązanie naiwne.
+
+00:05:02.684 --> 00:05:06.104
+Zamiast złożoności typu silnia,
+mamy złożoność liniową.
+
+00:05:06.104 --> 00:05:07.674
+Czasu przybywa
+
+00:05:07.674 --> 00:05:10.384
+proporcjonalnie do liczby bloków,
+którymi dysponujemy.
+
+00:05:10.384 --> 00:05:14.374
+Wystarczy napisać pętlę, dzięki której
+Hedge podejdzie do każdego stosu osobno
+
+00:05:14.374 --> 00:05:18.529
+i zatrzyma się, gdy znajdzie właściwy.
+
+00:05:18.529 --> 00:05:19.918
+Oto, co się dzieje:
+
+00:05:19.918 --> 00:05:23.964
+Hedge jest szybki, ale taka liczba
+stosów zabiera dużo czasu.
+
+00:05:23.964 --> 00:05:25.320
+Za dużo.

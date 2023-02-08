@@ -1,0 +1,45 @@
+WEBVTT
+
+00:07:56.263 --> 00:08:01.090
+it looks like the AI recognized it
+as most likely to be a road sign
+
+00:08:01.114 --> 00:08:03.387
+and therefore, safe to drive underneath.
+
+00:08:04.114 --> 00:08:06.694
+Here's an AI misstep
+from a different field.
+
+00:08:06.718 --> 00:08:10.178
+Amazon recently had to give up
+on a résumé-sorting algorithm
+
+00:08:10.202 --> 00:08:11.422
+that they were working on
+
+00:08:11.446 --> 00:08:15.354
+when they discovered that the algorithm
+had learned to discriminate against women.
+
+00:08:15.378 --> 00:08:18.094
+What happened is they had trained it
+on example résumés
+
+00:08:18.118 --> 00:08:20.360
+of people who they had hired in the past.
+
+00:08:20.384 --> 00:08:24.407
+And from these examples, the AI learned
+to avoid the résumés of people
+
+00:08:24.431 --> 00:08:26.457
+who had gone to women's colleges
+
+00:08:26.481 --> 00:08:29.287
+or who had the word "women"
+somewhere in their resume,
+
+00:08:29.311 --> 00:08:33.887
+as in, "women's soccer team"
+or "Society of Women Engineers."

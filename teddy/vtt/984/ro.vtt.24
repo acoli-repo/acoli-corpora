@@ -1,0 +1,43 @@
+WEBVTT
+
+00:11:59.607 --> 00:12:00.786
+de pe antebraț,
+
+00:12:00.786 --> 00:12:02.974
+sunetele sunt redate de un difuzor subacvatic,
+
+00:12:02.974 --> 00:12:04.384
+dacă un delfin imită fluieratul
+
+00:12:04.384 --> 00:12:06.893
+sau un om scoate acel fluierat, sunetele se propagă
+
+00:12:06.893 --> 00:12:09.469
+și sunt localizate de două hidrofoane.
+
+00:12:09.469 --> 00:12:12.816
+Computerul poate determina cine a cerut jucăria
+
+00:12:12.816 --> 00:12:14.853
+dacă există un cuvânt ce se potrivește.
+
+00:12:14.853 --> 00:12:17.417
+Punctul tare al sistemului constă în 
+recunoașterea sunetului în timp real,
+
+00:12:17.417 --> 00:12:19.334
+astfel încât putem să-i răspundem delfinului
+
+00:12:19.334 --> 00:12:21.461
+rapid și exact.
+
+00:12:21.461 --> 00:12:25.645
+Suntem în stadiul de prototip,
+dar sperăm că va funcționa astfel:
+
+00:12:25.645 --> 00:12:28.923
+Scafandrul A și Scafandrul B au ambii
+câte un computer portabil
+
+00:12:28.923 --> 00:12:31.517
+și delfinul aude fluieratul ca fluierat,

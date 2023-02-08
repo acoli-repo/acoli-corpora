@@ -1,0 +1,34 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:32.000
+Então nos videos que mostrarei a vocês,
+
+00:09:32.000 --> 00:09:36.000
+verão o sistema de atenção visual em um robô
+
+00:09:36.000 --> 00:09:40.000
+que observa o tom de pele quanto a matiz, saturação e luminosidade,
+
+00:09:40.000 --> 00:09:44.000
+e que funciona, portanto, com todas as colorações de pele.
+
+00:09:44.000 --> 00:09:46.000
+Ele procura cores altamente saturadas, de brinquedos.
+
+00:09:46.000 --> 00:09:48.000
+E procura objetos que se movem.
+
+00:09:48.000 --> 00:09:51.000
+Ele pesa todo esse conjunto em uma janela de atenção,
+
+00:09:51.000 --> 00:09:53.000
+e procura o elemento com a maior pontuação,
+
+00:09:53.000 --> 00:09:55.000
+aquele no qual os eventos mais interessantes estão ocorrendo.
+
+00:09:55.000 --> 00:09:59.000
+E é naquela direção que ele irá focar seu olhar.
+
+00:09:59.000 --> 00:10:01.000
+Ele olha pra lá em cheio.

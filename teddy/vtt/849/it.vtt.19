@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:31.000
+occorre un po' più di informatica,
+
+00:09:31.000 --> 00:09:33.000
+quindi abbiamo progettato il sistema in modo che effettui la diagnosi automaticamente.
+
+00:09:33.000 --> 00:09:36.000
+E l'idea è quella di limitarsi ai soli modelli virtuali --
+
+00:09:36.000 --> 00:09:38.000
+dato che non avremo mai i campioni di tutti virus;
+
+00:09:38.000 --> 00:09:41.000
+sarebbe praticamente impossibile. Ma possiamo ottenere modelli virtuali,
+
+00:09:41.000 --> 00:09:43.000
+e confrontarli con i risultati ottenuti,
+
+00:09:43.000 --> 00:09:47.000
+che è una combinazione complessa, e fornisce una specie di punteggio
+
+00:09:47.000 --> 00:09:50.000
+di quanto è probabile che si tratti di rinovirus o altro.
+
+00:09:50.000 --> 00:09:52.000
+Ecco come appare.
+
+00:09:52.000 --> 00:09:54.000
+Se, per esempio, sono state usate delle cellule coltivate
+
+00:09:54.000 --> 00:09:56.000
+infette da papilloma virus in forma cronica,
+
+00:09:56.000 --> 00:09:58.000
+si ottiene qui una piccola lettura computerizzata,
+
+00:09:58.000 --> 00:10:02.000
+e il nostro algoritmo ci dice che probabilmente si tratta di papilloma virus di tipo 18.

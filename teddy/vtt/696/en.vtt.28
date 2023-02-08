@@ -1,0 +1,32 @@
+WEBVTT
+
+00:13:59.126 --> 00:14:02.933
+Here, that's the lifeless environment
+
+00:14:02.957 --> 00:14:06.369
+where each instruction occurs
+at an equal frequency.
+
+00:14:07.304 --> 00:14:12.297
+And below there, I show, in fact,
+the mutation rate in the environment.
+
+00:14:12.321 --> 00:14:15.624
+And I'm starting this
+at a mutation rate that is so high
+
+00:14:15.648 --> 00:14:19.614
+that even if you would drop
+a replicating program
+
+00:14:19.638 --> 00:14:23.763
+that would otherwise happily grow up
+to fill the entire world,
+
+00:14:23.787 --> 00:14:26.797
+if you drop it in, it gets mutated
+to death immediately.
+
+00:14:26.821 --> 00:14:32.167
+So there is no life possible
+at that type of mutation rate.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:57.000 --> 00:08:00.000
+Vänner till slumpmässigt valda människor
+
+00:08:00.000 --> 00:08:02.000
+har högre grad, och är mer centrala,
+
+00:08:02.000 --> 00:08:04.000
+än de slumpmässigt valda människorna själva.
+
+00:08:04.000 --> 00:08:06.000
+Och du kan få en intuitiv förståelse för detta
+
+00:08:06.000 --> 00:08:09.000
+om du bara tänker dig människor vid utkanten av nätverket.
+
+00:08:09.000 --> 00:08:11.000
+Om du väljer denna person,
+
+00:08:11.000 --> 00:08:14.000
+den enda vän som de behöver nominera är denna person,
+
+00:08:14.000 --> 00:08:16.000
+vilken, genom konstruktionen, måste ha minst två,
+
+00:08:16.000 --> 00:08:18.000
+och typiskt fler än det, vänner.
+
+00:08:18.000 --> 00:08:20.000
+Detta inträffar vid varje nod i utkanten.
+
+00:08:20.000 --> 00:08:23.000
+Och faktum är, det inträffar genom hela nätverket när du rör dig inåt,
+
+00:08:23.000 --> 00:08:25.000
+varje du person du väljer, när de nominerar en slumpmässigt..
+
+00:08:25.000 --> 00:08:28.000
+när en slumpmässigt vald person nominerar en vän till dem,
+
+00:08:28.000 --> 00:08:31.000
+rör du dig närmare centret av nätverket.

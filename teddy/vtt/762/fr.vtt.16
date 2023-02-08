@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:00.000
+Linked Data est donc apparu,
+
+00:08:00.000 --> 00:08:02.000
+le concept, le mème a été essaimé.
+
+00:08:02.000 --> 00:08:06.000
+et quelques temps après, Chris Spitzer, de l'Université Libre de Berlin,
+
+00:08:06.000 --> 00:08:08.000
+qui fut l'un des premiers à publier des données interessantes,
+
+00:08:08.000 --> 00:08:10.000
+remarqua que Wikipédia,
+
+00:08:10.000 --> 00:08:13.000
+cette fameuse encyclopédie en ligne,
+
+00:08:13.000 --> 00:08:15.000
+qui contient plein de documents intéressants,
+
+00:08:15.000 --> 00:08:19.000
+possédait parfois des encadrés, des sortes de boites d'information.
+
+00:08:19.000 --> 00:08:22.000
+Et que dans ces boites d'information, il y a des données.
+
+00:08:22.000 --> 00:08:26.000
+Il a écrit un programme pour extraire ces données de wikipedia
+
+00:08:26.000 --> 00:08:28.000
+et les stocker au format Linked Data sur le web.
+
+00:08:28.000 --> 00:08:31.000
+Il a appelé son site DBpedia.

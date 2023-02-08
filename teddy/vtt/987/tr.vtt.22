@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:57.000 --> 00:11:00.000
+ve böylece bu ölçümleri yeterince hassas yaparak
+
+00:11:00.000 --> 00:11:03.000
+iki hastanın sonuçlarını üst üste koyup aralarındaki farka bakabiliriz.
+
+00:11:03.000 --> 00:11:05.000
+Burada Alice'in sonuçları yeşil renkli
+
+00:11:05.000 --> 00:11:07.000
+Bob'unkiler ise kırmızı.
+
+00:11:07.000 --> 00:11:10.000
+Bunları üst üste koyuyoruz. Bu erçek bir veri.
+
+00:11:10.000 --> 00:11:13.000
+Burada görebildiğiniz gibi çoğu üstüste geliyor, sarı renkte.
+
+00:11:13.000 --> 00:11:15.000
+Ama sadece Alice'de olan şeyler ya da
+
+00:11:15.000 --> 00:11:17.000
+sadece Bob'da olan şeyler de var.
+
+00:11:17.000 --> 00:11:20.000
+Ve bu ilaca cevap verelenlerde
+
+00:11:20.000 --> 00:11:23.000
+bunların belirli paternleri olduğunu buluyoruz.
+
+00:11:23.000 --> 00:11:25.000
+Gördüğümüz şu, kanlarında
+
+00:11:25.000 --> 00:11:27.000
+bu ilaca yanıt vermelerine neden olan
+
+00:11:27.000 --> 00:11:29.000
+bir durum mevcut.
+
+00:11:29.000 --> 00:11:31.000
+Bu proteinin hangi protein olduğunu bilmeyebiliriz

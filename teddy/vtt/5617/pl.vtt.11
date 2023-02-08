@@ -1,0 +1,35 @@
+WEBVTT
+
+00:05:28.163 --> 00:05:31.371
+Może potem znaleźć najwyższy
+stos najbardziej po prawej,
+
+00:05:31.371 --> 00:05:36.538
+robiąc to samo, czyli poruszając się
+od prawej do lewej: 1, 3, 4, 4, 4.
+
+00:05:36.954 --> 00:05:40.329
+Na koniec będzie miał
+w pamięci taką tabelkę.
+
+00:05:40.913 --> 00:05:43.704
+Teraz Hedge może podjąć kolejną próbę
+
+00:05:43.746 --> 00:05:48.121
+obliczenia energii znajdującej się
+nad każdym stosem,
+
+00:05:48.121 --> 00:05:50.829
+używając tego samego
+równania, co poprzednio.
+
+00:05:50.829 --> 00:05:54.079
+Weźmie najmniejszą wartość
+z lewej i prawej strony
+
+00:05:54.079 --> 00:05:56.746
+i odejmie wysokość danej wieży.
+
+00:05:56.788 --> 00:06:02.246
+Zamiast patrzeć na N stosów N razy,
+będzie patrzeć na N stosów 3 razy,

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:04:58.121 --> 00:05:00.788
+nhưng sẽ mất thời gian
+đối với một bồn chứa lớn.
+
+00:05:00.788 --> 00:05:05.329
+Với mỗi bước Hedge sẽ lặp lại
+hành động tìm kiếm từ trái qua phải.
+
+00:05:05.329 --> 00:05:06.913
+Nếu với N cột,
+
+00:05:06.913 --> 00:05:10.288
+nó sẽ phải tìm kiếm
+N cột với N khối.
+
+00:05:10.288 --> 00:05:12.246
+Vậy có cách nào nhanh hơn không?
+
+00:05:12.246 --> 00:05:15.621
+Đây sẽ là cách nhanh hơn:
+
+00:05:15.621 --> 00:05:17.454
+trước khi bắt đầu,
+
+00:05:17.454 --> 00:05:18.579
+Hedge sẽ đi từ trái,
+
+00:05:18.579 --> 00:05:21.329
+và tính ra chiều cao lớn nhất
+cho từng cột theo thời gian.
+
+00:05:21.329 --> 00:05:25.079
+Và nó sẽ như này 2, tiếp tục là 2,
+tính từ cột cao nhất ban đầu,
+
+00:05:25.079 --> 00:05:27.829
+rồi tới 4, 4, 4.
+
+00:05:27.829 --> 00:05:30.621
+Nó cũng có thể
+tìm cột cao nhất

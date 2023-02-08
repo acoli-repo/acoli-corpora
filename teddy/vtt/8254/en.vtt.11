@@ -1,0 +1,39 @@
+WEBVTT
+
+00:05:28.699 --> 00:05:30.826
+but this is a small neural circuit.
+
+00:05:31.285 --> 00:05:33.287
+Small enough that we can identify it
+
+00:05:33.329 --> 00:05:35.998
+and study it with the tools
+that are available today.
+
+00:05:37.166 --> 00:05:39.001
+And this is what I'm trying to do.
+
+00:05:39.794 --> 00:05:42.838
+I have built a model of what I believe
+is the neural circuit
+
+00:05:42.880 --> 00:05:45.424
+that calculates how
+the dragonfly should turn.
+
+00:05:46.092 --> 00:05:47.676
+And here is the cool result.
+
+00:05:47.718 --> 00:05:49.345
+In the model,
+
+00:05:49.387 --> 00:05:54.100
+dragonflies do coordinate transformations
+in only one computational step,
+
+00:05:54.141 --> 00:05:55.768
+one layer of neurons.
+
+00:05:56.394 --> 00:05:59.271
+This is something
+we can test and understand.

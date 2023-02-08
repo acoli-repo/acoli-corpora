@@ -1,0 +1,19 @@
+WEBVTT
+
+00:06:29.503 --> 00:06:34.297
+um conjunto de instruções dado um rótulo,
+de modo que cada um pode ser reutilizado,
+
+00:06:34.297 --> 00:06:36.607
+talvez até por ele mesmo.
+
+00:06:36.607 --> 00:06:39.583
+Isso funcionará
+perfeitamente no nosso caso:
+
+00:06:39.583 --> 00:06:44.813
+uma rede inteira de caminhos mapeados
+usando apenas três instruções.
+
+00:06:46.257 --> 00:06:47.697
+Eis o que acontece.

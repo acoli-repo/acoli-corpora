@@ -1,0 +1,28 @@
+WEBVTT
+
+00:04:58.704 --> 00:05:02.496
+Quindi è fantastico - 5 e 4 
+potrebbero essere il codice
+
+00:05:02.746 --> 00:05:05.204
+ma come facciamo a sapere che è l’unica?
+
+00:05:06.538 --> 00:05:09.454
+Supponiamo che il numero di A sia 6 -
+
+00:05:09.454 --> 00:05:13.788
+che quindi sarebbe 1+5, 2+4, o 1+2+3,
+
+00:05:14.038 --> 00:05:17.121
+dando a B 5,8, O 6, rispettivamente.
+
+00:05:17.496 --> 00:05:20.954
+Se B ha 5, saprebbe che A ha 6.
+
+00:05:20.954 --> 00:05:27.496
+E se avesse avuto 8 le possibilità di A 
+sarebbero 2+4 e 1+2+4.
+
+00:05:28.413 --> 00:05:34.871
+Solo 6 è nella lista delle somme possibili
+così B saprebbe di nuovo che A aveva 6.

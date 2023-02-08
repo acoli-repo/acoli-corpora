@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:57.000 --> 00:08:00.000
+Přátelé náhodně vybraného vzorku
+
+00:08:00.000 --> 00:08:02.000
+mají vyšší stupeň a jsou více v centru,
+
+00:08:02.000 --> 00:08:04.000
+než jedinci z náhodného vzorku samotní.
+
+00:08:04.000 --> 00:08:06.000
+Což je zřejmé ve chvíli, kdy si
+
+00:08:06.000 --> 00:08:09.000
+představíte pouze lidi na obvodu dané sítě.
+
+00:08:09.000 --> 00:08:11.000
+Pokud vyberete tuto osobu,
+
+00:08:11.000 --> 00:08:14.000
+ta může jako svého přítele označit pouze tuto osobu,
+
+00:08:14.000 --> 00:08:16.000
+která musí mít, vzhledem ke struktuře, alespoň dva,
+
+00:08:16.000 --> 00:08:18.000
+ale většinou více přátel.
+
+00:08:18.000 --> 00:08:20.000
+K tomu dochází na každém okrajovém uzlu.
+
+00:08:20.000 --> 00:08:23.000
+To se děje v celé sítí, jak se pohybujete směrem ke středu,
+
+00:08:23.000 --> 00:08:25.000
+když náhodně vybraný člověk
+
+00:08:25.000 --> 00:08:28.000
+označí svého přítele,
+
+00:08:28.000 --> 00:08:31.000
+dostanete se blíže ke středu sítě.

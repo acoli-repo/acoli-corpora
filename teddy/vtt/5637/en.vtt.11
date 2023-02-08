@@ -1,0 +1,35 @@
+WEBVTT
+
+00:05:29.818 --> 00:05:35.664
+This matches up well to a maze-mapping
+technique called a depth-first search.
+
+00:05:35.664 --> 00:05:40.605
+It’s called that because it involves going
+as deeply down a path as possible
+
+00:05:40.605 --> 00:05:42.375
+before going back.
+
+00:05:42.375 --> 00:05:44.935
+In other words, if you had 
+a maze like this,
+
+00:05:44.935 --> 00:05:48.465
+you’d want to explore all the way 
+down one of these branches
+
+00:05:48.465 --> 00:05:52.095
+before returning to this intersection
+and trying another.
+
+00:05:52.095 --> 00:05:55.555
+Everyone needs a clear set of instructions
+for what they should do.
+
+00:05:55.555 --> 00:05:59.846
+Like — first, tie down the loose end 
+of your wire by the crystal,
+
+00:05:59.846 --> 00:06:01.816
+so it leads back there.

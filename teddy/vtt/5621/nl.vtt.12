@@ -1,0 +1,38 @@
+WEBVTT
+
+00:05:58.413 --> 00:06:00.829
+Laat hen beiden op Pathfinder werken.
+
+00:06:00.829 --> 00:06:02.871
+Zo komen we terecht bij recursie
+
+00:06:02.871 --> 00:06:07.954
+en dit kan vele keren ontstaan voordat 
+de laatste instructie activeert, zoals:
+
+00:06:07.954 --> 00:06:12.954
+3. Mocht je iets op de radio horen, 
+geef dan aan je ouder door
+
+00:06:12.954 --> 00:06:16.579
+of je via links of rechts 
+bij je plek bent aangekomen,
+
+00:06:16.579 --> 00:06:19.413
+herhaal vervolgens alles 
+wat je zojuist hebt gehoord.
+
+00:06:19.413 --> 00:06:23.413
+Pathfinder is een voorbeeld 
+van wat programmeurs functies,
+
+00:06:23.413 --> 00:06:26.121
+subroutines of procedures noemen.
+
+00:06:26.121 --> 00:06:29.496
+Ongeacht de terminologie 
+komt het op hetzelfde neer --
+
+00:06:29.496 --> 00:06:32.204
+het is een reeks instructies 
+waar een naam op staat

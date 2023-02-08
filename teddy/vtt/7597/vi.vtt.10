@@ -1,0 +1,37 @@
+WEBVTT
+
+00:04:55.541 --> 00:05:00.296
+Khoảnh khắc xảy ra đánh dấu đối tác
+hủy diệt chính xác của nó.
+
+00:05:00.296 --> 00:05:03.466
+Một lần nữa, sự giới thiệu các cặp
+của chúng tôi phản ánh điều này;
+
+00:05:03.466 --> 00:05:07.470
+các cặp nép mình chỉ trì hoãn điều không 
+thể tránh khỏi đối với các khối bên ngoài.
+
+00:05:08.804 --> 00:05:10.931
+Bây giờ chúng ta có thể 
+lập trình thiết bị.
+
+00:05:10.931 --> 00:05:15.144
+Bắt đầu một tổng đang chạy với +1, 
+đại diện cho bạn,
+
+00:05:15.144 --> 00:05:17.563
+và quét xung quanh vòng tròn
+
+00:05:17.563 --> 00:05:19.899
+Đối với mỗi khối vật chất, thêm một,
+
+00:05:19.899 --> 00:05:23.152
+và đối với mỗi khối phản vật chất, 
+trừ đi một.
+
+00:05:23.152 --> 00:05:28.657
+Nếu tất cả 54.364 khối đã được quét
+
+00:05:28.657 --> 00:05:31.577
+mà không bao giờ tổng bằng 0,

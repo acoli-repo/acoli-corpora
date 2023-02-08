@@ -1,0 +1,46 @@
+WEBVTT
+
+00:05:59.143 --> 00:06:02.207
+Hawking porozumiewa się
+przy pomocy komputera,
+
+00:06:02.207 --> 00:06:05.311
+co sprawia, że odgadnięcie końca zdania
+
+00:06:05.311 --> 00:06:08.737
+przychodzi dość łatwo.
+Napisałem algorytm sterujący.
+
+00:06:08.737 --> 00:06:10.697
+Słucha wykładu i bierze amplitudę słowa,
+
+00:06:10.697 --> 00:06:13.384
+na której podstawie
+przesuwa punkt na osi x,
+
+00:06:13.384 --> 00:06:16.017
+a z każdą modulacją zdania
+
+00:06:16.017 --> 00:06:18.171
+przesuwa punkt na osi y.
+
+00:06:18.171 --> 00:06:20.945
+Te linie trendu wskazują,
+że w prawach fizyki
+
+00:06:20.945 --> 00:06:22.815
+jest więcej pytań niż odpowiedzi.
+
+00:06:22.815 --> 00:06:24.848
+Kiedy dochodzimy do końca zdania,
+
+00:06:24.848 --> 00:06:27.183
+umieszczamy w tym miejscu gwiazdę.
+
+00:06:27.183 --> 00:06:29.983
+Istnieje wiele zdań,
+więc mamy wiele gwiazd.
+
+00:06:29.983 --> 00:06:32.339
+Oto wynik po przetworzeniu
+całego dźwięku.

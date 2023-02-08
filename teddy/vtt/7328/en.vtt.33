@@ -1,0 +1,39 @@
+WEBVTT
+
+00:16:28.412 --> 00:16:31.621
+and how do you then use that
+to train a machine-learning model
+
+00:16:31.621 --> 00:16:34.121
+and adapt the data bit of the scene
+
+00:16:34.162 --> 00:16:36.662
+or augment the data with additional data
+
+00:16:36.704 --> 00:16:39.996
+so that it can better reflect
+the values we want the system to have,
+
+00:16:39.996 --> 00:16:42.204
+not the values that it sees in the world?
+
+00:16:42.204 --> 00:16:44.621
+CA: But you work for Google,
+
+00:16:44.662 --> 00:16:46.746
+Google is funding the research.
+
+00:16:47.371 --> 00:16:51.829
+How do we know that the main values
+that this AI will build
+
+00:16:51.871 --> 00:16:53.079
+are for the world,
+
+00:16:53.121 --> 00:16:58.037
+and not, for example, to maximize
+the profitability of an ad model?
+
+00:16:58.037 --> 00:17:01.121
+When you know everything
+there is to know about human attention,

@@ -1,0 +1,44 @@
+WEBVTT
+
+00:05:59.143 --> 00:06:02.207
+In dieser Serie spricht er mit Hilfe eines Computers,
+
+00:06:02.207 --> 00:06:05.311
+was das Identifizieren der Satzenden
+
+00:06:05.311 --> 00:06:08.737
+relativ einfach macht. 
+Also schrieb ich einen Lenkalgorithmus.
+
+00:06:08.737 --> 00:06:10.697
+Er verfolgt den Vortrag
+und dann bewegt er mit Hilfe
+
+00:06:10.697 --> 00:06:13.384
+der Amplitude jedes Wortes einen Punkt auf der x-Achse
+
+00:06:13.384 --> 00:06:16.017
+und nutzt den Tonfall der Sätze,
+
+00:06:16.017 --> 00:06:18.171
+um den Punkt auf der y-Achse 
+hoch und runter zu bewegen.
+
+00:06:18.171 --> 00:06:20.945
+Sie sehen, es gibt mehr Fragen
+
+00:06:20.945 --> 00:06:22.815
+als Antworten bei den Gesetzen der Physik,
+
+00:06:22.815 --> 00:06:24.848
+und wenn wir das Ende eines Satzes erreichen,
+
+00:06:24.848 --> 00:06:27.183
+dann setzen wir dort einen Stern.
+
+00:06:27.183 --> 00:06:29.983
+Da gibt es viele Sätze und deshalb auch viele Sterne,
+
+00:06:29.983 --> 00:06:32.339
+und nachdem wir die ganze Audio-Datei 
+bearbeitet haben, erhalten wir dies.

@@ -1,0 +1,45 @@
+WEBVTT
+
+00:08:58.621 --> 00:09:00.371
+le concept de léopard
+
+00:09:00.412 --> 00:09:02.662
+peut accepter différents types d’entrées,
+
+00:09:02.662 --> 00:09:05.746
+même des entrées non-humaines,
+comme des séquences de génétiques,
+
+00:09:05.746 --> 00:09:08.912
+des nuages de points en 3D,
+ou bien des images, textes et vidéos.
+
+00:09:08.912 --> 00:09:12.537
+Le troisième problème, c’est que
+nos modèles actuels sont denses.
+
+00:09:12.579 --> 00:09:13.746
+Il y a un seul modèle,
+
+00:09:13.746 --> 00:09:16.621
+et la totalité du modèle est activé
+pour toutes les tâches,
+
+00:09:16.621 --> 00:09:18.537
+pour chaque exemplaire qu’on veut faire,
+
+00:09:18.537 --> 00:09:21.454
+peu importe qu’il soit très simple
+ou très compliqué.
+
+00:09:21.496 --> 00:09:24.162
+C’est pas du tout comme ça
+que notre cerveau fonctionne.
+
+00:09:24.204 --> 00:09:27.204
+Différentes parties du cerveau
+sont bonnes à différentes choses,
+
+00:09:27.246 --> 00:09:30.537
+et on est continuellement en train
+de faire appel aux parties

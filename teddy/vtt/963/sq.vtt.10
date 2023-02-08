@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:58.957 --> 00:05:00.909
+është gjithmonë një kub me të cilin unë fillova,
+
+00:05:00.909 --> 00:05:04.485
+dhe është një proçedure shumë e thjeshtë --- është një pjesë e bërë,
+
+00:05:04.485 --> 00:05:08.437
+qe vazhdon e vazhdon përseri.
+
+00:05:08.437 --> 00:05:10.717
+Pra, le ta sjellim këtë proces në arkitekturë.
+
+00:05:10.717 --> 00:05:12.317
+Si? Dhe në cfarë raporti?
+
+00:05:12.317 --> 00:05:14.045
+Unë vendosa të vizatoj një kollonë.
+
+00:05:14.045 --> 00:05:17.421
+Kollonat janë prototipe arkitekturale.
+
+00:05:17.421 --> 00:05:20.488
+Ato janë përdorur në të gjithë historinë për të shprehur modele të përkryera
+
+00:05:20.488 --> 00:05:25.563
+dhe bukuri, rreth teknologjisë
+
+00:05:25.563 --> 00:05:27.485
+Një sfidë për mua ishte se si ne mund të shprehnim
+
+00:05:27.485 --> 00:05:30.781
+këtë vlerë algoritmi në një kollonë.

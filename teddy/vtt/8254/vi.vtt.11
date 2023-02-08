@@ -1,0 +1,39 @@
+WEBVTT
+
+00:05:28.699 --> 00:05:30.826
+nhưng đây là mạch thần kinh nhỏ.
+
+00:05:31.285 --> 00:05:33.287
+Đủ nhỏ để chúng ta có thể nhận diện nó
+
+00:05:33.329 --> 00:05:36.248
+và nghiên cứu bằng những công cụ
+mà chúng ta có hiện nay.
+
+00:05:37.166 --> 00:05:39.335
+Và đây là điều mà tôi đang 
+cố gắng thực hiện.
+
+00:05:39.794 --> 00:05:43.339
+Tôi đã xây dựng mô hình mà tôi tin rằng 
+nó là mạch thần kinh tính toán
+
+00:05:43.381 --> 00:05:45.424
+cách mà loài chuồn chuồn nên đổi hướng.
+
+00:05:46.092 --> 00:05:47.676
+Và đây là kết quả tuyệt vời.
+
+00:05:47.718 --> 00:05:49.345
+Trong mô hình,
+
+00:05:49.387 --> 00:05:54.100
+chuồn chuồn thực hiện biến đổi quỹ đạo
+chỉ trong 1 bước tính toán,
+
+00:05:54.141 --> 00:05:55.768
+một lớp nơ-ron.
+
+00:05:56.394 --> 00:05:59.271
+Đây là thứ chúng ta có thể kiểm tra
+và hiểu được.

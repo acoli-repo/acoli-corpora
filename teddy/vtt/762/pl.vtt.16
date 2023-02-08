@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:00.000
+Czyli powiązane dane.
+
+00:08:00.000 --> 00:08:02.000
+Ujawnił się tu mem.
+
+00:08:02.000 --> 00:08:06.000
+I wkrótce Chris Bizer z Freie Universität w Berlinie,
+
+00:08:06.000 --> 00:08:08.000
+jeden z pierwszych, którzy opublikowali ciekawe rzeczy,
+
+00:08:08.000 --> 00:08:10.000
+zauważył że Wikipedia...
+
+00:08:10.000 --> 00:08:13.000
+Znacie Wikipedię, encyklopedię internetową,
+
+00:08:13.000 --> 00:08:15.000
+zawierającą całą masę interesujących dokumentów.
+
+00:08:15.000 --> 00:08:19.000
+A w tych dokumentach są małe pola, małe ramki.
+
+00:08:19.000 --> 00:08:22.000
+A w większości tych pól informacyjnych są dane.
+
+00:08:22.000 --> 00:08:26.000
+Napisał więc program wydobywający te dane z Wikipedii
+
+00:08:26.000 --> 00:08:28.000
+i wstawiający je do bąbli powiązanych danych
+
+00:08:28.000 --> 00:08:31.000
+znajdującego się w WWW. Nazwał to DBpedia.

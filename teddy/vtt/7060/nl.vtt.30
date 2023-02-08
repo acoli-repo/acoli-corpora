@@ -1,0 +1,48 @@
+WEBVTT
+
+00:14:58.933 --> 00:15:01.193
+Wat er gebeurt in een gelinkte lijst --
+
+00:15:01.217 --> 00:15:04.867
+hier probeer je een bestaand item
+van een lijst af te halen.
+
+00:15:04.891 --> 00:15:08.733
+Het maakt uit of het 
+het eerste item is,
+
+00:15:08.757 --> 00:15:10.756
+of een item in het midden.
+
+00:15:10.780 --> 00:15:12.385
+Want als het het eerste item is,
+
+00:15:12.409 --> 00:15:15.425
+moet je de 'pointer'
+naar het eerste item wijzigen.
+
+00:15:15.449 --> 00:15:16.647
+Als het in het midden is,
+
+00:15:16.671 --> 00:15:19.092
+moet je de 'pointer' 
+van een eerder item wijzigen.
+
+00:15:19.116 --> 00:15:21.140
+Dat zijn twee heel verschillende gevallen.
+
+00:15:21.164 --> 00:15:22.316
+CA: En dat is beter.
+
+00:15:22.340 --> 00:15:23.521
+LT: En dat is beter.
+
+00:15:23.940 --> 00:15:26.263
+Er zit geen if-clausule in.
+
+00:15:26.637 --> 00:15:28.850
+Het maakt niet echt uit --
+
+00:15:28.874 --> 00:15:32.075
+ik wil je niet doen begrijpen
+waarom er geen 'if'-clausule is,

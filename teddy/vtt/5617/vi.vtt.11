@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:27.829 --> 00:05:30.621
+Nó cũng có thể
+tìm cột cao nhất
+
+00:05:30.621 --> 00:05:34.788
+từ phải sang bằng cách
+đi tương tự từ phải sang trái:
+
+00:05:34.788 --> 00:05:36.871
+1, 3, 4, 4, 4.
+
+00:05:36.871 --> 00:05:38.788
+Và cuối cùng
+Hedge sẽ có một bảng
+
+00:05:38.788 --> 00:05:40.704
+trông như thế này
+ở trong bộ nhớ.
+
+00:05:40.704 --> 00:05:45.954
+Giờ đây, Hedge sẽ đi thêm một lần nữa
+để tính ra số năng lượng
+
+00:05:45.954 --> 00:05:49.996
+có thể đổ xuống
+nhờ vào một phương trình:
+
+00:05:49.996 --> 00:05:53.621
+lấy số nhỏ nhất
+của mỗi cột trong bảng,
+
+00:05:53.621 --> 00:05:56.704
+và trừ đi chiều cao của cột hiện tại.
+
+00:05:56.704 --> 00:05:59.496
+Thay vì tìm kiếm
+với N ngăn trên N lần,
+
+00:05:59.496 --> 00:06:02.288
+Hedge chỉ phải tìm
+N ngăn trên 3 lần—

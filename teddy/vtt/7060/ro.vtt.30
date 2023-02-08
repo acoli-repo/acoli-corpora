@@ -1,0 +1,48 @@
+WEBVTT
+
+00:14:58.933 --> 00:15:01.193
+Pentru că într-o listă simplu înlănţuită—
+
+00:15:01.217 --> 00:15:04.867
+aici se urmăreşte să se şteargă
+o intrare dintr-o listă—
+
+00:15:04.891 --> 00:15:08.733
+e o diferenţă
+dacă e prima intrare
+
+00:15:08.757 --> 00:15:10.756
+sau o intrare de la mijloc.
+
+00:15:10.780 --> 00:15:12.385
+Pentru că, dacă e prima intrare,
+
+00:15:12.409 --> 00:15:15.425
+trebuie să muţi pointer-ul
+la primul element.
+
+00:15:15.449 --> 00:15:16.647
+Dar dacă e la mijloc,
+
+00:15:16.671 --> 00:15:19.092
+trebuie schimbat pointer-ul 
+elementului anterior.
+
+00:15:19.116 --> 00:15:21.140
+Sunt două cazuri complet diferite.
+
+00:15:21.164 --> 00:15:22.316
+CA: Şi asta e mai bună.
+
+00:15:22.340 --> 00:15:23.521
+LT: Asta e mai bună.
+
+00:15:23.940 --> 00:15:26.263
+Nu are condiţionala.
+
+00:15:26.637 --> 00:15:28.850
+De fapt, nu contează...
+
+00:15:28.874 --> 00:15:32.075
+Nu vreau să înţelegeţi
+de ce nu are condiţionala,

@@ -1,0 +1,31 @@
+WEBVTT
+
+00:06:00.860 --> 00:06:04.860
+Luego, Hedge puede agregar ese paso
+a su lista de orden de ejecución,
+
+00:06:04.860 --> 00:06:07.310
+eliminar la columna completa de la tabla
+
+00:06:07.310 --> 00:06:10.340
+y así eliminar todas las veces 
+que fue dependencia
+
+00:06:10.340 --> 00:06:12.269
+y luego volver al punto de partida.
+
+00:06:12.990 --> 00:06:16.290
+Ya que no hay referencias circulares 
+en el grafo,
+
+00:06:16.290 --> 00:06:21.544
+cada vez que llegamos a este punto
+habrá al menos un paso sin dependencias.
+
+00:06:21.864 --> 00:06:26.556
+Hedge puede agregar el primero según
+orden alfabético a su lista de orden,
+
+00:06:26.556 --> 00:06:30.527
+sacarlo de la tabla 
+y volver al inicio nuevamente.

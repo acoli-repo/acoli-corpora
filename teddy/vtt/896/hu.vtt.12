@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:59.143 --> 00:06:02.207
+Ebben a sorozatban egy számítógép segítségével beszél,
+
+00:06:02.207 --> 00:06:05.311
+ami valójában a mondatvégek azonosítását
+
+00:06:05.311 --> 00:06:08.737
+viszonylag megkönnyíti. Úgyhogy írtam egy irányító algoritmust.
+
+00:06:08.737 --> 00:06:10.697
+Az előadás alatt minden szó amplitúdóját
+
+00:06:10.697 --> 00:06:13.384
+arra használja fel, hogy elhelyezzen egy pontot az X tengelyen
+
+00:06:13.384 --> 00:06:16.017
+és a mondatok inflexióját pedig arra,
+
+00:06:16.017 --> 00:06:18.171
+hogy ugyanazt a pontot milyen magasan helyezze el az Y tengelyen.
+
+00:06:18.171 --> 00:06:20.945
+És ezekből a trendvonalakból látható, hogy több kérdés létezik,
+
+00:06:20.945 --> 00:06:22.815
+mint válasz, a fizika törvényeivel szemben,
+
+00:06:22.815 --> 00:06:24.848
+és amikor elérünk egy mondat végére,
+
+00:06:24.848 --> 00:06:27.183
+odateszünk egy csillagot az adott helyre.
+
+00:06:27.183 --> 00:06:29.983
+Úgyhogy mivel számos mondat létezik, így sok a csillag is,
+
+00:06:29.983 --> 00:06:32.339
+és az egész hangfelvétel renderelése után, ez az eredmény.

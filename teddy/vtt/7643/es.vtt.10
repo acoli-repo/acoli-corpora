@@ -1,0 +1,37 @@
+WEBVTT
+
+00:04:56.459 --> 00:05:00.004
+y ocasionalmente adquiere otros nuevos
+a través de mutaciones;
+
+00:05:00.046 --> 00:05:02.506
+y finalmente, un medio
+de selección natural.
+
+00:05:03.090 --> 00:05:06.969
+Entonces podemos replicar estos
+tres ingredientes para desarrollar robots
+
+00:05:06.969 --> 00:05:09.805
+usando una combinación
+de hardware y software.
+
+00:05:11.265 --> 00:05:15.561
+La primera tarea es diseñar
+una versión digital del ADN.
+
+00:05:15.603 --> 00:05:21.067
+Ese es un plano digital que describe
+el cerebro del robot, su cuerpo,
+
+00:05:21.108 --> 00:05:24.320
+sus mecanismos sensoriales
+y sus medios de locomoción.
+
+00:05:25.988 --> 00:05:28.783
+Usando un conjunto generado aleatoriamente
+de estos planos,
+
+00:05:28.824 --> 00:05:32.244
+podemos crear una población
+inicial de 10 o más robots

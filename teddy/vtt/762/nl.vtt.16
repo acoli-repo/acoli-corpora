@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:00.000
+Dus, gelinkte data.
+
+00:08:00.000 --> 00:08:02.000
+De meme kwam naar buiten.
+
+00:08:02.000 --> 00:08:06.000
+En al vrij snel merkte Chris Bizer van de Freie Universität in Berlijn,
+
+00:08:06.000 --> 00:08:08.000
+een van de eersten die interessante data aanbracht,
+
+00:08:08.000 --> 00:08:10.000
+dat Wikipedia --
+
+00:08:10.000 --> 00:08:13.000
+je kent Wikipedia, de online encyclopedie
+
+00:08:13.000 --> 00:08:15.000
+met een hele hoop interessante documenten er in.
+
+00:08:15.000 --> 00:08:19.000
+In die documenten staan kleine vierkantjes, kleine vakjes.
+
+00:08:19.000 --> 00:08:22.000
+En in de meeste informatievakjes staan data.
+
+00:08:22.000 --> 00:08:26.000
+Hij schreef een programma om de data uit Wikipedia te filteren,
+
+00:08:26.000 --> 00:08:28.000
+en ze in een blob van gelinkte data op het web
+
+00:08:28.000 --> 00:08:31.000
+te verzamelen, die hij dbpedia noemde.

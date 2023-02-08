@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:59.621 --> 00:11:00.954
+in how we build AI systems.
+
+00:11:00.954 --> 00:11:04.662
+But I also wanted
+to touch on responsible AI.
+
+00:11:04.662 --> 00:11:09.537
+We clearly need to make sure
+that this vision of powerful AI systems
+
+00:11:09.579 --> 00:11:10.746
+benefits everyone.
+
+00:11:11.496 --> 00:11:13.954
+These kinds of models raise
+important new questions
+
+00:11:13.954 --> 00:11:16.412
+about how do we build them with fairness,
+
+00:11:16.454 --> 00:11:19.662
+interpretability, privacy and security,
+
+00:11:19.662 --> 00:11:21.121
+for all users in mind.
+
+00:11:21.621 --> 00:11:23.912
+For example, if we're going
+to train these models
+
+00:11:23.954 --> 00:11:26.079
+on thousands or millions of tasks,
+
+00:11:26.079 --> 00:11:28.954
+we'll need to be able to train them
+on large amounts of data.
+
+00:11:28.996 --> 00:11:32.246
+And we need to make sure that data
+is thoughtfully collected

@@ -1,0 +1,46 @@
+WEBVTT
+
+00:14:58.933 --> 00:15:01.193
+Co się dzieje w liście jednokierunkowej,
+
+00:15:01.217 --> 00:15:04.867
+to próba zmiany elementu listy.
+
+00:15:04.891 --> 00:15:08.733
+Jest różnica, czy zmieni się
+pierwszy element,
+
+00:15:08.757 --> 00:15:10.756
+czy któryś ze środka.
+
+00:15:10.780 --> 00:15:12.385
+Jeśli to pierwszy element,
+
+00:15:12.409 --> 00:15:15.425
+trzeba ustawić na niego wskaźnik.
+
+00:15:15.449 --> 00:15:16.567
+Jeśli któryś ze środka,
+
+00:15:16.567 --> 00:15:19.344
+trzeba zmodyfikować wskaźnik
+w poprzednim elemencie listy.
+
+00:15:19.344 --> 00:15:21.140
+To są dwa różne przypadki.
+
+00:15:21.164 --> 00:15:22.316
+CA: I ten jest lepszy.
+
+00:15:22.340 --> 00:15:23.904
+LT: Tak, ten jest lepszy.
+
+00:15:23.940 --> 00:15:26.263
+Nie ma wyrażenia warunkowego.
+
+00:15:26.637 --> 00:15:28.850
+To nie gra roli,
+
+00:15:28.874 --> 00:15:32.075
+nie chodzi mi o to, żebyście wiedzieli,
+czemu tam go nie ma,

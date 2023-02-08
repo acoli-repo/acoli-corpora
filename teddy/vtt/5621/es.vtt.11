@@ -1,0 +1,36 @@
+WEBVTT
+
+00:05:28.273 --> 00:05:31.765
+debe ser el camino a
+la sala de control desde su ubicación,
+
+00:05:31.765 --> 00:05:34.123
+y si luego agrega el camino que tomó,
+
+00:05:34.123 --> 00:05:37.273
+puede decirle a su matriz cómo llegar.
+
+00:05:37.273 --> 00:05:40.803
+Podemos resumir las instrucciones 
+en una acción llamada Pathfinder
+
+00:05:40.803 --> 00:05:43.773
+que cada versión de Hedge seguirá:
+
+00:05:44.013 --> 00:05:46.734
+1. Si has alcanzado el artefacto,
+
+00:05:46.734 --> 00:05:50.824
+avisa por radio a tu matriz si llegaste 
+yendo a la izquierda o a la derecha.
+
+00:05:50.824 --> 00:05:54.519
+2. Cuando llegues a una intersección, 
+sal del conducto
+
+00:05:54.519 --> 00:05:58.613
+y envía nuevas copias por los caminos 
+de la izquierda y la derecha.
+
+00:05:58.613 --> 00:06:00.870
+Haz que cada uno ejecute el Pathfinder.

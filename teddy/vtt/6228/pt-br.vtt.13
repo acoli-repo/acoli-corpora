@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:29.484 --> 00:06:30.804
+e misturá-los,
+
+00:06:30.828 --> 00:06:34.107
+e vértices menos arestas,
+mais faces, continuará dando dois.
+
+00:06:34.131 --> 00:06:35.742
+Aqui está uma forma diferente.
+
+00:06:36.480 --> 00:06:39.484
+Este é um toro, a superfície de uma rosca,
+
+
+00:06:39.484 --> 00:06:43.530
+tem 16 vértices cobertos
+por estes retângulos,
+
+00:06:43.530 --> 00:06:46.530
+32 arestas, 16 faces,
+
+00:06:46.530 --> 00:06:49.214
+e vértices, menos arestas,
+mais faces dá zero.
+
+00:06:49.238 --> 00:06:50.713
+Sempre dará zero.
+
+00:06:50.737 --> 00:06:55.047
+Toda vez que você cobrir toros
+com quadrados ou triângulos
+
+00:06:55.071 --> 00:06:59.006
+ou qualquer coisa do tipo, vai dar zero.

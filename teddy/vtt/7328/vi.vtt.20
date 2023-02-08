@@ -1,0 +1,50 @@
+WEBVTT
+
+00:09:56.871 --> 00:10:00.662
+để liên tục nhận diện phần nào của mô hình
+cần kích hoạt
+
+00:10:00.662 --> 00:10:02.496
+để có thể thực hiện một tác vụ mới.
+
+00:10:02.496 --> 00:10:06.037
+Lợi ích là chúng ta có thể có
+những mô hình với công suất lớn,
+
+00:10:06.037 --> 00:10:07.287
+nhưng lại rất hiệu quả,
+
+00:10:07.329 --> 00:10:09.912
+vì chúng ta chỉ kích hoạt các phần
+mô hình chúng ta cần
+
+00:10:09.954 --> 00:10:11.162
+cho một tác vụ nhất định.
+
+00:10:11.162 --> 00:10:13.162
+Việc khắc phục được ba điểm này, tôi nghĩ
+
+00:10:13.162 --> 00:10:15.371
+sẽ dẫn đến một hệ thống AI mạnh mẽ hơn:
+
+00:10:15.412 --> 00:10:17.412
+thay vì hàng ngàn mô hình biệt lập,
+
+00:10:17.412 --> 00:10:19.412
+ta dạy một lượng mô hình tổng quát
+
+00:10:19.454 --> 00:10:21.537
+mà có thể làm hàng ngàn, triệu thứ.
+
+00:10:21.579 --> 00:10:23.621
+Thay vì xử lý một dạng dữ liệu,
+
+00:10:23.662 --> 00:10:24.996
+ta xử lý tất cả các dạng,
+
+00:10:24.996 --> 00:10:26.704
+và có thể kết hợp chúng với nhau.
+
+00:10:26.746 --> 00:10:30.204
+Thay cho mô hình dày đặc, ta dùng
+các mô hình công suất lớn, rải rác,

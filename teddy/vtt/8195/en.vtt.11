@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:26.280 --> 00:05:30.159
+But with time and some
+very hacky solutions
+
+00:05:30.201 --> 00:05:32.495
+like data augmentation,
+
+00:05:32.536 --> 00:05:36.290
+where we threw in ants
+and other beetle-like insects
+
+00:05:36.290 --> 00:05:38.793
+to enhance the data set,
+
+00:05:38.834 --> 00:05:41.462
+we ended up getting this,
+
+00:05:41.462 --> 00:05:44.006
+which we've been told
+they look like grilled chicken.
+
+00:05:44.048 --> 00:05:45.800
+(Laughter)
+
+00:05:45.841 --> 00:05:50.638
+But hungry for more,
+we pushed our technique,
+
+00:05:50.679 --> 00:05:54.392
+and eventually they ended up
+looking like this.
+
+00:05:54.975 --> 00:06:00.022
+We use something called 3D style transfer
+to map textures onto them,

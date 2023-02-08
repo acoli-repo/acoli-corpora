@@ -1,0 +1,48 @@
+WEBVTT
+
+00:14:28.162 --> 00:14:30.704
+because you're effectively trying
+to learn everything
+
+00:14:30.746 --> 00:14:33.287
+about the world
+and that problem, from nothing.
+
+00:14:33.287 --> 00:14:34.954
+But if you can build these systems
+
+00:14:34.996 --> 00:14:39.454
+that already are infused with how to do
+thousands and millions of tasks,
+
+00:14:39.496 --> 00:14:43.287
+then you can effectively
+teach them to do a new thing
+
+00:14:43.329 --> 00:14:44.829
+with relatively few examples.
+
+00:14:44.871 --> 00:14:46.954
+So I think that's the real hope,
+
+00:14:46.996 --> 00:14:51.079
+that you could then have a system
+where you just give it five examples
+
+00:14:51.121 --> 00:14:52.662
+of something you care about,
+
+00:14:52.704 --> 00:14:54.621
+and it learns to do that new task.
+
+00:14:54.662 --> 00:14:57.037
+CA: You can do a form
+of self-supervised learning
+
+00:14:57.079 --> 00:14:59.621
+that is based on remarkably
+little seeding.
+
+00:14:59.662 --> 00:15:02.537
+JD: Yeah, as opposed to needing
+10,000 or 100,000 examples

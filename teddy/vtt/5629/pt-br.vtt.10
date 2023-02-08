@@ -1,0 +1,38 @@
+WEBVTT
+
+00:04:59.168 --> 00:05:02.178
+Primeira: como rastrear a informação?
+
+00:05:02.178 --> 00:05:07.209
+Segunda: o que fazer se existirem
+múltiplas informações ao mesmo tempo?
+
+00:05:07.499 --> 00:05:10.539
+Para o primeiro desafio,
+um modo conveniente de armazenamento
+
+00:05:10.539 --> 00:05:12.979
+de informação para uma máquina
+é fazer uma tabela.
+
+00:05:12.989 --> 00:05:16.989
+Nesse caso, pode-se pedir que Hedge
+liste cada passo nos cabeçalhos
+
+00:05:16.989 --> 00:05:19.629
+das linhas e colunas.
+
+00:05:19.739 --> 00:05:22.589
+Então, ele pode percorrer
+uma linha de cada vez.
+
+00:05:22.649 --> 00:05:25.510
+No esquema,
+o que corresponde a "misturar"?
+
+00:05:25.510 --> 00:05:27.860
+"Agitar" e "titular".
+
+00:05:27.860 --> 00:05:31.400
+Então, Hedge deveria marcar
+ambas as colunas.

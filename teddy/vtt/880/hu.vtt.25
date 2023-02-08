@@ -1,0 +1,31 @@
+WEBVTT
+
+00:12:27.000 --> 00:12:31.000
+Ez egy összeadás modulo 2, akárcsak a paritás-ellenőrzés a számítógépünkön.
+
+00:12:31.000 --> 00:12:35.000
+És vesszük az így kapott szimbólumot, és ezt tesszük vissza,
+
+00:12:35.000 --> 00:12:37.000
+és így önmagát generáló szimbólum-sorozatot kapunk.
+
+00:12:37.000 --> 00:12:41.000
+Valóban egyfajta deteminisztikus káoszt használnak ehhez.
+
+00:12:41.000 --> 00:12:43.000
+Nos, ez egy bináris kód,
+
+00:12:43.000 --> 00:12:45.000
+ezt akár meg is valósíthatjuk egy hardverben --
+
+00:12:45.000 --> 00:12:50.000
+ami egy fantasztikus oktatási segédeszköz lehetne egy afrikai mérnöki iskolában.
+
+00:12:50.000 --> 00:12:53.000
+De a legérdekesebb dolog, amit találtam ezzel kapcsolatban, az történelmi vonatkozású volt.
+
+00:12:53.000 --> 00:12:59.000
+A 13. században Santallai Hugó hozta Spanyolországba az iszlám misztikusoktól.
+
+00:12:59.000 --> 00:13:05.000
+És úgy került be az alkimisták közösségébe, mint geomancia:

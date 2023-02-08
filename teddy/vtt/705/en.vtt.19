@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:27.000 --> 00:09:30.000
+going through a nadir between 1933 and 1945,
+
+00:09:30.000 --> 00:09:33.000
+before rebounding afterward.
+
+00:09:33.000 --> 00:09:35.000
+And of course, what we're seeing
+
+00:09:35.000 --> 00:09:38.000
+is the fact Marc Chagall was a Jewish artist
+
+00:09:38.000 --> 00:09:40.000
+in Nazi Germany.
+
+00:09:40.000 --> 00:09:42.000
+Now these signals
+
+00:09:42.000 --> 00:09:44.000
+are actually so strong
+
+00:09:44.000 --> 00:09:47.000
+that we don't need to know that someone was censored.
+
+00:09:47.000 --> 00:09:49.000
+We can actually figure it out
+
+00:09:49.000 --> 00:09:51.000
+using really basic signal processing.
+
+00:09:51.000 --> 00:09:53.000
+Here's a simple way to do it.
+
+00:09:53.000 --> 00:09:55.000
+Well, a reasonable expectation
+
+00:09:55.000 --> 00:09:57.000
+is that somebody's fame in a given period of time
+
+00:09:57.000 --> 00:09:59.000
+should be roughly the average of their fame before
+
+00:09:59.000 --> 00:10:01.000
+and their fame after.

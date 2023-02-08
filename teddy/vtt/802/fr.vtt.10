@@ -1,0 +1,40 @@
+WEBVTT
+
+00:04:58.000 --> 00:05:00.000
+et elles sont un peu similaires aux cellules de localisation.
+
+00:05:00.000 --> 00:05:02.000
+Mais maintenant quand le rat explore son environnement,
+
+00:05:02.000 --> 00:05:04.000
+chaque cellule décharge
+
+00:05:04.000 --> 00:05:07.000
+dans toutes sortes d'endroits différents
+
+00:05:07.000 --> 00:05:09.000
+qui se trouvent partout dans l'environnement
+
+00:05:09.000 --> 00:05:12.000
+sur une grille qui est étonnamment triangulaire.
+
+00:05:14.000 --> 00:05:17.000
+Et si on enregistre de plusieurs cellules de grille --
+
+00:05:17.000 --> 00:05:19.000
+ici en différentes couleurs --
+
+00:05:19.000 --> 00:05:22.000
+chacune a un modèle de décharge qui ressemble à une grille dans l'environnement
+
+00:05:22.000 --> 00:05:25.000
+et le modèle de décharge en forme de grille de chaque cellule est légèrement déplacé
+
+00:05:25.000 --> 00:05:27.000
+en fonction des autres cellules.
+
+00:05:27.000 --> 00:05:29.000
+Alors le rouge décharge sur cette grille
+
+00:05:29.000 --> 00:05:32.000
+et le vert sur celle-ci et le bleu sur celle-ci.

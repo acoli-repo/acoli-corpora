@@ -1,0 +1,50 @@
+WEBVTT
+
+00:07:29.723 --> 00:07:31.120
+In fact, just like the OWICs,
+
+00:07:31.144 --> 00:07:33.480
+we can build them massively
+in parallel as well.
+
+00:07:33.504 --> 00:07:35.931
+So here's a couple thousand
+or so actuators,
+
+00:07:35.955 --> 00:07:38.198
+and all I'm doing is applying a voltage,
+
+00:07:38.222 --> 00:07:39.862
+and they all wave,
+
+00:07:39.886 --> 00:07:43.443
+looking like nothing more than the legs
+of a future robot army.
+
+00:07:43.467 --> 00:07:45.551
+(Laughter)
+
+00:07:46.170 --> 00:07:48.913
+So now we've got the brains
+and we've got the brawn.
+
+00:07:48.937 --> 00:07:51.376
+We've got the smarts and the actuators.
+
+00:07:51.400 --> 00:07:52.733
+The OWICs are the brains.
+
+00:07:52.737 --> 00:07:55.173
+They give us sensors,
+they give us power supplies,
+
+00:07:55.197 --> 00:07:58.052
+and they give us a two-way
+communication system via light.
+
+00:07:58.076 --> 00:07:59.766
+The platinum layers are the muscle.
+
+00:07:59.790 --> 00:08:01.951
+They're what's going
+to move the robot around.

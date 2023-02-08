@@ -1,0 +1,31 @@
+WEBVTT
+
+00:04:56.000 --> 00:05:00.000
+Asta este în munţii Mandara, lângă graniţa Nigeriană din Camerun, Mokoulek.
+
+00:05:00.000 --> 00:05:03.000
+Am văzut diagrama asta desenată de un arhitect francez,
+
+00:05:03.000 --> 00:05:05.000
+şi m-am gândit, „Uau! Ce fractal frumos!”
+
+00:05:05.000 --> 00:05:11.000
+Aşa că am încercat să ajung la o formă iniţială, care, în urma iteraţiei, să se deschidă în chestia asta.
+
+00:05:11.000 --> 00:05:13.000
+Am inventat structura asta.
+
+00:05:13.000 --> 00:05:17.000
+Să vedem, prima iteraţie, a doua, a treia, a patra.
+
+00:05:17.000 --> 00:05:19.000
+Acum, după ce am făcut simularea,
+
+00:05:19.000 --> 00:05:22.000
+mi-am dat seama că întreg satul seamănă cu o spirală, exact aşa,
+
+00:05:22.000 --> 00:05:28.000
+şi iată aici acea linie generatoare -- o linie auto-multiplicantă care se dezvoltă în fractal.
+
+00:05:28.000 --> 00:05:33.000
+Ei bine, am observat că acea linie se află cam pe unde este plasată singura clădire pătrată din sat.

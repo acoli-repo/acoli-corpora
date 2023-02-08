@@ -1,0 +1,32 @@
+WEBVTT
+
+00:14:58.560 --> 00:15:01.021
+Sabe lo que son,
+
+00:15:01.063 --> 00:15:03.857
+y sabe a qué velocidad se mueven.
+
+00:15:03.899 --> 00:15:09.237
+Y la tarea restante es predecir
+
+00:15:09.237 --> 00:15:12.616
+comportamientos extraños,
+
+00:15:12.658 --> 00:15:16.244
+como cuando un peatón camina
+por la calle con un peatón más pequeño,
+
+00:15:16.286 --> 00:15:19.498
+y tal vez ese peatón más pequeño
+podría hacer algo imprevisible,
+
+00:15:19.498 --> 00:15:21.166
+o cosas así.
+
+00:15:21.166 --> 00:15:24.586
+Tienes que incorporar esto 
+para decir que es realmente seguro.
+
+00:15:24.586 --> 00:15:30.467
+EM: Básicamente se necesita 
+tener memoria de tiempo y espacio.

@@ -1,0 +1,36 @@
+WEBVTT
+
+00:05:54.975 --> 00:06:00.022
+We use something called 3D style transfer
+to map textures onto them,
+
+00:06:00.064 --> 00:06:03.734
+and we also trained
+a natural language model
+
+00:06:03.776 --> 00:06:06.320
+to generate scientific-like names
+
+00:06:06.362 --> 00:06:08.280
+and anatomical descriptions.
+
+00:06:09.365 --> 00:06:14.328
+And eventually we even found a network
+architecture that could handle 3D meshes.
+
+00:06:14.370 --> 00:06:16.747
+So they ended up looking like this.
+
+00:06:18.332 --> 00:06:23.170
+And for us, this became a way
+of creating kind of a speculative study --
+
+00:06:23.212 --> 00:06:25.881
+(Applause)
+
+00:06:25.923 --> 00:06:29.552
+A speculative study of creatures
+that never existed,
+
+00:06:29.593 --> 00:06:31.887
+kind of like a speculative biology.

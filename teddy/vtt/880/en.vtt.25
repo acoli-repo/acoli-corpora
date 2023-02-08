@@ -1,0 +1,31 @@
+WEBVTT
+
+00:12:27.000 --> 00:12:31.000
+It's addition modulo 2, just like in the parity bit check on your computer.
+
+00:12:31.000 --> 00:12:35.000
+And then you take this symbol, and you put it back in
+
+00:12:35.000 --> 00:12:37.000
+so it's a self-generating diversity of symbols.
+
+00:12:37.000 --> 00:12:41.000
+They're truly using a kind of deterministic chaos in doing this.
+
+00:12:41.000 --> 00:12:43.000
+Now, because it's a binary code,
+
+00:12:43.000 --> 00:12:45.000
+you can actually implement this in hardware --
+
+00:12:45.000 --> 00:12:50.000
+what a fantastic teaching tool that should be in African engineering schools.
+
+00:12:50.000 --> 00:12:53.000
+And the most interesting thing I found out about it was historical.
+
+00:12:53.000 --> 00:12:59.000
+In the 12th century, Hugo of Santalla brought it from Islamic mystics into Spain.
+
+00:12:59.000 --> 00:13:05.000
+And there it entered into the alchemy community as geomancy:

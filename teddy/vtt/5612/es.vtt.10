@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:58.964 --> 00:05:02.684
+Este enfoque es mucho, mucho más
+rápido que la solución ingenua.
+
+00:05:02.684 --> 00:05:06.104
+En lugar de tiempo factorial,
+se necesita tiempo lineal.
+
+00:05:06.104 --> 00:05:10.344
+El tiempo aumentará de forma proporcional
+al número de bloques que hay.
+
+00:05:10.344 --> 00:05:13.134
+Ahora, escribe un bucle temporal para
+que Hedge se aproxime
+
+00:05:13.134 --> 00:05:14.374
+a las pilas individuales,
+
+00:05:14.374 --> 00:05:18.529
+y pare cuando encuentre una buena,
+y estarás listo para irte.
+
+00:05:18.529 --> 00:05:19.918
+Esto es lo que ocurre:
+
+00:05:19.918 --> 00:05:23.964
+Hedge es rápido, pero hay tantas
+pilas que lleva mucho tiempo.
+
+00:05:23.964 --> 00:05:25.320
+Demasiado.

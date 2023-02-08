@@ -1,0 +1,39 @@
+WEBVTT
+
+00:07:58.769 --> 00:08:00.645
+Dovremmo dunque solo trovare il modo
+
+00:08:00.669 --> 00:08:03.852
+di codificare questo nuovo
+tipo di specifiche.
+
+00:08:04.594 --> 00:08:08.248
+Supponiamo che analizzando
+i geni in laboratorio
+
+00:08:08.272 --> 00:08:10.708
+abbiamo visto che se il Gene A è attivo,
+
+00:08:10.732 --> 00:08:14.120
+sembrano esserlo anche
+il Gene B o il Gene C.
+
+00:08:14.678 --> 00:08:18.260
+Possiamo trascrivere quell'osservazione
+come espressione matematica
+
+00:08:18.284 --> 00:08:20.657
+usando il linguaggio della logica:
+
+00:08:21.125 --> 00:08:23.563
+Se A, allora B o C.
+
+00:08:24.242 --> 00:08:26.696
+È un esempio molto semplice, sì,
+
+00:08:26.720 --> 00:08:28.463
+ma serve ad illustrare il concetto.
+
+00:08:28.487 --> 00:08:31.411
+Possiamo codificare espressioni
+realmente complesse

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:57.000 --> 00:08:00.000
+Les amis de personnes choisies au hasard
+
+00:08:00.000 --> 00:08:02.000
+ont un plus haut degré, et sont plus centraux,
+
+00:08:02.000 --> 00:08:04.000
+que les gens au hasard eux-mêmes.
+
+00:08:04.000 --> 00:08:06.000
+Et vous pouvez vous faire une idée intuitive de cela
+
+00:08:06.000 --> 00:08:09.000
+si vous regardez juste les gens de la périphérie du réseau.
+
+00:08:09.000 --> 00:08:11.000
+Si vous choisissez cette personne,
+
+00:08:11.000 --> 00:08:14.000
+le seul ami qu'ils peuvent nommer est celui-ci,
+
+00:08:14.000 --> 00:08:16.000
+qui, par construction, doit avoir au moins deux,
+
+00:08:16.000 --> 00:08:18.000
+et donc plus d’amis.
+
+00:08:18.000 --> 00:08:20.000
+Et c’est ce qui se passe à chaque nœud périphérique.
+
+00:08:20.000 --> 00:08:23.000
+Et en fait, cela arrive dans tout le réseau à mesure que vous vous déplacez,
+
+00:08:23.000 --> 00:08:25.000
+quiconque vous choisissez, quand ils nomment au hasard ...
+
+00:08:25.000 --> 00:08:28.000
+quand une personne tirée au sort désigne un de ses amis,
+
+00:08:28.000 --> 00:08:31.000
+vous vous rapprochez du centre du réseau.

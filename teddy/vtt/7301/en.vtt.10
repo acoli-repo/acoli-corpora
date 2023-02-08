@@ -1,0 +1,38 @@
+WEBVTT
+
+00:04:56.751 --> 00:05:01.922
+Even though they provide you
+really high-resolution imaging
+
+00:05:01.922 --> 00:05:04.717
+that really gives you continuous coverage,
+
+00:05:04.717 --> 00:05:07.595
+that doesn’t get fatigued, impaired
+
+00:05:07.595 --> 00:05:11.098
+or, you know, drunk or anything like that,
+
+00:05:11.098 --> 00:05:12.183
+at the end of the day,
+
+00:05:12.183 --> 00:05:15.394
+there are still things that they can’t see
+and they can’t measure.
+
+00:05:15.519 --> 00:05:20.941
+So if we want autonomous-driving
+robotaxis soon,
+
+00:05:20.941 --> 00:05:22.943
+we have to supplement cameras.
+
+00:05:23.361 --> 00:05:24.987
+Let me walk through some examples.
+
+00:05:24.987 --> 00:05:28.199
+So radar gives you the direction of travel
+
+00:05:28.199 --> 00:05:33.079
+and measures the agent’s movement
+within centimeters per second.

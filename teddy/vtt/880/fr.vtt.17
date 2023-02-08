@@ -1,0 +1,34 @@
+WEBVTT
+
+00:08:28.000 --> 00:08:31.000
+Dans cette sculpture mangbetu, vous verriez cette géométrie récursive.
+
+00:08:31.000 --> 00:08:36.000
+Dans les croix éthiopiennes, on voit ce merveilleux déploiement de la forme.
+
+00:08:36.000 --> 00:08:40.000
+En Angola, le peuple Tchokwé dessine des lignes dans le sable,
+
+00:08:40.000 --> 00:08:43.000
+et c'est ce que le mathématicien allemand Euler a appelé un graphe ;
+
+00:08:43.000 --> 00:08:45.000
+nous appelons ça un chemin eulérien --
+
+00:08:45.000 --> 00:08:47.000
+il ne faut jamais lever son crayon de la surface
+
+00:08:47.000 --> 00:08:50.000
+et il ne faut pas repasser sur une même ligne.
+
+00:08:50.000 --> 00:08:53.000
+Mais ils le font récursivement, et ils le font avec un système basé sur l'âge,
+
+00:08:53.000 --> 00:08:56.000
+les petits enfants apprennent celui-ci, et les plus grands celui-là,
+
+00:08:56.000 --> 00:08:59.000
+à l'initiation suivante, on apprend ce nouveau dessin.
+
+00:08:59.000 --> 00:09:02.000
+A chaque itération de cet algorithme,

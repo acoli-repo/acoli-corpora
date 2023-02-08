@@ -1,0 +1,33 @@
+WEBVTT
+
+00:14:58.560 --> 00:15:01.021
+It knows what they are,
+
+00:15:01.063 --> 00:15:03.857
+and it knows how fast they are moving.
+
+00:15:03.899 --> 00:15:09.237
+And the remaining task is to predict
+
+00:15:09.237 --> 00:15:12.616
+what the quirky behaviors are
+that, you know,
+
+00:15:12.658 --> 00:15:16.244
+that when a pedestrian is walking
+down the road with a smaller pedestrian,
+
+00:15:16.286 --> 00:15:19.498
+that maybe that smaller pedestrian
+might do something unpredictable
+
+00:15:19.498 --> 00:15:21.166
+or things like that.
+
+00:15:21.208 --> 00:15:24.211
+You have to build into it
+before you can really call it safe.
+
+00:15:24.211 --> 00:15:30.092
+EM: You basically need to have
+memory across time and space.

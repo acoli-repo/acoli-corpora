@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:26.000 --> 00:06:31.000
+Et ce sont des données utiles que quelqu'un aimerait connaitre,
+
+00:06:31.000 --> 00:06:33.000
+à propos de cette chose: si c'est un événement,
+
+00:06:33.000 --> 00:06:35.000
+qui s'y rend ? Si c'est un personne,
+
+00:06:35.000 --> 00:06:37.000
+où est-elle née ? Ce genre de choses.
+
+00:06:37.000 --> 00:06:39.000
+Donc la deuxième règle est qu'on me renvoie des informations importantes.
+
+00:06:39.000 --> 00:06:43.000
+La troisième règle est que quand je récupère ces informations,
+
+00:06:43.000 --> 00:06:46.000
+ce ne sera pas uniquement le poids ou la taille ou le lieu de naissance de cette personne,
+
+00:06:46.000 --> 00:06:48.000
+on me fournira également des relations.
+
+00:06:48.000 --> 00:06:50.000
+Les données sont des relations.
+
+00:06:50.000 --> 00:06:52.000
+C'est ce qui est intéressant, les données sont des relations.
+
+00:06:52.000 --> 00:06:56.000
+Vous avez cette personne née à Berlin, Berlin est en Allemagne.
+
+00:06:56.000 --> 00:06:59.000
+Dès lors qu'il y a une relation,
+
+00:06:59.000 --> 00:07:02.000
+l'élément lié est nommé

@@ -1,0 +1,35 @@
+WEBVTT
+
+00:13:57.463 --> 00:14:00.423
+putem vefirica punând gândacul
+
+00:14:00.423 --> 00:14:03.120
+într-o altă poziție când se află la locul de aprovizionare.
+
+00:14:03.120 --> 00:14:06.414
+Dacă folosește repere, își va găsi casa.
+
+00:14:06.414 --> 00:14:09.829
+Dacă se folosește de integrarea traseului,
+
+00:14:09.829 --> 00:14:13.613
+nu-și va găsi casa. 
+Va ajunge într-un loc greșit,
+
+00:14:13.613 --> 00:14:16.037
+în cazul acesta, gândacul
+
+00:14:16.037 --> 00:14:19.908
+numără pașii sau determină distanța în această direcție.
+
+00:14:19.908 --> 00:14:23.605
+Știe locația casei și știe care-i direcția.
+
+00:14:23.605 --> 00:14:26.733
+Dacă îl muți, va reveni într-un loc greșit.
+
+00:14:26.733 --> 00:14:29.310
+Să vedem ce se întâmplă dacă supunem acest gândac
+
+00:14:29.310 --> 00:14:32.626
+la un astfel de experiment.

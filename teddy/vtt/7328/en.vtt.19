@@ -1,0 +1,47 @@
+WEBVTT
+
+00:09:27.246 --> 00:09:30.537
+and we're continuously calling
+upon the pieces of them
+
+00:09:30.579 --> 00:09:32.746
+that are relevant for the task at hand.
+
+00:09:32.787 --> 00:09:35.121
+For example, nervously watching
+a garbage truck
+
+00:09:35.162 --> 00:09:37.037
+back up towards your car,
+
+00:09:37.037 --> 00:09:39.954
+the part of your brain that thinks
+about Shakespearean sonnets
+
+00:09:39.996 --> 00:09:41.246
+is probably inactive.
+
+00:09:41.246 --> 00:09:42.871
+(Laughter)
+
+00:09:42.912 --> 00:09:44.662
+AI models can work the same way.
+
+00:09:44.662 --> 00:09:45.954
+Instead of a dense model,
+
+00:09:45.954 --> 00:09:48.204
+we can have one
+that is sparsely activated.
+
+00:09:48.204 --> 00:09:52.454
+So for particular different tasks,
+we call upon different parts of the model.
+
+00:09:52.496 --> 00:09:56.871
+During training, the model can also learn
+which parts are good at which things,
+
+00:09:56.871 --> 00:10:00.662
+to continuously identify what parts
+it wants to call upon

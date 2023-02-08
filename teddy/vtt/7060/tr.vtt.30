@@ -1,0 +1,47 @@
+WEBVTT
+
+00:14:58.933 --> 00:15:01.193
+Çünkü tek bağlı listede olan --
+
+00:15:01.217 --> 00:15:04.867
+bu listeden var olan bir veriyi
+silmeyi amaçlıyor --
+
+00:15:04.891 --> 00:15:08.733
+ve verinin birinci olması yada
+
+00:15:08.757 --> 00:15:10.756
+ortada olması arasında fark var.
+
+00:15:10.780 --> 00:15:12.385
+Çünkü eğer ilk veriyse,
+
+00:15:12.409 --> 00:15:15.425
+işaretçiyi ilk veri olarak
+değiştirmeniz gerekir.
+
+00:15:15.449 --> 00:15:16.647
+Eğer ortadaysa,
+
+00:15:16.671 --> 00:15:19.092
+işaretçiyi bir öncekine
+çekmeniz gerekir.
+
+00:15:19.116 --> 00:15:21.140
+Yani bunlar tamamen farklı iki durum.
+
+00:15:21.164 --> 00:15:22.316
+CA: Ve bu daha iyi.
+
+00:15:22.340 --> 00:15:23.521
+LT: Ve bu daha iyi.
+
+00:15:23.940 --> 00:15:26.263
+Ve çokta önemli değil --
+
+00:15:26.637 --> 00:15:28.850
+neden If bloğu olmadığını
+
+
+00:15:28.874 --> 00:15:32.075
+anlamanızı istemiyorum ama bazen

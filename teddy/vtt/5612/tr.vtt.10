@@ -1,0 +1,33 @@
+WEBVTT
+
+00:04:58.964 --> 00:05:02.684
+Bu yaklaşım sade
+çözümden çok daha hızldır.
+
+00:05:02.684 --> 00:05:06.104
+Faktöriyel zaman yerine
+doğrusal zaman alır.
+
+00:05:06.104 --> 00:05:07.674
+Zaman orada blok sayısı ile
+
+00:05:07.674 --> 00:05:10.384
+doğru orantılı olarak artar.
+
+00:05:10.384 --> 00:05:14.374
+Şimdi, yığınlara tek tek yaklaşması
+ve iyi bir tane bulduğunda
+
+00:05:14.374 --> 00:05:18.529
+durması için Hedge'e bir döngü yaz,
+sonrasında yola hazır olacaksın.
+
+00:05:18.529 --> 00:05:19.918
+Olaylar şöyle gelişiyor:
+
+00:05:19.918 --> 00:05:23.964
+Hedge hızlı ama çok fazla
+yığın var ve zaman alıyor.
+
+00:05:23.964 --> 00:05:25.730
+Haddinden fazla zaman alıyor.

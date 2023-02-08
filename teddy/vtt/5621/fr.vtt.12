@@ -1,0 +1,45 @@
+WEBVTT
+
+00:05:58.547 --> 00:06:00.827
+Demandez-leur d'exécuter Pathfinder.
+
+00:06:00.827 --> 00:06:02.867
+C'est là qu'intervient la récursivité,
+
+00:06:02.867 --> 00:06:04.751
+et elle peut se produire plusieurs fois
+
+00:06:04.751 --> 00:06:07.961
+avant le déclenchement
+de la dernière instruction, qui est :
+
+00:06:07.961 --> 00:06:11.948
+3. Si vous entendez quoi que ce soit
+à la radio,
+
+00:06:11.948 --> 00:06:12.948
+vous devez faire un appel radio
+à votre parent
+
+00:06:12.948 --> 00:06:16.577
+que vous arriviez à votre place
+en allant à gauche ou à droite,
+
+00:06:16.577 --> 00:06:19.427
+puis répétez tout
+ce que vous venez d'entendre.
+
+00:06:19.427 --> 00:06:23.423
+Pathfinder est un exemple de ce que
+les programmeurs appellent des fonctions,
+
+00:06:23.423 --> 00:06:26.113
+sous-programmes ou procédures.
+
+00:06:26.113 --> 00:06:29.503
+Quelle que soit la terminologie,
+l'idée est la même...
+
+00:06:29.503 --> 00:06:32.257
+c'est un ensemble d'instructions
+avec une étiquette

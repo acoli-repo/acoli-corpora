@@ -1,0 +1,50 @@
+WEBVTT
+
+00:14:58.933 --> 00:15:01.233
+Debido a que lo que pasa
+en una lista enlazada
+
+00:15:01.233 --> 00:15:04.867
+--esto está tratando de quitar 
+una entrada existente de una lista--
+
+00:15:04.891 --> 00:15:08.733
+y hay una diferencia entre 
+si es la primera entrada
+
+00:15:08.757 --> 00:15:10.756
+o si se trata de una entrada en el centro.
+
+00:15:10.780 --> 00:15:12.385
+Porque si es la primera entrada,
+
+00:15:12.409 --> 00:15:15.409
+uno tiene que cambiar el puntero 
+a la primera entrada.
+
+00:15:15.409 --> 00:15:16.371
+Si está en el medio,
+
+00:15:16.371 --> 00:15:19.112
+uno tiene que cambiar el puntero 
+de una entrada anterior.
+
+00:15:19.116 --> 00:15:21.140
+Son dos casos 
+completamente diferentes.
+
+00:15:21.164 --> 00:15:22.316
+CA: Y ese es mejor.
+
+00:15:22.340 --> 00:15:23.521
+LT: Y este es mejor.
+
+00:15:23.940 --> 00:15:26.263
+No tiene la sentencia "if".
+
+00:15:26.637 --> 00:15:28.850
+Y realmente no importa...
+
+00:15:28.874 --> 00:15:32.075
+No quiero que entiendan 
+por qué no tiene la sentencia "if",

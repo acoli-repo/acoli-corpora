@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:58.957 --> 00:05:00.909
+sempre começo com um cubo,
+
+00:05:00.909 --> 00:05:04.485
+e é uma operação bem simples - é fazer uma dobradura
+
+00:05:04.485 --> 00:05:08.437
+e repetir inúmeras vezes.
+
+00:05:08.437 --> 00:05:10.717
+Então, vamos trazer esse processo para a arquitetura.
+
+00:05:10.717 --> 00:05:12.317
+Como? E em que escala?
+
+00:05:12.317 --> 00:05:14.045
+Escolhi projetar uma coluna.
+
+00:05:14.045 --> 00:05:17.421
+Colunas são arquétipos arquitetônicos.
+
+00:05:17.421 --> 00:05:20.488
+Elas têm sido usadas ao longo da história para expressar ideais
+
+00:05:20.488 --> 00:05:25.563
+de beleza, de tecnologia.
+
+00:05:25.563 --> 00:05:27.485
+Um desafio para mim foi saber como expressar
+
+00:05:27.485 --> 00:05:30.781
+a ordem desse novo algoritmo numa coluna.

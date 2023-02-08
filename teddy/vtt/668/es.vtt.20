@@ -1,0 +1,41 @@
+WEBVTT
+
+00:09:57.849 --> 00:10:02.605
+Y esto corresponde a una combinación
+de ceros y unos a la vez,
+
+00:10:03.350 --> 00:10:05.539
+un fenómeno que
+denominamos "superposición".
+
+00:10:06.569 --> 00:10:09.194
+Cuando tenemos dos cúbits superpuestos,
+
+00:10:09.218 --> 00:10:11.704
+estamos trabajando con todas
+las cuatro combinaciones
+
+00:10:11.754 --> 00:10:14.304
+de cero-cero, cero-uno,
+uno-cero y uno-uno.
+
+00:10:14.940 --> 00:10:16.286
+Con tres cúbits,
+
+00:10:16.310 --> 00:10:19.431
+estaremos trabajando en superposición
+con ocho combinaciones,
+
+00:10:19.575 --> 00:10:20.807
+y así sucesivamente.
+
+00:10:21.294 --> 00:10:25.244
+Cada vez que agregamos un cúbit,
+duplicamos las combinaciones posibles
+
+00:10:25.268 --> 00:10:28.510
+con las que podemos
+trabajar en superposición
+
+00:10:28.894 --> 00:10:30.073
+a la vez.

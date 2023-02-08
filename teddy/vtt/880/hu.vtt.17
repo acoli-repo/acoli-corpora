@@ -1,0 +1,34 @@
+WEBVTT
+
+00:08:28.000 --> 00:08:31.000
+Így például a manghetu szobrokon láthatják ezt a rekurzív geometriát.
+
+00:08:31.000 --> 00:08:36.000
+Az etióp kereszteken láthatjuk a formának ezt a gyünyörű kibontását.
+
+00:08:36.000 --> 00:08:40.000
+Angolában a csokve emberek vonalakat rajzolnak a homokba,
+
+00:08:40.000 --> 00:08:43.000
+az ilyet nevezte a német matematikus, Euler gráfnak;
+
+00:08:43.000 --> 00:08:45.000
+mi úgy hívjuk ezt most, hogy Euler-vonal --
+
+00:08:45.000 --> 00:08:47.000
+úgy rajzoljuk, hogy sosem emeljük fel a tollunkat
+
+00:08:47.000 --> 00:08:50.000
+és egyetlen vonalon sem megyünk át kétszer.
+
+00:08:50.000 --> 00:08:53.000
+De ők ezt rekurzív módon teszik, és életkorok szerinti rendszerben,
+
+00:08:53.000 --> 00:08:56.000
+így a kisgyerekek ezt tanulják meg, a nagyobbak ezt,
+
+00:08:56.000 --> 00:08:59.000
+és a következő beavatáskor pedig megtanulják ezt.
+
+00:08:59.000 --> 00:09:02.000
+És az algortimus minden iterációjával

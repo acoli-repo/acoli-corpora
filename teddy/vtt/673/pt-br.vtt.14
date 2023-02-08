@@ -1,0 +1,45 @@
+WEBVTT
+
+00:06:58.059 --> 00:07:01.545
+O entendimento da computação
+realizada por um sistema vivo
+
+00:07:01.569 --> 00:07:05.352
+começa por uma pergunta
+incrivelmente simples:
+
+00:07:05.842 --> 00:07:09.282
+"O que esse sistema
+realmente precisa fazer?"
+
+00:07:09.838 --> 00:07:12.688
+A ciência da computação
+tem um conjunto de estratégias
+
+00:07:12.712 --> 00:07:16.539
+para lidar com o que o software
+e o hardware estão destinados a fazer.
+
+00:07:16.563 --> 00:07:19.053
+Ao escrever um programa,
+você codifica um software,
+
+00:07:19.077 --> 00:07:21.077
+e quer que ele seja
+executado corretamente.
+
+00:07:21.111 --> 00:07:22.871
+Você quer desempenho, funcionalidade.
+
+00:07:22.895 --> 00:07:24.142
+Quer evitar erros,
+
+00:07:24.166 --> 00:07:25.634
+que podem lhe custar muito.
+
+00:07:26.168 --> 00:07:27.740
+Quando um desenvolvedor programa,
+
+00:07:27.764 --> 00:07:30.244
+ele poderia anotar
+uma série de especificações

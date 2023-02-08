@@ -1,0 +1,40 @@
+WEBVTT
+
+00:10:58.000 --> 00:11:01.000
+però la gent diferent troba motivants altres coses.
+
+00:11:01.000 --> 00:11:04.000
+Això és una simulació
+
+00:11:04.000 --> 00:11:06.000
+que empra gràfics,
+
+00:11:06.000 --> 00:11:08.000
+però n'hi ha que veuen més motivant el fet de veure què poden comprar,
+
+00:11:08.000 --> 00:11:10.000
+no només números.
+
+00:11:10.000 --> 00:11:12.000
+Per tant, he creat un constructor de repartiments
+
+00:11:12.000 --> 00:11:15.000
+on, enlloc de mostrar resultats numèrics,
+
+00:11:15.000 --> 00:11:18.000
+mostro què pots obtenir arrel d'aquests resultats,
+
+00:11:18.000 --> 00:11:20.000
+concretament, apartaments que et puguis permetre
+
+00:11:20.000 --> 00:11:23.000
+si et jubiles amb 3000, 2500,
+
+00:11:23.000 --> 00:11:26.000
+2000 dòlars al mes, etcètera.
+
+00:11:26.000 --> 00:11:28.000
+Com més baixes en l'escala d'apartaments,
+
+00:11:28.000 --> 00:11:31.000
+veus com la cosa va empitjorant per moments.

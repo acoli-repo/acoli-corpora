@@ -1,0 +1,39 @@
+WEBVTT
+
+00:05:59.143 --> 00:06:02.207
+Trong khoá học này ông nói bằng máy tính
+
+00:06:02.207 --> 00:06:06.711
+nên rất dễ nhận ra điểm kết thúc câu.
+
+00:06:07.701 --> 00:06:09.297
+Tôi viết một thuật toán
+
+00:06:09.297 --> 00:06:10.697
+để nhận diện ra
+
+00:06:10.697 --> 00:06:13.974
+biên độ sóng âm của mỗi từ 
+để ghi lại một điểm trên trục x
+
+00:06:14.234 --> 00:06:16.017
+và dùng góc cong âm thanh
+
+00:06:16.017 --> 00:06:18.171
+để ghi lại điểm trên trục y
+
+00:06:19.151 --> 00:06:20.945
+Những đường này cho thấy, nhiều câu hỏi
+
+00:06:20.945 --> 00:06:22.815
+hơn câu trả lời 
+trong khoá lý thuyết vật lý
+
+00:06:22.815 --> 00:06:24.848
+Mỗi khi tới cuối câu, máy chạy thuật toán
+
+00:06:24.848 --> 00:06:27.943
+ghi lại ngôi sao ngay đó.
+
+00:06:27.943 --> 00:06:30.773
+Vậy là, nhiều câu hỏi, nhiều ngôi sao,

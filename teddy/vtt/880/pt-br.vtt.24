@@ -1,0 +1,28 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:02.000
+Mas tive que dormir com uma semente de Cola próximo da minha cama, ser enterrado na areia,
+
+00:12:02.000 --> 00:12:05.000
+e dar sete moedas para os sete leprosos e assim por diante.
+
+00:12:05.000 --> 00:12:09.000
+E finalmente, ele revelou o assunto que interessava.
+
+00:12:10.000 --> 00:12:14.000
+E acontece que se trata de um gerador de números pseudo-randômicos usando caos determinístico.
+
+00:12:14.000 --> 00:12:20.000
+Quando você tem um símbolo de quatro bits, você então põe junto com outro do lado.
+
+00:12:20.000 --> 00:12:22.000
+Então par mais ímpar te dá ímpar.
+
+00:12:22.000 --> 00:12:24.000
+Ímpar mais par te da ímpar.
+
+00:12:24.000 --> 00:12:27.000
+Par mais par te dá par. Ímpar mais ímpar te da par.
+
+00:12:27.000 --> 00:12:31.000
+É uma adição de módulo 2, exatamente como a paridade de bit em seu computador.

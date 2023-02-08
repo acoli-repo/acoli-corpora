@@ -1,0 +1,28 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:02.000
+But I had to sleep with a kola nut next to my bed, buried in sand,
+
+00:12:02.000 --> 00:12:05.000
+and give seven coins to seven lepers and so on.
+
+00:12:05.000 --> 00:12:09.000
+And finally, he revealed the truth of the matter.
+
+00:12:10.000 --> 00:12:14.000
+And it turns out it's a pseudo-random number generator using deterministic chaos.
+
+00:12:14.000 --> 00:12:20.000
+When you have a four-bit symbol, you then put it together with another one sideways.
+
+00:12:20.000 --> 00:12:22.000
+So even plus odd gives you odd.
+
+00:12:22.000 --> 00:12:24.000
+Odd plus even gives you odd.
+
+00:12:24.000 --> 00:12:27.000
+Even plus even gives you even. Odd plus odd gives you even.
+
+00:12:27.000 --> 00:12:31.000
+It's addition modulo 2, just like in the parity bit check on your computer.

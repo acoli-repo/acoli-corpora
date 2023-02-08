@@ -1,0 +1,28 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:02.000
+Musiałem zakopany w piasku spać z orzechem koli obok mojego łóżka,
+
+00:12:02.000 --> 00:12:05.000
+dać siedem monet siedmiu trędowatym itd.
+
+00:12:05.000 --> 00:12:09.000
+Ostatecznie odkrył przede mną prawdę.
+
+00:12:10.000 --> 00:12:14.000
+Okazuje się, że jest to generator liczb pseudolosowych używający deterministycznego chaosu.
+
+00:12:14.000 --> 00:12:20.000
+Mając czterobitowy wyraz, sumuje się go kolumnami z kolejnym.
+
+00:12:20.000 --> 00:12:22.000
+Parzysty i nieparzysty daje nieparzysty.
+
+00:12:22.000 --> 00:12:24.000
+Nieparzysty i parzysty daje nieparzysty.
+
+00:12:24.000 --> 00:12:27.000
+Parzysty plus parzysty daje parzysty. Nieparzysty plus nieparzysty daje parzysty.
+
+00:12:27.000 --> 00:12:31.000
+Jest to dodawanie modulo 2, dokładnie jak przy kontroli parzystości na waszych komputerach.

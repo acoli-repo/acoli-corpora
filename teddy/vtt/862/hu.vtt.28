@@ -1,0 +1,37 @@
+WEBVTT
+
+00:13:57.323 --> 00:14:01.683
+és ez az egyik oka annak, hogy olyan kevés neuronnal olyan sokra képes.
+
+00:14:01.683 --> 00:14:04.470
+És itt egy másik trükk, egy másik módja a multiplexelésnek,
+
+00:14:04.470 --> 00:14:06.126
+multiplexelés a térben,
+
+00:14:06.126 --> 00:14:07.820
+amikor egy neuron különböző részei
+
+00:14:07.820 --> 00:14:09.942
+mást-mást csinálnak ugyanabban az időpontban.
+
+00:14:09.942 --> 00:14:11.775
+Íme két közönséges neuron,
+
+00:14:11.775 --> 00:14:14.060
+az egyik egy gerincesből, a másik egy gerinctelenből,
+
+00:14:14.060 --> 00:14:17.310
+egy emberi piramidális neuron rajza Ramon y Cajaltól,
+
+00:14:17.310 --> 00:14:21.313
+és egy másik, jobbra, egy impulzus nélküli asszociációs neuronról
+
+00:14:21.313 --> 00:14:25.460
+Alan Watson és Malcolm Burrows több évvel ezelőtti munkájából,
+
+00:14:25.460 --> 00:14:28.535
+melyben Malcolm Burrows egy meglehetősen érdekes ötlettel állt elő,
+
+00:14:28.535 --> 00:14:31.417
+ami azon a tényen alapult, hogy ez a sáskában található neuron

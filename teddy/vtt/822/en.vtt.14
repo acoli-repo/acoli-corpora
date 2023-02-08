@@ -1,0 +1,46 @@
+WEBVTT
+
+00:06:59.000 --> 00:07:01.000
+is that mapping human social networks
+
+00:07:01.000 --> 00:07:03.000
+is not always possible.
+
+00:07:03.000 --> 00:07:05.000
+It can be expensive, not feasible,
+
+00:07:05.000 --> 00:07:07.000
+unethical,
+
+00:07:07.000 --> 00:07:10.000
+or, frankly, just not possible to do such a thing.
+
+00:07:10.000 --> 00:07:12.000
+So, how can we figure out
+
+00:07:12.000 --> 00:07:14.000
+who the central people are in a network
+
+00:07:14.000 --> 00:07:17.000
+without actually mapping the network?
+
+00:07:17.000 --> 00:07:19.000
+What we came up with
+
+00:07:19.000 --> 00:07:21.000
+was an idea to exploit an old fact,
+
+00:07:21.000 --> 00:07:23.000
+or a known fact, about social networks,
+
+00:07:23.000 --> 00:07:25.000
+which goes like this:
+
+00:07:25.000 --> 00:07:27.000
+Do you know that your friends
+
+00:07:27.000 --> 00:07:30.000
+have more friends than you do?
+
+00:07:30.000 --> 00:07:33.000
+Your friends have more friends than you do,

@@ -1,0 +1,50 @@
+WEBVTT
+
+00:06:28.288 --> 00:06:30.371
+Sin embargo, a pesar de todos estos logros
+
+00:06:30.371 --> 00:06:32.579
+pienso que seguimos haciendo
+muchas cosas mal,
+
+00:06:32.621 --> 00:06:35.413
+voy a hablar de tres cosas clave
+que estamos haciendo mal,
+
+00:06:35.454 --> 00:06:36.621
+y su solución.
+
+00:06:36.663 --> 00:06:38.746
+Primero, muchas
+redes neuronales actuales
+
+00:06:38.746 --> 00:06:40.996
+están entrenadas para hacer solo una cosa.
+
+00:06:41.038 --> 00:06:44.246
+Se les entrena para una tarea
+en particular, la más importante,
+
+00:06:44.288 --> 00:06:46.204
+y eso es una actividad bastante pesada.
+
+00:06:46.246 --> 00:06:47.913
+Hay que curar varios datos,
+
+00:06:47.913 --> 00:06:50.913
+decidir qué arquitectura de red se usará
+
+00:06:50.954 --> 00:06:52.121
+para este problema,
+
+00:06:52.121 --> 00:06:54.829
+hay que inicializar los pesos
+con valores aleatorios,
+
+00:06:54.871 --> 00:06:57.746
+hacer muchos cálculos
+para ajustar los pesos.
+
+00:06:57.746 --> 00:07:00.496
+Y al final, si se tiene suerte,
+se termina con un modelo

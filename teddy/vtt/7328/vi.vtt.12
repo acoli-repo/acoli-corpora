@@ -1,0 +1,48 @@
+WEBVTT
+
+00:05:58.829 --> 00:06:01.454
+mà có ích cho việc tính toán
+của mạng nơ-ron nhân tạo,
+
+00:06:01.496 --> 00:06:04.163
+cho dù bạn không thể dùng nó
+cho nhiều mục đích khác.
+
+00:06:04.163 --> 00:06:07.454
+Nếu tạo ra được chiếc máy đó, người ta
+sẽ tìm ra ứng dụng tuyệt vời.
+
+00:06:07.496 --> 00:06:09.579
+Đây là bản đầu tiên của chúng tôi,
+TPU v1.
+
+00:06:09.621 --> 00:06:12.163
+TPU nghĩa là Bộ Xử Lý Ten-xơ.
+
+00:06:12.204 --> 00:06:15.246
+Chúng được dùng qua nhiều năm
+cho công cụ tìm kiếm của Google,
+
+00:06:15.246 --> 00:06:16.413
+để dịch thuật,
+
+00:06:16.454 --> 00:06:18.371
+trong các trận đấu DeepMind AlphaGo,
+
+00:06:18.413 --> 00:06:20.996
+nên có thể Lee Sedol và Ke Jie
+không nhận ra,
+
+00:06:21.038 --> 00:06:23.746
+nhưng họ đã đấu với rất nhiều tủ rack
+chứa các thẻ TPU.
+
+00:06:23.788 --> 00:06:26.371
+Chúng tôi đã tạo ra nhiều
+phiên bản kế tiếp cho TPU.
+
+00:06:26.371 --> 00:06:28.246
+mà thậm chí còn tốt hơn và đỉnh hơn.
+
+00:06:28.288 --> 00:06:30.371
+Nhưng bất chấp tất cả các thành công này,

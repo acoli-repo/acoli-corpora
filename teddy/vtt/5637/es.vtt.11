@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:29.818 --> 00:05:33.139
+Esto encaja bien con una técnica
+de mapeo de laberintos
+
+00:05:33.139 --> 00:05:35.431
+llamada "búsqueda en profundidad"
+
+00:05:35.664 --> 00:05:40.605
+Se llama así porque implica recorrer
+un camino lo más profundo posible
+
+00:05:40.605 --> 00:05:42.375
+antes de regresar.
+
+00:05:42.375 --> 00:05:44.935
+En otras palabras, si tuvieras
+un laberinto como este,
+
+00:05:44.935 --> 00:05:48.465
+querrías explorar hasta el final
+una de estas ramas
+
+00:05:48.465 --> 00:05:51.915
+antes de regresar hasta
+esta intersección y probar otra.
+
+00:05:51.935 --> 00:05:54.275
+Todos necesitan una serie de instrucciones
+
+00:05:54.275 --> 00:05:55.555
+sobre lo que deben hacer.
+
+00:05:55.555 --> 00:05:59.846
+Primero, ata el extremo suelto
+de tu cable al cristal,
+
+00:05:59.846 --> 00:06:01.816
+para que te lleve de regreso.

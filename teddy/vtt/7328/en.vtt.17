@@ -1,0 +1,42 @@
+WEBVTT
+
+00:08:29.121 --> 00:08:31.454
+You're continuously using all your senses
+
+00:08:31.454 --> 00:08:34.537
+to learn from, react to,
+
+00:08:34.579 --> 00:08:37.246
+figure out what actions
+you want to take in the world.
+
+00:08:37.287 --> 00:08:38.954
+Makes a lot more sense to do that,
+
+00:08:38.954 --> 00:08:40.954
+and we can build models in the same way.
+
+00:08:40.954 --> 00:08:44.996
+We can build models that take in
+these different modalities of input data,
+
+00:08:45.037 --> 00:08:46.787
+text, images, speech,
+
+00:08:46.829 --> 00:08:48.246
+but then fuse them together,
+
+00:08:48.329 --> 00:08:52.162
+so that regardless of whether the model
+sees the word "leopard,"
+
+00:08:52.204 --> 00:08:56.287
+sees a video of a leopard
+or hears someone say the word "leopard,"
+
+00:08:56.329 --> 00:08:58.579
+the same response
+is triggered inside the model:
+
+00:08:58.621 --> 00:09:00.371
+the concept of a leopard

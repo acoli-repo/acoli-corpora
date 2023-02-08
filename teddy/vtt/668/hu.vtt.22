@@ -1,0 +1,32 @@
+WEBVTT
+
+00:10:57.932 --> 00:11:01.396
+egymás után sorra kell vennie
+minden egyes kombinációt,
+
+00:11:01.456 --> 00:11:04.746
+mire megtalálja azt az egy sorozatot,
+mely feloldja a titkosításunkat.
+
+00:11:06.267 --> 00:11:07.818
+Egy kvantumszámítógép,
+
+00:11:08.682 --> 00:11:12.065
+ha abban elég qubit kerül szuperpozícióba,
+
+00:11:12.985 --> 00:11:17.224
+egy időben képes kiszűrni az információt
+minden egyes kombinációból.
+
+00:11:18.916 --> 00:11:20.533
+Csak egy pár lépésre van szüksége,
+
+00:11:20.543 --> 00:11:23.161
+hogy elvethesse a helytelen kombinációkat,
+
+00:11:24.096 --> 00:11:25.779
+kiválassza a helyes megoldókulcsot,
+
+00:11:25.793 --> 00:11:27.926
+majd hozzáférjen
+féltve őrzött titkainkhoz.

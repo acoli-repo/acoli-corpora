@@ -1,0 +1,37 @@
+WEBVTT
+
+00:04:59.621 --> 00:05:02.121
+Se chiamiamo la lunghezza del dipinto n,
+
+00:05:02.163 --> 00:05:04.829
+andiamo in avanti di n-1,
+
+00:05:04.829 --> 00:05:07.163
+coloriamo un altro pixel
+e giriamo a destra.
+
+00:05:07.371 --> 00:05:10.496
+Ora ripetiamo lo schema di nuovo,
+e poi di nuovo ancora.
+
+00:05:10.871 --> 00:05:16.163
+Ora avanziamo di un altro spazio in meno,
+giriamo a destra, andiamo in avanti di uno
+
+00:05:16.204 --> 00:05:19.246
+e Hedge si troverà
+nel quadrato concentrico successivo,
+
+00:05:19.288 --> 00:05:21.621
+pronto a ripetere l'intero processo.
+
+00:05:22.121 --> 00:05:26.204
+Ogni quadrato è più piccolo di n-2 pixel
+rispetto all’ultimo
+
+00:05:26.246 --> 00:05:27.829
+in lunghezza e in larghezza.
+
+00:05:27.871 --> 00:05:31.704
+E possiamo seguire
+questo schema a spirale fino al centro

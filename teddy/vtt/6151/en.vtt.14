@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:57.942 --> 00:07:01.900
+and the other had
+the biggest peak I've ever seen,
+
+00:07:02.496 --> 00:07:04.814
+and I thought, "What's going on?
+
+00:07:04.838 --> 00:07:08.298
+We've stressed people out at MIT
+every way imaginable.
+
+00:07:08.933 --> 00:07:10.671
+I've never seen a peak this big."
+
+00:07:12.409 --> 00:07:14.378
+And it was only on one side.
+
+00:07:14.402 --> 00:07:17.546
+How can you be stressed on one side
+of your body and not the other?
+
+00:07:17.570 --> 00:07:20.440
+So I thought one or both sensors
+must be broken.
+
+00:07:21.185 --> 00:07:23.102
+Now, I'm an electroengineer by training,
+
+00:07:23.126 --> 00:07:25.795
+so I started a whole bunch of stuff
+to try to debug this,
+
+00:07:25.819 --> 00:07:28.318
+and long story short,
+I could not reproduce this.
+
+00:07:28.962 --> 00:07:31.995
+So I resorted to old-fashioned debugging.

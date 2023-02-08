@@ -1,0 +1,37 @@
+WEBVTT
+
+00:15:29.829 --> 00:15:31.829
+We still have a lot of hard
+engineering work to do,
+
+00:15:31.829 --> 00:15:34.079
+but I'm pretty confident we're
+going to be able to.
+
+00:15:34.329 --> 00:15:37.454
+And now the questions are like,
+what should we build?
+
+00:15:38.454 --> 00:15:41.621
+And how and why and what
+data should we train on
+
+00:15:41.871 --> 00:15:45.912
+and how do we build systems not just that
+can do these like phenomenally impressive
+
+00:15:45.912 --> 00:15:48.954
+things, but that we can ensure
+do the things that we want
+
+00:15:49.204 --> 00:15:54.162
+and that understand the concepts of
+truth and falsehood and, you know,
+
+00:15:54.371 --> 00:15:57.996
+alignment with human values and
+misalignment with human values.
+
+00:15:59.329 --> 00:16:02.746
+One of the pieces of research that
+we put out last year that

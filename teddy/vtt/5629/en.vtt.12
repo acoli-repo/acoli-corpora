@@ -1,0 +1,35 @@
+WEBVTT
+
+00:05:56.795 --> 00:06:00.860
+though other selection methods 
+can work just as well.
+
+00:06:00.860 --> 00:06:04.860
+Next, Hedge can add that step 
+to his running-order list,
+
+00:06:04.860 --> 00:06:07.310
+delete its entire column from the table—
+
+00:06:07.310 --> 00:06:10.340
+thus removing all the times 
+it was a dependency––
+
+00:06:10.340 --> 00:06:12.990
+and loop back to the start.
+
+00:06:12.990 --> 00:06:16.290
+Because there are no circular 
+references in the graph,
+
+00:06:16.290 --> 00:06:21.864
+each time we get here there’ll be at least
+one step with no remaining dependencies.
+
+00:06:21.864 --> 00:06:26.556
+Hedge can add the alphabetically earliest 
+to his running-order list,
+
+00:06:26.556 --> 00:06:31.221
+remove it from the table, 
+and loop back to the start again.

@@ -1,0 +1,57 @@
+WEBVTT
+
+00:24:58.869 --> 00:25:00.250
+CM: It's a known problem.
+
+00:25:00.274 --> 00:25:02.615
+It's sometimes referred to
+as a broken leg problem
+
+00:25:02.639 --> 00:25:05.361
+where you're trying to forecast
+who's going to win a race,
+
+00:25:05.385 --> 00:25:08.156
+and the model doesn't know
+that one of the guys is injured.
+
+00:25:08.180 --> 00:25:09.358
+There is information,
+
+00:25:09.382 --> 00:25:12.041
+when it's sufficiently diagnostic
+and outside the model,
+
+00:25:12.065 --> 00:25:14.067
+then by all means, override the model.
+
+00:25:14.091 --> 00:25:15.279
+You know, it ranges,
+
+00:25:15.303 --> 00:25:17.622
+but it's something
+like 40 percent of the time,
+
+00:25:17.646 --> 00:25:19.817
+the model does better.
+
+00:25:19.841 --> 00:25:21.964
+Ten percent of the time
+clinical does better,
+
+00:25:21.988 --> 00:25:24.567
+and half the time they do about the same.
+
+00:25:24.591 --> 00:25:25.773
+AG: All right, well,
+
+00:25:25.797 --> 00:25:28.170
+I'm going to hold you
+accountable for this, Cade.
+
+00:25:28.194 --> 00:25:29.892
+I'm going to send little audio clip
+
+00:25:29.916 --> 00:25:33.464
+over to our incoming dean
+and our deputy dean,

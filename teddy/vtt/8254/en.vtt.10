@@ -1,0 +1,40 @@
+WEBVTT
+
+00:04:57.043 --> 00:05:00.546
+means that once the dragonfly
+sees its prey turn,
+
+00:05:00.588 --> 00:05:03.924
+there's only time for maybe four
+of these computational steps
+
+00:05:03.966 --> 00:05:07.803
+or four layers of neurons,
+working in sequence, one after the other,
+
+00:05:07.845 --> 00:05:10.222
+to calculate how
+the dragonfly needs to turn.
+
+00:05:11.307 --> 00:05:13.392
+In other words, if I want to study
+
+00:05:13.392 --> 00:05:17.605
+how the dragonfly does
+coordinate transformations,
+
+00:05:17.605 --> 00:05:20.358
+the neural circuit
+that I need to understand,
+
+00:05:20.399 --> 00:05:22.651
+the neural circuit that I need to study,
+
+00:05:22.693 --> 00:05:25.363
+can have at most four layers of neurons.
+
+00:05:26.280 --> 00:05:28.657
+Each layer may have many neurons,
+
+00:05:28.699 --> 00:05:30.826
+but this is a small neural circuit.

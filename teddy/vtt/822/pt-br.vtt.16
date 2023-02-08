@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:57.000 --> 00:08:00.000
+Os amigos de uma pessoa randomicamente escolhida
+
+00:08:00.000 --> 00:08:02.000
+têm maior grau e maior centralidade
+
+00:08:02.000 --> 00:08:04.000
+que as próprias pessoas randomicamente escolhidas.
+
+00:08:04.000 --> 00:08:06.000
+E você pode obter uma apreciação intuitiva a partir disso
+
+00:08:06.000 --> 00:08:09.000
+se você imagina apenas as pessoas no perímetro da rede.
+
+00:08:09.000 --> 00:08:11.000
+Se você pega essa pessoa,
+
+00:08:11.000 --> 00:08:14.000
+o único amigo que eles têm a mencionar é essa pessoa,
+
+00:08:14.000 --> 00:08:16.000
+que, pela estrutura, deve ter pelo menos dois
+
+00:08:16.000 --> 00:08:18.000
+e tipicamente mais amigos.
+
+00:08:18.000 --> 00:08:20.000
+E isso acontece com todos os nós periféricos.
+
+00:08:20.000 --> 00:08:23.000
+E de fato, isso acontece através da rede quando você se move para dentro,
+
+00:08:23.000 --> 00:08:25.000
+cada uma que você pega, quando eles mencionarem um randômico ...
+
+00:08:25.000 --> 00:08:28.000
+quando uma pessoa randômica mencionar um amigo seu,
+
+00:08:28.000 --> 00:08:31.000
+você se move para mais perto do centro da rede.

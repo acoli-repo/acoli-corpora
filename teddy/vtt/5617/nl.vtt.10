@@ -1,0 +1,37 @@
+WEBVTT
+
+00:04:59.574 --> 00:05:00.798
+voor een groot reservoir.
+
+00:05:00.798 --> 00:05:05.328
+Bij elke stap herhaalt Hedge de handeling 
+om naar links en rechts te kijken.
+
+00:05:05.328 --> 00:05:10.280
+Als er N stapels zijn, 
+kijkt hij N keren naar alle N stapels.
+
+00:05:10.280 --> 00:05:12.260
+Kan het sneller?
+
+00:05:12.260 --> 00:05:15.608
+Zo bespaar je tijd:
+voordat hij actie onderneemt,
+
+00:05:15.608 --> 00:05:17.468
+kan Hedge aan de linkerkant beginnen
+
+00:05:17.468 --> 00:05:21.338
+en een turfschema bijhouden 
+van de hoogste stapel.
+
+00:05:21.338 --> 00:05:25.098
+Hier is dat 2, nogmaals 2, 
+omdat de eerste stapel hoger was,
+
+00:05:25.098 --> 00:05:27.848
+daarna drie keer een 4.
+
+00:05:27.848 --> 00:05:30.714
+Zo kan hij de hoogste, 
+meest uiterst rechtse stapels vinden

@@ -1,0 +1,33 @@
+WEBVTT
+
+00:06:29.484 --> 00:06:30.804
+and mix them up.
+
+00:06:30.828 --> 00:06:34.107
+And you take vertices minus edges
+plus faces -- you'll get two.
+
+00:06:34.131 --> 00:06:35.742
+Here's a different shape.
+
+00:06:36.480 --> 00:06:41.730
+This is a torus, or the surface
+of a doughnut: 16 vertices
+
+00:06:41.754 --> 00:06:45.998
+covered by these rectangles,
+32 edges, 16 faces.
+
+00:06:46.530 --> 00:06:49.214
+Vertices minus edges comes out to be zero.
+
+00:06:49.238 --> 00:06:50.713
+It'll always come out to zero.
+
+00:06:50.737 --> 00:06:55.047
+Every time you cover a torus
+with squares or triangles
+
+00:06:55.071 --> 00:06:59.006
+or anything like that,
+you're going to get zero.

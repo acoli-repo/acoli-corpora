@@ -1,0 +1,45 @@
+WEBVTT
+
+00:04:59.310 --> 00:05:01.210
+é necesario construír mapas neuronais.
+
+00:05:01.570 --> 00:05:04.850
+Imaxinen unha rede 
+como a que estou ensinando agora
+
+00:05:04.850 --> 00:05:07.280
+e agora pensen que dentro desa rede,
+
+00:05:07.280 --> 00:05:09.280
+nesa cuadrícula bidimensional,
+
+00:05:09.280 --> 00:05:10.800
+existen neuronas.
+
+00:05:10.800 --> 00:05:12.880
+Unha imaxe se prefiren,
+
+00:05:12.910 --> 00:05:15.000
+un cartel, un cartel dixital,
+
+00:05:15.000 --> 00:05:16.280
+onde hai elementos
+
+00:05:16.280 --> 00:05:18.822
+que poden iluminarse ou non.
+
+00:05:19.977 --> 00:05:22.520
+Dependendo de como elaboren
+ese patrón,
+
+00:05:22.740 --> 00:05:24.194
+iluminándoo ou non,
+
+00:05:24.920 --> 00:05:26.750
+os elementos dixitais,
+
+00:05:26.750 --> 00:05:28.660
+ou mellor dito, as neuronas da rede,
+
+00:05:28.660 --> 00:05:30.974
+serán capaces de construír un mapa.

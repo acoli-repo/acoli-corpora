@@ -1,0 +1,38 @@
+WEBVTT
+
+00:04:58.957 --> 00:05:00.909
+uvek počinjem kockom,
+
+00:05:00.909 --> 00:05:04.485
+i operacija je vrlo jednostavna -
+pravljenje preklopa,
+
+00:05:04.485 --> 00:05:08.437
+i ponavljanje istog iznova i iznova.
+
+00:05:08.437 --> 00:05:10.717
+Hajde da uvedemo
+ovaj proces u arhitekturu.
+
+00:05:10.717 --> 00:05:12.317
+Kako? I u kojoj meri?
+
+00:05:12.317 --> 00:05:14.045
+Izabrao sam projektovanje stuba.
+
+00:05:14.045 --> 00:05:17.421
+Stubovi su arhitektonski arhetipovi.
+
+00:05:17.421 --> 00:05:20.488
+Korišćeni su kroz istoriju
+da izraze ideale
+
+00:05:20.488 --> 00:05:25.563
+o lepoti, o tehnologiji.
+
+00:05:25.563 --> 00:05:27.485
+Za mene je izazov bio
+kako bismo mogli izraziti
+
+00:05:27.485 --> 00:05:30.781
+ovaj novi algoritmični red na stubu.

@@ -1,0 +1,41 @@
+WEBVTT
+
+00:05:27.726 --> 00:05:31.646
+and we can follow this spiral pattern 
+all the way to the center
+
+00:05:31.646 --> 00:05:36.793
+with a loop and a variable 
+that tracks how far Hedge should fly.
+
+00:05:36.793 --> 00:05:39.033
+Is one of these methods 
+better than the other?
+
+00:05:39.033 --> 00:05:41.097
+It really depends on what you value.
+
+00:05:41.097 --> 00:05:44.527
+The strength of the spiral 
+is the simplicity of finding a pattern
+
+00:05:44.527 --> 00:05:47.567
+and reusing the same logic 
+from start to finish.
+
+00:05:47.567 --> 00:05:49.667
+The advantage of the typewriter approach
+
+00:05:49.667 --> 00:05:51.957
+is that it’s a more generalized solution,
+
+00:05:51.957 --> 00:05:56.027
+meaning it can be adapted 
+much more simply to fill in any pattern.
+
+00:05:56.027 --> 00:05:59.298
+For Ethic’s sake, 
+either will do just fine.
+
+00:05:59.298 --> 00:06:01.128
+So here’s what happens.

@@ -1,0 +1,42 @@
+WEBVTT
+
+00:07:28.163 --> 00:07:30.454
+how to pour water, that plants need sun,
+
+00:07:30.496 --> 00:07:34.079
+and leverage that
+in learning this new skill.
+
+00:07:34.079 --> 00:07:37.121
+Computers can work
+the same way, but they don’t today.
+
+00:07:37.163 --> 00:07:39.746
+If you train a neural
+network from scratch,
+
+00:07:39.746 --> 00:07:43.288
+it's effectively like forgetting
+your entire education
+
+00:07:43.288 --> 00:07:45.163
+every time you try to do something new.
+
+00:07:45.163 --> 00:07:46.163
+That’s crazy, right?
+
+00:07:46.788 --> 00:07:50.496
+So instead, I think we can
+and should be training
+
+00:07:50.538 --> 00:07:54.329
+multitask models that can do
+thousands or millions of different tasks.
+
+00:07:54.329 --> 00:07:57.704
+Each part of that model would specialize
+in different kinds of things.
+
+00:07:57.704 --> 00:08:00.496
+And then, if we have a model
+that can do a thousand things,

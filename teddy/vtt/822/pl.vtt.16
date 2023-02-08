@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:57.000 --> 00:08:00.000
+Przyjaciele przypadkowo wybranych ludzi
+
+00:08:00.000 --> 00:08:02.000
+mają wyższy stopień, i są bardziej centralni
+
+00:08:02.000 --> 00:08:04.000
+niż przypadkowi ludzie.
+
+00:08:04.000 --> 00:08:06.000
+Można to zrozumieć intuicyjnie
+
+00:08:06.000 --> 00:08:09.000
+jeśli wyobrazicie sobie osoby znajdujące się na obrzeżu sieci.
+
+00:08:09.000 --> 00:08:11.000
+Jeśli wybierzecie taką osobę,
+
+00:08:11.000 --> 00:08:14.000
+jedynym osobnikiem który może zostać jej przyjacielem,
+
+00:08:14.000 --> 00:08:16.000
+jest ten który ma już co najmniej dwoje,
+
+00:08:16.000 --> 00:08:18.000
+a zazwyczaj więcej, przyjaciół.
+
+00:08:18.000 --> 00:08:20.000
+I tak dzieje się z każdym krańcowym wierzchołkiem.
+
+00:08:20.000 --> 00:08:23.000
+I co więcej, tak dzieje się w obrębie całej sieci, po której się poruszamy,
+
+00:08:23.000 --> 00:08:25.000
+kogokolwiek wybierzesz, kiedy nominują przypadkową..
+
+00:08:25.000 --> 00:08:28.000
+kiedy przypadkowa osoba nominuje kogoś jako swojego przyjaciela,
+
+00:08:28.000 --> 00:08:31.000
+ty przybliżasz się do centrum sieci.

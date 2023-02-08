@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:28.000 --> 00:05:32.000
+immer noch mit Nachdruck sagte: "Es ist wirklich wichtig, viele Daten zu haben."
+
+00:05:32.000 --> 00:05:34.000
+Ich möchte nun, dass wir darüber nachdenken
+
+00:05:34.000 --> 00:05:38.000
+nicht nur zwei Datensätze miteinander zu verknüpfen, oder sechs wie er.
+
+00:05:38.000 --> 00:05:43.000
+Ich möchte eine Welt in Erwägung ziehen, in der jeder Daten ins Web gestellt hat,
+
+00:05:43.000 --> 00:05:45.000
+und somit ist praktisch alles, was man sich vorstellen kann, im Web.
+
+00:05:45.000 --> 00:05:47.000
+Und ich nenne es verknüpfte Daten (linked data).
+
+00:05:47.000 --> 00:05:49.000
+Die Technologie heißt verknüpfte Daten, und sie ist äußerst einfach.
+
+00:05:49.000 --> 00:05:53.000
+Wenn Sie etwas ins Web stellen möchten, gibt es drei Regeln.
+
+00:05:53.000 --> 00:05:56.000
+Erstens, diese HTTP-Namen --
+
+00:05:56.000 --> 00:05:58.000
+diese Sachen, die mit http: beginnen --
+
+00:05:58.000 --> 00:06:02.000
+werden jetzt nicht mehr nur für Dokumente verwendet,

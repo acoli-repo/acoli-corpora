@@ -1,0 +1,41 @@
+WEBVTT
+
+00:07:25.708 --> 00:07:31.040
+When you grow from having 10 people
+or 100 people working on a project
+
+00:07:31.064 --> 00:07:33.452
+to having 10,000 people, which --
+
+00:07:33.476 --> 00:07:36.942
+I mean, right now we're in the situation
+where just on the kernel,
+
+00:07:36.966 --> 00:07:40.140
+we have 1,000 people involved
+in every single release
+
+00:07:40.164 --> 00:07:43.750
+and that's every two months,
+roughly two or three months.
+
+00:07:44.336 --> 00:07:46.757
+Some of those people don't do a lot.
+
+00:07:46.781 --> 00:07:49.364
+There's a lot of people
+who make small, small changes.
+
+00:07:49.388 --> 00:07:51.634
+But to maintain this,
+
+00:07:51.658 --> 00:07:54.547
+the scale changes how
+you have to maintain it.
+
+00:07:54.571 --> 00:07:56.969
+And we went through a lot of pain.
+
+00:07:58.713 --> 00:08:05.242
+And there are whole projects
+that do only source-code maintenance.

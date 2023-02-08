@@ -1,0 +1,42 @@
+WEBVTT
+
+00:06:58.059 --> 00:07:01.565
+Et comprendre les calculs
+effectués par un système vivant
+
+00:07:01.589 --> 00:07:05.842
+démarre en posant une question
+incroyablement simple :
+
+00:07:05.866 --> 00:07:09.222
+au fait, qu'est-ce que
+ce système doit faire ?
+
+00:07:09.838 --> 00:07:12.688
+L'informatique utilise en fait
+un ensemble de stratégies
+
+00:07:12.712 --> 00:07:16.539
+pour traiter ce que le logiciel
+et le matériel sont censés faire.
+
+00:07:16.563 --> 00:07:19.223
+Quand vous écrivez un programme,
+vous codez du logiciel,
+
+00:07:19.247 --> 00:07:21.247
+vous voulez qu'il fonctionne correctement,
+
+00:07:21.271 --> 00:07:23.061
+qu'il soit performant, fonctionnel.
+
+00:07:23.085 --> 00:07:25.862
+Vous voulez éviter les erreurs,
+qui pourraient coûter cher.
+
+00:07:26.118 --> 00:07:28.034
+Quand un développeur écrit un programme,
+
+00:07:28.034 --> 00:07:30.304
+il écrit d'abord
+un ensemble de spécifications,

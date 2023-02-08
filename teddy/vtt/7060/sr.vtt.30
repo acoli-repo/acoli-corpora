@@ -1,0 +1,49 @@
+WEBVTT
+
+00:14:58.933 --> 00:15:01.193
+Jer u jednostruko povezanim listama
+se dešava -
+
+00:15:01.217 --> 00:15:04.867
+ovo pokušava da ukloni
+postojeći unos sa liste -
+
+00:15:04.891 --> 00:15:08.733
+a postoji razlika
+u tome da li se radi o prvom unosu
+
+00:15:08.757 --> 00:15:10.756
+ili se radi o unosu u sredini.
+
+00:15:10.780 --> 00:15:12.385
+Jer ako se radi o prvom unosu,
+
+00:15:12.409 --> 00:15:15.425
+morate da promenite
+pokazivač na prvi unos.
+
+00:15:15.449 --> 00:15:16.647
+Ako je u sredini,
+
+00:15:16.671 --> 00:15:19.092
+morate da promenite pokazivač
+kod prethodnog unosa.
+
+00:15:19.116 --> 00:15:21.140
+Radi se o dva potpuno različita slučaja.
+
+00:15:21.164 --> 00:15:22.316
+KA: A taj je bolji.
+
+00:15:22.340 --> 00:15:23.521
+LT: Ovaj je bolji.
+
+00:15:23.940 --> 00:15:26.263
+Nema "ako" iskaz.
+
+00:15:26.637 --> 00:15:28.850
+I nije zaista bitno -
+
+00:15:28.874 --> 00:15:32.075
+ne želim da shvatite
+zašto nema "ako" iskaz,

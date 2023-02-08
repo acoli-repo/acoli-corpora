@@ -1,0 +1,46 @@
+WEBVTT
+
+00:16:57.000 --> 00:17:00.000
+este că am putea controla creierul cu două culori.
+
+00:17:00.000 --> 00:17:02.000
+Ca un întrerupător.
+
+00:17:02.000 --> 00:17:04.000
+Ed Boyden: Exact.
+
+00:17:04.000 --> 00:17:07.000
+JE: Ceea ce ar face ca impulsul care tranzitează creierul să fie în cod binar.
+
+00:17:07.000 --> 00:17:09.000
+EB: Corect, da.
+
+00:17:09.000 --> 00:17:12.000
+Aşadar cu lumina albastră, putem trimite informaţia şi ar lua forma lui unu.
+
+00:17:12.000 --> 00:17:14.000
+Şi prin închiderea ei, mai mult sau mai puţin ar fi zero.
+
+00:17:14.000 --> 00:17:16.000
+Aşadar speranţa noastră este de a construi coprocesoare pentru creier
+
+00:17:16.000 --> 00:17:18.000
+care ar lucra cu creierul,
+
+00:17:18.000 --> 00:17:21.000
+astfel încât să amplificăm funcţii la oamenii cu dizabilităţi
+
+00:17:21.000 --> 00:17:23.000
+JE: Şi în teorie, asta înseamnă că
+
+00:17:23.000 --> 00:17:25.000
+în timp ce şoarecele simte, miroase,
+
+00:17:25.000 --> 00:17:27.000
+aude, atinge,
+
+00:17:27.000 --> 00:17:30.000
+poate fi modelat într-un şir de unu şi zero.
+
+00:17:30.000 --> 00:17:32.000
+Bineînţeles, da. Sperăm să o folosim ca metodă de testare

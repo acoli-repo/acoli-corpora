@@ -1,0 +1,33 @@
+WEBVTT
+
+00:09:28.385 --> 00:09:30.388
+A középen lévő kék jelzi a fiú alvását,
+
+00:09:30.412 --> 00:09:32.384
+mely általában a nap legmagasabb értéke.
+
+00:09:32.408 --> 00:09:36.040
+Itt három rohamot láthatunk,
+
+00:09:36.064 --> 00:09:37.540
+melyek kiemelkednek.
+
+00:09:39.096 --> 00:09:42.676
+Ha összekötjük a bőr magas
+vezetőképességi értékeit
+
+00:09:42.700 --> 00:09:46.217
+a csuklóból eredő mozgással,
+sok adatot kapunk,
+
+00:09:46.241 --> 00:09:51.041
+melyeket a gépi tanulásra,
+MI-re használunk fel.
+
+00:09:51.065 --> 00:09:55.858
+Így létrehozhatunk egy automata MI-t,
+amely sokkal jobban észleli
+
+00:09:55.882 --> 00:10:00.097
+ezeket a mintákat,
+mint a rezgésérzékelő.

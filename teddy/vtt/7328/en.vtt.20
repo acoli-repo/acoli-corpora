@@ -1,0 +1,51 @@
+WEBVTT
+
+00:09:56.871 --> 00:10:00.662
+to continuously identify what parts
+it wants to call upon
+
+00:10:00.662 --> 00:10:02.496
+in order to accomplish a new task.
+
+00:10:02.496 --> 00:10:06.037
+The advantage of this is we can have
+a very high-capacity model,
+
+00:10:06.037 --> 00:10:07.287
+but it's very efficient,
+
+00:10:07.329 --> 00:10:09.912
+because we're only calling
+upon the parts that we need
+
+00:10:09.954 --> 00:10:11.162
+for any given task.
+
+00:10:11.162 --> 00:10:13.162
+So fixing these three things, I think,
+
+00:10:13.162 --> 00:10:15.371
+will lead to a more powerful AI system:
+
+00:10:15.412 --> 00:10:17.412
+instead of thousands of separate models,
+
+00:10:17.412 --> 00:10:19.412
+train a handful of general-purpose models
+
+00:10:19.454 --> 00:10:21.537
+that can do thousands
+or millions of things.
+
+00:10:21.579 --> 00:10:23.621
+Instead of dealing with single modalities,
+
+00:10:23.662 --> 00:10:24.996
+deal with all modalities,
+
+00:10:24.996 --> 00:10:26.704
+and be able to fuse them together.
+
+00:10:26.746 --> 00:10:30.204
+And instead of dense models,
+use sparse, high-capacity models,

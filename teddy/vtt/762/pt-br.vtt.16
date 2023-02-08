@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:00.000
+Então, dados vinculados.
+
+00:08:00.000 --> 00:08:02.000
+O significado veio de lá.
+
+00:08:02.000 --> 00:08:06.000
+E, tão logo Chis Spitzer* da Universidade Freie em Berlim
+
+00:08:06.000 --> 00:08:08.000
+que foi uma das primeiras pessoas a colocar coisas interessantes,
+
+00:08:08.000 --> 00:08:10.000
+ele notou que a Wikipedia.
+
+00:08:10.000 --> 00:08:13.000
+A Wikipedia, aquela enciclopédia online
+
+00:08:13.000 --> 00:08:15.000
+que tem um monte de documentos interessantes.
+
+00:08:15.000 --> 00:08:19.000
+Bem, nesses documentos, tem pequenos quadrados, pequenas caixas.
+
+00:08:19.000 --> 00:08:22.000
+E na maioria das caixas, existem dados.
+
+00:08:22.000 --> 00:08:26.000
+Ele então escreveu um programa obter os dados, extrair da Wikipedia,
+
+00:08:26.000 --> 00:08:28.000
+e colocar em forma de dados vinculados
+
+00:08:28.000 --> 00:08:31.000
+na web, que ele chamou de DBpedia.

@@ -1,0 +1,44 @@
+WEBVTT
+
+00:11:57.030 --> 00:12:00.297
+So some time back,
+I worked on a project called VideoKheti
+
+00:12:00.330 --> 00:12:03.930
+that allowed Hindi-speaking
+farmers in Central India
+
+00:12:03.963 --> 00:12:10.630
+to search for agricultural videos
+by speaking into a phone-based app.
+
+00:12:11.363 --> 00:12:14.797
+So we went to Madhya Pradesh
+to collect data for this,
+
+00:12:14.830 --> 00:12:17.130
+and we came back
+and we were training our models
+
+00:12:17.163 --> 00:12:19.530
+and we discovered
+we're getting very bad results.
+
+00:12:19.530 --> 00:12:20.797
+This is not working.
+
+00:12:20.830 --> 00:12:23.097
+So we were very confused.
+Why is this happening?
+
+00:12:23.130 --> 00:12:25.397
+So we looked deeper
+and deeper into the data
+
+00:12:25.430 --> 00:12:27.663
+and discovered that, yes,
+we had collected data
+
+00:12:27.697 --> 00:12:32.363
+from what we thought was a very silent,
+quiet village in the evening.

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:58.059 --> 00:07:01.565
+and understanding the computation
+performed by a living system
+
+00:07:01.589 --> 00:07:05.842
+starts with asking
+a devastatingly simple question:
+
+00:07:05.866 --> 00:07:09.222
+What is it that system actually has to do?
+
+00:07:09.838 --> 00:07:12.688
+Now, computer science actually
+has a set of strategies
+
+00:07:12.712 --> 00:07:16.539
+for dealing with what it is the software
+and hardware are meant to do.
+
+00:07:16.563 --> 00:07:19.223
+When you write a program,
+you code a piece of software,
+
+00:07:19.247 --> 00:07:21.247
+you want that software to run correctly.
+
+00:07:21.271 --> 00:07:23.061
+You want performance, functionality.
+
+00:07:23.085 --> 00:07:24.302
+You want to prevent bugs.
+
+00:07:24.326 --> 00:07:25.634
+They can cost you a lot.
+
+00:07:26.168 --> 00:07:28.010
+So when a developer writes a program,
+
+00:07:28.034 --> 00:07:30.304
+they could write down
+a set of specifications.

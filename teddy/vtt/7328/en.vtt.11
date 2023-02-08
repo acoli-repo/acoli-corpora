@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.788 --> 00:05:33.538
+we also got excited about how we could
+build hardware that was better tailored
+
+00:05:33.579 --> 00:05:36.371
+to the kinds of computations
+neural networks wanted to do.
+
+00:05:36.371 --> 00:05:39.038
+Neural network computations
+have two special properties.
+
+00:05:39.079 --> 00:05:41.704
+The first is they're very tolerant
+of reduced precision.
+
+00:05:41.746 --> 00:05:44.496
+Couple of significant digits,
+you don't need six or seven.
+
+00:05:44.496 --> 00:05:47.954
+And the second is that all the
+algorithms are generally composed
+
+00:05:47.996 --> 00:05:51.454
+of different sequences
+of matrix and vector operations.
+
+00:05:51.496 --> 00:05:53.246
+So if you can build a computer
+
+00:05:53.246 --> 00:05:57.038
+that is really good at low-precision
+matrix and vector operations
+
+00:05:57.079 --> 00:05:58.788
+but can't do much else,
+
+00:05:58.829 --> 00:06:01.454
+that's going to be great
+for neural-network computation,

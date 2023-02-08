@@ -1,0 +1,34 @@
+WEBVTT
+
+00:06:29.520 --> 00:06:30.954
+e misturá-los.
+
+00:06:30.954 --> 00:06:34.537
+Calculamos os vértices menos as arestas,
+mais as faces, obtemos sempre dois.
+
+00:06:34.537 --> 00:06:36.502
+Esta é uma configuração diferente.
+
+00:06:36.502 --> 00:06:40.020
+Isto é um toro,
+parece a superfície de um "donut":
+
+00:06:40.020 --> 00:06:45.838
+16 vértices, cobertos por estes retângulos,
+32 arestas, 16 faces.
+
+00:06:45.838 --> 00:06:47.278
+[V - A + F = 0]
+
+00:06:47.278 --> 00:06:51.173
+Dá sempre o resultado zero,
+vértices, menos arestas, mais faces
+
+00:06:51.173 --> 00:06:55.247
+Sempre que cobrimos um toro
+com quadrados ou triângulos
+
+00:06:55.247 --> 00:06:59.006
+ou qualquer coisa dessas,
+vamos obter zero.

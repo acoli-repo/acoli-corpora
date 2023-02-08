@@ -1,0 +1,38 @@
+WEBVTT
+
+00:08:28.487 --> 00:08:31.411
+We can encode truly rich expressions
+
+00:08:31.435 --> 00:08:35.588
+that actually capture the behavior
+of multiple genes or proteins over time
+
+00:08:35.612 --> 00:08:38.148
+across multiple different experiments.
+
+00:08:38.521 --> 00:08:41.147
+And so by translating our observations
+
+00:08:41.171 --> 00:08:43.164
+into mathematical expression in this way,
+
+00:08:43.188 --> 00:08:48.286
+it becomes possible to test whether
+or not those observations can emerge
+
+00:08:48.310 --> 00:08:51.364
+from a program of genetic interactions.
+
+00:08:52.063 --> 00:08:54.619
+And we developed a tool to do just this.
+
+00:08:54.643 --> 00:08:57.525
+We were able to use this tool
+to encode observations
+
+00:08:57.549 --> 00:08:58.956
+as mathematical expressions,
+
+00:08:58.980 --> 00:09:02.590
+and then that tool would allow us
+to uncover the genetic program

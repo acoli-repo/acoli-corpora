@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:29.788 --> 00:05:33.538
+chúng tôi còn hào hứng về việc khả năng
+xây dựng được phần cứng mà phù hợp hơn
+
+00:05:33.579 --> 00:05:36.371
+với những phép tính toán mà mạng nơ-ron
+muốn làm được.
+
+00:05:36.371 --> 00:05:39.038
+Việc tính toán sử dụng mạng nơ-ron
+có hai đặc tính.
+
+00:05:39.079 --> 00:05:41.704
+Đầu tiên là chúng chấp nhận
+việc giảm tính chính xác.
+
+00:05:41.746 --> 00:05:44.496
+Chỉ cần vài chữ số quan trọng,
+không cần đến sáu bảy số.
+
+00:05:44.496 --> 00:05:47.954
+Và thứ hai là tất cả những thuật toán
+thường được tạo thành
+
+00:05:47.996 --> 00:05:51.454
+từ chuỗi những ma trận và
+hoạt động véc-tơ khác nhau.
+
+00:05:51.496 --> 00:05:53.246
+Nếu bạn có thể tạo ra một máy tính
+
+00:05:53.246 --> 00:05:57.038
+mà hoạt động tốt với những ma trận và
+hoạt động véc-tơ với tính chính xác thấp
+
+00:05:57.079 --> 00:05:58.788
+nhưng không làm được nhiều thứ khác
+
+00:05:58.829 --> 00:06:01.454
+mà có ích cho việc tính toán
+của mạng nơ-ron nhân tạo,

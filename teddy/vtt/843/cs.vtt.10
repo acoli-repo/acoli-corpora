@@ -1,0 +1,31 @@
+WEBVTT
+
+00:04:56.220 --> 00:05:01.090
+Zdá se, že mysl vzniká díky tomu,
+že neurony vytvářejí mapy.
+
+00:05:01.270 --> 00:05:04.650
+Představte si to jako
+takovouhle mřížku.
+
+00:05:04.760 --> 00:05:10.100
+Každé 2-D políčko 
+znázorňuje jeden neuron.
+
+00:05:10.340 --> 00:05:14.880
+Teď si na té mřížce
+představte velký obraz.
+
+00:05:14.960 --> 00:05:19.090
+Část políček teď barevně "svítí",
+a část zůstala "zhasnutá".
+
+00:05:19.170 --> 00:05:23.860
+Kombinací "svítících" a "zhasnutých"
+políček (tj. neuronů)
+
+00:05:23.930 --> 00:05:28.360
+vzniká na principu souřadnic obraz
+
+00:05:28.520 --> 00:05:30.720
+či vlastně spíš mapa.

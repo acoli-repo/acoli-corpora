@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:00.147 --> 00:06:01.649
+Trong mô phỏng máy tính,
+
+00:06:01.690 --> 00:06:04.860
+tôi có thể dự đoán hoạt động
+của từng nơ-ron
+
+00:06:04.860 --> 00:06:06.529
+khi chuồn chuồn đang săn mồi.
+
+00:06:07.863 --> 00:06:12.201
+Ví dụ, ở đây tôi đang dự đoán các 
+hành động có thể xảy ra hoặc sự tăng tốc
+
+00:06:12.201 --> 00:06:14.203
+được kích hoạt bởi một trong
+các nơ-ron này
+
+00:06:14.203 --> 00:06:16.831
+khi chuồn chuồn thấy con mồi di chuyển.
+
+00:06:18.916 --> 00:06:21.419
+Để kiểm tra mô hình này, 
+tôi cùng các cộng tác viên
+
+00:06:21.419 --> 00:06:24.088
+đang so sánh những dự đoán phản ứng
+thần kinh này
+
+00:06:24.088 --> 00:06:27.925
+với phản ứng thần kinh được ghi lại 
+trong não bộ chuồn chuồn sống.
+
+00:06:29.927 --> 00:06:31.679
+Đây là cuộc thí nghiệm đang diễn ra

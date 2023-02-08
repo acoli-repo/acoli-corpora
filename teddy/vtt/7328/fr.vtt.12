@@ -1,0 +1,46 @@
+WEBVTT
+
+00:05:58.788 --> 00:06:01.496
+c’est impeccable pour les calculs
+des réseaux neuronaux,
+
+00:06:01.496 --> 00:06:04.163
+même si vous ne pouvez pas en faire
+grand-chose d’autre.
+
+00:06:04.163 --> 00:06:07.454
+Des gens trouveront tout un tas de choses
+géniales à faire avec ça.
+
+00:06:07.496 --> 00:06:09.579
+C’est le premier qu’on a produit,
+le TPU v1.
+
+00:06:09.621 --> 00:06:12.163
+« TPU » veut dire
+Unité de Traitement de Tenseur.
+
+00:06:12.163 --> 00:06:15.871
+On les a utilisés pendant des années
+chez Google, pour toutes nos recherches,
+
+00:06:15.871 --> 00:06:18.329
+pour la traduction,
+pour l’AlphaGo de DeepMind,
+
+00:06:18.329 --> 00:06:21.454
+Lee Sedol et Ke Jie ne s’en sont peut-être
+même pas redus compte,
+
+00:06:21.454 --> 00:06:23.746
+mais ils affrontaient des racks
+de cartes TPU.
+
+00:06:23.788 --> 00:06:26.371
+On a produit d’autres versions de TPUs
+
+00:06:26.371 --> 00:06:28.246
+qui sont encore meilleures.
+
+00:06:28.288 --> 00:06:30.371
+Mais malgré tous ces succès,

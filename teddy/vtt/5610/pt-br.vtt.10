@@ -1,0 +1,31 @@
+WEBVTT
+
+00:04:59.614 --> 00:05:02.054
+Se chamarmos
+o comprimento do quadro de "N",
+
+00:05:02.054 --> 00:05:07.251
+percorra os quadrados "N menos 1",
+pinte outro pixel e vire à direita.
+
+00:05:07.304 --> 00:05:10.744
+Agora, faça tudo repetidamente.
+
+00:05:10.834 --> 00:05:16.029
+Avance um pixel a menos,
+vire à direita, avance um pixel,
+
+00:05:16.029 --> 00:05:19.199
+e Hedge estará no próximo
+quadrado concêntrico,
+
+00:05:19.199 --> 00:05:21.984
+pronto para repetir todo o processo.
+
+00:05:21.984 --> 00:05:27.706
+Cada quadrado é dois pixels menor
+que o anterior, em comprimento e largura,
+
+00:05:27.726 --> 00:05:31.646
+e podemos seguir este padrão de espiral
+completamente até o centro,

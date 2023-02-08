@@ -1,0 +1,46 @@
+WEBVTT
+
+00:07:59.808 --> 00:08:03.729
+and they can go in to show the AI
+what tears in the fabric look like
+
+00:08:03.771 --> 00:08:05.564
+by drawing rectangles.
+
+00:08:05.606 --> 00:08:08.025
+And they can also go in to show the AI
+
+00:08:08.067 --> 00:08:10.486
+what discoloration
+on the fabric looks like
+
+00:08:10.528 --> 00:08:12.029
+by drawing rectangles.
+
+00:08:12.530 --> 00:08:13.864
+So these pictures,
+
+00:08:13.864 --> 00:08:16.450
+together with the green
+and pink rectangles
+
+00:08:16.450 --> 00:08:17.743
+that the inspector's drawn,
+
+00:08:17.785 --> 00:08:20.371
+are data created by the inspector
+
+00:08:20.412 --> 00:08:23.999
+to explain to AI how to find
+tears and discoloration.
+
+00:08:24.833 --> 00:08:26.835
+After the AI examines this data,
+
+00:08:26.877 --> 00:08:29.421
+we may find that it has seen
+enough pictures of tears,
+
+00:08:29.463 --> 00:08:31.840
+but not yet enough pictures
+of discolorations.

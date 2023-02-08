@@ -1,0 +1,45 @@
+WEBVTT
+
+00:05:28.513 --> 00:05:31.005
+tem de ser o caminho
+para a sala de controlo
+
+00:05:31.005 --> 00:05:32.724
+a partir do local onde se encontra
+
+00:05:32.773 --> 00:05:34.863
+e se acrescentar
+qual o ramal que se seguiu,
+
+00:05:34.863 --> 00:05:37.593
+pode indicar ao seu progenitor
+como lá chegar.
+
+00:05:37.643 --> 00:05:41.343
+Podemos resumir as instruções
+numa ação chamada Pathfinder
+
+00:05:41.353 --> 00:05:44.189
+que todas as versões do Hedge cumprirão:
+
+00:05:44.673 --> 00:05:46.967
+1. Se chegares ao artefacto,
+
+00:05:47.052 --> 00:05:48.802
+informa por rádio o teu progenitor
+
+00:05:48.814 --> 00:05:51.024
+se lá chegaste virando
+à direita ou à esquerda.
+
+00:05:51.107 --> 00:05:54.717
+2. Quando chegares a uma interseção,
+sai do tapete rolante
+
+00:05:54.797 --> 00:05:58.382
+e envia novas cópias pelas vias
+da direita e da esquerda.
+
+00:05:58.657 --> 00:06:00.827
+Pede-lhes que sigam
+o programa Pathfinder.

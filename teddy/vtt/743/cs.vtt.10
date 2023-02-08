@@ -1,0 +1,44 @@
+WEBVTT
+
+00:04:59.819 --> 00:05:02.570
+které jsou samostatně těžko použitelné pro
+
+00:05:02.570 --> 00:05:04.677
+12letého chlapce,
+
+00:05:04.677 --> 00:05:06.530
+proto Arduino zabalilo vše dohromady
+
+00:05:06.530 --> 00:05:08.796
+do balíčku open-source technologií,
+
+00:05:08.796 --> 00:05:10.668
+ve kterém se jim snažíme dát
+
+00:05:10.668 --> 00:05:12.875
+ten nejlepší uživatelský zážitek,
+aby mohli cokoliv rychle udělat.
+
+00:05:12.875 --> 00:05:15.746
+Máte situaci, jako je tato,
+
+00:05:15.746 --> 00:05:17.684
+kdy se někteří lidé v Chile
+
+00:05:17.684 --> 00:05:20.476
+rozhodli vyrobit si vlastní desky a nekupovat je.
+
+00:05:20.482 --> 00:05:22.407
+Uspořádali si vlastní workshop
+
+00:05:22.407 --> 00:05:25.507
+a ušetřili peníze.
+
+00:05:25.507 --> 00:05:27.452
+Nebo jsou tu společnosti,
+
+00:05:27.452 --> 00:05:29.221
+které mají jejich vlastní pozměněné Arduino,
+
+00:05:29.221 --> 00:05:30.972
+které lépe vyhovuje jejich potřebám,

@@ -1,0 +1,42 @@
+WEBVTT
+
+00:09:59.253 --> 00:10:01.429
+in conditions we hadn't yet tested.
+
+00:10:01.453 --> 00:10:03.854
+We could probe the program in silico.
+
+00:10:04.735 --> 00:10:05.982
+And so we did just that:
+
+00:10:06.006 --> 00:10:09.186
+we generated predictions
+that we tested in the lab,
+
+00:10:09.210 --> 00:10:12.242
+and we found that this program
+was highly predictive.
+
+00:10:12.266 --> 00:10:14.891
+It told us how we could
+accelerate progress
+
+00:10:14.915 --> 00:10:17.975
+back to the naïve state
+quickly and efficiently.
+
+00:10:17.999 --> 00:10:20.569
+It told us which genes
+to target to do that,
+
+00:10:20.593 --> 00:10:23.217
+which genes might even
+hinder that process.
+
+00:10:23.241 --> 00:10:28.231
+We even found the program predicted
+the order in which genes would switch on.
+
+00:10:28.980 --> 00:10:32.120
+So this approach really allowed us
+to uncover the dynamics

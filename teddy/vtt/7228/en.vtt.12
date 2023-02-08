@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:58.854 --> 00:06:01.315
+In contrast, lasers are so precise,
+
+00:06:01.315 --> 00:06:05.361
+you can target one cell in millions
+at precise intervals --
+
+00:06:05.403 --> 00:06:08.697
+every second, every minute,
+every hour -- you name it.
+
+00:06:09.573 --> 00:06:13.285
+I realized that instead of doing
+this tedious process of stem cell culture
+
+00:06:13.327 --> 00:06:14.703
+by hand,
+
+00:06:14.745 --> 00:06:18.290
+we could use lasers to remove
+the unwanted cells.
+
+00:06:18.290 --> 00:06:20.876
+And to automate the entire process,
+
+00:06:20.876 --> 00:06:25.089
+we decided to use machine learning
+to identify those unwanted cells
+
+00:06:25.131 --> 00:06:26.632
+and zap them.
+
+00:06:26.632 --> 00:06:30.803
+Algorithms today are great at finding
+useful information and images,

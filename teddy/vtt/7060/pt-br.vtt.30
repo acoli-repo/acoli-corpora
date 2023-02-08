@@ -1,0 +1,49 @@
+WEBVTT
+
+00:14:59.046 --> 00:15:01.327
+O que acontece numa lista
+simplesmente ligada...
+
+00:15:01.327 --> 00:15:05.853
+isto tenta remover um
+elemento de uma lista...
+
+00:15:05.853 --> 00:15:08.872
+é que há uma diferença entre
+ser o primeiro elemento
+
+00:15:08.872 --> 00:15:11.204
+ou um do meio da lista.
+
+00:15:11.204 --> 00:15:12.539
+Se é o primeiro elemento,
+
+00:15:12.539 --> 00:15:15.522
+temos que alterar o apontador
+para o primeiro elemento.
+
+00:15:15.522 --> 00:15:16.717
+Se é um elemento do meio,
+
+00:15:16.717 --> 00:15:19.242
+temos que alterar o apontador
+de um elemento anterior.
+
+00:15:19.242 --> 00:15:21.251
+São dois casos completamente diferentes.
+
+00:15:21.251 --> 00:15:22.507
+CA: Há uma forma melhor.
+
+00:15:22.507 --> 00:15:24.113
+LT: Esta é melhor.
+
+00:15:24.113 --> 00:15:26.876
+Não tem a condição "if".
+
+00:15:26.876 --> 00:15:29.156
+E não tem importância.
+
+00:15:29.156 --> 00:15:32.153
+Não quero que entendam por que
+razão não tem a condição "if",

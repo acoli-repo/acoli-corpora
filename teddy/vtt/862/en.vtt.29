@@ -1,0 +1,40 @@
+WEBVTT
+
+00:14:28.535 --> 00:14:31.417
+based on the fact that this neuron from a locust
+
+00:14:31.417 --> 00:14:33.376
+does not fire action potentials.
+
+00:14:33.376 --> 00:14:35.124
+It's a non-spiking cell.
+
+00:14:35.124 --> 00:14:37.904
+So a typical cell, like the neurons in our brain,
+
+00:14:37.904 --> 00:14:40.656
+has a region called the dendrites that receives input,
+
+00:14:40.656 --> 00:14:43.245
+and that input sums together
+
+00:14:43.245 --> 00:14:45.541
+and will produce action potentials
+
+00:14:45.541 --> 00:14:47.872
+that run down the axon and then activate
+
+00:14:47.872 --> 00:14:50.168
+all the output regions of the neuron.
+
+00:14:50.168 --> 00:14:53.044
+But non-spiking neurons are actually quite complicated
+
+00:14:53.044 --> 00:14:56.156
+because they can have input synapses and output synapses
+
+00:14:56.156 --> 00:14:59.819
+all interdigitated, and there's no single action potential
+
+00:14:59.819 --> 00:15:02.945
+that drives all the outputs at the same time.

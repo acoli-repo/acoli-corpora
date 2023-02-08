@@ -1,0 +1,33 @@
+WEBVTT
+
+00:06:29.484 --> 00:06:30.804
+et les mélanger.
+
+00:06:30.828 --> 00:06:34.107
+Si vous prenez sommets moins arêtes
+plus faces, vous obtenez deux.
+
+00:06:34.131 --> 00:06:35.742
+Voici une autre forme.
+
+00:06:36.480 --> 00:06:41.730
+C'est un tore, ou la surface d'un donut :
+16 sommets
+
+00:06:41.754 --> 00:06:45.998
+couverts par ces rectangles,
+32 arêtes, 16 faces.
+
+00:06:46.530 --> 00:06:49.214
+Sommets moins arêtes vaut zéro.
+
+00:06:49.238 --> 00:06:50.713
+Cela sera toujours zéro.
+
+00:06:50.737 --> 00:06:55.047
+Chaque fois que vous couvrez un tore
+avec des carrés et des triangles
+
+00:06:55.071 --> 00:06:59.006
+ou des choses du genre,
+vous obtiendrez zéro.

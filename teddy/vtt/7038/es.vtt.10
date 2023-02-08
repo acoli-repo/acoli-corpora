@@ -1,0 +1,29 @@
+WEBVTT
+
+00:04:58.704 --> 00:05:02.496
+Esto es genial; 5 y 4 podrían ser 
+el código de activación,
+
+00:05:02.746 --> 00:05:05.204
+¿pero cómo podemos saber que es el único?
+
+00:05:06.538 --> 00:05:09.454
+Pongamos que el número de A fuera el 6,
+
+00:05:09.454 --> 00:05:13.788
+lo cual sería 1+5, 2+4 o 1+2+3,
+
+00:05:14.038 --> 00:05:17.121
+y daría a B un 5, 8 o 6, respectivamente.
+
+00:05:17.496 --> 00:05:20.954
+Si B tuviera un 5, 
+sabría que A tiene un 6.
+
+00:05:20.954 --> 00:05:27.496
+Y si tuviera un 8, las posibilidades 
+de A serían 2+4 y 1+2+4.
+
+00:05:28.079 --> 00:05:34.538
+Solo el 6 sería posible, así que
+B sabría, de nuevo, que A tiene un 6.

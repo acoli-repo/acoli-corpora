@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:56.795 --> 00:06:00.330
+sebbene anche altri metodi di selezione
+funzionerebbero altrettanto bene.
+
+00:06:00.780 --> 00:06:04.860
+Hedge potrà aggiungere quel passaggio 
+alla lista con la sequenza da seguire,
+
+00:06:04.860 --> 00:06:07.310
+cancellare l'intera colonna dalla tabella,
+
+00:06:07.310 --> 00:06:10.340
+in modo da eliminare ogni collegamento,
+
+00:06:10.340 --> 00:06:12.560
+e tornare al punto di partenza.
+
+00:06:12.990 --> 00:06:16.290
+Dato che nel grafo
+non ci sono riferimenti circolari,
+
+00:06:16.290 --> 00:06:19.534
+ogni volta che torniamo qui 
+ci sarà almeno un passaggio
+
+00:06:19.534 --> 00:06:21.584
+senza altri collegamenti.
+
+00:06:21.864 --> 00:06:26.556
+Hedge può aggiungere il primo passaggio, 
+in ordine alfabetico, alla sua lista,
+
+00:06:26.556 --> 00:06:30.651
+eliminarlo dalla tabella
+e tornare ancora al punto di partenza.

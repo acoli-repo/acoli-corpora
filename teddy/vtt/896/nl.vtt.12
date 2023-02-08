@@ -1,0 +1,48 @@
+WEBVTT
+
+00:05:59.143 --> 00:06:02.207
+In deze serie spreekt hij 
+met behulp van een computer,
+
+00:06:02.207 --> 00:06:05.311
+waardoor identificatie van het einde van zinnen
+
+00:06:05.311 --> 00:06:08.737
+vrij gemakkelijk is. 
+Ik schreef een sturend algoritme.
+
+00:06:08.737 --> 00:06:10.697
+Het luistert naar de lezing 
+en gebruikt vervolgens
+
+00:06:10.697 --> 00:06:13.384
+de amplitude van elk woord 
+en plaatst een punt op de x-as.
+
+00:06:13.384 --> 00:06:16.017
+Het maakt gebruik van de verbuiging van zinnen 
+om eenzelfde punt
+
+00:06:16.017 --> 00:06:18.171
+omhoog en omlaag te zetten op de y-as.
+
+00:06:18.171 --> 00:06:20.945
+Op deze trendlijnen 
+kan je zien dat er meer vragen
+
+00:06:20.945 --> 00:06:22.815
+dan antwoorden zijn in de fysicawetten.
+
+00:06:22.815 --> 00:06:24.848
+Op het einde van een zin
+
+00:06:24.848 --> 00:06:27.183
+plaatsen we een ster.
+
+00:06:27.183 --> 00:06:29.983
+Een heleboel zinnen betekent 
+een heleboel sterren.
+
+00:06:29.983 --> 00:06:32.339
+en na het verwerken 
+van alle audio krijgen we dit:

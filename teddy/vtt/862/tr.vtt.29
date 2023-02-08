@@ -1,0 +1,37 @@
+WEBVTT
+
+00:14:28.535 --> 00:14:31.417
+bu nöronun eylem potansiyeli ateşlememesine dayanan
+
+00:14:31.417 --> 00:14:33.376
+oldukça ilginç bir fikir ortaya atmıştı.
+
+00:14:33.376 --> 00:14:35.124
+Bu dikensiz bir hücre.
+
+00:14:35.124 --> 00:14:37.904
+Tipik bir hücre, örneğin beynimizdeki bir nöron,
+
+00:14:37.904 --> 00:14:40.926
+Dendrit adında girdiyi alan bir bölgeye sahiptir.
+
+00:14:40.926 --> 00:14:42.765
+Girdileri toplar
+
+00:14:42.765 --> 00:14:47.341
+ve uzantıları çalıştırıp, nöronun çıktı bölgelerini etkinleştiren
+
+00:14:47.341 --> 00:14:50.168
+eylem potansiyelleri üretir.
+
+00:14:50.168 --> 00:14:53.044
+Dikensiz nöronlar ise biraz karmaşıktır,
+
+00:14:53.044 --> 00:14:56.156
+çünkü hem giriş hem de çıkış sinapslarının hepsi
+
+00:14:56.156 --> 00:14:59.819
+içine kapanıktır ve tüm çıktıları aynı anda veren
+
+00:14:59.819 --> 00:15:02.945
+tek bir eylem potansiyeli yoktur.

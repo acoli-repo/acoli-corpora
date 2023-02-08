@@ -1,0 +1,41 @@
+WEBVTT
+
+00:06:58.530 --> 00:07:00.668
+desarrollar rápido un prototipo para la compañía.
+
+00:07:00.668 --> 00:07:03.357
+O bien, veamos otros proyectos. Matt Richardson: Estaba harto
+
+00:07:03.357 --> 00:07:06.613
+de oír hablar siempre de la misma gente en la TV una y otra vez,
+
+00:07:06.613 --> 00:07:09.823
+así que decidí hacer algo al respecto.
+
+00:07:09.823 --> 00:07:11.237
+Este proyecto Arduino,
+
+00:07:11.237 --> 00:07:14.599
+al que llamo «Enough Already» (Ya basta), silencia la TV cada vez
+
+00:07:14.612 --> 00:07:16.587
+que se menciona a una de estas
+
+00:07:16.587 --> 00:07:17.819
+personalidades sobreexpuestas.
+(Risas)
+
+00:07:17.819 --> 00:07:22.667
+Les mostraré cómo lo hice. (Aplausos)
+
+00:07:22.667 --> 00:07:24.491
+MB: Miren esto.
+
+00:07:24.491 --> 00:07:26.448
+MR: Nuestros productores se encontraron con Kim Kardashian hoy
+
+00:07:26.448 --> 00:07:29.351
+para averiguar lo que planea ponerse para…
+
+00:07:29.351 --> 00:07:30.742
+MB: ¿Qué tal? (Risas)

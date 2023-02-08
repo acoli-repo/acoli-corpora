@@ -1,0 +1,53 @@
+WEBVTT
+
+00:10:26.746 --> 00:10:30.204
+And instead of dense models,
+use sparse, high-capacity models,
+
+00:10:30.246 --> 00:10:33.204
+where we call upon the relevant
+bits as we need them.
+
+00:10:33.246 --> 00:10:36.662
+We've been building a system
+that enables these kinds of approaches,
+
+00:10:36.704 --> 00:10:39.246
+and we’ve been calling
+the system “Pathways.”
+
+00:10:39.287 --> 00:10:42.371
+So the idea is this model
+will be able to do
+
+00:10:42.412 --> 00:10:44.496
+thousands or millions of different tasks,
+
+00:10:44.537 --> 00:10:46.787
+and then, we can incrementally
+add new tasks,
+
+00:10:46.787 --> 00:10:48.912
+and it can deal
+with all modalities at once,
+
+00:10:48.954 --> 00:10:51.912
+and then incrementally learn
+new tasks as needed
+
+00:10:51.954 --> 00:10:54.037
+and call upon the relevant
+bits of the model
+
+00:10:54.037 --> 00:10:55.746
+for different examples or tasks.
+
+00:10:55.787 --> 00:10:57.537
+And we're pretty excited about this,
+
+00:10:57.537 --> 00:10:59.579
+we think this is going
+to be a step forward
+
+00:10:59.621 --> 00:11:00.954
+in how we build AI systems.

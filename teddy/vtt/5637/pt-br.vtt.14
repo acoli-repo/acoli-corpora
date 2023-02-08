@@ -1,0 +1,43 @@
+WEBVTT
+
+00:06:58.410 --> 00:07:01.740
+Então, se não houver um fio
+naquela direção, siga o caminho.
+
+00:07:01.740 --> 00:07:05.330
+Se houver múltiplas opções,
+escolha uma aleatoriamente.
+
+00:07:05.400 --> 00:07:07.913
+E se alguém estiver
+numa subseção como esta,
+
+00:07:07.913 --> 00:07:10.223
+com três caminhos sem saída marcados?
+
+00:07:10.223 --> 00:07:13.703
+A única coisa a fazer
+é voltar ao ponto de origem deles.
+
+00:07:13.703 --> 00:07:17.113
+Sabemos agora que esta seção inteira
+é um grande caminho sem saída.
+
+00:07:17.113 --> 00:07:21.673
+Então, eles devem cortar o fio e reatá-lo
+quando chegarem à próxima interseção.
+
+00:07:21.806 --> 00:07:23.522
+Mas digamos que eles cheguem lá
+
+00:07:23.522 --> 00:07:26.382
+e encontrem duas opções
+onde alguém estiver explorando,
+
+00:07:26.382 --> 00:07:28.902
+mas ninguém chegou
+a um caminho sem saída ainda.
+
+00:07:28.902 --> 00:07:33.099
+Eles também podem escolher aleatoriamente
+e ajudar a explorar o outro caminho,

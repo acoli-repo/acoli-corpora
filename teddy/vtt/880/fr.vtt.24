@@ -1,0 +1,28 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:02.000
+J'avais à dormir avec une noix de kola, enterrée dans le sable, près de mon lit,
+
+00:12:02.000 --> 00:12:05.000
+et à donner sept pièces à sept lépreux et ainsi de suite.
+
+00:12:05.000 --> 00:12:09.000
+Et finalement, il me dévoila le fond de la chose.
+
+00:12:10.000 --> 00:12:14.000
+Il s'avère que c'est un générateur de nombres pseudo-aléatoires utilisant le chaos déterministe.
+
+00:12:14.000 --> 00:12:20.000
+Quand on a un symbole à quatre bits, on l'associe à un autre à côté.
+
+00:12:20.000 --> 00:12:22.000
+Donc pair plus impair donne impair.
+
+00:12:22.000 --> 00:12:24.000
+Impair plus pair donne impair.
+
+00:12:24.000 --> 00:12:27.000
+Pair plus pair donne pair. Impair plus impair donne pair.
+
+00:12:27.000 --> 00:12:31.000
+C'est l'addition modulo 2, comme le contrôle de bit de parité dans votre ordinateur.

@@ -1,0 +1,38 @@
+WEBVTT
+
+00:06:26.194 --> 00:06:30.307
+triunghiuri, sau un amestec.
+
+00:06:31.457 --> 00:06:34.878
+Vârfurile minus laturile
+plus fețele este tot 2.
+
+00:06:35.066 --> 00:06:36.757
+Iată o altă formă.
+
+00:06:36.977 --> 00:06:40.011
+Acesta e un tor,
+sau forma unei gogoși.
+
+00:06:40.145 --> 00:06:46.498
+Aceste dreptunghiuri care îl acoperă 
+au 16 vârfuri, 32 de laturi și 16 fețe.
+
+00:06:46.498 --> 00:06:50.068
+Diferența dintre numărul de vârfuri
+și numărul de laturi e 0,
+
+00:06:50.068 --> 00:06:51.868
+independent de forma geometrică aleasă.
+
+00:06:52.108 --> 00:06:55.678
+Dacă acoperim suprafața torului
+cu pătrate sau triunghiuri
+
+00:06:55.678 --> 00:06:59.207
+sau orice alt poligon,
+diferența e 0.
+
+00:06:59.967 --> 00:07:06.056
+Asta se numește caracteristică Euler
+și este un invariant topologic.

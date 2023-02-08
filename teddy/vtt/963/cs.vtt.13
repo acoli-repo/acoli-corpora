@@ -1,0 +1,39 @@
+WEBVTT
+
+00:06:28.961 --> 00:06:31.786
+V tomto případě je proces deterministický.
+
+00:06:31.786 --> 00:06:34.145
+Vůbec ho neovlivňují nějaké náhodnosti,
+
+00:06:34.145 --> 00:06:36.152
+ale není zcela předvídatelný.
+
+00:06:36.152 --> 00:06:37.728
+Je tu příliš mnoho povrchů,
+
+00:06:37.728 --> 00:06:41.338
+příliš mnoho detailů, než aby se dala 
+předvídat konečná podoba.
+
+00:06:41.338 --> 00:06:44.552
+Pro architekta je to nová role.
+
+00:06:44.552 --> 00:06:48.163
+Potřebuje znát nové metody, 
+jak prozkoumat
+
+00:06:48.163 --> 00:06:49.939
+veškeré možnosti.
+
+00:06:49.939 --> 00:06:53.171
+Někdo může navrhovat řadu variant tvarů
+
+00:06:53.171 --> 00:06:55.385
+a někdo jiný je může rozvíjet.
+
+00:06:55.385 --> 00:06:57.633
+A pokud se vrátím k analogii s přírodou,
+
+00:06:57.633 --> 00:07:00.129
+můžeme začít přemýšlet o populacích,

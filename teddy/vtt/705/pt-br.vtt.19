@@ -1,0 +1,46 @@
+WEBVTT
+
+00:09:27.000 --> 00:09:30.000
+chegando ao fundo do poço entre 1933 e 1945,
+
+00:09:30.000 --> 00:09:33.000
+antes de retornar com tudo.
+
+00:09:33.000 --> 00:09:35.000
+Naturalmente, o que vemos
+
+00:09:35.000 --> 00:09:38.000
+é o fato de que Chagall era um artista judeu
+
+00:09:38.000 --> 00:09:40.000
+na Alemanha nazista.
+
+00:09:40.000 --> 00:09:42.000
+Estes sinais
+
+00:09:42.000 --> 00:09:44.000
+são na verdade tão fortes
+
+00:09:44.000 --> 00:09:47.000
+que não precisamos saber que alguém foi censurado.
+
+00:09:47.000 --> 00:09:49.000
+Podemos ter uma ideia
+
+00:09:49.000 --> 00:09:51.000
+usando até um básico processamento de sinais.
+
+00:09:51.000 --> 00:09:53.000
+Eis um modo simples de fazer.
+
+00:09:53.000 --> 00:09:55.000
+Uma expectativa razoável
+
+00:09:55.000 --> 00:09:57.000
+é que a fama de alguém em um período de tempo
+
+00:09:57.000 --> 00:09:59.000
+deveria ser mais ou menos a média de sua fama antes
+
+00:09:59.000 --> 00:10:01.000
+e da fama depois.

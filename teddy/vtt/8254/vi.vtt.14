@@ -1,0 +1,40 @@
+WEBVTT
+
+00:06:57.663 --> 00:07:00.291
+Nếu phản ứng chúng tôi 
+ghi lại trong não bộ
+
+00:07:00.332 --> 00:07:02.543
+trùng khớp với phản ứng 
+dự đoán trong mô hình,
+
+00:07:02.543 --> 00:07:06.797
+chúng ta sẽ xác định được nơ-ron nào 
+chịu trách nhiệm cho việc thay đổi tọa độ.
+
+00:07:07.047 --> 00:07:09.884
+Bước tiếp theo sẽ là hiểu 
+về cách đặc trưng các nơ-ron này
+
+00:07:09.884 --> 00:07:13.220
+phối hợp với nhau để đưa ra tính toán.
+
+00:07:13.220 --> 00:07:15.431
+Nhưng đây là cách chúng ta 
+bắt đầu hiểu được
+
+00:07:15.431 --> 00:07:18.309
+cách não bộ thực hiện 
+tính toán cơ bản hay thô sơ.
+
+00:07:18.684 --> 00:07:23.564
+Các tính toán mà tôi xem nó như là 
+nền móng cho các chức năng phức tạp hơn,
+
+00:07:23.606 --> 00:07:26.692
+không chỉ để cho việc đánh chặn
+mà còn về nhận thức.
+
+00:07:28.652 --> 00:07:31.405
+Cách tính toán của những 
+tế bào thần kinh này có thể khác

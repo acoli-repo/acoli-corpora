@@ -1,0 +1,50 @@
+WEBVTT
+
+00:10:26.746 --> 00:10:30.204
+Thay cho mô hình dày đặc, ta dùng
+các mô hình công suất lớn, rải rác,
+
+00:10:30.246 --> 00:10:33.204
+mà ta sẽ kích hoạt các phần liên quan
+ta cần đến.
+
+00:10:33.246 --> 00:10:36.662
+Chúng tôi đang xây dựng hệ thống
+có thể thực hiện các cách tiếp cận này,
+
+00:10:36.704 --> 00:10:39.246
+và chúng tôi gọi hệ thống này là
+“Lộ trình.”
+
+00:10:39.287 --> 00:10:42.371
+Ý tưởng là mô hình này có thể làm
+
+00:10:42.412 --> 00:10:44.496
+hàng ngàn, triệu tác vụ khác nhau,
+
+00:10:44.537 --> 00:10:46.787
+rồi ta có thể ngày càng
+cộng thêm tác vụ mới,
+
+00:10:46.787 --> 00:10:48.912
+và có thể xử lý nhiều dạng
+dữ liệu cùng lúc,
+
+00:10:48.954 --> 00:10:51.912
+và học thêm nhiều tác vụ mới
+
+00:10:51.954 --> 00:10:54.037
+và kích hoạt các phần
+liên quan của mô hình
+
+00:10:54.037 --> 00:10:55.746
+cho các ví dụ và tác vụ khác nhau.
+
+00:10:55.787 --> 00:10:57.537
+Và chúng tôi rất hào hứng với nó,
+
+00:10:57.537 --> 00:10:59.579
+chúng tôi nghĩ đây sẽ là một bước tiến
+
+00:10:59.621 --> 00:11:00.954
+trong cách xây hệ thống AI

@@ -1,0 +1,42 @@
+WEBVTT
+
+00:11:57.030 --> 00:12:00.297
+Một thời gian trước,
+tôi làm việc trong dự án tên là VideoKheti
+
+00:12:00.330 --> 00:12:03.930
+cho phép nông dân nói tiếng Hindi
+ở miền Trung Ấn Độ
+
+00:12:03.963 --> 00:12:10.630
+tìm kiếm các video về nông nghiệp
+bằng cách nói vào một ứng dụng điện thoại.
+
+00:12:11.363 --> 00:12:14.797
+Chúng tôi tới Madhya Pradesh
+để thu thập dữ liệu cho ứng dụng này,
+
+00:12:14.830 --> 00:12:17.130
+sau khi huấn luyện các mô hình
+
+00:12:17.163 --> 00:12:19.530
+chúng tôi phát hiện ra kết quả rất tệ.
+
+00:12:19.530 --> 00:12:20.797
+Làm thế này không đúng.
+
+00:12:20.830 --> 00:12:23.097
+Chúng tôi rất bối rối.
+Sao điều này lại xảy ra?
+
+00:12:23.130 --> 00:12:25.397
+Rồi chúng tôi đào sâu hơn vào
+dữ liệu mình có
+
+00:12:25.430 --> 00:12:27.663
+và phát hiện ra rằng
+chúng tôi thu thập dữ liệu
+
+00:12:27.697 --> 00:12:32.363
+vào thời điểm mà chúng tôi nghĩ rằng
+cực kỳ yên tĩnh là ban đêm.

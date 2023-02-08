@@ -1,0 +1,49 @@
+WEBVTT
+
+00:06:28.288 --> 00:06:30.371
+Nhưng bất chấp tất cả các thành công này,
+
+00:06:30.371 --> 00:06:32.579
+Tôi nghĩ chúng ta vẫn làm sai nhiều thứ,
+
+00:06:32.621 --> 00:06:35.413
+và tôi sẽ nói với bạn ba điểm chính
+chúng ta đang làm sai,
+
+00:06:35.454 --> 00:06:36.621
+và cách khắc phục chúng.
+
+00:06:36.663 --> 00:06:38.746
+Đầu tiên là hầu hết mạng nơ-ron ngày nay
+
+00:06:38.746 --> 00:06:40.996
+được dạy để làm một tác vụ duy nhất
+
+00:06:41.038 --> 00:06:44.246
+Bạn dạy nó 1 tác vụ
+bạn rất quan tâm,
+
+00:06:44.288 --> 00:06:46.204
+nhưng đó lại là công việc khá nặng nhọc.
+
+00:06:46.246 --> 00:06:47.913
+Bạn cần chọn ra một bộ dữ liệu,
+
+00:06:47.913 --> 00:06:50.913
+bạn cần quyết định kiến trúc mạng
+bạn sẽ dùng
+
+00:06:50.954 --> 00:06:52.121
+cho tác vụ này,
+
+00:06:52.121 --> 00:06:54.829
+bạn phải khởi chạy các trọng số
+với giá trị ngẫu nhiên,
+
+00:06:54.871 --> 00:06:57.746
+áp dụng rất nhiều phép tính toán
+để thay đổi các trọng số.
+
+00:06:57.746 --> 00:07:00.496
+Và cuối cùng, nếu bạn may mắn,
+bạn sẽ có được một mô hình

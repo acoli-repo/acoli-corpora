@@ -1,0 +1,34 @@
+WEBVTT
+
+00:05:28.000 --> 00:05:32.000
+demandant encore avec insistance plus de données.
+
+00:05:32.000 --> 00:05:34.000
+Et maintenant je voudrais que vous vous imaginiez,
+
+00:05:34.000 --> 00:05:38.000
+pas seulement 2 morceaux de données connectés, ou même 6,
+
+00:05:38.000 --> 00:05:43.000
+mais un monde où tout le monde aurait mis ses données sur le web.
+
+00:05:43.000 --> 00:05:45.000
+Virtuellement tout ce que vous pouvez imaginer serait sur le web.
+
+00:05:45.000 --> 00:05:47.000
+Et j'ai appelé cela "Linked Data" ("données liées")
+
+00:05:47.000 --> 00:05:49.000
+La technologie s'appelle "Linked Data" et elle est extrêmement simple.
+
+00:05:49.000 --> 00:05:53.000
+Si vous voulez mettre quelque chose sur le web, il y a 3 règles.
+
+00:05:53.000 --> 00:05:56.000
+La première chose est que nous utilisons toujours les adresses HTTP --
+
+00:05:56.000 --> 00:05:58.000
+ces trucs qui commencent par http: --
+
+00:05:58.000 --> 00:06:02.000
+Mais plus uniquement pour les documents,

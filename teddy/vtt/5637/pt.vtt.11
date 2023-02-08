@@ -1,0 +1,38 @@
+WEBVTT
+
+00:05:29.871 --> 00:05:32.746
+Isto é uma técnica 
+de mapeamento de labirintos
+
+00:05:32.746 --> 00:05:35.663
+chamada busca em profundidade.
+
+00:05:35.663 --> 00:05:40.621
+Chama-se assim porque envolve ir o mais
+profundamente possível por um caminho
+
+00:05:40.621 --> 00:05:42.371
+antes de voltar para trás.
+
+00:05:42.371 --> 00:05:44.996
+Por outras palavras, 
+se tiveres um labirinto como este,
+
+00:05:44.996 --> 00:05:48.454
+vais querer explorar totalmente
+cada uma destas ramificações
+
+00:05:48.454 --> 00:05:52.079
+antes de voltar à interseção
+e tentar outro caminho.
+
+00:05:52.079 --> 00:05:55.538
+Todos precisam de um conjunto claro
+de instruções para o que devem fazer.
+
+00:05:55.538 --> 00:05:59.829
+Como - primeiro, amarra a ponta solta
+do teu fio em volta do cristal
+
+00:05:59.829 --> 00:06:01.829
+para poderes voltar para o pé dele..

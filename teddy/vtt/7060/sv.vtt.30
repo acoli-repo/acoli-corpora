@@ -1,0 +1,48 @@
+WEBVTT
+
+00:14:58.933 --> 00:15:01.193
+För det som är händer i en länkad lista -
+
+00:15:01.217 --> 00:15:04.867
+den här försöker ta bort
+ett existerande element från en lista -
+
+00:15:04.891 --> 00:15:08.733
+och det finns en skillnad
+mellan om det är det första elementet
+
+00:15:08.757 --> 00:15:10.756
+eller om det är något i mitten.
+
+00:15:10.780 --> 00:15:12.385
+Om det är det första elementet
+
+00:15:12.409 --> 00:15:15.425
+måste man ändra pekaren
+för det första elementet.
+
+00:15:15.449 --> 00:15:16.647
+Om det är i mitten
+
+00:15:16.671 --> 00:15:19.092
+måste man ändra pekaren
+för ett föregående element.
+
+00:15:19.116 --> 00:15:21.140
+Så det är två helt olika fall.
+
+00:15:21.164 --> 00:15:22.316
+CA: Och det är bättre.
+
+00:15:22.340 --> 00:15:23.741
+LT: Och den här är bättre.
+
+00:15:23.940 --> 00:15:26.263
+Den har ingen if-sats.
+
+00:15:26.637 --> 00:15:28.850
+Och det spelar egentligen ingen roll ...
+
+00:15:28.874 --> 00:15:31.965
+Jag vill inte att du ska förstå
+varför den inte har någon if-sats,

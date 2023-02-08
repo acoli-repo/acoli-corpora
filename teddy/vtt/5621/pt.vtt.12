@@ -1,0 +1,39 @@
+WEBVTT
+
+00:05:58.657 --> 00:06:00.827
+Pede-lhes que sigam
+o programa Pathfinder.
+
+00:06:00.888 --> 00:06:03.308
+É aqui que entra a recursão.
+
+00:06:03.308 --> 00:06:07.838
+Isto pode acontecer muitas vezes
+antes da última instrução, que é:
+
+00:06:08.268 --> 00:06:13.617
+3. Se ouvires qualquer coisa por rádio,
+informa por rádio o teu progenitor
+
+00:06:13.667 --> 00:06:16.517
+se a recebeste no teu local
+pela esquerda ou pela direita,
+
+00:06:16.807 --> 00:06:19.653
+e depois repete tudo
+o que acabaste de ouvir.
+
+00:06:19.720 --> 00:06:23.650
+O Pathfinder é um exemplo daquilo
+a que os programadores chamam funções,
+
+00:06:23.680 --> 00:06:26.280
+sub-rotinas ou procedimentos.
+
+00:06:26.433 --> 00:06:29.527
+Qualquer que seja a terminologia,
+a ideia é a mesma.
+
+00:06:29.667 --> 00:06:32.234
+É um conjunto de instruções
+a que se dá um nome,

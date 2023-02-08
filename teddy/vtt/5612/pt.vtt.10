@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:59.184 --> 00:05:02.894
+Esta abordagem é muito mais rápida
+do que uma solução ingénua.
+
+00:05:02.934 --> 00:05:06.104
+Em vez dum tempo fatorial,
+usa-se o tempo linear.
+
+00:05:06.184 --> 00:05:08.034
+É quando o tempo aumenta
+
+00:05:08.044 --> 00:05:10.654
+em proporção com o número
+de blocos que há.
+
+00:05:10.674 --> 00:05:14.704
+Então, escrevemos um "loop" para o Hedge
+abordar as pilhas, individualmente
+
+00:05:14.734 --> 00:05:18.309
+e parar quando encontrasse
+uma boa e pudesse continuar.
+
+00:05:18.529 --> 00:05:20.206
+É isto que acontece.
+
+00:05:20.206 --> 00:05:24.104
+O Hedge é rápido, mas há muitas pilhas
+e demora muito tempo.
+
+00:05:24.179 --> 00:05:26.145
+Demasiado tempo.

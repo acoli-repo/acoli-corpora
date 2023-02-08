@@ -1,0 +1,40 @@
+WEBVTT
+
+00:04:57.204 --> 00:05:01.746
+To zadziała, ale w przypadku
+dużego basenu potrwa bardzo długo.
+
+00:05:01.788 --> 00:05:05.871
+Na każdym kroku Hedge powtarza
+akcję patrzenia w lewo i w prawo.
+
+00:05:05.913 --> 00:05:10.246
+Jeśli jest N stosów,
+spojrzy na N stosów N razy.
+
+00:05:10.329 --> 00:05:12.454
+Czy jest szybszy sposób?
+
+00:05:12.496 --> 00:05:14.371
+Ten może oszczędzić trochę czasu.
+
+00:05:14.413 --> 00:05:16.246
+Zanim zacznie cokolwiek innego,
+
+00:05:16.246 --> 00:05:18.038
+Hedge może zacząć od lewej
+
+00:05:18.038 --> 00:05:21.371
+i trzymać w pamięci zestawienie
+najwyższych stosów.
+
+00:05:21.829 --> 00:05:25.538
+Tu byłoby to 2 i znowu 2,
+bo pierwsza była wyższa,
+
+00:05:25.538 --> 00:05:28.163
+potem 4, 4, 4.
+
+00:05:28.163 --> 00:05:31.371
+Może potem znaleźć najwyższy
+stos najbardziej po prawej,

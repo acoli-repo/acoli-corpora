@@ -1,0 +1,28 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:02.000
+Dar a trebuit să dorm cu o nucă kola lângă patul meu, îngropată în nisip,
+
+00:12:02.000 --> 00:12:05.000
+şi să dau şapte monede celor şapte lepre şi aşa mai departe.
+
+00:12:05.000 --> 00:12:09.000
+Iar într-un final, a dezvăluit adevărul chestiunii.
+
+00:12:10.000 --> 00:12:14.000
+Şi se pare că este un generator de numere pseudo-aleatoare folosind haos deterministic.
+
+00:12:14.000 --> 00:12:20.000
+Când ai un simbol de patru biţi, îl pui lîngă altul aşezat transversal.
+
+00:12:20.000 --> 00:12:22.000
+Aşa că par cu impar îţi dă impar.
+
+00:12:22.000 --> 00:12:24.000
+Impar plus par îţi dă impar.
+
+00:12:24.000 --> 00:12:27.000
+Par plus par îţi dă par. Impar plus impar îţi dă par.
+
+00:12:27.000 --> 00:12:31.000
+Este adunarea modulo 2, exact la fel ca verificarea cu bitul de paritate din computer.

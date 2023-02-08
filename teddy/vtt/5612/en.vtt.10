@@ -1,0 +1,34 @@
+WEBVTT
+
+00:04:58.964 --> 00:05:02.684
+This approach is much, much faster 
+than the naïve solution.
+
+00:05:02.684 --> 00:05:06.104
+Instead of factorial time, 
+it takes linear time.
+
+00:05:06.104 --> 00:05:07.674
+That’s where the time increases
+
+00:05:07.674 --> 00:05:10.384
+in proportion to 
+the number of blocks there are.
+
+00:05:10.384 --> 00:05:14.374
+Now write a loop for Hedge 
+to approach the piles individually,
+
+00:05:14.374 --> 00:05:18.529
+and stop when he finds a good one, 
+and you’ll be ready to go.
+
+00:05:18.529 --> 00:05:19.918
+Here’s what happens:
+
+00:05:19.918 --> 00:05:23.964
+Hedge is fast, but there are so many piles
+it takes a long time.
+
+00:05:23.964 --> 00:05:25.320
+Too long.

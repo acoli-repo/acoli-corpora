@@ -1,0 +1,49 @@
+WEBVTT
+
+00:05:59.143 --> 00:06:02.207
+En aquesta sèrie,
+parla amb l'ajuda d'un ordinador,
+
+00:06:02.207 --> 00:06:05.311
+que ens permet identificar fàcilment
+el final de les frases.
+
+00:06:05.311 --> 00:06:08.737
+Així que vaig escriure
+un algorisme de direcció.
+
+00:06:08.737 --> 00:06:10.697
+Registra la conferència
+i després utilitza
+
+00:06:10.697 --> 00:06:13.384
+l'amplitud de cada paraula per
+desplaçar-se per l'eix d'abscisses
+
+00:06:13.384 --> 00:06:16.017
+i la inflexió de les frases
+per desplaçar-se
+
+00:06:16.017 --> 00:06:18.171
+amunt i avall per l'eix d'ordenades.
+
+00:06:18.171 --> 00:06:20.945
+I aquestes són les línies de tendència.
+Hi ha més preguntes
+
+00:06:20.945 --> 00:06:22.815
+que respostes
+en les lleis de la física.
+
+00:06:22.815 --> 00:06:24.848
+Quan arribem al final d'una frase,
+
+00:06:24.848 --> 00:06:27.183
+col·loquem un estel en aquesta posició.
+
+00:06:27.183 --> 00:06:29.983
+Moltes frases i molts estels,
+
+00:06:29.983 --> 00:06:32.339
+i després de processar tot l'audio,
+això és el que obtenim.

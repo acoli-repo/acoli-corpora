@@ -1,0 +1,28 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:02.000
+De azért úgy kellett, hogy aludjak, hogy az ágyam mellett, a homokban egy kola dió volt elásva,
+
+00:12:02.000 --> 00:12:05.000
+és hét érmét kellett adjak hét bélpoklosnak, stb.
+
+00:12:05.000 --> 00:12:09.000
+És végül felfedte a dolog titkát.
+
+00:12:10.000 --> 00:12:14.000
+És kiderült, hogy ez egy pszeudovéletlen-számgenerátor, ami a determisztikus káoszt használja.
+
+00:12:14.000 --> 00:12:20.000
+Ha van egy 4-bites szimbólumunk, akkor azt hozzáírjuk egy másikhoz az egyik oldalról.
+
+00:12:20.000 --> 00:12:22.000
+Így páros plusz páratlan: páratlan lesz.
+
+00:12:22.000 --> 00:12:24.000
+Páratlan plusz páros: páratlan lesz.
+
+00:12:24.000 --> 00:12:27.000
+Páros plusz páros: az páros. Páratlan plusz páratlan: az páros.
+
+00:12:27.000 --> 00:12:31.000
+Ez egy összeadás modulo 2, akárcsak a paritás-ellenőrzés a számítógépünkön.

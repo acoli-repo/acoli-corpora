@@ -1,0 +1,48 @@
+WEBVTT
+
+00:05:59.590 --> 00:06:01.899
+into how organisms are developing.
+
+00:06:01.923 --> 00:06:03.790
+Is that metaphor basically right?
+
+00:06:03.814 --> 00:06:05.383
+ML: Yeah, this is exactly right.
+
+00:06:05.407 --> 00:06:08.418
+So if you think about the way
+programming was done in the '40s,
+
+00:06:08.442 --> 00:06:11.091
+in order to get your computer
+to do something different,
+
+00:06:11.115 --> 00:06:13.567
+you would physically
+have to shift the wires around.
+
+00:06:13.591 --> 00:06:16.089
+So you'd have to go in there
+and rewire the hardware.
+
+00:06:16.113 --> 00:06:18.450
+You'd have to interact
+with the hardware directly,
+
+00:06:18.474 --> 00:06:21.194
+and all of your strategies
+for manipulating that machine
+
+00:06:21.218 --> 00:06:23.062
+would be at the level of the hardware.
+
+00:06:23.086 --> 00:06:26.181
+And the reason we have
+this now amazing technology revolution,
+
+00:06:26.205 --> 00:06:28.070
+information sciences and so on,
+
+00:06:28.094 --> 00:06:31.920
+is because computer science moved
+from a focus on the hardware

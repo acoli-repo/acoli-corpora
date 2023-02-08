@@ -1,0 +1,43 @@
+WEBVTT
+
+00:07:57.000 --> 00:08:00.000
+Os amigos de pessoas escolhidas aleatóriamente
+
+00:08:00.000 --> 00:08:02.000
+têm um "grau" mais elevado e são mais centrais,
+
+00:08:02.000 --> 00:08:04.000
+que as próprias pessoas escolhidas.
+
+00:08:04.000 --> 00:08:06.000
+E podem obter uma análise intuitiva para isto
+
+00:08:06.000 --> 00:08:09.000
+se imaginarem apenas pessoas no perímetro da rede.
+
+00:08:09.000 --> 00:08:11.000
+Se escolhem esta pessoa,
+
+00:08:11.000 --> 00:08:14.000
+o único amigo que têm de nomear é esta pessoa,
+
+00:08:14.000 --> 00:08:16.000
+que, por construção, têm de ter pelo menos dois,
+
+00:08:16.000 --> 00:08:18.000
+e tipicamente mais amigos.
+
+00:08:18.000 --> 00:08:20.000
+E isso acontece em qualquer nó periférico.
+
+00:08:20.000 --> 00:08:23.000
+E de facto, isso acontece ao longo da rede à medida que se avança,
+
+00:08:23.000 --> 00:08:25.000
+qualquer pessoa que escolhes, quando nomeiam aleatóriamente...
+
+00:08:25.000 --> 00:08:28.000
+quando uma pessoa ao acaso nomeia um dos seus amigos,
+
+00:08:28.000 --> 00:08:31.000
+movem-se mais perto do centro da rede.

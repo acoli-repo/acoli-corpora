@@ -1,0 +1,38 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:32.000
+Trong những đoạn video mà tôi chuẩn bị 
+cho các bạn xem,
+
+00:09:32.000 --> 00:09:36.000
+bạn sẽ thấy một hệ thống chú ý bằng mắt
+trên một con robot --
+
+00:09:36.000 --> 00:09:40.000
+nó tìm màu da trong không gian HSV,
+
+00:09:40.000 --> 00:09:44.000
+vì vậy nó tìm kiếm trên mọi màu da.
+
+00:09:44.000 --> 00:09:46.000
+Nó tìm những màu bão hoà, từ đồ chơi.
+
+00:09:46.000 --> 00:09:48.000
+Và nó tìm những thứ đang di chuyển 
+xung quanh.
+
+00:09:48.000 --> 00:09:51.000
+Và nó tính những thứ đó chung lại trong
+một cửa sổ chú ý,
+
+00:09:51.000 --> 00:09:53.000
+và nó tìm nơi có điểm số cao nhất --
+
+00:09:53.000 --> 00:09:55.000
+nơi mà thứ thú vị nhất đang diễn ra --
+
+00:09:55.000 --> 00:09:59.000
+và đó là cái mà mắt của nó di chuyển đến.
+
+00:09:59.000 --> 00:10:01.000
+Và nó nhìn thẳng vào đó.

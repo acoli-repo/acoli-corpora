@@ -1,0 +1,43 @@
+WEBVTT
+
+00:09:57.849 --> 00:10:01.515
+And this corresponds to it being
+some combination of both zero and one
+
+00:10:01.539 --> 00:10:03.326
+at the same time,
+
+00:10:03.350 --> 00:10:05.539
+a phenomenon that we call "superposition."
+
+00:10:06.569 --> 00:10:09.274
+And when we have two qubits
+in superposition,
+
+00:10:09.298 --> 00:10:11.680
+we're actually working across
+all four combinations
+
+00:10:11.704 --> 00:10:14.214
+of zero-zero, zero-one,
+one-zero and one-one.
+
+00:10:14.940 --> 00:10:16.286
+With three qubits,
+
+00:10:16.310 --> 00:10:19.551
+we're working in superposition
+across eight combinations,
+
+00:10:19.575 --> 00:10:20.727
+and so on.
+
+00:10:21.294 --> 00:10:25.244
+Each time we add a single qubit,
+we double the number of combinations
+
+00:10:25.268 --> 00:10:28.870
+that we can work with in superposition
+
+00:10:28.894 --> 00:10:30.073
+at the same time.

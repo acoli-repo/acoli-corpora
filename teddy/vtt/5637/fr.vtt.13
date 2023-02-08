@@ -1,0 +1,41 @@
+WEBVTT
+
+00:06:26.496 --> 00:06:31.163
+une option est de casser les deux sections
+qui mènent sur le chemin sans issue,
+
+00:06:31.163 --> 00:06:35.163
+et attacher la bobine au fil qui
+ramène au cristal.
+
+00:06:35.163 --> 00:06:38.954
+Les fils cassés disent à tout le monde
+qui arrive à cette intersection
+
+00:06:38.954 --> 00:06:40.496
+"N'allez pas par là."
+
+00:06:40.496 --> 00:06:44.704
+Cela garantira également que le 
+chemin final mènera directement au cristal
+
+00:06:44.704 --> 00:06:47.371
+plutôt que de visiter des impasses.
+
+00:06:47.371 --> 00:06:50.663
+Ok, alors disons que quelqu’un
+est à une intersection.
+
+00:06:50.663 --> 00:06:52.704
+Dans quelle direction devraient-ils aller?
+
+00:06:52.704 --> 00:06:56.538
+La première priorité est que tout le 
+monde couvre un nouveau chemin
+
+00:06:56.538 --> 00:06:58.413
+pour minimiser le doublement.
+
+00:06:58.413 --> 00:07:01.746
+S’il n’y a pas de fil dans une direction
+Allez dans cette direction.

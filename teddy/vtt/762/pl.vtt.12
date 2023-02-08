@@ -1,0 +1,31 @@
+WEBVTT
+
+00:05:58.000 --> 00:06:02.000
+stosujemy je teraz nie tylko dla dokumentów,
+
+00:06:02.000 --> 00:06:04.000
+używamy ich dla rzeczy, o których mówią dokumenty.
+
+00:06:04.000 --> 00:06:06.000
+Stosujemy je dla osób, stosujemy dla miejsc,
+
+00:06:06.000 --> 00:06:10.000
+dla produktów, dla wydarzeń.
+
+00:06:10.000 --> 00:06:14.000
+Wszystko, czemu odpowiadają jakieś pojęcia, ma teraz nazwę zaczynającą się od http.
+
+00:06:14.000 --> 00:06:19.000
+Druga zasada: gdy wezmę jedną z tych nazw HTTP i sprawdzę ją
+
+00:06:19.000 --> 00:06:21.000
+i zrobię z nią to, co normalnie robimy w WWW, pobiorę dane
+
+00:06:21.000 --> 00:06:23.000
+przy użyciu protokołu HTTP z sieci,
+
+00:06:23.000 --> 00:06:26.000
+uzyskam jakieś dane w standardowym formacie,
+
+00:06:26.000 --> 00:06:31.000
+to znaczy jakieś użyteczne dane, które może ktoś chce poznać,

@@ -1,0 +1,43 @@
+WEBVTT
+
+00:10:29.000 --> 00:10:31.000
+Podría depender de la naturaleza del patógeno,
+
+00:10:31.000 --> 00:10:33.000
+distintos patógenos,
+
+00:10:33.000 --> 00:10:35.000
+usando esta técnica, se obtienen distintas alertas,
+
+00:10:35.000 --> 00:10:37.000
+u otros fenómenos que se están extendiendo
+
+00:10:37.000 --> 00:10:40.000
+o, francamente, de la estructura de la red humana.
+
+00:10:40.000 --> 00:10:43.000
+En nuestro caso, aunque no era necesario,
+
+00:10:43.000 --> 00:10:45.000
+pudimos, de hecho, mapear la red de estudiantes.
+
+00:10:45.000 --> 00:10:47.000
+Este es un mapeo de 714 estudiantes
+
+00:10:47.000 --> 00:10:49.000
+y sus vínculos de amistad.
+
+00:10:49.000 --> 00:10:51.000
+Y en un minuto voy a poner este mapeo en movimiento.
+
+00:10:51.000 --> 00:10:53.000
+Vamos a tomar cortes diarios de la red
+
+00:10:53.000 --> 00:10:55.000
+durante 120 días.
+
+00:10:55.000 --> 00:10:58.000
+Los puntos rojos van a ser casos de gripe
+
+00:10:58.000 --> 00:11:01.000
+y los puntos amarillos van a ser amigos de las personas con gripe.

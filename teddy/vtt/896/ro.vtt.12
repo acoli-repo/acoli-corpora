@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:59.143 --> 00:06:02.207
+În această serie el vorbește cu ajutorul unui calculator,
+
+00:06:02.207 --> 00:06:05.311
+care face ca identificarea finalurilor de propoziție să fie relativ ușoară.
+
+00:06:05.311 --> 00:06:08.737
+Așa că am scris un algoritm de urmărire,
+
+00:06:08.737 --> 00:06:10.697
+care ascultă prelegerea și apoi folosește
+
+00:06:10.697 --> 00:06:13.384
+amplitudinea fiecărui cuvânt să mute un punct pe abscisă
+
+00:06:13.384 --> 00:06:16.017
+și folosește inflexiunea propozițiilor
+
+00:06:16.017 --> 00:06:18.171
+să mute același punct în sus și în jos pe ordonată.
+
+00:06:18.171 --> 00:06:20.945
+Iar aceste linii de trend, vedeți, sunt mai multe întrebări
+
+00:06:20.945 --> 00:06:22.815
+decât răspunsuri în legile fizicii,
+
+00:06:22.815 --> 00:06:24.848
+iar când ajungem la sfârșitul unei propoziții,
+
+00:06:24.848 --> 00:06:27.183
+plasăm o stea în acea locație.
+
+00:06:27.183 --> 00:06:29.983
+Așadar, sunt multe propoziții, deci multe stele.
+
+00:06:29.983 --> 00:06:32.339
+Redând întreaga înregistrare audio, iată ce obținem.

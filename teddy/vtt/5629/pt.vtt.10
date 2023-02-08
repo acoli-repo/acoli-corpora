@@ -1,0 +1,36 @@
+WEBVTT
+
+00:04:59.204 --> 00:05:02.163
+Primeiro, como é que nos mantemos
+a par das informações?
+
+00:05:02.163 --> 00:05:07.038
+E segundo, o que fazemos se houver
+múltiplas opções ao mesmo tempo?
+
+00:05:07.496 --> 00:05:08.746
+Para o primeiro problema,
+
+00:05:08.746 --> 00:05:12.996
+o método conveniente para as máquinas
+guardarem as informações é uma tabela.
+
+00:05:12.996 --> 00:05:16.996
+Neste caso, a Hedge pode listar
+todos os passos
+
+00:05:16.996 --> 00:05:19.746
+nos cabeçalhos das linhas e das colunas.
+
+00:05:19.746 --> 00:05:22.663
+Depois, ele pode ir linha a linha.
+
+00:05:22.663 --> 00:05:25.496
+No esquema, que pontos misturar?
+
+00:05:25.496 --> 00:05:27.413
+O “agitar” e o “titular”.
+
+00:05:27.871 --> 00:05:31.163
+Portanto, o Hedge deve fazer uma marca
+em ambas as colunas.

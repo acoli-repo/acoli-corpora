@@ -1,0 +1,38 @@
+WEBVTT
+
+00:05:56.735 --> 00:06:00.480
+embora outros métodos de seleção
+também possam funcionar.
+
+00:06:00.860 --> 00:06:04.860
+Depois, Hedge pode adicionar o passo
+à lista de sequência de execução,
+
+00:06:04.860 --> 00:06:07.310
+apagar uma coluna inteira da tabela,
+
+00:06:07.310 --> 00:06:10.340
+e assim eliminar todas as vezes
+em que houve uma conexão,
+
+00:06:10.340 --> 00:06:12.940
+e fazer um loop para o início novamente.
+
+00:06:12.990 --> 00:06:16.250
+Como não há nenhuma
+referência circular no grafo,
+
+00:06:16.290 --> 00:06:17.974
+cada vez que chegarmos aqui
+
+00:06:17.974 --> 00:06:21.624
+haverá ao menos um passo
+sem conexões restantes.
+
+00:06:21.864 --> 00:06:26.556
+Hedge pode acrescentar a ordem alfabética
+à sua lista de ordem de execução,
+
+00:06:26.556 --> 00:06:30.951
+removê-la da tabela e fazer um loop
+para o começo novamente.

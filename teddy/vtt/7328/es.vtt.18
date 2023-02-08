@@ -1,0 +1,45 @@
+WEBVTT
+
+00:08:58.621 --> 00:09:00.371
+el concepto de un leopardo
+
+00:09:00.412 --> 00:09:02.662
+puede manejar varios tipos de datos
+de entrada,
+
+00:09:02.662 --> 00:09:05.662
+incluso, entradas no humanas,
+como secuencias genéticas,
+
+00:09:05.662 --> 00:09:08.871
+nubes de puntos 3D, así como
+imágenes, texto y vídeo.
+
+00:09:08.912 --> 00:09:12.537
+El tercer problema es que
+los modelos actuales son densos.
+
+00:09:12.579 --> 00:09:13.996
+Hay un solo modelo,
+
+00:09:13.996 --> 00:09:16.371
+que se activa completamente
+para todas las tareas,
+
+00:09:16.412 --> 00:09:18.537
+para cada ejemplo que queremos lograr,
+
+00:09:18.537 --> 00:09:21.454
+ya sea algo sencillo
+o algo realmente complicado.
+
+00:09:21.496 --> 00:09:24.162
+Además, es distinto a
+cómo funciona nuestro cerebro.
+
+00:09:24.204 --> 00:09:27.204
+tenemos diferentes partes
+que son buenas para distintas cosas.
+
+00:09:27.246 --> 00:09:30.537
+y constantemente recurrimos  a esas partes

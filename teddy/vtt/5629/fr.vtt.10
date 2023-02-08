@@ -1,0 +1,38 @@
+WEBVTT
+
+00:04:59.218 --> 00:05:02.178
+Un : comment garder trace
+des informations ?
+
+00:05:02.178 --> 00:05:07.499
+Deux : que faire s'il y a
+plusieurs options possibles ?
+
+00:05:07.499 --> 00:05:08.749
+Pour le premier défi,
+
+00:05:08.749 --> 00:05:12.989
+une méthode pratique pour les machines
+pour stocker l'information est un tableau.
+
+00:05:12.989 --> 00:05:16.989
+Dans ce cas, Hedge peut lister
+toutes les étapes comme en-tête
+
+00:05:16.989 --> 00:05:19.739
+à la fois des lignes et des colonnes.
+
+00:05:19.739 --> 00:05:22.649
+Il peut ensuite parcourir
+les lignes une par une.
+
+00:05:22.649 --> 00:05:25.510
+Sur le schéma, qu'est-ce qui pointe
+vers « mélanger » ?
+
+00:05:25.510 --> 00:05:27.860
+« Agiter » et « titrer ».
+
+00:05:27.860 --> 00:05:31.400
+Hedge devrait faire une marque
+dans leurs deux colonnes.

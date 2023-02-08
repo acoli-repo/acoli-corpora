@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:58.196 --> 00:06:00.347
+Totuși, problema care apare
+
+00:06:00.371 --> 00:06:04.122
+este că sunt sute de milioane
+de astfel de „hash”-uri
+
+00:06:04.146 --> 00:06:07.756
+depozitate în baze de date
+din toată lumea.
+
+00:06:08.214 --> 00:06:09.665
+Într-o astfel de bază de date,
+
+00:06:09.665 --> 00:06:12.745
+un „hash” poate fi folosit
+doar de instituția căreia îi aparține.
+
+00:06:12.745 --> 00:06:16.619
+Dar neexistând o corelare între aceste
+date, nu știm câte sunt de fapt.
+
+00:06:16.643 --> 00:06:20.159
+Nu știm câte se referă la copii
+care au fost deja salvați
+
+00:06:20.183 --> 00:06:23.072
+sau care trebuie identificați.
+
+00:06:23.096 --> 00:06:27.266
+Deci prima noastră premisă, și cea mai
+importantă, e că toate aceste date
+
+00:06:27.290 --> 00:06:29.693
+trebuie corelate.

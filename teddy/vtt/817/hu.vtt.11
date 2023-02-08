@@ -1,0 +1,43 @@
+WEBVTT
+
+00:05:28.000 --> 00:05:30.000
+És ezt a valószínűségszámítás
+
+00:05:30.000 --> 00:05:33.000
+és az adatok kombinációjával érik el.
+
+00:05:33.000 --> 00:05:35.000
+Gondoljunk a valószínűségre.
+
+00:05:35.000 --> 00:05:37.000
+Ha le akarunk kötni valakit a folyamattal,
+
+00:05:37.000 --> 00:05:40.000
+hogy dobozokat nyit ki és pitéket próbál találni,
+
+00:05:40.000 --> 00:05:42.000
+biztosítanunk kell, hogy se nem túl nehéz,
+
+00:05:42.000 --> 00:05:44.000
+se nem túl könnyű megtalálni egy pitét.
+
+00:05:44.000 --> 00:05:46.000
+Tehát mit teszünk? Megnézünk egymillió embert --
+
+00:05:46.000 --> 00:05:49.000
+nem, 100 millió embert, 100 doboznyitogatót --
+
+00:05:49.000 --> 00:05:52.000
+és kiszámoljuk, hogyha a pite gyakorisága
+
+00:05:52.000 --> 00:05:54.000
+kb. 25% --
+
+00:05:54.000 --> 00:05:57.000
+ez se nem túl idegesítő, se nem túl könnyű.
+
+00:05:57.000 --> 00:05:59.000
+Leköti az embereket.
+
+00:05:59.000 --> 00:06:02.000
+De persze nem csak ezt tesszük -- 15 pite van.

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:59.143 --> 00:06:02.207
+Sada, u ovoj seriji on govori uz pomoć računala,
+
+00:06:02.207 --> 00:06:05.311
+što zapravo omogućuje identifikaciju krajeva rečenica
+
+00:06:05.311 --> 00:06:08.737
+dosta jednostavno. Pa sam stvorio skretajući algoritam.
+
+00:06:08.737 --> 00:06:10.697
+On sluša predavanje, i onda koristi
+
+00:06:10.697 --> 00:06:13.384
+amplitude svake riječi kako bi pomaknuo točku na x osi,
+
+00:06:13.384 --> 00:06:16.017
+i koristi modulaciju rečenica
+
+00:06:16.017 --> 00:06:18.171
+kako bi pomaknuo istu točku gore i dolje po y osi.
+
+00:06:18.171 --> 00:06:20.945
+I ove linije, kao što vidite, ostavljaju više pitanja
+
+00:06:20.945 --> 00:06:22.815
+nego odgovora u zakonima fizike,
+
+00:06:22.815 --> 00:06:24.848
+i kad dođemo do kraja rečenice,
+
+00:06:24.848 --> 00:06:27.183
+stavljamo zvjezdicu na tu lokaciju.
+
+00:06:27.183 --> 00:06:29.983
+Dakle postoji puno rečenica, pa puno zvijezda,
+
+00:06:29.983 --> 00:06:32.339
+i nakon renderiranja sveg zvuka, ovo je što dobijemo.

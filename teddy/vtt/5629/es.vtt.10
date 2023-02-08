@@ -1,0 +1,36 @@
+WEBVTT
+
+00:04:59.054 --> 00:05:02.178
+Primero, ¿cómo llevar el registro
+de la información?
+
+00:05:02.178 --> 00:05:06.909
+Y segundo, ¿qué hacer si hay 
+varias opciones al mismo tiempo?
+
+00:05:06.909 --> 00:05:08.749
+Para el primer desafío,
+
+00:05:08.749 --> 00:05:12.668
+para las máquinas, una forma conveniente
+de guardar información es en una tabla.
+
+00:05:12.989 --> 00:05:16.989
+En este caso, puedes hacer que Hedge 
+enumere todos los pasos en la cabecera
+
+00:05:16.989 --> 00:05:19.123
+de las filas y columnas.
+
+00:05:19.739 --> 00:05:22.649
+Luego, puede revisar las filas una a una.
+
+00:05:22.649 --> 00:05:25.510
+En el diagrama, ¿qué puntos mezclar?
+
+00:05:25.510 --> 00:05:27.359
+Agitar y valorar.
+
+00:05:27.860 --> 00:05:31.134
+Así que Hedge debería hacer una marca
+en ambas columnas.

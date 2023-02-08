@@ -1,0 +1,37 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:31.000
+una cosa veramente difficile da fare.
+
+00:09:33.000 --> 00:09:35.000
+Sono molto lieto di potervi
+
+00:09:35.000 --> 00:09:38.000
+mostrare oggi
+
+00:09:38.000 --> 00:09:40.000
+il nostro tavolo virtuale per autopsie.
+
+00:09:40.000 --> 00:09:42.000
+E' un strumento sensibile al tocco che abbiamo sviluppato
+
+00:09:42.000 --> 00:09:45.000
+basato su questi algoritmi, che usano GPU standard.
+
+00:09:45.000 --> 00:09:47.000
+Assomiglia a questo,
+
+00:09:47.000 --> 00:09:50.000
+tanto per darvi un'idea del suo aspetto.
+
+00:09:50.000 --> 00:09:53.000
+Funziona quasi come un gigantesco Iphone.
+
+00:09:53.000 --> 00:09:55.000
+Quindi abbiamo implementato
+
+00:09:55.000 --> 00:09:58.000
+tutti i movimenti che si possono fare sul tavolo
+
+00:09:58.000 --> 00:10:02.000
+potete vederla come un'enorme interfaccia a sfioramento.

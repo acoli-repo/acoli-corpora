@@ -1,0 +1,39 @@
+WEBVTT
+
+00:08:28.487 --> 00:08:31.411
+On sait encoder des expressions complexes
+
+00:08:31.435 --> 00:08:35.588
+qui décrivent réellement le comportement
+dans le temps de gènes ou de protéines
+
+00:08:35.612 --> 00:08:38.148
+dans différentes expériences.
+
+00:08:38.521 --> 00:08:41.147
+Ainsi, en traduisant vos observations
+
+00:08:41.171 --> 00:08:43.164
+en expressions mathématiques,
+
+00:08:43.188 --> 00:08:48.286
+il devient possible de tester
+si oui ou non ces observations émergent
+
+00:08:48.310 --> 00:08:51.364
+d'un programme d'interactions génétiques.
+
+00:08:52.063 --> 00:08:54.619
+Et nous avons développé
+un outil pour faire ça.
+
+00:08:54.643 --> 00:08:57.525
+On a pu l'utiliser
+pour encoder nos observations
+
+00:08:57.549 --> 00:08:58.956
+en expressions mathématiques,
+
+00:08:58.980 --> 00:09:02.590
+et il nous a ensuite permis
+de découvrir le programme génétique

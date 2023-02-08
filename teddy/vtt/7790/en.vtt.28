@@ -1,0 +1,36 @@
+WEBVTT
+
+00:13:57.624 --> 00:14:03.088
+and then create auto labeling,
+
+00:14:03.130 --> 00:14:07.676
+create auto labeling software to amplify
+the efficiency of human labelers
+
+00:14:07.676 --> 00:14:09.428
+because it’s quite hard to label.
+
+00:14:09.469 --> 00:14:11.763
+In the beginning,
+it was taking several hours
+
+00:14:11.763 --> 00:14:13.891
+to label a 10-second video clip.
+
+00:14:13.932 --> 00:14:16.101
+This is not scalable.
+
+00:14:16.518 --> 00:14:19.813
+So basically what you have to have
+is you have to have surround video,
+
+00:14:19.813 --> 00:14:23.609
+and that surround video has to be
+primarily automatically labeled
+
+00:14:23.609 --> 00:14:25.277
+with humans just being editors
+
+00:14:25.319 --> 00:14:29.990
+and making slight corrections
+to the labeling of the video

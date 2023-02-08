@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:58.547 --> 00:06:00.827
+Fai fare la ricognizione a entrambi.
+
+00:06:00.827 --> 00:06:02.867
+Qui entra in gioco la ricorsione,
+
+00:06:02.867 --> 00:06:07.961
+ciò potrebbe ripetersi molte volte
+prima che scatti l'ultima istruzione:
+
+00:06:07.961 --> 00:06:12.948
+3. Se ricevi una comunicazione radio,
+di' al tuo genitore
+
+00:06:12.948 --> 00:06:16.577
+se sei arrivato alla tua posizione
+svoltando a destra o sinistra,
+
+00:06:16.577 --> 00:06:19.427
+e poi ripeti ogni comunicazione ricevuta.
+
+00:06:19.427 --> 00:06:23.423
+La ricognizione è un esempio di ciò
+che i programmatori chiamano funzione,
+
+00:06:23.423 --> 00:06:26.113
+subroutine o procedura.
+
+00:06:26.113 --> 00:06:29.503
+Comunque la si chiami,
+l'idea è la stessa:
+
+00:06:29.503 --> 00:06:34.297
+una serie di istruzioni, etichettata
+così che possa essere riutilizzata,

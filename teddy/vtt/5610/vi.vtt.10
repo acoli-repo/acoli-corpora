@@ -1,0 +1,37 @@
+WEBVTT
+
+00:04:59.621 --> 00:05:02.038
+Nếu gọi độ dài của bức vẽ là n,
+
+00:05:02.038 --> 00:05:04.788
+nhảy về phía trước
+một khoảng cách bằng n -1.
+
+00:05:04.788 --> 00:05:07.288
+Tô màu vào ô, rồi quay phải.
+
+00:05:07.288 --> 00:05:10.829
+Giờ làm tương tự như vậy,
+thêm một lần… hai lần.
+
+00:05:10.829 --> 00:05:16.038
+Giờ tiến lên một khoảng bằng n - 2,
+quay phải, tiến lên một ô,
+
+00:05:16.038 --> 00:05:19.204
+và giờ thì Hedge sẽ ở bên trong
+hình vuông đồng tâm tiếp theo
+
+00:05:19.204 --> 00:05:21.996
+và sẵn sàng lặp lại trình tự cũ.
+
+00:05:21.996 --> 00:05:24.871
+Mỗi một hình vuông con
+
+00:05:24.871 --> 00:05:27.704
+có cạnh n nhỏ hơn 2 điểm ảnh
+so với hình trước đó,
+
+00:05:27.704 --> 00:05:30.371
+và chúng ta có thể tuân theo
+công thức vòng xoắn ốc này

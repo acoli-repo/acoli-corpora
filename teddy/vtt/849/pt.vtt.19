@@ -1,0 +1,48 @@
+WEBVTT
+
+00:09:29.400 --> 00:09:30.927
+é preciso mais informática.
+
+00:09:30.927 --> 00:09:33.563
+Desenhámos um sistema
+para automatizar o diagnóstico.
+
+00:09:33.563 --> 00:09:35.236
+A ideia é termos padrões virtuais,
+
+00:09:35.236 --> 00:09:38.281
+porque nunca vamos conseguir
+arranjar amostras de todos os vírus.
+
+00:09:38.281 --> 00:09:40.772
+Seria impossível, mas podemos ter
+padrões virtuais,
+
+00:09:40.772 --> 00:09:42.900
+e compará-los com o resultado observado,
+
+00:09:42.900 --> 00:09:46.699
+que é uma mistura complexa
+e nos fornece uma espécie de pontuação
+
+00:09:46.699 --> 00:09:50.000
+sobre quão provável é
+isto ser um rinovírus ou algo do género.
+
+00:09:50.000 --> 00:09:51.654
+E é com isto que se parece.
+
+00:09:51.654 --> 00:09:54.000
+Se, por exemplo,
+usámos uma cultura celular
+
+00:09:54.000 --> 00:09:56.136
+que está cronicamente infetada
+com papiloma
+
+00:09:56.136 --> 00:09:58.390
+recebemos uma notificação do computador,
+
+00:09:58.390 --> 00:10:01.363
+e o nosso algoritmo diz
+que é provavelmente papiloma tipo 18.

@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:28.359 --> 00:07:30.564
+použil ho ve městě.
+
+00:07:31.239 --> 00:07:32.414
+A stalo se,
+
+00:07:32.438 --> 00:07:35.834
+že před auto vjel náklaďák
+a to auto nezabrzdilo.
+
+00:07:36.507 --> 00:07:41.079
+Umělá inteligence určitě byla trénovaná
+na rozpoznávání nákladních aut.
+
+00:07:41.293 --> 00:07:43.438
+Ale problém byl nejspíš v tom,
+
+00:07:43.462 --> 00:07:46.393
+že UI byla trénovaná na rozpoznávání
+náklaďáků na dálnici,
+
+00:07:46.417 --> 00:07:49.316
+kde lze očekávat,
+že jsou vidět jenom zezadu.
+
+00:07:49.340 --> 00:07:52.760
+Na dálnici se nemůže vyskytnout
+náklaďák ze strany,
+
+00:07:52.784 --> 00:07:56.239
+takže když UI viděla ten náklaďák,
+
+00:07:56.263 --> 00:08:01.090
+tak si nejspíš řekla,
+že to asi bude dopravní značka

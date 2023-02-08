@@ -1,0 +1,40 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:31.000
+ai nevoie de mai multe cunoștințe informatice,
+
+00:09:31.000 --> 00:09:33.000
+așa că am proiectat sistemul pentru a diagnostica automat.
+
+00:09:33.000 --> 00:09:36.000
+Ideea este că avem modele virtuale -
+
+00:09:36.000 --> 00:09:38.000
+fiindcă nu vom avea niciodată mostre din fiecare virus;
+
+00:09:38.000 --> 00:09:41.000
+ar fi practic imposibil. Dar putem obține modele virtuale,
+
+00:09:41.000 --> 00:09:43.000
+și le putem compara cu rezultatele observate,
+
+00:09:43.000 --> 00:09:47.000
+e o muncă foarte complexă, și putem obține un fel de statistică
+
+00:09:47.000 --> 00:09:50.000
+despre cât e de probabil ca acela să fie un rinovirus sau altceva.
+
+00:09:50.000 --> 00:09:52.000
+Cam așa arată.
+
+00:09:52.000 --> 00:09:54.000
+Dacă foloseai culturi celulare
+
+00:09:54.000 --> 00:09:56.000
+infectate cronic cu virusul papiloma,
+
+00:09:56.000 --> 00:09:58.000
+atunci obții o analiză făcută de computer,
+
+00:09:58.000 --> 00:10:02.000
+iar algoritmul spune că probabil e papiloma tipul 18.

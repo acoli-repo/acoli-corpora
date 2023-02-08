@@ -1,0 +1,35 @@
+WEBVTT
+
+00:05:28.329 --> 00:05:31.663
+pastilah jalur untuk ke ruang kontrol
+
+00:05:31.663 --> 00:05:33.996
+dan jika menambahkan
+persimpangan yang diambil,
+
+00:05:33.996 --> 00:05:37.204
+kepala bisa tahu jalur menuju ke sana.
+
+00:05:37.204 --> 00:05:41.204
+Kita bisa menyimpulkan instruksi
+dalam aksi bernama Pathfinder
+
+00:05:41.204 --> 00:05:44.329
+yang akan dilakukan tiap salinan Hedge.
+
+00:05:44.329 --> 00:05:46.621
+1. Jika mencapai artefak,
+
+00:05:46.621 --> 00:05:50.746
+beri tahu lewat radio
+apakah belok ke kiri atau ke kanan.
+
+00:05:50.746 --> 00:05:54.579
+2. Saat mencapai persimpangan,
+pindahkan ban berjalan
+
+00:05:54.579 --> 00:05:58.538
+dan kirim salinan ke jalur kiri dan kanan.
+
+00:05:58.538 --> 00:06:00.829
+Buat keduanya menjalankan Pathfinder.

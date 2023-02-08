@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:59.143 --> 00:06:02.207
+En estas conferencias, él habla con la ayuda de un computador
+
+00:06:02.207 --> 00:06:05.311
+que hace que identifiquemos fácilmente el final de las frases.
+
+00:06:05.311 --> 00:06:08.737
+Así que escribí un algoritmo de dirección
+
+00:06:08.737 --> 00:06:10.697
+que escucha la conferencia y luego usa
+
+00:06:10.697 --> 00:06:13.384
+la amplitud de cada palabra para mover un punto en el eje x
+
+00:06:13.384 --> 00:06:16.017
+y la inflexión de las frases
+
+00:06:16.017 --> 00:06:18.171
+para mover el mismo punto hacia arriba y hacia abajo en el eje y.
+
+00:06:18.171 --> 00:06:20.945
+Las líneas de tendencia, como pueden ver, muestran que en las leyes de la física
+
+00:06:20.945 --> 00:06:22.815
+hay más preguntas que respuestas
+
+00:06:22.815 --> 00:06:24.848
+y cuando llegamos al final de una oración,
+
+00:06:24.848 --> 00:06:27.183
+colocamos una estrella en ese lugar.
+
+00:06:27.183 --> 00:06:29.983
+Y hay muchas frases, por lo tanto, una gran cantidad de estrellas
+
+00:06:29.983 --> 00:06:32.339
+y esto es lo que tenemos después de grabar todo el audio.

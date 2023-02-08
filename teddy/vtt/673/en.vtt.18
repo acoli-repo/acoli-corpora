@@ -1,0 +1,37 @@
+WEBVTT
+
+00:08:58.980 --> 00:09:02.590
+and then that tool would allow us
+to uncover the genetic program
+
+00:09:02.614 --> 00:09:04.152
+that could explain them all.
+
+00:09:05.481 --> 00:09:07.761
+And we then apply this approach
+
+00:09:07.785 --> 00:09:11.868
+to uncover the genetic program
+running inside embryonic stem cells
+
+00:09:11.892 --> 00:09:16.081
+to see if we could understand
+how to induce that naïve state.
+
+00:09:16.105 --> 00:09:18.057
+And this tool was actually built
+
+00:09:18.081 --> 00:09:20.733
+on a solver that's deployed
+routinely around the world
+
+00:09:20.757 --> 00:09:23.026
+for conventional software verification.
+
+00:09:23.630 --> 00:09:27.321
+So we started with a set
+of nearly 50 different specifications
+
+00:09:27.345 --> 00:09:31.851
+that we generated from experimental
+observations of embryonic stem cells.

@@ -1,0 +1,34 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:32.000
+Así que, en los videos que voy a mostrarles,
+
+00:09:32.000 --> 00:09:36.000
+van a ver un sistema de atención visual de un robot
+
+00:09:36.000 --> 00:09:40.000
+el cual tiene -- busca tonos de piel en el espacio HSV,
+
+00:09:40.000 --> 00:09:44.000
+así que trabaja a través de todos los, bueno, los colores humanos.
+
+00:09:44.000 --> 00:09:46.000
+Busca colores muy saturados, en los juguetes.
+
+00:09:46.000 --> 00:09:48.000
+Y busca cosas que se mueven.
+
+00:09:48.000 --> 00:09:51.000
+Y compara todo eso en una ventana de atención,
+
+00:09:51.000 --> 00:09:53.000
+y busca el lugar de mayor puntuación --
+
+00:09:53.000 --> 00:09:55.000
+aquello en donde lo más interesante está ocurriendo.
+
+00:09:55.000 --> 00:09:59.000
+Y es a eso a lo que sus ojos siguen.
+
+00:09:59.000 --> 00:10:01.000
+Y mira directo hacia eso.

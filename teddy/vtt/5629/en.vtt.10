@@ -1,0 +1,37 @@
+WEBVTT
+
+00:04:59.218 --> 00:05:02.178
+First, how do you keep track 
+of the information?
+
+00:05:02.178 --> 00:05:07.499
+And second, what do you do if there
+are multiple options at the same time?
+
+00:05:07.499 --> 00:05:08.749
+For the first challenge,
+
+00:05:08.749 --> 00:05:12.989
+a convenient way for machines 
+to store information is in a table.
+
+00:05:12.989 --> 00:05:16.989
+In this case, you can have Hedge 
+list every step in the headers
+
+00:05:16.989 --> 00:05:19.739
+of both the rows and columns.
+
+00:05:19.739 --> 00:05:22.649
+Then he can go through 
+the rows one at a time.
+
+00:05:22.649 --> 00:05:25.510
+On the schematic, what points to mix?
+
+00:05:25.510 --> 00:05:27.860
+Both shake and titrate.
+
+00:05:27.860 --> 00:05:31.400
+So Hedge should make a mark 
+in both of their columns.

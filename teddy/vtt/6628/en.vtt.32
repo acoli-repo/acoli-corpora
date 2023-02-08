@@ -1,0 +1,40 @@
+WEBVTT
+
+00:15:59.329 --> 00:16:02.746
+One of the pieces of research that
+we put out last year that
+
+00:16:02.746 --> 00:16:07.204
+I was most proud of and most excited
+about is what we call reinforcement
+
+00:16:07.204 --> 00:16:08.537
+learning from human feedback.
+
+00:16:08.787 --> 00:16:11.621
+And we showed that we can take these
+giant models that are trained on
+
+00:16:11.621 --> 00:16:14.329
+a bunch of stuff, some of it good,
+some of the bad,
+
+00:16:14.662 --> 00:16:19.996
+and then with a really quite small amount
+of feedback from human judgment about,
+
+00:16:19.996 --> 00:16:21.996
+hey, this is good, this
+is bad, this is wrong,
+
+00:16:21.996 --> 00:16:24.287
+this is the behavior I want I
+don't want this behavior.
+
+00:16:24.662 --> 00:16:29.662
+We can feed that information from the
+human judges back into the model
+
+00:16:29.662 --> 00:16:32.954
+and we can teach the model, behave more
+like this and less like that.

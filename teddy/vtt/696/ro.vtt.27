@@ -1,0 +1,40 @@
+WEBVTT
+
+00:13:28.000 --> 00:13:32.000
+fie ar trebui folosite și mai rar decât sunt utilizate aleator.
+
+00:13:32.000 --> 00:13:35.000
+În acest caz, frecvența este scăzută.
+
+00:13:35.000 --> 00:13:38.000
+Iar acum putem vedea dacă avem într-adevăr o semnătură robustă.
+
+00:13:38.000 --> 00:13:40.000
+Pot să vă spun că ea este robustă,
+
+00:13:40.000 --> 00:13:43.000
+deoarece acest tip de spectru, așa cum ați văzut in cărți,
+
+00:13:43.000 --> 00:13:45.000
+și așa cum ați văzut în aminoacizi,
+
+00:13:45.000 --> 00:13:48.000
+nu contează deloc cum schimbi mediul, este foarte robust,
+
+00:13:48.000 --> 00:13:50.000
+nu va fi afectat de mediu.
+
+00:13:50.000 --> 00:13:52.000
+Deci am să vă arăt acum un mic experiment pe care l-am făcut.
+
+00:13:52.000 --> 00:13:54.000
+Și vreau să vă explic,
+
+00:13:54.000 --> 00:13:56.000
+partea de sus al acestui grafic
+
+00:13:56.000 --> 00:13:59.000
+arată acea distribuție de frecvență de care v-am vorbit.
+
+00:13:59.000 --> 00:14:02.000
+Aici, de fapt, avem un mediu lipsit de viață

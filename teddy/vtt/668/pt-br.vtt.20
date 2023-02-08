@@ -1,0 +1,41 @@
+WEBVTT
+
+00:09:57.849 --> 00:10:01.515
+E isso corresponde a ele ser
+alguma combinação de tanto zero quanto um
+
+00:10:01.535 --> 00:10:03.306
+ao mesmo tempo,
+
+00:10:03.326 --> 00:10:05.539
+um fenômeno que chamamos
+de "sobreposição".
+
+00:10:06.569 --> 00:10:09.274
+E quando nós temos
+dois qubits em sobreposição,
+
+00:10:09.294 --> 00:10:12.064
+estamos de fato trabalhando
+com todas as quatro combinações
+
+00:10:12.084 --> 00:10:14.214
+de zero-zero, zero-um, um-zero e um-um.
+
+00:10:14.940 --> 00:10:16.286
+Com três qubits,
+
+00:10:16.306 --> 00:10:19.531
+estamos trabalhando em sobreposição
+através de oito combinações,
+
+00:10:19.551 --> 00:10:20.727
+e por aí vai.
+
+00:10:21.224 --> 00:10:25.244
+A cada vez que adicionamos um único qubit,
+dobramos o número de combinações
+
+00:10:25.274 --> 00:10:29.830
+com que podemos trabalhar
+com a sobreposição, ao mesmo tempo.

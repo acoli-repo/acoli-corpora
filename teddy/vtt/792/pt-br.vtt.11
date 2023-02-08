@@ -1,0 +1,28 @@
+WEBVTT
+
+00:05:26.620 --> 00:05:31.642
+apertar um botão e deixá-lo com o que está na mão.
+
+00:05:31.642 --> 00:05:36.210
+E o robô compreende,ah, ele quer dizer que eu quero pôr coisas no aparador.
+
+00:05:36.210 --> 00:05:37.910
+Ele coloca um pequeno ícone ali.
+
+00:05:37.910 --> 00:05:43.821
+Ele vem até aqui, junta os dedos
+
+00:05:43.821 --> 00:05:47.743
+e o robô infere, ah, você quer que eu pegue um objeto.
+
+00:05:47.743 --> 00:05:49.542
+Isso coloca o ícone verde ali.
+
+00:05:49.542 --> 00:05:54.537
+Ele vai mapear uma área na qual o robô deve pegar o objeto.
+
+00:05:54.537 --> 00:05:59.327
+Ele apenas se move ao redor e o robô entende que aquela é uma área de busca.
+
+00:05:59.327 --> 00:06:01.203
+Ele não teve que selecionar de um menu.

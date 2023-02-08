@@ -1,0 +1,31 @@
+WEBVTT
+
+00:05:59.786 --> 00:06:03.677
+a toto pískání je opravdu složité i ve srovnání s lidskými jazyky.
+
+00:06:03.677 --> 00:06:07.529
+Ale výbušné, pulzující zvuky jsou takovým tajemstvím.
+
+00:06:07.529 --> 00:06:10.616
+Toto jsou tři spektrogramy.
+
+00:06:10.616 --> 00:06:13.291
+Dva představují lidská slova a jeden je delfíní zpěv.
+
+00:06:13.291 --> 00:06:17.163
+Zkuste v duchu uhádnout, který z nich patří delfínovi.
+
+00:06:19.150 --> 00:06:21.743
+Zdá se, že výbušné, pulzující zvuky vypadají
+
+00:06:21.743 --> 00:06:24.247
+trošku jako lidské fonémy.
+
+00:06:24.247 --> 00:06:25.513
+Jedním způsobem, jak prolomit tento kód,
+
+00:06:25.513 --> 00:06:28.058
+je interpretovat tyto signály a zjistit, co znamenají,
+
+00:06:28.058 --> 00:06:32.056
+jenže je to obtížná práce, a my zatím nemáme Rosettskou desku.

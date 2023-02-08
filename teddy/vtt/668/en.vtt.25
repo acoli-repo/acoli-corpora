@@ -1,0 +1,45 @@
+WEBVTT
+
+00:12:27.395 --> 00:12:30.402
+he once said that anyone
+who could contemplate quantum mechanics
+
+00:12:30.426 --> 00:12:32.789
+without being profoundly shocked,
+
+00:12:32.813 --> 00:12:34.269
+they haven't understood it.
+
+00:12:34.293 --> 00:12:35.720
+(Laughter)
+
+00:12:35.744 --> 00:12:37.899
+But you get an idea
+of what we're up against,
+
+00:12:37.923 --> 00:12:39.985
+and why it's now up to us cryptographers
+
+00:12:40.009 --> 00:12:41.372
+to really step it up.
+
+00:12:42.674 --> 00:12:44.763
+And we have to do it fast,
+
+00:12:44.787 --> 00:12:46.819
+because quantum computers,
+
+00:12:46.843 --> 00:12:49.866
+they already exist in labs
+all over the world.
+
+00:12:51.248 --> 00:12:53.145
+Fortunately, at this minute,
+
+00:12:53.169 --> 00:12:55.839
+they only exist
+at a relatively small scale,
+
+00:12:55.863 --> 00:12:58.928
+still too small to break
+our much larger cryptographic keys.

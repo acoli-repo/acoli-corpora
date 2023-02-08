@@ -1,0 +1,31 @@
+WEBVTT
+
+00:13:30.180 --> 00:13:33.684
+So at least they’re not labeled
+at different times by different people
+
+00:13:33.684 --> 00:13:34.893
+in different ways.
+
+00:13:35.561 --> 00:13:37.980
+So it's sort of a surround picture.
+
+00:13:37.980 --> 00:13:41.400
+Then a very important part
+is to add the time dimension.
+
+00:13:41.733 --> 00:13:45.320
+So that you’re looking at surround video,
+
+00:13:45.320 --> 00:13:47.239
+and you're labeling surround video.
+
+00:13:47.865 --> 00:13:52.536
+And this is actually quite difficult to do
+from a software standpoint.
+
+00:13:52.911 --> 00:13:57.583
+We had to write our own labeling tools
+
+00:13:57.624 --> 00:14:03.088
+and then create auto labeling,

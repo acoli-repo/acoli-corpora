@@ -1,0 +1,45 @@
+WEBVTT
+
+00:04:58.954 --> 00:05:01.246
+Cách tiếp cận này
+nhanh hơn rất nhiều
+
+00:05:01.246 --> 00:05:02.663
+so với cách trước.
+
+00:05:02.663 --> 00:05:06.079
+Thay vì tính giai thừa số lần,
+thì ta tính số lần tuyến tính.
+
+00:05:06.079 --> 00:05:07.663
+Đó là chỗ mà thời gian tăng lên
+
+00:05:07.663 --> 00:05:10.371
+tương ứng với số khối đá.
+
+00:05:10.371 --> 00:05:12.371
+Bây giờ, hãy viết một vòng lặp
+
+00:05:12.371 --> 00:05:14.371
+để Hedge tiếp cận
+các khối đá riêng lẻ
+
+00:05:14.371 --> 00:05:16.913
+và dừng lại khi nó tìm thấy
+một khối phù hợp
+
+00:05:16.913 --> 00:05:18.538
+và hãy bắt đầu thôi.
+
+00:05:18.538 --> 00:05:19.913
+Đây là những gì sảy ra:
+
+00:05:19.913 --> 00:05:22.454
+Hedge rất nhanh,
+nhưng có quá nhiều khối đá
+
+00:05:22.454 --> 00:05:23.954
+và mất rất nhiều thời gian.
+
+00:05:23.954 --> 00:05:25.329
+Rất lâu.

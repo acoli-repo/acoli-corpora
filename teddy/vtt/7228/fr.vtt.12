@@ -1,0 +1,41 @@
+WEBVTT
+
+00:05:58.854 --> 00:06:01.315
+Par contre, les lasers sont si précis,
+
+00:06:01.315 --> 00:06:05.361
+on peut cibler une cellule
+sur des millions à intervalle précis,
+
+00:06:05.403 --> 00:06:08.697
+chaque seconde, chaque minute,
+chaque heure, autant que vous voulez.
+
+00:06:09.573 --> 00:06:13.285
+Je me suis aperçue que nous pourrions
+remplacer le processus fastidieux
+
+00:06:13.327 --> 00:06:14.703
+de tri manuel des cellules
+
+00:06:14.745 --> 00:06:18.290
+avec des lasers qui retireraient
+les cellules indésirables.
+
+00:06:18.290 --> 00:06:20.876
+Pour automatiser la totalité du processus,
+
+00:06:20.876 --> 00:06:23.504
+nous avons décidé d’utiliser
+l’apprentissage automatique
+
+00:06:23.504 --> 00:06:26.632
+pour identifier ces cellules
+indésirables et les retirer.
+
+00:06:26.632 --> 00:06:28.759
+Aujourd’hui, les algorithmes
+sont très bons
+
+00:06:28.759 --> 00:06:30.761
+pour trouver les données et images utiles.

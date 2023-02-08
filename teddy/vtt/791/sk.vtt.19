@@ -1,0 +1,34 @@
+WEBVTT
+
+00:09:29.000 --> 00:09:32.000
+Takže vo videách, ktoré vám hneď ukážem,
+
+00:09:32.000 --> 00:09:36.000
+uvidíte vizuálny systém pozorovania na robotovi,
+
+00:09:36.000 --> 00:09:40.000
+ktorý má -- hľadá odtieň pleti v priestore HSV,
+
+00:09:40.000 --> 00:09:44.000
+takže spracováva celé, viete, spektrum farieb človeka.
+
+00:09:44.000 --> 00:09:46.000
+Hľadá vysoko saturované farby, na hračkách.
+
+00:09:46.000 --> 00:09:48.000
+A hľadá veci, ktoré sa v okolí pohybujú.
+
+00:09:48.000 --> 00:09:51.000
+A spolu ich váhuje v pozorovacom okne,
+
+00:09:51.000 --> 00:09:53.000
+a hľadá miesto s najvyšším ohodnotením --
+
+00:09:53.000 --> 00:09:55.000
+miesto, kde sa dejú najzaujímavejšie veci.
+
+00:09:55.000 --> 00:09:59.000
+A tam sa upierajú jeho oči.
+
+00:09:59.000 --> 00:10:01.000
+A pozerá sa presne tam.

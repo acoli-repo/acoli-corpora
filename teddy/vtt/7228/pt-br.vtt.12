@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:58.854 --> 00:06:01.315
+Por outro lado, lasers são muito precisos,
+
+00:06:01.315 --> 00:06:05.277
+você consegue mirar em uma célula 
+entre milhões, em intervalos regulares,
+
+00:06:05.277 --> 00:06:07.321
+a cada segundo, a cada minuto,
+a cada hora.
+
+00:06:07.613 --> 00:06:08.989
+Você escolhe.
+
+00:06:09.365 --> 00:06:13.285
+Percebi que ao invés de fazer o processo
+tedioso de cultura de células-tronco
+
+00:06:13.327 --> 00:06:14.703
+à mão,
+
+00:06:14.745 --> 00:06:18.082
+poderíamos usar lasers 
+e remover as células indesejadas.
+
+00:06:18.165 --> 00:06:20.876
+E para automatizar todo o processo,
+
+00:06:20.876 --> 00:06:25.089
+decidimos usar aprendizado de máquina
+para identificar as células indesejadas
+
+00:06:25.131 --> 00:06:26.173
+e removê-las.
+
+00:06:26.507 --> 00:06:30.261
+Os algoritmos de hoje são ótimos 
+em encontrar informações e imagens úteis,

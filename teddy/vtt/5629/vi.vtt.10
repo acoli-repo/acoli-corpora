@@ -1,0 +1,36 @@
+WEBVTT
+
+00:04:59.204 --> 00:05:01.829
+Đầu tiên, là làm sao
+để truy vết được thông tin?
+
+00:05:02.163 --> 00:05:06.538
+Và thứ hai, sẽ làm thế nào
+với nhiều lựa chọn ở cùng thời điểm?
+
+00:05:07.496 --> 00:05:08.746
+Với thử thách đầu tiên,
+
+00:05:08.746 --> 00:05:12.621
+một cách phù hợp dành cho máy móc
+là lưu trữ thông tin ở dạng bảng.
+
+00:05:12.996 --> 00:05:16.996
+Ở đây, bạn có thể chỉ Hedge liệt kê
+mọi bước trong mục tiêu đề
+
+00:05:16.996 --> 00:05:19.079
+của các cột và các dòng.
+
+00:05:19.746 --> 00:05:22.288
+Sau đó Hedge có thể đi từng dòng một.
+
+00:05:22.663 --> 00:05:25.496
+Trên lược đồ, sẽ trộn ở những điểm nào?
+
+00:05:25.496 --> 00:05:27.121
+Lắc và thử.
+
+00:05:27.871 --> 00:05:31.038
+Và Hedge sẽ đánh dấu vào ô.
+Nó có thể làm tương tự với mọi dòng,

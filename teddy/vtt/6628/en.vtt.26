@@ -1,0 +1,42 @@
+WEBVTT
+
+00:12:54.746 --> 00:13:01.871
+eyes. But what is happening is there is
+a model that is ingesting lots of text
+
+00:13:02.329 --> 00:13:05.829
+and it is trying to predict the next word.
+
+00:13:07.621 --> 00:13:10.954
+So we use Transformer's they
+take in a context,
+
+00:13:10.954 --> 00:13:13.121
+which is a particular architecture
+of an A.I. model,
+
+00:13:13.537 --> 00:13:15.537
+they take in a context of a lot of words,
+
+00:13:15.537 --> 00:13:17.329
+let's say like a thousand
+or something like that.
+
+00:13:17.621 --> 00:13:20.787
+And they try to predict the word that
+comes next in the sequence.
+
+00:13:22.162 --> 00:13:23.829
+And there's like a lot of other
+things that happen,
+
+00:13:23.829 --> 00:13:25.329
+but fundamentally that's it,
+
+00:13:25.787 --> 00:13:28.496
+and I think this is interesting
+because in
+
+00:13:28.496 --> 00:13:31.996
+the process of playing that little game
+of trying to predict the next word,

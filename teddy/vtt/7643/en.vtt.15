@@ -1,0 +1,32 @@
+WEBVTT
+
+00:07:29.737 --> 00:07:32.239
+which can take more
+than four hours per robot,
+
+00:07:32.281 --> 00:07:35.242
+depending on the complexity
+and the shape of the robot.
+
+00:07:36.952 --> 00:07:40.456
+But we can give our artificial
+evolutionary process a helping hand
+
+00:07:40.498 --> 00:07:44.084
+to reduce the number of physical robots
+that we actually need to make.
+
+00:07:45.794 --> 00:07:48.631
+We create a digital copy
+of every robot produced
+
+00:07:48.672 --> 00:07:51.509
+inside a simulation in a computer,
+
+00:07:51.509 --> 00:07:55.679
+and we allow this virtual
+population of robots to evolve.
+
+00:07:56.138 --> 00:08:01.185
+Now it's quite likely that the simulation
+isn't a very accurate representation

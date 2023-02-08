@@ -1,0 +1,43 @@
+WEBVTT
+
+00:08:28.000 --> 00:08:30.000
+röviden összefoglalva,
+
+00:08:30.000 --> 00:08:32.000
+emberek végezték az összetett folyamatokat
+
+00:08:32.000 --> 00:08:34.000
+és ami igazán fontos volt az az,
+
+00:08:34.000 --> 00:08:37.000
+hogy ezeket a folyamatokat futószalagként automatizáljuk
+
+00:08:37.000 --> 00:08:39.000
+és olyan robotokat építsünk,
+
+00:08:39.000 --> 00:08:41.000
+amik majd a fehérjéket mérik.
+
+00:08:41.000 --> 00:08:43.000
+Megcsináltuk.
+
+00:08:43.000 --> 00:08:45.000
+A Daviddal való együtműködésünk
+
+00:08:45.000 --> 00:08:48.000
+során végül létrehoztunk egy kis céget, az Applied Proteomics-t,
+
+00:08:48.000 --> 00:08:51.000
+mely a robotizált futószalagot állítja össze,
+
+00:08:51.000 --> 00:08:54.000
+és a fehérjéket nagyon következetesen méri.
+
+00:08:54.000 --> 00:08:57.000
+Megmutatom, hogyan történik a fehérje bemérése.
+
+00:08:58.000 --> 00:09:00.000
+Alapjában véve azt tesszük,
+
+00:09:00.000 --> 00:09:02.000
+hogy veszünk egy csepp vért

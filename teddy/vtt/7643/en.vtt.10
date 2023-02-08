@@ -1,0 +1,35 @@
+WEBVTT
+
+00:04:56.459 --> 00:05:00.004
+and occasionally acquire
+new ones via mutation;
+
+00:05:00.046 --> 00:05:02.506
+and finally, a means of natural selection.
+
+00:05:03.674 --> 00:05:06.969
+So we can replicate these three
+ingredients to evolve robots
+
+00:05:06.969 --> 00:05:09.805
+using a mixture of hardware and software.
+
+00:05:11.265 --> 00:05:15.561
+The first task is to design
+a digital version of DNA.
+
+00:05:15.603 --> 00:05:21.067
+That is a digital blueprint that describes
+the robot's brain, its body,
+
+00:05:21.108 --> 00:05:24.320
+its sensory mechanisms
+and its means of locomotion.
+
+00:05:25.988 --> 00:05:28.783
+Using a randomly generated
+set of these blueprints,
+
+00:05:28.824 --> 00:05:32.244
+we can create an initial population
+of 10 or more robots

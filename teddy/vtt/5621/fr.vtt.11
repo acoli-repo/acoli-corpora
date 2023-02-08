@@ -1,0 +1,39 @@
+WEBVTT
+
+00:05:28.353 --> 00:05:31.653
+doit être le chemin de la salle
+de contrôle depuis son emplacement,
+
+00:05:31.653 --> 00:05:34.003
+et si elle ajoute ensuite
+la branche qu'elle a prise,
+
+00:05:34.003 --> 00:05:37.223
+elle peut également indiquer à
+son parent comment s'y rendre.
+
+00:05:37.223 --> 00:05:41.223
+Nous pouvons résumer les instructions
+dans une action appelée Pathfinder
+
+00:05:41.223 --> 00:05:44.353
+que chaque version de Hedge suivra :
+
+00:05:44.353 --> 00:05:47.933
+1. Si vous avez atteint l'artefact,
+faites un appel radio à votre parent,
+
+00:05:47.933 --> 00:05:50.737
+que vous soyez arrivé
+en allant à gauche ou à droite.
+
+00:05:50.737 --> 00:05:54.567
+2. Lorsque vous atteignez
+une intersection, sortez du convoyeur
+
+00:05:54.567 --> 00:05:58.547
+et envoyer de nouvelles copies
+sur les chemins gauche et droit.
+
+00:05:58.547 --> 00:06:00.827
+Demandez-leur d'exécuter Pathfinder.

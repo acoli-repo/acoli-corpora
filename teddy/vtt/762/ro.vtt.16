@@ -1,0 +1,37 @@
+WEBVTT
+
+00:07:58.000 --> 00:08:00.000
+Aşadar, date interconectate.
+
+00:08:00.000 --> 00:08:02.000
+Ideea a ajuns acolo afară.
+
+00:08:02.000 --> 00:08:06.000
+Şi, destul de curând Chris Bizer la Universitatea Freie din Berlin
+
+00:08:06.000 --> 00:08:08.000
+care a fost unul dintre primii oamenii care au încărcat lucruri interesante,
+
+00:08:08.000 --> 00:08:10.000
+a observat că Wikipedia --
+
+00:08:10.000 --> 00:08:13.000
+ştiţi Wikipedia, enciclopedia online
+
+00:08:13.000 --> 00:08:15.000
+cu o grămadă de lucruri interesante în ea.
+
+00:08:15.000 --> 00:08:19.000
+Ei bine, în aceste documente, sunt pătrăţele, mici căsuţe.
+
+00:08:19.000 --> 00:08:22.000
+Şi în cele mai multe căsuţe de informaţii, există date.
+
+00:08:22.000 --> 00:08:26.000
+Deci a scris un program care să ia datele, să le extragă din Wikipedia
+
+00:08:26.000 --> 00:08:28.000
+şi să le pună într-o aglomerare de date interconectate
+
+00:08:28.000 --> 00:08:31.000
+pe internet, pe care a numit-o dbpedia.

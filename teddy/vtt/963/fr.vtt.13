@@ -1,0 +1,37 @@
+WEBVTT
+
+00:06:28.961 --> 00:06:31.786
+Dans ce cas, le processus est déterministe.
+
+00:06:31.786 --> 00:06:34.145
+Il ne laisse aucune place au hasard,
+
+00:06:34.145 --> 00:06:36.152
+mais il n'est pas entièrement prévisible.
+
+00:06:36.152 --> 00:06:37.728
+Il y a trop de surfaces,
+
+00:06:37.728 --> 00:06:41.338
+il y a trop de détails, on ne peut pas voir l'état final.
+
+00:06:41.338 --> 00:06:44.552
+Ceci conduit donc à un nouveau rôle pour l'architecte.
+
+00:06:44.552 --> 00:06:48.163
+Il lui faut une nouvelle méthode pour explorer toutes les possibilités
+
+00:06:48.163 --> 00:06:49.939
+qui s'offrent à lui.
+
+00:06:49.939 --> 00:06:53.171
+D'une part, on peut concevoir de nombreuses variantes de forme,
+
+00:06:53.171 --> 00:06:55.385
+en parallèle et on peut les cultiver.
+
+00:06:55.385 --> 00:06:57.633
+Et pour revenir à l'analogie avec la nature,
+
+00:06:57.633 --> 00:07:00.129
+on peut commencer à penser en termes de populations,

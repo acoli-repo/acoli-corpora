@@ -1,0 +1,36 @@
+WEBVTT
+
+00:06:58.410 --> 00:07:01.740
+So if there’s no wire down a direction, 
+go that way.
+
+00:07:01.740 --> 00:07:05.400
+If there are multiple choices,
+choose one at random.
+
+00:07:05.400 --> 00:07:10.223
+What if they’re in a sub-section 
+like this, with 3 marked dead ends?
+
+00:07:10.223 --> 00:07:13.703
+The only thing to do is to go back 
+where they came from.
+
+00:07:13.703 --> 00:07:17.113
+We now know that this whole section
+is one big dead end,
+
+00:07:17.113 --> 00:07:21.803
+so they should break and retie the wire
+when they get to the next intersection.
+
+00:07:21.806 --> 00:07:26.382
+But let’s say they get there, and find
+two options where someone’s exploring,
+
+00:07:26.382 --> 00:07:28.902
+but no one’s hit a dead end yet.
+
+00:07:28.902 --> 00:07:33.099
+They may as well choose at random
+and go help explore that path further,

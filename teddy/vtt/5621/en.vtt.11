@@ -1,0 +1,37 @@
+WEBVTT
+
+00:05:28.353 --> 00:05:31.653
+must be the way to the control room 
+from its location,
+
+00:05:31.653 --> 00:05:34.003
+and if it then adds the branch it took,
+
+00:05:34.003 --> 00:05:37.223
+it can tell its parent 
+how to get there as well.
+
+00:05:37.223 --> 00:05:41.223
+We can sum up the instructions 
+in an action called Pathfinder
+
+00:05:41.223 --> 00:05:44.353
+that every version of Hedge will follow:
+
+00:05:44.353 --> 00:05:46.643
+1. If you’ve reached the artifact,
+
+00:05:46.643 --> 00:05:50.737
+radio to your parent whether 
+you got there by going left or right.
+
+00:05:50.737 --> 00:05:54.567
+2. When you reach an intersection, 
+move off the conveyor
+
+00:05:54.567 --> 00:05:58.547
+and send new copies down the left 
+and right paths.
+
+00:05:58.547 --> 00:06:00.827
+Have them each run Pathfinder.

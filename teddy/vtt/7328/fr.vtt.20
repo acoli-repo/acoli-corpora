@@ -1,0 +1,53 @@
+WEBVTT
+
+00:09:56.871 --> 00:10:00.662
+pour identifier en permanence
+quelles parties il souhaite mobiliser
+
+00:10:00.662 --> 00:10:02.496
+pour apprendre une nouvelle tâche.
+
+00:10:02.496 --> 00:10:06.037
+L’avantage avec ça, c’est qu’on peut avoir
+un modèle de haute capacité,
+
+00:10:06.037 --> 00:10:07.287
+mais très efficace,
+
+00:10:07.329 --> 00:10:09.912
+car on appelle seulement
+les parties dont on a besoin
+
+00:10:09.954 --> 00:10:11.162
+pour une tâche donnée.
+
+00:10:11.162 --> 00:10:13.162
+Je pense qu’en réglant
+ces trois problèmes,
+
+00:10:13.162 --> 00:10:15.371
+on pourra atteindre
+une IA plus puissante :
+
+00:10:15.412 --> 00:10:17.412
+à la place de milliers de modèles séparés,
+
+00:10:17.412 --> 00:10:19.412
+on entraîne
+quelque modèles généralistes
+
+00:10:19.454 --> 00:10:21.537
+qui peuvent faire des millions de choses.
+
+00:10:21.579 --> 00:10:23.621
+Au lieu de traiter une modalité à la fois,
+
+00:10:23.662 --> 00:10:24.996
+on en traite plusieurs,
+
+00:10:24.996 --> 00:10:26.704
+et on les fusionne.
+
+00:10:26.746 --> 00:10:30.204
+Et au lieu de modèles denses, on utilise
+des modèles plus épars,

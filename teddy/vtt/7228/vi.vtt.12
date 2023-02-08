@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:58.854 --> 00:06:01.315
+Ngược lại, tia lasers thì chính xác,
+
+00:06:01.315 --> 00:06:05.361
+bạn có thể nhắm đến một tế bào
+giữa hàng triệu tế bào --
+
+00:06:05.403 --> 00:06:08.697
+từng giây, từng phút,
+từng giờ -- bạn có thể nói.
+
+00:06:09.573 --> 00:06:13.285
+Tôi nhận ra thay vì thực hiện quá trình
+cấy ghép tế bào gốc mệt mỏi kia
+
+00:06:13.327 --> 00:06:14.703
+bằng tay,
+
+00:06:14.745 --> 00:06:18.290
+chúng ta có thể dùng tia laser
+để loại bỏ các tế bào ta không cần.
+
+00:06:18.290 --> 00:06:20.876
+Và để tự động hoá toàn bộ quy trình này,
+
+00:06:20.876 --> 00:06:25.089
+nhóm chúng tôi sử dụng máy học hỏi
+để nhận dạng các tế bào vô ích
+
+00:06:25.131 --> 00:06:26.465
+và loại bỏ chúng.
+
+00:06:26.465 --> 00:06:29.176
+Ngày nay các thuật toán rất tuyệt vời
+trong việc tìm kiếm
+
+00:06:29.176 --> 00:06:30.803
+các thông tin và hình ảnh hữu ích,

@@ -1,0 +1,28 @@
+WEBVTT
+
+00:11:58.000 --> 00:12:02.000
+Ik moest slapen met een kolanoot naast mijn bed, begraven in het zand,
+
+00:12:02.000 --> 00:12:05.000
+en ik moest zeven munten geven aan de zeven melaatsen enzovoort.
+
+00:12:05.000 --> 00:12:09.000
+Uiteindelijk onthulde hij de waarheid.
+
+00:12:10.000 --> 00:12:14.000
+Het blijkt een pseudo-random getallengenerator te zijn die deterministische chaos gebruikt.
+
+00:12:14.000 --> 00:12:20.000
+Als je een symbool met 4 bits hebt, combineer je het zijdelings met een ander.
+
+00:12:20.000 --> 00:12:22.000
+Even plus oneven is oneven.
+
+00:12:22.000 --> 00:12:24.000
+Oneven plus oneven is oneven.
+
+00:12:24.000 --> 00:12:27.000
+Even plus even is even. Oneven plus oneven is even.
+
+00:12:27.000 --> 00:12:31.000
+Het is modulo 2 optellen, net zoals in de parity bit check van je computer.

@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:59.143 --> 00:06:02.207
+In questa serie, lui parla aiutato da un computer,
+
+00:06:02.207 --> 00:06:05.311
+che permette di identificare la fine delle frasi
+
+00:06:05.311 --> 00:06:08.737
+abbastanza facilmente. Così ho scritto un algoritmo guida.
+
+00:06:08.737 --> 00:06:10.697
+Ascolta le lezioni, e poi usa
+
+00:06:10.697 --> 00:06:13.384
+l'ampiezza di ogni parola per muovere un punto su l'asse delle x,
+
+00:06:13.384 --> 00:06:16.017
+e usa l'intonazione delle frasi
+
+00:06:16.017 --> 00:06:18.171
+per muovere lo stesso punto lungo l'asse delle y.
+
+00:06:18.171 --> 00:06:20.945
+E da queste tendenze vedete che ci sono piu' domande
+
+00:06:20.945 --> 00:06:22.815
+che risposte nelle leggi della fisica
+
+00:06:22.815 --> 00:06:24.848
+e quando arriviamo alla fine di una frase,
+
+00:06:24.848 --> 00:06:27.183
+posizioniamo una stella in quel punto.
+
+00:06:27.183 --> 00:06:29.983
+Così ci sono molte frasi, e di conseguenza molte stelle,
+
+00:06:29.983 --> 00:06:32.339
+e alla fine della visualizzazione di tutto l'audio, questo è quello che otteniamo.

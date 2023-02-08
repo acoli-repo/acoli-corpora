@@ -1,0 +1,40 @@
+WEBVTT
+
+00:05:59.143 --> 00:06:02.207
+Now, in this series he's speaking with the aid of a computer,
+
+00:06:02.207 --> 00:06:05.311
+which actually makes identifying the ends of sentences
+
+00:06:05.311 --> 00:06:08.737
+fairly easy. So I wrote a steering algorithm.
+
+00:06:08.737 --> 00:06:10.697
+It listens to the lecture, and then it uses
+
+00:06:10.697 --> 00:06:13.384
+the amplitude of each word to move a point on the x-axis,
+
+00:06:13.384 --> 00:06:16.017
+and it uses the inflection of sentences
+
+00:06:16.017 --> 00:06:18.171
+to move a same point up and down on the y-axis.
+
+00:06:18.171 --> 00:06:20.945
+And these trend lines, you can see, there's more questions
+
+00:06:20.945 --> 00:06:22.815
+than answers in the laws of physics,
+
+00:06:22.815 --> 00:06:24.848
+and when we reach the end of a sentence,
+
+00:06:24.848 --> 00:06:27.183
+we place a star at that location.
+
+00:06:27.183 --> 00:06:29.983
+So there's a lot of sentences, so a lot of stars,
+
+00:06:29.983 --> 00:06:32.339
+and after rendering all of the audio, this is what we get.

@@ -1,0 +1,46 @@
+WEBVTT
+
+00:06:56.783 --> 00:07:00.811
+This text adventure takes place
+within "Settlers of Catan."
+
+00:07:01.220 --> 00:07:03.179
+Who here knows what "Settlers" is?
+
+00:07:03.887 --> 00:07:05.045
+Nerds.
+
+00:07:05.069 --> 00:07:06.926
+(Laughter)
+
+00:07:06.950 --> 00:07:09.061
+If you don't know,
+"Settlers" is a board game
+
+00:07:09.085 --> 00:07:11.125
+where you're competing
+against other people
+
+00:07:11.149 --> 00:07:14.283
+to collect resources
+and use them to build structures.
+
+00:07:14.307 --> 00:07:19.149
+And within the text adventure,
+we hid information in various ways,
+
+00:07:19.173 --> 00:07:21.807
+with which you could
+reconstruct an entire game.
+
+00:07:21.831 --> 00:07:24.776
+You could figure out the roads,
+the cities, the towns,
+
+00:07:24.800 --> 00:07:27.730
+the resources, the numbers on the tiles,
+even the dice rolls.
+
+00:07:27.754 --> 00:07:31.011
+You put all that information together
+and you could extract an answer

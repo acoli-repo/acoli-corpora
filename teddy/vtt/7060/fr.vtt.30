@@ -1,0 +1,48 @@
+WEBVTT
+
+00:14:58.933 --> 00:15:01.193
+Car avec une liste simplement chaînée --
+
+00:15:01.217 --> 00:15:04.991
+ici en essayant d'enlever
+une entrée présente dans la liste --
+
+00:15:04.991 --> 00:15:08.733
+il y a une différence
+entre la première entrée de la liste
+
+00:15:08.757 --> 00:15:10.740
+et une entrée du milieu de la liste.
+
+00:15:10.740 --> 00:15:12.425
+Car si c'est la première entrée,
+
+00:15:12.425 --> 00:15:15.445
+vous devez changer le pointeur
+vers la première entrée.
+
+00:15:15.449 --> 00:15:16.631
+Si c'est au milieu,
+
+00:15:16.631 --> 00:15:19.202
+vous devez changer le pointeur
+d'une entrée précédente.
+
+00:15:19.202 --> 00:15:21.140
+Ce sont deux cas très différents.
+
+00:15:21.164 --> 00:15:22.316
+CA : Ceci est mieux.
+
+00:15:22.340 --> 00:15:23.521
+LT : Ceci est mieux.
+
+00:15:23.940 --> 00:15:26.263
+Il n'y a pas de <i>if</i>.
+
+00:15:26.637 --> 00:15:28.880
+Peu importe,
+
+00:15:28.880 --> 00:15:32.095
+je ne veux pas que vous compreniez
+pourquoi il n'y a pas de <i>if</i>,
