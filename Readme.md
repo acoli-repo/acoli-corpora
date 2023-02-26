@@ -156,7 +156,7 @@ If you are interested in a sub-folder of the current repositorory, you can use t
 
 - SVN provides a similar (and even slimmer) sparse checkout functionality. However, the GitSVN bridge seems to be limited in its capacity, so directories with many files (such as `teddy/`) are likely to run into a timeout. Example call for the Teddy corpus:
 
-	$> svn co https://github.com/acoli-repo/acoli-corpora/trunk/teddy data/teddy
+		$> svn co https://github.com/acoli-repo/acoli-corpora/trunk/teddy data/teddy
 
 - Sparse checkouts were introduced with Git v.2.25. However, in some releases (at least Git v.2.25.1), sparse checkouts fail with `fatal: cannot change to 'https://github.com/acoli-repo/acoli-corpora'`. This is a bug in Git that can be [fixed by upgrading Git](https://github.com/dbt-labs/dbt-core/issues/5401#issuecomment-1168588079):
 
