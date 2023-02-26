@@ -146,7 +146,7 @@ Most people will be interested in the sparse checkout of selected sub-directorie
 
 Some corpora are integrated here as Git submodules, only. If you're interested in these, only, go to their original source and checkout from there.
 
-If you are interested in a sub-folder of the current repositorory, you can use the sparse checkout functionality of Git, illustrated for `teddy/` below:
+If you are interested in a sub-folder of the current repositorory, you can use the [sparse checkout](https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout/) functionality of Git, illustrated for `teddy/` below:
 
     git clone --depth 1 --filter=blob:none --sparse https://github.com/acoli-repo/acoli-corpora; 
 	cd acoli-corpora;
