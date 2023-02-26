@@ -148,15 +148,17 @@ Some corpora are integrated here as Git submodules, only. If you're interested i
 
 If you are interested in a sub-folder of the current repositorory, you can use the [sparse checkout](https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout/) functionality of Git, illustrated for `teddy/` below:
 
-    	$> git clone --depth 1 --filter=blob:none --sparse https://github.com/acoli-repo/acoli-corpora; 
-	$> cd acoli-corpora;
-	$> git sparse-checkout set teddy;
+    	$> git clone --depth 1 --filter=blob:none --sparse https://github.com/acoli-repo/acoli-corpora
+	$> cd acoli-corpora
+	$> git sparse-checkout set teddy
 
 #### Notes
 
-- SVN provides a similar (and even slimmer) sparse checkout functionality. However, the GitSVN bridge seems to be limited in its capacity, so directories with many files (such as `teddy/`) are likely to run into a timeout. Example call for the Teddy corpus:
+- SVN provides a similar (and even slimmer) sparse checkout functionality. However, the GitSVN bridge seems to be limited in its capacity, so directories with many files (such as `teddy/`) are likely to run into a timeout. Roughly equivalent example call for the Teddy corpus (without files in root directory):
 
-		$> svn co https://github.com/acoli-repo/acoli-corpora/trunk/teddy data/teddy
+		$> mkdir acoli-corpora
+		$> cd acoli-corpora
+		$> svn co https://github.com/acoli-repo/acoli-corpora/trunk/teddy acoli-corpora/teddy
 
 - Sparse checkouts were introduced with Git v.2.25. However, in some releases (at least Git v.2.25.1), sparse checkouts fail with `fatal: cannot change to 'https://github.com/acoli-repo/acoli-corpora'`. This is a bug in Git that can be [fixed by upgrading Git](https://github.com/dbt-labs/dbt-core/issues/5401#issuecomment-1168588079):
 
