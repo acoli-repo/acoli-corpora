@@ -140,6 +140,28 @@ Currently covering 1000+ languages in five, partially overlapping collections:
 
 ## Setting it up
 
+Most people will be interested in the sparse checkout of selected sub-directories, only, not all corpora at once. We describe both sparse and full checkout.
+
+### Sparse Checkout
+
+Some corpora are integrated here as Git submodules, only. If you're interested in these, only, go to their original source and checkout from there.
+
+If you are interested in a sub-folder of the current repositorory, you can use the sparse checkout functionality of Git, illustrated for `teddy/` below:
+
+    git clone --depth 1 --filter=blob:none --sparse https://github.com/acoli-repo/acoli-corpora; 
+	cd acoli-corpora;
+	git sparse-checkout set teddy;
+
+Notes:
+- SVN provides a similar (and even slimmer) sparse checkout functionality. However, the GitSVN bridge seems to be limited in its capacity, so directories with many files (such as `teddy/`) are likely to run into a timeout.
+- Sparse checkouts were introduced with Git v.2.25. However, in some releases (at least Git v.2.25.1), sparse checkouts fail with `fatal: cannot change to 'https://github.com/acoli-repo/acoli-corpora'`. This is a bug in Git that can be [fixed by upgrading Git](https://github.com/dbt-labs/dbt-core/issues/5401#issuecomment-1168588079):
+
+        $> sudo add-apt-repository ppa:git-core/ppa
+        $> sudo apt-get update
+        $> sudo apt-get install git
+
+### Full Checkout
+
 Note that some of the data provided here is separately maintained, so that this repo uses the `submodule` functionality of git.
 However, the aggregator repository is updated occasionally, only, to point to the most recent version. To retrieve the most up-to-date versions, clone this repo using
 
