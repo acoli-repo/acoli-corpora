@@ -34,9 +34,18 @@ Notes:
 
 Note that the [license](LICENSE.md) restricts any distribution of the files in `txt/` or subsequent annotations performed over that. However, unter German copyright law, we are allowed to share that data with interested parties for academic purposes if certain legal conditions are met. Please get in touch if you are unable to run these scripts yourself but you are interested in the data.
 
+## Addenda
+
+Optionally, a sentence-aligned corpus can be created in the `align/` folder by calling
+
+	$> make align
+
+The resulting files will all provide an alignment with English (as this is the unique source language for all translations).
+
+This uses Hunalign. Unfortunately, we cannot guarantee that the resulting corpus *fully* replicates our local version: if non-deterministic decisions are being made in Hunalign or a different version of the algorithm is used, the outcome may have minor differences. It will nevertheless be equivalent. 
+
 ## Known Issues and TODOs
 
-- In the initial code, only the first segment was extracted. This has been fixed *in code*, but it needs to re-run to be applied *to data*.
 - The extracted segments overlap at the end and the beginning. These overlaps have been removed by filtering out duplicate lines. However, if the same line is repeated *at a different place* in the transcript, this will also be removed.
 - `make txt` performs whitespace normalization, that is, the offsets of the same transcript may be different from other retrievers.
 - `make txt` performs heuristic sentence splitting. The basic break pattern is `[.!?]\s[A-Z]`. While this will work nicely for English and the majority of other languages, it will overgenerate breaks for languages with upper case spelling for words other than sentence-initial (e.g., German nouns), it will effectively fail for any language with non-Latin orthography (this is by intent, because these might have different punctuation characters), but also for non-ASCII characters (e.g., accented characters -- unless spelled with combining diacritics).

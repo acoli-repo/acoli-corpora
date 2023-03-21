@@ -121,3 +121,87 @@ txt: vtt
 			cd ..;\
 		fi;\
 	done;\
+
+#######################################
+# sentence splitting and tokenization #
+#######################################
+# conservative whitespace tokenization
+
+tok: txt
+	if [ ! -e tok ]; then mkdir tok; fi
+	cd txt;\
+	for lang in */; do \
+		if [ ! -e ../tok/$$lang ]; then mkdir ../tok/$$lang; fi;\
+		for file in $$lang/*.txt; do \
+			echo txt/$$file ">" tok/$$file 1>&2;\
+			cat $$file \
+			| perl -pe 's/^/ /g; s/\n/<br>/g; s/\s+/ /g; s/<br>/ \n /g; s/ +/ /g;' \
+			| perl -pe 's/([!?,;:\)"\]-]+) / \1 /g; s/ ([\(\["]+)/ \1 /g; s/(\.) (["(\[]*]*)\s*([A-Z])/\1 \2 \3/g;' \
+			| perl -pe 's/([?!.][")\]]*) /\1\n/g;' \
+			| perl -pe 's/ +/ /g; s/^ //g; s/ +$$//g;' \
+			> ../tok/$$file;\
+		done;\
+	done;\
+
+#############
+# alignment #
+#############
+
+tools/hunalign:
+	@echo installing Hunalign, if you have a running instance, skip this step and create a symlink under tools/hunalign 1>&2
+	@echo sources under https://github.com/danielvarga/hunalign 1>&2
+	if [ ! -e tools/ ]; then mkdir tools; fi
+	cd tools; \
+	wget -nc ftp://ftp.mokk.bme.hu/Hunglish/src/hunalign/latest/hunalign-1.1.tgz; \
+	tar zxvf hunalign-1.1.tgz;\
+	cd hunalign-1.1/src/hunalign;\
+	make;\
+	ln -s hunalign-1.1/src/hunalign/hunalign .
+
+dicts: tok tools/hunalign
+	if [ ! -e dicts ]; then mkdir dicts; fi
+	cd tok; \
+	for lang in *; do \
+		if [ $$lang != en ]; then \
+			for file in $$lang/*.txt ; do \
+				if [ -e en/`basename $$file` ]; then \
+					echo prep $$file 1>&2; \
+					cat en/`basename $$file` >> ../dicts/en4`basename $$lang`.txt;\
+					cat $$file >> ../dicts/`basename $$lang`4en.txt;\
+				fi;\
+			done;\
+			echo > ../dicts/$$lang.dic; \
+			echo build dicts/$$lang.dic 1>&2; \
+			#if timeout 10m --kill-after=11m \
+			if timeout -k 11m 10m \
+				../tools/hunalign ../dicts/$$lang.dic ../dicts/en4`basename $$lang`.txt ../dicts/`basename $$lang`4en.txt -utf -realign -autodict=../dicts/$$lang.dic >/dev/null; \
+			then \
+				echo "dicts/$$lang.dic:" `cat dicts/$$lang.dic | wc -l` entries 1>&2;\
+			else \
+				echo "dicts/$$lang.dic:" realign timeout 1>&2;\
+			fi;\
+			rm ../dicts/en4`basename $$lang`.txt ../dicts/`basename $$lang`4en.txt;\
+		fi;\
+	done;\
+
+align: dicts tok tools/hunalign
+	if [ ! -e align ]; then mkdir align; fi;
+	cd tok; \
+	for lang in *; do \
+		if [ $$lang != en ]; then \
+			if [ ! -e ../align/$$lang ] ; then mkdir ../align/$$lang ; fi; \
+			if [ -e ../dicts/$$lang.dic ]; then \
+				for file in $$lang/*.txt ; do \
+					if [ -e en/`basename $$file` ]; then \
+						echo align $$file 1>&2; \
+						../tools/hunalign ../dicts/$$lang.dic en/`basename $$file` $$file -utf -realign -text -autodict=../dicts/$$lang.dic2 > ../align/$$file;\
+						if [ -s ../dicts/$$lang.dic2 ]; then \
+							cat ../dicts/$$lang.dic ../dicts/$$lang.dic2 | sort -u > ../dicts/$$lang.dic3;\
+							mv ../dicts/$$lang.dic3 ../dicts/$$lang.dic;\
+						fi;\
+						if [ -e ../dicts/$$lang.dic2 ]; then rm ../dicts/$$lang.dic2; fi; \
+					fi;\
+				done;\
+			fi;\
+		fi; \
+	done;
