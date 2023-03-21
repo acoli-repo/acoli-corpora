@@ -64,10 +64,6 @@ update_sources:
 			if rmdir vtt/$$file 2>/dev/null; then echo ' empty' 1>&2; else echo ' '; ls vtt/$$file | perl -pe 's/\s/ /g; s/\.vtt//g;' 1>&2; echo 1>&2; fi;\
 		fi;\
 	done;
-	for dir in vtt/*; do \
-		
-
-			done
 	make update_segments
 
 # automatically called after make update_sources
