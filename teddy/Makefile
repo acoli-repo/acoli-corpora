@@ -1,4 +1,4 @@
-SHELL=/usr/bin/bash
+SHELL=bash
 
 all: vtt
 
