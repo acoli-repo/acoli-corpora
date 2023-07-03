@@ -1,6 +1,6 @@
 SHELL=bash
 
-all: vtt
+all: vtt txt tok core
 
 # removes all generated directories and runs make from scratch
 # this is useful to update previously downloaded TED talks with new subtitles, these aren't retrieved otherwise
@@ -205,3 +205,50 @@ align: dicts tok tools/hunalign
 			fi;\
 		fi; \
 	done;
+
+###############
+# core corpus #
+###############
+# (a) 10.000 toks en, top 15 most translated files containing de,es,pt,it,fr
+# (b) 125.000 toks en, top 100 most translated files containing de,es,pt,it,fr
+
+# size checked with
+# for file in `cat ../core_corpus.txt`; do cat en/$file; done | wc -w
+
+core_corpus.txt: tok
+	if [ ! -e core_corpus.txt ]; then \
+		for file in tok/en/*; do \
+			if [ -e tok/de/`basename $$file` ]; then \
+			if [ -e tok/es/`basename $$file` ]; then \
+			if [ -e tok/pt/`basename $$file` ]; then \
+			if [ -e tok/it/`basename $$file` ]; then \
+			if [ -e tok/fr/`basename $$file` ]; then \
+				echo -n `basename $$file`' '; \
+				echo tok/*/`basename $$file` \
+				| wc -w; \
+			fi; fi; fi; fi; fi;\
+		done \
+		| sed s/' '/'\t'/g \
+		| sort -nr -k 2 \
+		| tee core-corpus_full.txt \
+		| cut -f 1 \
+		| head -n 100 > core_corpus.txt;\
+	fi;
+
+core: core_corpus.txt
+	for file in `cat core_corpus.txt | cut -f 1 -d '.' `; do \
+		for dir in *; do \
+			for lang in $$dir/*; do \
+				lang=`basename $$lang`; \
+				for src in $$dir/$$lang/$$file.*; do \
+					if [ -e $$src ]; then \
+						if [ ! -e core/$$lang/$$dir ]; then mkdir -p core/$$lang/$$dir; fi;\
+						cp $$src core/$$lang/$$dir/;\
+						echo $$src 1>&2;\
+					fi;\
+				done;\
+			done;\
+		done;\
+	done;\
+
+
