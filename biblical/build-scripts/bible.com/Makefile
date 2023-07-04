@@ -126,6 +126,7 @@ langs:
 				echo langs/$$tgt.html ok 1>&2;\
 			else \
 				rm $$tgt; \
+				break;\
 			fi;\
 		done;\
 	fi;\
