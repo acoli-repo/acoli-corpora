@@ -46,10 +46,12 @@ html: langs.txt
 							| cut -f 2 -d '"' \
 							| grep '/bible/' -m 1`;\
 						rm $$vdir/tmp.html;\
-						if wget https://www.bible.com/$$chap -O $$vdir/tmp.html; then \
-							echo $$chap 1>&2;\
-						else \
-							rm $$vdir/tmp.html;\
+						if echo $$chap | egrep '[A-Z0-9]'; then \
+							if wget https://www.bible.com/$$chap -O $$vdir/tmp.html; then \
+								echo $$chap 1>&2;\
+							else \
+								rm $$vdir/tmp.html;\
+							fi;\
 						fi;\
 					done;\
 					if [ -e $$vdir/tmp.html ]; then rm $$vdir/tmp.html; fi; \
