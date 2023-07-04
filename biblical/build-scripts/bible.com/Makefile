@@ -50,7 +50,6 @@ html: langs.txt
 							echo $$chap 1>&2;\
 						else \
 							rm $$vdir/tmp.html;\
-							break;\
 						fi;\
 					done;\
 					if [ -e $$vdir/tmp.html ]; then rm $$vdir/tmp.html; fi; \
