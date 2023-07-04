@@ -56,7 +56,6 @@ html: langs.txt
 					if [ -e $$vdir/tmp.html ]; then rm $$vdir/tmp.html; fi; \
 				fi;\
 			done;\
-			exit 1;\
 		done; \
 	fi;
 
