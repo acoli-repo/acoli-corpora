@@ -14,3 +14,4 @@ TODOs:
 
 Note:
 - bible.com seems to supersede and incorporate information from most earlier Bible aggregator portals. However, we don't have copyright clearance, so the old data is still valuable because its copyright protection expires much earlier.
+- the language table is incomplete, so `retrieve-by-nr.sh` provides an alternative mode of retrieval, where only the version number is to be provided (e.g., 455 or 3223). At the moment, we cannot retrieve the language code in this manner, but in case we can, this method should replace the current implementation in `Makefile`.  
