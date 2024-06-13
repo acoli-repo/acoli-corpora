@@ -1,6 +1,7 @@
 # author: Charles Perrault
 # title: Blaubart
 # source: Charles Perrault. Märchen. Sammlung aus dem Projekt Gutenberg-DE
+# note: Gutenberg-DE does not provide a proper references, but this seems to be the same text as provided in the retelling(!) by Moritz Hartmann (1872), Märchen von Pellault neu erzählt von Moritz Hartmann, Hallberger, Stuttgart, 3. Auflage
 # url: https://www.projekt-gutenberg.org/perrault/maerchen/chap002.html
 
 Es war einmal ein Ritter, der besaß viele Häuser in der Stadt und viele

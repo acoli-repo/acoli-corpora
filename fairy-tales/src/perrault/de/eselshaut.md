@@ -1,6 +1,7 @@
 # author: Charles Perrault
 # title: Eselshaut
 # source: Charles Perrault. Märchen. Sammlung aus dem Projekt Gutenberg-DE
+# note: Gutenberg-DE does not provide a proper references, but this seems to be the same text as provided in the retelling(!) by Moritz Hartmann (1872), Märchen von Pellault neu erzählt von Moritz Hartmann, Hallberger, Stuttgart, 3. Auflage
 # url: https://www.projekt-gutenberg.org/perrault/maerchen/chap005.html
 
 Es war einmal, aber es ist schon lange her, ein großer König, der war

@@ -1,5 +1,6 @@
 # author: Charles Perrault
 # source: Gutenberg-DE
+# note: Gutenberg-DE does not provide a proper references, but this seems to be the same text as provided in the retelling(!) by Moritz Hartmann (1872), Märchen von Pellault neu erzählt von Moritz Hartmann, Hallberger, Stuttgart, 3. Auflage
 # title:  Der kleine Däumling
 # url: https://www.projekt-gutenberg.org/perrault/maerchen/chap003.html
 
