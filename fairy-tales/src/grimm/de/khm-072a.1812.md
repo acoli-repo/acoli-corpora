@@ -1,0 +1,11 @@
+# author: Gebrüder Grimm
+# source: Gebrüder Grimm (1812/15), Kinder- und Haus-Märchen. Band 1 (1812), Band 2 (1815), 1. Auflage, Realschulbuchhandlung, Berlin
+# url: https://de.wikisource.org/wiki/Das_Birnli_will_nit_fallen_(1812)
+# note: de.wikisource.org
+
+Der Herr will das Birnli schüttle, das Birnli will nit fallen: der Herr, der schickt das Jockli hinaus, es soll das Birnli schüttle: das Jockli schüttelts Birnli nit, das Birnli will nit fallen.  Da schickt der Herr das Hündli naus, es soll das Jockli beißen: das Hündli beißt das Jockli nit, das Jockli schüttelts Birnli nit, das Birnli will nit fallen.  Da schickt der Herr das Prügeli naus, es soll das Hündli treffen: 
+
+das Prügeli trifft das Hündli nit, das Hündli beißt das Jockli nit, das Jockli schüttelts Birnli nit, das Birnli will nit fallen.  Da schickt der Herr das Fürli (Feuer) naus, es soll das Prügeli brennen: das Fürli brennt, das Prügeli nit, das Prügeli trifft das Hündli nit, das Hündli beißt das Jockli nit, das Jockli schüttelts Birnli nit, das Birnli will nit fallen.  Da schickt der Herr das Wässerli naus, es soll das Fürli löschen: das Wässerli löscht das Fürli nit, das Fürli brennt das Prügeli nit, das Prügeli trifft das Hündli nit, das Hündli beißt das Jockli nit, das Jockli schüttelts Birnli nit, das Birnli will nit fallen.  Da schickt der Herr das Kälbli naus, es soll das Wässerli läpple: (trinken) das Kälbli läppelt das Wässerli nit, das Wässerli löscht das Fürli nit, das Fürli brennt das Prügeli nit, das Prügeli trifft das Hündli nit, das Hündli beißt das Jockli nit, das Jockli schüttelts Birnli nit, das Birnli will nit fallen.  Da schickt der Herr den Metzger naus, er soll das Kälbli metzle: 
+
+der Metzger metzelts Kälbli nit, das Kälbli läppelt das Wässerli nit, das Wässerli löscht das Fürli nit, das Fürli brennt das Prügeli nit, das Prügeli trifft das Hündli nit, das Hündli beißt das Jockli nit, das Jockli schüttelts Birnli nit, das Birnli will nit fallen.  Da schickt der Herr den Schinder naus, er soll den Metzger hängen: der Schinder will den Metzger hänge, der Metzger will das Kälbli metzle, das Kälbli will das Wässerli läpple, das Wässerli will das Fürli lösche, das Fürli will das Prügeli brenne, das Prügeli will das Hündli treffe, das Hündli will das Jockli beiße, das Jockli will das Birnli schüttle, das Birnli das will fallen. 
+

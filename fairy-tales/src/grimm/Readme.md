@@ -7,3 +7,6 @@
 	- `en/`: `cd en/; make 1884`
 - en (1823, translated from de 1812)
 	- `en/*1823-alm.md`: manually derived from http://people.rc.rit.edu/~coagla/affectdata/index.html, automated mapping with `en/*1884.md` by (match-files.py)[../../scripts/match-files.py] with ngram size 5 in [alm2khm.tsv](alm2khm.tsv)
+- de (1812/15) (1. Ausgabe), automatically build (`cd de/; make 1812`), but IDs semiautomatically mapped
+	- `de/`: mapping with score < 0.5 manually, using https://khm.li/)
+	- `nds/`: `mv $(egrep -l -i ' dat ' de/*.md) nds/`

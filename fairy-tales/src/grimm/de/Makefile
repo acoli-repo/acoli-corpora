@@ -47,3 +47,55 @@
 		echo $$file '>' ../nds 1>&2; \
 		mv $$file ../nds; \
 	done;\
+
+1812:
+	@author="Gebrüder Grimm";\
+	source="Gebrüder Grimm (1812/15), Kinder- und Haus-Märchen. Band 1 (1812), Band 2 (1815), 1. Auflage, Realschulbuchhandlung, Berlin";\
+	urls="https://de.wikisource.org/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_1_(1812) https://de.wikisource.org/wiki/Kinder-_und_Haus-M%C3%A4rchen_Band_2_(1815)";\
+	note="de.wikisource.org";\
+	year=1812;\
+	nr2paths=$$(\
+		for url in $$urls; do \
+			wget $$url -O - 2>/dev/null \
+			| perl -pe 's/\s+/ /g; s/</\n</g; s/>/>\n/g;' \
+			| sed s/' '/'\n'/g \
+			| grep href \
+			| grep '#Seite' \
+			| cut -f 2 -d '"' \
+			| cut -f 1 -d '#'; \
+		done \
+		| egrep -n .; \
+	);\
+	for nr2path in $$nr2paths; do \
+		nr=`echo $$nr2path | cut -f 1 -d ':'`;\
+		nr=`echo 0000$$nr | sed s/'^0*\([0-9][0-9][0-9]\)$$/\1/g;'`;\
+		tgt=khm1-$$nr.$$year.md;\
+		path=`echo $$nr2path | cut -f 2- -d ':'`;\
+		url=`echo $$urls | cut -f 1-3 -d '/'`;\
+		if [ ! -e $$tgt ]; then \
+		   (echo $$url$$path '>' $$tgt 1>&2;\
+			echo '# author: '$$author;\
+			echo '# source: '$$source;\
+			echo '# url: '$$url$$path;\
+			echo '# note: '$$note;\
+			echo;\
+			wget $$url$$path -O - 2>/dev/null \
+			| perl -pe 's/>/>\n/;' \
+			| xmllint -html -format -xpath "//*[name()='p' or name()='h2']" - 2>/dev/null \
+			| pandoc -f html - -t markdown \
+			| grep -v ':::' \
+			| grep -v '# Inhaltsverzeichnis' \
+			| egrep -B 9999999 -m 1 '^##' \
+			| grep -v '^#' \
+			| perl -pe 's/\\\n/ /g;' \
+			| perl -pe 's/([^\s])\n/\1 /g; s/\n/\n\n/g;' \
+			| perl -pe 'while(m/.*\{[^\{\}]*\}.*/) { s/\{[^\{\}]*\}//g; };' \
+			| perl -pe 'while(m/.*\[[^\[\]]*\].*/) { s/\[[^\[\]]*\]//g; };' \
+			| perl -pe 's/^\*\*([^\n]*)\*\*\s+/# title: \1\n\n/g;' \
+			| grep -P '[^\s]' \
+			| perl -pe 's/\n/\n\n/g';\
+		   ) > $$tgt;\
+		fi;\
+	done;\
+	echo "warning: map manually from khm1 format to KHM (7th ed.) numbers" 1>&2;\
+	echo "warning: also manually move Low German into ../nds" 1>&2;\
