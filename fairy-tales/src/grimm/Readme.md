@@ -10,3 +10,9 @@
 - de (1812/15) (1. Ausgabe), automatically build (`cd de/; make 1812`), but IDs semiautomatically mapped
 	- `de/`: mapping with score < 0.5 manually, using https://khm.li/)
 	- `nds/`: `mv $(egrep -l -i ' dat ' de/*.md) nds/`
+
+## Known issues
+
+- in the German 1857 version, our file khm-152 is actually  KHM-151\* and all the following numbers are set off by 1. This is also true for anything aligned with the German 1857 verson (i.e. for *all* data)
+	- until it is confirmed that this offset is a systematic error: **ONLY USE FILES until khm-150!!!**
+	- for the "official" numbering see https://khm.li/
