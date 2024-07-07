@@ -1,4 +1,8 @@
-# Grimm from grimmstories.com
+# Stating Area for Grimm
+
+## www.grimmstories.com
+
+[**DONE**], partially hand-corrected and integrated with `../../grimm`
 
 massively multilingual, but no sources are provided. these are thus reconstructed by an online search for the oldest matching full text for texts in which we find some variation using Google Books and Google. Note that any potential source published after May 2006 may actually have been taken *from* the website instead, because that is when www.grimmstories.com was [registered](https://www.duplichecker.com/domain-age-checker.php)). In particular, this is the case for obscure bulk eBooks without additional artwork. However, these eBooks typically cost 0.99€, the original sources are in the public domain and the language is designed to be simple so that the creative height might not even be sufficient to count in court, so there is absolutely no financial risk here.
 
