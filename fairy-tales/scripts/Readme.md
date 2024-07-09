@@ -1,1 +1,0 @@
-the mapping in `mapping.txt` seems to be perfect (even the last three match, although they come from very different versions), but the versions are quite different from each other.
