@@ -8,10 +8,9 @@ Currently covering 1000+ languages in five, partially overlapping collections:
 - cuneiform (3 corpora, Sumerian)
 - Germanic languages (13 languages, in parts with annotations for syntax and semantics)
 - verse-aligned bibles (100+ languages, verse-aligned; build scripts for 700+ languages)
-- parallel corpora (aside from the Bible, this includes the Teddy corpus with TED talks for 1688 languages)
+- parallel corpora (aside from the Bible, this includes the Teddy corpus with TED talks for 1688 languages as well as a small-size corpus of parallel text, no alignment)
 
 ## Content
-
 
 | language       | collection | name+link    | comments   |
 | -------------- | -----------| ------------ | ----- |
@@ -137,6 +136,30 @@ Currently covering 1000+ languages in five, partially overlapping collections:
 | Zulu (zul) | Biblical | [Bible](biblical/data/niger-congo/zul_zulu) | verse-aligned, CES/XML |
 |  |  |   |   |
 |  1688 languages       | parallel   | [Teddy Corpus](teddy/) | TED transcripts and build routine |
+|  |  |   |   |
+| Danish (da) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| German (de) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Greek (el) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| English (en) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Esperanto (eo) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Spanish (es) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Finnish (fi) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| French (fr) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Hungarian (hu) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Italian (it) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Japanese (ja) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Korean (ko) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Low German (nds) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Dutch (nl) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Polish (pl) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Portuguese (pt) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Romanian (ro) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Russian (ru) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Turkish (tr) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Ukrainian (uk) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Vietnamese (vi) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+| Chinese (zh) 			| parallel   | [fairy tales](https://github.com/acoli-repo/fairy-child) | parallel text, no alignment |
+
 
 ## Setting it up
 
