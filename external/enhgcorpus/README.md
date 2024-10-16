@@ -7,14 +7,19 @@ We provide the originally released version 0.5 of the data in its original form 
 Also note that only the data is provided, the accompanying documentation (published on the website, not part of the data release) is lost. In particular, this includes the documentation any the specifics of the annotation scheme. Much of this can be recovered from the [Penn-style annotations](https://www.ling.upenn.edu/hist-corpora/other-corpora.html) for Old English and Icelandic, and this information is also partially covered in the PhD thesis of [Caitlin Light](https://www.ling.upenn.edu/~clight/), _The syntax and pragmatics of fronting in Germanic_. The thesis is publicly available [from ProQuest](https://www.proquest.com/docview/1289068283), and a summary can be found in a [presentation](http://www.ling.upenn.edu/~clight/newcastle-talk.pdf) by Caitlin Light.
 
 Christian Chiarcos
+
 Applied Computational Linguistics
+
 University of Augsburg, Germany
 
 ## Metadata
 
 Version 0.5
+
 Copyright 2011 Caitlin Light
+
 Website: http://enhgcorpus.wikispaces.com/
+
 Contact: clight@babel.ling.upenn.edu
 
 ## Licensing and acknowledgments
