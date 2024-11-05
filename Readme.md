@@ -8,7 +8,7 @@ Currently covering 1000+ languages in five, partially overlapping collections:
 - cuneiform (3 corpora, Sumerian)
 - Germanic languages (13 languages, in parts with annotations for syntax and semantics)
 - verse-aligned bibles (100+ languages, verse-aligned; build scripts for 700+ languages)
-- parallel corpora (aside from the Bible, this includes the Teddy corpus with TED talks for 1688 languages as well as a small-size corpus of parallel text, no alignment)
+- parallel corpora (aside from the Bible, this includes the Teddy corpus with TED talks for 1688 languages as well as a small-size corpus of parallel text, note that these have text alignment, only)
 
 ## Content
 
