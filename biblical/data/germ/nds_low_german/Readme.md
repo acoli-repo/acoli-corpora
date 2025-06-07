@@ -1,5 +1,7 @@
 # Low German bibles and bible excerpts
 
+> DO NOT USE: migrated to https://github.com/nds-spraakverarbeiden/nds-bible
+
 compile with
 
 	$> make
