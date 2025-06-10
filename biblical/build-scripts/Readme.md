@@ -9,6 +9,7 @@ every sub-directory should provide a language-table.xml file to keep track of co
 	- **license**: CC0
 	- **build scripts**: For retrieval, only. Note that these bibles are not built, but just mirrorred (with full attribution, and used only if not provided independently), as they also use an XML version of Resnik's original DTD.
 - `bible.com`: YouVersion Bibles
+	- the original converter has been migrated to https://github.com/acoli-repo/bible-crawl (a private repo, for now) for improved portability, upon re-release of the corpus, these are to be migrated here
 	- **license**: https://www.bible.com/terms, relevant conditions:
 		- personal / non-commercial use: "personal and non-commercial use or for the internal use of your non-profit religious organization"
 		- no crawling: "you are not permitted ... [to] use any robot, spider, or other automatic device, process, or means to access YouVersion for any purpose, including monitoring or copying any of the material on YouVersion"
@@ -23,6 +24,8 @@ every sub-directory should provide a language-table.xml file to keep track of co
 		- no distribution: "you may not (a) modify, copy, distribute, decompile, disassemble, reverse engineer, create derivative works, or otherwise use or manipulate the Site or any of its content without our prior written consent"
 		- no extraction *into a DB*: "you will not use the Site for ... systematically extracting data contained in the Site or any linked Web Site to populate databases for internal or external use of any fashion" (we do not violate this, as we retrieve individual files)
 	- **build scripts**: for retrieval and CES/XML conversion 
+- `https://www.biblegateway.com/`: Bible Gateway
+	- converter discontinued after, needs to be reimplemented
 - `unbound.biola.edu/`: Unbound bibles
 	- **license**: tbc.
 	- **build scripts**: no longer operational (data provider abandoned the service)
